@@ -39,7 +39,7 @@ def parse_args() -> Args:
     p.add_argument('--output-dir', type=Path, default='output/repack_bundle/',
         help='directory to put repacked bundle contents to')
     p.add_argument('--required-bundles', nargs='+', type=Path, default=[
-        'dialogue_packages_assets_all',
+        # 'dialogue_packages_assets_all', # breaks the game if repacked via UnityPy
         'loc_packages_assets_',
     ], help='.bundle files to be unpacked')
     p.add_argument('--translations-dir', required=True, type=Path,
@@ -131,11 +131,20 @@ def repack_bundles(bundles: Dict[str, Path], translations: TranslationMap) -> No
 
 def find_translation(tag: str, scene: TranslationScene) -> str:
     for e in scene.entries:
-        if e.tag == tag:
-            if e.ru_final:
-                return e.ru_final
+        if e.tag != tag:
+            continue
+        if e.ru_final:
+            return e.ru_final
+        if e.ru_machine:
+            return e.ru_machine
+        if e.ru_native:
+            return e.ru_native
+        if e.en:
             return e.en
-    raise IndexError(f'Could not find translation entry with tag {tag}')
+        logger.warning(f'tag {tag} found but no valid translation present in map')
+        return ''
+    logger.error(f'Could not find translation entry with tag {tag}')
+    raise IndexError('No translation entry')
 
 
 def _main() -> None:

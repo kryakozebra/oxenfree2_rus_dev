@@ -83,8 +83,6 @@ def translate_scene_entries(entries: List[TranslationEntry]) -> None:
         logger.debug(f'translate: {e.tag}')
         if e.ru_machine or e.ru_native or e.ru_final:
             logger.debug('translate: ru text exists')
-            if e.ru_machine and not e.ru_machine.startswith('{D}'):
-                e.ru_machine = '{D} ' + e.ru_machine
             continue
         if not e.en:
             logger.warning('translate: no en text')

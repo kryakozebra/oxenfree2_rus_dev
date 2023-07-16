@@ -83,7 +83,7 @@ def csv_to_map(csvfile: Iterable[Iterable[str]]) -> TranslationMap:
             en=en,
             ru_native=ru,
             ru_machine='',
-            ru_final=ru,
+            ru_final='',
             verified=False,
             uk=uk,
         )
