@@ -106,5 +106,9 @@ def translate_scene_entries(entries: List[TranslationEntry]) -> None:
         logger.debug(f'translate: result: {e.ru_machine}')
 
 
-if __name__ == '__main__':
+def _main() -> None:
     main(parse_args())
+
+
+if __name__ == '__main__':
+    _main()

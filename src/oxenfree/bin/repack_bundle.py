@@ -138,5 +138,9 @@ def find_translation(tag: str, scene: TranslationScene) -> str:
     raise IndexError(f'Could not find translation entry with tag {tag}')
 
 
-if __name__ == '__main__':
+def _main() -> None:
     main(parse_args())
+
+
+if __name__ == '__main__':
+    _main()

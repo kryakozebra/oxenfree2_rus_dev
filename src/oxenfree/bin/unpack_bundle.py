@@ -153,5 +153,9 @@ def dump_text_map(text_map: TextMap, output_dir: Path) -> None:
     logger.info('writing done')
 
 
-if __name__ == '__main__':
+def _main() -> None:
     main(parse_args())
+
+
+if __name__ == '__main__':
+    _main()

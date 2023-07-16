@@ -107,5 +107,9 @@ def dump_map(entries_map: TranslationMap, output_dir: Path) -> None:
     logger.info('saving done')
 
 
-if __name__ == '__main__':
+def _main() -> None:
     main(parse_args())
+
+
+if __name__ == '__main__':
+    _main()

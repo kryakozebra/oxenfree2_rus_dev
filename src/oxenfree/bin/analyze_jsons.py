@@ -84,5 +84,9 @@ def get_translation_map(translations_dir: Path) -> TranslationMap:
     return result
 
 
-if __name__ == '__main__':
+def _main() -> None:
     main(parse_args())
+
+    
+if __name__ == '__main__':
+    _main()
