@@ -1,0 +1,1086 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.ARRIVE",
+    "entries": [
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0000_OPTION_0000",
+            "en": "Probably happened more than once.",
+            "ru_native": "Наверное, это было не один раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, це відбувалося не один раз."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0000_OPTION_0001",
+            "en": "Bridges are creepy.",
+            "ru_native": "Мосты жуткие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мости моторошні."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0000_OPTION_0002",
+            "en": "Why is this mind-blowing?",
+            "ru_native": "Почему не укладывается?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому непокоїть?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0001_OPTION_0000",
+            "en": "It’s just a bridge.",
+            "ru_native": "Это просто мост.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж просто міст."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0001_OPTION_0001",
+            "en": "It might still mean something.",
+            "ru_native": "Он все равно может что-то значить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він усе одно може щось означати."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0001_OPTION_0002",
+            "en": "Happens to all of us.",
+            "ru_native": "Нас всех это ждет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З усіма трапляється."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0002_OPTION_0000",
+            "en": "It’s unavoidable.",
+            "ru_native": "Это неизбежно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цього не уникнути."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0002_OPTION_0001",
+            "en": "Who could forget you?",
+            "ru_native": "Кто мог бы тебя забыть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто може забути тебе?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0002_OPTION_0002",
+            "en": "Living forever’s scarier.",
+            "ru_native": "Жить вечно еще страшнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жити вічно ще страшніше."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0003_OPTION_0000",
+            "en": "The Fix-It Man!",
+            "ru_native": "Мастер на все руки!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Майстер на всі руки!"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0003_OPTION_0001",
+            "en": "Hoodie Guy!",
+            "ru_native": "Фанат толстовок!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цінитель толстовок!"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0003_OPTION_0002",
+            "en": "Questionable Pet Owner!",
+            "ru_native": "Сомнительный собаковод!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумнівний собаковод!"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0004_OPTION_0000",
+            "en": "“Who’s there?”",
+            "ru_native": "«Кто там?»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Хто там?»"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0004_OPTION_0001",
+            "en": "Pass.",
+            "ru_native": "Пас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пас."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0004_OPTION_0002",
+            "en": "“It’s open!”",
+            "ru_native": "«Открыто!»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Відчинено!»"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0005_OPTION_0000",
+            "en": "Howie who?",
+            "ru_native": "«Какмы» кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Якми» хто?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0005_OPTION_0001",
+            "en": "Nevermind.",
+            "ru_native": "Забей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0006_OPTION_0000",
+            "en": "Terrible.",
+            "ru_native": "Ужас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жахливо."
+        },
+        {
+            "tag": "A2G2.ARRIVE_CHOICE_0006_OPTION_0001",
+            "en": "Beautiful.",
+            "ru_native": "Красиво.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прекрасно."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0000",
+            "en": "You know, it always blows my mind that someone had to, uh, invent the bridge.",
+            "ru_native": "Знаешь, у меня в голове не укладывается, как люди вообще придумали мост.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, мене непокоїть одна думка, як люди винайшли міст."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0001",
+            "en": "Like, I know they happen naturally, lightning hits a tree and it falls down and all that—",
+            "ru_native": "Да, я понимаю, что это произошло естественно: молния попала в дерево, оно упало и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що це сталося природно: блискавка попала в дерево, воно впало тощо."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0002",
+            "en": "—but at least once at one point there was some guy looking at a river going, “Hey, wait a second!”",
+            "ru_native": "...но наверняка был какой-то парень, который посмотрел на реку и сказал: «Постойте!»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але мабуть хтось глянув на річку і сказав: «Гей! Стривайте!»"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0003",
+            "en": "But, uh, anyways, I was just saying how it blows my mind that anybody ever had to invent a bridge.",
+            "ru_native": "Я просто не могу представить, как кому-то пришло в голову изобрести мост.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не можу уявити, як комусь спало на думку винайти міст."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0004",
+            "en": "“We can just go over it!”",
+            "ru_native": "«Мы можем просто перейти ее!»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Ми можемо просто перейти її!»"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0005",
+            "en": "Ya know?",
+            "ru_native": "Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0006",
+            "en": "Where’s that person’s biography?",
+            "ru_native": "Где биография этого человека?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де біографія тієї людини?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0007",
+            "en": "You know?",
+            "ru_native": "Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0008",
+            "en": "Who’s that guy?",
+            "ru_native": "Кто этот парень?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто він був?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0009",
+            "en": "It’s just—it’s like the wheel. It seems so obvious, but I guess only in retrospect.",
+            "ru_native": "Это как с колесом. Вроде очевидно, но только если смотреть в прошлое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж ніби з колесом. Здається очевидним, але лише якщо дивитися в минуле."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0010",
+            "en": "Or maybe everything’s more interesting when you’re an insomniac with spotty internet.",
+            "ru_native": "А может, все кажется интереснее, если у тебя бессонница и плохой Интернет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи може все набагато цікавіше, коли в тебе безсоння й повільний інтернет."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0011",
+            "en": "They, uh—I was saying that they put this bridge up in the late 1800’s.",
+            "ru_native": "Я к тому, что они построили этот мост в конце XIX века.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я до того, що цей міст збудували наприкінці 19-го сторіччя."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0012",
+            "en": "They, uh, they put this one up in the late 1800s.",
+            "ru_native": "Они построили этот мост в конце XIX века.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цей міст звели наприкінці 19-го сторіччя."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0013",
+            "en": "I guess that’s why I’m thinking about it.",
+            "ru_native": "Наверное, поэтому и пришло в голову.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, тому я й думаю про нього."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0014",
+            "en": "How people must have looked at it—the bridge. For some people, it was their only way to work.",
+            "ru_native": "Чем был для людей этот... мост. Кто-то ходил по нему на работу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як люди дивилися на міст. Хтось ходив цим мостом на роботу."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0015",
+            "en": "Maybe it was where they had their first kiss, right? First fist fight? Where they proposed…",
+            "ru_native": "Кто-то на нем первый раз поцеловался? Подрался? Сделал предложение...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось на ньому вперше поцілувався? Уперше побився? Покликав заміж…"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0016",
+            "en": "But now? That bridge… doesn’t mean anything.",
+            "ru_native": "А сейчас? Этот мост... ничего не значит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер? Це міст… нічого не значить."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0017",
+            "en": "But anyways I was… saying that this bridge once meant something to a lot of people.",
+            "ru_native": "В общем, я хочу сказать, что когда-то этот мост что-то значил для многих людей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі я… кажу, що колись цей міст значив щось для багатьох людей."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0018",
+            "en": "And now it doesn’t really mean anything.",
+            "ru_native": "А теперь он вообще ничего не значит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер не значить нічого."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0019",
+            "en": "Garland doesn’t mean anything.",
+            "ru_native": "Гарленд ничего не значит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарленд нічого не значить."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0020",
+            "en": "To nobody.",
+            "ru_native": "Ни для кого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нікому."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0021",
+            "en": "Or—anybody.",
+            "ru_native": "Для кого угодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зовсім."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0022",
+            "en": "This <i>town</i> doesn’t mean anything.",
+            "ru_native": "Этот город ничего не значит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це <i>місто</i> нічого не значить."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0023",
+            "en": "It’s just—ya know—I don’t know… it just makes you think.",
+            "ru_native": "Это просто... не знаю. Заставляет задуматься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж просто… змушує замислитися."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0024",
+            "en": "Or something close to it.",
+            "ru_native": "Или типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи якось так."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0025",
+            "en": "It’s just—here’s the point I was getting to about the bridge.",
+            "ru_native": "Просто... Я вот к чему веду, говоря про мост.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… я от до чого веду із цим мостом."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0026",
+            "en": "I just—here’s the thing. Here’s the point I’m landing on.",
+            "ru_native": "Я просто... вот к чему веду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От у чому справа. От до чого я веду."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0027",
+            "en": "I don’t want to live forever, but I don’t want to die forever either.",
+            "ru_native": "Я не хочу жить вечно. Но и вечной смерти тоже не хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хочу жити вічно, але і вмирати вічно теж не хочу."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0028",
+            "en": "You know what I mean?",
+            "ru_native": "Ты меня понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0029",
+            "en": "But, what I was saying before—I just don’t want to live forever, you know?",
+            "ru_native": "Но, как я уже сказал... Я просто не хочу жить вечно, понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вів до того, що я просто не хочу жити вічно. Розумієш?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0030",
+            "en": "But I’m too scared to die.",
+            "ru_native": "Но мне слишком страшно умирать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але мені надто страшно вмирати."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0031",
+            "en": "I don’t want to be actual nothing, ya know?",
+            "ru_native": "Я не хочу превратиться в ничто, понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хочу перетворитися на ніщо. Розумієш?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0032",
+            "en": "But an eternal consciousness is just as scary.",
+            "ru_native": "Но вечное сознание еще страшнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але вічна свідомість так само лякає."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0033",
+            "en": "Does that make sense?",
+            "ru_native": "Ты понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти що-небудь розумієш?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0034",
+            "en": "It’s a, uh… it’s a conundrum.",
+            "ru_native": "Это... это порочный круг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… головоломка."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0035",
+            "en": "Great, let’s upgrade the dread from mortal to existential.",
+            "ru_native": "Отлично, давай повысим уровень со страха смерти до экзистенциального.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, піднімімо рівень зі страху смерті до питання буття."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0036",
+            "en": "Maybe it—yeah, maybe it doesn’t.",
+            "ru_native": "Может, да. А может, и нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може… може й не страшніше."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0037",
+            "en": "Great, couldn’t think of anything. Perfect.",
+            "ru_native": "Супер, я бы сам не додумался. Идеально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, більше нічого на думку не спало. Клас."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0038",
+            "en": "Oh. Thank you.",
+            "ru_native": "О. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, дякую."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0039",
+            "en": "Okay. This is how my mind works—I just remembered something.",
+            "ru_native": "Ладно. У меня мозг так устроен... Просто кое-что вспомнил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, так працює мій мозок. Я просто згадав дещо."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0040",
+            "en": "Knock knock.",
+            "ru_native": "Тук-тук.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стук-стук."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0041",
+            "en": "Uh...now you go.",
+            "ru_native": "Твоя очередь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер ти."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0042",
+            "en": "Knock knock.",
+            "ru_native": "Тук-тук.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стук-стук."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0043",
+            "en": "But—no?",
+            "ru_native": "Ну... нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0044",
+            "en": "Well… your loss! It was a real corker.",
+            "ru_native": "Ну... ты проиграла! Это был просто разрыв.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… ти програла! То був просто розрив."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0045",
+            "en": "It’s open who—or—wait.",
+            "ru_native": "«Открыто» кто... или... постой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Відчинено» хто чи.. чекай."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0046",
+            "en": "… damn you.",
+            "ru_native": "...черт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…бляха."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0047",
+            "en": "Oh… no?",
+            "ru_native": "О нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ні?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0048",
+            "en": "Howie.",
+            "ru_native": "Какмы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якми."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0049",
+            "en": "<i>ahem</i>",
+            "ru_native": "*кхм*",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "*кхм*"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0050",
+            "en": "Howie.",
+            "ru_native": "Какмы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якми."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0051",
+            "en": "Alright, you know what, I won’t say that I’m not disappointed.",
+            "ru_native": "Ладно, не стану скрывать, что я разочарован.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, знаєш, не скажу, що я не розчарований."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0052",
+            "en": "Because I am disappointed.",
+            "ru_native": "Потому что я разочарован.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже я розчарований."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0053",
+            "en": "… Uh. Okay then. One man show it is.",
+            "ru_native": "...Ну ладно. Это шоу одного актера.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Тоді шоу одного актора."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0054",
+            "en": "Howie gonna hide this dead body.",
+            "ru_native": "Апч-кто. Будь здорова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Апч-хто. Будь здорова."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0055",
+            "en": "[sigh] Great job, Jake.",
+            "ru_native": "Молодец, Джейк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Молодець, Джейку."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0056",
+            "en": "Howie gonna hide this dead body.",
+            "ru_native": "Какмы спрячем этот труп.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якми сховаємо цей труп."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0057",
+            "en": "Get it?",
+            "ru_native": "Уловила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уловила?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0058",
+            "en": "I thought it… slightly… relevant? Maybe not.",
+            "ru_native": "Я думал, это как-то... в тему? Может, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я гадав, це якось у тему. Ні?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0059",
+            "en": "I know.",
+            "ru_native": "Знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0060",
+            "en": "Yeah yeah.",
+            "ru_native": "Да-да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0061",
+            "en": "Just trying to lighten the—never mind.",
+            "ru_native": "Просто послушай... неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто намагаюся… не зважай."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0062",
+            "en": "There’s a chapel up the hill, here, that might work for a transmitter.",
+            "ru_native": "Здесь на холме есть часовня, можно поставить передатчик там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут на пагорбі є каплиця, яка може служити радіопередавачем."
+        },
+        {
+            "tag": "A2G2.ARRIVE_JACOB_0063",
+            "en": "C’mon, just this way.",
+            "ru_native": "Давай, сюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо, сюди."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0000",
+            "en": "I mean, it had to have happened more than one time.",
+            "ru_native": "Я хочу сказать, это должно было случиться не один раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу сказати, що це сталося не один раз."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0001",
+            "en": "There’s probably like a hundred “bridge inventors.”",
+            "ru_native": "Существует, наверное, сотни «изобретателей мостов».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть існує сотня винахідників моста."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0002",
+            "en": "I actually hate bridges. I think they’re creepy.",
+            "ru_native": "Я вообще ненавижу мосты. Они жуткие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі-то я ненавиджу мости. Мені від них моторошно."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0003",
+            "en": "Sure, they’re useful but like one wrong step, y'know?",
+            "ru_native": "Они, конечно, полезные, но один неверный шаг, и... понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж, вони корисні. Але один неправильний крок… Розумієш?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0004",
+            "en": "So, why is this, uh, mind-blowing?",
+            "ru_native": "Почему не укладывается?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому непокоїть?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0005",
+            "en": "C’mon, it’s a bridge.",
+            "ru_native": "Ладно тебе, это просто мост.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, це ж міст."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0006",
+            "en": "You get all misty-eyed about your toaster, too?",
+            "ru_native": "Ты и над своим тостером сокрушаешься, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти і свій тостер оплакуєш?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0007",
+            "en": "So you think. There could be a whole website dedicated to this one, simple bridge.",
+            "ru_native": "Это ты так думаешь. Этому простому мосту может быть посвящен целый сайт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ти так гадаєш. Цьому мосту може бути присвячений цілий сайт."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0008",
+            "en": "There’s a lot of weirdos and a lot of things weirdos obsess over.",
+            "ru_native": "Есть много странностей и много вещей, которые их притягивают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є багато речей, які притягують багато диваків."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0009",
+            "en": "The world is full of spiders and surprise.",
+            "ru_native": "Мир полон пауков и неожиданностей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У світі повно павуків і несподіванок."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0010",
+            "en": "Eh, one day you’re the only route to the morning paper.",
+            "ru_native": "Да, в один день ты – единственный путь к киоску с утренней газетой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, одного дня ти — єдиний шлях до кіоска з ранковою пресою."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0011",
+            "en": "The next—rust and obscurity. There’s probably a lesson in that.",
+            "ru_native": "А потом: ржавчина и забвение. Наверное, в этом есть мораль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А потім — іржа й забуття. У цьому, певно, є мораль."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0012",
+            "en": "Sure, but it’s, unavoidable.",
+            "ru_native": "Конечно, но это неизбежно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж, але цього не уникнути."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0013",
+            "en": "Eventually the universe will forget about Shakespeare.",
+            "ru_native": "В конце концов и про Шекспира забудут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Урешті решт всесвіт забуде про Шекспіра."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0014",
+            "en": "And if the bard ain’t going the distance, sorry, you ain’t, either.",
+            "ru_native": "А если великий поэт не остался в веках, то и ты тоже, увы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І якщо славетного барда забудуть, то, вибач, і тебе також."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0015",
+            "en": "Aw, c’mon, who could possibly forget you? You’re, uh…",
+            "ru_native": "Да ладно, кто про тебя забудет? Ты же...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, хто тебе може забути? Ти ж…"
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0016",
+            "en": "…you know…",
+            "ru_native": "...ну...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…розумієш…"
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0017",
+            "en": "Jacob Summers—Disheveled Fix-It Man For Hire.",
+            "ru_native": "Джейкоб Саммерс, Растрепанный Наемный Мастер На Все Руки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб Саммерс: розтріпаний найманий майстер на всі руки."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0018",
+            "en": "Jacob Summers—Just How Many Hoodies Can One Closet Hold?",
+            "ru_native": "Джейкоб Саммерс, Обладатель Целого Шкафа Толстовок!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб Саммерс: власник цілої шафи толстовок."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0019",
+            "en": "Jacob Summers—Questionable Pet Owner.",
+            "ru_native": "Джейкоб Саммерс, Сомнительный Собаковод.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб Саммерс: сумнівний собаковод."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0020",
+            "en": "Living forever’s definitely scarier.",
+            "ru_native": "Вечная жизнь определенно страшнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жити вічно однозначно страшніше."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0021",
+            "en": "Just… persisting. On and on. Without end. [gets a chill] No thanks.",
+            "ru_native": "Одно и то же. Снова и снова. Без конца. Нет уж, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Одне й те саме. Знову і знову. Без кінця. [здригається] Ні, дякую."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0022",
+            "en": "Hard pass.",
+            "ru_native": "Я пас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пас."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0023",
+            "en": "“It’s open!”",
+            "ru_native": "«Открыто!»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Відчинено!»"
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0024",
+            "en": "Who’s there?",
+            "ru_native": "Кто там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто там?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0025",
+            "en": "Howie who?",
+            "ru_native": "«Какмы» кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Якми» хто?"
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0026",
+            "en": "Yeah, never mind, I don’t know any Howie’s.",
+            "ru_native": "Ладно, проехали, я не знаю никаких «Какмы».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, не зважай. Я не знаю ніяких Якми."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0027",
+            "en": "That was awful.",
+            "ru_native": "Это было ужасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це жахливо."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0028",
+            "en": "Yeah that was beautiful.",
+            "ru_native": "Да, это было красиво.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це було прекрасно."
+        },
+        {
+            "tag": "A2G2.ARRIVE_RILEY_0029",
+            "en": "See ya later, I have to go jump off this bridge now.",
+            "ru_native": "Увидимся, мне пора с моста прыгать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Побачимося пізніше. Мені час стрибати з моста."
+        }
+    ]
+}

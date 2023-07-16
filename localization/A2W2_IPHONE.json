@@ -1,0 +1,420 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2_IPHONE",
+    "entries": [
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0000_OPTION_0000",
+            "en": "[Redial]",
+            "ru_native": "[Перезвонить]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Перенабрати]"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0000_OPTION_0001",
+            "en": "[Call 911]",
+            "ru_native": "[Позвонить в 911]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Зателефонувати 911]"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0000_OPTION_0002",
+            "en": "[Hang up]",
+            "ru_native": "[Повесить трубку]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Покласти слухавку]"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0001_OPTION_0000",
+            "en": "It’s not working…",
+            "ru_native": "Не работает...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не працює…"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0001_OPTION_0001",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0002_OPTION_0000",
+            "en": "This probably won’t work.",
+            "ru_native": "Скорее всего, это не сработает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоріше за все, це не спрацює."
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0002_OPTION_0001",
+            "en": "Who would believe us?",
+            "ru_native": "Кто нам поверит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто нам повірить?"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0002_OPTION_0002",
+            "en": "Gimme a second.",
+            "ru_native": "Дай секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дай мені секунду."
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0003_OPTION_0000",
+            "en": "We can still redial.",
+            "ru_native": "Можем перезвонить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можемо набрати останній номер."
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0003_OPTION_0001",
+            "en": "It’s not your fault.",
+            "ru_native": "Это не твоя вина.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не твоя провина."
+        },
+        {
+            "tag": "A2W2_IPHONE_CHOICE_0003_OPTION_0002",
+            "en": "Let’s just go.",
+            "ru_native": "Погнали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо звідси."
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0000",
+            "en": "[ID-1] [ALIAS] Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0001",
+            "en": "[ID-3] [ALIAS] Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0002",
+            "en": "[ID-4] Get anything?",
+            "ru_native": "Есть что-то?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є щось?"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0003",
+            "en": "[ID-6] [ALIAS] Ugh, okay, well, we can try redialing the last received number… maybe it’s just 911 that’s not, you know, working?",
+            "ru_native": "Ух, ладно, попробую позвонить по последнему номеру...<br>Может, не работает только 911?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ми ж можемо зателефонувати на останній номер?..<br>Можливо, не працює лише 911?"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0004",
+            "en": "[ID-9] [ALIAS] Ugh, okay, well, we can try redialing the last received number… maybe it’s just 911 that’s not, you know, working?",
+            "ru_native": "Ух, ладно, попробуем позвонить по последнему номеру...<br>Может, не работает только 911?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ми ж можемо зателефонувати на останній номер?..<br>Можливо, не працює лише 911?"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0005",
+            "en": "[ID-12] What’s wrong?",
+            "ru_native": "Что не так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що не так?"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0006",
+            "en": "[ID-13] Don’t wanna try to get anybody on the line?",
+            "ru_native": "Не хочешь ни с кем связаться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хочеш ні з ким зв’язатися?"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0007",
+            "en": "[ID-14] We are here…",
+            "ru_native": "Мы здесь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тут…"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0008",
+            "en": "[ID-16] Uh, I don’t know. Whoever called earlier?",
+            "ru_native": "Ну, не знаю. На последний номер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, не знаю. На останній номер?"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0009",
+            "en": "[ID-17] [ALIAS] You can redial the last number. If they’re still there...",
+            "ru_native": "Ты можешь позвонить по последнему номеру. Если они еще там...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти можеш зателефонувати на останній номер. Якщо вони досі там…"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0010",
+            "en": "[ID-20] Yeah, it’s crazy, but… I -- I feel like we should still try somebody? Right?",
+            "ru_native": "Да, это дико, но... Мне кажется, все равно стоит попробовать? Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це звучить божевільно, але… Здається, нам усе одно треба хоч спробувати? Так?"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0011",
+            "en": "[ID-21] [ALIAS] You can redial the last number. If they’re still there...",
+            "ru_native": "Ты можешь позвонить по последнему номеру. Если они еще там...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти можеш зателефонувати на останній номер. Якщо вони досі там…"
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0012",
+            "en": "[ID-23] Yeah, no problem.",
+            "ru_native": "Ага, без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без проблем."
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0013",
+            "en": "[ID-24] But... that might be a dead end, I don’t know.",
+            "ru_native": "Но... это может быть тупик. Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… це може бути глухий кут."
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0014",
+            "en": "[ID-25] Sorry, I thought this -- I thought the phone was going to help. Or the Park Ranger would be here.",
+            "ru_native": "Прости, я подумал, это... Я решил, что<br>телефон нам поможет. Или тут будет рейнджер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я подумав… Я подумав, що телефон нам допоможе. Або тут буде наглядачка."
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0015",
+            "en": "[ID-26] I just figured we’d be able to reach somebody.",
+            "ru_native": "Я просто подумал, что мы сможем связаться с кем-нибудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто подумав, що ми зможемо зв’язатися з кимось."
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0016",
+            "en": "[ID-27] [half to himself] What a waste of time.",
+            "ru_native": "Пустая трата времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дарма час витратили."
+        },
+        {
+            "tag": "A2W2_IPHONE_JACOB_0017",
+            "en": "[ID-29] Yeah, no, it’s true.",
+            "ru_native": "Да, нет, верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ні, це правда."
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0000",
+            "en": "[ID-0] I’m calling back.",
+            "ru_native": "Я перезваниваю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я телефоную."
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0001",
+            "en": "[ID-2] I’m calling 911, just give me a sec.",
+            "ru_native": "Я звоню в 911, секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я телефоную в 911, хвилинку."
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0002",
+            "en": "[ID-5] I… don’t think it’s working.",
+            "ru_native": "Кажется, не работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається… не працює."
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0003",
+            "en": "[ID-7] Um, Hello?",
+            "ru_native": "Эм. Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, алло?"
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0004",
+            "en": "[ID-8] I don’t think anyone’s there.",
+            "ru_native": "Думаю, там никого нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, там нікого немає."
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0005",
+            "en": "[ID-15] Eh, this probably won’t even work, right? Who are we gonna -- I don’t even know who to call…",
+            "ru_native": "Ой, наверно, ничего не получится. Да я даже не знаю, кому позвонить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, мабуть, нічого не вийде. Кому ми… Я навіть не знаю, кому телефонувати…"
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0006",
+            "en": "[ID-18] We could call somebody but who would believe us? I mean, I don’t even know what to say…",
+            "ru_native": "Мы можем позвонить, но кто нам поверит? Я даже не знаю, что говорить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми можемо зателефонувати, але хто нам повірить? Я навіть не знаю, що казати…"
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0007",
+            "en": "[ID-19] “Hey, person in charge of something, there’s giant triangles in the sky and we keep getting teleported --”",
+            "ru_native": "«Здравствуйте, ответственное лицо, у нас тут<br>гигантские треугольники в небе, и мы телепортируемся...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Добрий день, містере відповідальний, у нас тут на небі<br>гігантські трикутники, а ми постійно телепортуємося…»"
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0008",
+            "en": "[ID-22] Sorry, just gimme a second, here.",
+            "ru_native": "Извини, секундочку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, секундочку."
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0009",
+            "en": "[ID-28] No, no wait, we can still -- we can do your idea and still try redialing whoever called earlier.",
+            "ru_native": "Нет-нет, постой, мы все еще можем... можем<br>позвонить по последнему номеру, как ты предлагал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, стривай, ми ще можемо… можемо зателефонувати<br>на останній номер, як ти пропонував."
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0010",
+            "en": "[ID-30] Don’t say, ‘Sorry,’ Jacob, this isn’t your fault. It was a good idea, it just didn’t pan out.",
+            "ru_native": "Не извиняйся, Джейкоб, ты не виноват. Это была хорошая идея, просто не вышло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не вибачайся, Джейкобе, ти не винен. Це була хороша ідея, просто не вдалося."
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0011",
+            "en": "[ID-31] In the way we would have hoped, anyway...",
+            "ru_native": "По крайней мере, так, как мы надеялись...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, так, як нам хотілося…"
+        },
+        {
+            "tag": "A2W2_IPHONE_RILEY_0012",
+            "en": "[ID-32] It’s alright, let’s just head out. These transmitters aren’t going to plant themselves.",
+            "ru_native": "Ладно, давай просто пойдем. Эти передатчики сами себя не установят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ходімо. Ці радіопередавачі самі себе не встановлять."
+        }
+    ]
+}

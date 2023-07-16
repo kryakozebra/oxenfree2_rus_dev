@@ -1,0 +1,276 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.TIMJUM",
+    "entries": [
+        {
+            "tag": "A2V3.TIMJUM_CHARLIE_0000",
+            "en": "Huh?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2V3.TIMJUM_CHARLIE_0001",
+            "en": "Hey!",
+            "ru_native": "Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_CHARLIE_0002",
+            "en": "Who—who are they—?",
+            "ru_native": "Кто... кто они...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто… хто вони…"
+        },
+        {
+            "tag": "A2V3.TIMJUM_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.TIMJUM_CHOICE_0000_OPTION_0000",
+            "en": "Don’t mess with it!",
+            "ru_native": "Не лезьте туда!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не лізьте туди!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_CHOICE_0000_OPTION_0001",
+            "en": "Oh, great.",
+            "ru_native": "Прекрасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, супер."
+        },
+        {
+            "tag": "A2V3.TIMJUM_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.TIMJUM_CHOICE_0001_OPTION_0000",
+            "en": "Hey! Turn it back on!",
+            "ru_native": "Эй! Включите обратно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Увімкніть назад!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_CHOICE_0001_OPTION_0001",
+            "en": "This won’t work!",
+            "ru_native": "Это не сработает!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не спрацює!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_JACOB_0000",
+            "en": "Don’t do anything stupid, guys. Let’s just ride it out—these things seem to come in waves.",
+            "ru_native": "Ребята, не делайте глупостей. Давайте просто переждем... Эти штуки приходят и уходят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не робіть дурниць. Просто зачекаємо… Ці штуки періодично з’являються і зникають."
+        },
+        {
+            "tag": "A2V3.TIMJUM_JACOB_0001",
+            "en": "They’re turning off the power.",
+            "ru_native": "Они отрубают электричество.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони знеструмлюють будівлю."
+        },
+        {
+            "tag": "A2V3.TIMJUM_JACOB_0002",
+            "en": "God damnit…",
+            "ru_native": "Проклятье...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт забирай…"
+        },
+        {
+            "tag": "A2V3.TIMJUM_OLIVIA_0000",
+            "en": "Look! It’s an ensign!",
+            "ru_native": "Смотри! Это знак!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поглянь! Це знак!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_OLIVIA_0001",
+            "en": "They’re keys…",
+            "ru_native": "Это ключи...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ключі…"
+        },
+        {
+            "tag": "A2V3.TIMJUM_OLIVIA_0002",
+            "en": "…to opening the door.",
+            "ru_native": "Они отпирают дверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони відчиняють двері."
+        },
+        {
+            "tag": "A2V3.TIMJUM_OLIVIA_0003",
+            "en": "Shut up!",
+            "ru_native": "Заткнись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стулися!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_RILEY_0000",
+            "en": "Don’t mess with it—those things are dangerous!",
+            "ru_native": "Не лезьте туда! Эти штуки опасны!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не лізьте туди! Ці штуки небезпечні!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_RILEY_0001",
+            "en": "[sigh] Great.",
+            "ru_native": "Прекрасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, супер."
+        },
+        {
+            "tag": "A2V3.TIMJUM_RILEY_0002",
+            "en": "Hey! C’mon, turn that back on!",
+            "ru_native": "Эй! А ну включите обратно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Увімкніть назад!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_RILEY_0003",
+            "en": "Flicking a switch isn’t scary, guys!",
+            "ru_native": "Выключенным светом меня не напугать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не боюся вимкненого світла!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_UNKNOWN_0000",
+            "en": "[distorted] Hey, lady, I don’t know what the f*** you’re doing here but this ain’t your house!",
+            "ru_native": "Дамочка, не знаю, какого хера вы тут делаете, но это не ваш дом!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жіночко, не знаю, якого біса ви тут робите, але це не ваш дім!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_UNKNOWN_0001",
+            "en": "“In many forms of games, being out of bounds refers to being outside the available playing area—”",
+            "ru_native": "«Во множествах игр выход за рамки означает нахождение за границами игрового поля...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«У більшості ігор вихід за рамки означає перебування за межами ігрового поля…»"
+        },
+        {
+            "tag": "A2V3.TIMJUM_UNKNOWN_0002",
+            "en": "“—and can result in severe penalties.”",
+            "ru_native": "«И может повлечь серьезное наказание».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«За це можна отримати суворе покарання»."
+        },
+        {
+            "tag": "A2V3.TIMJUM_UNKNOWN_0003",
+            "en": "[distorted] Rye. Lee. Leave. All. Alone. Leave. Well enough. Alone.",
+            "ru_native": "Рай. Ли. Оставь. В. Покое. Уходи. Не. Вмешивайся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рай. Лі. Залиш. У. Спокої. Йди. Не. Заважай."
+        },
+        {
+            "tag": "A2V3.TIMJUM_UNKNOWN_0004",
+            "en": "[distorted] You. Will. Not. Triumph. You will. Not. Reach. Even. If we. Must.",
+            "ru_native": "Тебе. Не. Победить. Ты. Не. Доберешься. Даже если. Придется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі. Не. Перемогти. Ти. Не. Дістанешся. Навіть. Якщо. Доведеться."
+        },
+        {
+            "tag": "A2V3.TIMJUM_UNKNOWN_0005",
+            "en": "[distorted] Push. You. Out.",
+            "ru_native": "Вытолкнуть. Тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виштовхнути. Тебе."
+        },
+        {
+            "tag": "A2V3.TIMJUM_VIOLET_0000",
+            "en": "What do those… little triangles do again?",
+            "ru_native": "Что делают эти маленькие треугольники?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що роблять ці… маленькі трикутники?"
+        },
+        {
+            "tag": "A2V3.TIMJUM_VIOLET_0001",
+            "en": "Whoa.",
+            "ru_native": "Ой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой."
+        },
+        {
+            "tag": "A2V3.TIMJUM_VIOLET_0002",
+            "en": "Why?",
+            "ru_native": "Зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо?!"
+        },
+        {
+            "tag": "A2V3.TIMJUM_VIOLET_0003",
+            "en": "Olivia, what’s—",
+            "ru_native": "Оливия, что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, що…"
+        }
+    ]
+}

@@ -1,0 +1,870 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ31.BABATT",
+    "entries": [
+        {
+            "tag": "SQ31.BABATT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0000_OPTION_0000",
+            "en": "We’re here to help.",
+            "ru_native": "Мы пришли помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми прийшли допомогти."
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0000_OPTION_0001",
+            "en": "Do you know Sadiya?",
+            "ru_native": "Ты знаешь Садию?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш Садію?"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0000_OPTION_0002",
+            "en": "Do you remember us?",
+            "ru_native": "Ты нас помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти нас пам’ятаєш?"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0001_OPTION_0000",
+            "en": "You need to go home.",
+            "ru_native": "Тебе надо домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі треба додому."
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0001_OPTION_0001",
+            "en": "Why don’t you remember us?",
+            "ru_native": "Почему ты нас не помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти нас не пам’ятаєш?"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0001_OPTION_0002",
+            "en": "Toughen up, kid.",
+            "ru_native": "Выше нос, парень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, хлопче."
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0002_OPTION_0000",
+            "en": "No.",
+            "ru_native": "Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні."
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0002_OPTION_0001",
+            "en": "Rar?",
+            "ru_native": "Р-р?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гр?"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0002_OPTION_0002",
+            "en": "RARRRGH!",
+            "ru_native": "Р-Р-Р-Р-Р!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Р-Р-Р-Р!"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0003_OPTION_0000",
+            "en": "You’re good with kids.",
+            "ru_native": "Ты хорошо ладишь с детьми.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти добре ладнаєш із дітьми."
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0003_OPTION_0001",
+            "en": "What the hell is going on?",
+            "ru_native": "Какого черта?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якого дідька?"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0003_OPTION_0002",
+            "en": "Grr.",
+            "ru_native": "Р-р-р.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гр-р."
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0004_OPTION_0000",
+            "en": "I’m just glad he’s okay.",
+            "ru_native": "Я просто рада, что он в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто рада, що з ним усе гаразд."
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0004_OPTION_0001",
+            "en": "That makes sense.",
+            "ru_native": "Логично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Логічно."
+        },
+        {
+            "tag": "SQ31.BABATT_CHOICE_0004_OPTION_0002",
+            "en": "You’re smart.",
+            "ru_native": "Ты умница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти молодець."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0000",
+            "en": "It’s Tobias? I… think. [to the ghost] Hey, there, buddy. Are you Tobias?",
+            "ru_native": "Это Тобиас? Думаю... да. Привет, приятель. Ты Тобиас?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Тобіас? Гадаю… так. Привіт, друже. Ти Тобіас?"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0001",
+            "en": "Hey, it’s okay, dude.",
+            "ru_native": "Парень, все нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопче, усе гаразд."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0002",
+            "en": "Everything’s okay.",
+            "ru_native": "Порядок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе добре."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0003",
+            "en": "What?",
+            "ru_native": "Как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0004",
+            "en": "Oh, got it.",
+            "ru_native": "А, ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, ясно."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0005",
+            "en": "I don’t think—",
+            "ru_native": "Не думаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю…"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0006",
+            "en": "[figuring it out] Yeah…",
+            "ru_native": "Да...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так…"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0007",
+            "en": "You don’t remember us, right? From the dock?",
+            "ru_native": "Ты нас не помнишь, да? Мы были в доках?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти нас не пам’ятаєш, так? Ми були в доках?"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0008",
+            "en": "Sounds really scary.",
+            "ru_native": "Звучит жутковато.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить моторошно."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0009",
+            "en": "Riley, c’mon, the kid’s petrified. You gotta—just watch…",
+            "ru_native": "Райли, не пугай ребенка. Просто смотри...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, не лякай дитину. Просто… дивись…"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0010",
+            "en": "Because he’s—look, just give me a second here…",
+            "ru_native": "Потому что он... дай-ка мне секунду...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо він… Слухай, просто дай мені хвилинку…"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0011",
+            "en": "Geez, Riley, the kid’s petrified! You gotta—just watch…",
+            "ru_native": "Боже, Райли, не пугай ребенка! Просто смотри...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, Райлі, не лякай дитину! Просто… дивись…"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0012",
+            "en": "When I was your age I was afraid of everything. I mean the wind made me nervous.",
+            "ru_native": "Я в твоем возрасте боялся вообще всего. Меня даже ветер мог напугать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я у твоєму віці боявся взагалі всього. Я міг навіть вітру злякатися."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0013",
+            "en": "And it didn’t get any better! It just got scarier! So what was I supposed to do?",
+            "ru_native": "И легче не становилось! Только страшнее! И что мне было делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І легше не ставало! Лише страшніше! І що мені було робити?"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0014",
+            "en": "Well… I decided I would be scary right back. You ever tried being scary?",
+            "ru_native": "Ну... я решил, что сам буду пугать в ответ. Никогда не пробовал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому… я вирішив, що буду сам страшним. Ти колись був страшним?"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0015",
+            "en": "Try it! C’mon! Be scary! RARGH! Like a dinosaur! RARRGH!",
+            "ru_native": "Попробуй! Давай! Зарычи, как динозавр! Р-Р-Р-Р!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуй! Нумо! Загарчи! Р-Р-Р-Р! Як динозавр! Р-Р-Р-Р!"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0016",
+            "en": "[to Riley] C’mon, back me up.",
+            "ru_native": "Давай, подыграй мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нумо, підіграй мені."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0017",
+            "en": "C’mon, RARRGH!",
+            "ru_native": "Давай, Р-Р-Р-Р!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нумо ж, Р-Р-Р-Р!"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0018",
+            "en": "Like a dinosaur mixed with a bear! RARRRGH!",
+            "ru_native": "Как динозавр и медведь сразу! Р-Р-Р-Р!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як динозавр і ведмідь! Р-Р-Р-Р!"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0019",
+            "en": "Ignore her—RARGH!",
+            "ru_native": "Не обращай на нее внимание... Р-Р-Р!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не звертай на неї уваги… Р-Р-Р-Р!"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0020",
+            "en": "That’s—a percentage of the spirit!",
+            "ru_native": "Это... слабовато!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… дуже слабо!"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0021",
+            "en": "RARRGH!",
+            "ru_native": "Р-Р-Р-Р!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Р-Р-Р-Р!"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0022",
+            "en": "Yes, just like that! RARRGGHH!",
+            "ru_native": "Да, вот так! Р-Р-Р-Р-Р!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ось так! Р-Р-Р-Р-Р!"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0023",
+            "en": "Yes! Exactly! Now just roar your way all the way to the Camena docks.",
+            "ru_native": "Да! Точно! Вот так и рычи до самых доков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Точно! А тепер гарчи так аж до доків."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0024",
+            "en": "The ferry back to Sadiya is there. You up to the challenge, Mr. Scary? You know where the docks are?",
+            "ru_native": "Там сядешь на паром обратно к Садии. Ты готов, мистер Пугач? Знаешь, где доки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там сядеш на пором назад до Садії. Готовий, містере Моторошний? Знаєш, де доки?"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0025",
+            "en": "Perfect. See you there.",
+            "ru_native": "Отлично. Увидимся там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово. Зустрінемося там."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0026",
+            "en": "Oh, and make sure you say “See you at Tootega Falls.”",
+            "ru_native": "А, и не забудь сказать «До встречи на Тутега Фолз».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І не забудь сказати: «До зустрічі на водоспадах Тутега»."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0027",
+            "en": "Grr.",
+            "ru_native": "Р-р-р.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гр-р."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0028",
+            "en": "Boom.",
+            "ru_native": "Бум.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бум."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0029",
+            "en": "Problem solved, I think. Problems.",
+            "ru_native": "Проблема решена. То есть проблемы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, проблему вирішено. Тобто, проблеми."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0030",
+            "en": "You learn a trick or two when you’re raised, uh—less than ideally.",
+            "ru_native": "Научишься, когда у тебя было... не идеальное детство.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Такому вчишся, коли… у тебе не дуже ідеальне дитинство."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0031",
+            "en": "What not to do, ya know?",
+            "ru_native": "Чего только не сделаешь, понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого тільки не зробиш, розумієш?"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0032",
+            "en": "You don’t get it? C’mon, you’re the smart one, by like a country mile.",
+            "ru_native": "Не понимаешь? Да ладно, ты же умная. Умнее меня точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не розумієш? Годі тобі, ти ж розумна. Точно розумніша за мене."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0033",
+            "en": "Oh, no, I’ve created a monster.",
+            "ru_native": "О нет, я создал чудовище.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О ні, я створив чудовисько."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0034",
+            "en": "So, here’s my uh—theory. I think someone—or someones—are—let’s say out of sync.",
+            "ru_native": "Итак, вот моя... теория. Я думаю, что кто-то... скажем так, в рассинхроне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ось моя… теорія. Гадаю, що хтось… скажімо так, у розсинхроні."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0035",
+            "en": "I think you and me are in uh—you and me time. And Tobias and his babysitter are in their own time.",
+            "ru_native": "Мы с тобой – в нашем времени. А Тобиас с няней – в своем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з тобою знаходимося в нашому часі. А Тобіас із нянею — у своєму."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0036",
+            "en": "One’s going backwards. Depending on your view, I guess.",
+            "ru_native": "Одно из них движется назад. Смотря с какой стороны смотреть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Один із них йде назад. Ну, це з якого боку подивитися."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0037",
+            "en": "And we’ve all been thrown into a big time blender set to pulse.",
+            "ru_native": "И мы все в огромном временном блендере, на импульсном режиме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І нас усіх закинуло у величезний часовий блендер, що працює на імпульсному режимі."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0038",
+            "en": "Or—medium.",
+            "ru_native": "Или... на среднем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи… на середньому."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0039",
+            "en": "Or—medium high, it depends on the model.",
+            "ru_native": "Или... на турбо, смотря какая модель.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи… на турбо. Дивлячись яка модель."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0040",
+            "en": "I think he is. Like—genuinely.",
+            "ru_native": "Думаю, да. Искренне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, з ним усе гаразд. Чесно."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0041",
+            "en": "I wouldn’t try to publish my thesis here, but, yeah I think I’m close.",
+            "ru_native": "Я бы не стал принимать это за аксиому, но думаю, я близок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не кажу, що я стовідсотково маю рацію, але гадаю, що в цьому є сенс."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0042",
+            "en": "Uh—yes, aren’t I?",
+            "ru_native": "Да, я такой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я такий."
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0043",
+            "en": "And I think also…",
+            "ru_native": "А еще я думаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ще я думаю…"
+        },
+        {
+            "tag": "SQ31.BABATT_JACOB_0044",
+            "en": "Actually, ya know, what? Let’s wait and see.",
+            "ru_native": "А знаешь что? Подождем и увидим...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, що? Зачекаємо й побачимо."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0000",
+            "en": "We just wanna help you out.",
+            "ru_native": "Мы просто хотим предложить помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми просто хочемо тобі допомогти."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0001",
+            "en": "Looks like you need some.",
+            "ru_native": "Похоже, она тебе нужна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, що тобі потрібна допомога."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0002",
+            "en": "Is your babysitter Sadiya?",
+            "ru_native": "Садия – твоя няня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Садія — твоя няня?"
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0003",
+            "en": "Don’t you remember us? From—the dock?",
+            "ru_native": "Ты нас не помнишь? В доках?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти нас не пам’ятаєш? У доках?"
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0004",
+            "en": "Tobias you really need to go home—uh—again.",
+            "ru_native": "Тобиас, тебе срочно надо домой... опять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобіасе, тобі треба додому… знову."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0005",
+            "en": "Sadiya, the person in charge of you, is freaking the Hell out.",
+            "ru_native": "Садия, которая за тебя отвечает, просто в ярости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Садія, яка за тебе відповідає, місця собі не знаходить."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0006",
+            "en": "Why do you not remember us? We just saw you.",
+            "ru_native": "Почему ты нас не помнишь? Мы же только что виделись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти нас не пам’ятаєш? Ми ж щойно бачилися."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0007",
+            "en": "C’mon, kiddo, dry your eyes, there are worse things in the world.",
+            "ru_native": "Ладно, малыш, не плачь. В мире есть вещи и похуже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, хлопче, не плач. У світі існують гірші речі."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0008",
+            "en": "I’m not doing that.",
+            "ru_native": "Не буду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не буду це робити."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0009",
+            "en": "Uh. Grr? Roar?",
+            "ru_native": "Эм. Р-р? Гр-р?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Р-р? Гр-р?"
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0010",
+            "en": "RARRRGGHHH!",
+            "ru_native": "Р-Р-Р-Р-Р!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ГР-Р-Р-Р-Р!"
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0011",
+            "en": "You know, you’re really good with kids.",
+            "ru_native": "Знаешь, а ты хорошо ладишь с детьми.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, а ти добре ладнаєш із дітьми."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0012",
+            "en": "Okay, seriously, what in the ever-loving hell is going on?",
+            "ru_native": "Серьезно, и каково там, в аду вечной любви?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, серйозно, що там відбувається в пеклі вічної любові?"
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0013",
+            "en": "Grrrr.",
+            "ru_native": "Гр-р-р.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гр-р-р."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0014",
+            "en": "Hey, cool, so long as the kid is okay.",
+            "ru_native": "Эй, круто, пока ребенок в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, усе гаразд, поки з хлопцем усе добре."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0015",
+            "en": "Yeah, that explains a lot.",
+            "ru_native": "Да, это многое объясняет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це багато чого пояснює."
+        },
+        {
+            "tag": "SQ31.BABATT_RILEY_0016",
+            "en": "Well aren’t you a clever little monkey.",
+            "ru_native": "Ну ты же просто умница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну ти ж розумна мавпочка."
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0000",
+            "en": "No.",
+            "ru_native": "Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні."
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0001",
+            "en": "Maybe. What do you want?",
+            "ru_native": "Возможно. Вам чего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, а що?"
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0002",
+            "en": "She’s not my babysitter. She’s my old pear.",
+            "ru_native": "Она мне не няня. Она моя губернаторка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не няня. Вона моя губернаторка."
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0003",
+            "en": "Dad says it’s French.",
+            "ru_native": "Папа говорит, это по-французски.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тато каже, що це французькою."
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0004",
+            "en": "No. What dock?",
+            "ru_native": "Нет. В каких доках?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. У яких доках?"
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0005",
+            "en": "We were just—I don’t know. We had hot dog buns for the seagulls and then—",
+            "ru_native": "Мы просто... не знаю. Мы кормили чаек булками, а потом...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми просто… не знаю. Ми годували чайок булочками, а тоді…"
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0006",
+            "en": "I don’t know. Then it was loud and then I was here.",
+            "ru_native": "Не знаю. Раздался громкий звук, и вот я тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Пролунав гучний звук, і я опинився тут."
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0007",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0008",
+            "en": "Maybe.",
+            "ru_native": "Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо."
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0009",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0010",
+            "en": "No…",
+            "ru_native": "Нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні…"
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0011",
+            "en": "Rarggh!",
+            "ru_native": "Р-р-р!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Р-р-р!"
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0012",
+            "en": "[in a way that suggests confirmation] Grrr.",
+            "ru_native": "Р-р-р.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Р-р-р."
+        },
+        {
+            "tag": "SQ31.BABATT_TOBIAS_0013",
+            "en": "You got it—er—grr.",
+            "ru_native": "Понял, р-р-р.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозумів… Ой… Р-р-р."
+        }
+    ]
+}

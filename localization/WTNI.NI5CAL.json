@@ -1,0 +1,420 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WTNI.NI5CAL",
+    "entries": [
+        {
+            "tag": "WTNI.NI5CAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WTNI.NI5CAL_CHOICE_0000_OPTION_0000",
+            "en": "So you didn’t make it home.",
+            "ru_native": "Значит, вы не вернулись домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви не повернулися додому."
+        },
+        {
+            "tag": "WTNI.NI5CAL_CHOICE_0000_OPTION_0001",
+            "en": "It’s a portal.",
+            "ru_native": "Это портал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це портал."
+        },
+        {
+            "tag": "WTNI.NI5CAL_CHOICE_0000_OPTION_0002",
+            "en": "It’s something unnatural.",
+            "ru_native": "Это что-то неестественное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це щось надприроднє."
+        },
+        {
+            "tag": "WTNI.NI5CAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WTNI.NI5CAL_CHOICE_0001_OPTION_0000",
+            "en": "Just sail past it.",
+            "ru_native": "Просто проплыть мимо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пропливайте повз."
+        },
+        {
+            "tag": "WTNI.NI5CAL_CHOICE_0001_OPTION_0001",
+            "en": "Here’s how to open it.",
+            "ru_native": "Вот как это открыть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось як це відкрити."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0000",
+            "en": "Riley. There’s something here… in front of me.",
+            "ru_native": "Райли. Тут впереди… что-то есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, поперед мене… щось є."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0001",
+            "en": "But… kind of around me, too. It’s like the sky is bisected. Or folded into itself.",
+            "ru_native": "Но… и вокруг тоже. Как будто небо разделилось пополам. И сворачивается внутрь себя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… навколо мене теж. Наче небо розкреслили навпіл. І воно складається."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0002",
+            "en": "It’s like the sky is bisected. Or folded into itself.",
+            "ru_native": "Как будто небо разделилось пополам. И сворачивается в себя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Небо наче розкреслили навпіл. І воно складається."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0003",
+            "en": "It’s like… it’s like a door.",
+            "ru_native": "Это похоже на... дверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це схоже… на двері."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0004",
+            "en": "Only, not your handle and deadbolt variety, it’s—",
+            "ru_native": "Но не на ту, что с ручкой и замком, это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але без ручки та засува."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0005",
+            "en": "This is something else. Some sorta… electricity?",
+            "ru_native": "Это что-то другое. Что-то вроде... электричества?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це щось зовсім інше. Якась… електрика?"
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0006",
+            "en": "It’s… it’s really… very beautiful.",
+            "ru_native": "Это… очень… очень красиво.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… дуже… гарно."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0007",
+            "en": "It really is.",
+            "ru_native": "Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0008",
+            "en": "Or something… close to it.",
+            "ru_native": "Или… близко к этому.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… близько до цього поняття."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0009",
+            "en": "Over… I suppose.",
+            "ru_native": "Прием… Наверное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом… напевно."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0010",
+            "en": "I didn’t, no.",
+            "ru_native": "Нет, не вернулся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не повернувся."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0011",
+            "en": "I wouldn’t know how if I tried.",
+            "ru_native": "Я бы не знал как, если бы попробовал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я все одно не знаю, що із цим робити."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0012",
+            "en": "I could—sail past the door. Or whatever this thing is.",
+            "ru_native": "Я мог бы... проплыть через эту дверь. Или что это такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я би міг пропливсти крізь ці двері. Або що це таке."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0013",
+            "en": "But it’s daylight on the other side. And stars… I think.",
+            "ru_native": "Но там с другой стороны свет. И звезды... кажется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але на тому боці денне світло. І зорі… здається."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0014",
+            "en": "And… some things I couldn’t properly describe.",
+            "ru_native": "И... то, что я не могу толком описать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І щось, що я не можу описати."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0015",
+            "en": "I… I think I can slip through… if I aim right.",
+            "ru_native": "Думаю, я могу туда проскочить. Если прицелюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… думаю, я зможу туди прослизнути… Якщо прицілитись."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0016",
+            "en": "It’s… it’s not quite wide enough for me to slip through. But my God…",
+            "ru_native": "Тут... не так широко, чтобы протиснуться. Но господи...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут… недостатньо широко, щоби я протиснувся. Але Боже мій…"
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0017",
+            "en": "It really is very beautiful.",
+            "ru_native": "Это правда очень красиво.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут справді дуже гарно."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0018",
+            "en": "If I could just… hm.",
+            "ru_native": "Если бы я мог просто... Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якби я тільки міг… гм."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0019",
+            "en": "[to himself] What is inside there?",
+            "ru_native": "Что там внутри?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж там всередині?"
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0020",
+            "en": "Yeah… that’s uh…",
+            "ru_native": "Да… это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… це…"
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0021",
+            "en": "That’d probably be wise.",
+            "ru_native": "Это, наверное, будет разумно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було б благорозумно."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0022",
+            "en": "[distorted] Roger that.",
+            "ru_native": "Понял тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спотворено] Прийнято."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0023",
+            "en": "I’ll uh—bypass it. That’s—that’s probably for the best.",
+            "ru_native": "Я... обогну. Так... так, наверное, будет лучше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я краще… обігну це. Так буде краще, напевно."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0024",
+            "en": "Heading home. I appreciate you… keeping me company. So to speak.",
+            "ru_native": "Плыву домой. Спасибо, что составила мне компанию. Образно говоря.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пливу додому. Дякую за… компанію, так сказати."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0025",
+            "en": "Just… keep the lights on, Riley.",
+            "ru_native": "Просто... не гаси свет, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… не вимикай світло, Райлі."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0026",
+            "en": "As long as you can.",
+            "ru_native": "Как можно дольше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так довго, наскільки це можливо."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0027",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0028",
+            "en": "Riley…",
+            "ru_native": "Райли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі…"
+        },
+        {
+            "tag": "WTNI.NI5CAL_NICK_0029",
+            "en": "Is… this…",
+            "ru_native": "Это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це…"
+        },
+        {
+            "tag": "WTNI.NI5CAL_RILEY_0000",
+            "en": "So you’re saying you didn’t make it back home. Over.",
+            "ru_native": "Значит, вы говорите, что не вернулись домой. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажете, ви не повернулися додому. Прийом."
+        },
+        {
+            "tag": "WTNI.NI5CAL_RILEY_0001",
+            "en": "It’s a portal. It’s… not something you really wanna tinker with. Over.",
+            "ru_native": "Это портал. С ним лучше не экспериментировать. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це портал. Цю штуку краще оминати десятою дорогою. Прийом."
+        },
+        {
+            "tag": "WTNI.NI5CAL_RILEY_0002",
+            "en": "It’s not exactly… natural. And maybe not something you’d wanna tinker with. Over.",
+            "ru_native": "Он не совсем… естественный. И, пожалуй, с ним лучше не экспериментировать. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це щось… надприроднє. І це щось варто оминати десятою дорогою. Прийом."
+        },
+        {
+            "tag": "WTNI.NI5CAL_RILEY_0003",
+            "en": "Sail past it—o-or—around it—whatever, just don’t go anywhere near it.",
+            "ru_native": "Плывите мимо или обогните, как угодно, только не подплывайте близко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пливіть якось повз або обігніть, але не наближайтесь до цього."
+        },
+        {
+            "tag": "WTNI.NI5CAL_RILEY_0004",
+            "en": "Okay? Steer clear. Over.",
+            "ru_native": "Хорошо? Держитесь подальше. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чули? Тримайтеся подалі. Прийом."
+        },
+        {
+            "tag": "WTNI.NI5CAL_RILEY_0005",
+            "en": "Look… Nick.",
+            "ru_native": "Слушайте... Ник.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку… слухайте."
+        },
+        {
+            "tag": "WTNI.NI5CAL_RILEY_0006",
+            "en": "Odds are you’ve got some sort of radio equipment on board there beyond what you and I are talking through.",
+            "ru_native": "Скорее всего, у вас на борту есть еще<br>радиооборудование, кроме того, по которому мы с вами говорим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У вас має бути ще якесь радіообладнання, окрім того, через яке ми розмовляємо."
+        },
+        {
+            "tag": "WTNI.NI5CAL_RILEY_0007",
+            "en": "Just… turn that on… and tune.",
+            "ru_native": "Просто... включите его... и настройте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… вмикайте і… налаштовуйте."
+        },
+        {
+            "tag": "WTNI.NI5CAL_RILEY_0008",
+            "en": "Eventually you’ll see what’s on the other side. And whether or not you wanna step through.",
+            "ru_native": "В конце концов вы увидите, что по ту сторону. И хотите ли вы туда попасть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ви побачите, що там насправді на тому боці, і чи хочете ви туди."
+        }
+    ]
+}

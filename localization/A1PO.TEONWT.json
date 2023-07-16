@@ -1,0 +1,726 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.TEONWT",
+    "entries": [
+        {
+            "tag": "A1PO.TEONWT_CHARLIE_0000",
+            "en": "Violet, it's okay!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вайолет, всё в порядке!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_CHARLIE_0001",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0000_OPTION_0000",
+            "en": "Hey! I can hear you!",
+            "ru_native": "Эй! Я вас слышу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Я вас чую!"
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0000_OPTION_0001",
+            "en": "Quit whatever you're doing.",
+            "ru_native": "Немедленно прекратите.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Облиште, що б ви там не робили."
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0000_OPTION_0002",
+            "en": "Tell me what's going on?!",
+            "ru_native": "Скажите, что происходит?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажіть, що відбувається?!"
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0001_OPTION_0000",
+            "en": "I'm not forty-five!",
+            "ru_native": "Мне не сорок пять!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені не сорок п’ять!"
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0001_OPTION_0001",
+            "en": "Who's they?",
+            "ru_native": "Кто «они»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто такі вони?"
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0001_OPTION_0002",
+            "en": "Who are you?",
+            "ru_native": "Кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви хто?"
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0002_OPTION_0000",
+            "en": "How do you know that?",
+            "ru_native": "Откуда ты знаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки ти знаєш?"
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0002_OPTION_0001",
+            "en": "So you looked me up.",
+            "ru_native": "Нашла меня в сети.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, знайшла мене в мережі."
+        },
+        {
+            "tag": "A1PO.TEONWT_CHOICE_0002_OPTION_0002",
+            "en": "It's just great, thanks.",
+            "ru_native": "Великолепно, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто чудово, дякую."
+        },
+        {
+            "tag": "A1PO.TEONWT_JACOB_0000",
+            "en": "No, Riley—",
+            "ru_native": "Нет, Райли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Райлі…"
+        },
+        {
+            "tag": "A1PO.TEONWT_JACOB_0001",
+            "en": "It's Charity Point.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это благотворительный пункт.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0000",
+            "en": "Shut up, Violet! Stay where you are!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Заткнись, Вайолет! Оставайся там, где ты есть!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0001",
+            "en": "Do not engage!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не вступай в бой!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0002",
+            "en": "Everyone quiet!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всем тихо!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0003",
+            "en": "Violet, you better zip it. I mean it. I will come and get you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вайолет, лучше застегнись. Я серьезно. Я приеду и заберу тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0004",
+            "en": "Charlie, get supplies at the RS and meet me at the mine to get Violet after.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чарли, возьми припасы в РС и встретимся на шахте, чтобы после забрать Вайолет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0005",
+            "en": "And, uh... Riley?",
+            "ru_native": "",
+            "ru_machine": "DEEPL И... э-э... Райли?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0006",
+            "en": "I'm just curious -- how's your new job working out?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне просто интересно - как твоя новая работа?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0007",
+            "en": "Are you there?",
+            "ru_native": "Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти там?"
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0008",
+            "en": "Cat got your tongue?",
+            "ru_native": "Язык проглотила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Язик проковтнула?"
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0009",
+            "en": "I know... because they never lie to me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я знаю... потому что они никогда мне не врут.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0010",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0011",
+            "en": "Not exactly.",
+            "ru_native": "Не совсем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зовсім."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0012",
+            "en": "They never lie to me, Riley. Not ever.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они никогда не лгут мне, Райли. Никогда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0013",
+            "en": "Good to hear. I'm happy for you.",
+            "ru_native": "Прекрасно. Рада за тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Приємно чути. Рада за тебе."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0014",
+            "en": "They're happy for you, too.",
+            "ru_native": "Они за тебя тоже рады.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони за тебе теж раді."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0015",
+            "en": "Because they never lie to me. Never. That’s how I know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Потому что они никогда не врут мне. Никогда. Вот откуда я знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0016",
+            "en": "[WT] And that’s also how I know you can’t stop what’s happening.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [WT] А еще именно так я понял, что ты не можешь остановить происходящее.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0017",
+            "en": "[WT] They never lie to me. Never. That’s how I know you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [WT] Они никогда не лгут мне. Никогда. Вот откуда я тебя знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0018",
+            "en": "[WT] So keep to the dark. Away from us. If you know what’s good.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [WT] Так что держись в темноте. Подальше от нас. Если ты знаешь, что такое хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0019",
+            "en": "Ah, it’s you.",
+            "ru_native": "А, это ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, це ти."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0020",
+            "en": "You know, they did mention something about… a stranger.",
+            "ru_native": "Знаешь, они и правда упоминали что-то про... незнакомку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, вони таки згадували щось про… дивну людину."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0021",
+            "en": "Coming with a shield she thinks is a sword.",
+            "ru_native": "Пришла со щитом и думает, что это меч.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зі щитом. Вона вважає, що то був меч."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0022",
+            "en": "I didn’t think it’d be a forty-five year old with a transmitter.",
+            "ru_native": "Не думала, что ей окажется сорокапятилетняя мадам с передатчиком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що тій людині було сорок п’ять років і вона мала радіопередавач."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0023",
+            "en": "But I guess that’s my fault for assuming things.",
+            "ru_native": "Но, как говорится, нечего было гадать, сама виновата.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але гадаю, то моя вина, що припускаюся всякого."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0024",
+            "en": "Old enough.",
+            "ru_native": "Достаточно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Достатньо."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0025",
+            "en": "My friends.",
+            "ru_native": "Мои друзья.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про моїх друзів."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0026",
+            "en": "You are speaking… with Olivia.",
+            "ru_native": "Ты говоришь... с Оливией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви розмовляєте… з Олівією."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0027",
+            "en": "Charlie, are you still there?",
+            "ru_native": "Чарли, ты еще там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, ти ще там?"
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0028",
+            "en": "Go to the Ranger’s station. I’ll meet you later.",
+            "ru_native": "Иди на станцию рейнджеров. Я догоню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди на станцію наглядачів. Зустрінемося пізніше."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0029",
+            "en": "Riley? Unfortunately, I have to go now. But I am curious…",
+            "ru_native": "Райли? Увы, мне пора идти. Но я заинтригована...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? На жаль, зараз мені треба йти. Але цікаво…"
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0030",
+            "en": "How would you say your new job’s working out?",
+            "ru_native": "Как тебе твоя новая работа?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як тобі подобається твоя нова робота?"
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0031",
+            "en": "Because they never lie to me.",
+            "ru_native": "Потому что они мне никогда не врут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже вони ніколи мені не брешуть."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0032",
+            "en": "Watch for the stars, they will be your guide.",
+            "ru_native": "Смотри на звезды, они укажут путь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слідуй за зірками, вони вкажуть тобі шлях."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0033",
+            "en": "I know because they never lie to me.",
+            "ru_native": "Я знаю, потому что они никогда не врут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, адже вони ніколи мені не брешуть."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0034",
+            "en": "They made the moon and all the planets and even those flying saucers that abducted those cows ten years ago.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они создали Луну, все планеты и даже те летающие тарелки, которые похитили тех коров десять лет назад.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони створили Місяць, усі планети й навіть ті тарілки,<br>що літають, які викрали тих корів десять років тому."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0035",
+            "en": "Aw, you’re a little behind the eight ball, aren’t you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, ты немного отстаешь от восьмерки, не так ли?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ти трохи відстаєш від вісімки, чи не так?"
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0036",
+            "en": "Head to the ranger's station. You can get the receiver there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отправляйся на станцию рейнджеров. Там ты сможешь получить приемник.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирушайте на станцію рейнджерів. Там ви зможете отримати приймач."
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0037",
+            "en": "We need it to fix the antenna. Okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Он нужен нам, чтобы починить антенну. Понятно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він потрібен нам, щоби полагодити антену. Добре?"
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0038",
+            "en": "Oh, and Riley? Riley Poverly… right? How’s the new job?",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, а Райли? Райли Поверли... верно? Как тебе новая работа?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, а Райлі? Райлі Поверлі… так? Як нова робота?"
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0039",
+            "en": "You like it?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе нравится?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі подобається?"
+        },
+        {
+            "tag": "A1PO.TEONWT_OLIVIA_0040",
+            "en": "Is it working out?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всё ли получается?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воно працює?"
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0000",
+            "en": "Hey! Idiots! I can hear every damn word you're saying, guys.",
+            "ru_native": "Эй! Придурки! Я вообще-то слышу каждое ваше слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Ідіоти! Чорт забирай, я чую кожне ваше слово."
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0001",
+            "en": "This is the lady on the other side of the portal, by the way. Over.",
+            "ru_native": "И да, я та самая тетка по другую сторону портала. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До речі, це леді по той бік порталу. Прийом."
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0002",
+            "en": "Hey! I don't who you guys are and I don't really care—just quit whatever it is that you think you're doing.",
+            "ru_native": "Эй! Не знаю, кто вы, и мне плевать! Немедленно прекратите, что бы вы там ни делали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Не знаю, хто ви такі. Та мені й байдуже.<br>Просто облиште, що б ви там не робили."
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0003",
+            "en": "Hey! I don't know if anyone's noticed, but time and space doesn't seem to be working properly anymore, so—",
+            "ru_native": "Эй! Не знаю, заметили ли вы, но время и<br>пространство перестали нормально работать, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! не знаю, чи хто-небудь помітив, але здається,<br>час і простір працюють неправильно, отже…"
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0004",
+            "en": "I'm going to need one of you little rugrats to tell me exactly what the Hell is going on.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне нужно, чтобы кто-нибудь из вас, маленькие рюшечки, рассказал мне, что именно, черт возьми, происходит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0005",
+            "en": "Where is it -- where are you? What bridge? Uh, over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Где это - где ты? На каком мосту? Э-э, через.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0006",
+            "en": "Yeah, whoever this is, sorry but no.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, кто бы это ни был, извини, но нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0007",
+            "en": "We're a little busy over here trying not to get swallowed by oblivion.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы тут немного заняты, пытаясь не быть проглоченными забвением.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0008",
+            "en": "Maybe if you explain what you guys are doing, I'll be a little more willing to make the hike.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, если ты объяснишь, что вы, ребята, делаете, я буду немного более готов совершить этот поход.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0009",
+            "en": "Okay. Haha. How do you know my name or that I got a new job.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, хаха. Откуда ты знаешь, как меня зовут или что я устроился на новую работу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0010",
+            "en": "[sarcastically] Wow. I'm really impressed. You took a picture and reverse image searched, awesome. Technology, right?",
+            "ru_native": "Я под впечатлением. Нашла меня в сети по фото, молодец. Век технологий, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого. Я справді вражена. Ти знайшла мене в мережі за фото. Чудово. Технології, скажи?"
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0011",
+            "en": "Uh, it's going great, thanks, my exit interview will be nothing but praise.",
+            "ru_native": "Великолепно, спасибо. При увольнении выскажу все свои восторги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе чудово. Коли звільнятимуся, залишу саме схвальні відгуки."
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0012",
+            "en": "Okay. Haha. How do you know that I got a new job?",
+            "ru_native": "Ладно. Ха-ха. Откуда ты знаешь про новую работу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Ха-ха. Звідки знаєш про мою нову роботу?"
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0013",
+            "en": "—Can one of you please tell me what is going on, exactly?",
+            "ru_native": "Может хоть один из вас объяснить, что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Хто-небудь із вас може мені пояснити, що насправді відбувається?"
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0014",
+            "en": "Um, I’m <i>not</i> forty-five, alright? How old are you?",
+            "ru_native": "Эй, мне не сорок пять, ясно? Тебе самой сколько?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… мені не сорок п’ять, ясно? Скільки тобі років?"
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0015",
+            "en": "Who’s they? Who are you talking about?",
+            "ru_native": "Кто «они»? О ком ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це «вони»? Про кого ти говориш?"
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0016",
+            "en": "Who am I speaking with?",
+            "ru_native": "С кем я говорю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із ким я розмовляю?"
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0017",
+            "en": "Hey! We can hear you, you know. This isn’t a secure line. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Мы тебя слышим, знаешь ли. Это не защищенная линия. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Ми вас чуємо. Це не захищена лінія. Прийом."
+        },
+        {
+            "tag": "A1PO.TEONWT_RILEY_0018",
+            "en": "Hey! Whoever this is… quit whatever you’re doing before this – whatever this is – gets any worse.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Кто бы это ни был... бросай все, что ты делаешь, пока это - что бы это ни было - не стало еще хуже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Хто б це не був… кидай усе, що ти робиш, поки це —<br>що б це не було — не стало ще гіршим."
+        },
+        {
+            "tag": "A1PO.TEONWT_VIOLET_0000",
+            "en": "Hey, um, lady? Can you come to the — to the bridge at —",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, эм, леди? Не могли бы вы прийти на - к мосту в -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_VIOLET_0001",
+            "en": "I don't want to do this anymore!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не хочу больше этим заниматься!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_VIOLET_0002",
+            "en": "Who is this?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кто это?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TEONWT_VIOLET_0003",
+            "en": "She’s heard everything!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она слышала всё!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.JACSCR",
+    "entries": [
+        {
+            "tag": "A2W3.JACSCR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.JACSCR_CHOICE_0000_OPTION_0000",
+            "en": "Jacob, slow up!",
+            "ru_native": "Джейкоб, притормози!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, пригальмуй!"
+        },
+        {
+            "tag": "A2W3.JACSCR_CHOICE_0000_OPTION_0001",
+            "en": "Don’t wait for me!",
+            "ru_native": "Не жди меня!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не чекай на мене!"
+        },
+        {
+            "tag": "A2W3.JACSCR_JACOB_0000",
+            "en": "Whoa—geez, will you c’mere!",
+            "ru_native": "О господи, да постой ты!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой… боже, та йди сюди!"
+        },
+        {
+            "tag": "A2W3.JACSCR_JACOB_0001",
+            "en": "He’s getting away!",
+            "ru_native": "Он уходит!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він тікає!"
+        },
+        {
+            "tag": "A2W3.JACSCR_RILEY_0000",
+            "en": "Jacob! Wait—slow up!",
+            "ru_native": "Джейкоб! Погоди... помедленнее!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Стривай… пригальмуй!"
+        },
+        {
+            "tag": "A2W3.JACSCR_RILEY_0001",
+            "en": "Don’t—don’t wait for me, just go!",
+            "ru_native": "Не жди... Не жди меня, иди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не чекай… не чекай на мене, йди!"
+        }
+    ]
+}

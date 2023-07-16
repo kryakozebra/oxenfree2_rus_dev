@@ -1,0 +1,177 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.STOTUN",
+    "entries": [
+        {
+            "tag": "A1PO.STOTUN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.STOTUN_CHOICE_0000_OPTION_0000",
+            "en": "Oh, whoops.",
+            "ru_native": "Упс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отакої!"
+        },
+        {
+            "tag": "A1PO.STOTUN_CHOICE_0000_OPTION_0001",
+            "en": "Maybe I shouldn't...?",
+            "ru_native": "Может, не стоит?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може мені не варто…?"
+        },
+        {
+            "tag": "A1PO.STOTUN_CHOICE_0001_OPTION_0000",
+            "en": "That’s not right. ",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это неправильно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це неправильно. "
+        },
+        {
+            "tag": "A1PO.STOTUN_CHOICE_0001_OPTION_0001",
+            "en": "I have to keep it on?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я должен не снимать его?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це обов’язково?"
+        },
+        {
+            "tag": "A1PO.STOTUN_CHOICE_0001_OPTION_0002",
+            "en": "Oops. Sorry!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Упс. Прости!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упс. Вибачте!"
+        },
+        {
+            "tag": "A1PO.STOTUN_JACOB_0000",
+            "en": "Oh wait, what happened?",
+            "ru_native": "Стой, что произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай, що сталося?"
+        },
+        {
+            "tag": "A1PO.STOTUN_JACOB_0001",
+            "en": "No no, keep going, there’s—it’s making something.",
+            "ru_native": "Нет, продолжай... Что-то происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ні, іди далі. Тут… щось виходить."
+        },
+        {
+            "tag": "A1PO.STOTUN_JACOB_0002",
+            "en": "No no, keep going, there’s -- it’s making something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет-нет, продолжай, там... там что-то получается.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.STOTUN_JACOB_0003",
+            "en": "Keep at it, really. I think it’s making something.",
+            "ru_native": "Давай, продолжай. Кажется, что-то происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну ж бо, не зупиняйся. Здається, виходить."
+        },
+        {
+            "tag": "A1PO.STOTUN_RILEY_0000",
+            "en": "Oh, uh, huh? I guess it… won't work without the radio…?",
+            "ru_native": "Что? Видимо... Без радио не работает?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га? Здається… не вийде без радіо…?"
+        },
+        {
+            "tag": "A1PO.STOTUN_RILEY_0001",
+            "en": "This is so weird.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это так странно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.STOTUN_RILEY_0002",
+            "en": "Maybe I… shouldn't…?",
+            "ru_native": "Может, не стоит?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може… мені не варто…?"
+        },
+        {
+            "tag": "A1PO.STOTUN_RILEY_0003",
+            "en": "I mean… I don't know.",
+            "ru_native": "Ну... Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… Я не знаю."
+        },
+        {
+            "tag": "A1PO.STOTUN_RILEY_0004",
+            "en": "Maybe I... shouldn't...?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, я... не должен...?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.STOTUN_RILEY_0005",
+            "en": "I mean... I don't know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL То есть... Я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.STOTUN_RILEY_0006",
+            "en": "Wait… that’s not right. I have to – I think I have to keep tuning…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди... это неправильно. Я должен - мне кажется, я должен продолжать настройку...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекайте… це не правильно. Я мушу — я вважаю, я мушу далі налаштовувати…"
+        },
+        {
+            "tag": "A1PO.STOTUN_RILEY_0007",
+            "en": "Wait… do I have to keep it on?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Погоди... Мне обязательно не снимать его?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це обов’язково?"
+        },
+        {
+            "tag": "A1PO.STOTUN_RILEY_0008",
+            "en": "Oh, crap, sorry – I’m – I’m still figuring this out!",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, черт, извини - я - я все еще разбираюсь в этом!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От чорт, вибачте — я — намагаюся розібратись!"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.RILCLI",
+    "entries": [
+        {
+            "tag": "A2C3.RILCLI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.RILCLI_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, probably.",
+            "ru_native": "Да, наверное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоріш за все, так."
+        },
+        {
+            "tag": "A2C3.RILCLI_CHOICE_0000_OPTION_0001",
+            "en": "You have too little faith.",
+            "ru_native": "Ты просто пессимист.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти надто не віриш у мене"
+        },
+        {
+            "tag": "A2C3.RILCLI_JACOB_0000",
+            "en": "I think you would have broken every bone in your body if you tried to jump that.",
+            "ru_native": "Мне кажется, ты просто все кости переломаешь, если решишься прыгать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаю, якщо б ти стрибнула, то залишилася б без кісток."
+        },
+        {
+            "tag": "A2C3.RILCLI_JACOB_0001",
+            "en": "You can really see how long it is from this angle.",
+            "ru_native": "С этого угла видно, как тут далеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із цього ракурсу добре видно, наскільки там далеко."
+        },
+        {
+            "tag": "A2C3.RILCLI_RILEY_0000",
+            "en": "Actually… you’re probably right.",
+            "ru_native": "Ну... возможно, ты и прав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть… ти маєш рацію."
+        },
+        {
+            "tag": "A2C3.RILCLI_RILEY_0001",
+            "en": "Eh, I drink enough milk. I woulda been alright.",
+            "ru_native": "Ой, я много молока пью. Кости выдержат.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тю, знаєш, скільки я каші їла? Усе в мене вийде."
+        }
+    ]
+}

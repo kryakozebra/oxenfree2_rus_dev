@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S7.TRUSTF",
+    "entries": [
+        {
+            "tag": "A1S7.TRUSTF_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.TRUSTF_CHOICE_0000_OPTION_0000",
+            "en": "The truck’s on?",
+            "ru_native": "Грузовик завелся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вантажівка завелася?"
+        },
+        {
+            "tag": "A1S7.TRUSTF_CHOICE_0000_OPTION_0001",
+            "en": "Someone there?",
+            "ru_native": "Тут кто-нибудь есть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи є там хто?"
+        },
+        {
+            "tag": "A1S7.TRUSTF_RILEY_0000",
+            "en": "[to herself] Is that… coming from the truck?",
+            "ru_native": "Это звук... из грузовика?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[каже до себе] Це звук… із вантажівки?"
+        },
+        {
+            "tag": "A1S7.TRUSTF_RILEY_0001",
+            "en": "[calling out] Hey! Hello? Person messing with the truck radio?",
+            "ru_native": "Эй! Ау? Кто там крутит радио в машине?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[кричить] Гей! Агов? Хто там крутить радіо в машині?"
+        },
+        {
+            "tag": "A1S7.TRUSTF_RILEY_0002",
+            "en": "[to herself] Hmph.",
+            "ru_native": "Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[каже до себе] Гм."
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S4.EVETRA",
+    "entries": [
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0000_OPTION_0000",
+            "en": "Made it.",
+            "ru_native": "Получилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вийшло."
+        },
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0000_OPTION_0001",
+            "en": "I had to climb.",
+            "ru_native": "Пришлось лезть на гору.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Довелося лізти на гору."
+        },
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0000_OPTION_0002",
+            "en": "Do we have hazard pay?",
+            "ru_native": "У нас есть доплата за риск?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам доплатять за ризик?"
+        },
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0001_OPTION_0000",
+            "en": "Sure.",
+            "ru_native": "Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно."
+        },
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0001_OPTION_0001",
+            "en": "Not yet.",
+            "ru_native": "Пока нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще ні."
+        },
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0002_OPTION_0000",
+            "en": "Got it!",
+            "ru_native": "Ясно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є."
+        },
+        {
+            "tag": "A1S4.EVETRA_CHOICE_0002_OPTION_0001",
+            "en": "Explain it again?",
+            "ru_native": "Можешь повторить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш повторити?"
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0000",
+            "en": "Riley, that you? You make it?",
+            "ru_native": "Райли, это ты? Получилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, це ти? Вийшло?"
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0001",
+            "en": "Please check in.",
+            "ru_native": "Ответь, пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, відгукнися."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0002",
+            "en": "Didja make it?",
+            "ru_native": "У тебя получилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе вийшло?"
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0003",
+            "en": "Confetti.",
+            "ru_native": "Умничка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Молодчина."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0004",
+            "en": "Mountain climb? Uh… well, the joys of an outdoors job I suppose.",
+            "ru_native": "Залезла на гору? Вот она, романтика полевой работы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залізла на гору? Ось вони, радощі польової роботи."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0005",
+            "en": "I think we do? But—like—you gotta lose a limb to get it. Pretty stringent.",
+            "ru_native": "Вроде да. Но надо руку или ногу потерять, чтобы ее получить. Сурово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Начебто так. Але треба руку чи ногу втратити,<br>щоби її отримати. Суворі правила."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0006",
+            "en": "Well, whether you’re there or not, you should know what exactly the ask is.",
+            "ru_native": "Там ты или не там, ты знаешь, что делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там ти чи не там, ти знаєш, що робити."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0007",
+            "en": "Okay, so you got some options for that transmitter.",
+            "ru_native": "Хорошо, с передатчиком есть несколько вариантов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, для радіопередавача є кілька налаштувань."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0008",
+            "en": "Are you ready to plant it?",
+            "ru_native": "Готова к установке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Готова встановити його?"
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0009",
+            "en": "You got a couple in your backpack.",
+            "ru_native": "У тебя есть парочка в рюкзаке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе є декілька в рюкзаку."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0010",
+            "en": "Eventually.",
+            "ru_native": "Наконец-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нарешті."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0011",
+            "en": "Sure. Call me back when you’re ready.",
+            "ru_native": "Конечно. Вызывай, когда будешь готова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно. Дай знати, коли будеш готова."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0012",
+            "en": "I’ll assume you’ve got your ear pressed to the speaker, eagerly awaiting instruction. So…",
+            "ru_native": "Полагаю, ты прижала ухо к динамику и ждешь указаний. Итак...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ти притиснула вухо до динаміка й чекаєш на вказівки. Отже…"
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0013",
+            "en": "Ideally you want as high a point as possible, as unobstructed as possible.",
+            "ru_native": "В идеале, нужна самая высокая точка безо всяких препятствий.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для кращого результату потрібна найвища точка без жодних перешкод для сигналу."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0014",
+            "en": "They can’t be placed too close together otherwise their frequencies will do something—",
+            "ru_native": "Их нельзя ставить слишком близко друг к<br>другу, иначе что-то там случится с частотами...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їх не можна ставити надто близько один до одного,<br>інакше щось там станеться із частотами."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0015",
+            "en": "—someone explained to me like three weeks ago that I just immediately forgot so uh…",
+            "ru_native": "Мне объясняли недели три назад, и я тут же забыла. Так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені пояснювали тижнів зо три тому, і я вже забула. Тож…"
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0016",
+            "en": "—you have to space ‘em out. They need to “harmonize.”",
+            "ru_native": "Поставь их так, чтобы они «согласовались».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Постав їх так, щоби вони «узгодилися»."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0017",
+            "en": "So uh—yeah—just use your best judgment and find a spot that’s just right. High and clear.",
+            "ru_native": "Просто выбери самое, на твой взгляд, подходящее место. Повыше и без помех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… вибери найкраще, на твій погляд, місце. Високе й без перешкод."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0018",
+            "en": "Okay, that’s it. Over.",
+            "ru_native": "Вот и все. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, це все. Прийом."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0019",
+            "en": "Great. I’ll check back later when you’re done.",
+            "ru_native": "Отлично. Я попозже проверю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово. Я пізніше зв’яжуся з тобою, щоби перевірити."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0020",
+            "en": "Yeah, just place that first transmitter at the peak, in a hopefully unobstructed patch of land.",
+            "ru_native": "Да, просто поставь первый передатчик на самой вершине.<br>Желательно, чтобы вокруг не было никаких препятствий.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, просто постав перший радіопередавач на самій вершині.<br>Бажано, щоби довкола не було жодних перешкод."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0021",
+            "en": "High and clear. That’s it. Easy peasy.",
+            "ru_native": "Повыше и без помех. Проще простого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Високе місце й без перешкод. Простіше простого."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0022",
+            "en": "I’ll check back in with you later, okay?",
+            "ru_native": "Я с тобой попозже свяжусь, ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я з тобою пізніше зв’яжуся, гаразд?"
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0023",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A1S4.EVETRA_EVELYN_0024",
+            "en": "Or—try to.",
+            "ru_native": "Попробуй.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або спробуй…"
+        },
+        {
+            "tag": "A1S4.EVETRA_RILEY_0000",
+            "en": "I made it up. I’m at the summit.",
+            "ru_native": "Получилось. Я на вершине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вийшло. Я на вершині."
+        },
+        {
+            "tag": "A1S4.EVETRA_RILEY_0001",
+            "en": "One mountain climb later, yes, I’m at the summit.",
+            "ru_native": "Залезла на гору и – да, я на вершине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залізла на гору й так, я на вершині."
+        },
+        {
+            "tag": "A1S4.EVETRA_RILEY_0002",
+            "en": "Yeah, I’m here. Just tell me we have hazard pay.",
+            "ru_native": "Да, я тут. Надеюсь, у нас есть доплата за риск.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тут. Сподіваюся, я отримаю доплату за ризик."
+        },
+        {
+            "tag": "A1S4.EVETRA_RILEY_0003",
+            "en": "Yeah, go for it.",
+            "ru_native": "Да, давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, давай."
+        },
+        {
+            "tag": "A1S4.EVETRA_RILEY_0004",
+            "en": "Uh—give me a minute.",
+            "ru_native": "Эм, дай мне минуту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, дай мені хвилину."
+        },
+        {
+            "tag": "A1S4.EVETRA_RILEY_0005",
+            "en": "Okay. Sounds easy enough.",
+            "ru_native": "Ладно. Вроде не сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Начебто не складно."
+        },
+        {
+            "tag": "A1S4.EVETRA_RILEY_0006",
+            "en": "Uh, explain it one more time, if you could?",
+            "ru_native": "Хм, можешь еще раз объяснить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, можеш ще раз пояснити?"
+        }
+    ]
+}

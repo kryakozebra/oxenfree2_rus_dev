@@ -1,0 +1,141 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S3.RESTMI",
+    "entries": [
+        {
+            "tag": "A1S3.RESTMI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.RESTMI_CHOICE_0000_OPTION_0000",
+            "en": "I could use the break.",
+            "ru_native": "Я бы тоже отдохнула.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б теж відпочила."
+        },
+        {
+            "tag": "A1S3.RESTMI_CHOICE_0000_OPTION_0001",
+            "en": "Let's keep it moving.",
+            "ru_native": "Пошли дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо далі."
+        },
+        {
+            "tag": "A1S3.RESTMI_JACOB_0000",
+            "en": "Oh, uh, wait up a minute, there's a bench over here. [panting]",
+            "ru_native": "Ой, погоди-ка, тут скамейка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, стривай, тут є лавка."
+        },
+        {
+            "tag": "A1S3.RESTMI_JACOB_0001",
+            "en": "Can we… just take a quick second?",
+            "ru_native": "Можем... передохнуть секунду?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можемо… трохи перепочити?"
+        },
+        {
+            "tag": "A1S3.RESTMI_JACOB_0002",
+            "en": "I just need to rest my feet.",
+            "ru_native": "У меня ноги гудят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене вже ноги болять."
+        },
+        {
+            "tag": "A1S3.RESTMI_JACOB_0003",
+            "en": "I sound like I'm eighty, but…",
+            "ru_native": "Знаю, я ною, как старый дед.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, я кажу, ніби мені вже вісімдесят, але…"
+        },
+        {
+            "tag": "A1S3.RESTMI_JACOB_0004",
+            "en": "I'm sorry, I'm just not used to this kind of… exertion. [laughs]",
+            "ru_native": "Прости, просто я не привык к таким... нагрузкам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, просто я не звик до такого… навантаження. [сміється]"
+        },
+        {
+            "tag": "A1S3.RESTMI_JACOB_0005",
+            "en": "Ah. Thanks. Just till my toes stop throbbing.",
+            "ru_native": "Ох. Спасибо. А то у меня уже пальцы болят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, дякую. У мене вже пальці болять."
+        },
+        {
+            "tag": "A1S3.RESTMI_JACOB_0006",
+            "en": "Okay, no, that's—that's alright, I'll tough it out [fatigued].",
+            "ru_native": "Ладно, все в порядке. Я выдержу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, усе добре. Я витримаю."
+        },
+        {
+            "tag": "A1S3.RESTMI_JACOB_0007",
+            "en": "Okay.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A1S3.RESTMI_RILEY_0000",
+            "en": "Uh, yeah, that's fine. We can take a minute.",
+            "ru_native": "Да нет, все хорошо. Отдохнем минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно. Можемо перепочити."
+        },
+        {
+            "tag": "A1S3.RESTMI_RILEY_0001",
+            "en": "I could use the break, too.",
+            "ru_native": "Мне тоже отдых не повредит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж не відмовлюся від відпочинку."
+        },
+        {
+            "tag": "A1S3.RESTMI_RILEY_0002",
+            "en": "Sorry, but… I wanna get to where we're going before it gets too dark.",
+            "ru_native": "Прости, но не надо добраться до места, пока не стемнело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але мені треба туди дістатися, доки не стемніло."
+        },
+        {
+            "tag": "A1S3.RESTMI_RILEY_0003",
+            "en": "And… the light's starting to die a bit—",
+            "ru_native": "И... уже начинает смеркаться...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А вже вечоріє…"
+        }
+    ]
+}

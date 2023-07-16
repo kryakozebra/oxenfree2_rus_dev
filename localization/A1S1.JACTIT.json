@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.JACTIT",
+    "entries": [
+        {
+            "tag": "A1S1.JACTIT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.JACTIT_CHOICE_0000_OPTION_0000",
+            "en": "Huh?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм?"
+        },
+        {
+            "tag": "A1S1.JACTIT_CHOICE_0000_OPTION_0001",
+            "en": "My radio?",
+            "ru_native": "Радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моє радіо?"
+        },
+        {
+            "tag": "A1S1.JACTIT_JACOB_0000",
+            "en": "Riley? Use your radio, okay?",
+            "ru_native": "Райли? Используй радио, хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.JACTIT_JACOB_0001",
+            "en": "Tune into the—the signal, okay? <br> That will get you back to—[static]",
+            "ru_native": "Поймай сигнал. Так ты вернешься...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.JACTIT_RILEY_0000",
+            "en": "Huh? What are you talking about?",
+            "ru_native": "Что? Ты о чем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.JACTIT_RILEY_0001",
+            "en": "My—my radio? Why would I—",
+            "ru_native": "Радио? Зачем мне...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

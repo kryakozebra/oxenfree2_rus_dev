@@ -1,0 +1,285 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.BEGGAR",
+    "entries": [
+        {
+            "tag": "A2G2.BEGGAR_BEGGAR_0000",
+            "en": "Murder. It’s murder. It was murder.",
+            "ru_native": "Убийство. Это убийство. Было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вбивство. Це вбивство. Це було вбивство."
+        },
+        {
+            "tag": "A2G2.BEGGAR_BEGGAR_0001",
+            "en": "Lattimer? Lattimer.",
+            "ru_native": "Латтимер? Латтимер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Латтімер? Латтімер?"
+        },
+        {
+            "tag": "A2G2.BEGGAR_BEGGAR_0002",
+            "en": "They killed them.",
+            "ru_native": "Их убили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони вбили їх."
+        },
+        {
+            "tag": "A2G2.BEGGAR_BEGGAR_0003",
+            "en": "It was murder.",
+            "ru_native": "Это было убийство.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було вбивство."
+        },
+        {
+            "tag": "A2G2.BEGGAR_BEGGAR_0004",
+            "en": "Twelve souls. It was murder.",
+            "ru_native": "Двенадцать человек. Это было убийство.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дванадцять душ. Це було вбивство."
+        },
+        {
+            "tag": "A2G2.BEGGAR_BEGGAR_0005",
+            "en": "Blood-soaked money, blood-soaked dirt.",
+            "ru_native": "Деньги в крови, земля в крови.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кров на грошах. Кров на землі."
+        },
+        {
+            "tag": "A2G2.BEGGAR_BEGGAR_0006",
+            "en": "The Lattimer mine, don’t—don’t—it was…",
+            "ru_native": "Шахта Латтимер, нет-нет... она...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шахта Латтімер, вона…"
+        },
+        {
+            "tag": "A2G2.BEGGAR_BEGGAR_0007",
+            "en": "Collapsed. In '92. After that, nothing. Couldn't even breathe. No breath. Nothing.",
+            "ru_native": "Обрушилась. В 92-м году. А потом ничего. Не могли дышать. Все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обвалилася. У 92-ому. А потім нічого. Не могли навіть дихати. Нічого."
+        },
+        {
+            "tag": "A2G2.BEGGAR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.BEGGAR_CHOICE_0000_OPTION_0000",
+            "en": "What happened here?",
+            "ru_native": "Что тут произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тут сталося?"
+        },
+        {
+            "tag": "A2G2.BEGGAR_CHOICE_0000_OPTION_0001",
+            "en": "We shouldn’t be here.",
+            "ru_native": "Нам тут не место.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам не слід бути тут."
+        },
+        {
+            "tag": "A2G2.BEGGAR_CHOICE_0001_OPTION_0000",
+            "en": "No way.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ни в коем случае.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ну."
+        },
+        {
+            "tag": "A2G2.BEGGAR_CHOICE_0001_OPTION_0001",
+            "en": "Maybe?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо?"
+        },
+        {
+            "tag": "A2G2.BEGGAR_CHOICE_0001_OPTION_0002",
+            "en": "I'll handle it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я разберусь с этим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я впораюся."
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0000",
+            "en": "Uh…",
+            "ru_native": "Ох...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е…"
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0001",
+            "en": "Um, maybe we should just keep walking.",
+            "ru_native": "Давай просто пойдем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, нам слід іти далі."
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0002",
+            "en": "Oh!",
+            "ru_native": "",
+            "ru_machine": "DEEPL О!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О!"
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0003",
+            "en": "Uh...",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э-э...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем…"
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0004",
+            "en": "[whispering] Should we—you know...",
+            "ru_native": "",
+            "ru_machine": "DEEPL [шепотом] Должны ли мы... ты знаешь...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[пошепки] Чи повинні ми… ну, ти розумієш…"
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0005",
+            "en": "[whispering] Because he probably just saw us, uh—",
+            "ru_native": "",
+            "ru_machine": "DEEPL [шепотом] Потому что он, наверное, только что увидел нас...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[пошепки] Тому що він, мабуть, щойно побачив нас, е-е…"
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0006",
+            "en": "[whispering] I dunno, pop into existence?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [шепотом] Я не знаю, всплыть в существование?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[пошепки] Я не знаю, вистрибнути?"
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0007",
+            "en": "[whispering] Oh, and our clothes, too, they aren't really, um—",
+            "ru_native": "",
+            "ru_machine": "DEEPL [шепотом] О, и наша одежда тоже, она не совсем...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[пошепки] О, і наш одяг теж, він не зовсім, гм…"
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0008",
+            "en": "[whispering] No, yeah, of course, suspicious whispering.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [шепотом] Нет, да, конечно, подозрительный шепот.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[пошепки] Так, так, звичайно, підозрілий шепіт."
+        },
+        {
+            "tag": "A2G2.BEGGAR_JACOB_0009",
+            "en": "I'll follow your lead.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я последую твоему примеру.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зроблю, як і ти."
+        },
+        {
+            "tag": "A2G2.BEGGAR_RILEY_0000",
+            "en": "Uh—hey there. What uh—w-what exactly happened here?",
+            "ru_native": "О, привет. Что... что именно здесь произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. Що саме тут сталося?"
+        },
+        {
+            "tag": "A2G2.BEGGAR_RILEY_0001",
+            "en": "We, uh, shouldn’t be here…",
+            "ru_native": "Нам, эм, лучше уйти...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам… не слід бути тут…"
+        },
+        {
+            "tag": "A2G2.BEGGAR_RILEY_0002",
+            "en": "No. No, absolutely not, no.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет. Нет, абсолютно нет, нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ні, точно ні, ні."
+        },
+        {
+            "tag": "A2G2.BEGGAR_RILEY_0003",
+            "en": "No eye contact, just don't—I don't know, just don't complicate this any more.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Никакого зрительного контакта, просто не... не знаю, просто не усложняй все еще больше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніякого зорового контакту, просто не… я не знаю, просто не ускладнюй ще більше."
+        },
+        {
+            "tag": "A2G2.BEGGAR_RILEY_0004",
+            "en": "I... Ugh, who knows? I don't know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL I... Уф, кто знает? Я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Уф, хтось знає? Не знаю."
+        },
+        {
+            "tag": "A2G2.BEGGAR_RILEY_0005",
+            "en": "Let me deal with it. Just act... normal.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Позволь мне разобраться с этим. Просто веди себя... нормально.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дозволь мені розібратися з цим. Просто поводься… звичайно."
+        },
+        {
+            "tag": "A2G2.BEGGAR_RILEY_0006",
+            "en": "At least it looks like it's just him.",
+            "ru_native": "",
+            "ru_machine": "DEEPL По крайней мере, кажется, что это только он.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні здається, що тут тільки він."
+        }
+    ]
+}

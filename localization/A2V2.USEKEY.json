@@ -1,0 +1,33 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2V2.USEKEY",
+    "entries": [
+        {
+            "tag": "A2V2.USEKEY_JACOB_0000",
+            "en": "Yeah. Got lucky there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да. Там мне повезло.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Там пощастило."
+        },
+        {
+            "tag": "A2V2.USEKEY_RILEY_0000",
+            "en": "Oh, you see the sticker on the door? It’s a star, like the one on the… key we found.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, видишь наклейку на двери? Это звезда, такая же, как на... ключе, который мы нашли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бачиш наклейку на дверях? Це зірка, така ж, як на… ключі, який ми знайшли."
+        },
+        {
+            "tag": "A2V2.USEKEY_RILEY_0001",
+            "en": "Man… good thing we picked it up.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Блин... хорошо, что мы его подобрали.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ба… Добре, що ми його підібрали."
+        }
+    ]
+}

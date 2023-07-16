@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.TRYCAE",
+    "entries": [
+        {
+            "tag": "A1PO.TRYCAE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.TRYCAE_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? We’re at the transmitter!",
+            "ru_native": "Эвелин? Мы его выключили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ми біля передавача!"
+        },
+        {
+            "tag": "A1PO.TRYCAE_CHOICE_0000_OPTION_0001",
+            "en": "Hello? Evelyn?",
+            "ru_native": "Прием? Эвелин?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло! Евелін?"
+        },
+        {
+            "tag": "A1PO.TRYCAE_JACOB_0000",
+            "en": "I think our walkies are struggling to get through.",
+            "ru_native": "Боюсь, рации не справляются с задачей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, наші рації не справляються."
+        },
+        {
+            "tag": "A1PO.TRYCAE_RILEY_0000",
+            "en": "Hey, Evelyn, you there? ",
+            "ru_native": "Эвелин, ты там? ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, ти мене чуєш? "
+        },
+        {
+            "tag": "A1PO.TRYCAE_RILEY_0001",
+            "en": "Hello? Evelyn? You there? Over.",
+            "ru_native": "Алло? Эвелин? Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло! Евелін? Ти мене чуєш? Прийом."
+        },
+        {
+            "tag": "A1PO.TRYCAE_RILEY_0002",
+            "en": "Evelyn? Are you there? We’re – we’re at the transmitter. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин? Ты здесь? Мы - мы у передатчика. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ти там? Ми… Ми біля радіопередавача. Прийом."
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC02.SHA2W3",
+    "entries": [
+        {
+            "tag": "WC02.SHA2W3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.SHA2W3_CHOICE_0000_OPTION_0000",
+            "en": "Shelley? Tell me about the beach.",
+            "ru_native": "Шелли? Расскажи мне про пляж.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі? Розкажи мені про пляж."
+        },
+        {
+            "tag": "WC02.SHA2W3_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.SHA2W3_CHOICE_0001_OPTION_0000",
+            "en": "Charming.",
+            "ru_native": "Прелесть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарівно."
+        },
+        {
+            "tag": "WC02.SHA2W3_CHOICE_0001_OPTION_0001",
+            "en": "Any secrets?",
+            "ru_native": "Никаких секретов?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жодних таємниць?"
+        },
+        {
+            "tag": "WC02.SHA2W3_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.SHA2W3_CHOICE_0002_OPTION_0000",
+            "en": "Even more charming.",
+            "ru_native": "Еще прелестней.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть ще чарівніше."
+        },
+        {
+            "tag": "WC02.SHA2W3_CHOICE_0002_OPTION_0001",
+            "en": "My kinda beach.",
+            "ru_native": "Мне нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Такий пляж саме для мене."
+        },
+        {
+            "tag": "WC02.SHA2W3_RILEY_0000",
+            "en": "Hey, Shelley? What do you know about the beach out here?",
+            "ru_native": "Эй, Шелли? Что ты знаешь о местном пляже?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Шеллі? Що ти знаєш про місцевий пляж?"
+        },
+        {
+            "tag": "WC02.SHA2W3_RILEY_0001",
+            "en": "Vacation hotspot.",
+            "ru_native": "Зона отдыха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зона відпочинку."
+        },
+        {
+            "tag": "WC02.SHA2W3_RILEY_0002",
+            "en": "Anything—ya know—salacious ever happen out here?",
+            "ru_native": "А здесь никогда не случалось ничего... непристойного?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тут ніколи не траплялося нічого… непристойного?"
+        },
+        {
+            "tag": "WC02.SHA2W3_RILEY_0003",
+            "en": "Wow, do the wonders ever cease?",
+            "ru_native": "Ух ты, будет ли конец этим чудесам?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, тут колись дивні речі перестануть траплятися?"
+        },
+        {
+            "tag": "WC02.SHA2W3_RILEY_0004",
+            "en": "No kids? My kinda beach.",
+            "ru_native": "Пляж без детей? Мне нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жодних дітей? Такий пляж саме для мене."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0000",
+            "en": "The water never gets warm enough and the sand is extra rocky?",
+            "ru_native": "Вода никогда не прогревается, и в песке полно камней?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вода ніколи не прогрівається, і на березі багато каміння?"
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0001",
+            "en": "Over?",
+            "ru_native": "Прием?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом?"
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0002",
+            "en": "You too can regret your afternoon.",
+            "ru_native": "Ты тоже можешь пожалеть о своем дне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти теж можеш пошкодувати про свій день."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0003",
+            "en": "Uh, I think a bike washed up once.",
+            "ru_native": "Хм, кажется, как-то раз на берег выбросило велик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, здається, колись на берег викинуло велосипед."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0004",
+            "en": "Though it’s equally possible someone just uh… just left their bike there.",
+            "ru_native": "Хотя с той же вероятностью его мог кто-то просто там оставить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча, ймовірно, його міг хтось там і залишити."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0005",
+            "en": "There was a big push in like, the 20s I think—to keep kids away.",
+            "ru_native": "Вышел большой запрет – в 20-е, кажется? – не пускать туда детей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Десь у 20-ті, здається, було суворо заборонено пускати туди дітей."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0006",
+            "en": "Hidden caves and tunnels and all that, kids love crawling right into those.",
+            "ru_native": "Скрытые пещеры, туннели и все такое, дети любят туда лазить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Приховані печери, тунелі й таке інше, діти люблять туди лазити."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0007",
+            "en": "And hate when they can’t crawl back out. Which apparently was an epidemic then.",
+            "ru_native": "Плохо, когда они не могут выбраться обратно. Тогда это была просто эпидемия какая-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погано, коли вони не можуть вибратися звідти. Тоді це була просто якась епідемія."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0008",
+            "en": "Rock slides, broken ankles in the dark, bad luck. They banned all children eventually.",
+            "ru_native": "Кто на камне поскользнется, кто ногу сломает. Невезуха. В итоге, полный запрет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось на камені послизнеться, комусь не пощастить, і він ногу зламає.<br>Зрештою, суворо заборонили ходити сюди."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0009",
+            "en": "And they stayed away ever since.",
+            "ru_native": "С тех пор дети туда не ходят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З того часу діти туди не лазять."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0010",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0011",
+            "en": "Cold, uncomfortable, and with a creepy history.",
+            "ru_native": "Холодный, неудобный и с жуткой историей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Холодне, незручне місце з моторошною історією."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0012",
+            "en": "Pack your sunglasses.",
+            "ru_native": "Пакуй солнечные очки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пакуй сонячні окуляри."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0013",
+            "en": "Who doesn’t love getting a tan on a chilly overcast afternoon?",
+            "ru_native": "Кто не любит позагорать холодным пасмурным днем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто ж не любить засмагати холодним похмурим днем?"
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0014",
+            "en": "Like most beaches in this state, pretty to look at…",
+            "ru_native": "Как и большинство пляжей в этом штате, с виду красивый...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як і більшість пляжів у цьому штаті, гарні на вигляд…"
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0015",
+            "en": "…but sucks if you’re looking for that classic bikini and bellini fun in the sun experience.",
+            "ru_native": "...а если захочешь в купальнике позагорать, коктейльчики попить – отстой полный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…але тут нудно, якщо ти шукаєш класичний пляж для засмаги в бікіні та розваг."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0016",
+            "en": "But hey, at least we save on sunscreen.",
+            "ru_native": "Ну, зато на креме от загара экономим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але принаймні ми економимо на сонцезахисному кремі."
+        },
+        {
+            "tag": "WC02.SHA2W3_SHELLEY_0017",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        }
+    ]
+}

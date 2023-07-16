@@ -1,0 +1,231 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1LH.GETBOA",
+    "entries": [
+        {
+            "tag": "A1LH.GETBOA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.GETBOA_CHOICE_0000_OPTION_0000",
+            "en": "Yes.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A1LH.GETBOA_CHOICE_0000_OPTION_0001",
+            "en": "Eh, I’ll do it.",
+            "ru_native": "Я сама.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, я зроблю."
+        },
+        {
+            "tag": "A1LH.GETBOA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.GETBOA_CHOICE_0001_OPTION_0000",
+            "en": "Eh, you do it.",
+            "ru_native": "Давай ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, краще ти."
+        },
+        {
+            "tag": "A1LH.GETBOA_CHOICE_0001_OPTION_0001",
+            "en": "Yep!",
+            "ru_native": "Да!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага!"
+        },
+        {
+            "tag": "A1LH.GETBOA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.GETBOA_CHOICE_0002_OPTION_0000",
+            "en": "Yes, please.",
+            "ru_native": "Да, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, будь ласка."
+        },
+        {
+            "tag": "A1LH.GETBOA_CHOICE_0002_OPTION_0001",
+            "en": "Eh, I’ll do it.",
+            "ru_native": "Я сама.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, я веслуватиму."
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0000",
+            "en": "Ah—okay.",
+            "ru_native": "Отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А… гаразд."
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0001",
+            "en": "I know it’s not too comfortable, but, uh, the ride is thankfully short.",
+            "ru_native": "Знаю, не самое удобное судно. К счастью, нам тут недалеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що досить незручно, проте подорож, на щастя, коротка."
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0002",
+            "en": "So. Still want me to paddle?",
+            "ru_native": "На веслах я буду?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже. Усе ще хочеш, щоби я веслував?"
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0003",
+            "en": "Cause I’m game if you are.",
+            "ru_native": "Я так-то не против.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Згоден, якщо ти також."
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0004",
+            "en": "Sounds good.",
+            "ru_native": "По рукам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить непогано."
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0005",
+            "en": "Okay then!",
+            "ru_native": "Без проблем!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді гаразд!"
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0006",
+            "en": "So. Still want to paddle?",
+            "ru_native": "Все еще хочешь грести?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже. Усе ще хочеш веслувати?"
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0007",
+            "en": "Cause if you’re ready, we can head out.",
+            "ru_native": "Если готова, можем отправляться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти готова, можемо вирушати."
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0008",
+            "en": "Well… I guess I’ll paddle.",
+            "ru_native": "Ладно... Тогда я буду грести.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж… гадаю, я веслуватиму."
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0009",
+            "en": "Unless there’s any objection.",
+            "ru_native": "Если ты не возражаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ніхто не заперечує."
+        },
+        {
+            "tag": "A1LH.GETBOA_JACOB_0010",
+            "en": "No, no, no be my guest.",
+            "ru_native": "Нет, прошу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ні, прошу."
+        },
+        {
+            "tag": "A1LH.GETBOA_RILEY_0000",
+            "en": "Yeah, I’ll watch this time, maybe I’ll steer us on the way back.",
+            "ru_native": "Да, а я буду смотреть. На обратном пути налягу на весла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, цього разу пильнуватиму. Може, я кермуватиму на зворотному шляху."
+        },
+        {
+            "tag": "A1LH.GETBOA_RILEY_0001",
+            "en": "Eh… actually, now that I see the boat, I’m sure I can handle it.",
+            "ru_native": "Эм... Теперь мне кажется, что я сама справлюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… насправді, тепер, коли я бачу човен, впевнена, що впораюся."
+        },
+        {
+            "tag": "A1LH.GETBOA_RILEY_0002",
+            "en": "Eh, actually, I’ll watch this time, maybe I’ll steer us on the way back.",
+            "ru_native": "Эм... Я лучше посмотрю. На обратном пути налягу на весла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… насправді, цього разу пильнуватиму. Може, я кермуватиму на зворотному шляху."
+        },
+        {
+            "tag": "A1LH.GETBOA_RILEY_0003",
+            "en": "Yeah, definitely.",
+            "ru_native": "Да, определенно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, однозначно."
+        },
+        {
+            "tag": "A1LH.GETBOA_RILEY_0004",
+            "en": "Eh… I’d like to do it, actually, if you don’t mind.",
+            "ru_native": "Я бы хотела сама грести, если ты не против.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Я хотіла б, якщо ти не проти."
+        }
+    ]
+}

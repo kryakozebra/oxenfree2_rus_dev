@@ -1,0 +1,465 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T2.BATORE",
+    "entries": [
+        {
+            "tag": "A2T2.BATORE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0000_OPTION_0000",
+            "en": "I saw Olivia with two older people.",
+            "ru_native": "Я видела Оливию с двумя взрослыми.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила Олівію із двома дорослими."
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0000_OPTION_0001",
+            "en": "Let’s hurry up.",
+            "ru_native": "Нужно спешить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хутчіш."
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0001_OPTION_0000",
+            "en": "Her parents, I think?",
+            "ru_native": "Лес.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її батьки, мабуть?"
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0001_OPTION_0001",
+            "en": "We were in a garden.",
+            "ru_native": "Пещеры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми були в саду."
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0001_OPTION_0002",
+            "en": "I have no idea.",
+            "ru_native": "Понятия не имею.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0002_OPTION_0000",
+            "en": "Garland",
+            "ru_native": "Гарленд.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарленд"
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0002_OPTION_0001",
+            "en": "The Caves",
+            "ru_native": "Пещеры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Печери"
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0003_OPTION_0000",
+            "en": "The Woods",
+            "ru_native": "Лес.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ліс"
+        },
+        {
+            "tag": "A2T2.BATORE_CHOICE_0003_OPTION_0001",
+            "en": "Garland",
+            "ru_native": "Гарленд.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарленд"
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0000",
+            "en": "God, that Olivia. What a nutjob.",
+            "ru_native": "Эта Оливия. Совсем головой поехала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, ця Олівія. Зовсім дах зірвало."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0001",
+            "en": "How are you holding up?",
+            "ru_native": "Как ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти там?"
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0002",
+            "en": "I… lost you for a second…",
+            "ru_native": "Я тебя потерял ненадолго.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… втратив тебе на мить."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0003",
+            "en": "I heard that girl, Olivia talking—like—really weirdly on the walkie.",
+            "ru_native": "Я слышала девчонку, Оливию... Она как-то странно говорила по рации.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я чула ту дівчину, Олівію… Вона якось дивно говорила по рації."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0004",
+            "en": "We got two transmitters left, and then… let’s hope the problem just goes away. Uh, magically.",
+            "ru_native": "Осталось два передатчика, и потом... Будем<br>надеяться, проблема решится. Как по волшебству.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишилося два радіопередавачі, і потім… Сподіватимемося, проблема вирішиться.<br>Ем, магічним чином."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0005",
+            "en": "We did the Garland one, so it’s off to the Ranger station or caves and cliffside, next.",
+            "ru_native": "С Гарлендом покончено, дальше станция рейнджеров или пещеры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З Гарленд покінчено, далі станція наглядачів або печери й скелі."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0006",
+            "en": "Where to?",
+            "ru_native": "Куда двинем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди вирушимо?"
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0007",
+            "en": "Roger. Lead the way.",
+            "ru_native": "Вас понял. Идем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийнято. Веди."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0008",
+            "en": "Uh, how about we just start walking and see where it takes us? Lead on.",
+            "ru_native": "Ладно, давай просто начнем идти, и там уже будет понятно? Вперед.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, може, просто почнемо йти, а далі розберемося? Веди."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0009",
+            "en": "We did the Woods, so it’s off to Garland the ghost town or caves and cliffside, next.",
+            "ru_native": "В лесу мы побывали, остались город-призрак Гарленд и пещеры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми пройшли ліс, тож далі підемо до Гарленду — міста-привиду чи до печер і скель."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0010",
+            "en": "We did Charity Point, so it’s off to the Ranger station or Garland the ghost town, next.",
+            "ru_native": "Черити Поинт позади, остались станция рейнджеров и Гарленд, город-призрак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Черіті Поінт позаду, тож далі підемо до станції наглядачів та<br>Гарленду — міста-привиду."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0011",
+            "en": "Riley? Riley… are you… okay?",
+            "ru_native": "Райли? Райли... ты... в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Райлі… з тобою… все гаразд?"
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0012",
+            "en": "You kind of zoned out.",
+            "ru_native": "Ты типа отключилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти, наче у хмарах витаєш."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0013",
+            "en": "Well… wait. I’m sorry, just…",
+            "ru_native": "Блин... стой. Прости, просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, зачекай. Вибач, просто…"
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0014",
+            "en": "Trying to do… what? What did you see?",
+            "ru_native": "Что пытается? Что ты видела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Намагалася зробити… що? Що ти бачила?"
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0015",
+            "en": "Another… time jump… thing?",
+            "ru_native": "Очередной... прыжок во времени?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іншу… штуку… для стрибків у часі?"
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0016",
+            "en": "Or… something else.",
+            "ru_native": "Или... что-то еще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи… щось інше."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0017",
+            "en": "Mm.",
+            "ru_native": "М-м.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мм."
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0018",
+            "en": "Riley…",
+            "ru_native": "Райли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі…"
+        },
+        {
+            "tag": "A2T2.BATORE_JACOB_0019",
+            "en": "There’s something… more… going on here, I think.",
+            "ru_native": "Мне кажется, тут происходит что-то... еще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, там відбувається ще щось…"
+        },
+        {
+            "tag": "A2T2.BATORE_OLIVIA_0000",
+            "en": "I just… I dunno what’s going on—why I can’t keep it together.",
+            "ru_native": "Я... не понимаю, что происходит. Почему все идет не так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не розумію що відбувається. Чому все йде не так?"
+        },
+        {
+            "tag": "A2T2.BATORE_OLIVIA_0001",
+            "en": "This is the right night—it has to be—they wouldn’t have… told me if it wasn’t…",
+            "ru_native": "Ночь правильная, я уверена. Они бы не сказали мне, если бы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це саме та ніч, я певна. Вони б не сказали мені, якби це було не так…"
+        },
+        {
+            "tag": "A2T2.BATORE_OLIVIA_0002",
+            "en": "I will get to Planetshine. I will get to Planetshine. I will…",
+            "ru_native": "Я погружусь в сияние планет. Я погружусь в сияние планет. Я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я занурюся в Сяйво Місяця. Я занурюся в Сяйво Місяця. Я…"
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0000",
+            "en": "That girl, Olivia, I think she’s… trying to do something…",
+            "ru_native": "Девчонка, Оливия... Она что-то пытается сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та дівчина, Олівія… Здається, вона щось намагається зробити…"
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0001",
+            "en": "We were—I dunno—not in the present. And she seemed really happy to be there.",
+            "ru_native": "Мы были... не знаю, не в настоящем. И она была этому очень рада.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми були… не знаю, наче не в теперішньому часі. І здавалося,<br>що вона дуже рада бути там."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0002",
+            "en": "And then really mad. I think something’s going wrong with her plan. Whatever it is.",
+            "ru_native": "А потом так разозлилась. Видимо, что-то пошло не по плану. Что бы это ни было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А потім так розлютилася. Мабуть, щось пішло не за її планом. Щоб то не було."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0003",
+            "en": "Let’s hurry up. I think we might be running out of time.",
+            "ru_native": "Нужно спешить. У нас не так много времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поквапмося. Схоже, що в нас залишилося не так багато часу."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0004",
+            "en": "Let’s head to the woods, get the forest over with before it gets any darker.",
+            "ru_native": "Давай начнем с леса, лучше закончить с ним до наступления темноты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирушаймо до лісу, краще перейти через гай ще до темряви."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0005",
+            "en": "Let’s head cliffside, get the caves over with before it gets any darker.",
+            "ru_native": "Давай начнем с пещер, лучше закончить с ними до наступления темноты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирушаймо до скель, краще пройти печери ще до темряви."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0006",
+            "en": "Let’s head to Garland, get the ghost town over with before it gets any darker.",
+            "ru_native": "Давай начнем с Гарленда, лучше закончить с ним до наступления темноты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Почнемо з Гарленду, краще перейти місто-привид до темряви."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0007",
+            "en": "I think… she was with her parents? Maybe?",
+            "ru_native": "Кажется... она была с родителями? Наверное?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю… вона була з батьками? Або ні?"
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0008",
+            "en": "They were talking about… planetshine—that thing she says.",
+            "ru_native": "Они говорили про... сияние планет – она так и сказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони говорили про… сяйво Місяця… вона про таке казала."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0009",
+            "en": "I don’t know. She seemed sad… desperate, a little.",
+            "ru_native": "Не знаю. Мне показалось, она была грустная... и слегка в отчаянии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Вона виглядала сумною… трохи безпорадною."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0010",
+            "en": "We were… in a garden? Someplace very… bright.",
+            "ru_native": "Мы были... в саду? В каком-то очень... солнечном месте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми були… у саду? Десь… де дуже яскраво."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0011",
+            "en": "Seemed like a nice day, honestly. And then it ended.",
+            "ru_native": "Это был хороший день, если честно. А потом он кончился.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здавалося, наче надворі безхмарний день, чесно. А потім все скінчилось."
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0012",
+            "en": "I saw… Olivia. With two older people…?",
+            "ru_native": "Я видела... Оливию. И еще двоих взрослых?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила… Олівію із двома дорослими…"
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0013",
+            "en": "I don’t know. I think she was trying to do something in the, uh, the time… stream?",
+            "ru_native": "Не знаю. По-моему, она пыталась что-то сделать во временном, эм... потоке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Здається, вона щось намагалася зробити… з… ем, часовим потоком?"
+        },
+        {
+            "tag": "A2T2.BATORE_RILEY_0014",
+            "en": "I’m not… sure.",
+            "ru_native": "Я не... уверена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Не впевнена."
+        }
+    ]
+}

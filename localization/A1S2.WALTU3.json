@@ -1,0 +1,159 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1S2.WALTU3",
+    "entries": [
+        {
+            "tag": "A1S2.WALTU3_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? I’m on 7.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин? Я на седьмом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Я на сьомому."
+        },
+        {
+            "tag": "A1S2.WALTU3_CHOICE_0001_OPTION_0000",
+            "en": "Yep, makes sense.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ага, вполне логично.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, зрозуміла."
+        },
+        {
+            "tag": "A1S2.WALTU3_CHOICE_0001_OPTION_0001",
+            "en": "I’ll figure it out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я разберусь с этим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розберуся."
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0000",
+            "en": "Great, hey, Hi.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отлично, привет, привет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, привіт."
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0001",
+            "en": "So, uh, everything about the walkie-talkie makes sense?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Значит, все, что касается рации, имеет смысл?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трошки зрозуміла, як користуватися рацією?"
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0002",
+            "en": "You’ll get the hang of it as you go.",
+            "ru_native": "",
+            "ru_machine": "DEEPL По ходу дела ты поймешь, что к чему.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ще розберешся по ходу роботи."
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0003",
+            "en": "[chuckles] Thanks, I try to be.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется] Спасибо, я стараюсь им быть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Дякую, я старалася."
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0004",
+            "en": "[chuckles] Don’t worry about it. You’ll take to it in no time.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [Не волнуйся об этом. Ты быстро освоишь его.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Не хвилюйся. Ти швидко звикнеш."
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0005",
+            "en": "Okay, I think we’ve covered everything.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, думаю, мы охватили все.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, думаю, що ми все обговорили."
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0006",
+            "en": "Well, nice to meet you, Riley, even if not in person, yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что ж, приятно познакомиться с тобой, Райли, пусть пока и не лично.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було приємно з тобою познайомитися, Райлі, хоч і не особисто."
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0007",
+            "en": "Let me know when you got your gear, okay? General Store. Okay, over and out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дай мне знать, когда ты получил снаряжение, хорошо? General Store. Окей, конец связи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дай знати, коли ти забереш спорядження. Універмаг. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0008",
+            "en": "Okay, Riley, I’ll talk to you later, after you get your stuff from the General Store.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, Райли, поговорим позже, после того как ты заберешь свои вещи из General Store.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Райлі. Поговоримо пізніше, коли ти забереш спорядження в універмазі."
+        },
+        {
+            "tag": "A1S2.WALTU3_EVELYN_0009",
+            "en": "Over and out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прием и отбой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.WALTU3_RILEY_0000",
+            "en": "Hey, Evelyn? I’m back on 7. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, Эвелин? Я снова на седьмом. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, Евелін? Я повернулася на сьомий. Прийом."
+        },
+        {
+            "tag": "A1S2.WALTU3_RILEY_0001",
+            "en": "Makes total sense, you’re a good teacher. Uh, over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вполне логично, ты же хороший учитель. Эээ, прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, усе зрозуміло, ти чудовий вчитель. Е-е, прийом."
+        },
+        {
+            "tag": "A1S2.WALTU3_RILEY_0002",
+            "en": "Uh, that… – you know what, I’ll just figure it out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL А, это... - знаешь что, я сейчас разберусь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Знаєш, я розберуся."
+        },
+        {
+            "tag": "A1S2.WALTU3_RILEY_0003",
+            "en": "But if it takes me a second to answer your call, don’t take offense. I’m not the most mechanically inclined person.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но если мне потребуется секунда, чтобы ответить на твой звонок, не обижайся. Я не самый склонный к механике человек.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але не ображайся, якщо я не буду одразу відповідати.<br>Я не дуже розбираюся в техніці."
+        }
+    ]
+}

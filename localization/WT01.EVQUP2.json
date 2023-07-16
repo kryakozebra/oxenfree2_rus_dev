@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT01.EVQUP2",
+    "entries": [
+        {
+            "tag": "WT01.EVQUP2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EVQUP2_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? I planted it.",
+            "ru_native": "Эвелин? Я поставила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Я встановила радіопередавач."
+        },
+        {
+            "tag": "WT01.EVQUP2_RILEY_0000",
+            "en": "Evelyn? You there? I planted the first transmitter.",
+            "ru_native": "Эвелин? Ты там? Я поставила первый передатчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ти там? Я встановила перший радіопередавач."
+        }
+    ]
+}

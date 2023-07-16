@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB_ACTION",
+    "entries": [
+        {
+            "tag": "GLOB_ACTION_0000",
+            "en": "JUMP",
+            "ru_native": "ПРЫГНУТЬ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "СТРИБНУТИ"
+        },
+        {
+            "tag": "GLOB_ACTION_0001",
+            "en": "Unlock Gate",
+            "ru_native": "Открыть ворота",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відімкнути ворота"
+        },
+        {
+            "tag": "GLOB_ACTION_0002",
+            "en": "CLIMB",
+            "ru_native": "ЛЕЗТЬ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ЗАЛІЗТИ"
+        },
+        {
+            "tag": "GLOB_ACTION_0003",
+            "en": "TALK",
+            "ru_native": "ПОГОВОРИТЬ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ГОВОРИТИ"
+        },
+        {
+            "tag": "GLOB_ACTION_0004",
+            "en": "LOOK",
+            "ru_native": "ПОСМОТРЕТЬ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ДИВИТИСЯ"
+        },
+        {
+            "tag": "GLOB_ACTION_0005",
+            "en": "PICK UP",
+            "ru_native": "ВЗЯТЬ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ВЗЯТИ"
+        },
+        {
+            "tag": "GLOB_ACTION_0006",
+            "en": "Sit",
+            "ru_native": "Сесть",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сісти"
+        },
+        {
+            "tag": "GLOB_ACTION_0007",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "GLOB_ACTION_0008",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

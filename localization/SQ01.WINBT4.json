@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ01.WINBT4",
+    "entries": [
+        {
+            "tag": "SQ01.WINBT4_DANNY_0000",
+            "en": "[DT] Busy, come back later.",
+            "ru_native": "Занят, звоните позже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зайнятий, наберіть пізніше."
+        },
+        {
+            "tag": "SQ01.WINBT4_SFX_0000",
+            "en": "Bell ring.",
+            "ru_native": "Звонок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

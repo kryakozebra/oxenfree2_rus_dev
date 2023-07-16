@@ -1,0 +1,78 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S6.COMLAS",
+    "entries": [
+        {
+            "tag": "A3S6.COMLAS_ALEX_0000",
+            "en": "Okay okay okay – we – you bought us some time, here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, ладно, ладно - мы... ты выиграл для нас немного времени.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, добре, добре… ми… ти виграла для нас трохи часу."
+        },
+        {
+            "tag": "A3S6.COMLAS_ALEX_0001",
+            "en": "Tune into the vertices – we have to beat them back!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Настройся на вершины - мы должны отбить их!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Налаштуйся на вищі точки, треба їх подолати!"
+        },
+        {
+            "tag": "A3S6.COMLAS_CHOICE_0000_OPTION_0000",
+            "en": "Got it!",
+            "ru_native": "Ясно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло."
+        },
+        {
+            "tag": "A3S6.COMLAS_CHOICE_0000_OPTION_0001",
+            "en": "Okay!",
+            "ru_native": "Ладно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд!"
+        },
+        {
+            "tag": "A3S6.COMLAS_OLIVIA_0000",
+            "en": "[possessed] [in pain] Erghgh!",
+            "ru_native": "",
+            "ru_machine": "DEEPL [одержимый] [от боли] Эргхх!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[одержимий] [у болю] Е-е-х!"
+        },
+        {
+            "tag": "A3S6.COMLAS_OLIVIA_0001",
+            "en": "[possessed] We… won’t go back!",
+            "ru_native": "",
+            "ru_machine": "DEEPL [одержимый] Мы... не вернёмся!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[одержимий] Ми… не повернемося!"
+        },
+        {
+            "tag": "A3S6.COMLAS_RILEY_0000",
+            "en": "On it!",
+            "ru_native": "Есть!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є!"
+        },
+        {
+            "tag": "A3S6.COMLAS_RILEY_0001",
+            "en": "Okay – okay!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо - хорошо!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд!"
+        }
+    ]
+}

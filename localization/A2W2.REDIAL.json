@@ -1,0 +1,132 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.REDIAL",
+    "entries": [
+        {
+            "tag": "A2W2.REDIAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.REDIAL_CHOICE_0000_OPTION_0000",
+            "en": "You called here.",
+            "ru_native": "Вы звонили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви телефонували."
+        },
+        {
+            "tag": "A2W2.REDIAL_CHOICE_0000_OPTION_0001",
+            "en": "We need help!",
+            "ru_native": "Нам нужна помощь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам потрібна допомога!"
+        },
+        {
+            "tag": "A2W2.REDIAL_CHOICE_0000_OPTION_0002",
+            "en": "I want to report a crime.",
+            "ru_native": "Я хочу сообщить о преступлении.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу повідомити про злочин."
+        },
+        {
+            "tag": "A2W2.REDIAL_JACOB_0000",
+            "en": "Hi, hey—sorry, we’re at the Turnstone Park Ranger Station? Are you a Ranger?",
+            "ru_native": "О, здравствуйте... Мы на станции Тернстоун. Вы рейнджер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, вітаю… Ми на станції Тернстоун. Ви наглядачка?"
+        },
+        {
+            "tag": "A2W2.REDIAL_RILEY_0000",
+            "en": "Hi, um, I-I think you… c-called here, maybe?",
+            "ru_native": "Здравствуйте, кажется... вы звонили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вітаю, гм, здається… ви телефонували?"
+        },
+        {
+            "tag": "A2W2.REDIAL_RILEY_0001",
+            "en": "You’re a Park Ranger?",
+            "ru_native": "Вы рейнджер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви наглядачка?"
+        },
+        {
+            "tag": "A2W2.REDIAL_RILEY_0002",
+            "en": "We’re at the, uh, the Turnstone Forest Station and we need assistance.",
+            "ru_native": "Мы на станции Тернстоун, и нам нужна помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми на станції Тернстоун, і нам потрібна допомога."
+        },
+        {
+            "tag": "A2W2.REDIAL_RILEY_0003",
+            "en": "Wer-we’re at the, um, the Turnstone Forest Ranger Station and need to report a crime.",
+            "ru_native": "Мы на станции Тернстоун, и мы хотим сообщить о преступлении.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… ми на, гм, станції Тернстоун, і ми хочемо повідомити про злочин."
+        },
+        {
+            "tag": "A2W2.REDIAL_SHELLEY_0000",
+            "en": "This is Shelley, Park Ranger at Oberon Station.",
+            "ru_native": "Это Шелли, рейнджер со станции Оберон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Шеллі, наглядачка зі станції Оберон."
+        },
+        {
+            "tag": "A2W2.REDIAL_SHELLEY_0001",
+            "en": "Anyone there?",
+            "ru_native": "Есть там кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут хтось є?"
+        },
+        {
+            "tag": "A2W2.REDIAL_SHELLEY_0002",
+            "en": "We’re not set up for assisted speech if you’re…",
+            "ru_native": "Имейте в виду, у нас автопереводчика нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зауважте, у нас немає автоперекладача, якщо ви…"
+        },
+        {
+            "tag": "A2W2.REDIAL_SHELLEY_0003",
+            "en": "Oh, hey—Hi, yeah, I called earlier. This is the Turnstone Forest Station?",
+            "ru_native": "Да, здравствуйте, я звонила. Это станция Тернстоун?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, так… Я телефонувала. Це станція Тернстоун?"
+        },
+        {
+            "tag": "A2W2.REDIAL_SHELLEY_0004",
+            "en": "Oh, this is Turnstone? I just called there.",
+            "ru_native": "А, это Тернстоун? Я только что звонила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, це Тернстоун? Я щойно телефонувала."
+        }
+    ]
+}

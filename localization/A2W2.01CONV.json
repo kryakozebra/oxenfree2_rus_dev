@@ -1,0 +1,825 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.01CONV",
+    "entries": [
+        {
+            "tag": "A2W2.01CONV_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0000_OPTION_0000",
+            "en": "Walking?",
+            "ru_native": "Ходить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із ходінням?"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0000_OPTION_0001",
+            "en": "What stuff?",
+            "ru_native": "Что именно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із чим?"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0001_OPTION_0000",
+            "en": "My dad and I hiked.",
+            "ru_native": "Мы с папой ходили в походы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з татом ходили в походи."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0001_OPTION_0001",
+            "en": "I’ve always been athletic.",
+            "ru_native": "Я всегда была спортивной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я завжди була спортивною."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0001_OPTION_0002",
+            "en": "I was barely in the Army.",
+            "ru_native": "Я не то чтобы служила в армии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я недовго була в армії."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0002_OPTION_0000",
+            "en": "Your Dad wasn’t around?",
+            "ru_native": "Твоего отца не было рядом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твого батька не було поруч?"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0002_OPTION_0001",
+            "en": "Be thankful he ignored you.",
+            "ru_native": "Скажи спасибо, что он тебя игнорировал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подякуй йому, що він тебе ігнорував."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0002_OPTION_0002",
+            "en": "I’m sorry, that’s too bad.",
+            "ru_native": "Прости, это очень плохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, це дуже сумно."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0003_OPTION_0000",
+            "en": "It’s hard to tell.",
+            "ru_native": "Сложно сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Важко сказати."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0003_OPTION_0001",
+            "en": "You’re not even that.",
+            "ru_native": "Ты не дотягиваешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не дотягуєш."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0003_OPTION_0002",
+            "en": "You’re in decent shape, c’mon.",
+            "ru_native": "Да ладно, ты в приличной форме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, ти в гарній формі."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0004_OPTION_0000",
+            "en": "Miss what? The Army?",
+            "ru_native": "По чему? По армии?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За чим? За армією?"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0004_OPTION_0001",
+            "en": "Miss being a kid?",
+            "ru_native": "По детству?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумуєш за дитинством?"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0004_OPTION_0002",
+            "en": "I don’t miss anything.",
+            "ru_native": "Я ни по чему не скучаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ні за чим не сумую."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0005_OPTION_0000",
+            "en": "I just don’t want to talk about it.",
+            "ru_native": "Я просто не хочу об этом говорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не хочу говорити про це."
+        },
+        {
+            "tag": "A2W2.01CONV_CHOICE_0005_OPTION_0001",
+            "en": "Sorry, my mind was elsewhere.",
+            "ru_native": "Прости, задумалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я просто замислилася."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0000",
+            "en": "You, uh, you’re pretty good at this stuff. Right?",
+            "ru_native": "У тебя отлично получается. Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе немає із цим проблем, так?"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0001",
+            "en": "Like… basic training stuff.",
+            "ru_native": "Ну... базовая подготовка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… з базовою підготовкою."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0002",
+            "en": "Outdoorsy stuff, you know?",
+            "ru_native": "Походы, все такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Походи й таке інше."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0003",
+            "en": "No—c’mon, you know what I mean.",
+            "ru_native": "Да ладно. Ты меня поняла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні… годі тобі, ти ж розумієш, про що я."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0004",
+            "en": "You’re like, uh… athletic. Outdoorsy. I’d trust you to start a fire.",
+            "ru_native": "Ты прямо... профи походов. Уверен, ты и костер можешь развести.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти типу… спортивна. Ніби досвідчена туристка.<br>Гадаю, ти й багаття можеш розпалити."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0005",
+            "en": "Uh, you know, like… general athletics. Hiking—basic training stuff.",
+            "ru_native": "Ну, я про... общую физическую подготовку. Походы, и все такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, я мав на увазі твою… загальну фізичну підготовку. Походи й таке інше."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0006",
+            "en": "Was this, like, part of what you, uh, wha-what you did in the military?",
+            "ru_native": "Тебя этому в армии обучали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти цьому в армії навчилася?"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0007",
+            "en": "This sort of… thing?",
+            "ru_native": "Таким... штукам?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Таким… штукам?"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0008",
+            "en": "Was this like, part of your training?",
+            "ru_native": "Тебя этому обучали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це була частина твого плану підготовки?"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0009",
+            "en": "That’s cool… my dad was more of a…",
+            "ru_native": "Круто... мой отец был скорее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто… мій батько був скоріше…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0010",
+            "en": "\"If you want to learn how to shave so badly, ask your mother,\" sort of person.",
+            "ru_native": "из разряда «Хочешь научиться бриться? Спроси у мамы».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він міг сказати: «Якщо хочеш навчитися голитися, звертайся до мами»."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0011",
+            "en": "Which, you know—",
+            "ru_native": "Сама понимаешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сама розумієш…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0012",
+            "en": "At the time I didn’t really mind.",
+            "ru_native": "Тогда меня это не особо парило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді мені було якось байдуже."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0013",
+            "en": "And I guess I still don’t.",
+            "ru_native": "Да и сейчас тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча й зараз теж."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0014",
+            "en": "No no, he was, I don’t wanna—I shouldn’t give the wrong impression…",
+            "ru_native": "Да нет, не хочу... Не хочу давать ложное представление...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, був, я не… я не хотів виставити його в такому світлі…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0015",
+            "en": "He was fine, <i>we</i> were fine, we just didn’t do stuff like… hike. Much. That’s all.",
+            "ru_native": "Все было хорошо, мы просто не ходили в походы. Часто. Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе було добре, просто ми не ходили в походи. Часто. Ось і все."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0016",
+            "en": "Yeah, yeah, no, my, uh, my brother got the brunt of it. My dad would drag him to all these air shows…",
+            "ru_native": "Да, да, нет, мой, эм, мой брат принял на себя весь удар.<br>Отец вечно таскал его на эти авиашоу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так-так, ні, мій, гм, мій брат прийняв увесь удар на себе.<br>Батько постійно водив його на авіашоу…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0017",
+            "en": "Peter couldn’t have cared less.",
+            "ru_native": "Питеру было наплевать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але Пітеру було байдуже."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0018",
+            "en": "No no no no, you’re fine, you didn’t make it sound like anything. My dad was great.",
+            "ru_native": "Нет-нет, все в порядке. Ничего такого. У меня был отличный отец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, усе гаразд. Я тебе зрозумів. У мене був чудовий батько."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0019",
+            "en": "Yeah I wasn’t like that but I still like to think of myself as a mildly… capable, uh—you know—guy.",
+            "ru_native": "Да, я был не таким, но мне все равно хочется<br>думать, что я кое-что да умею, ну, понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я таким не був, але мені все одно хочеться думати,<br>що я… щось умію… ну, розумієш."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0020",
+            "en": "I can’t skateboard or ski, or…",
+            "ru_native": "Я не умею кататься на скейте или на лыжах, или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не вмію кататися на скейті чи на лижах, чи…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0021",
+            "en": "…lift anything above my head, but—",
+            "ru_native": "...поднимать тяжести, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…підіймати щось важке, але…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0022",
+            "en": "I can tie a sheet bend.",
+            "ru_native": "Я умею вязать шкотовый узел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вмію в’язати морські вузли."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0023",
+            "en": "If pressed.",
+            "ru_native": "Если заставят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо потрібно."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0024",
+            "en": "Oh c’mon, I’m doing alright, I’m not even huffing and puffing, yet. Though…",
+            "ru_native": "Да ладно, у меня все в порядке, я даже еще не начал ахать и охать. Хотя...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, у мене все гаразд, я навіть ще не стогну чи задихаюсь. Хоча…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0025",
+            "en": "[whew] That is coming.",
+            "ru_native": "Скоро начну.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоро почну."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0026",
+            "en": "Yeah, I think that was on my report card for gym class—“Never fell.”",
+            "ru_native": "Ага, мне в дневнике на физкультуре так и писали: «Ни разу не упал».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, мені в щоденнику вчитель фізкультури так і писав: «Жодного разу не впав»."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0027",
+            "en": "Got it.",
+            "ru_native": "Ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ясно."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0028",
+            "en": "Do you, uh, miss it at all?",
+            "ru_native": "Ты скучаешь по всему этому?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сумуєш за цим?"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0029",
+            "en": "[chuckling] I—yeah, makes sense.",
+            "ru_native": "О, понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, зрозуміло."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0030",
+            "en": "Oh yeah! I wasn’t asking about that but I totally agree.",
+            "ru_native": "Да, я не про это спрашивал, но полностью согласен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не про це запитував, але я з тобою згоден."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0031",
+            "en": "Uh, yeah. I guess so.",
+            "ru_native": "Что ж, да. Пожалуй.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, напевно."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0032",
+            "en": "Sorry, I don’t mean to bring up a sore subject…",
+            "ru_native": "Прости, не хочу поднимать больную тему...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, не хочу зачіпати важку тему…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0033",
+            "en": "We don’t have to talk about it.",
+            "ru_native": "Нам не обязательно об этом говорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам не обов’язково говорити про це."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0034",
+            "en": "Or about anything, really.",
+            "ru_native": "Или вообще говорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи взагалі говорити."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0035",
+            "en": "No no no, I get it. Don’t, uh, don’t worry about it.",
+            "ru_native": "Нет-нет, я понимаю. Не переживай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, я розумію. Не хвилюйся про це."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0036",
+            "en": "No, it’s fine. I’m sure you’re just thinking about… all the crazy stuff that’s happening.",
+            "ru_native": "Да все в порядке. Уверен, ты думаешь про... все это безумие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд. Я впевнений, що ти думаєш про… усе це безумство."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0037",
+            "en": "I think I’m just trying to avoid thinking about all the crazy stuff that’s happening but… forget it, sorry, ignore me.",
+            "ru_native": "Думаю, я просто пытаюсь не думать по все это безумие, но...<br>забудь, не обращай на меня внимание.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я стараюся не думати про все це безумство, але.. забудь, не звертай на мене увагу."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0038",
+            "en": "But, uh, anyways I was just saying you seem pretty good at this stuff.",
+            "ru_native": "В общем, я говорил, что у тебя отлично получается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Словом, я казав, що в тебе чудово виходить."
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0039",
+            "en": "Hiking, climbing…",
+            "ru_native": "Ходить, лазать по скалам...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходити в походи, лазити по скелях…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0040",
+            "en": "That sort of thing?",
+            "ru_native": "Всякое такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І таке інше…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0041",
+            "en": "Was climbing and, uh, hiking and all that part of your military training?",
+            "ru_native": "Это было частью твоей военной подготовки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було частиною твоєї військової підготовки?"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0042",
+            "en": "Or…",
+            "ru_native": "Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи…"
+        },
+        {
+            "tag": "A2W2.01CONV_JACOB_0043",
+            "en": "Did you learn this somewhere else?",
+            "ru_native": "Ты этому где-то еще научилась?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти цьому ще десь навчилася?"
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0000",
+            "en": "Good at what? Walking?",
+            "ru_native": "Получается что? Ходить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Проблеми із чим? З ходінням?"
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0001",
+            "en": "What stuff?",
+            "ru_native": "Что именно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із чим?"
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0002",
+            "en": "Uh, no, my dad and I just went hiking a lot, so… I know some of these trails.",
+            "ru_native": "Ну, мы с отцом часто ходили в походы, так что... Я знаю кое-какие тропы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ми з батьком часто ходили в походи, тож… Я знаю деякі стежки."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0003",
+            "en": "He’d teach me basic survival tricks. How to make fire from ice, crap like that…",
+            "ru_native": "Он обучал меня базовым навыкам выживания. Как разжечь костер зимой, всякое такое...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він навчив мене основам виживання. Як розпалити багаття взимку й таке інше…"
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0004",
+            "en": "He was just kind of… one of those guys.",
+            "ru_native": "Он был... такого склада.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він… любив таке."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0005",
+            "en": "Oh, he—he uh—wasn’t around much?",
+            "ru_native": "О, его часто не было рядом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, його часто не було поруч?"
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0006",
+            "en": "Yeah, just be thankful he left you to your own interests…",
+            "ru_native": "Да, скажи ему спасибо за то, что не лез в твои дела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, подякуй йому, що не втручався у твої справи…"
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0007",
+            "en": "Oh, I’m sorry—of course, I’m making it sound like I was forced into bonding with my father, while you’re—",
+            "ru_native": "Прости... по моим словам выходит, будто отец<br>заставлял меня проводить время вместе, а ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач… я сказала так, ніби батько змушував мене проводити час разом, а ти…"
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0008",
+            "en": "No, my dad says that… ever since I was born, I was moving around like I had someplace to be.",
+            "ru_native": "Нет, мой отец говорит... что я с самого рождения не могла усидеть на месте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, мій батько каже… що від народження в мене було шило в одному місці."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0009",
+            "en": "I couldn’t sit still. He’d turn, and I’d be out the window.",
+            "ru_native": "Стоило ему отвернуться, как я уже норовила вылезти в окно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Варто було йому відвернутися, я вже старалася вилізти через вікно."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0010",
+            "en": "\"Mildly capable,\" I don’t know—it’s hard to tell.",
+            "ru_native": "«Кое-что умею», не знаю... сложно сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Щось умію», не знаю… важко сказати."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0011",
+            "en": "I’m not exactly seeing a show horse here.",
+            "ru_native": "Что-то я не припомню ничего особенного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не схожий на того, хто багато говорить, але ні на що не здатен."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0012",
+            "en": "[chuckle] I wouldn’t give yourself such high praise as \"capable.\"",
+            "ru_native": "«Кое-что умею». Как по мне, это слишком высокая оценка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Щось умію». Як на мене, це занадто висока оцінка."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0013",
+            "en": "Oh c’mon, you’re in decent shape. Haven’t fallen yet, at least.",
+            "ru_native": "Да ладно, ты в приличной форме. По крайней мере, еще не упал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, ти в гарній формі. Принаймні, ще не впав."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0014",
+            "en": "Uh, no, I was only in the Army just long enough to get the right boots for my size.",
+            "ru_native": "Нет, моей службы в армии хватило только на то, чтобы научиться подбирать себе ботинки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, моєї служби в армії вистачило лише на те, щоби навчитися обирати собі взуття."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0015",
+            "en": "I learned how to make a bed—properly clean a bathroom but—I’ve been climbing trees since before I could talk.",
+            "ru_native": "Я научилась заправлять кровать и драить туалеты, но<br>лазать по деревьям я научилась еще раньше, чем говорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я навчилася застилати ліжко й мити унітази,<br>але лазити по деревах я навчилася раніше, ніж розмовляти."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0016",
+            "en": "Uh miss what? Being in the Army?",
+            "ru_native": "Скучаю по чему? По армии?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За чим? За армією?"
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0017",
+            "en": "Uh, no, I don’t. I’ve never been a big group person. I’m too egomaniacal for that.",
+            "ru_native": "О нет, не скучаю. Я слишком большая эгоистка, в коллективе мне некомфортно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О ні, не сумую. Я не люблю великі колективи. Я занадто егоїстична для цього."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0018",
+            "en": "Uh miss what? Miss being a kid and just climbing trees—? Yeah, I mean… who doesn’t?",
+            "ru_native": "По чему? По беззаботному детству и лазанью по деревьям? А кто не скучает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За чим? За дитинством, коли я лазила по деревах? Так… Хто ж за цим не сумує."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0019",
+            "en": "You don’t know anything about anything and everything’s amazing, it’s great.",
+            "ru_native": "Вы ничего ни о чем не знаете, и все замечательно, это здорово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе немає жодних проблем, у тебе все чудово, і це прекрасно."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0020",
+            "en": "Uh, I don’t really miss things, as a general rule.",
+            "ru_native": "Ну, я предпочитаю ни по чему не скучать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, я взагалі ні за чим не сумую."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0021",
+            "en": "If something’s behind you it’s because you put it there and there’s usually a reason.",
+            "ru_native": "Если что-то осталось в прошлом, значит, ты его там оставил, и не без причины.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо щось залишилося в минулому, значить, ти його там залишив із якоїсь причини."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0022",
+            "en": "It’s alright, I just… I don’t talk about it a lot?",
+            "ru_native": "Все в порядке, просто... Я редко об этом говорю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, просто… Я рідко про це розмовляю."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0023",
+            "en": "It wasn’t really a big part of my life.",
+            "ru_native": "Это не было важной частью моей жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не було важливою частиною мого життя."
+        },
+        {
+            "tag": "A2W2.01CONV_RILEY_0024",
+            "en": "Oh, sorry, my mind… chases cars, you know.",
+            "ru_native": "Ой, извини, я... о другом задумалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибач, я… замислилася про дещо інше."
+        }
+    ]
+}

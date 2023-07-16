@@ -1,0 +1,582 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.FINJAC",
+    "entries": [
+        {
+            "tag": "A2W4.FINJAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FINJAC_CHOICE_0000_OPTION_0000",
+            "en": "Take a breath.",
+            "ru_native": "Подыши.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вдих-видих."
+        },
+        {
+            "tag": "A2W4.FINJAC_CHOICE_0000_OPTION_0001",
+            "en": "Thankfully not.",
+            "ru_native": "К счастью, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, на щастя."
+        },
+        {
+            "tag": "A2W4.FINJAC_CHOICE_0000_OPTION_0002",
+            "en": "It rained fish.",
+            "ru_native": "Рыбы с неба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пішов рибний дощ."
+        },
+        {
+            "tag": "A2W4.FINJAC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FINJAC_CHOICE_0001_OPTION_0000",
+            "en": "Sounds good.",
+            "ru_native": "Подыши.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре."
+        },
+        {
+            "tag": "A2W4.FINJAC_CHOICE_0001_OPTION_0001",
+            "en": "Don’t you want to find Charlie?",
+            "ru_native": "Расслабься. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти не хочеш пошукати Чарлі?"
+        },
+        {
+            "tag": "A2W4.FINJAC_CHOICE_0002_OPTION_0000",
+            "en": "Take a breath.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сделай вдох.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вдих-видих."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0000",
+            "en": "Oh… hey. You’re okay, good.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О... привет. Ты в порядке, хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0001",
+            "en": "I… don’t know what happened. I… went somewhere.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... не знаю, что произошло. Я... куда-то ушел.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0002",
+            "en": "But… whatever. I’m back—you’re back. Let’s… go.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но... неважно. Я вернулся - ты вернулся. Давай... пойдем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0003",
+            "en": "The kid? Uh—no.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ребенок? Нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0004",
+            "en": "Maybe he left? Or—Jesus, I-I don’t know. I really don’t.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, он ушел? Или - Господи, я не знаю. Действительно не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0005",
+            "en": "I’m—not sure. It’s like remembering… a bad dream—something that leaves you… feeling drained.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... не уверен. Это похоже на воспоминание... о плохом сне - что-то, что оставляет тебя... с чувством опустошения.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0006",
+            "en": "I was with my… mom, I think. Then I was getting buried.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я был со своей... мамой, кажется. Потом меня стали хоронить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0007",
+            "en": "I don’t know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0008",
+            "en": "J-just remember, this will all be over… at some point. [chuckles weakly]",
+            "ru_native": "",
+            "ru_machine": "DEEPL J- просто помни, что все это закончится... в какой-то момент. [слабый смех].",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0009",
+            "en": "Let’s just… get outta here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай просто... уйдем отсюда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0010",
+            "en": "Riley! Oh, my God!",
+            "ru_native": "Райли! О господи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! О, Господи!"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0011",
+            "en": "Were you—were you buried alive too?",
+            "ru_native": "Тебя... тебя тоже засыпало?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тебе теж… живцем поховали?"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0012",
+            "en": "In like—not in like dirt, but in… bugs?",
+            "ru_native": "Не землей, а... жуками?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу… не в землі, а в… жуках?"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0013",
+            "en": "Jesus Christ!",
+            "ru_native": "Боже правый!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже милостивий!"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0014",
+            "en": "What is happening here?!",
+            "ru_native": "Что тут происходит?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тут коїться?"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0015",
+            "en": "I—okay, I’m trying to take—I would take all the seconds, but—",
+            "ru_native": "Я... ладно, я бы с радостью подождал минутку, и не одну, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зі мною все гаразд, я намагаюсь… я б призупинився на багато секунд, але…"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0016",
+            "en": "—I just had ants and earworms crawling in places they don’t freakin’ belong.",
+            "ru_native": "Просто мне муравьи с червями в какие только места не заползли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…У мене мурахи й черв’яки повзали в таких місцях, що соромно зізнатись."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0017",
+            "en": "Yeah, be extra thankful!",
+            "ru_native": "Ага, не то слово!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О так, тобі дуже пощастило."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0018",
+            "en": "This is a nightmare. A Goddamn nightmare!",
+            "ru_native": "Кошмар какой-то. Будь он проклят!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це жах. Це просто якийсь жах."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0019",
+            "en": "Oh, my god, this is a nightmare!",
+            "ru_native": "О господи, кошмар какой-то!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, це просто жах!"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0020",
+            "en": "—I just had ants and earworms crawling in places they don’t freakin’ belong.",
+            "ru_native": "Просто мне муравьи с червями в какие только места не заползли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…У мене мурахи й черв’яки повзали в таких місцях, що соромно зізнатись."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0021",
+            "en": "Oh, my god, this is a nightmare!",
+            "ru_native": "О господи, кошмар какой-то!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, це просто жах!"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0022",
+            "en": "—I just had ants and earworms crawling in places they don’t freakin’ belong.",
+            "ru_native": "Просто мне муравьи с червями в какие только места не заползли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…У мене мурахи й черв’яки повзали в таких місцях, що соромно зізнатись."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0023",
+            "en": "I just wanna get out of here.",
+            "ru_native": "Я просто хочу убраться отсюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу, щоб усе це закінчилося."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0024",
+            "en": "Charlie must have left or—I don’t know what—I don’t care.",
+            "ru_native": "Чарли наверняка ушел, или... не знаю... по фиг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі мабуть утік або… Я не знаю… Та й начхати."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0025",
+            "en": "Let’s just—let’s just go.",
+            "ru_native": "Давай уже уходить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто давай… Просто давай підемо звідси."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0026",
+            "en": "We’re going. Let’s go.",
+            "ru_native": "Давай. Пошли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми йдемо звідси. Пішли."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0027",
+            "en": "Riley! Oh, my God, that—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли! О, Боже мой, это...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0028",
+            "en": "That was the worst thing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это было самое страшное.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0029",
+            "en": "Like—in my life!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Например, в моей жизни!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0030",
+            "en": "Jesus, what a nightmare.",
+            "ru_native": "Боже, кошмар.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, який жах."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0031",
+            "en": "Am I? Will I ever be okay? I just had—I had fish guts in places fish guts don’t belong.",
+            "ru_native": "Правда? Какой же это порядок? У меня разве что рыбьи кишки во все места не набились.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд? Зі мною? У мене… були риб’ячі тельбухи в<br>таких місцях, що соромно сказати."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0032",
+            "en": "I am not okay now!",
+            "ru_native": "Я точно не в порядке!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зі мною не все гаразд!"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0033",
+            "en": "Hey, this is—this is getting—",
+            "ru_native": "Эй, это... это уже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай. Це… це все…"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0034",
+            "en": "I thought like—maybe!—maybe I could handle anything given ya know—the night.",
+            "ru_native": "Я думал... Я надеялся, что выдержу все сюрпризы это ночи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав… може!… Може я здатний буду впоратися із, ну знаєш… цією ніччю."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0035",
+            "en": "Nope! Jesus…",
+            "ru_native": "Нет! Господи...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ні! Господи…"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0036",
+            "en": "Oh, go to Hell.",
+            "ru_native": "Ой, иди к черту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, іди до біса."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0037",
+            "en": "Go to the bad part of Hell.",
+            "ru_native": "Иди ты знаешь куда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До якогось вошивого біса."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0038",
+            "en": "I just wanna get out of here.",
+            "ru_native": "Я просто хочу убраться отсюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хочу, щоб усе це закінчилося."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0039",
+            "en": "And like—never come back.",
+            "ru_native": "И не возвращайся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І типу… залишайся з ним назавжди."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0040",
+            "en": "Please let’s leave. Now.",
+            "ru_native": "Давай пойдем уже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, ходімо вже звідси."
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0041",
+            "en": "Yeah, and we found him and then—ya know—nightmare!",
+            "ru_native": "Ага, а как нашли его, так сразу – катастрофа!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, ми його впіймали й потім стався, як пам’ятаєш, жах!"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0042",
+            "en": "So, seriously, screw Charlie, screw this—waterfall. Screw everything!",
+            "ru_native": "Нет, серьезно, на хрен Чарли, на хрен этот водопад. Все на хрен!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож серйозно, пішов той Чарлі, пішов цей… водоспад. Пішло воно все!"
+        },
+        {
+            "tag": "A2W4.FINJAC_JACOB_0043",
+            "en": "We planted the transmitter. We’re done here. We’re leaving here.",
+            "ru_native": "Мы установили передатчик. Дело сделано. Можем идти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми встановили радіопередавач. Ми молодці. А тепер пішли звідси."
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0000",
+            "en": "You see Charlie? Did he go?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты видел Чарли? Он уехал?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0001",
+            "en": "Where did you uh—go? What happened to you?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Куда ты пропал? Что с тобой случилось?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0002",
+            "en": "I, uh, saw my kid. We were fishing. Then we weren’t.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я, э-э, видел своего ребенка. Мы были на рыбалке. Потом не рыбачили.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0003",
+            "en": "Hey, it’s okay, man. Take a second.",
+            "ru_native": "Эй, чувак, все в порядке. Погоди минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, усе гаразд. Призупинись на секунду."
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0004",
+            "en": "Wow, thankfully, no, I wasn’t.",
+            "ru_native": "Ого, слава богу, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, ні, мені пощастило."
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0005",
+            "en": "Uh—no, but it did rain dead fish.",
+            "ru_native": "Эм... нет, но с неба падала дохлая рыба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… ні, але пішов рибний дощ."
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0006",
+            "en": "Hey, it’s over, take a breath. You’re okay now.",
+            "ru_native": "Эй, все прошло, выдыхай. Все в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, усе закінчилося, заспокойся. Із тобою все вже гаразд."
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0007",
+            "en": "Okay, Jacob, c’mon. Let’s keep it together, here.",
+            "ru_native": "Ну же, Джейкоб, соберись. Не будем падать духом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, давай уже. Зберися до купи."
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0008",
+            "en": "So, wanna hit Seafood Sammy’s later?",
+            "ru_native": "Может, в «Дары моря от Сэмми» сходим?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То ми що, не підемо до «Дарів моря від Семмі»?"
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0009",
+            "en": "Yup, cosigned.",
+            "ru_native": "Ага, согласна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо, я тільки за."
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0010",
+            "en": "What about finding Charlie?",
+            "ru_native": "А что насчет Чарли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як щодо пошуків Чарлі?"
+        },
+        {
+            "tag": "A2W4.FINJAC_RILEY_0011",
+            "en": "Jesus, we chased the kid halfway through the freaking county.",
+            "ru_native": "Боже, мы за этим парнем пол этого чертова округа гонялись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми носилися за цим малим півшляху."
+        }
+    ]
+}

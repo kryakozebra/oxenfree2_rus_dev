@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V2.THANCA",
+    "entries": [
+        {
+            "tag": "A2V2.THANCA_JACOB_0000",
+            "en": "The hidden laboratory… I presume.",
+            "ru_native": "Потайной лабораторией, видимо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Секретною лабораторією… мабуть."
+        },
+        {
+            "tag": "A2V2.THANCA_RILEY_0000",
+            "en": "Hey, this looks like… something. A cable running the length of the center?",
+            "ru_native": "Смотри, я что-то нашла. Видишь кабель вдоль центра?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивись, я… знайшла щось. Бачиш кабель уздовж центру?"
+        },
+        {
+            "tag": "A2V2.THANCA_RILEY_0001",
+            "en": "Must be connecting the antenna outside to something under us…",
+            "ru_native": "Наверное, он соединяет антенну снаружи с чем-то под нами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно, він поєднує антену зовні з чимось під нами…"
+        },
+        {
+            "tag": "A2V2.THANCA_RILEY_0002",
+            "en": "Looks like it’s connecting something upstairs to something under us…",
+            "ru_native": "Кажется, он соединяет что-то наверху с чем-то под нами...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, він з’єднує щось нагорі з чимось під нами…"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.LANCLF",
+    "entries": [
+        {
+            "tag": "A3S5.LANCLF_CHOICE_0000_OPTION_0000",
+            "en": "Where am I?",
+            "ru_native": "Где я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де я?"
+        },
+        {
+            "tag": "A3S5.LANCLF_CHOICE_0000_OPTION_0002",
+            "en": "Enough mind games!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хватит игр разума!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить ігор розуму!"
+        },
+        {
+            "tag": "A3S5.LANCLF_RILEY_0000",
+            "en": "Where the hell am I this time?",
+            "ru_native": "Где the hell am I на сей раз?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де, у біса, я цього разу?"
+        },
+        {
+            "tag": "A3S5.LANCLF_RILEY_0001",
+            "en": "Another place huh? Wonder what they have for me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Еще одно место, да? Интересно, что у них есть для меня.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інше місце, га? Цікаво, що вони мені приготували."
+        },
+        {
+            "tag": "A3S5.LANCLF_RILEY_0002",
+            "en": "Enough with the mind games already!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хватит уже играть в игры разума!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить уже ігор розуму!"
+        }
+    ]
+}

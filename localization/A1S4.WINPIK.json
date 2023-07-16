@@ -1,0 +1,186 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S4.WINPIK",
+    "entries": [
+        {
+            "tag": "A1S4.WINPIK_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.WINPIK_CHOICE_0000_OPTION_0000",
+            "en": "I can't tell.",
+            "ru_native": "Не могу сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу сказати."
+        },
+        {
+            "tag": "A1S4.WINPIK_CHOICE_0000_OPTION_0001",
+            "en": "Uh, sure.",
+            "ru_native": "Да, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е, звичайно."
+        },
+        {
+            "tag": "A1S4.WINPIK_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.WINPIK_CHOICE_0001_OPTION_0000",
+            "en": "Wind feels warm...",
+            "ru_native": "Кажется, ветер теплый...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вітер теплий…"
+        },
+        {
+            "tag": "A1S4.WINPIK_CHOICE_0001_OPTION_0001",
+            "en": "Weird weather...",
+            "ru_native": "Странная погода...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивна погода…"
+        },
+        {
+            "tag": "A1S4.WINPIK_JACOB_0000",
+            "en": "Huh. Wind's picking up. It usually feels colder the higher we go, but it's kinda warm, right?",
+            "ru_native": "Хм. Ветер усиливается. Обычно чем выше, тем холоднее, но тут довольно тепло, правда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Вітер посилюється. Зазвичай чим вище, тим холодніше,<br>але тут досить тепло, чи не так?"
+        },
+        {
+            "tag": "A1S4.WINPIK_JACOB_0001",
+            "en": "The sky looks pretty weird…",
+            "ru_native": "Небо какое-то странное...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Небо якесь дивне…"
+        },
+        {
+            "tag": "A1S4.WINPIK_JACOB_0002",
+            "en": "Maybe a storm's changing the temperature…",
+            "ru_native": "Может, это из-за бури температура меняется...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, це через бурю температура змінюється…"
+        },
+        {
+            "tag": "A1S4.WINPIK_JACOB_0003",
+            "en": "Or something.",
+            "ru_native": "Или типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи щось таке."
+        },
+        {
+            "tag": "A1S4.WINPIK_JACOB_0004",
+            "en": "Oregon doesn't really have tornadoes. Maybe two a year?",
+            "ru_native": "В Орегоне почти не бывает торнадо. Может, два за год?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "В Орегоні майже не буває торнадо. Може, два на рік?"
+        },
+        {
+            "tag": "A1S4.WINPIK_JACOB_0005",
+            "en": "Oh well.",
+            "ru_native": "Ну ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, добре."
+        },
+        {
+            "tag": "A1S4.WINPIK_JACOB_0006",
+            "en": "Alright, we’re getting close.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, мы уже близко.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ми вже ближче."
+        },
+        {
+            "tag": "A1S4.WINPIK_JACOB_0007",
+            "en": "Just over the crest, there should be a clear enough spot for the transmitter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сразу за гребнем должно быть достаточно чистое место для передатчика.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На вершині має бути гарне місце без перешкод для радіопередавача."
+        },
+        {
+            "tag": "A1S4.WINPIK_RILEY_0000",
+            "en": "I can't really tell. I'm pretty bundled up.",
+            "ru_native": "Не могу сказать. Я довольно тепло одета.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу сказати напевно. Я досить тепло одягнена."
+        },
+        {
+            "tag": "A1S4.WINPIK_RILEY_0001",
+            "en": "Uh, yeah, sure.",
+            "ru_native": "Ах да, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, так. Звичайно."
+        },
+        {
+            "tag": "A1S4.WINPIK_RILEY_0002",
+            "en": "Huh. Wind feels warm?",
+            "ru_native": "Хм. Ветер теплый?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Вітер теплий?"
+        },
+        {
+            "tag": "A1S4.WINPIK_RILEY_0003",
+            "en": "Maybe a storm's changing the weather pattern…",
+            "ru_native": "Может, из-за бури температура меняется...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, це через бурю змінюється погода…"
+        },
+        {
+            "tag": "A1S4.WINPIK_RILEY_0004",
+            "en": "Huh. Weird weather. Sky's changing color…",
+            "ru_native": "Хм. Странная погода. Небо меняет цвет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Дивна погода. Небо змінює колір…"
+        },
+        {
+            "tag": "A1S4.WINPIK_RILEY_0005",
+            "en": "Maybe a storm's changing the temperature or something…",
+            "ru_native": "Может, из-за бури температура меняется или типа того...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, через бурю температура змінюється або щось типу того…"
+        }
+    ]
+}

@@ -1,0 +1,105 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.ASJACD",
+    "entries": [
+        {
+            "tag": "A2C3.ASJACD_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.ASJACD_CHOICE_0000_OPTION_0000",
+            "en": "Careful coming down.",
+            "ru_native": "Спускайся осторожно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь обережним."
+        },
+        {
+            "tag": "A2C3.ASJACD_CHOICE_0000_OPTION_0001",
+            "en": "Taking the easy way I see.",
+            "ru_native": "Нет, иди дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бачу, ідеш найлегшою дорогою."
+        },
+        {
+            "tag": "A2C3.ASJACD_JACOB_0000",
+            "en": "Ugh.",
+            "ru_native": "Фух.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух."
+        },
+        {
+            "tag": "A2C3.ASJACD_JACOB_0001",
+            "en": "Hmm, okay.",
+            "ru_native": "Хм. Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм, гаразд."
+        },
+        {
+            "tag": "A2C3.ASJACD_JACOB_0002",
+            "en": "I… got it.",
+            "ru_native": "Понял.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло."
+        },
+        {
+            "tag": "A2C3.ASJACD_JACOB_0003",
+            "en": "There isn’t any other way I see. So.",
+            "ru_native": "Другого выхода я не вижу. Так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не бачу поки іншого варіанту, тож."
+        },
+        {
+            "tag": "A2C3.ASJACD_JACOB_0004",
+            "en": "I think we can safely say that it’s just the way at this point.",
+            "ru_native": "Думаю, мы оба понимаем, что сейчас это единственный вариант.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, можна впевнено сказати, що наразі це єдиний спосіб."
+        },
+        {
+            "tag": "A2C3.ASJACD_RILEY_0000",
+            "en": "Hey, uh, careful coming down.",
+            "ru_native": "Эй, спускайся осторожно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обережно там спускайся."
+        },
+        {
+            "tag": "A2C3.ASJACD_RILEY_0001",
+            "en": "Hey — no, no, seriously, don’t come down, just keep — just keep going.",
+            "ru_native": "Эй... нет, серьезно, не надо спускаться, просто... просто иди дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей… ні, от серйозно, не спускайся, просто… іди далі."
+        },
+        {
+            "tag": "A2C3.ASJACD_RILEY_0002",
+            "en": "Ah, so… taking the easy way down, I see.",
+            "ru_native": "Ага, так... просто иди дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А-а, зрозуміло... обрав найлегший спосіб спуститися."
+        }
+    ]
+}

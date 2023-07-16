@@ -1,0 +1,474 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.BACKFF",
+    "entries": [
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0000",
+            "en": "That's not -- it's not working!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это не... это не работает!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0001",
+            "en": "This doesn't seem right!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это кажется неправильным!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0002",
+            "en": "Yeah, we can hear you!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, мы тебя слышим!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0003",
+            "en": "Hey! We don't know what's going!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Мы не знаем, что происходит!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0004",
+            "en": "Yeah, obviously!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, очевидно!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0005",
+            "en": "Hey! We have no idea what’s going on!",
+            "ru_native": "Мы сами ничего не знаем!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Ми й гадки не маємо, що відбувається!"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0006",
+            "en": "This isn’t working like they said it would.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это не работает так, как они говорили.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0007",
+            "en": "She shouldn’t see this.",
+            "ru_native": "Она не должна это видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їй не слід це бачити."
+        },
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0008",
+            "en": "Where are you?",
+            "ru_native": "Где ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ти?"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHARLIE_0009",
+            "en": "What’s going on? Why aren’t we together?",
+            "ru_native": "Что происходит? Почему мы не вместе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається? Чому ми не разом?"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHOICE_0000_OPTION_0000",
+            "en": "Hey! Who are you?",
+            "ru_native": "Эй! Вы кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Хто ви?"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHOICE_0000_OPTION_0001",
+            "en": "Where are you?",
+            "ru_native": "Где вы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ви?"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHOICE_0000_OPTION_0002",
+            "en": "What's going on?!",
+            "ru_native": "Что происходит?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?!"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHOICE_0001_OPTION_0000",
+            "en": "What isn't working?",
+            "ru_native": "Что не работает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що не працює?"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHOICE_0001_OPTION_0001",
+            "en": "Are you doing this!?",
+            "ru_native": "Это вы делаете?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ви робите?!"
+        },
+        {
+            "tag": "A1PO.BACKFF_CHOICE_0001_OPTION_0002",
+            "en": "Stop! Right now!",
+            "ru_native": "Прекратите! Сейчас же!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Припиніть! Негайно!"
+        },
+        {
+            "tag": "A1PO.BACKFF_JACOB_0000",
+            "en": "Riley, what is—",
+            "ru_native": "Райли, что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, що за…"
+        },
+        {
+            "tag": "A1PO.BACKFF_JACOB_0001",
+            "en": "C-can they see us? Or… is this…",
+            "ru_native": "Они нас видят? Или... это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони можуть нас бачити? Чи… це…"
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0000",
+            "en": "They said to tune into the signals, Violet, what the Hell do you think I'm doing!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они сказали, чтобы я настроился на сигналы, Вайолет, какого черта ты думаешь, что я делаю!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0001",
+            "en": "It IS working!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это работает!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0002",
+            "en": "Or starting to, see!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Или начинает, видишь!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0003",
+            "en": "Wait, is this—no—what are you doing here!",
+            "ru_native": "Стой, это... нет... Что вы тут делаете?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай, що… ні… що ти тут робиш?"
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0004",
+            "en": "Shut up! It's just that woman. We're not -- this isn't working!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Заткнись! Это всего лишь та женщина. Мы не... это не работает!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0005",
+            "en": "How the Hell should I know!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Откуда, черт возьми, мне знать!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0006",
+            "en": "Our antenna broke, Violet! What do you expect me to do?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL У нас сломалась антенна, Вайолет! Чего ты ждешь от меня?!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0007",
+            "en": "Shut up!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Заткнись!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0008",
+            "en": "It’s that -- she’s the one that screwed everything up!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Все дело в том, что - это она все испортила!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0009",
+            "en": "Damn it, this isn’t working.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Черт возьми, ничего не получается.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0010",
+            "en": "The timing’s wrong or something.",
+            "ru_native": "Время не то или типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час неправильний чи як там."
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0011",
+            "en": "Helloooo?",
+            "ru_native": "Ау-у-у-у?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агоооов?"
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0012",
+            "en": "Do you see me?",
+            "ru_native": "Вы меня видите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене бачиш?"
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0013",
+            "en": "Quiet. Everybody.",
+            "ru_native": "Да тише вы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мовчати. Усім."
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0014",
+            "en": "This is incredible.",
+            "ru_native": "Невероятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це неймовірно."
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0015",
+            "en": "It split us up. It isn’t working yet.",
+            "ru_native": "Он нас разделяет. И пока не работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це розділило нас. Це поки що не працює."
+        },
+        {
+            "tag": "A1PO.BACKFF_OLIVIA_0016",
+            "en": "She’s… stopping it somehow. Her transmitter’s disrupting our signal.",
+            "ru_native": "Она... как-то его останавливает. Ее передатчик глушит наш сигнал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… якимсь чином зупиняє це. Її радіопередавач блокує наш сигнал."
+        },
+        {
+            "tag": "A1PO.BACKFF_RILEY_0000",
+            "en": "Hey! Hey, guys, can you hear me? Who are you?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Эй, ребята, вы меня слышите? Кто ты такой?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_RILEY_0001",
+            "en": "Hey! Hey, guys, where -- where are you?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Эй, ребята, где... где вы?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_RILEY_0002",
+            "en": "Hey! Hey, guys, can you see me? What is going on? Guys!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Эй, ребята, вы меня видите? Что происходит? Парни!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_RILEY_0003",
+            "en": "Wait, what isn't working? Are you trying to—",
+            "ru_native": "Стойте, что не работает? Вы пытаетесь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай, що не працює? Ти намагаєшся…"
+        },
+        {
+            "tag": "A1PO.BACKFF_RILEY_0004",
+            "en": "Wait, are you guys doing this? What are you—how are you—",
+            "ru_native": "Стойте, это вы делаете? Что?.. Как?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стоп, це ви робите? Що ви… як ви…"
+        },
+        {
+            "tag": "A1PO.BACKFF_RILEY_0005",
+            "en": "Stop whatever the hell it is that you think you're doing! Right now!",
+            "ru_native": "Что бы вы ни пытались сделать, прекратите! Сейчас же!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоби ви там не робили, припиніть! Негайно!"
+        },
+        {
+            "tag": "A1PO.BACKFF_RILEY_0006",
+            "en": "Hey? Yeah… yeah I can see you. Who are you?",
+            "ru_native": "Ау? Да... да, я тебя вижу. Ты кто такая?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей? Так… так, я тебе бачу. Хто ти?"
+        },
+        {
+            "tag": "A1PO.BACKFF_RILEY_0007",
+            "en": "Hey? —Where are you?",
+            "ru_native": "Эй? Ты... ты где?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Де ти?"
+        },
+        {
+            "tag": "A1PO.BACKFF_RILEY_0008",
+            "en": "Hey? Uh… what is happening?",
+            "ru_native": "Эй? Что... что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Що відбувається?"
+        },
+        {
+            "tag": "A1PO.BACKFF_VIOLET_0000",
+            "en": "Olivia, will you just give it to me!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Оливия, может, ты просто отдашь его мне!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_VIOLET_0001",
+            "en": "See what?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Видишь что!!!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_VIOLET_0002",
+            "en": "We're in the woods! The park!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы находимся в лесу! В парке!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_VIOLET_0003",
+            "en": "Hey! Yeah, we can see you!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Да, мы тебя видим!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.BACKFF_VIOLET_0004",
+            "en": "How do we, uh, change it?!",
+            "ru_native": "Как эту штуку поменять?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як нам… змінити це?!"
+        },
+        {
+            "tag": "A1PO.BACKFF_VIOLET_0005",
+            "en": "Olivia?",
+            "ru_native": "Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє?"
+        }
+    ]
+}

@@ -1,0 +1,438 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S2.EVEREC",
+    "entries": [
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0000_OPTION_0000",
+            "en": "Hi Evelyn.",
+            "ru_native": "Привет, Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Евелін."
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0000_OPTION_0001",
+            "en": "Leslie called! I’m good.",
+            "ru_native": "Я говорила с Лесли! Я готова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розмовляла з Леслі! Я готова."
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0001_OPTION_0000",
+            "en": "Sorry, sure thing.",
+            "ru_native": "Конечно, прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно, вибач."
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0001_OPTION_0001",
+            "en": "Next time do your job.",
+            "ru_native": "Это твоя работа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наступного разу працюй як слід."
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0001_OPTION_0002",
+            "en": "I didn’t want to lie to her.",
+            "ru_native": "Я не хотела врать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хотіла їй брехати."
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0002_OPTION_0000",
+            "en": "Yeah, sure thing.",
+            "ru_native": "Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звісно."
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0002_OPTION_0001",
+            "en": "I didn’t really like lying.",
+            "ru_native": "Не люблю врать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу брехати."
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0003_OPTION_0000",
+            "en": "Uh huh, easy.",
+            "ru_native": "Легко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, запросто."
+        },
+        {
+            "tag": "A1S2.EVEREC_CHOICE_0003_OPTION_0001",
+            "en": "Go over it again.",
+            "ru_native": "Повтори.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повтори, будь ласка."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0000",
+            "en": "No, I know she did.",
+            "ru_native": "Да, я знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0001",
+            "en": "Leslie said you seemed to have a handle on things.",
+            "ru_native": "Лесли сказала, у тебя все под контролем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Леслі сказала, що в тебе все під контролем."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0002",
+            "en": "Leslie said you seemed a little lost.",
+            "ru_native": "Лесли сказала, что ты потерялась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Леслі сказала, що ти була трошки розгублена."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0003",
+            "en": "She also texted me about forgetting your <br> [sigh] damn climbing gear, which… I’m sorry about that. Again.",
+            "ru_native": "Еще она написала про твое забытое снаряжение, которое... Короче, извини. Еще раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона також писала мені про твоє спорядження, яке… Словом, вибач. Ще раз."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0004",
+            "en": "But next time could you maybe just keep those little flubs to yourself, though?",
+            "ru_native": "Но давай в следующий раз такие мелкие промашки ты оставишь при себе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але наступного разу нехай усе залишиться між нами, якщо щось станеться, гаразд?"
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0005",
+            "en": "After last month’s excursion I’m already on thin ice as it is.",
+            "ru_native": "После экскурсии в том месяце я и так хожу по краю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після екскурсії минулого місяця я й так ходжу по тонкій кризі."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0006",
+            "en": "That’s—it’s a long story I can tell you about some other time.",
+            "ru_native": "Долгая история, когда-нибудь потом расскажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… довга історія, я тобі потім колись розповім."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0007",
+            "en": "Uh, over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0008",
+            "en": "It’s not a big deal, we’re just, you know— <br> we all just kinda cover for each other, here.",
+            "ru_native": "Ничего криминального, просто... Мы все стараемся прикрывать друг друга.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого страшного, ми просто… Ми всі завжди прикриваємо одне одного."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0009",
+            "en": "Things move fast and it’s easy to forget stuff, but… anyways.",
+            "ru_native": "В такой суматохе легко что-то забыть, поэтому...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У такій метушні легко про щось забути, тому…"
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0010",
+            "en": "Yeah. Well, that’s one way to look at it.",
+            "ru_native": "Да. Доля правды в этом есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, доля правди в цьому є."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0011",
+            "en": "But I’ll keep, uh, this in mind next time.",
+            "ru_native": "Но имей в виду на будущее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наступного разу я дослухаюся до твоєї поради."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0012",
+            "en": "No, I know, just for next time, as a favor. <br> We all kinda cover for each other, here.",
+            "ru_native": "Я знаю. Это так, просьба на будущее. Мы тут все друг друга прикрываем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю. Просто прошу на майбутнє. Ми всі завжди прикриваємо одне одного."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0013",
+            "en": "She also texted me thanks for remembering to pack your climbing gear. Ha.",
+            "ru_native": "Еще она поблагодарила меня за то, что я положила снаряжение. Ха!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона написала й подякувала мені за те, що я поклала твоє спорядження. Ха!"
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0014",
+            "en": "Thanks for covering for me, I appreciate it.",
+            "ru_native": "Спасибо, что прикрыла. Ты лучшая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що прикрила мене."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0015",
+            "en": "Well, thanks. Seriously. It helped me out, really.",
+            "ru_native": "Спасибо. Правда. Ты меня выручила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую. Серйозно, ти мене дуже виручила."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0016",
+            "en": "No, I know, but thanks, seriously. I'm sure you'll do fine without it, anyway.",
+            "ru_native": "Я знаю, спасибо. Правда. Ты бы и без снаряжения справилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, дякую. Серйозно. Хоча я впевнена, що ти й без спорядження впоралася б."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0017",
+            "en": "I also just wanted to make sure you understood what to do next?",
+            "ru_native": "Еще я хотела уточнить, помнишь ли ты план действий.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ще я хотіла поцікавитися, чи ти знаєш, що робити далі?"
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0018",
+            "en": "Head up to the summit…",
+            "ru_native": "Подняться на вершину.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піднятися на вершину…"
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0019",
+            "en": "And plant the first transmitter for the study.",
+            "ru_native": "И установить передатчик для исследования.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І встановити радіопередавач для дослідження."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0020",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0021",
+            "en": "Great!",
+            "ru_native": "Отлично!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово!"
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0022",
+            "en": "I’ll call you later when you’re on your way. Over and out.",
+            "ru_native": "Еще свяжемся, когда ты пойдешь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вийду на зв’язок пізніше, коли ти будеш йти. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0023",
+            "en": "Sure!",
+            "ru_native": "Да!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно!"
+        },
+        {
+            "tag": "A1S2.EVEREC_EVELYN_0024",
+            "en": "Oh, and one -- one other thing while I have you, Riley.",
+            "ru_native": "Да, Райли, и еще кое-что, пока ты не отключилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, і… хочу сказати ще дещо, Райлі."
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0000",
+            "en": "Hi, Evelyn, everything okay? Over.",
+            "ru_native": "Привет, Эвелин. Как дела? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0001",
+            "en": "Hey, Evelyn, Leslie just called, I think I got everything I need. Over.",
+            "ru_native": "Эвелин, я поговорила с Лесли. Думаю, я готова. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0002",
+            "en": "Oh, sure thing. Sorry if I caused you any trouble. Over.",
+            "ru_native": "Конечно. Прости, если из-за меня проблемы. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно. Вибач, якщо в тебе тепер якісь проблеми через мене. Прийом."
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0003",
+            "en": "Yeah, Evelyn, honestly, I’m not the one that forgot my stuff.",
+            "ru_native": "Эвелин, вообще-то не я забыла снаряжение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, взагалі-то не я забула своє спорядження."
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0004",
+            "en": "If you don’t want to deal with an angry boss, <br> just, you know, do your job, maybe. Over.",
+            "ru_native": "Если не хочешь получать от злой начальницы, просто выполняй свою работу. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо не хочеш отримувати на горіхи від злої начальниці, працюй як слід. Прийом."
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0005",
+            "en": "Yeah, she called and asked if I had it, and… <br> I just didn’t want to lie. Cause I don’t have it.",
+            "ru_native": "Да, она спросила, есть ли снаряжение, и... Я не хотела врать. Потому что его нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вона запитала, чи є в мене спорядження, і…<br>Я не хотіла брехати. Його ж немає."
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0006",
+            "en": "Oh, sure thing. I used to forget my Trig homework every other day. Over.",
+            "ru_native": "Я почти каждый день забывала домашку по геометрии. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно. Колись я майже щодня забувала зошит із тригонометрії вдома. Прийом."
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0007",
+            "en": "Yeah, I don’t really like lying, but… I also didn’t want to get you in trouble. Over.",
+            "ru_native": "Вообще я не люблю врать, но и проблем тебе создавать не хотела. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не люблю брехати, але… я не хотіла підставляти тебе. Прийом."
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0008",
+            "en": "Uh huh, on it. Over.",
+            "ru_native": "Да, за дело. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно, уже вирушаю. Прийом."
+        },
+        {
+            "tag": "A1S2.EVEREC_RILEY_0009",
+            "en": "Uh, actually could you go over it again, really quick?",
+            "ru_native": "Можешь повторить вкратце?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, можеш швиденько повторити?"
+        }
+    ]
+}

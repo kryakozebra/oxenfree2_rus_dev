@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S6.HANKWT",
+    "entries": [
+        {
+            "tag": "A3S6.HANKWT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.HANKWT_CHOICE_0000_OPTION_0000",
+            "en": "Hank! Can you hear me!",
+            "ru_native": "Хэнк! Меня слышно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти мене чуєш?"
+        },
+        {
+            "tag": "A3S6.HANKWT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.HANKWT_CHOICE_0001_OPTION_0000",
+            "en": "Help me tune a frequency!",
+            "ru_native": "Помоги мне настроить частоту!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Допоможи мені налаштувати частоту!"
+        },
+        {
+            "tag": "A3S6.HANKWT_HANK_0000",
+            "en": "[WT] Hey! What’s going on?",
+            "ru_native": "Эй! Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Що відбувається!"
+        },
+        {
+            "tag": "A3S6.HANKWT_HANK_0001",
+            "en": "[WT] It sounds like you’re in the middle of a thunderstorm!",
+            "ru_native": "Звуки такие, будто ты в центре бури!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, ніби ти в центрі грози!"
+        },
+        {
+            "tag": "A3S6.HANKWT_HANK_0002",
+            "en": "[WT] Can you hear me?",
+            "ru_native": "Ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене чуєш?"
+        },
+        {
+            "tag": "A3S6.HANKWT_HANK_0003",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A3S6.HANKWT_HANK_0004",
+            "en": "[WT] Ah, I can see the colorizations. I’ll start right away! Spread the word! Over and out.",
+            "ru_native": "О, я вижу подсветку. Я... начинаю! Передай всем! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачу підсвічування. Починаю прямо зараз! Передай усім! Кінець зв’язку."
+        },
+        {
+            "tag": "A3S6.HANKWT_RILEY_0000",
+            "en": "Hank! Are you there? Can you hear me? Over!",
+            "ru_native": "Хэнк! Ты там? Ты меня слышишь? Прием!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку! Ти там! Ти мене чуєш? Прийом!"
+        },
+        {
+            "tag": "A3S6.HANKWT_RILEY_0001",
+            "en": "I need you to help me tune a frequency to—to shut this thing down!",
+            "ru_native": "Мне нужно, чтобы ты помог мне настроиться на частоту... и закрыть эту штуку!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Допоможи мені налаштувати частоту, щоб… щоби вимкнути цю штуку!"
+        },
+        {
+            "tag": "A3S6.HANKWT_RILEY_0002",
+            "en": "Just—just get on your radio—blast your signal—",
+            "ru_native": "Просто... включи радио... дай сигнал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто ввімкни радіо… налаштуй сигнал…"
+        },
+        {
+            "tag": "A3S6.HANKWT_RILEY_0003",
+            "en": "—track its progress through your window but tune this thing out now! Over!",
+            "ru_native": "...следи за прогрессом через окно, но срочно настрой сигнал на закрытие! Прием!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…слідкуй за прогресом через вікно, але терміново<br>налаштуй сигнал на закриття. Прийом!"
+        }
+    ]
+}

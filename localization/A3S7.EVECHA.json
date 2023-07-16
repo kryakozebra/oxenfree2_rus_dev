@@ -1,0 +1,816 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S7.EVECHA",
+    "entries": [
+        {
+            "tag": "A3S7.EVECHA_ALEX_0000",
+            "en": "Give me a second.",
+            "ru_native": "Секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Секунду."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, I’m here.",
+            "ru_native": "Да, я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тут."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0000_OPTION_0001",
+            "en": "Evelyn? What’s going on?",
+            "ru_native": "Эвелин? Что такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Що відбувається?"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0000_OPTION_0002",
+            "en": "Am I… looping?",
+            "ru_native": "Я... в петле?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… у петлі?"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0001_OPTION_0000",
+            "en": "Cuckoos?",
+            "ru_native": "Кукушки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зозулі?"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0001_OPTION_0001",
+            "en": "What are you talking about?",
+            "ru_native": "Ты о чем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти про що?"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0002_OPTION_0000",
+            "en": "But the weird frequency…",
+            "ru_native": "Но странная частота...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але дивна частота…"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0002_OPTION_0001",
+            "en": "But everything that happened!",
+            "ru_native": "Но все, что произошло!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але все це сталося!"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0002_OPTION_0002",
+            "en": "Um… okay.",
+            "ru_native": "Хм... ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, ну гаразд."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0003_OPTION_0000",
+            "en": "A bunch of teens…!",
+            "ru_native": "Группа подростков!..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Купа підлітків!.."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0003_OPTION_0001",
+            "en": "Time and space was…!",
+            "ru_native": "Время и пространство!..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час і простір були!.."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0003_OPTION_0002",
+            "en": "Ghosts and crap were...!",
+            "ru_native": "Призраки и всякое дерьмо!..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привиди й усіляке лайно!.."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0004_OPTION_0000",
+            "en": "Hell no.",
+            "ru_native": "Ну уж нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До біса, ні."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0004_OPTION_0001",
+            "en": "Uh, sure, whatever.",
+            "ru_native": "Ага, как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, звичайно, як скажеш."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0004_OPTION_0002",
+            "en": "I’ll think about it.",
+            "ru_native": "Я подумаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я подумаю про це."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0005_OPTION_0000",
+            "en": "Gotta go, Evelyn.",
+            "ru_native": "Мне пора, Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені час йти, Евелін."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0005_OPTION_0001",
+            "en": "Nice to meet you, Evelyn.",
+            "ru_native": "Приятно было познакомиться, Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рада познайомитися, Евелін."
+        },
+        {
+            "tag": "A3S7.EVECHA_CHOICE_0005_OPTION_0002",
+            "en": "I’ll pick it up later.",
+            "ru_native": "Я потом заберу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я заберу його пізніше."
+        },
+        {
+            "tag": "A3S7.EVECHA_CLARISSA_0000",
+            "en": "Alex! Where are you going?",
+            "ru_native": "Алекс! Ты куда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс, куди ти?"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0000",
+            "en": "Hey! There you are.",
+            "ru_native": "А! Вот ты где.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Он ти де."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0001",
+            "en": "Hey! Nothing much.",
+            "ru_native": "Привет! Да ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт! Нічого такого."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0002",
+            "en": "What day is it? Oh, uh, I don’t know the date.",
+            "ru_native": "Какой день? Ой, я не помню число.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Який зараз день? Ем, не пам’ятаю число."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0003",
+            "en": "And actually my phone can’t sync anymore since I dropped it in oatmeal.",
+            "ru_native": "Я телефон уронила в тарелку с хлопьями, и он больше не синхронизируется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І взагалі мій телефон більше не синхронізується, бо я його вронила в кашу."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0004",
+            "en": "This is just the next day check-in. Leslie’s really happy with the work you did.",
+            "ru_native": "Просто проверка связи. Лесли очень довольна твоей работой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевірка зв’язку. Леслі дуже задоволена твоєю роботою."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0005",
+            "en": "The transmitters—you know—their placements seem perfect—negligible scratch.",
+            "ru_native": "Передатчики, кажется, установлены идеально – не считая мелких царапин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіопередавачі, здається, встановлено ідеально —<br>є лише кілька незначних подряпин."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0006",
+            "en": "I know it wasn’t the most interesting workday but the, uh—",
+            "ru_native": "Знаю, это был не самый интересный рабочий день, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, це був не найцікавіший робочий день, проте…"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0007",
+            "en": "—our environmental research staff is gonna be psyched when they hear how clear the cuckoos are coming through.",
+            "ru_native": "...наши экологи будут в восторге, когда услышат, как четко звучат кукушки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…наші екологи будуть у захваті, коли почують, як чітко можна почути зозуль."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0008",
+            "en": "The bird calls are perfect.",
+            "ru_native": "Голоса птиц вышли идеально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Птахів чути ідеально."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0009",
+            "en": "Not a lot of interference.",
+            "ru_native": "Почти без помех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перешкод майже немає."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0010",
+            "en": "So… great job!",
+            "ru_native": "Молодец!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже… чудова робота!"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0011",
+            "en": "That’s what the study is for.",
+            "ru_native": "Их и исследуем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, досліджуємо їх."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0012",
+            "en": "Cuckoos are endangered in Oregon, and this will help track migratory patterns…",
+            "ru_native": "Кукушки в Орегоне под угрозой исчезновения, и это поможет отследить маршруты миграции…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "В Орегоні зозулі під загрозою зникнення, а це допоможе відстежити маршрут міграції…"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0013",
+            "en": "It did… rain periodically, last night, but… I don’t think it’ll hurt the equipment.",
+            "ru_native": "Ну... покапал вчера ночью дождик, но... не<br>думаю, что это как-то повредит оборудованию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… минулої ночі трохи дощило, але… Не думаю, що це зашкодить обладнанню."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0014",
+            "en": "But yeah the transmitters—Leslie went over this with you, but the transmitters are for the area’s yellow-billed cuckoos population.",
+            "ru_native": "Ну да, передатчики... Лесли же тебе говорила, что<br>передатчики нужны для местной популяции желтоклювых кукушек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але так, Леслі казала тобі, що радіопередавачі потрібні<br>для місцевої популяції жовтодзьобих зозуль."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0015",
+            "en": "If you’re curious, you can log in to the school’s website when you’re home…",
+            "ru_native": "Если интересно, можешь зайти на сайт школы, когда будешь дома...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо цікаво, можеш знайти сайт школи, коли будеш удома…"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0016",
+            "en": "…and see how we’re updating the cuckoos’ status. They’re endangered in Oregon.",
+            "ru_native": "…и посмотреть, как мы обновляем статус кукушек. Они в Орегоне исчезающий вид.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і дізнатись, як ми оновлюємо статус зозуль. Вони під загрозою в Орегоні."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0017",
+            "en": "The transmitters will track their migration patterns.",
+            "ru_native": "Передатчики будут отслеживать их маршруты миграции.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Передавачі відстежуватимуть їхні маршрути міграції."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0018",
+            "en": "…and help us get a sense of their nesting range.",
+            "ru_native": "...и помогут нам понять их ареал гнездования.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і допоможуть нам зрозуміти, де вони гніздяться."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0019",
+            "en": "Hopefully get them off the endangered list.",
+            "ru_native": "Надеюсь, выведем их из списка исчезающих.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, це допоможе вивести їх з-під загрози зникнення."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0020",
+            "en": "If it’s warranted.",
+            "ru_native": "Если это оправдано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це виправдано."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0021",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0022",
+            "en": "Uh… no, Riley, you were hired to help us study yellow-billed cuckoos.",
+            "ru_native": "Эм... нет, Райли, тебя наняли помочь в изучении желтоклювых кукушек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… ні, Райлі, тебе найняли, щоби допомогти у вивченні жовтодзьобих зозуль."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0023",
+            "en": "And you did! So… that’s—maybe you’re just overtired?",
+            "ru_native": "И ты помогла! Так что… может, ты просто переутомилась?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ти допомогла! Тож… може, ти просто надто втомлена?"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0024",
+            "en": "I don’t think you made it to the hotel last night. Did something happen?",
+            "ru_native": "Кажется, ты вчера так и не добралась до отеля. Что-то случилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, учора тобі так і не вдалося дістатися готелю. Знову щось сталося?"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0025",
+            "en": "Um… no, I don’t remember you telling me anything about ghosts or dead teenagers, no.",
+            "ru_native": "Эм... нет, не помню, чтобы ты говорила что-то про привидений или мертвых подростков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… ні, не пам’ятаю, щоби ти казала про привидів чи мертвих підлітків."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0026",
+            "en": "After you went off to study cuckoos, I went home and had dinner with my sister.",
+            "ru_native": "После того, как ты ушла изучать кукушек, я пошла домой ужинать с сестрой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після того як ти вирушила вивчати зозуль, я пішла додому вечеряти із сестрою."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0027",
+            "en": "Maybe you told Leslie and you’re confusing us? Did something happen?",
+            "ru_native": "Может, ты сказала Лесли и путаешь нас? Что-то случилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, ті сказала Леслі і плутаєш нас? Щось сталося?"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0028",
+            "en": "Oh wait, sorry, Riley, before you get into it—sorry—really quick—",
+            "ru_native": "Погоди, Райли, пока ты не продолжила... я быстро...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, Райлі, поки ти не розпочала… перепрошую, я дійсно швидко…"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0029",
+            "en": "We’re shuffling projects, and need to know before Leslie walks out the door—",
+            "ru_native": "Мы перетасовываем проекты, и пока Лесли не ушла, скажи...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тасуємо проєкти й поки Леслі не пішла, мені потрібно знати…"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0030",
+            "en": "—if you’d be willing to sign up for another job next month?",
+            "ru_native": "...не хочешь ли ты записаться на новую работу в следующем месяце?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…не хочеш узяти нову роботу наступного місяця?"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0031",
+            "en": "You were one of our better researchers.",
+            "ru_native": "Ты была одним из лучших исследователей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти була однією з найліпших дослідниць."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0032",
+            "en": "And it’d be the same deal, basically.",
+            "ru_native": "По сути, работа та же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Загалом, робота майже та сама."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0033",
+            "en": "Just planting test equipment.",
+            "ru_native": "Ставить тестовые передатчики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Установлювати тестове обладнання."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0034",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0035",
+            "en": "Yeah, this job has a lot of turnover. It’s not particularly engaging…",
+            "ru_native": "Да, на этой работе большая текучка. Она не особо интересная...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, на цій роботі довго не затримуються. Не дуже вона захоплива…"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0036",
+            "en": "Ah, great, great, I’ll let Leslie know.",
+            "ru_native": "О, отлично, я передам Лесли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, чудово! Повідомлю Леслі."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0037",
+            "en": "Ah, okay. Give it a think. Sounds good.",
+            "ru_native": "Хорошо. Подумай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, гаразд. Подумай. Звучить непогано."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0038",
+            "en": "Wanna think about it? You wanna think about it. Okay. I’ll let Leslie know.",
+            "ru_native": "Хочешь подумать? Понятно. Хорошо. Я передам Лесли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш подумати про це? Зрозуміло. Гаразд. Я повідомлю Леслі."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0039",
+            "en": "Well, thanks for everything, Riley.",
+            "ru_native": "Что ж, спасибо за все, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, дякую за все, Райлі."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0040",
+            "en": "I think you can pick up your check at the campus Admissions office?",
+            "ru_native": "Думаю, ты можешь забрать свой чек в приемной комиссии кампуса?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, можеш забрати свій чек у приймальній комісії студмістечка?"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0041",
+            "en": "I don’t know why it’s there, but…",
+            "ru_native": "Не знаю, почему он там, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чому він там, але…"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0042",
+            "en": "Anyways...",
+            "ru_native": "Короче...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як…"
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0043",
+            "en": "Hope you have a safe ride home.",
+            "ru_native": "Желаю добраться домой без приключений.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, дорога додому буде безпечною."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0044",
+            "en": "Thanks again.",
+            "ru_native": "Еще раз спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще раз дякую."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0045",
+            "en": "Ah! Okay, sorry for keeping you. Call if you need anything! Over and out.",
+            "ru_native": "А! Прости, не буду задерживать. Если что понадобится, звони! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, гаразд, вибач, що затримую. Зателефоную,<br>якщо щось знадобиться. Кінець зв’язку."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0046",
+            "en": "Thank you. It was really nice to meet you, too, Riley. Have a good rest of your visit! Over and out.",
+            "ru_native": "Спасибо. Мне тоже было приятно с тобой познакомиться, Райли. Хорошего отдыха! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую. Було дійсно приємно познайомитися, Райлі.<br>Приємного відпочинку! Кінець зв’язку."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0047",
+            "en": "Okay, sounds good! Take care, Riley! Over and out.",
+            "ru_native": "Да, звучит неплохо! Береги себя, Райли! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звучить непогано! Бережи себе, Райлі! Кінець зв’язку."
+        },
+        {
+            "tag": "A3S7.EVECHA_EVELYN_0048",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0000",
+            "en": "Yeah… yeah, I’m here.",
+            "ru_native": "Да... да, я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… так, я тут."
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0001",
+            "en": "Evelyn? Hey, yeah… what’s going on?",
+            "ru_native": "Эвелин? Да, что такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Гей, так… що відбувається?"
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0002",
+            "en": "Evelyn? [sigh] Is this a… a loop, again? What day is it?",
+            "ru_native": "Эвелин? Это опять... петля? Какой сейчас день?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? [зітхає] Це… знову петля? Який зараз день?"
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0003",
+            "en": "Cuckoos? Huh?",
+            "ru_native": "Что? Кукушки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Зозулі?"
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0004",
+            "en": "Evelyn, what the Hell are you talking about? Do you—do you remember the storm?",
+            "ru_native": "Эвелин, что ты такое несешь? Ты помнишь грозу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, що ти, у біса, таке кажеш? Пам’ятаєш грозу?"
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0005",
+            "en": "But… Evelyn… I was hired to plant transmitters to study a strange interference with the area’s electronic equipment.",
+            "ru_native": "Но... Эвелин... Меня наняли установить передатчики,<br>чтобы изучать странные помехи в местной электронике.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Евелін… Мене найняли, щоб установити радіопередавачі<br>для вивчення дивних радіоперешкод в електронному обладнанні в цій місцевості."
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0006",
+            "en": "Remember?",
+            "ru_native": "Помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пам’ятаєш?"
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0007",
+            "en": "But… Evelyn… don’t you—don’t you remember, like, everything that happened last night?",
+            "ru_native": "Но... Эвелин... разве ты не помнишь, что случилось прошлой ночью?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Евелін… хіба ти не пам’ятаєш, що сталося минулої ночі?"
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0008",
+            "en": "The—the ghosts—the teenagers—the dead ones—portals—just… everything?",
+            "ru_native": "Привидения... подростки... мертвые... порталы... все это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привиди… підлітки… мертві… портали… усе це?"
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0009",
+            "en": "Uh… okay. Cool.",
+            "ru_native": "Хм.. ладно. Круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… гаразд. Добре."
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0010",
+            "en": "Um, no offense, but absolutely no way—no shot in hell. Over.",
+            "ru_native": "Без обид, но ни за что в жизни. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не ображайся, але нізащо на світі. Прийом."
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0011",
+            "en": "Uh… sure, Evelyn, whatever you guys need. I’ll be available.",
+            "ru_native": "Конечно, Эвелин, можете на меня рассчитывать. Я свободна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, звісно, Евелін, зроблю все, що потрібно. Можете розраховувати на мене."
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0012",
+            "en": "Uh… yeah. Maybe. I'll, uh… I'll think about it.",
+            "ru_native": "Хм... да. Возможно. Я подумаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… так. Можливо. Я… я подумаю."
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0013",
+            "en": "I, uh, gotta go, Evelyn.",
+            "ru_native": "Мне пора, Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені треба йти, Евелін."
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0014",
+            "en": "Uh, okay, sounds good. It was nice to meet you, Evelyn. Take care, okay?",
+            "ru_native": "Да, ладно. Приятно было познакомиться, Эвелин. береги себя, хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е, гаразд. Було приємно познайомитися, Евелін. Бережи себе, добре?"
+        },
+        {
+            "tag": "A3S7.EVECHA_RILEY_0015",
+            "en": "Yeah, Evelyn. I'll, uh, I'll pick it up, later.",
+            "ru_native": "Да, Эвелин. Я потом его заберу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Евелін. Я потім його заберу."
+        }
+    ]
+}

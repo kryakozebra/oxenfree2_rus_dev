@@ -1,0 +1,222 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2C4",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2C4_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2C4_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? You there?",
+            "ru_native": "Эвелин? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ти мене чуєш?"
+        },
+        {
+            "tag": "EVWT.EVA2C4_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2C4_CHOICE_0001_OPTION_0000",
+            "en": "Crud, you sound bad, too.",
+            "ru_native": "Тебя тоже ужасно слышно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прикро, тебе теж погано чути."
+        },
+        {
+            "tag": "EVWT.EVA2C4_CHOICE_0001_OPTION_0001",
+            "en": "I’m in a cave.",
+            "ru_native": "Я в пещере.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я в печері."
+        },
+        {
+            "tag": "EVWT.EVA2C4_CHOICE_0001_OPTION_0002",
+            "en": "Just checking in.",
+            "ru_native": "Проверка связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто перевірка зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0000",
+            "en": "[staticky] Riley? You’re really going in and out, it’s hard to hear you.",
+            "ru_native": "Райли? Ты булькаешь, очень плохо слышно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Райлі? Ти пропадаєш. Я тебе майже не чую."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0001",
+            "en": "[staticky] Are you— [static]",
+            "ru_native": "Ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Ти… [шум]"
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0003",
+            "en": "[staticky] Oh, uh, okay, Riley? I think you said you’ll try again later.",
+            "ru_native": "Райли? Кажется, ты сказала, что потом свяжешься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Ти в порядку, Райлі?<br>Здається, ти сказала, що спробуєш пізніше."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0004",
+            "en": "[staticky] Talk to you then. Over and out.",
+            "ru_native": "Тогда и поговорим. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Потім поговоримо. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0005",
+            "en": "[staticky] Riley? Did you say—you’re saying you’re in a cave?",
+            "ru_native": "Райли? Ты сказала, что сейчас в пещере?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Райлі? Ти сказала, що ти в печері?"
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0006",
+            "en": "[staticky] I wouldn’t go exploring in the beach hollows, Riley. Leslie warned me about how dangerous they can be.",
+            "ru_native": "Райли, я бы не стала соваться в пещеры у пляжа. Лесли говорила, что там небезопасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Райлі, я б не ходила в печери на пляжі.<br>Леслі попередила мене, що вони небезпечні."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0007",
+            "en": "[staticky] Kids get lost and stuck all the time. Be extremely cautious, seriously.",
+            "ru_native": "Дети постоянно там теряются и застревают. Будь очень осторожна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Діти постійно там губляться й застрягають.<br>Будь надзвичайно обережна."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0008",
+            "en": "[staticky] Alright, I’ll talk to you when you’re out in clear air, again. Over and out.",
+            "ru_native": "Ладно, поговорим, когда выйдешь на открытое пространство. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Гаразд, поговоримо, коли ти<br>вийдеш на відкритий простір, знову. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0009",
+            "en": "[staticky] Ugh, I can’t really understand you, Riley, through all the interference.",
+            "ru_native": "Райли, я тебя почти не слышу из-за помех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Ех, я тебе майже не розумію, Райлі, через усі ці перешкоди."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0010",
+            "en": "I’ll talk to you when the signal’s better! Okay? Ugh, over and out.",
+            "ru_native": "Поговорим, когда связь станет получше, ладно? Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговоримо, коли сигнал стане кращим! Гаразд? Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0011",
+            "en": "[static] Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Шум] Райлі?"
+        },
+        {
+            "tag": "EVWT.EVA2C4_EVELYN_0012",
+            "en": "[static]",
+            "ru_native": "[ID-17]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Шум]"
+        },
+        {
+            "tag": "EVWT.EVA2C4_RILEY_0000",
+            "en": "Hey, Evelyn? Are you around? Over.",
+            "ru_native": "Эвелин? Ты на связи? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін? Ти там? Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2C4_RILEY_0001",
+            "en": "Oh, man, yeah, you sound pretty garbled, too.",
+            "ru_native": "Жесть, тебя тоже ужасно слышно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, тебе теж погано чути."
+        },
+        {
+            "tag": "EVWT.EVA2C4_RILEY_0002",
+            "en": "Uh, you know what—I’ll just try you again later when we get clear. Over.",
+            "ru_native": "Знаешь... Я свяжусь, когда выйдем на открытое пространство. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш що, я спробую пізніше, коли не буде перешкод. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2C4_RILEY_0003",
+            "en": "Oh, crap, Evelyn? I’m in a cave. Can you hear me? Over.",
+            "ru_native": "Вот черт. Эвелин? Я в пещере. Меня слышно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт, Евелін? Я в печері. Ти мене чуєш? Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2C4_RILEY_0004",
+            "en": "Evelyn? Can you hear me? I’m just calling to check in. Over.",
+            "ru_native": "Эвелин? Ты меня слышишь? Проверка связи. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ти мене чуєш? Перевірка зв’язку. Прийом."
+        }
+    ]
+}

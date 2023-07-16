@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.ANSPHO",
+    "entries": [
+        {
+            "tag": "A2W2.ANSPHO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.ANSPHO_CHOICE_0000_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A2W2.ANSPHO_CHOICE_0000_OPTION_0001",
+            "en": "Park Ranger Station.",
+            "ru_native": "Станция рейнджеров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Станція наглядачів."
+        },
+        {
+            "tag": "A2W2.ANSPHO_CHOICE_0000_OPTION_0002",
+            "en": "We need help!",
+            "ru_native": "Нам нужна помощь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам потрібна допомога!"
+        },
+        {
+            "tag": "A2W2.ANSPHO_JACOB_0000",
+            "en": "Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі?"
+        },
+        {
+            "tag": "A2W2.ANSPHO_JACOB_0001",
+            "en": "Anyone there?",
+            "ru_native": "Есть там кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут хтось є?"
+        },
+        {
+            "tag": "A2W2.ANSPHO_JACOB_0002",
+            "en": "Hello? Is anyone there?",
+            "ru_native": "Алло? Есть там кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло? Є там хтось?"
+        },
+        {
+            "tag": "A2W2.ANSPHO_RILEY_0000",
+            "en": "Um, Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, агов?"
+        },
+        {
+            "tag": "A2W2.ANSPHO_RILEY_0001",
+            "en": "Uh, Park Ranger Station, Turnstone Forest. Who is calling, please?",
+            "ru_native": "Станция Тернстоун. Кто говорит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, станція наглядачів гаю Тернстоун. Хто це?"
+        },
+        {
+            "tag": "A2W2.ANSPHO_RILEY_0002",
+            "en": "Hey, if this is any sort of emergency services or even just, like, some guy with floaties and a flashlight, we need immediate assistance.",
+            "ru_native": "Если тут есть спасатели или просто парень со<br>спасательным кругом и фонариком, нам нужна помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо тут є рятувальники чи просто хтось<br>із рятувальним кругом і ліхтариком, нам потрібна допомога."
+        },
+        {
+            "tag": "A2W2.ANSPHO_SHELLEY_0000",
+            "en": "Hey, is this Turnstone Forest Station?",
+            "ru_native": "Это станция Тернстоун?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це станція Тернстоун?"
+        },
+        {
+            "tag": "A2W2.ANSPHO_SHELLEY_0001",
+            "en": "This is Shelley, Park Ranger at Oberon.",
+            "ru_native": "Это Шелли, рейнджер из Оберона.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Шеллі, наглядачка парку в Обероні."
+        },
+        {
+            "tag": "A2W2.ANSPHO_SHELLEY_0002",
+            "en": "Um, is—this is the Turnstone Forest Ranger Station, correct?",
+            "ru_native": "Эм, это... станция Тернстоун, верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, це… станція Тернстоун, так?"
+        }
+    ]
+}

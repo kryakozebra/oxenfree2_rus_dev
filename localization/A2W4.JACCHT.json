@@ -1,0 +1,348 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.JACCHT",
+    "entries": [
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0000",
+            "en": "Who is she, anyway?",
+            "ru_native": "Кто она вообще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто вона, до речі?"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0001",
+            "en": "Look, I don’t know what you want from me, but I know you’re not gonna get it.",
+            "ru_native": "Слушай, не догоняю, чего еще ты хочешь, но ты этого точно не получишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, я не знаю, чого ви від мене хочете,<br>але я знаю, що ви цього не отримаєте."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0002",
+            "en": "We’re making things right! That’s what’s going on! And tonight’s the only night we can do it.",
+            "ru_native": "Мы хотим все исправить. Вот в чем дело! И сделать это можем только сегодня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми все робимо правильно! Ось що коїться!<br>Сьогоднішня ніч єдина, коли ми можемо все завершити."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0003",
+            "en": "You want more?",
+            "ru_native": "Еще вопросы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще?"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0004",
+            "en": "Cause that’s about as simple as I can make it.",
+            "ru_native": "Объяснить проще я уже не смогу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я й так усе спростив, як тільки міг."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0005",
+            "en": "Well you can forget it, I’m not getting into it. I can’t.",
+            "ru_native": "Губу закатай. Я ничего больше не скажу. Нельзя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді забудьте, я більше не говоритиму. Я не можу."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0006",
+            "en": "I can’t stop. You don’t understand what’s happening here. We…",
+            "ru_native": "Я не могу. Ты не понимаешь, что происходит. Мы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу. Ви не розумієте, що тут коїться. Ми…"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0007",
+            "en": "I’m not a rat. And… what’s happening is too important.",
+            "ru_native": "Я не крыса. То, что происходит, слишком важно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не пацюк якийсь. Що б там не відбувалося, це занадто важливо."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0008",
+            "en": "I can’t let her down. I just can’t. Okay? And, besides—I need them to help me, too.",
+            "ru_native": "Я не могу ее подвести. Не могу, ясно? К тому же... Мне тоже нужна их помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не підведу її. Я просто не можу, зрозумійте.<br>Крім того, мені потрібна їхня допомога."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0009",
+            "en": "And I’m not about to start messing with that.",
+            "ru_native": "И я не собираюсь все портить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я не збираюся все руйнувати."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0010",
+            "en": "Not for you.",
+            "ru_native": "Из-за вас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не заради вас."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHARLIE_0011",
+            "en": "No way.",
+            "ru_native": "Ни за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні за що."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0000_OPTION_0000",
+            "en": "I’m a friend.",
+            "ru_native": "Я друг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я друг."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0000_OPTION_0001",
+            "en": "I know Jacob.",
+            "ru_native": "Я знаю Джейкоба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з Джейкобом знайомі."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0000_OPTION_0002",
+            "en": "Don’t ask questions.",
+            "ru_native": "Не задавай вопросов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут ми питаємо."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0001_OPTION_0000",
+            "en": "Talk!",
+            "ru_native": "Говори!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Говори!"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0001_OPTION_0001",
+            "en": "Stop what you’re doing.",
+            "ru_native": "Сворачивайтесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зупини це."
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0001_OPTION_0002",
+            "en": "Who else is involved?",
+            "ru_native": "Кто еще причастен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто ще причетний?"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0002_OPTION_0000",
+            "en": "Let who down?",
+            "ru_native": "Подвести кого?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кого підвести?"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0002_OPTION_0001",
+            "en": "You need whose help?",
+            "ru_native": "Чья помощь тебе нужна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чия допомога?"
+        },
+        {
+            "tag": "A2W4.JACCHT_CHOICE_0002_OPTION_0002",
+            "en": "You’re coming with us.",
+            "ru_native": "Ты пойдешь с нами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти йдеш із нами."
+        },
+        {
+            "tag": "A2W4.JACCHT_JACOB_0000",
+            "en": "Don’t worry about her.",
+            "ru_native": "О ней не беспокойся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся через неї."
+        },
+        {
+            "tag": "A2W4.JACCHT_JACOB_0001",
+            "en": "Actually, don’t even look at her.",
+            "ru_native": "И вообще не смотри на нее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А взагалі-то, навіть не дивись на неї."
+        },
+        {
+            "tag": "A2W4.JACCHT_JACOB_0002",
+            "en": "What’s going on. It’s like a switch flipped and we’re living in a surrealist nightmare.",
+            "ru_native": "Что происходит? Мы будто по щелчку оказались в сюрреалистическом кошмаре.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається? Усесвіт наче перевернувся,<br>і ми тепер живемо в сюрреалістичному кошмарі."
+        },
+        {
+            "tag": "A2W4.JACCHT_JACOB_0003",
+            "en": "And I’d bet all the money in my pocket it’s completely your fault! So what’s going on!?",
+            "ru_native": "И готов поспорить, что это целиком и полностью ваша вина. В чем дело?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я можу закласти всі свої гроші з кишені на те,<br>що це твоя провина! Тож що тут коїться?!"
+        },
+        {
+            "tag": "A2W4.JACCHT_JACOB_0004",
+            "en": "What are you talking about? Start making sense. Or—",
+            "ru_native": "О чем ты? Выражайся понятнее. Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про що ти говориш? Кажи зрозуміліше, або…"
+        },
+        {
+            "tag": "A2W4.JACCHT_RILEY_0000",
+            "en": "I’m a friend. Now… if I’m your friend that's largely up to you.",
+            "ru_native": "Я друг. Твой ли я друг, решать тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я друг. Тепер... чи я друг тобі залежить повністю від тебе. "
+        },
+        {
+            "tag": "A2W4.JACCHT_RILEY_0001",
+            "en": "I know Jacob. We used to go to high school together. Happy?",
+            "ru_native": "Я знаю Джейкоба. Учились вместе. Доволен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з Джейкобом знайомі. Ми ходили разом до школи. Задоволений?"
+        },
+        {
+            "tag": "A2W4.JACCHT_RILEY_0002",
+            "en": "We’ll ask the questions, kid. Okay?",
+            "ru_native": "Мы тут задаем вопросы, парень. Ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тут ставимо запитання, малий. Домовилися?"
+        },
+        {
+            "tag": "A2W4.JACCHT_RILEY_0003",
+            "en": "Yeah, we need more, that’s not gonna cut it.",
+            "ru_native": "Да, нам нужно больше информации. Этого мало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно, цього недостатньо."
+        },
+        {
+            "tag": "A2W4.JACCHT_RILEY_0004",
+            "en": "We don’t care. You need to stop whatever you’re doing and go home. Okay?",
+            "ru_native": "Нам плевать. Сворачивайте свою лавочку и расходитесь по домам. Ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилює. Щоби ти не робив, припини і йди додому. Гаразд?"
+        },
+        {
+            "tag": "A2W4.JACCHT_RILEY_0005",
+            "en": "Who else is involved, and what are they doing while we’re stuck here with you.",
+            "ru_native": "Кто еще причастен, и чем они заняты, пока мы тут с тобой возимся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто ще до цього причетний, і що вони роблять, поки ми тут застрягли з тобою?"
+        },
+        {
+            "tag": "A2W4.JACCHT_RILEY_0006",
+            "en": "Let who down? Who are you talking about?",
+            "ru_native": "Подвести кого? О ком ты говоришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кого підвести? Про кого ти говориш?"
+        },
+        {
+            "tag": "A2W4.JACCHT_RILEY_0007",
+            "en": "You need whose help? What’s going on here?",
+            "ru_native": "Чья помощь тебе нужна? Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чия допомога тобі потрібна? Що тут відбувається?"
+        },
+        {
+            "tag": "A2W4.JACCHT_RILEY_0008",
+            "en": "Fine, you’re coming with us. We’re not done, yet.",
+            "ru_native": "Ладно, ты пойдешь с нами. Мы еще не закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, підеш із нами. Ми ще не закінчили."
+        }
+    ]
+}

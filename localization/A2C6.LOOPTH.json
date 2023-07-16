@@ -1,0 +1,402 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.LOOPTH",
+    "entries": [
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0000_OPTION_0000",
+            "en": "We’re being active.",
+            "ru_native": "Мы много ходим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми активно рухаємось."
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0000_OPTION_0001",
+            "en": "Hat on too tight?",
+            "ru_native": "Шапка давит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Капелюх тисне на голову?"
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0000_OPTION_0002",
+            "en": "Congrats?",
+            "ru_native": "Поздравляю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вітаю?"
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0001_OPTION_0000",
+            "en": "We’re looping again.",
+            "ru_native": "Мы опять в петле.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми знову в петлі."
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0001_OPTION_0001",
+            "en": "I know what you’re about to say…",
+            "ru_native": "Я знаю, что ты скажешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ти хочеш сказати…"
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0002_OPTION_0000",
+            "en": "Oh, my God…",
+            "ru_native": "О боже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже мій…"
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0002_OPTION_0001",
+            "en": "Leave him alone!",
+            "ru_native": "Оставьте его!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Облиште його!"
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0003_OPTION_0000",
+            "en": "Nightmare.",
+            "ru_native": "Ночной кошмар.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жах."
+        },
+        {
+            "tag": "A2C6.LOOPTH_CHOICE_0003_OPTION_0001",
+            "en": "Jacob?",
+            "ru_native": "Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе?"
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0000",
+            "en": "I’m sweating. Like—a lot.",
+            "ru_native": "Пот ручьем. Не шучу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я аж спітнів. Дуже."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0001",
+            "en": "Weird.",
+            "ru_native": "Странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0002",
+            "en": "M-m-maybe I should—uh…",
+            "ru_native": "Может, стоит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "М-може мені слід…"
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0003",
+            "en": "[takes a breath] Dunno—have some water or something.",
+            "ru_native": "Не знаю, попить воды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[вдихає] Узяти води чи що."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0004",
+            "en": "No this—feels different.",
+            "ru_native": "Нет, это другое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… якось дивно."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0005",
+            "en": "No, I’m not—like I’m not joking around. This feels—different.",
+            "ru_native": "Я не для смеха отметил. Это... что-то другое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я не жартую. Це якось по-іншому."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0006",
+            "en": "Is it hotter up here or am I—? Hm.",
+            "ru_native": "Тут жарче, или мне... Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут спекотніше чи я…"
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0007",
+            "en": "Let’s… just keep going.",
+            "ru_native": "Ладно, пошли дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зупиняймося!"
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0008",
+            "en": "Oh, man, seriously?",
+            "ru_native": "Блин, ты серьезно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти серйозно?"
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0009",
+            "en": "Yea I thought—foolishly, I admit it—that we were done with those.",
+            "ru_native": "Я думал, хотя это было наивно, что с петлями покончено.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я гадав, хоча марно, що з петлями покінчено."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0010",
+            "en": "I guess let’s… see it through?",
+            "ru_native": "Что же будет на этот раз?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роздивімося?"
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0011",
+            "en": "It… was, how did you—",
+            "ru_native": "Да... Как ты?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Як ти?…"
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0012",
+            "en": "Oh, great, a loop right? Right! Damnit.",
+            "ru_native": "Отлично, опять петля? Ясно. Вот черт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, супер, знову петля? Правильно! Бляха."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0013",
+            "en": "Let’s just keep going.",
+            "ru_native": "Ладно, пошли дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зупиняймося."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0014",
+            "en": "[possessed] Ashes.",
+            "ru_native": "Пепел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спокійно] Попіл."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0015",
+            "en": "[possessed] Ashes.",
+            "ru_native": "Пепел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спокійно] Попіл."
+        },
+        {
+            "tag": "A2C6.LOOPTH_JACOB_0016",
+            "en": "[possessed] We all burn up.",
+            "ru_native": "Мы все горим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спокійно] Ми всі палаємо."
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0000",
+            "en": "I mean, we’ve—been pretty active.",
+            "ru_native": "Ну да, мы много находили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… ми досить активно рухаємось"
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0001",
+            "en": "My deodorant is definitely at warp 9.",
+            "ru_native": "Мой дезодорант на последнем издыхании.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мій дезодорант працює з усіх сил."
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0002",
+            "en": "Loosen the hat maybe?",
+            "ru_native": "Может, ослабишь шапку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, скинеш шапку?"
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0003",
+            "en": "Don’t you retain heat in the head? Or is that feet? Or is that neither?",
+            "ru_native": "Разве мы не сохраняем тепло в голове? Или в ногах? Или я путаю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба людина зберігає тепло не в голові? Чи це про ноги? Чи ані те, ані інше?"
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0004",
+            "en": "Uh… good… job?",
+            "ru_native": "Молодец?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарна робота?"
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0005",
+            "en": "You got some killer sweat glands, champ.",
+            "ru_native": "Убойные потовые железы, поздравляю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну в тебе й потові залози!"
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0006",
+            "en": "Great, we’re looping again.",
+            "ru_native": "Отлично, мы опять в петле.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, здається ми знову в петлі."
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0007",
+            "en": "Is it hotter up here? That’s what you were about to say.",
+            "ru_native": "Тут жарче? Ты это хотел сейчас сказать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут спекотніше? Ти це хотів сказати?"
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0008",
+            "en": "Oh, God…",
+            "ru_native": "О боже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи…"
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0009",
+            "en": "Get out of him!",
+            "ru_native": "Убирайтесь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забирайтеся!"
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0010",
+            "en": "This is a nightmare.",
+            "ru_native": "Это ночной кошмар.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це жах."
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0011",
+            "en": "God, Jacob. I hope you don’t remember that one, bud.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Боже, Джейкоб. Надеюсь, ты этого не помнишь, дружище.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0012",
+            "en": "Jacob? Jacob!",
+            "ru_native": "Джейкоб? Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Джейкобе!"
+        },
+        {
+            "tag": "A2C6.LOOPTH_RILEY_0013",
+            "en": "I hope you don’t remember that one, bud.",
+            "ru_native": "Надеюсь, ты его не помнишь, чувак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ти цього не пам’ятаєш, друже."
+        }
+    ]
+}

@@ -1,0 +1,420 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.AFTBOS",
+    "entries": [
+        {
+            "tag": "GLOB.AFTBOS_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.AFTBOS_CHOICE_0000_OPTION_0000",
+            "en": "Just fine.",
+            "ru_native": "Вполне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе нормально."
+        },
+        {
+            "tag": "GLOB.AFTBOS_CHOICE_0000_OPTION_0001",
+            "en": "Poorly.",
+            "ru_native": "Не особо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не особливо."
+        },
+        {
+            "tag": "GLOB.AFTBOS_CHOICE_0000_OPTION_0002",
+            "en": "I’m not forgiving her.",
+            "ru_native": "Я ее тоже не прощу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я їй не пробачаю."
+        },
+        {
+            "tag": "GLOB.AFTBOS_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.AFTBOS_CHOICE_0001_OPTION_0000",
+            "en": "It’s scary.",
+            "ru_native": "Это страшно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Страшно."
+        },
+        {
+            "tag": "GLOB.AFTBOS_CHOICE_0001_OPTION_0001",
+            "en": "What’s your biggest fear?",
+            "ru_native": "Чего больше всего боишься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Який твій найбільший страх?"
+        },
+        {
+            "tag": "GLOB.AFTBOS_CHOICE_0001_OPTION_0002",
+            "en": "We’ll stop Olivia.",
+            "ru_native": "Мы остановим Оливию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зупинимо Олівію."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0000",
+            "en": "Olivia will never forgive us, ya know.",
+            "ru_native": "Оливия нас никогда не простит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія ніколи нам не пробачить, розумієш?"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0001",
+            "en": "How’s that sit with you?",
+            "ru_native": "Тебя это устраивает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тебе це влаштовує?"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0002",
+            "en": "Like—she’ll never. Ever.",
+            "ru_native": "Никогда-никогда. Вообще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи. Взагалі."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0003",
+            "en": "Eternal anger, this one.",
+            "ru_native": "Вечная ненависть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вічна ненависть."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0004",
+            "en": "Yeah, I’d love to join you at the booth, but…",
+            "ru_native": "Хотел бы я с тобой согласиться, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хотілося б мені з тобою погодитися, але…"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0005",
+            "en": "For the rest of her life, when Olivia thinks of me, it’ll ruin her day. I hate that.",
+            "ru_native": "До конца жизни Оливии одна лишь мысль обо мне отравит ей день. Это ужасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До кінця життя Олівії лише одна думка про<br>мене зіпсує їй день. Мені від цього прикро."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0006",
+            "en": "But hey…",
+            "ru_native": "Хотя...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ж…"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0007",
+            "en": "Yeah, it sucks right? Just knowing that the mere thought of you can ruin someone’s day. But hey…",
+            "ru_native": "Хреново, да? Знать, что одна лишь мысль о тебе испортит человеку день. Хотя...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прикро, еге ж? Знати, що лише згадка про тебе може зіпсувати чийсь день. Але ж…"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0008",
+            "en": "Heh, I mean—yeah, fair enough. And hey…",
+            "ru_native": "Ну слушай, справедливо. К тому же...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, це справедливо. До того ж…"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0009",
+            "en": "I mean—it sucks, right? Just knowing that the mere thought of you can ruin someone’s day. But hey…",
+            "ru_native": "Хреново, да? Знать, что одна лишь мысль о тебе испортит человеку день. Хотя...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто це прикро, еге ж? Знати, що лише згадка<br>про тебе може зіпсувати чийсь день. Але ж…"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0010",
+            "en": "She wanted the radio so badly, she should’ve welded it to her hand.",
+            "ru_native": "Раз она так тряслась над радио, надо было его к руке приварить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо їй так сильно хотілося радіо, вона мала б його до руки приварити."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0011",
+            "en": "So, let’s take care of this last transmitter, and never be forgiven.",
+            "ru_native": "Так что поставим последний передатчик, и пусть нас не прощают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож встановимо останній радіопередавач. І хай нам не вибачають."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0012",
+            "en": "“Comfortably.” I should learn from you.",
+            "ru_native": "«Параллельно». Надо бы у тебя научиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Влаштовує». Мені б у тебе навчитися."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0013",
+            "en": "“Hell hath no fury.” [sigh] Yeah. Indeed.",
+            "ru_native": "«Фурия в аду». Действительно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«У пеклі немає стільки люті». [зітхає] Так. Справді."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0014",
+            "en": "And maybe I’ll never forgive her either…",
+            "ru_native": "Может, я и сам ее никогда не прощу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А може я теж їй не пробачу…"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0015",
+            "en": "How did my night go from wondering just how many different lights can pop up on my dash…",
+            "ru_native": "Как моя ночь перешла от гадания, сколько еще лампочек загорится на панели...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як мій настрій цієї ночі перейшов від<br>підрахунку увімкнених різних лампочок на панелі…"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0016",
+            "en": "To being scared of the power of a radio?",
+            "ru_native": "К страху перед силой радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До страху перед потужністю радіо?"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0017",
+            "en": "That’s like—not a thing to be scared of!",
+            "ru_native": "Это... не то, чего нужно бояться!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це типу... не те, чого варто боятися!"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0018",
+            "en": "Murderers, bad test results.",
+            "ru_native": "Убийцы, плохие оценки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вбивці, погані результати тесту."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0019",
+            "en": "Those count!",
+            "ru_native": "Вот это по делу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Враховано!"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0020",
+            "en": "No—I know it’s just—the concept, ya know?",
+            "ru_native": "Это я понимаю, просто сама идея...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я знаю. Це лише... мої думки, розумієш?"
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0021",
+            "en": "Distracting me from fear by asking about fear is, yeah—a choice, but sure.",
+            "ru_native": "Отвлечь меня от страха, спросив про страх. Интересный подход, ну да ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти відволікатимеш мене питаннями про те, що таке страх."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0022",
+            "en": "You ever heard of an “ant float”? It’s not a dessert.",
+            "ru_native": "Слышала про «муравьиный плот»? Это не десерт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чула про «мурашиний пліт»? Це не десерт."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0023",
+            "en": "Look that up sometime and enjoy having a new recurring nightmare.",
+            "ru_native": "Поищи как-нибудь в интернете. Ночные кошмары обеспечены.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пошукай в інтернеті, і жахи мучитимуть усю ніч."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0024",
+            "en": "I'm scared of a radio. This is where my life has led.",
+            "ru_native": "Я боюсь радио. До чего докатился.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене лякає радіо. От до чого все дійшло."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0025",
+            "en": "Add that to the list of things I’ll never look at the same.",
+            "ru_native": "Еще один пунктик в списке измененного восприятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще одна річ у моєму житті, про яку в мене змінилося уявлення."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0026",
+            "en": "And I don’t mean radios.",
+            "ru_native": "И я сейчас не про радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я маю на увазі не радіо."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0027",
+            "en": "I mean… well, fear. I think it’ll feel a little different after tonight. If that makes sense.",
+            "ru_native": "Я про... сам страх. После сегодняшнего я буду его воспринимать иначе. Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… страх. Гадаю, я сприйматиму його трохи інакше після цієї ночі. Якщо в цьому є сенс."
+        },
+        {
+            "tag": "GLOB.AFTBOS_JACOB_0028",
+            "en": "[sigh] Let’s just—let’s get the transmitter placed. I can only eat so much panic.",
+            "ru_native": "Давай уже займемся передатчиком. Отвлечемся от паникерства.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Зітхає] Встановімо радіопередавач. Щоби відволіктися від паніки."
+        },
+        {
+            "tag": "GLOB.AFTBOS_RILEY_0000",
+            "en": "Comfortably.",
+            "ru_native": "Мне параллельно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Влаштовує."
+        },
+        {
+            "tag": "GLOB.AFTBOS_RILEY_0001",
+            "en": "Not great. Hell hath no fury like a pissed-off teen, or—something like that.",
+            "ru_native": "Не особо. Фурия в аду – ничто в сравнении с разъяренным подростком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не дуже. У пеклі немає стільки люті, скільки в<br>розлюченого підлітка. Щось типу того."
+        },
+        {
+            "tag": "GLOB.AFTBOS_RILEY_0002",
+            "en": "Take it from me, they carry that torch of hatred to the grave.",
+            "ru_native": "Уж поверь, этот полыхающий гнев они унесут с собой в могилу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повір мені, вони нестимуть цей факел ненависті до могили."
+        },
+        {
+            "tag": "GLOB.AFTBOS_RILEY_0003",
+            "en": "It’s not like I’m forgiving her either.",
+            "ru_native": "Я ее тоже прощать не собираюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж їй не вибачаю."
+        },
+        {
+            "tag": "GLOB.AFTBOS_RILEY_0004",
+            "en": "So, hey, we’re even.",
+            "ru_native": "Так что мы квиты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже ми квити."
+        },
+        {
+            "tag": "GLOB.AFTBOS_RILEY_0005",
+            "en": "Well. These are unique circumstances.",
+            "ru_native": "Ну... У нас особые обстоятельства.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це унікальні обставини."
+        },
+        {
+            "tag": "GLOB.AFTBOS_RILEY_0006",
+            "en": "So what is something to be scared of? What’s your biggest fear?",
+            "ru_native": "Тогда чего нужно бояться? Какой у тебя самый большой страх?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого слід боятися? Який твій найбільший страх?"
+        },
+        {
+            "tag": "GLOB.AFTBOS_RILEY_0007",
+            "en": "We’re gonna stop Olivia, okay?",
+            "ru_native": "Мы остановим Оливию, понял?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зупинимо Олівію, ясно?"
+        },
+        {
+            "tag": "GLOB.AFTBOS_RILEY_0008",
+            "en": "We have to stop her. So. We’re doing that.",
+            "ru_native": "Мы просто обязаны. Без вариантов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми маємо зупинити її. Тож ми робимо це."
+        }
+    ]
+}

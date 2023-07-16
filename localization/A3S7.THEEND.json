@@ -1,0 +1,411 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S7.THEEND",
+    "entries": [
+        {
+            "tag": "A3S7.THEEND_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0000_OPTION_0000",
+            "en": "I love you, Rex.",
+            "ru_native": "Я тебя люблю, Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я люблю тебе, Рексе."
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0000_OPTION_0001",
+            "en": "Watch your step.",
+            "ru_native": "Осторожно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивися під ноги."
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0001_OPTION_0000",
+            "en": "Sounds nice.",
+            "ru_native": "Звучит здорово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить чудово."
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0001_OPTION_0001",
+            "en": "You want something more?",
+            "ru_native": "Не пропускай ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хочеш чогось більшого?"
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0001_OPTION_0002",
+            "en": "Don’t read into it.",
+            "ru_native": "Сильно не вникай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не вчитуйся."
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0002_OPTION_0000",
+            "en": "I just do.",
+            "ru_native": "Просто знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто знаю."
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0002_OPTION_0001",
+            "en": "Just a guess.",
+            "ru_native": "Просто догадка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лише припущення."
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0003_OPTION_0000",
+            "en": "Careful on the log.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Осторожно на бревне.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обережніше з колодою."
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0004_OPTION_0000",
+            "en": "Not necessarily…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не обязательно...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не обов’язково…"
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0004_OPTION_0001",
+            "en": "Usually.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как правило.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зазвичай."
+        },
+        {
+            "tag": "A3S7.THEEND_CHOICE_0004_OPTION_0002",
+            "en": "Depends on the story.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зависит от сюжета.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залежить від історії."
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0000",
+            "en": "Oh I asked you about—about Black Beauty cause I—I actually just skipped to the end.",
+            "ru_native": "О, я спрашивал про «Черного красавчика», потому что я сразу пролистал до конца.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я спитав про «Чорну красу», бо насправді лише перегортав сторінки до кінця."
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0001",
+            "en": "I can’t help myself, I always just want to know where things are going, you know?",
+            "ru_native": "Ничего не могу поделать, всегда интересно, чем все закончится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого не можу зробити, мені завжди цікаво, чим усе закінчиться."
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0002",
+            "en": "You read it right? Maybe you remember?",
+            "ru_native": "Ты же ее читала? Может, помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти читала її, так? Може, пам’ятаєш?"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0003",
+            "en": "You didn’t read it, but…",
+            "ru_native": "Ты ее не читала, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не читала її, але…"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0004",
+            "en": "But it looked like the horse just ended up right back where she, uh, she started?",
+            "ru_native": "Но похоже, конь в конце вернулся туда же, с чего начал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але здається, кінь повернувся туди, звідки й починав?"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0005",
+            "en": "Like the last line is practically… “My troubles are all over…”",
+            "ru_native": "Потому что последняя фраза была... «Мои беды позади...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що в останньому рядку було написано… «Мої негоди закінчено…»"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0006",
+            "en": "“…and I am at home.”",
+            "ru_native": "«... я дома».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«…і я вдома.»"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0007",
+            "en": "I didn’t know if I missed something.",
+            "ru_native": "Я не знал, упустил ли я что-нибудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знав, чи пропустив щось."
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0008",
+            "en": "I think we have a test on it tomorrow.",
+            "ru_native": "По-моему, у нас по ней завтра контрольная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, у нас завтра тест…"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0009",
+            "en": "But I’ll probably just copy somebody else’s answers anyway.",
+            "ru_native": "Но я, пожалуй, все равно у кого-нибудь спишу ответы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я, мабуть, усе одно просто здеру чиїсь відповіді."
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0010",
+            "en": "[chuckles] How do you know that’s gonna happen?",
+            "ru_native": "(усмехается) Откуда ты знаешь, что так будет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[хихикає] Як знаєш, що це станеться?"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0011",
+            "en": "Mom?",
+            "ru_native": "Мам?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мамо?"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0012",
+            "en": "[chuckles] Weirdo.",
+            "ru_native": "(усмехается) Странная ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[хихикає] От чудило."
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0013",
+            "en": "Oh, and, uh, Mom?",
+            "ru_native": "Да, мам?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мамо?"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0014",
+            "en": "I love you too.",
+            "ru_native": "Я тоже тебя люблю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я тебе люблю."
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0015",
+            "en": "I forget… what are the plans for tomorrow?",
+            "ru_native": "Я забыл... какие у нас планы на завтра?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я забув… які в нас плани на завтра?"
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0016",
+            "en": "Yeah… Maybe. I dunno.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да... Может быть. Не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… мабуть. Не знаю."
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0017",
+            "en": "I love you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я люблю тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я люблю тебе."
+        },
+        {
+            "tag": "A3S7.THEEND_REX_0018",
+            "en": "[short gasp] Aah!",
+            "ru_native": "",
+            "ru_machine": "DEEPL [короткий вздох] Ааа!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[коротко зітхає] Ааа!"
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0000",
+            "en": "Rex? I love you.",
+            "ru_native": "Рекс? Я люблю тебя...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рексе? Я люблю тебе."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0001",
+            "en": "Watch your step, okay, honey—",
+            "ru_native": "Милый, смотри под ноги, хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обережно, любий, дивися під ноги…"
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0002",
+            "en": "Well… the sentiment certainly sounds nice, doesn’t it.",
+            "ru_native": "Что ж... это, конечно, звучит неплохо, не так ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж… це, звісно, звучить не погано, чи не так."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0003",
+            "en": "You shouldn’t skip things, Rex. The… the way there is almost as important.",
+            "ru_native": "Не пропускай ничего, Рекс. Середина не менее интересна, чем конец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не слід нічого пропускати, Рексе. Решта книги так само важлива."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0004",
+            "en": "Eh, don’t read into it. It’s a kid’s book. The horse is happy. That’s all that matters.",
+            "ru_native": "Сильно не вникай. Это детская книжка. Конь счастлив. Остальное неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не вчитуйся сильно. Це книжка для дітлахів.<br>Кінь щасливий. Решта не має значення."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0005",
+            "en": "And Rex? There’s a… a log up ahead.",
+            "ru_native": "Рекс, впереди... бревно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рексе? Попереду… колода."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0006",
+            "en": "Slow down when you take it so when the boulder slides, you don’t scrape your knee.",
+            "ru_native": "Сбавь скорость, чтобы когда камень соскользнет, не оцарапать колено.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пригальмуй, щоби не подряпати коліно, коли валун зіслизне."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0007",
+            "en": "I just do.",
+            "ru_native": "Просто знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто знаю."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0008",
+            "en": "I’m… just guessing.",
+            "ru_native": "Просто... догадка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… лише припускаю."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0009",
+            "en": "Well… I mean… not necessarily.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну... то есть... не обязательно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… тобто… не обов’язково."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0010",
+            "en": "Usually, but… sometimes what’s old can feel new. Depending on things.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Обычно, но... иногда то, что старо, может казаться новым. В зависимости от вещей.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зазвичай, але… іноді те, що є старим, може здатися новим. Залежно від обставин."
+        },
+        {
+            "tag": "A3S7.THEEND_SOCIALRILEY_0011",
+            "en": "Well… I think it really depends on the story you’re trying to tell.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну... Я думаю, что это действительно зависит от истории, которую ты пытаешься рассказать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Гадаю, це дійсно залежить від історії, яку ти намагаєшся розповісти."
+        }
+    ]
+}

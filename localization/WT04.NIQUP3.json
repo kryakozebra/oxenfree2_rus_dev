@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT04.NIQUP3",
+    "entries": [
+        {
+            "tag": "WT04.NIQUP3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NIQUP3_CHOICE_0000_OPTION_0000",
+            "en": "Staying safe, Nick?",
+            "ru_native": "Ник, вы в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, Ніку?"
+        },
+        {
+            "tag": "WT04.NIQUP3_RILEY_0000",
+            "en": "Hey Nick, it’s Riley. You staying safe out there?",
+            "ru_native": "Ник, это Райли. У вас все в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Ніку. Це Райлі. У вас усе гаразд?"
+        }
+    ]
+}

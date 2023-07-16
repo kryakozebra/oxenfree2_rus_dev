@@ -1,0 +1,1077 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.RILGER",
+    "entries": [
+        {
+            "tag": "A2V3.RILGER_CHARLIE_0000",
+            "en": "It’s her parents.",
+            "ru_native": "О ее родителях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про її батьків."
+        },
+        {
+            "tag": "A2V3.RILGER_CHARLIE_0001",
+            "en": "It’s her parents! It’s her parents—they were a part of this cult—",
+            "ru_native": "Это ее предки! Ее родители были членами секты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це її батьки! Її батьки… були членами секти…"
+        },
+        {
+            "tag": "A2V3.RILGER_CHARLIE_0002",
+            "en": "They… believed… in this… stuff, and… they died in that plane crash, and…",
+            "ru_native": "Они верили... во все это... Они погибли при крушении самолета, и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони вірили… у все це… Вони загинули в авіакатастрофі, і…"
+        },
+        {
+            "tag": "A2V3.RILGER_CHARLIE_0003",
+            "en": "She’s been living with her Aunt and Uncle for the last two years.",
+            "ru_native": "Последние два года она жила с тетей и дядей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Останні два роки вона жила з тіткою та дядьком."
+        },
+        {
+            "tag": "A2V3.RILGER_CHARLIE_0004",
+            "en": "I don’t know, man.",
+            "ru_native": "Блин, я не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько, я не знаю."
+        },
+        {
+            "tag": "A2V3.RILGER_CHARLIE_0005",
+            "en": "I’ve seen some crazy crap.",
+            "ru_native": "Я повидал сегодня дерьма.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сьогодні такої чортівні надивився."
+        },
+        {
+            "tag": "A2V3.RILGER_CHARLIE_0006",
+            "en": "There’s an internet forum we’re all on. Camena Crypts, Creeps and Clues?",
+            "ru_native": "Мы сидели на интернет-форуме. «Тайники, кошмары и секреты Камены»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми сидимо на інтернет-форумі. «Таємниці, жахи та секрети Камени»?"
+        },
+        {
+            "tag": "A2V3.RILGER_CHARLIE_0007",
+            "en": "And some guy — or who knows if it’s a guy — but they posted all this stuff about Edwards Island.",
+            "ru_native": "Там какой-то парень – а может и не парень – выложил всю эту инфу про остров Эдвардса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там якийсь хлопець… чи не хлопець… виклав усю цю інформацію про острів Едвардса."
+        },
+        {
+            "tag": "A2V3.RILGER_CHARLIE_0008",
+            "en": "You!",
+            "ru_native": "Ты!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти!"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0000_OPTION_0000",
+            "en": "This is over.",
+            "ru_native": "Все закончилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе закінчилося."
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0000_OPTION_0001",
+            "en": "Eat it, loser.",
+            "ru_native": "Обломись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дзуськи тобі, невдахо."
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0000_OPTION_0002",
+            "en": "I’m sorry, Olivia.",
+            "ru_native": "Прости, Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Олівіє."
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0001_OPTION_0000",
+            "en": "What about your parents?",
+            "ru_native": "Что с твоими родителями?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що з твоїми батьками?"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0001_OPTION_0001",
+            "en": "Go on, Charlie.",
+            "ru_native": "Чарли, продолжай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжуй, Чарлі."
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0001_OPTION_0002",
+            "en": "I don’t care.",
+            "ru_native": "Мне плевать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені начхати."
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0002_OPTION_0000",
+            "en": "Why are you doing this?",
+            "ru_native": "Зачем ты это делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо ти це робиш?"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0002_OPTION_0001",
+            "en": "What do you believe in?",
+            "ru_native": "Во что ты веришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У що ти віриш?"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0002_OPTION_0002",
+            "en": "So your parents died. And?",
+            "ru_native": "Родители погибли. И что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твої батьки загинули. І?"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0003_OPTION_0000",
+            "en": "I’m sorry, Olivia.",
+            "ru_native": "Оливия, мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода, Олівіє."
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0003_OPTION_0001",
+            "en": "You almost got your friends killed.",
+            "ru_native": "Ты чуть не убила своих друзей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ледь не вбила своїх друзів."
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0003_OPTION_0002",
+            "en": "You’re crazy.",
+            "ru_native": "Ты спятила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти з глузду з’їхала."
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0005_OPTION_0000",
+            "en": "[Smash Radio]",
+            "ru_native": "[Разбить радио]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Розбити радіо]"
+        },
+        {
+            "tag": "A2V3.RILGER_CHOICE_0005_OPTION_0001",
+            "en": "[Keep it]",
+            "ru_native": "[Оставить себе]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Залишити собі]"
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0000",
+            "en": "What are you talking about?",
+            "ru_native": "О чем вы говорите?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про що ти?!"
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0001",
+            "en": "How did you know about any of this? All this stuff… with radios and portals—",
+            "ru_native": "Откуда ты все это знала? Про радио и порталы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки ти про це дізналася? Ну, усе це… про радіо та портали…"
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0002",
+            "en": "I don’t know… if tonight really proves anything, Olivia.",
+            "ru_native": "Не думаю, что сегодняшняя ночь что-то подтвердила, Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю… що сьогоднішня ніч щось підтвердила, Олівіє."
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0003",
+            "en": "What made you think you could even do any of this -- any of this stuff with radios and portals --",
+            "ru_native": "",
+            "ru_machine": "DEEPL Почему ты решил, что вообще сможешь сделать что-то из этого - что-то из этих вещей с радиоприемниками и порталами...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0004",
+            "en": "Uh… okay? This is — uh, was his name… WolfmansGotNards?",
+            "ru_native": "Так. Слушайте... Его звали... ОборотеньСЯйцами?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм.. гаразд. Його звали… ОборотеньЗЯйцями?"
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0005",
+            "en": "Uh, almost! But the poster is, uh… me.",
+            "ru_native": "Почти! Но не совсем... Это я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Майже! Але не зовсім… Це я."
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0006",
+            "en": "Unfortunately, no. God.",
+            "ru_native": "К сожалению, нет. Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На жаль, ні. Боже."
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0007",
+            "en": "Look, I just — I wanted somebody else to know about this stuff.",
+            "ru_native": "Слушай, я просто... хотел, чтобы кто-то еще про это знал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я просто… хотів, щоби ще хтось про це знав."
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0008",
+            "en": "How was I supposed to know it was gonna be a bunch of… very determined kids?",
+            "ru_native": "Как я мог предположить, что это прочитают... очень напористые дети?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки ж я знав, що це прочитають… дуже наполегливі діти?"
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0009",
+            "en": "I know! I know — I know, but… I didn’t think anyone was gonna pay attention!",
+            "ru_native": "Знаю! Знаю... Я не ожидал, что кто-то обратит на них внимание!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю! Знаю… Знаю, але… Я не очікував, що хтось зверне на них увагу!"
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0010",
+            "en": "Nobody was paying attention! That I… thought, anyway.",
+            "ru_native": "Никто и не обращал! По крайне мере, я так думал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніхто й не звертав! Принаймні… я так думав."
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0011",
+            "en": "[sigh]",
+            "ru_native": "[ID-96]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає]"
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0012",
+            "en": "One more thing. These… beings.",
+            "ru_native": "Еще кое-что. Эти... существа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще дещо. Ці… істоти."
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0013",
+            "en": "I think they’re the ghosts of a World War 2 relic.",
+            "ru_native": "Думаю, это призраки с судна Второй мировой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що це привиди із судна часів Другої світової."
+        },
+        {
+            "tag": "A2V3.RILGER_JACOB_0014",
+            "en": "What, exactly, have these things said?",
+            "ru_native": "Что именно они тебе сказали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що саме вони тобі сказали?"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0000",
+            "en": "No!",
+            "ru_native": "Нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні!"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0001",
+            "en": "Stop! What—what are you doing?!",
+            "ru_native": "Стой! Что... что ты делаешь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій! Що… що ти робиш?"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0002",
+            "en": "I—I need this to work!",
+            "ru_native": "Оно мне нужно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені це потрібно!"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0003",
+            "en": "Give me my radio!",
+            "ru_native": "Отдай мое радио!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Віддай моє радіо!"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0004",
+            "en": "Now!",
+            "ru_native": "Сейчас же!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бігом!"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0005",
+            "en": "I… need this… to happen tonight! It’s the Blue Moon!",
+            "ru_native": "Оно должно... произойти сегодня! Сегодня голубая луна!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це має… відбутися… сьогодні! Сьогодні блакитний місяць!"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0006",
+            "en": "Shut up! Don’t talk to them about it!",
+            "ru_native": "Закрой рот! Не смей им рассказывать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стули пельку! Не смій їм нічого розповідати!"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0007",
+            "en": "It’s—it’s…",
+            "ru_native": "Это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це…"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0008",
+            "en": "It’s none of their… it has nothing to do with them.",
+            "ru_native": "Это не их... Они тут вообще ни при чем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це їх не… вони тут взагалі ні до чого."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0009",
+            "en": "What do you want to know—that they died in a plane crash two years ago?",
+            "ru_native": "Что ты хочешь узнать? Что они погибли в авиакатастрофе два года назад?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти хочеш знати? Що вони загинули в авіакатастрофі два роки тому?"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0010",
+            "en": "You’ve been here—what? An hour? I’m sure you’ve heard the story by now—it’s everyone’s favorite to tell.",
+            "ru_native": "Ты здесь сколько... час? Уверена, тебе уже все рассказали.<br>Это любимая история местных.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тут скільки… годину? Упевнена, тобі вже все розповіли…<br>Це улюблена історія місцевих."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0011",
+            "en": "“The crazy lunatics who joined a cult and died, leaving their daughter to her Aunt and Uncle.”",
+            "ru_native": "«Сумасшедшие фанатики присоединились к секте и<br>погибли, оставив дочь на попечении тети и дяди».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Божевільні параноїки приєдналися до секти й загинули,<br>залишивши доньку на виховання дядькові та тітці»."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0012",
+            "en": "Well it’s not a cult—it’s a faith, and it’s real. Tonight only proves it.",
+            "ru_native": "Это не секта, это религия, настоящая. И сегодняшняя ночь это подтверждает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не секта… Це релігія, справжня. І ця ніч лише підтверджує це."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0013",
+            "en": "It’s not a cult!",
+            "ru_native": "Это не секта!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не секта!"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0014",
+            "en": "It’s not a cult. It’s a faith, and it’s real. Tonight only proves it.",
+            "ru_native": "Это не секта, это религия, настоящая. И сегодняшняя ночь это подтверждает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не секта. Це релігія, справжня. І ця ніч лише підтверджує це."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0015",
+            "en": "Violet.",
+            "ru_native": "Вайолет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0016",
+            "en": "It’s not just a \"group.\" It’s a faith, and it’s real. Tonight only proves it.",
+            "ru_native": "Это не просто «группа», это религия, настоящая. И сегодняшняя ночь это подтверждает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не просто «група». Це релігія, справжня. І ця ніч лише підтверджує це."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0017",
+            "en": "Why am I doing this? Have you ever… wanted to just… stay?",
+            "ru_native": "Зачем? Ты когда-нибудь хотела... остаться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо? Ти коли-небудь… хотіла просто… залишитися?"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0018",
+            "en": "I believe… sometimes it’s better… to just stay.",
+            "ru_native": "Я верю, что порой лучше... просто остаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вірю… що часом… краще просто залишитися."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0019",
+            "en": "My parents died and… haven’t you—haven’t you ever wanted to just… stay?",
+            "ru_native": "Они погибли, а я... Разве ты никогда не хотела просто... остаться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Батьки загинули, а я… Ти коли-небудь… хотіла просто… залишитися?"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0020",
+            "en": "Hasn’t any of you ever wanted to just… stay?",
+            "ru_native": "Разве никто из вас не хотел просто... остаться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба ніхто з вас не хотів просто… залишитися?"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0021",
+            "en": "Just… stay in a moment… that you know won’t last.",
+            "ru_native": "Остаться в моменте, который не продлится вечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… лишитися в моменті… який не триватиме вічно."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0022",
+            "en": "But that you know is better than anything that will ever come after…",
+            "ru_native": "Но ты знаешь, что он – лучшее, что когда-либо будет в твоей жизни...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ти знаєш, що цей момент — найкраще, що колись буде у твоєму житті…"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0023",
+            "en": "Parentage believes that… all time—all matter—is constant and persistent.",
+            "ru_native": "«Наследие» верит, что время и материя постоянны и устойчивы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Парентаж» вірить, що… час та матерія постійні та стійкі."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0024",
+            "en": "And you can… talk to other times, other versions of you, of loved ones, on certain days, when the lunar veil is weak.",
+            "ru_native": "И ты можешь говорить с версиями себя из другого времени<br>или со своими близкими... Когда лунная пелена слабее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ти можеш… говорити зі своїми версіями з іншого часу<br>чи зі своїми близькими… коли місячна завіса слабшає."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0025",
+            "en": "Tonight’s the Blue Moon. And if you give me back my radio I’ll… be able to bring them back.",
+            "ru_native": "Сегодня голубая луна. И если ты отдашь мне радио, то я... смогу вернуть их.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні блакитний місяць. І якщо ти віддаси мені радіо, то я… зможу їх повернути."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0026",
+            "en": "My parents.",
+            "ru_native": "Маму и папу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маму й тата."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0027",
+            "en": "I’ll be able to live… in that memory of them…",
+            "ru_native": "Я смогу жить внутри этого воспоминания...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зможу жити в цьому спогаді…"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0028",
+            "en": "Forever.",
+            "ru_native": "Всегда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вічно."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0029",
+            "en": "And no one—no faulty engine screws—",
+            "ru_native": "И никто, никакие неисправные двигатели...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ніхто… ніякі несправності у двигуні…"
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0030",
+            "en": "—would be able to take that away from me.",
+            "ru_native": "Не смогут их снова у меня отнять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…не зможуть знову їх забрати в мене."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0031",
+            "en": "Whatever.",
+            "ru_native": "Проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Проїхали."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0032",
+            "en": "The visionaries always seem insane to the plebes.",
+            "ru_native": "Духовидцы всегда кажутся плебеям безумцами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Плебеї завжди вважають візіонерів божевільними."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0033",
+            "en": "They said you could tune a radio and hear dead people. Explained how to do it.",
+            "ru_native": "Он утверждал, что можно услышать мертвых, настроив радио. Объяснил, как это делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він стверджував, що можна почути мертвих, налаштувавши радіо. Пояснив, як це робити."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0034",
+            "en": "Nobody seemed to believe him… but we did.",
+            "ru_native": "Ему никто не поверил... кроме нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йому ніхто не повірив… окрім нас."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0035",
+            "en": "Christ.",
+            "ru_native": "Господи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0036",
+            "en": "There are… beings… on the other side. You’ve seen them, too.",
+            "ru_native": "На другой стороне есть... существа. Ты их тоже видела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На іншому боці є… істоти. Ти ж теж їх бачила."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0037",
+            "en": "They’re not what you think. They can help. Help you, help me… help everyone.",
+            "ru_native": "Они не то, что ты думаешь. Они могут помочь. Тебе, мне... всем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони не те, що ти думаєш. Вони можуть допомогти. Тобі, мені… усім."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0038",
+            "en": "Just... give me back my radio.",
+            "ru_native": "Просто... отдай мне радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… віддай мені радіо."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0039",
+            "en": "And I’ll show you.",
+            "ru_native": "И я вам покажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я вам покажу."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0040",
+            "en": "Please.",
+            "ru_native": "Пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0041",
+            "en": "No one will care when you die. Believe that.",
+            "ru_native": "Когда ты умрешь, всем будет плевать, поверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли ти помреш, усім буде начхати, повір."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0042",
+            "en": "Whatever you have to do.",
+            "ru_native": "Хозяин – барин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скажеш."
+        },
+        {
+            "tag": "A2V3.RILGER_OLIVIA_0043",
+            "en": "Whatever you have to do.",
+            "ru_native": "Делай что должна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скажеш."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0000",
+            "en": "This… this? It’s over. All of this is over.",
+            "ru_native": "Нужно? Для чего? Все закончилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це? Усе закінчилося. Усе це закінчилося."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0001",
+            "en": "Oh, is this what you wanted? Well it’s mine now. So chew on that. Loser.",
+            "ru_native": "Ах, тебе нужно радио? Оно теперь мое. Живи с этим, лошара.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так тобі треба радіо? Воно тепер моє. Живи із цим. Невдаха."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0002",
+            "en": "I’m sorry, Olivia, I know… you obviously want to do something, here.",
+            "ru_native": "Прости, Оливия. Я знаю, ты что-то очень хотела сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Олівіє, я знаю… ти щось дуже хотіла зробити."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0003",
+            "en": "But it’s not going to happen. You’re done. It’s done.",
+            "ru_native": "Но этого не случится. Твой поезд ушел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але цього не буде. Це кінець."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0004",
+            "en": "You know what? Whatever your reasoning… I just don’t care.",
+            "ru_native": "Знаешь, что? Какими бы ни были причины... Мне плевать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, що? Якими б не були причини… Мені начхати."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0005",
+            "en": "We’ve been traipsing all over this town, dodging time travel traps and harassment from ghosts trying to stop you from ending the world.",
+            "ru_native": "Мы таскаемся по всему городу, застреваем во временных петлях и<br>терпим издевательства призраков, чтобы не дать тебе уничтожить мир.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми носимося містом, уникаємо часових петель<br>та знущань привидів, щоби не дати тобі знищити цей світ."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0006",
+            "en": "What—you got grounded and wanted a little payback? Tough titties.",
+            "ru_native": "Что? Тебя отругали, и ты решила отомстить? Какой ужас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Тебе насварили, і ти вирішила помститися? Який жах."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0007",
+            "en": "What is this about your parents?",
+            "ru_native": "Что случилось с твоими родителями?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що сталося з твоїми батьками?"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0008",
+            "en": "Olivia—",
+            "ru_native": "Оливия...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє…"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0009",
+            "en": "Go on, Charlie. What’s all this about?",
+            "ru_native": "Чарли, продолжай. В чем дело?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжуй, Чарлі. У чому справа?"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0010",
+            "en": "Charlie—",
+            "ru_native": "Чарли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі…"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0011",
+            "en": "Olivia, cut to the end of the page. Why are you doing this?",
+            "ru_native": "Оливия, давай ближе к сути. Зачем ты это делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, давай по суті. Навіщо ти це робиш?"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0012",
+            "en": "What is it exactly that you believe in, Olivia?",
+            "ru_native": "Оливия, во что именно ты веришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, у що саме ти віриш?"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0013",
+            "en": "Okay… so… your parents died. And? Is there a point here I’m missing?",
+            "ru_native": "Так... твои родители погибли. И что? Я что-то упустила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… твої батьки загинули. І? Я щось пропустила?"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0014",
+            "en": "I’m sorry, Olivia. I am, I really am.",
+            "ru_native": "Мне жаль, Оливия. Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода, Олівіє. Дійсно."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0015",
+            "en": "You almost got your friends killed to hang out with people who are already dead.",
+            "ru_native": "Ты чуть не убила своих друзей, чтобы провести время с теми, кто уже умер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ледь не вбила своїх друзів, щоби провести час із тими, кого вже немає."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0016",
+            "en": "Not exactly an even trade.",
+            "ru_native": "Не самый честный обмен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не чесний обмін."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0017",
+            "en": "You’re completely insane.",
+            "ru_native": "Ты совсем спятила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти зовсім із глузду з’їхала."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0018",
+            "en": "What! You’re joking.",
+            "ru_native": "Что?! Ты шутишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?! Ти жартуєш."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0019",
+            "en": "Oh. So all of this, then, is your fault.",
+            "ru_native": "Выходит, все это по твоей вине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, так це все твоя провина, виходить?"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0020",
+            "en": "If you had just kept your fingers where they belong and not written about any of what Maggie Adler told you —",
+            "ru_native": "Если бы ты только держал ручонки при себе и не писал о россказнях Мэгги Адлер...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якби ти тримав руки при собі й не писав про байки Меггі Адлер…"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0021",
+            "en": "Whatever, moving on —",
+            "ru_native": "Ясно, проехали...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ясно, проїхали…"
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0022",
+            "en": "Here. But… this doesn’t mean we’re not finishing the transmitters and blocking you out.",
+            "ru_native": "Держи. Но это ничего не значит. Мы все равно расставим передатчики и заглушим вас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тримай. Але це нічого не означає. Ми все одно<br>встановимо радіопередавачі й заглушимо вас."
+        },
+        {
+            "tag": "A2V3.RILGER_RILEY_0023",
+            "en": "I’m keeping this. And once the transmitters are done, maybe I’ll think of giving it back.",
+            "ru_native": "Это я оставлю себе. А когда передатчики будут готовы, может, и отдам. Подумаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я залишу це собі. Можливо, я віддам його назад, коли встановимо всі радіопередавачі."
+        },
+        {
+            "tag": "A2V3.RILGER_VIOLET_0000",
+            "en": "It’s her parents.",
+            "ru_native": "О ее родителях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про її батьків."
+        },
+        {
+            "tag": "A2V3.RILGER_VIOLET_0001",
+            "en": "What?! It is! I’m sorry, but your—her parents, they were a part of this… group—",
+            "ru_native": "Что?! Это правда! Прости, но твои родители были членами этой... группы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?! Це ж правда! Вибач, але твої батьки були членами цієї… групи…"
+        },
+        {
+            "tag": "A2V3.RILGER_VIOLET_0002",
+            "en": "They believe in the moon and stuff but they… died… in a plane crash like two years ago…",
+            "ru_native": "Они верили в луну и прочее, но... погибли в авиакатастрофе пару лет назад...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони вірили в місяць і таке інше, але… загинули в авіакатастрофі два роки тому…"
+        },
+        {
+            "tag": "A2V3.RILGER_VIOLET_0003",
+            "en": "And she’s been living with her Aunt and Uncle since then.",
+            "ru_native": "И она с тех пор жила с тетей и дядей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І з тих пір вона живе з тіткою та дядьком."
+        },
+        {
+            "tag": "A2V3.RILGER_VIOLET_0004",
+            "en": "Yeah, and Fort Milner — something about a submarine disaster.",
+            "ru_native": "Да, и про форт Милнера. Что-то насчет затонувшей подлодки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, і про форт Мілнера… Щось про затонулий підводний човен."
+        },
+        {
+            "tag": "A2V3.RILGER_VIOLET_0005",
+            "en": "Oh, wow, you follow the same poster?",
+            "ru_native": "Ты тоже за ним следишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ти теж на нього підписаний?"
+        },
+        {
+            "tag": "A2V3.RILGER_VIOLET_0006",
+            "en": "What!",
+            "ru_native": "Что?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?!"
+        },
+        {
+            "tag": "A2V3.RILGER_VIOLET_0007",
+            "en": "Well… now that that’s… cleared up…",
+            "ru_native": "Что ж... Это мы выяснили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… це ми зрозуміли…"
+        }
+    ]
+}

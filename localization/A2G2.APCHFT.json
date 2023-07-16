@@ -1,0 +1,150 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2G2.APCHFT",
+    "entries": [
+        {
+            "tag": "A2G2.APCHFT_CHOICE_0000_OPTION_0000",
+            "en": "Check out Hank’s equipment?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Проверить оборудование Хэнка?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевірити обладнання Хенка?"
+        },
+        {
+            "tag": "A2G2.APCHFT_CHOICE_0000_OPTION_0001",
+            "en": "No clue…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Без понятия...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю…"
+        },
+        {
+            "tag": "A2G2.APCHFT_JACOB_0000",
+            "en": "That’s alright, we won’t need it. Let’s just find a way into the mine.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ничего страшного, он нам не понадобится. Давай просто найдем путь в шахту.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого, нам це не знадобиться. Давай просто знайдемо прохід у шахту."
+        },
+        {
+            "tag": "A2G2.APCHFT_JACOB_0001",
+            "en": "Mmm… and we can’t get through the mine, either.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ммм... и через шахту мы тоже не можем пройти.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ммм… і ми також не можемо пройти крізь шахту."
+        },
+        {
+            "tag": "A2G2.APCHFT_JACOB_0002",
+            "en": "Our options are… dwindling…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Наши возможности... сокращаются...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Варіантів… усе менше…"
+        },
+        {
+            "tag": "A2G2.APCHFT_JACOB_0003",
+            "en": "Any ideas?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Есть какие-нибудь идеи?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є ідеї?"
+        },
+        {
+            "tag": "A2G2.APCHFT_JACOB_0004",
+            "en": "No no that – that’s as good an idea as any?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, нет, это - не хуже, чем любая другая идея?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, це ж… такий самий варіант, як і всі, так?"
+        },
+        {
+            "tag": "A2G2.APCHFT_JACOB_0005",
+            "en": "Let’s futz. Find a, uh – one of his boosters.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай пофутболим. Найди... э-э... один из его бустеров.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То давай пограємося. Дістань якийсь… із цих підсилювачів."
+        },
+        {
+            "tag": "A2G2.APCHFT_JACOB_0006",
+            "en": "Yeah… huh. Let’s just – there’s gotta be something we’re missing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да... хм. Давай так - должно быть что-то, что мы упускаем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага… що ж. Може ми… ми просто щось пропустили."
+        },
+        {
+            "tag": "A2G2.APCHFT_JACOB_0007",
+            "en": "Let’s look around.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай осмотримся.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роззирнімося."
+        },
+        {
+            "tag": "A2G2.APCHFT_RILEY_0000",
+            "en": "It’s locked up tight.",
+            "ru_native": "It’s заперто up крепко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наглухо зачинено."
+        },
+        {
+            "tag": "A2G2.APCHFT_RILEY_0001",
+            "en": "It’s locked up tight.",
+            "ru_native": "It’s заперто up крепко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наглухо зачинено."
+        },
+        {
+            "tag": "A2G2.APCHFT_RILEY_0002",
+            "en": "Huh. Well… Hank’s boosters could theoretically be plugged in to some… time weirdness, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм. Ну... бустеры Хэнка теоретически могут быть подключены к каким-то... временным странностям, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.APCHFT_RILEY_0003",
+            "en": "Maybe futzing with those might… affect something? I don’t know, I’m reaching –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, если с ними возиться, это может... на что-то повлиять? Я не знаю, я дотягиваю -",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може якщо погратись із цим, то… щось і вийде? Не знаю, зараз спробую…"
+        },
+        {
+            "tag": "A2G2.APCHFT_RILEY_0004",
+            "en": "Uhhhh yeah no idea.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ухххх да без понятия.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну-у-у, гадки не маю."
+        },
+        {
+            "tag": "A2G2.APCHFT_RILEY_0005",
+            "en": "Huh. I think the only thing left we can do is check out Hank’s weird equipment.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Huh. Думаю, единственное, что нам осталось, это проверить странное оборудование Хэнка.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ба. Гадаю, єдине, що нам залишилося, це перевірити дивне обладнання Хенка."
+        }
+    ]
+}

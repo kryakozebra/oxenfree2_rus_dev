@@ -1,0 +1,456 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.JACAFT",
+    "entries": [
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0000_OPTION_0000",
+            "en": "What’s Gingerbread?",
+            "ru_native": "Почему «Рыжий»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому Рудий?"
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0000_OPTION_0002",
+            "en": "He’s so young.",
+            "ru_native": "Он такой юный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він такий молодий."
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0001_OPTION_0000",
+            "en": "But why Gingerbread?",
+            "ru_native": "Но почему «Рыжий»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але чому Рудий?"
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0001_OPTION_0001",
+            "en": "Oh. Okay.",
+            "ru_native": "О. Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, гаразд."
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0001_OPTION_0002",
+            "en": "Geez, that sucks.",
+            "ru_native": "Мда, хреново.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, ну і відстій."
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0002_OPTION_0000",
+            "en": "[Laugh]",
+            "ru_native": "[Смеется]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється]"
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0002_OPTION_0001",
+            "en": "Ooooh. Sorry.",
+            "ru_native": "Ой. Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибач."
+        },
+        {
+            "tag": "A2W2.JACAFT_CHOICE_0002_OPTION_0002",
+            "en": "Oh who cares.",
+            "ru_native": "Да все равно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та начхати."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0000",
+            "en": "Oh, yeah if he lives near the harbor, I’m sure he does know who I am—I mean, you remember…",
+            "ru_native": "Ха, да, если он живет недалеко от гавани, он наверняка меня знает... Ну, ты помнишь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, так, якщо він живе неподалік гавані, то він точно мене знає. Ну, ти пам’ятаєш…"
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0001",
+            "en": "North Camena’s like a thousand people. Everyone’s a cousin, everyone knows everyone.",
+            "ru_native": "В Северной Камене около тысячи жителей. Тут все или родственники, или знакомые.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У Північній Камені близько тисячі мешканців.<br>Тут усі або родичі, або знайомі."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0002",
+            "en": "What are you gonna do?",
+            "ru_native": "Что ты будешь делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що збираєшся робити?"
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0003",
+            "en": "They’re rugrats! Rugrats spawned from Hell itself.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это же руграты! Коврики, порожденные самим Адом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0004",
+            "en": "He just better hope and pray we don’t run into him again.",
+            "ru_native": "Лучше пусть молится, чтобы не попасться снова нам на глаза..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай краще молиться, щоби ми його більше не бачили."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0005",
+            "en": "But, uh, you asked if he knew me? I was just gonna say that they probably do.",
+            "ru_native": "Ты спрашивала, знает ли он меня? Как раз хотел сказать, что да, возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти питала, чи він мене знає? Якраз хотів сказати, що це можливо."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0006",
+            "en": "This part of town isn’t big. Everyone knows everyone. It’s no huge surprise.",
+            "ru_native": "Это небольшая часть города. Тут все друг друга знают. Ничего удивительного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це невелика частина міста. Тут усі знають одне одного. Нічого незвичайного."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0007",
+            "en": "Yeah yeah yeah, uh, “Gingerbread” it’s… [sighs]",
+            "ru_native": "Да-да, «Рыжий» – это…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так-так, Рудий — це… [зітхає]"
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0008",
+            "en": "Oh, yeah, that, it’s, um… [sighs]",
+            "ru_native": "Ах да, это, эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, це, так, гм… [зітхає]"
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0009",
+            "en": "This is incredibly dumb, but… two summers ago—",
+            "ru_native": "Это ужасно глупо, но... Два года назад...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дуже тупо, але… два роки тому…"
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0010",
+            "en": "—I was at the beach and I went to go to the bathroom in a—one of the latrines they have there—",
+            "ru_native": "...Я был на пляже и пошел там в уборную, в одну из кабинок...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…я пішов до туалету на пляжі, в одну з кабінок…"
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0011",
+            "en": "—and as a prank some highschoolers pushed it over.",
+            "ru_native": "...и какие-то старшеклассники шутки ради выбили дверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…а якісь старшокласники штовхнули її заради приколу."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0012",
+            "en": "And I fell out, practically naked, and… they call me Gingerbread now as a… goof.",
+            "ru_native": "И я оттуда выпал, практически голый, и... теперь они меня зовут «Рыжий».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я звідти випав, майже голий, і… тепер вони кличуть мене Рудим."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0013",
+            "en": "But, uh, yeah Gingerbread just comes from a prank. Some kids pushed me over in a portapotty.",
+            "ru_native": "«Рыжий» – это просто кличка. Мне как-то выбили дверь в туалетной кабинке, по приколу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рудий — це просто прізвисько. Колись штовхнули<br>туалетну кабінку, коли я був там."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0014",
+            "en": "So.",
+            "ru_native": "Вот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0015",
+            "en": "That’s the story.",
+            "ru_native": "Вся история.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І вся історія."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0016",
+            "en": "And that’s it.",
+            "ru_native": "Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0017",
+            "en": "Not a whole lot to explain.",
+            "ru_native": "Особо и нечего рассказывать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут і розповідати нічого."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0018",
+            "en": "Yeah it sucked, but… whatever, they’re kids. I’m an adult. It’s fine.",
+            "ru_native": "Да, это дерьмово, но… они дети. Я взрослый. Ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це неприємно, але… вони ж діти, а я дорослий. Усе гаразд."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0019",
+            "en": "They can laugh all they want. I don’t have homework.",
+            "ru_native": "Могут смеяться над чем хотят. Я больше не в школе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можуть сміятися скільки завгодно. Я більше не школяр."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0020",
+            "en": "But… whatever.",
+            "ru_native": "Ладно, пофиг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та… байдуже."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0021",
+            "en": "Because my hair \"down there\" is pretty light and in the sun it looked red and so that’s—",
+            "ru_native": "Потому что у меня «там» волосы очень светлые,<br>и на солнце они кажутся рыжими, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що у мене дуже світле волосся нижче поясу, і на сонці воно здається рудим…"
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0022",
+            "en": "That’s it.",
+            "ru_native": "Вот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0023",
+            "en": "It’s just something some of them thought they saw.",
+            "ru_native": "Это то, что, как им показалось, они увидели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це те, що, як їм здалося, вони побачили."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0024",
+            "en": "Like I said… it’s… dumb.",
+            "ru_native": "Я ж говорил... это... глупо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ж казав, що… це… дурниця."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0025",
+            "en": "Yeah. Yeah, I know, I know. Thank God I’m not in high school now.",
+            "ru_native": "Да. Да, знаю. Слава богу, я сейчас не в школе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Так, я знаю, знаю. Дякувати богу, я зараз не в школі."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0026",
+            "en": "Eh, who cares?",
+            "ru_native": "Да все равно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та начхати."
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0027",
+            "en": "Yeah! Yeah! That’s what I tell myself, too! Thank you!",
+            "ru_native": "Да, я себя тоже так успокаиваю, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Так! Я себе також так заспокоюю! Дякую!"
+        },
+        {
+            "tag": "A2W2.JACAFT_JACOB_0028",
+            "en": "Yeah. They’re just brainwashed students.",
+            "ru_native": "Ага. Просто студенты, которым промыли мозги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вони просто школярі, яким мізки промили."
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0000",
+            "en": "It seemed like he… might have known who you were? Is that possible?",
+            "ru_native": "Похоже, он... тебя знает? Такое возможно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, він… тебе знає? Це можливо?"
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0001",
+            "en": "He’s so young—they all are. It’s crazy.",
+            "ru_native": "Он такой молодой... все они. Безумие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він такий молодий… Усі вони. Це безумство."
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0002",
+            "en": "So, uh, Gingerbread? What’s—",
+            "ru_native": "Эм, «Рыжий»? Почему...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, гм, Рудий? Чому…"
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0003",
+            "en": "Oh, uh, okay. That’s, uh, yeesh.",
+            "ru_native": "Ох, ладно. Это... господи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, гаразд. Це… боже."
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0004",
+            "en": "Geez, that really sucks, man, I’m sorry.",
+            "ru_native": "Господи, вот отстой, прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, це відстій, вибач."
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0005",
+            "en": "Okay, but why Gingerbr—?",
+            "ru_native": "Ладно, но почему «Рыжий»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, але чому Руд?.."
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0006",
+            "en": "[laughing]",
+            "ru_native": "[ID-34]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміх]"
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0007",
+            "en": "Oooh, uh, sorry. That’s… not too nice.",
+            "ru_native": "Ой, прости. Это... невежливо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибач. Це… негарно."
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0008",
+            "en": "Oh, like, who cares what a bunch of delinquent kids call you?",
+            "ru_native": "Ой, да какая разница, как тебя называет кучка малолетних преступников.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, яка взагалі різниця, як тебе називає купка малолітніх хуліганів."
+        },
+        {
+            "tag": "A2W2.JACAFT_RILEY_0009",
+            "en": "They’re probably just jealous you have pubes [chuckling]—I’m sorry.",
+            "ru_native": "Они просто завидуют, что у тебя на лобке есть волосы... Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони просто заздрять, що в тебе є волосся на лобку… [сміється] Вибач."
+        }
+    ]
+}

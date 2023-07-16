@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT05.MARSCI",
+    "entries": [
+        {
+            "tag": "WT05.MARSCI_MARIA_0000",
+            "en": "Hey! Are you there? Over.",
+            "ru_native": "Привет! Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт! Ти там? Прийом."
+        },
+        {
+            "tag": "WT05.MARSCI_MARIA_0001",
+            "en": "I’m on break right now! Pick up please. Over.",
+            "ru_native": "У меня сейчас перерыв! Возьми трубку, пожалуйста. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене зараз перерва! Будь ласка, вийди на зв’язок. Прийом."
+        },
+        {
+            "tag": "WT05.MARSCI_MARIA_0002",
+            "en": "Pick up, pick up, pick up, pick up, pick up, I know you’re there, pick up, pick up.",
+            "ru_native": "Ответь-ответь-ответь, я знаю, что ты там, ответь-ответь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відповідай, відповідай, відповідай, я знаю, що ти там, відповідай, відповідай."
+        },
+        {
+            "tag": "WT05.MARSCI_MARIA_0003",
+            "en": "Okay just call me back! Please. Over and out.",
+            "ru_native": "Ладно, просто перезвони! Пожалуйста. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, зв’яжись зі мною пізніше! Кінець зв’язку."
+        }
+    ]
+}

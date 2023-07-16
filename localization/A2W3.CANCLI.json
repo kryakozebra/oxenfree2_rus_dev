@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.CANCLI",
+    "entries": [
+        {
+            "tag": "A2W3.CANCLI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.CANCLI_CHOICE_0000_OPTION_0000",
+            "en": "Jacob! You there?!",
+            "ru_native": "Джейкоб! Ты там?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Ти там?!"
+        },
+        {
+            "tag": "A2W3.CANCLI_CHOICE_0000_OPTION_0001",
+            "en": "I can’t climb up!",
+            "ru_native": "Я не могу залезть!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу залізти!"
+        },
+        {
+            "tag": "A2W3.CANCLI_RILEY_0000",
+            "en": "Hey! Jacob?! You there, buddy?!",
+            "ru_native": "Эй! Джейкоб?! Ты там, друг?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Джейкобе?! Ти там, друже?!"
+        },
+        {
+            "tag": "A2W3.CANCLI_RILEY_0001",
+            "en": "I’ll take that as a no.",
+            "ru_native": "Видимо, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, що ні."
+        },
+        {
+            "tag": "A2W3.CANCLI_RILEY_0002",
+            "en": "Jacob! I can’t—I-I can’t climb up this—can you come back?",
+            "ru_native": "Джейкоб! Я не могу... залезть... можешь вернуться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Я не… Я не можу залізти… Можеш повернутися?"
+        }
+    ]
+}

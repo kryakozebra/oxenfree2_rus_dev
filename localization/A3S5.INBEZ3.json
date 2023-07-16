@@ -1,0 +1,762 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.INBEZ3",
+    "entries": [
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0000",
+            "en": "Sorry. This—we only have one left.",
+            "ru_native": "Извини. Остался один человек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач… У нас залишився лише один."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0001",
+            "en": "Shouldn’t take too long.",
+            "ru_native": "Много времени не займет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навряд це займе багато часу."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0002",
+            "en": "No one important. At least not yet.",
+            "ru_native": "Не важно. Пока что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дехто неважливий. Принаймні, поки що."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0003",
+            "en": "Honestly, if I tell you too much it won’t, uh, go well.",
+            "ru_native": "Уверяю, если расскажу слишком много, будет... плохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно кажучи, якщо я розповім вам занадто багато, нічого доброго із цього не вийде."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0004",
+            "en": "It’s better if your brain processes everything as it happens.",
+            "ru_native": "Лучше, чтобы твой мозг принимал все постепенно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще, якщо ваш мозок оброблятиме інформацію поступово."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0005",
+            "en": "Which sounds like crap, I’m sure, but trust me. I’ve seen this a few times.",
+            "ru_native": "Звучит дерьмово, да, но доверься мне. Я видела подобное много раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це звучить як лайно, я впевнена, але повір мені. Я бачила це все вже декілька разів."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0006",
+            "en": "It’s coming up soon.",
+            "ru_native": "Скоро узнаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоро з’явиться."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0007",
+            "en": "I’m… controlling it as best I can. It’s like… it’s like when you’re in a bathtub.",
+            "ru_native": "Управляю как могу. Это будто... Представь, что ты в ванне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… контролюю це, як можу. Це як… коли ти у ванні."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0008",
+            "en": "Are you controlling the water as it splashes and moves around you?",
+            "ru_native": "Управляешь ли ты водой, которая движется вокруг тебя?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи контролюєш ти воду, коли вона тече й оточує тебе?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0009",
+            "en": "To an extent. Right? Now say you’re in a lake. Can you control the water around you there, too?",
+            "ru_native": "В какой-то мере, так? А теперь представь себя в озере. Управляешь ли ты водой там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До певної міри. Чи не так? А тепер уяви, що ти в озері.<br>Чи можеш ти там контролювати воду навколо себе?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0010",
+            "en": "To an extent, sure.",
+            "ru_native": "В какой-то мере.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До певної міри. Так."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0011",
+            "en": "I can control the space somewhat… but not the tide of its entirety.",
+            "ru_native": "Вот так и я управляю пространством... Но не всем потоком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу трохи контролювати простір… але не весь його потік."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0012",
+            "en": "If that makes sense.",
+            "ru_native": "Если ты понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюсь, що-небудь із цього зрозуміло."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0013",
+            "en": "I remember when those waves would hit…",
+            "ru_native": "Я помню, как ударяли волны...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пам’ятаю, як ті хвилі б’ють…"
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0014",
+            "en": "…and my stomach would turn over like a ship in a bottle.",
+            "ru_native": "И желудок переворачивался, как корабль в бутылке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…тоді мій шлунок збовтується, як корабель у пляшці."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0015",
+            "en": "How are you, uh, holding up?",
+            "ru_native": "Ты как, держишься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти, е, тримаєшся?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0016",
+            "en": "I think you’re a better fit for this than I was.",
+            "ru_native": "Ты для этого лучше приспособлена, чем я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що ти краще підходиш для цього, ніж я."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0017",
+            "en": "You have a better stomach for it, at least.",
+            "ru_native": "Как минимум в плане желудка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе, принаймні, міцніший шлунок."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0018",
+            "en": "Well… it’s almost done.",
+            "ru_native": "Почти закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… майже все."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0019",
+            "en": "Just a little more. And then home.",
+            "ru_native": "Осталось немного. А потом домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще трохи. А потім додому."
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0020",
+            "en": "When you’re through the next portal, be sure to tune me in when you get there. Okay?",
+            "ru_native": "Как пройдешь в портал, обязательно подключись ко мне на той стороне. Хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли ви пройдете через наступний портал, обов’язково налаштуйтеся на мене,<br>на тому боці. Гаразд?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_ALEX_0021",
+            "en": "See you soon, kid.",
+            "ru_native": "До скорого, девчонка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще побачимось, мала."
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0000_OPTION_0000",
+            "en": "Don’t think about it.",
+            "ru_native": "Выбрось из головы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думай про це."
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0000_OPTION_0001",
+            "en": "Let’s keep going.",
+            "ru_native": "Идем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пішли далі."
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0000_OPTION_0002",
+            "en": "Well you looked great!",
+            "ru_native": "Ну выглядел ты супер!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ти виглядав супер!"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0001_OPTION_0000",
+            "en": "What is it?",
+            "ru_native": "Что такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це таке?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0002_OPTION_0000",
+            "en": "It’s not a bad thing.",
+            "ru_native": "Это не плохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не погано."
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0002_OPTION_0001",
+            "en": "You turn out okay.",
+            "ru_native": "У тебя все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, що в тебе все добре."
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0002_OPTION_0002",
+            "en": "Rosalind was cute?",
+            "ru_native": "Розалинда милашка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А Розалінд була милою?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0003_OPTION_0000",
+            "en": "Who was that?",
+            "ru_native": "Кто это был?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це був?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0003_OPTION_0001",
+            "en": "Who’s next?",
+            "ru_native": "Кто следующий?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто наступний?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0003_OPTION_0002",
+            "en": "Are you controlling this?",
+            "ru_native": "Это ты управляешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти це контролюєш?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0004_OPTION_0000",
+            "en": "Don’t feel a thing.",
+            "ru_native": "Ничего не чувствую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді, я нічого не відчуваю."
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0004_OPTION_0001",
+            "en": "Feeling a little sick.",
+            "ru_native": "Немного тошнит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи нудить."
+        },
+        {
+            "tag": "A3S5.INBEZ3_CHOICE_0004_OPTION_0002",
+            "en": "I can handle it.",
+            "ru_native": "Справлюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я впораюся."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0000",
+            "en": "That was… uh…",
+            "ru_native": "Это было... ох...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було… ох…"
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0001",
+            "en": "It kind of gave me butterflies.",
+            "ru_native": "Как бабочки в животе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як метелики в животі."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0002",
+            "en": "Okay, let’s, uh… man. Sorry. This is a trip.",
+            "ru_native": "Ладно, давай, ох... чувак. Прости. Таков путь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, давай, ох… дідько. Пробач. Дурня."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0003",
+            "en": "It’s just more than I expected.",
+            "ru_native": "Просто это больше, чем я ожидал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто це більше, ніж я очікував."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0004",
+            "en": "But, uh…",
+            "ru_native": "Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0005",
+            "en": "It’s fine.",
+            "ru_native": "Все ок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0006",
+            "en": "No, that’s—yeah, there’s nothing in the… rule book, no.",
+            "ru_native": "Да, ты права... Нигде не написано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, твоя правда… Ніде такого не написано."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0007",
+            "en": "Yeah. Yeah.",
+            "ru_native": "Да-да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Так, точно."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0008",
+            "en": "Uh… yeah. No, I—I did like… okay.",
+            "ru_native": "О... да. Я был... ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, так. Я був… нічогенький."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0009",
+            "en": "But my kinda life kind of… leaves you looking alright, for the most part.",
+            "ru_native": "Но у меня образ жизни такой... не слишком изматывающий.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але в мене спосіб життя такий… не надто виснажливий."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0010",
+            "en": "I think I see a… an exit up ahead.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне кажется, я вижу впереди... выход.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0011",
+            "en": "Is it bad that… actually… nevermind.",
+            "ru_native": "Плохо, что я?.. Хотя нет, забей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це погано, що… насправді… неважливо."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0012",
+            "en": "Is it… bad that I can’t think of any other questions I would want to ask myself?",
+            "ru_native": "Плохо, что я не могу придумать, что еще хотел бы спросить у самого себя?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… погано, що я не можу придумати жодних інших запитань,<br>які б хотів поставити самому собі?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0013",
+            "en": "Like… nuclear war didn’t destroy the planet, obviously.",
+            "ru_native": "Очевидно, что ядерная война не уничтожила планету.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу… про ядерну війну, яка, вочевидь, не знищила планету."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0014",
+            "en": "Climate change didn’t force me underground or something.",
+            "ru_native": "Изменения климата не погнали меня жить под землей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зміни клімату не змусили мене жити під землею чи щось таке."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0015",
+            "en": "Just seeing me like that… I know I didn’t get my heart broken.",
+            "ru_native": "Когда я увидел себя... Сердце у меня не сжалось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто бачачи мене таким… Я знаю, що мені не розбили серце."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0016",
+            "en": "I know I don’t have a kid somewhere. That guy wasn’t going home to a life partner.",
+            "ru_native": "Детей у меня явно нет. Он не спешил домой ко второй половине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що в мене не буде дітей. Той хлопець не поспішав додому до коханої людини."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0017",
+            "en": "I don’t know. I wanted to ask Maggie more than my own future self.",
+            "ru_native": "Не знаю. Мэгги была мне интереснее, чем я из будущего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Я хотів розпитати Меггі більше, ніж питати про власне майбутнє."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0018",
+            "en": "Maybe the past just feels more optimistic to me.",
+            "ru_native": "Может, прошлое кажется мне оптимистичнее?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, минуле мені здається більш оптимістичним."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0019",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0020",
+            "en": "I’m kind of rambling.",
+            "ru_native": "Болтаю тут всякое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я якось розгубився."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0021",
+            "en": "Sorry.",
+            "ru_native": "Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0022",
+            "en": "[over her] No I know, I know.",
+            "ru_native": "Да, я знаю, знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[над нею] Знаю, знаю…"
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0023",
+            "en": "Nevermind, I should’ve—yeah, like I said, nevermind.",
+            "ru_native": "Проехали. Мне надо было... Короче, проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже, я повинен був… так, як я вже сказав, це не важливо."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0024",
+            "en": "Yeah, I am definitely a dog person.",
+            "ru_native": "Да, я точно собачник.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я, безперечно, собачник."
+        },
+        {
+            "tag": "A3S5.INBEZ3_JACOB_0025",
+            "en": "Confirmed. [weakly chuckles]",
+            "ru_native": "Проверено временем, ха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стовідсотково. [трохи сміється]"
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0000",
+            "en": "Just put it out of your head, Jacob.",
+            "ru_native": "Просто не бери в голову, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто звільнися від цих думок, Джейкобе."
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0001",
+            "en": "There’s nothing in the rule book here that says you have to end up exactly like that.",
+            "ru_native": "Нигде не написано, что у тебя должно быть все именно так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніде не написано, що в тебе має бути все так само."
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0002",
+            "en": "Let’s just keep on, Jacob. We’re almost done.",
+            "ru_native": "Надо просто идти дальше, Джейкоб. Мы почти у цели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба просто йти далі, Джейкобе. Ми майже у цілі."
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0003",
+            "en": "Well, hey, at least you looked great, right?",
+            "ru_native": "Ну, по крайней мере, выглядел ты отлично, верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, принаймні, виглядав ти чудово, адже так?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0004",
+            "en": "Age didn’t put too many dents in your fender.",
+            "ru_native": "Годы тебя не слишком потрепали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роки не надто тебе потріпали."
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0005",
+            "en": "Is it bad that you what?",
+            "ru_native": "Плохо, что?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це погано, що, що?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0006",
+            "en": "That’s not a bad thing, that’s just how you’re wired, Jacob.",
+            "ru_native": "Это ведь не плохо, Джейкоб, просто ты так устроен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це непогано, просто так ти налаштований, Джейкобе."
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0007",
+            "en": "And this—that’s just one version of how things can turn out, really—",
+            "ru_native": "Плюс, это лишь один из вариантов твоего будущего...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І це лише одна з версій того, як усе може обернутися насправді…"
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0008",
+            "en": "Hey, from where I’m standing, you turn out okay.",
+            "ru_native": "С моей точки зрения у тебя все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, а мені здалося, що в тебе все добре."
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0009",
+            "en": "That guy seemed very content. Content is a hard thing to accomplish.",
+            "ru_native": "Ты выглядел довольным жизнью. А этого не так просто добиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Той хлопець виглядав дуже задоволеним. Бути задоволеним — це теж досягнення."
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0010",
+            "en": "Hey, at least, uh, Rosalind was cute? Or… was that her name?",
+            "ru_native": "Зато Розалинда милашка. Или как там ее звали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, принаймні, Розалінд була милою? Або… як її звали?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0011",
+            "en": "Okay, who was that?",
+            "ru_native": "Так, а кто это был?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, хто це був?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0012",
+            "en": "Uh, who’s next?",
+            "ru_native": "Кто следующий?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, хто наступний?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0013",
+            "en": "Are you, like, controlling this?",
+            "ru_native": "Ты как-то этим управляешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти це, типу, контролюєш?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0014",
+            "en": "What’s actually happening right now?",
+            "ru_native": "Что именно сейчас происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А що насправді зараз відбувається?"
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0015",
+            "en": "I, uh, don’t really feel a thing.",
+            "ru_native": "Я ничего не чувствую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді, мм, я нічого не відчуваю."
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0016",
+            "en": "I’m… feeling a little sick to be honest, but… it’s alright.",
+            "ru_native": "Если честно, немного подташнивает, но... Не страшно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно кажучи, мені… трохи погано, але… усе гаразд."
+        },
+        {
+            "tag": "A3S5.INBEZ3_RILEY_0017",
+            "en": "I feel a little fluttering sometimes, but… it’s alright, I can handle it.",
+            "ru_native": "Порой живот начинает крутить, но... Не страшно, переживу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іноді я відчуваю трохи тремтіння, але… усе добре, я можу впоратися."
+        }
+    ]
+}

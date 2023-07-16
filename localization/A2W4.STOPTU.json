@@ -1,0 +1,132 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.STOPTU",
+    "entries": [
+        {
+            "tag": "A2W4.STOPTU_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.STOPTU_CHOICE_0000_OPTION_0000",
+            "en": "My finger slipped.",
+            "ru_native": "Палец соскользнул.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Палець зісковзнув."
+        },
+        {
+            "tag": "A2W4.STOPTU_CHOICE_0000_OPTION_0001",
+            "en": "I’ll keep trying.",
+            "ru_native": "Попробую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ще спробую."
+        },
+        {
+            "tag": "A2W4.STOPTU_CHOICE_0000_OPTION_0002",
+            "en": "It’s scary!",
+            "ru_native": "Страшно же!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені страшно!"
+        },
+        {
+            "tag": "A2W4.STOPTU_JACOB_0000",
+            "en": "Oh wait, why’d you stop?",
+            "ru_native": "Почему ты остановилась?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зажди, чому ти зупинилася?"
+        },
+        {
+            "tag": "A2W4.STOPTU_JACOB_0001",
+            "en": "Go back—do it—do it again—tune it again, it was doing something.",
+            "ru_native": "Попробуй еще раз, давай. Настрой его. Что-то менялось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Назад-назад, давай ще… Налаштуй знову, щось почалося."
+        },
+        {
+            "tag": "A2W4.STOPTU_JACOB_0002",
+            "en": "I think it was… I don’t know.",
+            "ru_native": "Кажется... Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаю, то було… Не знаю."
+        },
+        {
+            "tag": "A2W4.STOPTU_JACOB_0003",
+            "en": "It looks insane but it was affecting him.",
+            "ru_native": "Звучит бредово, но радио на него влияло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це безумство, але це якось впливало на нього."
+        },
+        {
+            "tag": "A2W4.STOPTU_JACOB_0004",
+            "en": "I don’t think you should stop.",
+            "ru_native": "Не надо останавливаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зупиняйся."
+        },
+        {
+            "tag": "A2W4.STOPTU_JACOB_0005",
+            "en": "But it’s better than nothing!",
+            "ru_native": "Лучше, чем ничего!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це краще за нічого!"
+        },
+        {
+            "tag": "A2W4.STOPTU_JACOB_0006",
+            "en": "The guy’s just red-eyed and babbling right now, let’s move the needle in some direction.",
+            "ru_native": "У парня глаза светятся и звуки в слова не складываются. Давай искать частоту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопець просто бурмоче із червоними очима, а ми можемо хоч щось змінити."
+        },
+        {
+            "tag": "A2W4.STOPTU_RILEY_0000",
+            "en": "Shoot, sorry, my finger slipped. One sec.",
+            "ru_native": "Черт, прости, палец соскользнул. Секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт, вибач, палець зісковзнув. Секунду."
+        },
+        {
+            "tag": "A2W4.STOPTU_RILEY_0001",
+            "en": "Ah, sorry, I’ll keep—I’ll keep trying.",
+            "ru_native": "Извини, попробую еще раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я спробую… Я ще спробую."
+        },
+        {
+            "tag": "A2W4.STOPTU_RILEY_0002",
+            "en": "This is scary, Jacob! We have no idea what that thing’s going to do!",
+            "ru_native": "Страшно же, Джейкоб! Мы понятия не имеет, что произойдет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені страшно, Джейкобе! Ми не знаємо, чого від цієї штуки очікувати!"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2G2.RILATH",
+    "entries": [
+        {
+            "tag": "A2G2.RILATH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.RILATH_CHOICE_0000_OPTION_0000",
+            "en": "Thanks!",
+            "ru_native": "Спасибо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую!"
+        },
+        {
+            "tag": "A2G2.RILATH_CHOICE_0000_OPTION_0001",
+            "en": "I’ll feel it in the morning.",
+            "ru_native": "Я почувствую это утром.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчую завтра вранці."
+        },
+        {
+            "tag": "A2G2.RILATH_JACOB_0000",
+            "en": "Whoa! Cool maneuver.",
+            "ru_native": "Ого! Классный маневр.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого! Крутий маневр."
+        },
+        {
+            "tag": "A2G2.RILATH_JACOB_0001",
+            "en": "If I tried that, my spine would fall out of my body.",
+            "ru_native": "Если бы я так сделал, у меня бы позвоночник в трусы выпал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якби я таке зробив, мій хребет випав би з тіла."
+        },
+        {
+            "tag": "A2G2.RILATH_RILEY_0000",
+            "en": "[chuckles] Thanks.",
+            "ru_native": "(усмехается) Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[хихикає] Дякую."
+        },
+        {
+            "tag": "A2G2.RILATH_RILEY_0001",
+            "en": "[chuckles] I’m sure I’ll feel it tomorrow when I can’t get out of bed.",
+            "ru_native": "(усмехается) Уверена, я почувствую это утром, когда не смогу встать с кровати.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[хихикає] Упевнена, дасться взнаки завтра, коли не зможу встати з ліжка."
+        }
+    ]
+}

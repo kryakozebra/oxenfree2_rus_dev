@@ -1,0 +1,303 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S3.REJOJA",
+    "entries": [
+        {
+            "tag": "A1S3.REJOJA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.REJOJA_CHOICE_0000_OPTION_0000",
+            "en": "I was just messing around.",
+            "ru_native": "Я просто пошутила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто пожартувала."
+        },
+        {
+            "tag": "A1S3.REJOJA_CHOICE_0000_OPTION_0001",
+            "en": "Sorry! I'm ready.",
+            "ru_native": "Прости! Я готова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач! Я готова."
+        },
+        {
+            "tag": "A1S3.REJOJA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.REJOJA_CHOICE_0001_OPTION_0000",
+            "en": "I'll help you.",
+            "ru_native": "Я тебе помогу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я допоможу тобі."
+        },
+        {
+            "tag": "A1S3.REJOJA_CHOICE_0001_OPTION_0001",
+            "en": "Where's the summit again?",
+            "ru_native": "Так где, говоришь, вершина?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так де, кажеш, вершина?"
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0000",
+            "en": "Oh! Hey. You're back.",
+            "ru_native": "О, привет! Ты вернулась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Привіт. Ти повернулася."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0001",
+            "en": "Hey. Didn't think I'd see you again.",
+            "ru_native": "Привет. Я думал, больше тебя не увижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. Я думав, що ми більше не побачимося."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0002",
+            "en": "No. No thanks. Not interested, it's fine.",
+            "ru_native": "Нет. Нет, спасибо. Мне и так хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Ні, дякую. Мені й так добре."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0003",
+            "en": "Good luck with whatever you're doing.",
+            "ru_native": "Удачи тебе с твоим делом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Успіхів тобі у твоїх справах."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0004",
+            "en": "I'll be alright here.",
+            "ru_native": "За меня не волнуйся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся за мене."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0005",
+            "en": "Yeah, no, I'm just—I'm sorry, I'm just not in the right headspace for mind games right now.",
+            "ru_native": "Извини, но я сейчас не в том состоянии, чтобы шутить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я просто… Вибач, мені зараз трохи не до жартів."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0006",
+            "en": "So. Seriously. Take care, but… bye.",
+            "ru_native": "Так что серьезно. Береги себя, и... пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож серйозно. Будь обережна, і… бувай."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0007",
+            "en": "Hey. You came back. Change your mind, maybe?",
+            "ru_native": "О, ты вернулась. Передумала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ти повернулася. Передумала?"
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0008",
+            "en": "Cause I'd love the search partner.",
+            "ru_native": "Потому что напарник мне не помешает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що допомога мені не завадить."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0009",
+            "en": "It'd really help me out.",
+            "ru_native": "Ты бы мне реально помогла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мені б дуже допомогла."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0010",
+            "en": "If you're okay with it.",
+            "ru_native": "Если ты не против.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти не проти."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0011",
+            "en": "Great. Thank you. Thank you, thank you, thank you.",
+            "ru_native": "Отлично. Спасибо. Спасибо-спасибо-спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Дякую. Дякую-дякую-дякую."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0012",
+            "en": "I'm… sure no one will mess with the smoking husk that is currently my vehicle, so.",
+            "ru_native": "Уверен, никто на эту груду железа не позарится, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… впевнений, що ніхто не вкраде цей мотлох, тож…"
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0013",
+            "en": "We can hit the road.",
+            "ru_native": "Можем пойти пешком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можемо вирушати."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0014",
+            "en": "It's—it's literally just up the hill. You can't miss it. Just walk.",
+            "ru_native": "Просто иди вверх по холму. Ты ее не пропустишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто піднімися на пагорб. Ти її не пропустиш."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0015",
+            "en": "Unbelievable.",
+            "ru_native": "Невероятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Неймовірно."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0016",
+            "en": "You're… okay. This is just you goofing around.",
+            "ru_native": "Ты... в порядке. Ты просто прикалываешься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… зрозумів. Ти жартуєш."
+        },
+        {
+            "tag": "A1S3.REJOJA_JACOB_0017",
+            "en": "Just if you see a dog anywhere, can you let the park ranger know? They have my number. Thanks.",
+            "ru_native": "Если увидишь собаку, можешь сообщить егерю? У него есть мой номер. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо побачиш собаку, можеш сказати наглядачці парку? У неї є мій номер. Дякую."
+        },
+        {
+            "tag": "A1S3.REJOJA_RILEY_0000",
+            "en": "Hey.",
+            "ru_native": "Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт."
+        },
+        {
+            "tag": "A1S3.REJOJA_RILEY_0001",
+            "en": "How's it going?",
+            "ru_native": "Как дела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як справи?"
+        },
+        {
+            "tag": "A1S3.REJOJA_RILEY_0002",
+            "en": "So—",
+            "ru_native": "И...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож…"
+        },
+        {
+            "tag": "A1S3.REJOJA_RILEY_0003",
+            "en": "Look, man, I was just messing around. No offense meant.",
+            "ru_native": "Слушай, я просто пошутила. Не хотела тебя обидеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я просто пожартувала. Не хотіла тебе ображати."
+        },
+        {
+            "tag": "A1S3.REJOJA_RILEY_0004",
+            "en": "Sorry, sorry, I wasn't ready but now I'm—",
+            "ru_native": "Извини, я была не готова, но теперь я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я була не готова, але зараз я…"
+        },
+        {
+            "tag": "A1S3.REJOJA_RILEY_0005",
+            "en": "Yeah, you know what… I thought about it, and… I'll help you out.",
+            "ru_native": "Да, знаешь... Я подумала и решила тебе помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, знаєш… Я подумала і вирішила тобі допомогти."
+        },
+        {
+            "tag": "A1S3.REJOJA_RILEY_0006",
+            "en": "I couldn't live with myself if, you know, Athena got hurt or something.",
+            "ru_native": "Знаешь, если с Буддой что-то случится, я себе этого не прощу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо щось станеться з Буддою, то я собі це не пробачу."
+        },
+        {
+            "tag": "A1S3.REJOJA_RILEY_0007",
+            "en": "Actually, I'm just here to make sure… I'm going the right way…",
+            "ru_native": "Вообще-то я тут, чтобы убедиться, что иду верной дорогой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі-то я тут, щоби запевнитися, що… я йду правильним шляхом."
+        },
+        {
+            "tag": "A1S3.REJOJA_RILEY_0008",
+            "en": "The summit's—",
+            "ru_native": "Вершина...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вершина…"
+        }
+    ]
+}

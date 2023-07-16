@@ -1,0 +1,717 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.POSSES",
+    "entries": [
+        {
+            "tag": "A2V3.POSSES_CHARLIE_0000",
+            "en": "Yeah, hey.",
+            "ru_native": "Здрасьте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вітаю."
+        },
+        {
+            "tag": "A2V3.POSSES_CHARLIE_0001",
+            "en": "And now we can’t get out.",
+            "ru_native": "И теперь не можем выбраться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І тепер ми не можемо вибратися."
+        },
+        {
+            "tag": "A2V3.POSSES_CHARLIE_0002",
+            "en": "I’m… still unclear of how the whole thing will work.",
+            "ru_native": "Я все еще не понимаю, как это должно сработать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… досі не розумію, як це має спрацювати."
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0000_OPTION_0000",
+            "en": "Stop it!",
+            "ru_native": "Хватит!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить!"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0000_OPTION_0001",
+            "en": "Leave them alone!",
+            "ru_native": "Оставь их в покое!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залиш їх у спокої!"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0001_OPTION_0000",
+            "en": "Huh?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0001_OPTION_0001",
+            "en": "Alex?",
+            "ru_native": "Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс?"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0001_OPTION_0002",
+            "en": "You’re not… submarine people?",
+            "ru_native": "Вы не из экипажа подлодки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви не… з підводного човна?"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0002_OPTION_0000",
+            "en": "What kind of boost?",
+            "ru_native": "Какой толчок?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яка допомога?"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0002_OPTION_0001",
+            "en": "Don’t care, stop now.",
+            "ru_native": "Плевать, отстаньте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені байдуже, відчепіться."
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0002_OPTION_0002",
+            "en": "What about my future?",
+            "ru_native": "Что с моим будущим?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що з моїм майбутнім?"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0003_OPTION_0000",
+            "en": "Hold on…",
+            "ru_native": "Погоди...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай…"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0003_OPTION_0001",
+            "en": "I’ve been the problem?",
+            "ru_native": "Дело было во мне?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справа була в мені?"
+        },
+        {
+            "tag": "A2V3.POSSES_CHOICE_0003_OPTION_0002",
+            "en": "Olivia is not the hero.",
+            "ru_native": "Оливия – не главный герой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія — не героїня."
+        },
+        {
+            "tag": "A2V3.POSSES_JACOB_0000",
+            "en": "It used to be a military base, but now it’s—",
+            "ru_native": "Раньше это была военная база, но сейчас...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше тут була військова база, але зараз…"
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0000",
+            "en": "Leave. Is. Possible.",
+            "ru_native": "Уйти. Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти. Можливо."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0001",
+            "en": "I… am… feeling…",
+            "ru_native": "Я... чувствую...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… відчуваю…"
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0002",
+            "en": "Mmph.",
+            "ru_native": "М-м-м.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "М-м-м."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0003",
+            "en": "It’s… hard.",
+            "ru_native": "Это... тяжело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… важко."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0004",
+            "en": "You know, I like you. I like you, alot, Riley, I really do, I… wish this didn’t have to be so hard for you.",
+            "ru_native": "Знаешь, ты мне нравишься. Очень нравишься, Райли...<br>Жаль, что тебе приходится так страдать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, ти мені подобаєшся. Дуже подобаєшся, Райлі…<br>Шкода, що тобі доводиться так страждати."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0005",
+            "en": "But.. I’ve been on the other side of the aisle. So. I know. I get it.",
+            "ru_native": "Но... Я была на другой стороне. Так что. Я все понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Я була на тому боці. Тож. Я знаю. Я все розумію."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0006",
+            "en": "This sucks. Right? It sucks. You hate it, I hate it.",
+            "ru_native": "Хреново, да? Мы обе этому не рады.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це відстій, так? Відстій. Нам обом це не подобається."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0007",
+            "en": "Nobody wants to see their friends possessed. Nobody wants to feel trapped.",
+            "ru_native": "Никто не хочет, чтобы в их друзей вселялись. Никто не хочет быть в ловушке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніхто не хоче, щоб у їхніх друзів вселилися. Ніхто не хоче бути в пастці."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0008",
+            "en": "I’m sorry—the night’s progressed to the point where I can speak a little more freely—",
+            "ru_native": "Прости... Ночь дошла до того момента, когда я могу говорить чуть свободнее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач… Ніч дійшла до того моменту, коли я можу говорити вільно…"
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0009",
+            "en": "My name’s Alex.",
+            "ru_native": "Меня зовут Алекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене звуть Алекс."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0010",
+            "en": "These are my friends.",
+            "ru_native": "А это мои друзья.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А це мої друзі."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0011",
+            "en": "It’s disorienting, but… just keep your hands on the guard rail… we’ll get through it.",
+            "ru_native": "Ты пока ничего не понимаешь, но... Держитесь за поручни, скоро все прояснится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти поки нічого не розумієш, але… Тримайтеся за поручні, скоро все стане ясно."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0012",
+            "en": "Yeah. Alex. Named after my Great Grandmother, Alexandra.",
+            "ru_native": "Да. Алекс. Назвали в честь прабабушки, Александры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Алекс. Назвали на честь прабабусі Александри."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0013",
+            "en": "No, but they’re around. Some of them, anyway.",
+            "ru_native": "Нет, но они рядом. По крайней мере, часть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, але вони поруч. Принаймні, частина з них."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0014",
+            "en": "It hasn’t all been us. Just… mostly.",
+            "ru_native": "В основном сегодня шалили мы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це були не лише ми. Ну… в основному."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0015",
+            "en": "We… were… teenagers. Like Olivia and her friends.",
+            "ru_native": "Мы... были подростками. Как Оливия и ее друзья.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… були… підлітками. Як Олівія та її друзі."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0016",
+            "en": "We went to Edwards Island… I don’t know. Years ago? Months? Weeks from now? It’s hard to tell…",
+            "ru_native": "Мы отправились на остров Эдвардса... Не знаю. Пару лет назад? Месяцев? Недель? Сложно сказать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми приїхали на острів Едвардса… Не знаю.<br>Кілька років тому? Місяців? Тижнів? Важко сказати…"
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0017",
+            "en": "They got it, Ren, thank you.",
+            "ru_native": "Рен, они знают, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рене, вони знають, дякую."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0018",
+            "en": "We can get out, we just need… a little boost.",
+            "ru_native": "Точнее, можем, но... Нам нужен толчок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точніше, можемо, але… нам потрібна допомога."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0019",
+            "en": "Well, Clarissa, you don’t need to know how the whole thing will work.",
+            "ru_native": "Кларисса, тебе и не нужно понимать, как это работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, Кларисо, тобі й не треба розуміти, як це працює."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0020",
+            "en": "Just know that it will.",
+            "ru_native": "Знай, что сработает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто знай, що це спрацює."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0021",
+            "en": "It’s okay, Jonas. She knows. Or… she will know.",
+            "ru_native": "Ничего, Джонас. Она знает. Или... узнает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого, Джонасе. Вона знає. Або… дізнається."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0022",
+            "en": "Or something…",
+            "ru_native": "Или что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи що…"
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0023",
+            "en": "Listen. Riley. I’ve—we’ve seen this play out… trillions of times.",
+            "ru_native": "Слушай, Райли. Мы видели, чем все заканчивается, уже миллиард раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Райлі. Я… ми бачили, чим усе скінчиться… мільярд разів."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0024",
+            "en": "And… it’s never quite landed. Never quite stuck.",
+            "ru_native": "И еще ни разу... Не получалось как надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ще ні разу… не виходило як треба."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0025",
+            "en": "But this time it will, and do you know why?",
+            "ru_native": "Но в этот раз получится. Знаешь, почему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але цього разу вийде. Знаєш, чому?"
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0026",
+            "en": "Because you… are going to make a judgment call.",
+            "ru_native": "Потому что ты... сделаешь сложный выбор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо ти… зробиш складний вибір."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0027",
+            "en": "You are going to make a sacrifice.",
+            "ru_native": "Ты принесешь жертву.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти зробиш жертву."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0028",
+            "en": "And whether or not it’s a sacrifice you can live with…",
+            "ru_native": "Сможешь ли ты жить с такой жертвой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи зможеш ти жити з такою жертвою…"
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0029",
+            "en": "Is entirely up to you.",
+            "ru_native": "Зависит от тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залежить від тебе."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0030",
+            "en": "Your plan with the transmitters… it's a good one. It is.",
+            "ru_native": "Ваш план с передатчиками... хорош. Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ваш план із радіопередавачами… хороший. Дійсно."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0031",
+            "en": "It just might stop us, if that’s what you want.",
+            "ru_native": "Он может нас остановить, если ты этого хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він може нас зупинити, якщо ти цього хочеш."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0032",
+            "en": "Do you know what you want? Riley? Do you?",
+            "ru_native": "Ты знаешь, чего ты хочешь? Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш, що ти хочеш? Райлі? Га?"
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0033",
+            "en": "Cause I’ve traveled a million miles and a million more years just to watch you eat breakfast.",
+            "ru_native": "Я проделала путь в миллион миль и миллион лет, чтобы увидеть, как ты завтракаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пройшла мільйон миль і минуло мільйон років, щоби побачити, як ти снідаєш."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0034",
+            "en": "And I think you were always supposed to do this.",
+            "ru_native": "Думаю, тебе было предначертано это сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, тобі судилося це зробити."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0035",
+            "en": "Riley… listen to me. You have been… the arrow in my side… for a while.",
+            "ru_native": "Райли... послушай. Ты была мне... как заноза... какое-то время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі… послухай. Ти… була скалкою в моїй нозі… протягом деякого часу."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0036",
+            "en": "Whenever we try to get out, whenever we get close… it’s never quite worked. Never stuck.",
+            "ru_native": "Каждый раз, когда мы пытаемся выбраться, подобраться поближе...<br>ничего не выходит. Не работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоразу, коли ми намагалися вибратися,<br>коли ми були близько… у нас не виходило. Ніколи."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0037",
+            "en": "I’ve never tried it with Olivia.",
+            "ru_native": "Я никогда не пробовала это с Оливией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ніколи не намагалася зробити це з Олівією."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0038",
+            "en": "And she has a fire in her that will burn away every obstacle.",
+            "ru_native": "И в ней есть огонь, который сожжет все препятствия на пути.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У ній палає такий вогонь, що знищить вщент кожну перешкоду."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0039",
+            "en": "You aren’t the hero of this story, Riley.",
+            "ru_native": "Ты не героиня этой истории, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ти — не героїня в цій історії, Райлі."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0040",
+            "en": "Remember that.",
+            "ru_native": "Запомни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запам’ятай це."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0041",
+            "en": "You are the problem. For me, at least. For us.",
+            "ru_native": "Да, в тебе. По крайней мере, для меня. Для нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти — проблема. Принаймні, для мене. Для нас."
+        },
+        {
+            "tag": "A2V3.POSSES_OLIVIA_0042",
+            "en": "As was I.",
+            "ru_native": "Как и я когда-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як і я."
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0000",
+            "en": "God, not again! Stop it!",
+            "ru_native": "Боже, опять! Хватит!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, тільки не знову! Досить!"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0001",
+            "en": "God, can’t you just leave them alone!",
+            "ru_native": "Господи, оставь ты их в покое!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, залиш їх у спокої!"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0002",
+            "en": "Um… huh?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… що?"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0003",
+            "en": "Uh… Alex?",
+            "ru_native": "Эм... Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Алекс?"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0004",
+            "en": "Wait… you’re not… from the submarine—the Kanaloa?",
+            "ru_native": "Постой... Ты же не с подлодки «Каналоа»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай… ти ж не… з підводного човна «Каналоа»?"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0005",
+            "en": "Um, what kind of boost?",
+            "ru_native": "Какого рода толчок?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яка допомога?"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0006",
+            "en": "Yeah, guys, I really can’t care about your problems. I care about the still here—the living.",
+            "ru_native": "Ребят, меня не очень заботят ваши проблемы. Меня заботит настоящее и... живые.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, мене не дуже хвилюють ваші проблеми. Я переживаю за теперішнє… і живих людей."
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0007",
+            "en": "What about all that taking my future stuff? Do you want to switch places or something…?",
+            "ru_native": "Что вы там говорили про «отнять мое будущее»? Вы хотите поменяться местами или что?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ви там казали про те, щоби «відняти моє майбутнє»?<br>Ви хочете помінятися місцями чи що?.."
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0008",
+            "en": "Wait, hold on—",
+            "ru_native": "Погодите-ка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай…"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0009",
+            "en": "Whoa, whoa, whoa, I-I’m out, then, if this is—",
+            "ru_native": "Стоп, стоп, стоп. Я не согласна...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стоп, стоп, стоп. Я не згодна…"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0010",
+            "en": "Well… I mean, it depends…",
+            "ru_native": "Ну... Конечно, зависит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Звісно, залежно від…"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0011",
+            "en": "Wait, are you trying to seriously tell me that I’ve been the problem here?",
+            "ru_native": "Стоп, ты серьезно считаешь, что проблема во мне?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, ти серйозно хочеш сказати, що проблема була в мені?"
+        },
+        {
+            "tag": "A2V3.POSSES_RILEY_0012",
+            "en": "Olivia is not the hero, here, she’s — she’s a kid.",
+            "ru_native": "Оливия тоже никакой не герой, она ребенок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія — не героїня, вона… вона дитина."
+        },
+        {
+            "tag": "A2V3.POSSES_VIOLET_0000",
+            "en": "Hey.",
+            "ru_native": "Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт."
+        },
+        {
+            "tag": "A2V3.POSSES_VIOLET_0001",
+            "en": "We got stuck. That’s the point.",
+            "ru_native": "Мы застряли. Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми застрягли. Ось і все."
+        },
+        {
+            "tag": "A2V3.POSSES_VIOLET_0002",
+            "en": "We got stuck between existences like the crewmen and women of the submarine.",
+            "ru_native": "Мы застряли между слоями действительности, как экипаж подлодки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми застрягли між шарами дійсності, як екіпаж підводного човна."
+        },
+        {
+            "tag": "A2V3.POSSES_VIOLET_0003",
+            "en": "We are living.",
+            "ru_native": "Мы тоже живые.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми теж живі."
+        }
+    ]
+}

@@ -1,0 +1,258 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.INBEZ2",
+    "entries": [
+        {
+            "tag": "A3S5.INBEZ2_ALEX_0000",
+            "en": "[distant] Riley!",
+            "ru_native": "Так. Отлично, рада, что сработало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[віддалений звук] Райлі!"
+        },
+        {
+            "tag": "A3S5.INBEZ2_BARPATRON_0000",
+            "en": "She’s always in here!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она всегда здесь!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона завжди тут!"
+        },
+        {
+            "tag": "A3S5.INBEZ2_BARPATRON_0001",
+            "en": "No, I’m sick of dealing with her crap.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, мне надоело иметь дело с ее дерьмом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, мені набридло мати справу з її чортівнею."
+        },
+        {
+            "tag": "A3S5.INBEZ2_BARPATRON_0002",
+            "en": "I’m just trying to have a drink.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто пытаюсь выпить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто намагаюся випити!"
+        },
+        {
+            "tag": "A3S5.INBEZ2_BARTENDER_0000",
+            "en": "[distorted] Hey! Anyone know this girl?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [искажено] Эй! Кто-нибудь знает эту девушку?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спотворено] Гей! Хтось знає цю дівчину?"
+        },
+        {
+            "tag": "A3S5.INBEZ2_CHOICE_0000_OPTION_0000",
+            "en": "I don’t know what to do!",
+            "ru_native": "Не знаю what to do!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, що робити!"
+        },
+        {
+            "tag": "A3S5.INBEZ2_CHOICE_0000_OPTION_0001",
+            "en": "How do I get out!?",
+            "ru_native": "How do I пошла. вон!?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як мені вибратися звідси?!"
+        },
+        {
+            "tag": "A3S5.INBEZ2_CHOICE_0000_OPTION_0002",
+            "en": "Stop messing with me!",
+            "ru_native": "Вроде, она была милой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Припиніть плутати мене!"
+        },
+        {
+            "tag": "A3S5.INBEZ2_CHOICE_0001_OPTION_0000",
+            "en": "I have nowhere else.",
+            "ru_native": "А ты нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені більше нікуди."
+        },
+        {
+            "tag": "A3S5.INBEZ2_CHOICE_0001_OPTION_0001",
+            "en": "Where are my keys?",
+            "ru_native": "Если не изменишься...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де мої ключі?"
+        },
+        {
+            "tag": "A3S5.INBEZ2_CHOICE_0001_OPTION_0002",
+            "en": "I got fired.",
+            "ru_native": "Не так уж и плохо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене звільнили."
+        },
+        {
+            "tag": "A3S5.INBEZ2_CHOICE_0002_OPTION_0000",
+            "en": "Stop damnit!",
+            "ru_native": "Stop черт!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зупинися, чорт забирай!"
+        },
+        {
+            "tag": "A3S5.INBEZ2_CHOICE_0002_OPTION_0001",
+            "en": "Find a way out.",
+            "ru_native": "Это не ее вина.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайди вихід."
+        },
+        {
+            "tag": "A3S5.INBEZ2_CHOICE_0002_OPTION_0002",
+            "en": "What is going on.",
+            "ru_native": "Что происходит on.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0000",
+            "en": "Errggh, I don’t know what to do! How – how is this… how am I ever…",
+            "ru_native": "Да. Всегда думаешь, что станешь первым в истории, кто... обманет старение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еррг, я не знаю, що робити! Як… як це… як я взагалі…"
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0001",
+            "en": "[to herself] It’s okay. It’s okay. I’m not gone yet, not completely…",
+            "ru_native": "Я не знала ее так, как ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Все гаразд. Все гаразд. Я ще не загубилася, не зовсім…"
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0002",
+            "en": "[to herself] Just keep moving.",
+            "ru_native": "Так что поверю тебе на слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Просто рухайся далі."
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0003",
+            "en": "Erghggh, how do I get the Hell out of here?! I – this place has no… [sigh]",
+            "ru_native": "Она мне показалась хорошей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е-е, як мені в біса вибратися звідси?! Я… це місце не має… [зітхання]"
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0004",
+            "en": "Errggh, stop pushing me! Just stop! It’s – it’s not – [sigh]",
+            "ru_native": "Представляю ее в старости, помогающей мальчишке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, припиніть штовхати мене! Просто годі! Це… це не… [зітхає]"
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0005",
+            "en": "I…",
+            "ru_native": "Она тебе очень нравилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я…"
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0006",
+            "en": "I– I got –",
+            "ru_native": "Ты не станешь таким, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я отримала…"
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0007",
+            "en": "Ah… man, where –",
+            "ru_native": "Ah… man, где –",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох… дідько, де…"
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0008",
+            "en": "Stop messing with my mind damnit!",
+            "ru_native": "Все возможно. Но если ты правда не хочешь закончить, как она, то... Не нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Припиніть плутати мене, чорт забирай!"
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0009",
+            "en": "I need to find a way out of here.",
+            "ru_native": "Смени город, работу, хобби... Джейкоб, время есть всегда. Пока оно не закончится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно знайти вихід звідси."
+        },
+        {
+            "tag": "A3S5.INBEZ2_RILEY_0010",
+            "en": "What the hell is going on here?",
+            "ru_native": "Какого черта происходит here?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що за чортівня?"
+        },
+        {
+            "tag": "A3S5.INBEZ2_SUNKEN_0000",
+            "en": "Lie. Down.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ложь. Даун.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лягай."
+        },
+        {
+            "tag": "A3S5.INBEZ2_SUNKEN_0001",
+            "en": "Listen.",
+            "ru_native": "Слушай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай."
+        },
+        {
+            "tag": "A3S5.INBEZ2_SUNKEN_0002",
+            "en": "To. Elders.",
+            "ru_native": "",
+            "ru_machine": "DEEPL To. Старейшины.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Старійшин."
+        }
+    ]
+}

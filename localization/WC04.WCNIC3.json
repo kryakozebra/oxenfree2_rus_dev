@@ -1,0 +1,312 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC04.WCNIC3",
+    "entries": [
+        {
+            "tag": "WC04.WCNIC3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.WCNIC3_CHOICE_0000_OPTION_0000",
+            "en": "What’s on fire now, Nick?",
+            "ru_native": "Что сейчас горит, Ник?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що горить, Нік?"
+        },
+        {
+            "tag": "WC04.WCNIC3_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.WCNIC3_CHOICE_0001_OPTION_0000",
+            "en": "Radio someone?",
+            "ru_native": "Связались с кем-нибудь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’язатися з кимось?"
+        },
+        {
+            "tag": "WC04.WCNIC3_CHOICE_0001_OPTION_0001",
+            "en": "Aren’t you worried?",
+            "ru_native": "Вы разве не волнуетесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба ти не хвилюєшся?"
+        },
+        {
+            "tag": "WC04.WCNIC3_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.WCNIC3_CHOICE_0002_OPTION_0000",
+            "en": "Abandon ship?",
+            "ru_native": "Покинуть корабль?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишити корабель?"
+        },
+        {
+            "tag": "WC04.WCNIC3_CHOICE_0002_OPTION_0001",
+            "en": "Don’t die.",
+            "ru_native": "Не умрите.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не помри."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0000",
+            "en": "Don’t tempt the universe, kiddo.",
+            "ru_native": "Не искушай вселенную, детка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не провокуй долю, мала."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0001",
+            "en": "The best I can describe it is… it feels like we’re moving down.",
+            "ru_native": "Точнее всего сказать, что мы... опускаемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точніше сказати, здається, що ми… опускаємося."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0002",
+            "en": "Sinking—you might call it—but the water isn’t coming over the side. In fact, it’s remaining exactly where it should.",
+            "ru_native": "Можно было бы сказать, что тонем, но вода не<br>переливается через борт. Она на том же уровне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна сказати, що тонемо, але вода не переливається через борт.<br>Вона залишається на тому ж рівні."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0003",
+            "en": "But I know what sinking feels like. And this is textbook.",
+            "ru_native": "Но я знаю, что такое тонуть. Это как по учебнику.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я знаю, що таке тонути. І це як за підручником."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0004",
+            "en": "Chapter one.",
+            "ru_native": "Глава один.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розділ перший."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0005",
+            "en": "Page one.",
+            "ru_native": "Страница один.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сторінка номер один."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0006",
+            "en": "I’ve radio’d every channel I could find and just—ya know—just started shouting.",
+            "ru_native": "Я посылал сообщения по всем каналам, какие смог найти, а потом просто начал кричать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я посилав повідомлення всіма каналами, які зміг зловити,<br>а потім просто почав кричати."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0007",
+            "en": "The only person I can reach is you.",
+            "ru_native": "Ты единственная, кто откликнулся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти єдина, до кого я догукався."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0008",
+            "en": "Fake it til you make it, kiddo.",
+            "ru_native": "Хорошая мина при плохой игре, детка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добра міна при поганій грі, мала."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0009",
+            "en": "Best I got for you this time of night.",
+            "ru_native": "Сейчас я ничего лучше не придумаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз я нічого кращого не вигадаю."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0010",
+            "en": "Actually, at any time of day, truth be told.",
+            "ru_native": "В общем, как и в любое другое время, если честно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Загалом, як і в будь-який інший час, якщо чесно."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0011",
+            "en": "But it’s alright. My life vest is double knotted.",
+            "ru_native": "Все в порядке. Я хорошо плаваю, и мой спасательный жилет завязан на двойной узел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд. Мій рятувальний жилет зав’язаний на подвійний вузол."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0012",
+            "en": "I’ve been in tighter spots.",
+            "ru_native": "Я бывал и не в таких переделках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бував і в гірших обставинах."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0013",
+            "en": "Or so I’m trying to convince myself.",
+            "ru_native": "Или я так себя убеждаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або я так себе переконую."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0014",
+            "en": "Good idea, I’m sure the ocean is bathwater warm.",
+            "ru_native": "Отличная идея. Уверен, вода в океане – парное молоко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудова ідея. Впевнений, що вода в океані, як парне молоко."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0015",
+            "en": "With my back there’s no way I’d make it past the bow.",
+            "ru_native": "С моей спиной я даже до носа не достану.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З моєю спиною я навіть нахилитися не можу."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0016",
+            "en": "And my shoulders. And my hips. My left thumb was achy this morning…",
+            "ru_native": "А еще плечи. И бедра. И большой палец на левой ноге утром болел...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ще плечі. І стегна. І великий палець на лівій нозі ще з ранку болить…"
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0017",
+            "en": "I’m better off staying dry and rolling the dice.",
+            "ru_native": "Я лучше рискну и останусь в лодке, где сухо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я краще ризикну й залишусь у човні, де сухо."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0018",
+            "en": "I won’t if you won’t.",
+            "ru_native": "Не буду, если ты не будешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не потону, якщо ти не потонеш."
+        },
+        {
+            "tag": "WC04.WCNIC3_NICK_0019",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "WC04.WCNIC3_RILEY_0000",
+            "en": "So, what’s happening now, Nick?",
+            "ru_native": "Так, что сейчас происходит, Ник?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, що зараз відбувається, Нік?"
+        },
+        {
+            "tag": "WC04.WCNIC3_RILEY_0001",
+            "en": "Raining frogs? Raining fire? Raining fiery frogs?",
+            "ru_native": "Дождь из лягушек? Из огня? Из огненных лягушек?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дощ із жаб? З вогню? З вогняних жаб?"
+        },
+        {
+            "tag": "WC04.WCNIC3_RILEY_0002",
+            "en": "Should you radio someone?",
+            "ru_native": "Может, стоит с кем-нибудь связаться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, варто з кимось зв’язатися?"
+        },
+        {
+            "tag": "WC04.WCNIC3_RILEY_0003",
+            "en": "You don’t sound worried. I would sound worried.",
+            "ru_native": "У вас спокойный голос. Я бы волновалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе спокійний голос. Я б хвилювалася."
+        },
+        {
+            "tag": "WC04.WCNIC3_RILEY_0004",
+            "en": "Maybe you should—ya know—jump out? Swim to shore?",
+            "ru_native": "Может, вам надо выпрыгнуть? Поплыть к берегу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, тобі треба стрибнути у воду? Плисти до берега?"
+        },
+        {
+            "tag": "WC04.WCNIC3_RILEY_0005",
+            "en": "Don’t sink.",
+            "ru_native": "Не утоните.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не потони."
+        }
+    ]
+}

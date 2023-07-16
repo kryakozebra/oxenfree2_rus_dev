@@ -1,0 +1,1554 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.TALCLA",
+    "entries": [
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0000_OPTION_0000",
+            "en": "I’m a cop.",
+            "ru_native": "Я коп.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — коп."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0000_OPTION_0001",
+            "en": "I’m a time traveler.",
+            "ru_native": "Я путешествую во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я мандрівник у часі."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0000_OPTION_0002",
+            "en": "Alex sent me.",
+            "ru_native": "Меня послала Алекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене надіслала Алекс."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0001_OPTION_0000",
+            "en": "I’m a friend.",
+            "ru_native": "Я подруга.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з нею друзі."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0001_OPTION_0001",
+            "en": "I’m just helping her out.",
+            "ru_native": "Я просто ей помогаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я їй просто допомагаю."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0001_OPTION_0002",
+            "en": "It doesn’t matter.",
+            "ru_native": "Это неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не важливо."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0002_OPTION_0000",
+            "en": "I’m serious.",
+            "ru_native": "Я не шучу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не шуткую."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0002_OPTION_0001",
+            "en": "Your friend’s in danger.",
+            "ru_native": "Твоя подруга в опасности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя подруга в небезпеці."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0002_OPTION_0002",
+            "en": "Do what I say or else.",
+            "ru_native": "Делай, как я скажу, иначе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роби, як я кажу, інакше буде гірше."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0003_OPTION_0000",
+            "en": "You’re not allowed here.",
+            "ru_native": "Тебе нельзя тут находиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут не можна перебувати."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0003_OPTION_0001",
+            "en": "I saw you smoking.",
+            "ru_native": "Я видела, как ты курила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила, як ти палиш."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0003_OPTION_0002",
+            "en": "Do you have a radio?",
+            "ru_native": "У тебя есть радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе є радіо?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0004_OPTION_0000",
+            "en": "Help me with your radio.",
+            "ru_native": "Одолжи мне свое радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Позич мені своє радіо."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0004_OPTION_0001",
+            "en": "Please leave.",
+            "ru_native": "Пожалуйста, уходи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, йди."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0005_OPTION_0000",
+            "en": "It’s invisible.",
+            "ru_native": "Он невидимый.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Його не буде видно."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0005_OPTION_0001",
+            "en": "I don’t need a badge.",
+            "ru_native": "Значок мне не нужен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Посвідчення мені не потрібне."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0005_OPTION_0002",
+            "en": "I forgot it at the station.",
+            "ru_native": "Я его в участке забыла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я його у відділку забула."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0006_OPTION_0000",
+            "en": "Test a frequency.",
+            "ru_native": "Проверить частоту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Необхідно перевірити частоту."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0006_OPTION_0001",
+            "en": "Listen for a fugitive.",
+            "ru_native": "Слушать преступника.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухати частоту злочинця."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0006_OPTION_0002",
+            "en": "Just tune to this station.",
+            "ru_native": "Просто настройся на эту частоту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто налаштуйся на цю частоту."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0007_OPTION_0000",
+            "en": "Oh, you’ll know.",
+            "ru_native": "О, ты поймешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ти зрозумієш."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0007_OPTION_0001",
+            "en": "Don’t worry about it.",
+            "ru_native": "Не забивай голову.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся про це."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0008_OPTION_0000",
+            "en": "See you later!",
+            "ru_native": "Увидимся!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще побачимось."
+        },
+        {
+            "tag": "A3S5.TALCLA_CHOICE_0008_OPTION_0001",
+            "en": "Could’ve done that earlier.",
+            "ru_native": "Нельзя было сразу так сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба було одразу так зробити."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0000",
+            "en": "Uh, Jessica, sorry—I think I have to go.",
+            "ru_native": "Ой, Джессика, прости... Кажется, мне пора.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, Джессіка, вибач… Здається, мені час."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0001",
+            "en": "Jessica? God, the service here is…",
+            "ru_native": "Джессика? Боже, обслуживание тут...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джессіка? Господи, зв’язок тут такий…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0002",
+            "en": "Uh, hey. What’s… up.",
+            "ru_native": "О, привет. Как... дела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, привіт. Як справи?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0003",
+            "en": "Hey.",
+            "ru_native": "Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0004",
+            "en": "Alex? You—how do you know Alex?",
+            "ru_native": "Алекс? Ты... откуда ты знаешь Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс? Ти… звідки ти знаєш Алекс?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0005",
+            "en": "Alex? You—how do you two know Alex?",
+            "ru_native": "Алекс? Ты... откуда вы знаете Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс? Ти… звідки ти знаєш Алекс?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0006",
+            "en": "Are you family?",
+            "ru_native": "Вы родственники?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви родичі?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0007",
+            "en": "Michael never mentioned a cousin or anything.",
+            "ru_native": "Майкл никогда не говорил, что у него есть двоюродная сестра.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Майкл ніколи не казав, що в нього є двоюрідна сестра."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0008",
+            "en": "Who are you?",
+            "ru_native": "Кто вы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто ви?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0009",
+            "en": "Well any very close friends would know you should ask pretty much anyone else for a favor.",
+            "ru_native": "Ну, если вы близкие друзья, то должны бы<br>знать, что меня вряд ли стоит о чем-то просить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, якщо ви друзі, то повинні знати, що мене навряд чи варто про щось просити."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0010",
+            "en": "There’s gonna be a small army of high schoolers here in like a half an hour—",
+            "ru_native": "Через полчаса сюда нагрянет отряд старшеклассников...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За півгодини сюди нагряне загін старшокласників…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0011",
+            "en": "—go ahead and ask them to do whatever this is.",
+            "ru_native": "... вот их и просите о чем угодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ось їх і просіть про що завгодно."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0012",
+            "en": "Well any very close friend would know you should ask pretty much anyone else for a favor.",
+            "ru_native": "Ну, если ты ее подруга, то должна бы знать, что меня вряд ли стоит о чем-то просить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, якщо ти її подруга, то мала б знати, що мене навряд чи варто про щось просити."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0013",
+            "en": "Well, let me tell you, I am the wrong person to ask to help Alex. Okay?",
+            "ru_native": "Что ж, объясню, я не та, кто будет помогать Алекс. Ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, поясню, я не та, хто допомагатиме Алекс. Зрозуміло?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0014",
+            "en": "So if you don’t know, now you know.",
+            "ru_native": "Так что если ты не знала, то теперь знаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож якщо ти не знала, то тепер знаєш."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0015",
+            "en": "Alright, well… if the conversation’s over… I’d like to get back to my doing nothing, now, if that’s okay with you.",
+            "ru_native": "Ну ладно... если разговор окончен... Я, пожалуй,<br>продолжу и дальше ничего не делать, если ты не против.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну гаразд… якщо розмова закінчена… Я, мабуть, продовжу й надалі байдикувати,<br>якщо ти не проти."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0016",
+            "en": "Okay. Well. It was nice meeting you. Psycho.",
+            "ru_native": "Ладно. Хорошо. Приятно было познакомиться. Чокнутая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Приємно було познайомитись. Навіжена."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0017",
+            "en": "Now, please just leave me alone—",
+            "ru_native": "А теперь оставь меня в покое...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер, прошу, дайте мені спокій…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0018",
+            "en": "…before I retrieve my mace from my side pocket.",
+            "ru_native": "...пока я перец из кармана не достала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…поки я газовий балончик із кишені не дістала."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0019",
+            "en": "No no no, I believe you. I’m sure you think you’re serious.",
+            "ru_native": "Нет-нет, я верю. Уверена, ты думаешь, что не шутишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, я вірю. Впевнена, що ти кажеш серйозно."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0020",
+            "en": "Now, please… just run along.",
+            "ru_native": "А теперь прошу… уходи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер прошу… залиште мене в спокої."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0021",
+            "en": "I believe that you believe you? Does that help?",
+            "ru_native": "Я верю, что ты себе веришь? Пойдет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вірю, що ти вважаєш, що кажеш правду? Підійде?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0022",
+            "en": "Oh, or else! That old chestnut—or else. Or else… what?",
+            "ru_native": "О, «иначе»! Старое доброе, куда ж без него. Иначе что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, «інакше»! Старе добре «інакше», куди ж без нього. Інакше, що?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0023",
+            "en": "What, are you gonna smack me across my face or something?",
+            "ru_native": "Ударишь меня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Удариш мене чи типу того?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0024",
+            "en": "Try it! My dad will get his lawyer friends to seize your freaking house by the time I eat lunch.",
+            "ru_native": "Попробуй! Мой отец со своими друзьями-адвокатами<br>отсудит у тебя дом раньше, чем я доем обед.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуй! Мій батько зі своїми друзями-адвокатами відсудить у тебе будинок раніше,<br>ніж я доїм обід."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0025",
+            "en": "Oh, uh… really? I… didn’t bring any, cause, you know… I’m on an island.",
+            "ru_native": "Эм, серьезно? Я его с собой не взяла... ну, мы же на острове.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, справді? Я… його із собою не взяла… ну ми ж на острові."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0026",
+            "en": "Uh, sorry, what is this—what is this about?",
+            "ru_native": "Прошу прощения... а зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перепрошую… а навіщо?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0027",
+            "en": "I’m meeting friends here in like a half an hour.",
+            "ru_native": "У меня тут встреча с друзьями через полчаса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За півгодини я тут із друзями зустрічаюся."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0028",
+            "en": "We’re gonna, uh, see the caves and shops real quick—",
+            "ru_native": "Мы собирались посмотреть на пещеры, пройтись по магазинам...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми збиралися подивитися на печери, пройтися швиденько по магазинах…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0029",
+            "en": "—and then head back.",
+            "ru_native": "...и домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і додому."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0030",
+            "en": "Ohhh, oh—that’s—that’s what that gate was for. Okay, okay.",
+            "ru_native": "А-а-а... так вот зачем эти ворота. Понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А-а-а… то ось навіщо ці ворота. Зрозуміло."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0031",
+            "en": "I’m sorry, I thought—I’m—I have a friend, Nona, who isn’t here, yet—",
+            "ru_native": "Простите, я подумала... Моя подруга Нона, она до сих пор не пришла...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, я подумала… Моя подруга Нона, вона й досі не прийшла…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0032",
+            "en": "And I was just nervous she’d gotten lost.",
+            "ru_native": "И я подумала, сто она могла потеряться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я переймаюся через те, що вона могла загубитися."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0033",
+            "en": "Yeah. That’s—okay, yeah, that’s why you came over.",
+            "ru_native": "Да. Тогда понятно, почему ты здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Тоді зрозуміло чому ти тут."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0034",
+            "en": "Crap.",
+            "ru_native": "Дерьмо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0035",
+            "en": "Uh… okay?",
+            "ru_native": "Хм, ладно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… гаразд?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0036",
+            "en": "That… cool?",
+            "ru_native": "Это... круто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Таке… підходить?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0037",
+            "en": "Okay, I’m just gonna… wait for my friends.",
+            "ru_native": "Ладно, я просто... друзей подожду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я просто… чекатиму на друзів."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0038",
+            "en": "I’m sorry.",
+            "ru_native": "Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробачте."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0039",
+            "en": "Can I just get like a warning or something?",
+            "ru_native": "Можно мне просто предупреждение?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи можемо ми просто обійтися попередженням чи щось таке?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0040",
+            "en": "This would be like… the second ticket I’ve gotten in a month.",
+            "ru_native": "Это будет уже... второй штраф за месяц.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо це буде вже… другий штраф за місяць."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0041",
+            "en": "Uh… okay.",
+            "ru_native": "Ну... ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… гаразд."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0042",
+            "en": "Huh.",
+            "ru_native": "Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0043",
+            "en": "You’re, uh, not really dressed like any cop I’ve seen before.",
+            "ru_native": "Что-то ты не очень похожа на копа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось ти не дуже схожа на копа."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0044",
+            "en": "You know, actually…",
+            "ru_native": "Знаешь, вообще-то...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, насправді…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0045",
+            "en": "I know my parents would be pretty pissed at me if I didn’t at least ask to see your badge.",
+            "ru_native": "Мои родители будут вне себя. если я не попрошу тебя показать значок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мої батьки будуть розлючені до нестями, якщо я не попрошу показати посвідчення."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0046",
+            "en": "And since we’re standing in a weird, dark cave…",
+            "ru_native": "И раз уж мы в странной, темной пещере...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І коли вже ми в дивній, темній печері…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0047",
+            "en": "I feel like it’s a fair question.",
+            "ru_native": "Думаю, это честный вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вважаю, що це розумне прохання."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0048",
+            "en": "So.",
+            "ru_native": "Так что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0049",
+            "en": "Can I see your identification?",
+            "ru_native": "Можно твой значок?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи можна подивитися на посвідчення?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0050",
+            "en": "Yeah, okay, weirdo.",
+            "ru_native": "Ладно, чокнутая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм, гаразд, чудило."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0051",
+            "en": "Eh… I’m getting strong enough stranger danger vibes, here, that without a badge…",
+            "ru_native": "Хм… Что-то тут нечисто, так что без значка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… Щось тут не те, усім тілом відчуваю, а ще без посвідчення…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0052",
+            "en": "I can’t really trust, uh, any of this.",
+            "ru_native": "Я тебе не могу поверить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не зможу тобі повірити."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0053",
+            "en": "Oh yeah? Yeah, that sucks. Man.",
+            "ru_native": "Правда? Да уж, отстой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді? Так, відстій. Дідько."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0054",
+            "en": "Well, unfortunately for you, I’m getting pretty strong stranger danger vibes here.",
+            "ru_native": "Что ж, к несчастью для тебя, чувствую, тут что-то нечисто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, на жаль, я всім тілом відчуваю, тут щось не так."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0055",
+            "en": "Oh yeah?",
+            "ru_native": "Правда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0056",
+            "en": "You don’t have one.",
+            "ru_native": "Нет у тебя значка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Немає в тебе посвідчення."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0057",
+            "en": "I—don’t, like, tell anyone, but… yeah. I have a small—I brought a small radio.",
+            "ru_native": "Я никому не говорила, но… да. У меня есть маленькое радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я нікому не говорила, але… так. У мене є маленьке радіо."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0058",
+            "en": "This guy Ren told me you could weird things in the caves with one?",
+            "ru_native": "Рен рассказал мне, что в пещерах можно поймать на радио разные странные штуки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рен розповів мені, що в печерах можна почути через радіо різні дивні речі."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0059",
+            "en": "It’s stupid, but… I thought I’d… try it out. Before anyone else got here.",
+            "ru_native": "Это глупо, но... Я решила… попробовать. Пока тут никого нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це безглуздо, але… Я вирішила… спробувати. Поки тут нікого немає."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0060",
+            "en": "If it doesn’t work, I don’t wanna look like I was… you know, like I was interested or anything.",
+            "ru_native": "Если не сработает, я не хочу выглядеть так, будто... я на что-то надеялась, понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо не спрацює, я не хочу виглядати так, ніби… я на щось сподівалася, розумієш."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0061",
+            "en": "But, uh...",
+            "ru_native": "Но, хм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0062",
+            "en": "What do you want me to do?",
+            "ru_native": "Что мне надо сделать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що мені потрібно зробити?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0063",
+            "en": "Listen… to… something, I’m guessing?",
+            "ru_native": "Кое-что… послушать, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось… послухати, так?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0064",
+            "en": "Test a frequency? Don’t you guys have, uh, like… the proper equipment to do this?",
+            "ru_native": "Проверить частоту? Разве у вас нет для этого... нужного оборудования?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевірити частоту? Хіба ви не маєте для цього… потрібного обладнання?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0065",
+            "en": "And what does the police have to do with a, uh, frequency or whatever?",
+            "ru_native": "И как связана полиция с, хм, радиочастотами?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І як пов’язана поліція з, гм, радіочастотами чи що там?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0066",
+            "en": "A fugitive took over a radio station? And you’re not just, uh, going over there?",
+            "ru_native": "Преступник захватил радиостанцию? Почему вы просто его там не схватите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Злочинець захопив радіостанцію? Чому ви його просто не схопите?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0067",
+            "en": "I’m sorry, this is… strange.",
+            "ru_native": "Прости, но это... странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але це… дивно."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0068",
+            "en": "And that’s it. Just tune to 101.1.",
+            "ru_native": "И все. Просто настройся на 101.1.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І все. Просто налаштуватися на 101.1."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0069",
+            "en": "So… bye now.",
+            "ru_native": "Ну… пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, бувай."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0070",
+            "en": "How… will I know that I’m doing it right?",
+            "ru_native": "Как… как я узнаю, что у меня получилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як… як я дізнаюся, що в мене вийшло?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0071",
+            "en": "Should I be looking out for something? Or…",
+            "ru_native": "Мне надо что-то найти? Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені треба щось шукати? Або…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0072",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0073",
+            "en": "No? Just… tune? Okay.",
+            "ru_native": "Нет? Просто... настроить? Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді? Просто… налаштуватися? Гаразд."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0074",
+            "en": "Did you… see something?",
+            "ru_native": "Ты... что-то видела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… щось бачила?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0075",
+            "en": "Huh?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0076",
+            "en": "I guess I hit the button or something—",
+            "ru_native": "Я, наверное, какую-то кнопку нажала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я, напевно, якусь кнопку натиснула…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0077",
+            "en": "Is this for Summerfest?",
+            "ru_native": "На «Летний фест»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На «Літній фест»?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0078",
+            "en": "Oh! Great. I, uh, I overslept when it went on sale—",
+            "ru_native": "О! Супер. Я как раз проспала их продажу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Супер. Я якраз проґавила їхній продаж…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0079",
+            "en": "Oh, two?",
+            "ru_native": "О, два?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, два?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0080",
+            "en": "I didn’t even think I’d get a signal in here.",
+            "ru_native": "Я даже не думала, что у меня тут будет ловить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я навіть не думала, що в мене тут ловитиме."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0081",
+            "en": "Great.",
+            "ru_native": "Супер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово."
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0082",
+            "en": "Hey, do you know where’s the, uh—",
+            "ru_native": "Эй, ты знаешь, где, хм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ти знаєш, де, гм…"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0083",
+            "en": "Um. Hello?",
+            "ru_native": "Эм. Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем. Агов?"
+        },
+        {
+            "tag": "A3S5.TALCLA_CLARISSA_0084",
+            "en": "Is this for All You Can Rock Buffet?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это для All You Can Rock Buffet?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це для рок-буфета «Все, що зможеш»?"
+        },
+        {
+            "tag": "A3S5.TALCLA_JACOB_0000",
+            "en": "Time travelers.",
+            "ru_native": "Путешественники во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми мандрівники в часі."
+        },
+        {
+            "tag": "A3S5.TALCLA_JACOB_0001",
+            "en": "We, uh, our badges are still being made. We’re pretty new.",
+            "ru_native": "Нам сейчас меняют значки. Новые пока не готовы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам зараз змінюють посвідчення на нові. І вони поки що не готові."
+        },
+        {
+            "tag": "A3S5.TALCLA_JACOB_0002",
+            "en": "Oh God.",
+            "ru_native": "О боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи."
+        },
+        {
+            "tag": "A3S5.TALCLA_RADIO_0000",
+            "en": "—attention, attention, yes, hello, hi—Hi!",
+            "ru_native": "...внимание, внимание, да, алло, привет... Привет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…увага, увага, так, агов, привіт… Привіт!"
+        },
+        {
+            "tag": "A3S5.TALCLA_RADIO_0001",
+            "en": "Uh, hi everyone! We are having a contest… on this radio station—101.1—",
+            "ru_native": "Эм, всем привет! У нас конкурс... на радиостанции 101.1...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, усім привіт! У нас конкурс… на радіостанції 101.1…"
+        },
+        {
+            "tag": "A3S5.TALCLA_RADIO_0002",
+            "en": "—giving our listeners a golden opportunity to win, uh, you know, tickets… to something.",
+            "ru_native": "...и у наших слушателей есть уникальный шанс выиграть, эм, ну, билеты на... кое-что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і наші слухачі мають унікальний шанс виграти, ем, ну, квитки на… дещо."
+        },
+        {
+            "tag": "A3S5.TALCLA_RADIO_0003",
+            "en": "—four VIP passes to Summerfest! The, uh, sold-out all-day concert.",
+            "ru_native": "...VIP-проходки на «Летний фест»! Все билеты уже раскуплены.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…VIP-перепустки на «Літній фест»! Усі квитки вже продані."
+        },
+        {
+            "tag": "A3S5.TALCLA_RADIO_0004",
+            "en": "Yes, knowing our listeners, they probably missed out, so if you just stay on this station—",
+            "ru_native": "Да, многие из наших слушателей наверняка не<br>успели их купить, так что оставайтесь с нами...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, багато наших слухачів напевно не встигли їх купити, тож залишайтеся з нами…"
+        },
+        {
+            "tag": "A3S5.TALCLA_RADIO_0005",
+            "en": "—and be caller number, uh, whatever, you’ll get two VIP tickets to Summerfest!",
+            "ru_native": "...и тот, кто к нам дозвонится, получит два VIP-билета на «Летний Фест»!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і той, хто до нас додзвониться, отримає два VIP-квитки на «Літній Фест»!"
+        },
+        {
+            "tag": "A3S5.TALCLA_RADIO_0006",
+            "en": "Four. I mean four.",
+            "ru_native": "Четыре. То есть четыре.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чотири. Перепрошую, чотири."
+        },
+        {
+            "tag": "A3S5.TALCLA_RADIO_0007",
+            "en": "— four VIP passes to All You Can Rock Buffet! The, uh, sold-out all day concert.",
+            "ru_native": "",
+            "ru_machine": "DEEPL - четыре VIP-пропуска на концерт All You Can Rock Buffet! Проданный концерт на весь день.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…чотири VIP-перепустки на рок-буфет «Все, що зможеш»!<br>Усі квитки на цілоденний концерт уже продані."
+        },
+        {
+            "tag": "A3S5.TALCLA_RADIO_0008",
+            "en": "— and be caller number, uh, whatever, you’ll get two VIP tickets to All You Can Rock Buffet!",
+            "ru_native": "",
+            "ru_machine": "DEEPL - и стань номером звонящего, хм, неважно, ты получишь два VIP-билета на All You Can Rock Buffet!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і той, хто до нас додзвониться, отримає два VIP-квитки<br>на рок-буфет «Все, що зможеш»!"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0000",
+            "en": "Uh… Hi.",
+            "ru_native": "Эм... Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Привіт."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0001",
+            "en": "Look… Alex sent me to ask you to please tune your radio to 101.1 in a few minutes.",
+            "ru_native": "Слушай... Алекс просила, чтобы ты через пару минут настроила радио на частоту 101.1.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай… Алекс просила, щоби через пару хвилин ти налаштувала радіо на частоту 101.1."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0002",
+            "en": "She says it’s really important.",
+            "ru_native": "Она говорит, это очень важно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона каже, це дуже важливо."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0003",
+            "en": "Look… Alex sent us to ask you to please tune your radio to 101.1 in a few minutes.",
+            "ru_native": "Слушай... Алекс просила, чтобы ты через пару минут настроила радио на частоту 101.1.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай… Алекс просила, щоби через пару хвилин ти налаштувала радіо на частоту 101.1."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0004",
+            "en": "We’re her friends. Alright? Two very close friends, and you—",
+            "ru_native": "Мы ее друзья. Два очень близких друга, а ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми — її друзі. Гаразд? Два дуже близькі друга, а ти…"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0005",
+            "en": "I’m a friend. Alright? A very close friend, and you—",
+            "ru_native": "Я подруга. Очень близкая подруга Алекс, а ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — її подруга. Гаразд? Дуже близька подруга, а ти…"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0006",
+            "en": "We’re just… helping her out, we don’t actually know her that well. But, look—this is—",
+            "ru_native": "Мы просто… ей помогаем, мы на самом деле едва знакомы. Но послушай... это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми просто… їй допомагаємо, насправді, ми ледь знайомі. Але послухай… це…"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0007",
+            "en": "I’m just helping her out, I don’t know her that well. But, look—this—",
+            "ru_native": "Я просто… ей помогаю, мы на самом деле едва знакомы. Но послушай... это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто… їй допомагаю, насправді, ми ледь знайомі. Але послухай… це…"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0008",
+            "en": "Listen, it—it doesn’t really matter how I know her, we just have to—",
+            "ru_native": "Слушай... неважно, откуда я ее знаю, нам просто надо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай… це не має значення, звідки я її знаю, нам просто потрібно…"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0009",
+            "en": "So… here’s the thing. I don’t like beating around the bush, or wasting people’s time.",
+            "ru_native": "Тут… такое дело. Не стану ходить вокруг да около и тратить время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут така справа. Не стану ходити довкола й марнувати час."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0010",
+            "en": "We’re time travelers.",
+            "ru_native": "Мы путешественники во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми мандрівники в часі."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0011",
+            "en": "I know. Your mind is blown.",
+            "ru_native": "Знаю. Ты в шоке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю. Ти шокована."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0012",
+            "en": "I’m a time traveler. Yes. A time traveler. I know. Your mind is blown.",
+            "ru_native": "Я путешествую во времени. Да. Во времени. Знаю, ты в шоке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я мандрівник у часі. Так. Я мандрую в часі. Знаю, ти в шоці."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0013",
+            "en": "But I really need you to tune your radio to 101.1 in like a minute or so.",
+            "ru_native": "Но мне правда очень нужно, чтобы ты настроилась на 101.1 где-то через минуту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але мені правда дуже потрібно, щоби ти налаштувала радіо на 101.1 десь за хвилину."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0014",
+            "en": "And that’s it. Okay? Please just say okay.",
+            "ru_native": "Вот и все. Ладно? Пожалуйста, просто скажи «ладно».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От і все. Гаразд? Будь ласка, просто скажи «добре»."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0015",
+            "en": "I could not be more serious.",
+            "ru_native": "Я не шучу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не шуткую."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0016",
+            "en": "Your friend is in extreme danger, okay? It’s really important that you believe me here.",
+            "ru_native": "Твоя подруга в большой опасности? Очень важно, чтобы ты мне поверила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя подруга у великій небезпеці, гаразд? Дуже важливо, щоби ти мені повірила."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0017",
+            "en": "Look, I don’t want to get, uh, like this, but… you need to do what I’m asking here… or else.",
+            "ru_native": "Слушай, я не хочу до этого доводить, но... тебе надо сделать, как я скажу... иначе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, не хочу до цього доводити, але… тобі треба зробити так, як я скажу… інакше."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0018",
+            "en": "Listen, uh, ma’am, we’re police officers.",
+            "ru_native": "Послушай, мы из полиции.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, мадам, ми з поліції."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0019",
+            "en": "Listen, uh, ma’am, I’m a police officer.",
+            "ru_native": "Послушай, я из полиции.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, мадам, я з поліції."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0020",
+            "en": "Can I see your I.D.?",
+            "ru_native": "Покажи свой паспорт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Покажіть паспорт?"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0021",
+            "en": "You aren’t allowed on this part of the island.",
+            "ru_native": "Эта часть острова закрыта.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На цій частині острова не можна перебувати."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0022",
+            "en": "The caves are fenced off for a reason.",
+            "ru_native": "Пещеры не просто так огорожены.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Печери не просто так огороджені."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0023",
+            "en": "Uh, I’m sorry, but I’m sure you know it’s against the law for minors to be smoking.",
+            "ru_native": "Прошу прощения, но уверена, ты в курсе, что детям курить противозаконно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перепрошую, але впевнена, ти в курсі, що неповнолітнім палити не можна за законом."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0024",
+            "en": "Even if you’re gonna hide out in a cave to do it.",
+            "ru_native": "Даже если спрятаться в пещере.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть якщо сховатися в печері."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0025",
+            "en": "Listen, do you have a portable radio? If you have a portable radio, you can really help me out.",
+            "ru_native": "Слушай, у тебя есть портативное радио? Если есть, ты бы меня очень выручила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, у тебе є портативне радіо? Якщо так, ти б мені дуже допомогла."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0026",
+            "en": "That’s okay, it’s fine, let’s, uh, trade favors.",
+            "ru_native": "Все нормально, давай, эм, договоримся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, давай, ем, домовимось."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0027",
+            "en": "If you have a portable radio, you can really help me out.",
+            "ru_native": "Если у тебя есть портативное радио, ты бы меня очень выручила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо маєш портативне радіо, ти б мені дуже допомогла."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0028",
+            "en": "It’s okay, just… please leave the premises. It’s not, uh, safe right now.",
+            "ru_native": "Ничего страшного, просто... покинь территорию, пожалуйста. Тут небезопасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого страшного, просто… покинь територію, будь ласка. Тут небезпечно."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0029",
+            "en": "Yeah, the force uses this new kind of, uh… plastic… that’s basically invisible, so…",
+            "ru_native": "Слушай, у нас теперь новые, пластиковые... почти прозрачные, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, у нас тепер нові, пластикові… майже прозорі, тож…"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0030",
+            "en": "—I don’t really think in this light—",
+            "ru_native": "При таком свете его почти не видно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "При такому освітлені його майже не видно."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0031",
+            "en": "Listen, I don’t need a badge. Alright?",
+            "ru_native": "Слушай, значок мне не нужен. Ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, посвідчення мені не потрібне. Гаразд?"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0032",
+            "en": "You just need to believe me when I tell you what’s going on here.",
+            "ru_native": "Просто поверь моим словам о том, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто повір мені, коли розповім про те, що відбувається."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0033",
+            "en": "Uh, oh yeah, I’m—what an idiot, I totally forgot it at the, uh—back at the station.",
+            "ru_native": "Ох блин, вот я идиотка, я ж его в участке забыла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, так, ось я ідіотка, я ж його… у відділку забула."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0034",
+            "en": "We need you to, uh, test a certain frequency.",
+            "ru_native": "Нам надо, чтобы ты, эм, проверила одну частоту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам потрібно, щоби ти, ем, перевірила одну частоту."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0035",
+            "en": "101.1. If you could just tune your radio to that, uh, that signal…",
+            "ru_native": "101.1. Если сможешь настроить свое радио на этот сигнал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо зможеш, налаштуй своє радіо на 101.1."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0036",
+            "en": "There’s a… fugitive… on the loose, and we believe they have commandeered a radio station.",
+            "ru_native": "Один преступник... сбежал, и мы думаем, что он захватил радиостанцию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Один злочинець… утік, і ми вважаємо, що він захопив радіостанцію."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0037",
+            "en": "Yeah, it’s easy. Just tune to this station. 101.1. In, like, a minute or so.",
+            "ru_native": "Да, это просто. Просто настройся на эту частоту. 101.1. Примерно через минуту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це нескладно. Просто налаштуйся на цю частоту. 101.1. Приблизно за хвилину."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0038",
+            "en": "Oh, trust me. You’ll know you’re doing it right.",
+            "ru_native": "О, поверь мне. Ты сама поймешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, повір мені. Ти сама зрозумієш, коли вийде."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0039",
+            "en": "Oh, uh, don’t worry about it. As long as you’re on that station, you’re helping.",
+            "ru_native": "О, об этом не волнуйся. Тебе надо просто оставаться на этой частоте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, про це не хвилюйся. Тобі треба просто залишатися на цій частоті."
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0040",
+            "en": "Uh, sounds good! See you around, kid!",
+            "ru_native": "О, отлично! До встречи, детка!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, чудово! До зустрічі, мала!"
+        },
+        {
+            "tag": "A3S5.TALCLA_RILEY_0041",
+            "en": "You couldn’t have pulled this trick earlier?",
+            "ru_native": "Нельзя было раньше так сделать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А не можна було так одразу зробити?"
+        }
+    ]
+}

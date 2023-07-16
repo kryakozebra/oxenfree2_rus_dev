@@ -1,0 +1,600 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S7.SPOBRI",
+    "entries": [
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0000_OPTION_0000",
+            "en": "I knew it!",
+            "ru_native": "Я так и знала!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я так і знала!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0000_OPTION_0001",
+            "en": "No way.",
+            "ru_native": "Ни за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні за що."
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0000_OPTION_0002",
+            "en": "Oh c’mon!",
+            "ru_native": "Нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, та годі тобі!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0001_OPTION_0000",
+            "en": "Oh boy.",
+            "ru_native": "Дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, господи."
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0001_OPTION_0001",
+            "en": "I don’t think we should.",
+            "ru_native": "Не думаю, что стоит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що нам варто."
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0001_OPTION_0002",
+            "en": "Okay…",
+            "ru_native": "Ладно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд…"
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0002_OPTION_0000",
+            "en": "Sorry, no.",
+            "ru_native": "Нет, извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, вибач…"
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0002_OPTION_0001",
+            "en": "Okay, but quick!",
+            "ru_native": "Ладно, но быстро!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд. Але швидко!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0003_OPTION_0000",
+            "en": "Today’s not the day.",
+            "ru_native": "Не сегодня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні не той день."
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0003_OPTION_0001",
+            "en": "Let’s keep today a good day.",
+            "ru_native": "Пусть этот день будет хорошим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нехай цей день залишається хорошим."
+        },
+        {
+            "tag": "A3S7.SPOBRI_CHOICE_0003_OPTION_0002",
+            "en": "What do you want to know?",
+            "ru_native": "Что ты хочешь знать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти хочеш знати?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0000",
+            "en": "Okay, so… it requires a radio.",
+            "ru_native": "Итак. Для штуки нужно радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, отже… потрібне радіо"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0001",
+            "en": "But before you yell at me—",
+            "ru_native": "Стой, не ругайся...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але перш ніж ти почнеш репетувати…"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0002",
+            "en": "—this’ll be super quick and super cool.",
+            "ru_native": "Это супербыстро и суперклево.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…це буде супершвидко й суперкласно."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0003",
+            "en": "So… don’t worry about it.",
+            "ru_native": "Так что не боись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… не хвилюйся про це."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0004",
+            "en": "This will be fun! And then we can go, uh, walk and see trees. Okay?",
+            "ru_native": "Будет весело! А потом пойдем гулять и смотреть на деревья. Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буде весело! А потім підемо гуляти й милуватися деревами. Гаразд?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0005",
+            "en": "C’mon!",
+            "ru_native": "Ну нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0006",
+            "en": "We’re… okay… she said to stand at the fourteenth plank. Which… I think it’s here.",
+            "ru_native": "Короче... Она сказала встать у четырнадцатой планки. Кажется, здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… гаразд… вона сказала стати біля чотирнадцятої дошки. Здається, це тут."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0007",
+            "en": "Now… if you just tune to 93.7 on our radio… something will… happen.",
+            "ru_native": "Если ты настроишь радио на частоту 93.7, что-то произойдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… якщо налаштувати радіо на частоту 93.7… щось станеться."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0008",
+            "en": "Don’t ask me what.",
+            "ru_native": "Не спрашивай, что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не питай у мене, що саме."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0009",
+            "en": "Everyone just says it’s cool.",
+            "ru_native": "Говорят, там что-то крутое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі кажуть, щось класне."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0010",
+            "en": "I really wanna do it.",
+            "ru_native": "Очень сильно хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "I справді хочу."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0011",
+            "en": "[over her] I know you’re weird about radios or whatever but this won’t take longer than, like, ten seconds!",
+            "ru_native": "Знаю, у тебя пунктик на радио и все такое, но это займет всего десять секунд!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перебиваючи її] Знаю, у тебе якась фобія, пов’язана з радіо,<br>але це забере лише десять секунд!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0012",
+            "en": "Yay!",
+            "ru_native": "Ура!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ура!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0013",
+            "en": "Pleeeease?",
+            "ru_native": "Пожалуйста?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь лаааасочка?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0014",
+            "en": "Pretty pretty please?",
+            "ru_native": "Пожалуйста-пожалуйста?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка-будь ласка?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0015",
+            "en": "With lots of extra sugar on top?",
+            "ru_native": "Пожалуйста с сахаром?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка із цукром?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0016",
+            "en": "And sprinkles?",
+            "ru_native": "И посыпкой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І посипкою?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0017",
+            "en": "And… chocolate?",
+            "ru_native": "И шоколадом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… шоколадом?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0018",
+            "en": "Awesome!",
+            "ru_native": "Круть!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фантастика!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0019",
+            "en": "So it’s 93.7.",
+            "ru_native": "Частота 93.7.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, частота 93.7."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0020",
+            "en": "I think…",
+            "ru_native": "Кажется...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю…"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0021",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0022",
+            "en": "It’s—it’s 93.7? It’s one of the, uh, the standard ones.",
+            "ru_native": "Частота 93.7? Одна из стандартных.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Частота 93.7? Це одна зі стандартних."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0023",
+            "en": "Okay, haha… this is a joke.",
+            "ru_native": "Ясно, ха-ха. Смешная шутка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ха-ха… це жарт."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0024",
+            "en": "93.7! This will only take one minute!",
+            "ru_native": "93.7! Займет всего минуту!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "93.7! Це забере лише хвилину!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0025",
+            "en": "Well I already went to the bathroom so I can stand here all day.",
+            "ru_native": "Я-то сходил в туалет, так что могу прождать хоть весь день.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, я вже сходив у туалет, так що можу чекати цілий день."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0026",
+            "en": "93.7. I can wait.",
+            "ru_native": "93.7. Я подожду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "93.7. Я можу почекати."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0027",
+            "en": "But why not today?",
+            "ru_native": "Почему не сегодня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але чому не сьогодні?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0028",
+            "en": "I feel like you never tell me anything.",
+            "ru_native": "Ты мне никогда ничего не говоришь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мені ніколи нічого не говориш."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0029",
+            "en": "Fiiiiine.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарааааазд."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0030",
+            "en": "Okay, okay, you convinced me. Nevermind.",
+            "ru_native": "Ладно, убедила. Проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд, твоя взяла. Не зважай."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0031",
+            "en": "I don’t know. Nothing… I guess.",
+            "ru_native": "Не знаю. Видимо, ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Мабуть, нічого."
+        },
+        {
+            "tag": "A3S7.SPOBRI_REX_0032",
+            "en": "[sigh] But, ugh, whatever.",
+            "ru_native": "Ладно, пофиг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Та все вже, проїхали."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0000",
+            "en": "I knew it! I knew it!",
+            "ru_native": "Я знала! Я так и знала!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знала! Я знала!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0001",
+            "en": "[laughs] No way, kid. Sorry. Nuh-uh.",
+            "ru_native": "Ни за что, приятель. Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Нізащо, друже. Вибачай. Не-а."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0002",
+            "en": "Oh c’mon! I said no radios!",
+            "ru_native": "Нет! Никакого радио!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, та годі тобі! Я ж сказала, жодного радіо!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0003",
+            "en": "Oh boy, uh…",
+            "ru_native": "Дела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, господи…"
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0004",
+            "en": "—is this something you really want to do or just… kinda sorta don’t really care wanna do?",
+            "ru_native": "Слушай, ты этого очень сильно хочешь или типа хочешь, но не особо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ти справді цього хочеш чи, типу, хочеш, але не дуже?"
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0005",
+            "en": "Eh, Rex, I…",
+            "ru_native": "Рекс, я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, Рексе, я…"
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0006",
+            "en": "Um… okay.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, ну гаразд."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0007",
+            "en": "Okay, okay. But quick!",
+            "ru_native": "Ладно. Только быстро!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд. Але швидко!"
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0008",
+            "en": "Sorry… but no, I don’t think so.",
+            "ru_native": "Извини, но нет. Не думаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач… але ні, я так не думаю."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0009",
+            "en": "But anything else you wanna do, I am… totally game for. Completely.",
+            "ru_native": "Но я полностью согласна на любое другое занятие. Зуб даю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я обома руками за все інше, що хочеш зробити. Повністю підтримую."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0010",
+            "en": "Just not this. And… I’ll explain it to you one day… I promise.",
+            "ru_native": "Только не это. Когда-нибудь я объясню, обещаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки не це… Коли-небудь поясну, чому… Обіцяю."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0011",
+            "en": "Just… just not today.",
+            "ru_native": "Но... не сегодня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… не сьогодні."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0012",
+            "en": "Today’s just… not the day for that.",
+            "ru_native": "Просто сегодня... не подходящий день.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні просто… не той день."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0013",
+            "en": "Today can be anything else. Just not that.",
+            "ru_native": "Сегодня можно все, кроме этого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні можемо робити що завгодно. Тільки не це."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0014",
+            "en": "Because we should just keep today… a good day.",
+            "ru_native": "Сегодняшний день должен остаться хорошим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо сьогоднішній день має залишитись… хорошим."
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0015",
+            "en": "And the story I have to tell you is a really long one…",
+            "ru_native": "А эта история очень, очень долгая...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ця історія дуже довга…"
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0016",
+            "en": "And I know how much you love your mom’s really long stories…",
+            "ru_native": "И я знаю, как ты любишь долгие мамины истории...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я знаю, як сильно ти любиш довгі мамині історії…"
+        },
+        {
+            "tag": "A3S7.SPOBRI_RILEY_0017",
+            "en": "Well… what do you want to know?",
+            "ru_native": "Что именно ты хочешь знать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж… Що ти хочеш знати?"
+        }
+    ]
+}

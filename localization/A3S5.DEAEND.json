@@ -1,0 +1,186 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.DEAEND",
+    "entries": [
+        {
+            "tag": "A3S5.DEAEND_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.DEAEND_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, dead end.",
+            "ru_native": "Да, тупик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, глухий кут."
+        },
+        {
+            "tag": "A3S5.DEAEND_CHOICE_0000_OPTION_0001",
+            "en": "Mm. Weird.",
+            "ru_native": "Хм-м, странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мм. Дивно."
+        },
+        {
+            "tag": "A3S5.DEAEND_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.DEAEND_CHOICE_0001_OPTION_0000",
+            "en": "Wait… now what?",
+            "ru_native": "Стоп, что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зажди… і що тепер?"
+        },
+        {
+            "tag": "A3S5.DEAEND_CHOICE_0001_OPTION_0001",
+            "en": "Dead end?",
+            "ru_native": "Тупик?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Глухий кут?"
+        },
+        {
+            "tag": "A3S5.DEAEND_CHOICE_0001_OPTION_0002",
+            "en": "Alex!?",
+            "ru_native": "Алекс?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс?!"
+        },
+        {
+            "tag": "A3S5.DEAEND_JACOB_0000",
+            "en": "Okay… there… doesn’t seem to be a… continuation?",
+            "ru_native": "Так. Кажется, тут нет... продолжения?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… е… здається, продовження не буде?.."
+        },
+        {
+            "tag": "A3S5.DEAEND_JACOB_0001",
+            "en": "Or however we’re calling these… roads?",
+            "ru_native": "Или как там назвать эти... дороги?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або як же ми називаємо ці… дороги?"
+        },
+        {
+            "tag": "A3S5.DEAEND_JACOB_0002",
+            "en": "There should be a way… right?",
+            "ru_native": "Тут ведь должен быть путь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повинен бути інший шлях… чи не так?"
+        },
+        {
+            "tag": "A3S5.DEAEND_JACOB_0003",
+            "en": "Or am I missing something obvious…",
+            "ru_native": "Или я не замечаю очевидного?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або я не розумію чогось очевидного…"
+        },
+        {
+            "tag": "A3S5.DEAEND_JACOB_0004",
+            "en": "Alright, let’s just figure out what we’re not seeing yet.",
+            "ru_native": "Попробуем понять, что именно мы не замечаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, давай просто з’ясуємо, чого ми не помічаємо."
+        },
+        {
+            "tag": "A3S5.DEAEND_RILEY_0000",
+            "en": "Yeah, looks like a dead end.",
+            "ru_native": "Да, похоже на тупик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, схоже на глухий кут."
+        },
+        {
+            "tag": "A3S5.DEAEND_RILEY_0001",
+            "en": "Who knew nothingness could get even more bleak.",
+            "ru_native": "Оказалось, небытие может быть еще мрачнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто знав, що «ніщо» може стати ще похмурішим."
+        },
+        {
+            "tag": "A3S5.DEAEND_RILEY_0002",
+            "en": "Mm, that’s… weird, you’re right.",
+            "ru_native": "Хм-м, странно, ты прав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мм, це… дивно, твоя правда."
+        },
+        {
+            "tag": "A3S5.DEAEND_RILEY_0003",
+            "en": "Not that you being right is the weird part but our, uh, current predicament is weird.",
+            "ru_native": "Не в смысле «странно, что ты прав», а в смысле «ситуация странная».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно не те, що твоя правда, а дивним є наше теперішнє скрутне становище."
+        },
+        {
+            "tag": "A3S5.DEAEND_RILEY_0004",
+            "en": "[to herself] Oh… wait. What? Where is the… way?",
+            "ru_native": "Стоп, что? А где... путь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] О… зачекай. Що? Куди йти?.."
+        },
+        {
+            "tag": "A3S5.DEAEND_RILEY_0005",
+            "en": "[to herself] Huh. Is this a dead end?",
+            "ru_native": "Хм. Это тупик?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Уф. Це що, глухий кут?"
+        },
+        {
+            "tag": "A3S5.DEAEND_RILEY_0006",
+            "en": "[calling out] Alex?! Are you… out there somewhere?",
+            "ru_native": "Алекс?! Ты где-то там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[гукає] Алекс?! Ти… десь там?"
+        },
+        {
+            "tag": "A3S5.DEAEND_RILEY_0007",
+            "en": "[to herself] Cause you didn’t exactly leave me a map…",
+            "ru_native": "Потому что карты ты мне не оставила...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Бо ти не залишила мені точну карту…"
+        }
+    ]
+}

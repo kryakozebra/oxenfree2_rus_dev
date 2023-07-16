@@ -1,0 +1,330 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.2056PE",
+    "entries": [
+        {
+            "tag": "A3S5.2056PE_ALEX_0000",
+            "en": "Don’t talk to him. I mean it.",
+            "ru_native": "Не говори с ним. Я серьезно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не розмовляй із ним. Я серйозно."
+        },
+        {
+            "tag": "A3S5.2056PE_ALEX_0001",
+            "en": "I think I got it.",
+            "ru_native": "Думаю, поняла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене все під контролем."
+        },
+        {
+            "tag": "A3S5.2056PE_ALEX_0002",
+            "en": "Or—close to it.",
+            "ru_native": "Или почти поняла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або майже все."
+        },
+        {
+            "tag": "A3S5.2056PE_ALEX_0003",
+            "en": "I’m sure you got questions, but…",
+            "ru_native": "Знаю, у тебя много вопросов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, у тебе багато запитань, але…"
+        },
+        {
+            "tag": "A3S5.2056PE_ALEX_0004",
+            "en": "Just—we need to go, Riley.",
+            "ru_native": "Но нам нужно идти, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але нам треба йти далі, Райлі."
+        },
+        {
+            "tag": "A3S5.2056PE_ALEX_0005",
+            "en": "I know that’s frustrating to hear. But… eventually it won’t be.",
+            "ru_native": "Понимаю, слышать такое не очень приятно. Но это пройдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумію, чути таке не дуже приємно. Але… згодом це минеться."
+        },
+        {
+            "tag": "A3S5.2056PE_ALEX_0006",
+            "en": "C’mon, left then right.",
+            "ru_native": "Идем, левой-правой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нумо, лівою-правою."
+        },
+        {
+            "tag": "A3S5.2056PE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.2056PE_CHOICE_0000_OPTION_0000",
+            "en": "Just a little lost.",
+            "ru_native": "Мы заблудились.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто трохи орієнтир втратився."
+        },
+        {
+            "tag": "A3S5.2056PE_CHOICE_0000_OPTION_0001",
+            "en": "Leave us alone.",
+            "ru_native": "Отстань.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчепися."
+        },
+        {
+            "tag": "A3S5.2056PE_CHOICE_0000_OPTION_0002",
+            "en": "You look familiar.",
+            "ru_native": "Выглядишь знакомо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоє обличчя мені знайоме."
+        },
+        {
+            "tag": "A3S5.2056PE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.2056PE_CHOICE_0001_OPTION_0000",
+            "en": "Was that Rex?",
+            "ru_native": "Это был Рекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То був Рекс?"
+        },
+        {
+            "tag": "A3S5.2056PE_CHOICE_0001_OPTION_0001",
+            "en": "Where are we going?",
+            "ru_native": "Куда мы перенесемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди ми перенесемося?"
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0000",
+            "en": "Uh, what are you doing out here? This area is closed to visitors at this time of night.",
+            "ru_native": "Ты что здесь делаешь? Эта зона закрыта для посетителей в такое время ночи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти там робиш? Ця зона закрита для відвідувачів уночі в такий час."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0001",
+            "en": "I don’t see any fishing gear on you so… I’d figure out an answer.",
+            "ru_native": "Удочки я у тебя не вижу, так что вывод напрашивается...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вудки я в тебе не бачу, тож… висновок напрошується сам собою."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0002",
+            "en": "A good one.",
+            "ru_native": "Очевидный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Очевидний."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0003",
+            "en": "And a quick one.",
+            "ru_native": "И простой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І простий."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0004",
+            "en": "We? You’re the only one I’m seeing, miss.",
+            "ru_native": "Мы? Дамочка, ты тут одна стоишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми? Міс, ти тут одна."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0005",
+            "en": "But—I’m sorry…",
+            "ru_native": "Но... Прости...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Вибачте…"
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0006",
+            "en": "Yeah, try again, tough guy.",
+            "ru_native": "О, у нас тут крутышка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж, спробуй ще раз, міцний горішок."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0007",
+            "en": "Wait—actually…",
+            "ru_native": "Стоп. Вообще-то...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай. Взагалі то…"
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0008",
+            "en": "Why do… you?",
+            "ru_native": "А мне твое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти…"
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0009",
+            "en": "Uh, hello? Are you—on something?",
+            "ru_native": "Прием? Ты под кайфом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, агов? Ти під чимось?"
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0010",
+            "en": "You… remind me of someone.",
+            "ru_native": "Ты мне кого-то напоминаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… мені когось нагадуєш."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0011",
+            "en": "But you can’t—this isn’t the right time.",
+            "ru_native": "Но ты не... Нет... Не то время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ти не… Ні… Зараз не той час."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0012",
+            "en": "Wait—she mentioned this might happen.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди - она упоминала, что такое может случиться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0013",
+            "en": "And to just walk away if it did. Heh, not hard for either of us historically.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И просто уйти, если это произошло. Хех, исторически ни для кого из нас это не сложно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0014",
+            "en": "Watch your step out there… Miss.",
+            "ru_native": "Осторожнее там... Мисс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обережніше там… Міс."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0015",
+            "en": "Wait… oh. Got it. You’re… okay.",
+            "ru_native": "Погоди... Я понял. Ты... Ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекай… о. Зрозумів. Ти… з тобою все гаразд."
+        },
+        {
+            "tag": "A3S5.2056PE_MIDDLEAGEDREX_0016",
+            "en": "Have a good night. Make it count.",
+            "ru_native": "Доброй ночи. Постарайся там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На добраніч. Нехай усе вдасться."
+        },
+        {
+            "tag": "A3S5.2056PE_RILEY_0000",
+            "en": "Uh, we're just a little turned around. We’ll be—gone soon?",
+            "ru_native": "Мы просто немного заплутали. Мы скоро уйдем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми просто трохи заблукали. Ми скоро підемо."
+        },
+        {
+            "tag": "A3S5.2056PE_RILEY_0001",
+            "en": "Just keep walking, okay?",
+            "ru_native": "Иди куда шел, понял?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто йди далі, гаразд?"
+        },
+        {
+            "tag": "A3S5.2056PE_RILEY_0002",
+            "en": "Why do you look familiar?",
+            "ru_native": "Твое лицо мне знакомо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоє обличчя мені знайоме…"
+        },
+        {
+            "tag": "A3S5.2056PE_RILEY_0003",
+            "en": "That was Rex, wasn’t it?",
+            "ru_native": "Это был Рекс, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То був Рекс, так?"
+        },
+        {
+            "tag": "A3S5.2056PE_RILEY_0004",
+            "en": "Where exactly are you taking us?",
+            "ru_native": "Куда ты хочешь нас перенести?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди саме ти хочеш нас перенести?"
+        }
+    ]
+}

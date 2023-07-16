@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.CLIAN2",
+    "entries": [
+        {
+            "tag": "GLOB.CLIAN2_JACOB_0000",
+            "en": "Oh. Goodie.",
+            "ru_native": "Блестяще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Клас!"
+        },
+        {
+            "tag": "GLOB.CLIAN2_RILEY_0000",
+            "en": "Ah, another anchor. See?",
+            "ru_native": "Еще один якорь. Видишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іще один карабін. Бачиш?"
+        },
+        {
+            "tag": "GLOB.CLIAN2_RILEY_0001",
+            "en": "We can climb down from here.",
+            "ru_native": "Мы можем здесь спуститься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можемо спуститися звідси."
+        }
+    ]
+}

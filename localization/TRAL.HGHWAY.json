@@ -1,0 +1,96 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "TRAL.HGHWAY",
+    "entries": [
+        {
+            "tag": "TRAL.HGHWAY_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "TRAL.HGHWAY_CHOICE_0000_OPTION_0000",
+            "en": "Oh. Thanks.",
+            "ru_native": "О. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, дякую."
+        },
+        {
+            "tag": "TRAL.HGHWAY_CHOICE_0000_OPTION_0001",
+            "en": "Did I ask you?",
+            "ru_native": "Я тебя спросила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я в тебе питала?"
+        },
+        {
+            "tag": "TRAL.HGHWAY_JACOB_0000",
+            "en": "Yeah, I wouldn't head in there if I were you.",
+            "ru_native": "Я бы на твоем месте туда не ходил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б на твоєму місці туди не ходив."
+        },
+        {
+            "tag": "TRAL.HGHWAY_JACOB_0001",
+            "en": "It just leads to the underpass, and the highway.",
+            "ru_native": "Там только подземный переход и шоссе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там всього-на-всього підземний перехід, а потім шосе."
+        },
+        {
+            "tag": "TRAL.HGHWAY_JACOB_0002",
+            "en": "Unsafe for pedestrians.",
+            "ru_native": "Небезопасно для пешеходов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це небезпечно для пішоходів."
+        },
+        {
+            "tag": "TRAL.HGHWAY_JACOB_0003",
+            "en": "You know?",
+            "ru_native": "Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш?"
+        },
+        {
+            "tag": "TRAL.HGHWAY_JACOB_0004",
+            "en": "Don't blame me when you get pancaked…",
+            "ru_native": "Тогда не жалуйся, если тебя в лепешку раскатают...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді не скаржся, якщо тебе розплющить…"
+        },
+        {
+            "tag": "TRAL.HGHWAY_RILEY_0000",
+            "en": "Oh, uh, thanks.",
+            "ru_native": "Ой, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, ну, дякую."
+        },
+        {
+            "tag": "TRAL.HGHWAY_RILEY_0001",
+            "en": "I didn't ask you where it led. I was just… checking it out.",
+            "ru_native": "Я не спрашивала, что там. Я просто... проверяла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не питала, що там далі. Я просто… перевіряла."
+        }
+    ]
+}

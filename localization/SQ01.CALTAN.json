@@ -1,0 +1,681 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ01.CALTAN",
+    "entries": [
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0000_OPTION_0000",
+            "en": "Is this T?",
+            "ru_native": "Это «Т»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це «Т»?"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0000_OPTION_0001",
+            "en": "Missed connection?",
+            "ru_native": "Сообщение «Ищу тебя».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Шукаю тебе»?"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0000_OPTION_0002",
+            "en": "You wanna change eye colors?",
+            "ru_native": "Хочешь поменять цвет глаз?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш змінити колір очей?"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0001_OPTION_0000",
+            "en": "You’re sure?",
+            "ru_native": "Уверен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти впевнений?"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0001_OPTION_0001",
+            "en": "Who are you looking for?",
+            "ru_native": "Кого ты ищешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кого ти шукаєш?"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0001_OPTION_0002",
+            "en": "You must’ve been desperate.",
+            "ru_native": "Видимо, ты уже отчаялся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, ти вже зневірився."
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0002_OPTION_0000",
+            "en": "Sounds nice.",
+            "ru_native": "Звучит здорово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить чудово."
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0002_OPTION_0001",
+            "en": "I get it.",
+            "ru_native": "Понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумію."
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0002_OPTION_0002",
+            "en": "Youth, barf…",
+            "ru_native": "Юность, буэ...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Юність, тьху…"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ01.CALTAN_CHOICE_0003_OPTION_0000",
+            "en": "Anyone on this channel?",
+            "ru_native": "Есть кто на этом канале?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось є на цій частоті?"
+        },
+        {
+            "tag": "SQ01.CALTAN_JACOB_0000",
+            "en": "Except Mr. T. To be fair.",
+            "ru_native": "Разве что у Мистера Ти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Окрім містера Ті, звичайно."
+        },
+        {
+            "tag": "SQ01.CALTAN_JACOB_0001",
+            "en": "That lines up. The guy working at Sammy’s said his name was Daniel.",
+            "ru_native": "Все совпадает. Парень из «Даров моря» назвался Дэниелом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе сходиться. Хлопець із «Дарів моря від Семмі» сказав, що його звуть Денні."
+        },
+        {
+            "tag": "SQ01.CALTAN_JACOB_0002",
+            "en": "Let’s see if he’s still “busy.”",
+            "ru_native": "Посмотрим, «занят» ли он сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивимося, чи він ще й досі «зайнятий»."
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0000",
+            "en": "Are you T? Which I’ll assume is short for… anything, no one is named T.",
+            "ru_native": "Ты – «Т»? Полагаю, это сокращение от... чего угодно, «Т» – не имя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це «Т»? Гадаю, це скорочення від… чого завгодно. «Т» — це не ім’я."
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0001",
+            "en": "Did you post a missed connection, recently? Those ads? Over.",
+            "ru_native": "Ты оставлял объявление в разделе «Ищу тебя»? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти залишав оголошення в розділі «Шукаю тебе»? Прийом."
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0002",
+            "en": "Why would you ever want to trade blue eyes for brown?",
+            "ru_native": "Зачем кому-то менять голубые глаза на карие?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо комусь міняти блакитні очі на карі?"
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0003",
+            "en": "You don’t know that. Maybe I’m who you’ve been looking for your entire life.",
+            "ru_native": "Кто знает. Может, именно меня ты искал всю свою жизнь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто знає, можливо, саме мене ти шукав усе своє життя."
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0004",
+            "en": "Who’s—ya know—who’s missing? Who’s the connection?",
+            "ru_native": "Так кто потерялся? Кого ты ищешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То хто загубився? Кого ти шукаєш?"
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0005",
+            "en": "Wow, posting in a small town newspaper’s Looking for Love section.",
+            "ru_native": "Объявление о поиске любви в газете маленького городишки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, оголошення про пошук партнера в місцевій газетці."
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0006",
+            "en": "I’m not saying I’ve never been desperate.",
+            "ru_native": "У меня тоже бывали моменты отчаяния.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене теж були моменти відчаю."
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0007",
+            "en": "But uh—I am saying that you are now also a part of that shameful club.",
+            "ru_native": "Но... тебя можно поздравить с вступлением в этот позорный клуб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… вітаю тебе зі вступом у цей ганебний клуб."
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0008",
+            "en": "That actually sounds really nice. Not stupid.",
+            "ru_native": "Вообще-то звучит здорово, а не глупо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо чесно, то це звучить чудово, а не стереотипно."
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0009",
+            "en": "No, don’t worry. I get it. Maybe not since high school… but. You know.",
+            "ru_native": "Не переживай, я понимаю. Не испытывала такого со школы, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, я розумію. Не відчувала такого зі школи, але…"
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0010",
+            "en": "Ah, youth. How I loathed mine.",
+            "ru_native": "Ах, юность. Свою я ненавидела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, юність. Свою я ненавиділа."
+        },
+        {
+            "tag": "SQ01.CALTAN_RILEY_0011",
+            "en": "Hey, anyone on this channel?",
+            "ru_native": "Прием, есть кто-то на этом канале?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, хтось є на цій частоті?"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0000",
+            "en": "[WT] Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло?"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0001",
+            "en": "[WT] Anyone there?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут хтось є?"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0002",
+            "en": "[WT] Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло?"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0003",
+            "en": "[WT] It’s uh—pretty late to be calling?",
+            "ru_native": "Позднее время для звонков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Узагалі-то, уже пізно."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0004",
+            "en": "[WT] Yeah, that’s me. I, uh, I take it you saw my missed connection thing.",
+            "ru_native": "Да, это я. Значит, ты увидела мое сообщение в газете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це я. Значить, ти бачила моє повідомлення."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0005",
+            "en": "[WT] Please don’t call it an “ad.” Makes me feel like I’m a laundry machine.",
+            "ru_native": "Не называй это «объявлением», я будто стиральную машинку продаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не називай це «оголошенням». Звучить так, ніби я пральну машину продаю."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0006",
+            "en": "[WT] But, yeah, I posted one. I take it you read it to the end.",
+            "ru_native": "Но да, я оставил сообщение. И ты прочла его до конца.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але так, я залишав повідомлення. І ти прочитала його до кінця."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0007",
+            "en": "[WT] [laughs] Oh. Hi.",
+            "ru_native": "Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Ой. Привіт."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0008",
+            "en": "[WT] I’ll play along—God, where to begin?",
+            "ru_native": "Подыграю. Боже, с чего начать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підіграю. Боже, із чого почати?"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0009",
+            "en": "[WT] How about I look demonic in every baby picture with a flash?",
+            "ru_native": "Я выгляжу как демон на всех детских фото со вспышкой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я виглядаю як демон на всіх дитячих фото зі спалахом."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0010",
+            "en": "[WT] Greater sensitivity to light, so fireworks and Florida are no-gos.",
+            "ru_native": "Чувствительность к свету, фейерверки и Флорида не для меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чутливість до світла, тому я не люблю феєрверки та Флориду."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0011",
+            "en": "[WT] Oh and here’s a sneak preview of literally every day of my life:",
+            "ru_native": "Ах да, и каждый день моей жизни проходит за выслушиванием:",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І кожного дня я чую лише:"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0012",
+            "en": "[WT] Your eyes are so blue! Wow, such blue eyes! Blue blue blue eyes eyes eyes!",
+            "ru_native": "Твои глаза такие голубые! Какие голубые! Голубые, голубые, глаза, глаза!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Твої очі такі блакитні! Які блакитні! Блакитні, блакитні, блакитні очі!»"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0013",
+            "en": "[WT] I know my eyes are blue! THEY’RE MY EYES.",
+            "ru_native": "Я знаю их цвет! Это мои глаза!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що вони блакитні! ЦЕ МОЇ ОЧІ!"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0014",
+            "en": "[WT] [clears throat] Anyway… I take it you saw my missed connection thing.",
+            "ru_native": "В общем... Как я понимаю, ты видела мое объявление.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Словом… Я розумію, ти бачила моє повідомлення."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0015",
+            "en": "[WT] I’m Tanner. And you’re not who I was looking for.",
+            "ru_native": "Я Таннер. А ты не та, кого я ищу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене звуть Теннер. А ти не та, кого я шукаю."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0016",
+            "en": "[WT] But hey, good to know the newspaper industry isn’t completely dead.",
+            "ru_native": "Но приятно знать, что газетная индустрия еще не совсем зачахла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але приємно дізнатися, що газетна індустрія ще не зовсім загинула."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0017",
+            "en": "[WT] Yet. With a capital Yet.",
+            "ru_native": "Еще. Пока что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще. Це лише справа часу."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0018",
+            "en": "[WT] Yeah, okay, weirdo. No.",
+            "ru_native": "Нет, барышня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, так, дивачко. Звісно, що ні."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0019",
+            "en": "[WT] I’m looking for someone named Danny. And he sounds nothing like you.",
+            "ru_native": "Я ищу человека по имени Дэнни. И у него совсем другой голос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я шукаю чоловіка на ім’я Денні. У нього зовсім не такий голос, як у тебе."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0020",
+            "en": "[WT] His name is Danny. And it’s not exactly… missed.",
+            "ru_native": "Его зовут Дэнни. И он не потерялся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Його звуть Денні. І він… не загубився."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0021",
+            "en": "[WT] Oh, yeah, I am chairman emeritus of Club Desperation for sure, but hey…",
+            "ru_native": "Да, я почетный председатель клуба Отчаявшихся, не спорю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я почесний голова клубу зневірених, визнаю…"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0022",
+            "en": "[WT] Danny and I had one of those—ya know—summer fling… things.",
+            "ru_native": "У нас с Дэнни был так называемый курортный роман.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас із Денні був так званий… курортний роман."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0023",
+            "en": "[WT] Staying up til dawn talking about life…",
+            "ru_native": "Ночами напролет говорили о жизни...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ночами говорили про життя…"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0024",
+            "en": "[WT] “What would you name a pet elephant?” All that nonsense.",
+            "ru_native": "«Как бы ты назвал ручного слона?» и все такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Як би ти назвав ручного слона?» і таке інше."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0025",
+            "en": "[WT] Totally clichéd, completely embarrassing.",
+            "ru_native": "Одно постыдное клише за другим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе було дуже банально, з купою кліше."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0026",
+            "en": "[WT] And good lord if I don’t miss every stupid stereotypical second of it.",
+            "ru_native": "И я совру, если скажу, что не скучаю по каждой стереотипной секунде.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я збрешу, якщо скажу, що не сумую за кожною нашою стереотипною секундою."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0027",
+            "en": "[WT] I really do.",
+            "ru_native": "Очень скучаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже сумую."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0028",
+            "en": "[WT] Why am I telling you all this? It really must be late…",
+            "ru_native": "Почему я это рассказываю? Ночь, голова не варит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому я тобі це все розповідаю? Уже пізно…"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0029",
+            "en": "[WT] It’s like a fart, ya know? It never smells as bad to you.",
+            "ru_native": "Это как пердеж. Для тебя он пахнет не так уж плохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, так само як і пук. Для тебе він пахне не так уже й погано."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0030",
+            "en": "[WT] But from the outside it’s nauseating.",
+            "ru_native": "Но другие помирают от вони.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але інші вмирають від смороду."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0031",
+            "en": "[WT] Or so I assume…",
+            "ru_native": "Мне так кажется...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені так здається…"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0032",
+            "en": "[WT] Totally humiliating. And I’m in line for seconds.",
+            "ru_native": "Это унизительно. И я выпрашиваю вторую порцию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це принизливо, а я прошу ще одну порцію."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0033",
+            "en": "[WT] Hey I’m right there with you!",
+            "ru_native": "Поддерживаю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підтримую!"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0034",
+            "en": "[WT] At least you’re free of it. Or at least—you sound like you are. No offense.",
+            "ru_native": "У тебя хоть она прошла. По крайней мере, судя по голосу. Без обид.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, у тебе вона вже минула. Принаймні, судячи з голосу. Не ображайся."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0035",
+            "en": "[WT] No phone numbers. That was the deal we made.",
+            "ru_native": "Никаких телефонов. Мы так решили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніяких телефонів. Ми так вирішили."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0036",
+            "en": "[WT] Let the universe reconnect us if that’s what it had in store.",
+            "ru_native": "Пусть вселенная вновь сведет нас, если так предначертано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай всесвіт зведе нас, якщо нам так судилося."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0037",
+            "en": "[WT] But—screw the universe and screw past us, I wanna reconnect.",
+            "ru_native": "Но... В жопу вселенную и нас из прошлого. Я хочу его найти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… до біса той всесвіт і нас із минулого. Я хочу його знайти."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0038",
+            "en": "[WT] No luck so far. Danny worked at Seafood Sammy’s, but no one’s answered their phone in weeks.",
+            "ru_native": "Пока не вышло. Дэнни работал в «Дарах моря», но на звонки недели никто не отвечает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки не вдалося. Денні працював у «Дарах моря від Семмі»,<br>але там не відповідають на дзвінки."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0039",
+            "en": "[WT] So… thank you for the distraction.",
+            "ru_native": "Спасибо, что отвлекли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож дякую, що відволікла мене."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0040",
+            "en": "[WT] And if you run across a husky fry cook with brown eyes…",
+            "ru_native": "Если вдруг встретите крупного повара с карими глазами...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо раптом зустрінете кремезного кухаря з карими очима…"
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0041",
+            "en": "[WT] Tell him he’s missed.",
+            "ru_native": "Передайте, что по нему скучают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Передайте, що за ним сумують."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0042",
+            "en": "[WT] Alright, I got some food heating, so nice chatting, but… over and out.",
+            "ru_native": "Ладно, у меня там еда греется, приятно было поболтать... Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, у мене там їжа гріється, приємно було поговорити, але… Кінець зв’язку."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0043",
+            "en": "[WT] Uh, okay, or don’t talk.",
+            "ru_native": "Ясно, помолчим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, помовчимо."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0044",
+            "en": "[WT] Whatever, weirdo. Have a bad night and a crappy new year.",
+            "ru_native": "Иди-ка ты. Плохой ночи и отвратного Нового года.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну тебе. Поганої тобі ночі й жахливого Нового року."
+        },
+        {
+            "tag": "SQ01.CALTAN_TANNER_0045",
+            "en": "[WT] And don’t call back.",
+            "ru_native": "Забудь эту частоту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забудь цю частоту."
+        }
+    ]
+}

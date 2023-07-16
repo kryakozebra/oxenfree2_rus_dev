@@ -1,0 +1,483 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.HANKWT",
+    "entries": [
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0000_OPTION_0000",
+            "en": "Hank! Portals are bad, right?",
+            "ru_native": "Хэнк! Порталы – это плохо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку! Портали це погано, так?"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0000_OPTION_0001",
+            "en": "What if I open a portal?",
+            "ru_native": "Что, если я открою портал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що буде, якщо відкрити портал?"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0001_OPTION_0000",
+            "en": "What if it’s already open?",
+            "ru_native": "А если он уже открыт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А якщо він уже відкритий?"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0001_OPTION_0001",
+            "en": "Got it, thanks.",
+            "ru_native": "Поняла, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло, дякую."
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0002_OPTION_0000",
+            "en": "Uh, Hank?",
+            "ru_native": "Хэнк?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку?"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0003_OPTION_0000",
+            "en": "Hank, a kid is possessed.",
+            "ru_native": "Хэнк, ребенок одержим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, дитина одержима."
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0003_OPTION_0001",
+            "en": "Red glowing eyes. Thoughts?",
+            "ru_native": "Что значат красные глаза?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Очі світяться червоним. Варіанти?"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0004_OPTION_0000",
+            "en": "How do you know that?",
+            "ru_native": "Откуда ты знаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки ти знаєш?"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0004_OPTION_0001",
+            "en": "You’ve dealt with this before?",
+            "ru_native": "Ты с таким сталкивался?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мав із цим справу раніше?"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.HANKWT_CHOICE_0005_OPTION_0000",
+            "en": "Hello? Hank?",
+            "ru_native": "Алло? Хэнк?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло? Хенку?"
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0000",
+            "en": "[WT] [breathes] I had to run from the bathroom—don’t go near a portal.",
+            "ru_native": "Я бегал в туалет... Не подходи к порталу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я летів із ванної кімнати… Не наближайся до порталу."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0001",
+            "en": "[WT] [breathes] I had to run from the bathroom—don’t open a portal.",
+            "ru_native": "Я бегал в туалет... Не открывай портал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я летів із ванної кімнати… Не відкривай портал."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0002",
+            "en": "[WT] These things run amok on the time-space continuum—",
+            "ru_native": "Они не контролируемы в известном континууме...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ці штуки влаштовують безлад у просторово-часовому континіумі…"
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0003",
+            "en": "[WT] —this is all written about in Dr. Schulz’s essays on breakpoints in dimensional rigidity.",
+            "ru_native": "Об этом подробно написано у Шульца, про точки излома в пространственной жесткости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…це все прописано в роботах доктора Шульца про проріхи в просторовій жорсткості."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0004",
+            "en": "[WT] Of course, all of this is as speculative as remote viewing or the Ganzfeld experiment.",
+            "ru_native": "Конечно, все это сугубо теории, как и удаленное видение или эксперимент Ганцфельда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно, як і дистанційне спостереження, й експеримент Ганцфельда, це лише теорії."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0005",
+            "en": "[WT] Or you know…",
+            "ru_native": "И прочее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або, ну знаєш…"
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0006",
+            "en": "[WT] Anything else, really.",
+            "ru_native": "Да вообще все, так-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буде ще щось."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0007",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0008",
+            "en": "[WT] [sigh] I’d keep my distance.",
+            "ru_native": "Я бы не подходил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я би тримався подалі."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0009",
+            "en": "[WT] It’s also not safe for me to be on this call, frankly. Just my voice being near it…",
+            "ru_native": "Честно говоря, для меня это тоже не безопасно. Даже просто мой голос...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відверто кажучи, мені й цей дзвінок становить небезпеку.<br>Навіть просто, якщо мій голос лунає поруч із цим…"
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0010",
+            "en": "[WT] Speak.",
+            "ru_native": "Говори.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Говори."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0011",
+            "en": "[WT] What is it.",
+            "ru_native": "Чего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що таке."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0012",
+            "en": "[WT] I’m in the middle of five somethings.",
+            "ru_native": "У меня пять неотложных дел сразу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене тут проблемки."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0013",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0014",
+            "en": "[WT] Possessed? Truly possessed?",
+            "ru_native": "Одержим? Взаправду?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Одержима? Справді одержима?"
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0015",
+            "en": "[WT] It means someone is possessed by an oppositional force.",
+            "ru_native": "Что это существо одержимо потусторонней силой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це означає, що хтось одержимий потойбічними силами."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0016",
+            "en": "[WT] Word to the wise—George Lukins did not have epilepsy. Dorothy Talbye was not insane.",
+            "ru_native": "Мудрый совет: у Джорджа Лукинса не было эпилепсии, а Дороти Тэлби не была безумной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Увізьми на замітку: у Джорджа Лукінса не було епілепсії.<br>Дороті Толбі не була божевільною."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0017",
+            "en": "[WT] And if people had radios back then, theirs and a lot of people’s problems could have been fixed.",
+            "ru_native": "Будь в то время радио, проблемы этих двух и еще многих людей можно было бы решить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І якщо б тоді в людей було радіо, багатьох проблем можна було б уникнути."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0018",
+            "en": "[WT] Tuning pierces through all dimensions, so can ease and free the suffering of someone infected by chronological vermin.",
+            "ru_native": "Радиосигнал проходит сквозь все измерения, поэтому может<br>освободить человека, зараженного паразитом времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Налаштування прориває виміри, і це може полегшити страждання<br>інфікованих хронологічним шкідником."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0019",
+            "en": "[WT] I’d try it…",
+            "ru_native": "Я бы попробовал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я би спробував…"
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0020",
+            "en": "[WT] With extreme caution.",
+            "ru_native": "Но крайне осторожно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із максимальною обережністю."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0021",
+            "en": "[WT] Hunting… extradimensional phenomenon and… transdimensional beings has been my life’s work.",
+            "ru_native": "Охота за внепространственными аномалиями и<br>межпространственными существами – моя жизнь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пошуки… понадпросторових аномалій та…<br>транспросторових сутностей — це справа всього мого життя."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0022",
+            "en": "[WT] If I didn’t know this, I wouldn’t be very good at having an addiction.",
+            "ru_native": "Не знай я этого – грош цена моей одержимости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якби я в цьому не розбирався, я би так усім цим не хворів."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0023",
+            "en": "[WT] No, no, never personally. My information is all academic and purely theoretical.",
+            "ru_native": "На практике нет. Мои данные сугубо академические и всецело теоретические.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ні, сам не стикався. Уся моя інформація — це наукові теорії."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0024",
+            "en": "[WT] But it’s right, nonetheless.",
+            "ru_native": "Но они все равно верны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але вона достовірна."
+        },
+        {
+            "tag": "A2W4.HANKWT_HANK_0025",
+            "en": "[WT] Alright, I gotta go. Over and out.",
+            "ru_native": "Ладно, мне пора. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну добре, мені вже час. Кінець зв’язку."
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0000",
+            "en": "Hey, uh, Hank? Are you there? Uh, portals are bad… right? They’re not good. To be avoided? Over.",
+            "ru_native": "Хэнк? Ты там? Скажи, порталы – это плохо? Плохо, да? Их надо избегать? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти там? Портали це погано… так? Не добре. Їх потрібно уникати? Прийом."
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0001",
+            "en": "Hey, uh, Hank? Are you there? What if, say, I decide to open a portal. What could happen?",
+            "ru_native": "Хэнк? Ты там? Скажи, если я решу открыть портал... Что будет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти там? Уявімо, що я би вирішила відкрити портал. Що б сталося?"
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0002",
+            "en": "Okay, but what if it’s already open? Over.",
+            "ru_native": "Так, а если он уже открыт? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, але що, якщо він уже відкритий? Прийом."
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0003",
+            "en": "Got it! Crystal clear, keep it closed, stay away. Thanks.",
+            "ru_native": "Поняла! Держать закрытыми, не подходить. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ясно! Як божий день, не відкривати, триматися подалі. Дякую."
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0004",
+            "en": "Um… Hank. You there? Over.",
+            "ru_native": "Эм... Хэнк? Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Хенку. Ти там? Прийом."
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0005",
+            "en": "Uh, don’t mean to bother you, but I think a kid is possessed.",
+            "ru_native": "Не хотела тебя беспокоить, но тут ребенок одержим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хотіла тебе турбувати, але схоже, що дитина одержима."
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0006",
+            "en": "Uh, Hank? Red glowing eyes. Does this mean anything to you?",
+            "ru_native": "Хэнк? Глаза, горящие красным, тебе о чем-то говорят?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Очі червоні, і вони світяться. Тобі це про щось каже?"
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0007",
+            "en": "Uh, how would you know that this could work? Over.",
+            "ru_native": "Откуда ты знаешь, что это сработает? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки ти знаєш, як це працює? Прийом."
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0008",
+            "en": "Oh, have you, uh, dealt with this sort of thing before? Over.",
+            "ru_native": "Ты уже сталкивался с подобным? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти раніше з таким стикався? Прийом."
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0009",
+            "en": "Hey, Hank? You there?",
+            "ru_native": "Хэнк? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти там?"
+        },
+        {
+            "tag": "A2W4.HANKWT_RILEY_0010",
+            "en": "[to herself] I guess not.",
+            "ru_native": "Видимо нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно ні."
+        }
+    ]
+}

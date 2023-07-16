@@ -1,0 +1,177 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.TEEWAL",
+    "entries": [
+        {
+            "tag": "GLOB.TEEWAL_CHARLIE_0000",
+            "en": "Hey! Anyone around?",
+            "ru_native": "Эй! Есть там кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Є тут хто?"
+        },
+        {
+            "tag": "GLOB.TEEWAL_CHARLIE_0001",
+            "en": "I got… blipped somewhere. It—I need a minute.",
+            "ru_native": "Меня... куда-то портануло. Дайте минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене… кудись закинуло. Дайте хвилинку."
+        },
+        {
+            "tag": "GLOB.TEEWAL_CHARLIE_0002",
+            "en": "I’m gonna rendezvous at our usual spot.",
+            "ru_native": "Я вернусь на первоначальное место сбора.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я прогуляюся до нашого місця."
+        },
+        {
+            "tag": "GLOB.TEEWAL_CHARLIE_0003",
+            "en": "I’ll swing by and get you.",
+            "ru_native": "Заскочу и заберу тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зазирну й заберу тебе."
+        },
+        {
+            "tag": "GLOB.TEEWAL_CHARLIE_0004",
+            "en": "I’m still at the Ranger Station. Trying to find anything we can use.",
+            "ru_native": "Я все еще на станции рейнджеров. Пытаюсь найти что-нибудь полезное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я все ще на станції наглядачів. Намагаюся знайти що-небудь корисне для нас."
+        },
+        {
+            "tag": "GLOB.TEEWAL_CHARLIE_0005",
+            "en": "Violet?",
+            "ru_native": "Вайолет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет?"
+        },
+        {
+            "tag": "GLOB.TEEWAL_CHARLIE_0006",
+            "en": "Okay. I think Olivia will be over there soon.",
+            "ru_native": "Хорошо. Думаю, Оливия скоро будет там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Гадаю, Олівія скоро прийде."
+        },
+        {
+            "tag": "GLOB.TEEWAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.TEEWAL_CHOICE_0000_OPTION_0000",
+            "en": "I don’t care.",
+            "ru_native": "По барабану.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені начхати."
+        },
+        {
+            "tag": "GLOB.TEEWAL_CHOICE_0000_OPTION_0001",
+            "en": "Okay, good to know.",
+            "ru_native": "Да, это полезно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Приємно чути."
+        },
+        {
+            "tag": "GLOB.TEEWAL_JACOB_0000",
+            "en": "Huh. Sounds like they’re starting to move around.",
+            "ru_native": "Подростки разбрелись по городу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха. Здається, вони починають ворушитися."
+        },
+        {
+            "tag": "GLOB.TEEWAL_JACOB_0001",
+            "en": "Better keep that in mind…",
+            "ru_native": "Нужно иметь это в виду...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще пам’ятати…"
+        },
+        {
+            "tag": "GLOB.TEEWAL_JACOB_0002",
+            "en": "…depending on where we’re going next.",
+            "ru_native": "Когда будем думать, куда пойти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Залежно від того, куди підемо далі."
+        },
+        {
+            "tag": "GLOB.TEEWAL_OLIVIA_0000",
+            "en": "Violet’s okay—I got her with me.",
+            "ru_native": "Вайолет жива, она со мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із Вайолет усе гаразд. Вона зі мною."
+        },
+        {
+            "tag": "GLOB.TEEWAL_OLIVIA_0001",
+            "en": "Stay off the receiver unless it’s an emergency. Over and out.",
+            "ru_native": "Приемником пользуемся только при ЧП. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Користуйтеся приймачем лише за надзвичайної ситуації. Кінець зв’язку."
+        },
+        {
+            "tag": "GLOB.TEEWAL_RILEY_0000",
+            "en": "Yeah, I don’t care where Parentage crawls.",
+            "ru_native": "Мне по барабану вылазки «Наследия».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мені байдуже, де плазує «Парентаж»."
+        },
+        {
+            "tag": "GLOB.TEEWAL_RILEY_0001",
+            "en": "Let’s just focus on the plan. Plant these beacons. Try to ignore anything that isn’t that.",
+            "ru_native": "Придерживаемся плана. Разместить передатчики. Игнорировать все остальное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередьмося на плані. Встанови ці маяки. Намагайся ігнорувати все інше."
+        },
+        {
+            "tag": "GLOB.TEEWAL_RILEY_0002",
+            "en": "Yeah, okay. Good to know.",
+            "ru_native": "Да, ты прав. Это полезно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд. Приємно чути."
+        },
+        {
+            "tag": "GLOB.TEEWAL_VIOLET_0000",
+            "en": "I’m—I’m still near the caves?",
+            "ru_native": "Я все еще у пещер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я все ще біля печер?"
+        }
+    ]
+}

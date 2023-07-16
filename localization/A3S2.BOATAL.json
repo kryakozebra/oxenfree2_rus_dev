@@ -1,0 +1,1491 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S2.BOATAL",
+    "entries": [
+        {
+            "tag": "A3S2.BOATAL_ALEX_0000",
+            "en": "Hey. Sorry. Don’t crash.",
+            "ru_native": "Привет. Прости. Не разбейся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. Вибач. Не розбийся."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0001",
+            "en": "I couldn’t exactly knock.",
+            "ru_native": "Постучаться я не могла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не могла постукати."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0002",
+            "en": "I uh—don’t get anything.",
+            "ru_native": "У меня вот ничего нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… нічого в мене немає."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0003",
+            "en": "Anyway…",
+            "ru_native": "",
+            "ru_machine": "DEEPL В общем...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0004",
+            "en": "You shouldn’t be doing this alone.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты не должен заниматься этим в одиночку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0005",
+            "en": "So… you’re not doing this alone.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так что... ты делаешь это не один.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0006",
+            "en": "So…",
+            "ru_native": "Что ж...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож…"
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0007",
+            "en": "Hey.",
+            "ru_native": "Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0008",
+            "en": "I used to say “The more the scarier.” For fun.",
+            "ru_native": "Я раньше шутила: «Чем нас больше, тем страшнее».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше я шуткувала: «Чим більше, тим страшніше»."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0009",
+            "en": "I think it’s pretty fitting this time, though.",
+            "ru_native": "В нашей ситуации подходит больше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже підходить до нащої ситуації."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0010",
+            "en": "I wasn’t, uh, asking.",
+            "ru_native": "Я не спрашивала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То було не запитання."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0011",
+            "en": "I’m helping. You can try to stop me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я помогаю. Ты можешь попытаться остановить меня.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0012",
+            "en": "See how that works out for you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Посмотри, как это сработает для тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0013",
+            "en": "You know, I don’t know how to swim.",
+            "ru_native": "Знаешь, я не умею плавать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, я не вмію плавати."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0014",
+            "en": "Always wanted to learn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всегда хотел научиться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0015",
+            "en": "But like—the ocean never gets warm enough here and I’m allergic to chlorine.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, например, океан здесь никогда не бывает достаточно тёплым, а у меня аллергия на хлорку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0016",
+            "en": "Or—sensitive to it, I think that’s what my doctor said?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Или-чувствителен к нему, кажется, так сказал мой врач?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0017",
+            "en": "It’s not an actual allergy.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это не настоящая аллергия.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0018",
+            "en": "Don’t you just love when people tell you how super easy something is…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Разве тебе не нравится, когда люди говорят тебе, как суперпросто что-то сделать...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0019",
+            "en": "When it’s super hard for you? That’s just the best.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Когда для тебя это суперсложно? Это просто самое лучшее.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0020",
+            "en": "Eh… it doesn’t quite work that way.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эх... не совсем так получается.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0021",
+            "en": "That’s the first thing I’m gonna do. When we’re back. I’m gonna learn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это первое, что я собираюсь сделать. Когда мы вернемся. Я собираюсь учиться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0022",
+            "en": "And after I do, I’m jumping right in the ocean.",
+            "ru_native": "",
+            "ru_machine": "DEEPL А после того как я это сделаю, я прыгну прямо в океан.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0023",
+            "en": "Temperature be damned.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Температура будь проклята.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0024",
+            "en": "Oh, it’s going to. One way or another.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, так и будет. Так или иначе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0025",
+            "en": "So long as I don’t drown to death, fine by me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пока я не утону насмерть, я в порядке.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0026",
+            "en": "It’s really not so bad. Being in there. In the—ya know—the void, whatever you wanna call it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На самом деле это не так уж и плохо. Быть там. В... ну, знаешь... в пустоте, как бы ты это ни называл.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0027",
+            "en": "Not bad at all actually.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На самом деле совсем не плохо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0028",
+            "en": "It’s easy to get lost in it. To just—exist with what’s in there.",
+            "ru_native": "Здесь легко потеряться. Просто... существовать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там легко загубитися. І просто… існувати."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0029",
+            "en": "You can just go for days—months—years. I dunno. Forever… if you want.",
+            "ru_native": "Могут пройти дни, месяцы, годы. Не знаю. Вечность, если ты того хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можуть минути дні, місяці, роки. Не знаю… Вічність, якщо хочеш."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0030",
+            "en": "The days just… swirl. Peaceful days. Painless days.",
+            "ru_native": "Дни проносятся мимо. Спокойные. Без боли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дні просто минають. Спокійні дні. Безболісні дні."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0031",
+            "en": "Perfect days.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Идеальные дни.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0032",
+            "en": "You never want them to end.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты никогда не хочешь, чтобы они закончились.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0033",
+            "en": "And they don’t, if you’re so inclined.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И не делают, если ты так настроен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0034",
+            "en": "Yeah, I’ve been asking myself that, too.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, я тоже задавал себе этот вопрос.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0035",
+            "en": "And there’s a reason it took me a while to try and—ya know—reach out…",
+            "ru_native": "",
+            "ru_machine": "DEEPL И есть причина, по которой я долго не пытался... ну, ты понимаешь... достучаться...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0036",
+            "en": "They’re as good as you think.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они настолько хороши, насколько ты думаешь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0037",
+            "en": "No, they’re better.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, они лучше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0038",
+            "en": "But my friends didn’t ask for this.",
+            "ru_native": "Мои друзья этого не просили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мої друзі цього не просили."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0039",
+            "en": "And sure, we have good days.",
+            "ru_native": "Да, бывают хорошие дни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, звісно, бувають і хороші дні."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0040",
+            "en": "We have perfect days.",
+            "ru_native": "Бывают идеальные дни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувають ідеальні дні."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0041",
+            "en": "But I’m never gonna learn how to swim.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но я никогда не научусь плавать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0042",
+            "en": "Not in there.",
+            "ru_native": "Но не там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не там."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0043",
+            "en": "So. Here we are.",
+            "ru_native": "Поэтому мы здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маємо, що маємо."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0044",
+            "en": "Floating along.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Плывущий по течению.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0045",
+            "en": "Yeah, well, unfortunately we are… very far beyond “just staying there.”",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, но, к сожалению, мы... очень далеко зашли от \"просто остаться там\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0046",
+            "en": "Yeah, I know. And I’m not saying I like it.",
+            "ru_native": "Да, знаю. Мне самой это не нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, знаю. Мені самій це не подобається."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0047",
+            "en": "But I am saying it’s what’s going to happen.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но я говорю, что именно это и произойдет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0048",
+            "en": "Riley… I’m sorry… but we are very far beyond all that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли... Мне очень жаль... но мы очень далеко за пределами всего этого.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0049",
+            "en": "Australia. I’m gonna swim all the way to Australia.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Австралия. Я собираюсь проплыть весь путь до Австралии.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0050",
+            "en": "I’ll dive right into the Pacific and never look back.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я нырну прямо в Тихий океан и никогда не оглянусь назад.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0051",
+            "en": "Tonight… [sigh] Tonight is no longer about what I want.",
+            "ru_native": "Сегодня... Речь уже не о том, чего я хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні [зітхання] справа не в тім, чого я хочу."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0052",
+            "en": "You’ve been… alone… for a while, Riley.",
+            "ru_native": "Ты одна уже очень долго, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сама вже давно, Райлі."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0053",
+            "en": "You had Jacob tonight, but… you put a stop to that. For your own reasons.",
+            "ru_native": "Сегодня у тебя был Джейкоб, но и с ним ты рассталась. По своим причинам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні в тебе був Джейкоб, але ти це припинила. Із власних причин."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0054",
+            "en": "Something tells me you like being alone. But you can’t do this that way.",
+            "ru_native": "Мне кажется, ты любишь одиночество. Но одна ты не справишься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось мені підказує, що тобі подобається бути на самоті. Але так не можна."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0055",
+            "en": "You <i>need</i> help. Which is why I’m here.",
+            "ru_native": "Тебе <i>нужна</i> помощь. Поэтому я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі <i>потрібна</i> допомога. Саме для цього я тут."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0056",
+            "en": "My brother drowned before he could teach me. And it just… took the desire right out.",
+            "ru_native": "Моя брат утонул прежде, чем научил меня. И после... уже пропало желание.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мій брат потонув, перш ніж зміг навчити мене. А потім… уже не було бажання."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0057",
+            "en": "I was—or am—allergic to chlorine anyway.",
+            "ru_native": "У меня все равно аллергия на хлорку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене все одно алергія на хлорку."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0058",
+            "en": "The doctor said it’s a slight sensitivity.",
+            "ru_native": "Врач сказал, это легкая чувствительность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лікар сказав, що то невелика чутливість."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0059",
+            "en": "But it’s there.",
+            "ru_native": "Но она есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але вона є."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0060",
+            "en": "Well I’m not a Labradoodle.",
+            "ru_native": "Я не лабрадудль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я не лабрадудл."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0061",
+            "en": "And it’s just been on my mind, tonight.",
+            "ru_native": "Просто вспомнила об этом сегодня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто сьогодні не виходить із голови."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0062",
+            "en": "Yeah. Yeah, I get it.",
+            "ru_native": "Ясно. Понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Так, розумію."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0063",
+            "en": "Well. It happened a long time ago.",
+            "ru_native": "Это было очень давно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… це сталося давно."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0064",
+            "en": "I’ve been thinking a lot about what he would say… about all of this.",
+            "ru_native": "Я много думала о том, что бы он сказал про... все это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я багато думала про те, що він сказав би… про все це."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0065",
+            "en": "About what I’ve done. About what I’m doing.",
+            "ru_native": "Про то, что я сделала. И делаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про те, що я зробила. І про те, що роблю."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0066",
+            "en": "I think he would be upset with me.",
+            "ru_native": "Думаю, он бы расстроился.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, він засмутився б."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0067",
+            "en": "But I guess…",
+            "ru_native": "Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але здається…"
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0068",
+            "en": "I’ll never know for sure.",
+            "ru_native": "Наверняка я уже не узнаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно я вже не дізнаюся."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0069",
+            "en": "That’s the way it goes with this stuff.",
+            "ru_native": "В том-то вся и проблема.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тому-то й справа."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0070",
+            "en": "No, you’re probably right.",
+            "ru_native": "Нет, скорее всего ты права.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, мабуть, ти маєш рацію."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0071",
+            "en": "He was a good guy. And he cared about people. He liked people in a way that I… couldn’t, really.",
+            "ru_native": "Он был хорошим. И заботился о других. Он любил людей так, как я... не могла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він був гарним хлопцем. Піклувався про людей.<br>Йому подобалися люди так, як не подобалися мені."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0072",
+            "en": "I don’t know about that.",
+            "ru_native": "В этом я не уверена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не впевнена в цьому."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0073",
+            "en": "Where I’ve been—my friends and I? The void, eternity—whatever you want to call it. ",
+            "ru_native": "Место, где я была... Я и мои друзья? Эта пустота, вечность, называй как хочешь. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Місце, де я була… мої друзі і я? Пустота, вічність… називай, як хочеш. "
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0074",
+            "en": "I just couldn’t pretend it was real anymore.",
+            "ru_native": "Я больше не могла притворяться, что это реально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не могла більше удавати, що це реально."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0075",
+            "en": "I guess it’s not important if you understand…",
+            "ru_native": "Тебе не обязательно это понимать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі необов’язково розуміти це…"
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0076",
+            "en": "But I hope you do.",
+            "ru_native": "Но вдруг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я сподіваюся, що ти зрозумієш."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0077",
+            "en": "Nothing matters when you’re in there. It’s just… memories. The past.",
+            "ru_native": "Пока ты там, ничто не имеет значения. Лишь воспоминания. Прошлое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніщо не важливо, коли ти там. Це просто… спогади. Минуле."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0078",
+            "en": "I maybe could have closed my eyes and ignored all of that…",
+            "ru_native": "Я могла бы закрыть глаза и все это игнорировать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я могла б заплющити очі й ігнорувати все це…"
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0079",
+            "en": "I’m just… talking out loud. <i>Thinking</i> out loud—I always… switch those up.",
+            "ru_native": "Я просто говорю вслух. <i>Думаю</i> вслух. Вечно путаю эти два слова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто говорю вголос. І <i>думаю</i> вголос. Вічно плутаю ці речі."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0080",
+            "en": "The point, Riley, is that for some people… for Olivia, even, she thinks it’s what she wants.",
+            "ru_native": "Суть в том, Райли, что для некоторых... Даже Оливия думает, что это ей и нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Суть у тому, Райлі, що для декого… навіть Олівія вважає, що це їй потрібно."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0081",
+            "en": "But Jonas is never gonna go to college, and Nona is never gonna have another recital…",
+            "ru_native": "Но Джонас никогда не пойдет в колледж, а Нона не вернется к репетициям...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але Джонас ніколи не вступить до коледжу, а Нона ніколи не піде на репетицію…"
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0082",
+            "en": "…and Ren is never gonna crash another party he wasn’t invited to.",
+            "ru_native": "Рен никогда не заявится на вечеринку, хоть его и не звали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "… а Рен ніколи не піде на вечірку, на яку його не запросили."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0083",
+            "en": "Not in there.",
+            "ru_native": "Не там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не там."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0084",
+            "en": "It’s easy to say when you’ve already done it.",
+            "ru_native": "Легко говорить тому, кто уже его пережил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Легко говорити тим, хто вже дорослий."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0085",
+            "en": "Almost there…",
+            "ru_native": "Почти на месте...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Майже… на місці…"
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0086",
+            "en": "I don’t know what I’m going to do, Riley. I can’t promise anything after we stop Olivia.",
+            "ru_native": "Я не знаю, что будет, Райли. Не могу ничего обещать после того, как остановим Оливию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, що робитиму, Райлі. Не можу обіцяти<br>нічого після того як ми зупинимо Олівію."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0087",
+            "en": "I’d like to say… that this is it—I’ll just… walk into the nothing, again… and find some measure of happiness.",
+            "ru_native": "Я могла бы сказать, что на этом все. Что я<br>вновь уйду в ничто и постараюсь быть счастливой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотіла б сказати, що на цьому все. Що я піду в пустоту, знову... і знайду своє щастя."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0088",
+            "en": "It’s possible—I think it’s possible.",
+            "ru_native": "Это возможно. Думаю, возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здається, що це можливо."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0089",
+            "en": "But…",
+            "ru_native": "Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0090",
+            "en": "I miss <i>thinking</i> about learning to swim in the ocean.",
+            "ru_native": "Я скучаю по <i>желанию</i> научиться плавать в океане.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сумую за <i>бажанням</i> навчитися плавати в океані."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0091",
+            "en": "I miss wanting to see Australia.",
+            "ru_native": "По желанию съездить в Австралию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За бажанням побувати в Австралії."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0092",
+            "en": "[sigh] I missed my brother when I was alive. I never thought I’d miss that feeling.",
+            "ru_native": "Я скучала по брату, когда была жива. А теперь скучаю по этому чувству.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Я сумувала за братом, коли була живою.<br>Ніколи не думала, що сумуватиму за тим почуттям."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0093",
+            "en": "Thanks for your time, Riley. I promise I won’t take any more of it than is necessary.",
+            "ru_native": "Спасибо, что уделила время, Райли. Обещаю, что не отниму больше, чем нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що приділила час, Райлі. Обіцяю, я не заберу більше, ніж потрібно."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0094",
+            "en": "To help. As best I can.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чтобы помочь. По мере сил и возможностей.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я допоможу. Зроблю все, що в моїх силах."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0095",
+            "en": "I don’t know what I’m going to do, Riley. I can’t promise anything after we stop the Sunken.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не знаю, что мне делать, Райли. Я не могу ничего обещать после того, как мы остановим Sunken.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, що робитиму, Райлі. Не можу обіцяти нічого після того,<br>як ми зупинимо Втоплених."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0096",
+            "en": "If we stop the Sunken, I should say.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Если мы остановим Sunken, надо сказать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажімо так, «якщо» зупинимо Втоплених."
+        },
+        {
+            "tag": "A3S2.BOATAL_ALEX_0097",
+            "en": "I don’t know what I’m going to do, Riley. I can’t promise anything after we stop the Sunken.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не знаю, что мне делать, Райли. Я не могу ничего обещать после того, как мы остановим Sunken.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, що робитиму, Райлі. Не можу обіцяти нічого після того,<br>як ми зупинимо Втоплених."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0000_OPTION_0000",
+            "en": "What do you want?",
+            "ru_native": "Чего тебе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тобі треба?"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0000_OPTION_0001",
+            "en": "Welcome aboard.",
+            "ru_native": "Приветствую на борту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вітаю на борту."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0001_OPTION_0000",
+            "en": "Thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0001_OPTION_0001",
+            "en": "No thanks.",
+            "ru_native": "Нет, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, дякую."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0002_OPTION_0000",
+            "en": "It’s not that hard.",
+            "ru_native": "Это не сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не так уже й складно."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0002_OPTION_0001",
+            "en": "I don’t care.",
+            "ru_native": "Плевать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені начхати."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0002_OPTION_0002",
+            "en": "Sorry about your brother.",
+            "ru_native": "Сожалею насчет брата.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода твого брата."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0003_OPTION_0000",
+            "en": "Assuming this works.",
+            "ru_native": "Если это сработает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це спрацює."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0003_OPTION_0001",
+            "en": "You’ll freeze.",
+            "ru_native": "Ты замерзнешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти змерзнеш."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0004_OPTION_0000",
+            "en": "Peaceful, painless days? Why leave?",
+            "ru_native": "От спокойных дней без боли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спокійні дні без болю? Для чого ж відмовлятися?"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0004_OPTION_0001",
+            "en": "I understand.",
+            "ru_native": "Понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0004_OPTION_0002",
+            "en": "Don’t justify this.",
+            "ru_native": "Не оправдывайся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не виправдовуйся."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0005_OPTION_0000",
+            "en": "Growing older isn’t great.",
+            "ru_native": "Взросление переоценено.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Старіти неприємно."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0005_OPTION_0001",
+            "en": "Stop trying to escape.",
+            "ru_native": "Хватит пытаться вырваться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Припини намагатися вирватися."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0005_OPTION_0002",
+            "en": "Well too bad!",
+            "ru_native": "Какая жалость!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яка прикрість!"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0006_OPTION_0000",
+            "en": "He’d be disappointed.",
+            "ru_native": "Он бы разочаровался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він був би розчарований."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0006_OPTION_0001",
+            "en": "I didn’t know him.",
+            "ru_native": "Я его не знала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я його не знала."
+        },
+        {
+            "tag": "A3S2.BOATAL_CHOICE_0006_OPTION_0002",
+            "en": "He might admire your fortitude?",
+            "ru_native": "Он бы оценил твое упорство?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він оцінив би твою стійкість?"
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0000",
+            "en": "Oh, great. What do you want, Alex?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отлично. Что ты хочешь, Алекс?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0001",
+            "en": "Hey, welcome aboard, sailor.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, добро пожаловать на борт, моряк.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0002",
+            "en": "Hope you don’t get seasick.",
+            "ru_native": "У тебя же нет морской болезни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе ж немає морської хвороби?"
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0003",
+            "en": "Works for me. The more the merrier.",
+            "ru_native": "Я не против. Чем нас больше, тем веселее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не проти. Чим більше, тим веселіше."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0004",
+            "en": "I’m good. No thanks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У меня всё хорошо. Нет, спасибо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0005",
+            "en": "It’s really not that hard. You—ya know—you kick, you move your arms.",
+            "ru_native": "Это не так уж и сложно. Дергаешь ногами, двигаешь руками.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не так уже і складно: штовхаєш ногами, ворушиш руками."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0006",
+            "en": "C’mon, Labradoodles can do it.",
+            "ru_native": "Даже лабрадудли умеют.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть лабрадудли вміють."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0007",
+            "en": "Uh, despite your uh… configuration there…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Несмотря на твою эээ... конфигурацию там...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0008",
+            "en": "Could you learn now?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Можешь ли ты учиться сейчас?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0009",
+            "en": "You’re assuming this is all gonna work out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты предполагаешь, что все получится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0010",
+            "en": "You’ll freeze to death doing that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты замерзнешь до смерти, делая это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0011",
+            "en": "Why would you ever want to leave that?",
+            "ru_native": "Почему же ты хочешь от этого отказаться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ж ти хочеш відмовитися від цього?"
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0012",
+            "en": "A perfect day? Can’t say I ever had one.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Идеальный день? Не могу сказать, что у меня когда-нибудь был такой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0013",
+            "en": "Ya know if I were you, I’d just stay there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Знаешь, на твоем месте я бы просто остался там.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0014",
+            "en": "Swimming isn’t that great. Neither is a lot of what’s ahead of you, kiddo.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Плавание - это не так уж и здорово. Как и многое из того, что ждет тебя впереди, малыш.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0015",
+            "en": "I’m not saying I don’t get it, but I am saying you are being very selfish.",
+            "ru_native": "Я могу тебя понять, но мне кажется, что ты ведешь себя эгоистично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тебе розумію, але ти поводишся дуже егоїстично."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0016",
+            "en": "I’m not gonna let you do this. We’ll stop this—whatever this is—but I’m not gonna let you just yank someone in to take your place.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не позволю тебе сделать это. Мы остановим это - что бы это ни было, - но я не позволю тебе просто взять и посадить кого-то на твоё место.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0017",
+            "en": "[slight startle] Ah!",
+            "ru_native": "Ах!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[трохи злякано] Ах!"
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0018",
+            "en": "What do you want, Alex?",
+            "ru_native": "Чего ты хочешь, Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тобі треба, Алекс?"
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0019",
+            "en": "Yeah. Welcome aboard.",
+            "ru_native": "Приветствую на борту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Вітаю на борту."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0020",
+            "en": "Uh, this doesn’t need to be when Batman teams up with whoever to stop whatever.",
+            "ru_native": "Давай без эпопеи «Бэтмен объединяется с кем-то против кого-то».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не обов’язково корчити із себе Бетмена,<br>що об’єднується з кимось, щоби зупинити щось."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0021",
+            "en": "I’m good, thanks.",
+            "ru_native": "Я пас, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пас, дякую."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0022",
+            "en": "Yeah I really don’t care about this, Alex.",
+            "ru_native": "Алекс, мне глубоко все равно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс, мені справді байдуже."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0023",
+            "en": "You could tell me any sob story you want… it won’t change how I feel about you or tonight.",
+            "ru_native": "Можешь рассказывать сопливые истории, но мое мнение о тебе и этом дне не поменяется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш розповідати свої сльозливі історії. Я не зміню свою думку про тебе сьогодні."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0024",
+            "en": "Sorry to hear about your brother.",
+            "ru_native": "Сожалею, что с братом так вышло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шкода, що з твоїм братом так сталося."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0025",
+            "en": "I’m sure he’d be disappointed that his sister tried to take over someone else’s life.",
+            "ru_native": "Уверена, он был бы разочарован, что его сестра пытается завладеть чужой жизнью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він був би розчарований, що його сестра намагалася забрати чиєсь життя."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0026",
+            "en": "But, hey… I didn’t know the guy. So.",
+            "ru_native": "Но... Я его не знала, так что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я його не знала."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0027",
+            "en": "Yeah well I didn’t know him. So. I have no idea.",
+            "ru_native": "Ну, я его не знала, так что без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я його не знала. Тож не маю уявлення."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0028",
+            "en": "You never know. He might have admired your strength of conviction—your fortitude to make it this far.",
+            "ru_native": "Никогда не знаешь. Может, он бы оценил твою силу и упорство, что привели к этому дню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як знати. Можливо, його втішала твоя сила переконання, твоя стійкість."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0029",
+            "en": "To not… give up.",
+            "ru_native": "Твою... стойкость.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя наполегливість."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0030",
+            "en": "A forever filled with peaceful, painless days?",
+            "ru_native": "Вечность из спокойных дней без боли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вічність зі спокійних днів без болю?"
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0031",
+            "en": "From what I’ve heard? Yeah… I’d want out, too.",
+            "ru_native": "Судя по услышанному, я б тоже хотела свалить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Судячи з того, що я чула, я б теж хотіла піти."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0032",
+            "en": "Alex, please don’t try and justify to me your decisions, tonight.",
+            "ru_native": "Алекс, оставь попытки оправдать свои поступки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс, прошу, не виправдовуй свої вчинки сьогодні."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0033",
+            "en": "I’m not interested.",
+            "ru_native": "Мне не интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені нецікаво."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0034",
+            "en": "College isn’t that great.",
+            "ru_native": "Колледж не так уж хорош.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У коледжі не так уже й гарно."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0035",
+            "en": "Neither is a lot of what’s ahead of you, kiddo. Don’t let anyone tell you otherwise.",
+            "ru_native": "Как и все остальное в жизни, девочка. И не верь, если будут утверждать обратное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як і багато що інше в житті, дитинко. І не вір тому, хто скаже інше."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0036",
+            "en": "Growing up sucks.",
+            "ru_native": "Взросление – отстой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дорослішати — це прикро."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0037",
+            "en": "Well too goddamned bad! Stuff happens and you roll with it—you don’t—",
+            "ru_native": "Боже мой, какая жалость! Дерьмо случается, и с ним надо жить. А не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це так прикро! Неприємності трапляються, треба змиритися із цим."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0038",
+            "en": "—you don’t try what you tried.",
+            "ru_native": "Пытаться провернуть подобное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А не намагатися зробити те, що намагалася ти."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0039",
+            "en": "Stop trying to escape, Alex.",
+            "ru_native": "Хватит пытаться вырваться, Алекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Припини намагатися вирватися, Алекс."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0040",
+            "en": "I’m sorry this happened to you—I really am—but quit messing with <i>my</i> reality.",
+            "ru_native": "Мне жаль, что с тобой это произошло,<br>искренне, но хватит лезть в <i>мою</i> реальность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода, що це сталося з тобою. Справді. Але не лізь у <i>мою</i> реальність."
+        },
+        {
+            "tag": "A3S2.BOATAL_RILEY_0041",
+            "en": "Yours went a bad way, but… it’s done.",
+            "ru_native": "Твоя пошла по... Но все кончено.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя пішла погано, але це вже сталося."
+        }
+    ]
+}

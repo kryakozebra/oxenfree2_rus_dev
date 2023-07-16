@@ -1,0 +1,276 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.SHEHAN",
+    "entries": [
+        {
+            "tag": "A2W2.SHEHAN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.SHEHAN_CHOICE_0000_OPTION_0000",
+            "en": "She hung up.",
+            "ru_native": "Она бросила трубку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона поклала слухавку."
+        },
+        {
+            "tag": "A2W2.SHEHAN_CHOICE_0000_OPTION_0001",
+            "en": "I… froze, sorry.",
+            "ru_native": "Я... зависла, прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… зависла, вибач."
+        },
+        {
+            "tag": "A2W2.SHEHAN_CHOICE_0000_OPTION_0002",
+            "en": "She doesn’t know anything.",
+            "ru_native": "Она ничего не знает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона нічого не знала."
+        },
+        {
+            "tag": "A2W2.SHEHAN_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.SHEHAN_CHOICE_0001_OPTION_0000",
+            "en": "Don’t get mad.",
+            "ru_native": "Не злись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не сердься."
+        },
+        {
+            "tag": "A2W2.SHEHAN_CHOICE_0001_OPTION_0001",
+            "en": "I’m sorry!",
+            "ru_native": "Прости!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач!"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0000",
+            "en": "What happened? Did you talk to the Ranger?",
+            "ru_native": "Что случилось? Ты говорила с рейнджером?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що сталося? Ти говорила з наглядачкою?"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0001",
+            "en": "What did she say?",
+            "ru_native": "Что она сказала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що вона сказала?"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0002",
+            "en": "Did she hang up?",
+            "ru_native": "Бросила трубку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кинула слухавку?"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0003",
+            "en": "Uh, okay. Well… crap. I thought that was… going to be something.",
+            "ru_native": "Блин. Вот... зараза. Я думал, из этого что-нибудь выйдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От дідько… Я думав, що… із цього щось вийде."
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0004",
+            "en": "Man. [sighs]",
+            "ru_native": "Блин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От невдача. [зітхає]"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0005",
+            "en": "So she hung up?",
+            "ru_native": "Значит, она трубку бросила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Значить, вона поклала слухавку?"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0006",
+            "en": "So… that’s it? You just let the conversation die?",
+            "ru_native": "Ну… и что? Ты просто свернула разговор?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І це… усе? Ти просто звела розмову нанівець?"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0007",
+            "en": "Riley? Earth to Riley. Are you kidding right now?",
+            "ru_native": "Райли? Земля вызывает Райли. Ты шутишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Земля викликає Райлі. Ти жартуєш?"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0008",
+            "en": "That’s the first real life-line to someone who might be able to help us since the night started, Riley.",
+            "ru_native": "Райли, это был наш первый шанс за всю ночь получить реальную помощь от кого-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, це був наш перший шанс за весь вечір<br>отримати реальну допомогу від когось."
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0009",
+            "en": "Why wouldn’t you try to—why didn’t you try anything?",
+            "ru_native": "Почему ты не... почему ты ничего не сделала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти не… чому ти нічого не зробила?"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0010",
+            "en": "I just—",
+            "ru_native": "Просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я…"
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0011",
+            "en": "I can never tell what you’re thinking.",
+            "ru_native": "Не знаю, о чем ты думала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, про що ти думала."
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0012",
+            "en": "Really.",
+            "ru_native": "Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно."
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0013",
+            "en": "Okay. Fine. Whatever.",
+            "ru_native": "Ладно. Как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Як скажеш."
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0014",
+            "en": "I just… whatever.",
+            "ru_native": "Я просто... неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто… Неважливо."
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0015",
+            "en": "Let’s just… you know… carry on.",
+            "ru_native": "Давай просто... ну... пойдем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… ну… ходімо далі."
+        },
+        {
+            "tag": "A2W2.SHEHAN_JACOB_0016",
+            "en": "Whatever.",
+            "ru_native": "Проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай, ну тебе."
+        },
+        {
+            "tag": "A2W2.SHEHAN_RILEY_0000",
+            "en": "Uh, she hung up.",
+            "ru_native": "Хм, она бросила трубку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, вона поклала слухавку."
+        },
+        {
+            "tag": "A2W2.SHEHAN_RILEY_0001",
+            "en": "I—I kinda… froze. Sorry. I-I just didn’t know what to say!",
+            "ru_native": "Я просто... зависла. Прости. Я не знала, что сказать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто… зависла. Вибач. Я… не знала, що казати!"
+        },
+        {
+            "tag": "A2W2.SHEHAN_RILEY_0002",
+            "en": "She—no, Jacob, she didn’t know anything. She was asking if we’d seen any fires.",
+            "ru_native": "Она... нет, Джейкоб, она ничего не знала. Она спрашивала, не видели ли мы пожары.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… ні, Джейкобе, вона нічого не знала. Вона питала, чи не бачили ми пожежі."
+        },
+        {
+            "tag": "A2W2.SHEHAN_RILEY_0003",
+            "en": "Okay, relax. This isn’t worth ruining your drawers over—what’s a park ranger gonna do?",
+            "ru_native": "Ладно, расслабься. Не стоит из-за этого расстраиваться – как бы нам помог рейнджер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі. Не варто засмучуватися через це. Як би нам допомогла наглядачка?"
+        },
+        {
+            "tag": "A2W2.SHEHAN_RILEY_0004",
+            "en": "Ghosts are after us—after… everything and someone who fishes raccoons out of dumpsters isn’t really the contact we need.",
+            "ru_native": "Призраки хотят схватить нас… захватить весь мир. Тот, кто<br>вылавливает енотов из мусорных баков, нам не помощник.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привиди хочуть захопити нас… і не лише нас.<br>Як нам допоможе той, хто ловить єнотів на смітниках?"
+        },
+        {
+            "tag": "A2W2.SHEHAN_RILEY_0005",
+            "en": "I’m sorry! I am—I just didn’t think it was a… big deal.",
+            "ru_native": "Прости! Я... Я просто не думала, что это... так важно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач! Я… Я просто не думала, що це так… важливо."
+        }
+    ]
+}

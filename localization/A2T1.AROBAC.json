@@ -1,0 +1,177 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.AROBAC",
+    "entries": [
+        {
+            "tag": "A2T1.AROBAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.AROBAC_CHOICE_0000_OPTION_0000",
+            "en": "Is that safe?",
+            "ru_native": "А это безопасно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це небезпечно?"
+        },
+        {
+            "tag": "A2T1.AROBAC_CHOICE_0000_OPTION_0001",
+            "en": "Can’t you go?",
+            "ru_native": "Ты не пойдешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може вже підеш?"
+        },
+        {
+            "tag": "A2T1.AROBAC_CHOICE_0000_OPTION_0002",
+            "en": "Why down there?",
+            "ru_native": "Почему здесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому там?"
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0000",
+            "en": "Feeling limber?",
+            "ru_native": "Хочешь размяться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш розім’ятись?"
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0001",
+            "en": "It’s at the bottom of the hill, here.",
+            "ru_native": "Он у подножия холма, вот здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він під пагорбом, ось тут."
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0002",
+            "en": "It’s not that far down.",
+            "ru_native": "Это недалеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це недалеко."
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0003",
+            "en": "Uh—relatively.",
+            "ru_native": "Ну... относительно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, порівняно недалеко."
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0004",
+            "en": "I’ve done it. Once. No broken bones.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я сделал это. Один раз. Никаких переломов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0005",
+            "en": "I would, but… I was a lot more flexible when I installed this climb.",
+            "ru_native": "Я бы пошел, но... когда я устанавливал этот подъем, я бы более ловким.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б пішов, але… коли я в останнє долав цей підйом, я був більш спритним."
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0006",
+            "en": "I usually take the path down—there’s a path through the woods—but it would take forever.",
+            "ru_native": "Я обычно спускаюсь по тропе через лес, но это займет целую вечность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зазвичай спускаюся стежкою через ліс, але це забере цілу вічність."
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0007",
+            "en": "There’s stinging nettles and everything—someone like you, who can just climb down—this is the easiest way.",
+            "ru_native": "Там крапива и прочее. Так что если можешь просто слезть – это самый легкий способ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там кропива та таке інше. Тож якщо можеш просто злізти — це найлегший спосіб."
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0008",
+            "en": "Never picked up many signals around the homestead, down there, got a few nibbles.",
+            "ru_native": "Рядом с домом сигнал плохой, а тут, внизу, удалось кое-что поймать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поряд із будинком сигнал поганий, а тут, унизу, вдалося дещо зловити."
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0009",
+            "en": "Nibbles, weird readings… my documentation isn’t exactly scientific.",
+            "ru_native": "Обрывки, странные записи... я же не в научных целях этим занимаюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уривки, дивні записи… мої записи не тягнуть на наукові."
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0010",
+            "en": "If you just climb on down you’ll see it quickly.",
+            "ru_native": "Если просто спустишься вниз, сама увидишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо просто спустишся донизу, сама побачиш."
+        },
+        {
+            "tag": "A2T1.AROBAC_JACOB_0011",
+            "en": "Hey, if I can do it, you definitely can.",
+            "ru_native": "Эй, если я могу, то ты и подавно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, якщо я можу, то ти й поготів."
+        },
+        {
+            "tag": "A2T1.AROBAC_RILEY_0000",
+            "en": "How safe is this?",
+            "ru_native": "Насколько это безопасно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наскільки це безпечно?"
+        },
+        {
+            "tag": "A2T1.AROBAC_RILEY_0001",
+            "en": "Can you just go? I don’t know where it is.",
+            "ru_native": "Может, просто пойдем? Я не знаю, где это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може вже підеш? Я не знаю, де це."
+        },
+        {
+            "tag": "A2T1.AROBAC_RILEY_0002",
+            "en": "Why’d you place it down there?",
+            "ru_native": "Зачем ты поставил его там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо ти його там поставив?"
+        }
+    ]
+}

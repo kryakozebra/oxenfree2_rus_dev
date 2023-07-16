@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.BATOPR",
+    "entries": [
+        {
+            "tag": "A2W4.BATOPR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.BATOPR_CHOICE_0000_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Ау?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A2W4.BATOPR_CHOICE_0000_OPTION_0001",
+            "en": "Jacob?",
+            "ru_native": "Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе?"
+        },
+        {
+            "tag": "A2W4.BATOPR_CHOICE_0000_OPTION_0002",
+            "en": "Anybody?",
+            "ru_native": "Кто-нибудь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто-небудь?"
+        },
+        {
+            "tag": "A2W4.BATOPR_RILEY_0000",
+            "en": "H—hello?",
+            "ru_native": "А... ау?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А-агов?"
+        },
+        {
+            "tag": "A2W4.BATOPR_RILEY_0001",
+            "en": "Jacob?",
+            "ru_native": "Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе?"
+        },
+        {
+            "tag": "A2W4.BATOPR_RILEY_0002",
+            "en": "Anybody there?",
+            "ru_native": "Есть тут кто-нибудь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є хто-небудь?"
+        }
+    ]
+}

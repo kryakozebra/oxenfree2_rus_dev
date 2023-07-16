@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.HANKCA",
+    "entries": [
+        {
+            "tag": "A2G2.HANKCA_HANK_0000",
+            "en": "Hello? Anyone there? If you’re a human being, answer please.",
+            "ru_native": "Эй? Есть тут кто-нибудь? Если ты человек, ответь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов? Є тут хтось? Якщо ви — людина, відгукніться, будь ласка."
+        },
+        {
+            "tag": "A2G2.HANKCA_HANK_0001",
+            "en": "Is anyone getting this?",
+            "ru_native": "Меня кто-нибудь слышит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто-небудь мене чує?"
+        },
+        {
+            "tag": "A2G2.HANKCA_HANK_0002",
+            "en": "I repeat, if you’re human please respond.",
+            "ru_native": "Повторяю, если ты человек, ответь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повторюю, якщо ви — людина, будь ласка, відгукніться."
+        },
+        {
+            "tag": "A2G2.HANKCA_HANK_0003",
+            "en": "Broadcasting to as many frequencies as possible. If you are human, please respond! Over.",
+            "ru_native": "Внимание всем частотам. Если ты человек, ответь! Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Увага всім частотам. Якщо ви — людина, будь ласка, відгукніться! Прийом."
+        },
+        {
+            "tag": "A2G2.HANKCA_HANK_0004",
+            "en": "Hello? This is important. Answer please. Over.",
+            "ru_native": "Ау? Э то важно. Ответьте, пожалуйста. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Це важливо. Будь ласка, відгукніться. Прийом."
+        },
+        {
+            "tag": "A2G2.HANKCA_HANK_0005",
+            "en": "Hey, I can wait all night. And I’m not leaving the line until I get a response. Over.",
+            "ru_native": "Эй, я могу ждать всю ночь. Я не уйду с канала, пока не получу ответ. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, я не можу чекати всю ніч. І я не піду з каналу,<br>доки не отримаю відповідь. Прийом."
+        }
+    ]
+}

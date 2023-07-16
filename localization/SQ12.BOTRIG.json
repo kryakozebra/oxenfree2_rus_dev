@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ12.BOTRIG",
+    "entries": [
+        {
+            "tag": "SQ12.BOTRIG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ12.BOTRIG_CHOICE_0000_OPTION_0000",
+            "en": "Both are right?",
+            "ru_native": "Оба правильные?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обидва справжні?"
+        },
+        {
+            "tag": "SQ12.BOTRIG_CHOICE_0000_OPTION_0001",
+            "en": "What’s going on?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        },
+        {
+            "tag": "SQ12.BOTRIG_JACOB_0000",
+            "en": "This is…",
+            "ru_native": "Это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це…"
+        },
+        {
+            "tag": "SQ12.BOTRIG_JACOB_0001",
+            "en": "This is weird.",
+            "ru_native": "Это странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дивно."
+        },
+        {
+            "tag": "SQ12.BOTRIG_JACOB_0002",
+            "en": "Maybe we’re missing something…",
+            "ru_native": "Мы что-то упустили?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, ми щось не врахували…"
+        },
+        {
+            "tag": "SQ12.BOTRIG_RILEY_0000",
+            "en": "So… both are… right? But that doesn’t make sense.",
+            "ru_native": "Так они оба... правильные? Бред какой-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То вони… обидва… справжні? Дурня якась."
+        },
+        {
+            "tag": "SQ12.BOTRIG_RILEY_0001",
+            "en": "What could be going on, then? They both belong here? Or both… don’t?",
+            "ru_native": "Что происходит? Они оба из этого мира? Или оба... пришельцы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається? Вони обидва із цього світу? Чи… прибульці?"
+        }
+    ]
+}

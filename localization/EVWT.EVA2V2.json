@@ -1,0 +1,204 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2V2",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2V2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2V2_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? You around?",
+            "ru_native": "Эвелин? Ты тут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ти там?"
+        },
+        {
+            "tag": "EVWT.EVA2V2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2V2_CHOICE_0001_OPTION_0000",
+            "en": "I’m on a slight detour…",
+            "ru_native": "Нужно сделать крюк...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я трохи відійшла від маршруту…"
+        },
+        {
+            "tag": "EVWT.EVA2V2_CHOICE_0001_OPTION_0001",
+            "en": "How are you doing?",
+            "ru_native": "Как ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти?"
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0000",
+            "en": "Hey, Riley, what’s up?",
+            "ru_native": "Да, Райли, что такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Райлі, що сталося?"
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0001",
+            "en": "Where are we with the transmitters?",
+            "ru_native": "Как обстоят дела с передатчиками?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що там у нас із радіопередавачами?"
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0003",
+            "en": "Oh, uh, okay. God. If it’s not one thing it’s the other.",
+            "ru_native": "Ладно. Боже, не одно, так другое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, гаразд. Як не одне, так інше…"
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0004",
+            "en": "Well, thanks for letting me know. I’ll tell Leslie.",
+            "ru_native": "Спасибо, что сообщила. Я передам Лесли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, дякую, що попередила. Я передам Леслі."
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0005",
+            "en": "Alright, good luck! Talk to you later. Over and out.",
+            "ru_native": "Удачи! До скорого. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, щасти! Поговоримо пізніше. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0006",
+            "en": "Uh… okay. It’s… been a lot, tonight, as I’m sure you can imagine.",
+            "ru_native": "Нормально. Сегодня денек выдался тот еще, сама понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Сьогодні вночі багато чого сталося. Сама розумієш."
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0007",
+            "en": "I mean, really, you don’t have to imagine it at all! You’re out there, in it.",
+            "ru_native": "В прямом смысле понимаешь, ты ведь в самой гуще событий!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі й уявляти не потрібно! Ти сама в гущині подій."
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0008",
+            "en": "But… it’s okay. Everything will work out. Or… that’s what I keep telling myself.",
+            "ru_native": "Но все норм. Все будет хорошо. Я себя так успокаиваю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… усе гаразд. Усе буде добре. Я так себе заспокоюю."
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0009",
+            "en": "Keep in touch. Ping me any time you need something. Over and out",
+            "ru_native": "Не пропадай. Обращайся, если что-то будет нужно. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будемо на зв’язку. Дай мені знати, коли тобі буде треба. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2V2_EVELYN_0010",
+            "en": "Ugh, Riley, I lost you, didn’t I? Okay. Call me later. Over and out.",
+            "ru_native": "Райли, связь оборвалась? Ладно, потом поговорим. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, я тебе не чую. Гаразд. Виклич мене пізніше. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2V2_RILEY_0000",
+            "en": "Hey, uh, Evelyn? Are you around? Over.",
+            "ru_native": "Эй, Эвелин? Ты тут? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін? Ти там? Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2V2_RILEY_0001",
+            "en": "Hey, I just wanted to let you know that I’m going on a slight, uh, detour, here…",
+            "ru_native": "Я хотела предупредить, что мне предстоит небольшой крюк...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотіла лише попередити, що я трохи відійду від маршруту…"
+        },
+        {
+            "tag": "EVWT.EVA2V2_RILEY_0002",
+            "en": "We need to head to this, uh, church, sort of? It’s for a… religion, I guess, called Parentage.",
+            "ru_native": "Нам нужно добраться до церкви?.. Вроде. Она принадлежит «Наследию».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам треба до цієї, ем, церкви типу? Вона належить Парентажу."
+        },
+        {
+            "tag": "EVWT.EVA2V2_RILEY_0003",
+            "en": "Long story short, we need to disrupt their radio equipment before it cancels out our transmitter coverage.",
+            "ru_native": "Если кратко, то нам надо отключить их<br>радиооборудование прежде, чем оно заглушит наши передатчики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо стисло, нам потрібно вивести з ладу їхнє радіообладнання,<br>перш ніж воно заблокує покриття нашого радіопередавача."
+        },
+        {
+            "tag": "EVWT.EVA2V2_RILEY_0004",
+            "en": "So I’ll be a little longer. Over.",
+            "ru_native": "Процесс затягивается. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я трохи затримаюся. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2V2_RILEY_0005",
+            "en": "How are you holding up? Over.",
+            "ru_native": "Как ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти тримаєшся? Прийом."
+        }
+    ]
+}

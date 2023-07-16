@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SUMM.CLIANC",
+    "entries": [
+        {
+            "tag": "SUMM.CLIANC_JACOB_0000",
+            "en": "I saw nothing.",
+            "ru_native": "Я ничего не видел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я нічого не бачив."
+        },
+        {
+            "tag": "SUMM.CLIANC_RILEY_0000",
+            "en": "Doesn’t look… fresh.",
+            "ru_native": "На вид... не первой свежести.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вигядає… не дуже новим."
+        },
+        {
+            "tag": "SUMM.CLIANC_RILEY_0001",
+            "en": "I doubt it’ll be missed.",
+            "ru_native": "Сомневаюсь, что его упустят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумніваюся, що хтось за цим сумуватиме."
+        }
+    ]
+}

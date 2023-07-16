@@ -1,0 +1,177 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.CORPSE",
+    "entries": [
+        {
+            "tag": "A2C4.CORPSE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.CORPSE_CHOICE_0000_OPTION_0000",
+            "en": "Jacob!?",
+            "ru_native": "Джейкоб?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе?!"
+        },
+        {
+            "tag": "A2C4.CORPSE_CHOICE_0000_OPTION_0001",
+            "en": "Is this… me?",
+            "ru_native": "Это... я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… я?"
+        },
+        {
+            "tag": "A2C4.CORPSE_CHOICE_0000_OPTION_0002",
+            "en": "What’s going on?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що коїться?"
+        },
+        {
+            "tag": "A2C4.CORPSE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.CORPSE_CHOICE_0001_OPTION_0000",
+            "en": "I saw something…",
+            "ru_native": "Я что-то видела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я щось бачила…"
+        },
+        {
+            "tag": "A2C4.CORPSE_CHOICE_0001_OPTION_0001",
+            "en": "Let’s get out of here.",
+            "ru_native": "Давай выбираться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибираймося звідси."
+        },
+        {
+            "tag": "A2C4.CORPSE_JACOB_0000",
+            "en": "Hey! Sorry, I thought I saw another way out over there, but…",
+            "ru_native": "Эй! Прости, я думал, там есть другой выход.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Вибач, я думав, там є інший вихід, але…"
+        },
+        {
+            "tag": "A2C4.CORPSE_JACOB_0001",
+            "en": "False alarm.",
+            "ru_native": "Ложная тревога.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Помилкова тривога."
+        },
+        {
+            "tag": "A2C4.CORPSE_JACOB_0002",
+            "en": "Just a wind tunnel.",
+            "ru_native": "Просто ветер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якийсь вентиляційний канал."
+        },
+        {
+            "tag": "A2C4.CORPSE_JACOB_0003",
+            "en": "Let’s, uh, keep looking.",
+            "ru_native": "Ищем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукаймо далі."
+        },
+        {
+            "tag": "A2C4.CORPSE_JACOB_0004",
+            "en": "We’ll be gone, soon, Riley, don’t worry.",
+            "ru_native": "Райли, мы скоро выберемся, не переживай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми скоро виберемося, Райлі, не хвилюйся."
+        },
+        {
+            "tag": "A2C4.CORPSE_JACOB_0005",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це точно."
+        },
+        {
+            "tag": "A2C4.CORPSE_RILEY_0000",
+            "en": "—Jacob?",
+            "ru_native": "Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе?"
+        },
+        {
+            "tag": "A2C4.CORPSE_RILEY_0001",
+            "en": "Is this—is that… me?",
+            "ru_native": "Это... я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це що… я?"
+        },
+        {
+            "tag": "A2C4.CORPSE_RILEY_0002",
+            "en": "What’s… going on?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… відбувається?"
+        },
+        {
+            "tag": "A2C4.CORPSE_RILEY_0003",
+            "en": "I think I… might have seen something in the water, but…",
+            "ru_native": "Мне кажется, я что-то видела в воде...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здалося… я щось бачила у воді, але…"
+        },
+        {
+            "tag": "A2C4.CORPSE_RILEY_0004",
+            "en": "Nevermind. It’s gone now, anyway.",
+            "ru_native": "Забей. Все равно оно пропало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай. Хай там як, цього більше нема."
+        },
+        {
+            "tag": "A2C4.CORPSE_RILEY_0005",
+            "en": "Let’s just get the hell out of here.",
+            "ru_native": "Давай выбираться из этой дыры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час давати драла звідси."
+        }
+    ]
+}

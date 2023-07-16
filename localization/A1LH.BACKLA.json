@@ -1,0 +1,24 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1LH.BACKLA",
+    "entries": [
+        {
+            "tag": "A1LH.BACKLA_EVELYN_0000",
+            "en": "[WT] Riley? Riley are you there? It's Evelyn! Answer please.",
+            "ru_native": "Райли? Райли, ты там? Это Эвелин! Ответь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Райлі, ти там? Це Евелін! Будь ласка, відгукнися."
+        },
+        {
+            "tag": "A1LH.BACKLA_JACOB_0000",
+            "en": "Oh, hey, look at that. And we were just going to call them.",
+            "ru_native": "Ого, смотри-ка. А мы как раз собирались им звонить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, поглянь-но. А ми збиралися кликати її."
+        }
+    ]
+}

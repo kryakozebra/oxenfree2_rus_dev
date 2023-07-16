@@ -1,0 +1,267 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.USETEA",
+    "entries": [
+        {
+            "tag": "A2C4.USETEA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.USETEA_CHOICE_0000_OPTION_0000",
+            "en": "This is the only way!",
+            "ru_native": "Другого пути нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нема іншого виходу!"
+        },
+        {
+            "tag": "A2C4.USETEA_CHOICE_0000_OPTION_0001",
+            "en": "I want to see what it does!",
+            "ru_native": "Хочу проверить, что будет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені цікаво, що станеться!"
+        },
+        {
+            "tag": "A2C4.USETEA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.USETEA_CHOICE_0001_OPTION_0000",
+            "en": "We'll be fine.",
+            "ru_native": "Все обойдется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде добре."
+        },
+        {
+            "tag": "A2C4.USETEA_CHOICE_0001_OPTION_0001",
+            "en": "[LIE] I CAN'T CONTROL IT!",
+            "ru_native": "[Ложь] Я ЕГО НЕ КОНТРОЛИРУЮ!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[БРЕХНЯ] Я ЦЕ НЕ КОНТРОЛЮЮ!"
+        },
+        {
+            "tag": "A2C4.USETEA_CHOICE_0001_OPTION_0002",
+            "en": "Now I'm panicking. ",
+            "ru_native": "Теперь я паникую. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер я панікую. "
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0000",
+            "en": "Oh wait, are we really going to try this?",
+            "ru_native": "Погоди, мы правда будем пробовать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми справді спробуємо?"
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0001",
+            "en": "Hey, wait, you’re just gonna—we haven’t seen if we can maybe just walk out!",
+            "ru_native": "Погоди, ты хочешь?.. Мы же не проверили, есть ли тут другой выход!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти що, збираєшся… ми ж навіть не перевірили, чи є тут інший вихід!"
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0002",
+            "en": "We don’t know what this thing will do!",
+            "ru_native": "Неизвестно, что эта штука сделает!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не знаємо, як ця штука працює!"
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0003",
+            "en": "Right? This seems crazy.",
+            "ru_native": "Это же безумие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? Це божевілля."
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0004",
+            "en": "I… slightly-to-strongly disagree, but—oh—okay—",
+            "ru_native": "Осмелюсь категорически не согласиться, но... Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я трохи категорично проти, але… гаразд…"
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0005",
+            "en": "Egh.",
+            "ru_native": "Ну...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ех."
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0006",
+            "en": "I’m just gonna do what I did last time we futzed with one of these…",
+            "ru_native": "Я просто буду делать то же самое, что и в прошлый раз...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я буду робити те ж саме, що й минулого разу, коли зв’язалися із цією штукою…"
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0007",
+            "en": "Panic.",
+            "ru_native": "Паниковать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Панікувати."
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0008",
+            "en": "Quietly, don’t worry!",
+            "ru_native": "Тише, не волнуйся!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, я тихо!"
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0009",
+            "en": "But… panic still.",
+            "ru_native": "Но... я все равно в панике.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… усе ж панікувати."
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0010",
+            "en": "Fine…ly ground into dust possibly…",
+            "ru_native": "Ага... или в порошок сотремся...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз оце… у пилюку падати…"
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0011",
+            "en": "I’ll stop.",
+            "ru_native": "Я вырублю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе, мовчу."
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0012",
+            "en": "Yes. Hilarious.",
+            "ru_native": "Ага. Шутница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, як весело."
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0013",
+            "en": "And—oddly—that makes me feel better.",
+            "ru_native": "И, как ни странно, мне от этого легче.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як дивно, мені від цього якось навіть краще."
+        },
+        {
+            "tag": "A2C4.USETEA_JACOB_0014",
+            "en": "So, hey, balance?",
+            "ru_native": "Нашли баланс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Врівноважено?"
+        },
+        {
+            "tag": "A2C4.USETEA_RILEY_0000",
+            "en": "I’m sorry, Jacob, but this is the only way!",
+            "ru_native": "Прости, Джейкоб, это единственный выход!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач, Джейкобе, іншого виходу просто нема!"
+        },
+        {
+            "tag": "A2C4.USETEA_RILEY_0001",
+            "en": "I want to see what this does, Jacob! Sometimes these things help!\n",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я хочу посмотреть, что из этого получится, Джейкоб! Иногда такие вещи помогают!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.USETEA_RILEY_0002",
+            "en": "Let’s just see what this does! It might help!",
+            "ru_native": "Давай посмотрим, как это работает! Должно помочь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дізнаймося, що воно робить! А раптом допоможе!"
+        },
+        {
+            "tag": "A2C4.USETEA_RILEY_0003",
+            "en": "We’re fine, we’re gonna be fine.",
+            "ru_native": "Все хорошо, мы пробьемся",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та все добре, і з нами все буде добре."
+        },
+        {
+            "tag": "A2C4.USETEA_RILEY_0004",
+            "en": "JACOB, I CAN’T CONTROL IT! [screams in agony]",
+            "ru_native": "ДЖЕЙКОБ, Я ПОТЕРЯЛА УПРАВЛЕНИЕ!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ДЖЕЙКОБЕ, Я ВТРАЧАЮ КОНТРОЛЬ! [кричить у муках]"
+        },
+        {
+            "tag": "A2C4.USETEA_RILEY_0005",
+            "en": "Oh what can I say, I’m sorry I’m so hilarious.",
+            "ru_native": "Ну что сказать, извини, что я такая шутница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тут сказати, вибач, веселюся як можу."
+        },
+        {
+            "tag": "A2C4.USETEA_RILEY_0006",
+            "en": "Well, great, now I’m panicking.",
+            "ru_native": "Ну ладно, теперь и я паникую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, тепер я панікую."
+        }
+    ]
+}

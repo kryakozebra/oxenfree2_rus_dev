@@ -1,0 +1,798 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S3.EVEWAT",
+    "entries": [
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, I'm here.",
+            "ru_native": "Да, я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тут."
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0001_OPTION_0000",
+            "en": "[TRUTH] I needed any job.",
+            "ru_native": "[Правда] Мне нужна была любая работа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ПРАВДА] Мені була потрібна будь-яка робота."
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0001_OPTION_0001",
+            "en": "[LIE] I love environmental research.",
+            "ru_native": "[Ложь] Я люблю экологические исследования.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[БРЕХНЯ] Я люблю екологічні дослідження."
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0001_OPTION_0002",
+            "en": "Why do you do it?",
+            "ru_native": "Зачем тебе это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо тобі це?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0002_OPTION_0000",
+            "en": "Just copy that.",
+            "ru_native": "Просто скопируй ответы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто перефразуй свої відповіді."
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0002_OPTION_0001",
+            "en": "There's mercury in drinking water?",
+            "ru_native": "В питьевой воде есть ртуть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Питна вода містить ртуть?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0003_OPTION_0000",
+            "en": "I grew up in Camena.",
+            "ru_native": "Я выросла в Камене.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я виросла в Камені."
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0003_OPTION_0001",
+            "en": "Send checks to Seattle.",
+            "ru_native": "Чеки отправлять в Сиэтл.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чеки надсилати в Сіетл."
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0004_OPTION_0000",
+            "en": "I’m pregnant, yes. ",
+            "ru_native": "Я беременна, да. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я вагітна. "
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0004_OPTION_0001",
+            "en": " [LIE] I was joking. ",
+            "ru_native": " (ЛОЖЬ) Я пошутила. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": " [БРЕХНЯ] Я пожартувала. "
+        },
+        {
+            "tag": "A1S3.EVEWAT_CHOICE_0004_OPTION_0002",
+            "en": "What does it matter?",
+            "ru_native": "Какая разница?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яка різниця?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0000",
+            "en": "Hey, Riley, checking on progress—guessing you're on your way…",
+            "ru_native": "Привет, Райли, как там у нас дела? Ты, наверное, уже в пути...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Райлі? Як там прогрес? Ти, мабуть, уже вирушила до…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0001",
+            "en": "Also, we have a quick -- super quick -- employee survey --",
+            "ru_native": "У нас тут небольшой – совсем небольшой – опрос сотрудников...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0002",
+            "en": "I should have done this earlier, but we can do it while you're, uh, en route.",
+            "ru_native": "Надо было опросить тебя раньше, но можем сейчас, пока ты в пути.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба було зробити це раніше, але можна й зараз, доки ти в дорозі."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0003",
+            "en": "Should be fast -- what do you -- this is the first question --",
+            "ru_native": "Я быстро. Что ты... Это первый вопрос...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0004",
+            "en": "What do you hope to get out of working with an environmental research lab?",
+            "ru_native": "Что ты надеешься получить от работы с лабораторией экологических исследований?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти сподіваєшся отримати від роботи з лабораторією екологічних досліджень?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0005",
+            "en": "Anyways—sorry—back to the—I don't know if you heard me, but I have a quick employee survey—",
+            "ru_native": "Так... прости... вернемся к... Не знаю, услышала ли<br>ты, но у меня тут короткий опрос для сотрудников...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… вибач… повернемося до… Не знаю, чи ти почула,<br>але в мене тут опитування для співробітників…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0006",
+            "en": "First question… what do you hope to get out of working with an environmental research lab?",
+            "ru_native": "Первый вопрос... Что ты надеешься получить от<br>работы с лабораторией экологических исследований?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перше запитання… Що ти сподіваєшся отримати<br>від роботи з лабораторією екологічних досліджень?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0007",
+            "en": "Okay… back to the survey.",
+            "ru_native": "Ладно... вернемся к опросу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… повернемося до опитування."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0008",
+            "en": "What do you hope to get out of working with an environmental research lab.",
+            "ru_native": "Что ты надеешься получить от работы с лабораторией экологических исследований?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти сподіваєшся отримати від роботи з лабораторією екологічних досліджень?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0009",
+            "en": "And this, you know...",
+            "ru_native": "И, в общем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І, знаєш…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0010",
+            "en": "This can be anything.",
+            "ru_native": "Отвечай что хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це може бути що завгодно."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0011",
+            "en": "Any reason…",
+            "ru_native": "Любая причина...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь-яка причина…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0012",
+            "en": "Just need it for the survey.",
+            "ru_native": "Это только для опроса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це лише для опитування."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0013",
+            "en": "Could be anything…",
+            "ru_native": "Назови любую...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що завгодно."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0014",
+            "en": "Okay. I'll put, uh, I'll put something like… you were economically motivated.",
+            "ru_native": "Ладно. Напишу что-нибудь вроде... у тебя был финансовый интерес.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Напишу, що… у тебе був фінансовий інтерес."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0015",
+            "en": "Okay, no, that's good, perfect. We don't have to belabor anything.",
+            "ru_native": "Да, нет, конечно, идеально. Не надо ничего выдумывать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, це ідеально. Не треба нічого вигадувати."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0016",
+            "en": "Are you there? Riley?",
+            "ru_native": "Райли? Ты тут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тут? Райлі?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0017",
+            "en": "We might be going in and out…",
+            "ru_native": "Связь может прерываться...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’язок може перерватися…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0018",
+            "en": "And we can come back to some of these, too, so…",
+            "ru_native": "Что-то придется повторять по два раза, итак...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось доведеться повторювати двічі, тож…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0019",
+            "en": "Oh, Christ, I think I said something like I care about the mercury levels in our drinking water or something.",
+            "ru_native": "Блин, по-моему, я сказала, что меня волнует<br>содержание ртути в питьевой воде или типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, здається, я сказала, що мене хвилює вміст ртуті в питній воді чи щось таке."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0020",
+            "en": "I don't know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0021",
+            "en": "I just answered a form to be honest.",
+            "ru_native": "Просто заполнила опрос, и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто заповнила форму для опитування і все."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0022",
+            "en": "Okay, sounds good.",
+            "ru_native": "Ладно, хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0023",
+            "en": "No, no—well, maybe. The EPA allows a certain amount, but it's hardly regulated state-to-state.",
+            "ru_native": "Нет-нет... ну, может быть. У АООС есть допустимая норма, но в каждом штате она своя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні… ну, можливо. В УОНС США є допустима норма, але для кожного штату вона своя."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0024",
+            "en": "If you don't glow in the dark, you should be okay.",
+            "ru_native": "Если ты не светишься в темноте, волноваться нечего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти не світишся в темряві, то турбуватися не варто."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0025",
+            "en": "Moving on… your mailing address you listed is in Seattle…",
+            "ru_native": "Давай дальше... ты написала в анкете, что живешь в Сиэтле...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжимо… ти написала в анкеті, що живеш у Сіетлі…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0026",
+            "en": "But your Driver's License has a Camena address. Where should we send your checks?",
+            "ru_native": "Но в твоих водительских правах стоит Камена. Так куда нам присылать тебе чеки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але у твоєму посвідченні водія стоїть Камена. То куди нам надсилати чеки?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0027",
+            "en": "Sorry, I think we cut out for a second, but you have two addresses listed on your employee form?",
+            "ru_native": "Прости, связь пропала. У тебя в анкете сотрудника указаны два адреса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, зв’язок перервався. У твоїй анкеті вказано дві адреси."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0028",
+            "en": "Seattle and Camena, which is accurate?",
+            "ru_native": "Сиэтл и Камена, какой верный?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сіетл і Камена. Який правильний?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0029",
+            "en": "Okay—really quick, Riley, where do you live? Seattle or Camena?",
+            "ru_native": "Так... короче, Райли, где ты живешь? В Сиэтле или в Камене?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… Райлі, де ти живеш? У Сіетлі чи Камені?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0030",
+            "en": "I don't know why we don't do direct deposit, yet, but…",
+            "ru_native": "Не знаю, почему мы не платим зарплату прямо на счет, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чому ми не виплачуємо зарплатню одразу на рахунок, але…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0031",
+            "en": "Here we are.",
+            "ru_native": "Вот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маємо, що маємо."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0032",
+            "en": "It's for where to send your checks.",
+            "ru_native": "Это нужно для бухгалтерии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це потрібно для бухгалтерії."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0033",
+            "en": "Which is it?",
+            "ru_native": "Куда отправлять чеки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То куди надсилати чеки?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0034",
+            "en": "Oh—got it. Okay. I'll make sure everything says Seattle, then.",
+            "ru_native": "...Понятно. Ладно. Исправим тогда везде на Сиэтл.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… Добре, тоді заміню всюди на Сіетл."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0035",
+            "en": "Got it. Okay.",
+            "ru_native": "Ясно. Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, зрозуміла."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0036",
+            "en": "Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0037",
+            "en": "Man, this is not getting reception… Riley?",
+            "ru_native": "Блин, тут вообще не ловит... Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько, тут взагалі немає зв’язку… Райлі?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0038",
+            "en": "Riley? I think I might be… losing you…",
+            "ru_native": "Райли? Кажется, сейчас связь... пропадет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Здається, зв’язок зараз… зникне…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0039",
+            "en": "It's—I can ask you the rest of the questions later. Okay?",
+            "ru_native": "Ладно, остальные вопросы задам потом. Хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, решту запитань я поставлю пізніше."
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0040",
+            "en": "Just try and let me know when you reach the peak. Thank youuuuu!",
+            "ru_native": "Просто дай знать, когда доедешь до вершины. Спасибо-о-о-о!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повідом мені, коли дістанешся вершини. Дякую-ю-ю!"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0041",
+            "en": "We had a few clarifications about your employee profile?",
+            "ru_native": "Мы уже разобрались с твоей служебной характеристикой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас було кілька запитань стосовно твоєї анкети працівника?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0042",
+            "en": "You listed under medical conditions that you’re… pregnant?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты указала в разделе медицинских показаний, что ты... беременна?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0043",
+            "en": "But, uh, I was just wanting to get clarity on whether or not you’re pregnant?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но я просто хотел уточнить, беременна ты или нет?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0044",
+            "en": "Was that, uh…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это было...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0045",
+            "en": "Is that accurate?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это точно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0046",
+            "en": "Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0047",
+            "en": "You marked it under medical conditions.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты отметил это медицинскими показаниями.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0048",
+            "en": "On the, uh, the questionnaire?",
+            "ru_native": "",
+            "ru_machine": "DEEPL В... э... анкете?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0049",
+            "en": "Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0050",
+            "en": "Okay, got it! We just -- we wanted to check.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, понял! Мы просто... мы хотели проверить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0051",
+            "en": "[laughing] Okay, got it! We just -- we thought that, so… we wanted to check.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется] Ладно, понял! Мы просто... мы так подумали, поэтому... мы хотели проверить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0052",
+            "en": "Just accuracy, really, that’s all, just -- just double checking. But we can -- we’ll skip that one.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто точность, правда, вот и всё, просто... просто двойная проверка. Но мы можем... мы пропустим это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0053",
+            "en": "This was -- don’t misunderstand me, this isn’t a legal thing, just checking for the records.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это было - не поймите меня неправильно, это не юридическая вещь, просто проверка записей.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0054",
+            "en": "But we can skip that one. Anyway…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но мы можем пропустить этот момент. В общем...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0055",
+            "en": "It’s, uh -- anyways, it’s okay if we skip the pregnancy field, here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... в общем, ничего страшного, если мы пропустим поле \"беременность\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_EVELYN_0056",
+            "en": "Uh… next up is the reason for employment?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э-э... следующая - причина трудоустройства?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0000",
+            "en": "Yeah, Evelyn, I'm here. Over.",
+            "ru_native": "Да, Эвелин, я тут. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Евелін, я тут. Прийом."
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0001",
+            "en": "Uh… I just needed a job, Evelyn, that's really—it's entry-level and was hiring, that's really it.",
+            "ru_native": "Хм... Мне просто нужна была работа, Эвелин, и все. А сюда брали даже без опыта.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… Мені була потрібна робота, Евелін. А сюди брали навіть без досвіду."
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0002",
+            "en": "Um, I just… love… environmental research.",
+            "ru_native": "Хм, я просто... люблю... экологические исследования.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, я просто… люблю… екологічні дослідження."
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0003",
+            "en": "I mean—that sounds—but it's true, I do care about the environment. I hope this is fulfilling, but—",
+            "ru_native": "Понимаю, это звучит... Но это правда, я забочусь об экологии.<br>Надеюсь, такой ответ подойдет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумію, це звучить… Але це правда, я турбуюся про довкілля.<br>Сподіваюся, така відповідь влаштовує…"
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0004",
+            "en": "Uh, what did you put down for your answer? Over.",
+            "ru_native": "А ты что ответила на первый вопрос? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти що відповіла на перше запитання? Прийом."
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0005",
+            "en": "Okay. Just copy that, please. But put it in my own, dumber words.",
+            "ru_native": "Тогда просто перепиши другими словами, попроще. Пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді просто перефразуй свої відповіді, але простіше, наче це я відповіла."
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0006",
+            "en": "Um, wait, this is news to me—there's mercury in our drinking water?",
+            "ru_native": "Эй, постой, а я и не знала – у нас в питьевой воде есть ртуть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, я й не знала… У питній воді є ртуть?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0007",
+            "en": "Am I an idiot for drinking straight from the tap my entire life?",
+            "ru_native": "Я что, совсем глупая, чтобы пить воду прямо из-под крана?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виходить, що я дурепа, бо п’ю воду з-під крану все життя?"
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0008",
+            "en": "Oh, that's—I grew up in Camena. I still have it listed on my license to avoid Jury Duty.",
+            "ru_native": "А, в общем... я родилась в Камене. А права не<br>меняла, чтобы меня не вызвали в суд присяжным.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, зараз поясню… я народилася в Камені. Адресу в посвідченні<br>не змінювала, щоби мене не викликали присяжною до суду."
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0009",
+            "en": "And out-of-state parking tickets.",
+            "ru_native": "И чтобы штрафы за парковку в другой штат приходили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І щоби штрафи за стоянку надсилали до іншого штату."
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0010",
+            "en": "No, the Seattle address is the right one. Send 'em there.",
+            "ru_native": "Нет, правильный адрес – Сиэтл. Отправляйте туда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правильна адреса — Сіетл. Надсилайте туди."
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0011",
+            "en": "Yeah, Evelyn, I am. That’s why I marked it. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, Эвелин, это так. Поэтому я и пометил его. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0012",
+            "en": "I was, uh, joking about that, Evelyn. Sorry, I thought… that would be obvious. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я, эм, пошутил по этому поводу, Эвелин. Извини, я думал... это будет очевидно. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0013",
+            "en": "Uh, what does that matter? If I am or not, I mean. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL А, впрочем, какое это имеет значение? Есть я или нет, я имею в виду. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVEWAT_RILEY_0014",
+            "en": "This is kind of a… reset for me. In a lot of ways. Over.",
+            "ru_native": "Это для меня вроде... перезагрузки. Во всех смыслах. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це як… майже все спочатку. У широкому розумінні. Прийом."
+        }
+    ]
+}

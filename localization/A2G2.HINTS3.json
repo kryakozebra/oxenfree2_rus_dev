@@ -1,0 +1,267 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.HINTS3",
+    "entries": [
+        {
+            "tag": "A2G2.HINTS3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.HINTS3_CHOICE_0000_OPTION_0000",
+            "en": "The mines?",
+            "ru_native": "Шахта?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шахти?"
+        },
+        {
+            "tag": "A2G2.HINTS3_CHOICE_0000_OPTION_0001",
+            "en": "The town?",
+            "ru_native": "Город?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Місто?"
+        },
+        {
+            "tag": "A2G2.HINTS3_CHOICE_0000_OPTION_0002",
+            "en": "Dunno.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A2G2.HINTS3_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.HINTS3_CHOICE_0001_OPTION_0000",
+            "en": "I don't know either.",
+            "ru_native": "Я тоже не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж не знаю."
+        },
+        {
+            "tag": "A2G2.HINTS3_CHOICE_0001_OPTION_0001",
+            "en": "I bet Camena is older.",
+            "ru_native": "Спорим, Камена старше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Б’юся об заклад, Камена старше."
+        },
+        {
+            "tag": "A2G2.HINTS3_CHOICE_0001_OPTION_0002",
+            "en": "I bet Garland is older.",
+            "ru_native": "Спорим, Гарленд старше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Б’юся об заклад, Гарленд старше."
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0000",
+            "en": "So if this town was built in the late 1870s…",
+            "ru_native": "Значит, если город построили в конце XIX века...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, якщо це місто було збудовано в кінці 1870-х…"
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0001",
+            "en": "I wonder if there was already mining going on then.",
+            "ru_native": "Интересно, шахта тогда уже работала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво, чи тоді вже працювали шахти?"
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0002",
+            "en": "Like, which came first? The mines or the town?",
+            "ru_native": "В смысле, что появилось раньше? Шахта или город?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто що заснували першим: шахти чи місто?"
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0003",
+            "en": "Could be.",
+            "ru_native": "Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може бути."
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0004",
+            "en": "Could be.",
+            "ru_native": "Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може бути."
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0005",
+            "en": "Is Camena older than Garland? I—honestly don't know.",
+            "ru_native": "Камена старше Гарленда? Я, честно говоря, не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи місто Камена старше за Гарленд? Чесно, я не знаю."
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0006",
+            "en": "I think we read 1878. I have no clue what Camena—or the land now known as Camena—would have looked like in 1878.",
+            "ru_native": "По-моему, в 1878-м. Не знаю, как в 1878-м году<br>выглядела Камена или то, чем она была раньше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ми читали 1878 рік. Гадки не маю, який вигляд місто Камена,<br>або земля, що нині відома як Камена, мало в 1878 році."
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0007",
+            "en": "Just something I, uh—",
+            "ru_native": "Просто, хм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Таке питання…"
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0008",
+            "en": "Sorry. Mind's wandering a little.",
+            "ru_native": "Прости. Немного задумался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач. Трохи замислився."
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0009",
+            "en": "It's cool to think about, though. What the world must have looked like when these buildings were being built.",
+            "ru_native": "Интересно порассуждать, каким был мир, когда строились эти здания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча цікаво замислитися, який був світ, коли зводили ці будинки."
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0010",
+            "en": "1878. Pioneers, wagon trains, fur traders.",
+            "ru_native": "1878-й год. Поселенцы, повозки, звероловы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "1878 рік. Першовідкривачі, обози, торгівці міхами."
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0011",
+            "en": "Fun to think about.",
+            "ru_native": "Интересно представить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво роздумувати."
+        },
+        {
+            "tag": "A2G2.HINTS3_JACOB_0012",
+            "en": "Probably smelled, though. I don't think deodorant had been invented. They never mention that in the movies.",
+            "ru_native": "Вонючим, наверное. Не думаю, что в то время уже изобрели дезодорант.<br>Об этом в кино не рассказывают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сморід, певно, був сильний. Дезодорант іще не винайшли.<br>У фільмах про таке не згадують."
+        },
+        {
+            "tag": "A2G2.HINTS3_RILEY_0000",
+            "en": "Probably mines, right?",
+            "ru_native": "Наверное, шахта?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, шахти, так?"
+        },
+        {
+            "tag": "A2G2.HINTS3_RILEY_0001",
+            "en": "The town, maybe?",
+            "ru_native": "Может, город?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, місто?"
+        },
+        {
+            "tag": "A2G2.HINTS3_RILEY_0002",
+            "en": "Yeah, good point. Not sure.",
+            "ru_native": "Хороший вопрос. не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, слушна думка. Не впевнений."
+        },
+        {
+            "tag": "A2G2.HINTS3_RILEY_0003",
+            "en": "[sigh] Same boat. No clue.",
+            "ru_native": "Я тоже без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж гадки не маю."
+        },
+        {
+            "tag": "A2G2.HINTS3_RILEY_0004",
+            "en": "1878? I think Camena was founded earlier.",
+            "ru_native": "1878-й? По-моему, Камена была раньше основана.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "1878 рік? Гадаю, місто Камена було засноване раніше."
+        },
+        {
+            "tag": "A2G2.HINTS3_RILEY_0005",
+            "en": "Just a hunch, though. Don't quote me.",
+            "ru_native": "Просто догадка. Это не точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто здогадка. Я не стверджую."
+        },
+        {
+            "tag": "A2G2.HINTS3_RILEY_0006",
+            "en": "1878? My money's on Garland.",
+            "ru_native": "1878-й? Ставлю на Гарленд.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "1878? Ставлю на Гарленд."
+        },
+        {
+            "tag": "A2G2.HINTS3_RILEY_0007",
+            "en": "Not sure why, though. Just a feeling.",
+            "ru_native": "Не знаю почему. Просто кажется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча не впевнений. Просто відчуття."
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.NOPATT",
+    "entries": [
+        {
+            "tag": "A3S5.NOPATT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.NOPATT_CHOICE_0000_OPTION_0000",
+            "en": "I think more than one…",
+            "ru_native": "Нужно больше одного...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, набагато більше…"
+        },
+        {
+            "tag": "A3S5.NOPATT_CHOICE_0000_OPTION_0001",
+            "en": "Maybe a sequence?",
+            "ru_native": "Нужна последовательность?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, послідовність?"
+        },
+        {
+            "tag": "A3S5.NOPATT_JACOB_0000",
+            "en": "I think maybe there’s like a daisy chain thing going on here…",
+            "ru_native": "Наверное, они образуют какую-то цепочку...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що, можливо, тут відбувається щось на кшталт ланцюжкової реакції…"
+        },
+        {
+            "tag": "A3S5.NOPATT_JACOB_0001",
+            "en": "Or they all have to be done in a particular sequence?",
+            "ru_native": "Или их надо включить в верной последовательности?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або все повинно бути в певній послідовності?"
+        },
+        {
+            "tag": "A3S5.NOPATT_JACOB_0002",
+            "en": "I’m… just thinking out loud, here.",
+            "ru_native": "Просто размышляю вслух.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… просто думаю вголос."
+        },
+        {
+            "tag": "A3S5.NOPATT_RILEY_0000",
+            "en": "[to herself] Mm. Probably need to get more than just one of these right…",
+            "ru_native": "Хм-м. Наверное, нужно включить больше, чем один...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Мм. Напевно, потрібно більше, чи не так?.."
+        },
+        {
+            "tag": "A3S5.NOPATT_RILEY_0001",
+            "en": "[to herself] Maybe these require… a certain pattern, or…?",
+            "ru_native": "Может, нужна точная последовательность?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Можливо, потрібна… певна закономірність, чи…"
+        }
+    ]
+}

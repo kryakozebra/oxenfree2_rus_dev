@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.DOCOMC",
+    "entries": [
+        {
+            "tag": "A2C6.DOCOMC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.DOCOMC_CHOICE_0000_OPTION_0000",
+            "en": "Okay, sorry.",
+            "ru_native": "Хорошо, извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, вибач."
+        },
+        {
+            "tag": "A2C6.DOCOMC_CHOICE_0000_OPTION_0001",
+            "en": "Just calm down.",
+            "ru_native": "Успокойся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто заспокойся."
+        },
+        {
+            "tag": "A2C6.DOCOMC_RILEY_0000",
+            "en": "Okay, okay, sorry—",
+            "ru_native": "Хорошо, извини...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд, вибач…"
+        },
+        {
+            "tag": "A2C6.DOCOMC_RILEY_0001",
+            "en": "Hey, just calm the hell down, okay, kid?",
+            "ru_native": "Девочка, успокойся. Давай без нервов?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, та заспокойся ти, добре?"
+        },
+        {
+            "tag": "A2C6.DOCOMC_VIOLET_0000",
+            "en": "Hey! Don’t get close to me!",
+            "ru_native": "Не подходи ко мне!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Не підходь до мене!"
+        },
+        {
+            "tag": "A2C6.DOCOMC_VIOLET_0001",
+            "en": "Don’t take another step!",
+            "ru_native": "Ни шагу больше!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ані кроку більше!"
+        },
+        {
+            "tag": "A2C6.DOCOMC_VIOLET_0002",
+            "en": "Don’t think we’re friends or anything!",
+            "ru_native": "Не думай, что мы друзья!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думай, що ми друзі, абощо!"
+        },
+        {
+            "tag": "A2C6.DOCOMC_VIOLET_0003",
+            "en": "I don’t know you.",
+            "ru_native": "Я тебя не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тебе не знаю."
+        }
+    ]
+}

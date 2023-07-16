@@ -1,0 +1,1059 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SYS.MENU",
+    "entries": [
+        {
+            "tag": "SYS.MENU_0000",
+            "en": "Play",
+            "ru_native": "Играть",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Грати"
+        },
+        {
+            "tag": "SYS.MENU_0001",
+            "en": "Settings",
+            "ru_native": "Настройки",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Параметри"
+        },
+        {
+            "tag": "SYS.MENU_0002",
+            "en": "Quit",
+            "ru_native": "Выход",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вийти"
+        },
+        {
+            "tag": "SYS.MENU_0003",
+            "en": "Back",
+            "ru_native": "Назад",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Назад"
+        },
+        {
+            "tag": "SYS.MENU_0004",
+            "en": "Delete Save Data",
+            "ru_native": "Удалить сохранение",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Видалити збережені дані"
+        },
+        {
+            "tag": "SYS.MENU_0005",
+            "en": "Resolution",
+            "ru_native": "Разрешение",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роздільна здатність"
+        },
+        {
+            "tag": "SYS.MENU_0006",
+            "en": "Language",
+            "ru_native": "Язык",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мова"
+        },
+        {
+            "tag": "SYS.MENU_0007",
+            "en": "Graphics",
+            "ru_native": "Графика",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Графіка"
+        },
+        {
+            "tag": "SYS.MENU_0008",
+            "en": "Subtitles",
+            "ru_native": "Субтитры",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Субтитри"
+        },
+        {
+            "tag": "SYS.MENU_0009",
+            "en": "File 1",
+            "ru_native": "Файл 1",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Файл 1"
+        },
+        {
+            "tag": "SYS.MENU_0010",
+            "en": "File 2",
+            "ru_native": "Файл 2",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Файл 2"
+        },
+        {
+            "tag": "SYS.MENU_0011",
+            "en": "File 3",
+            "ru_native": "Файл 3",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Файл 3"
+        },
+        {
+            "tag": "SYS.MENU_0012",
+            "en": "Press A",
+            "ru_native": "Нажмите",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Натисніть A"
+        },
+        {
+            "tag": "SYS.MENU_0013",
+            "en": "Resume",
+            "ru_native": "Вернуться к игре",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повернутися"
+        },
+        {
+            "tag": "SYS.MENU_0014",
+            "en": "Main Menu",
+            "ru_native": "Главное меню",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Головне меню"
+        },
+        {
+            "tag": "SYS.MENU_0015",
+            "en": "Off",
+            "ru_native": "Выкл.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вимкнути"
+        },
+        {
+            "tag": "SYS.MENU_0016",
+            "en": "On",
+            "ru_native": "Вкл.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Увімкнути"
+        },
+        {
+            "tag": "SYS.MENU_0017",
+            "en": "View Trophies",
+            "ru_native": "Показать трофеи",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Переглянути призи"
+        },
+        {
+            "tag": "SYS.MENU_0018",
+            "en": "View Achievements",
+            "ru_native": "Показать достижения",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Переглянути досягнення"
+        },
+        {
+            "tag": "SYS.MENU_0019",
+            "en": "Windowed",
+            "ru_native": "В окне",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У вікні"
+        },
+        {
+            "tag": "SYS.MENU_0020",
+            "en": "Options",
+            "ru_native": "Параметры",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Налаштування"
+        },
+        {
+            "tag": "SYS.MENU_0021",
+            "en": "Controls",
+            "ru_native": "Управление",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Елементи керування"
+        },
+        {
+            "tag": "SYS.MENU_0022",
+            "en": "Load Game",
+            "ru_native": "Загрузить игру",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завантажити гру"
+        },
+        {
+            "tag": "SYS.MENU_0023",
+            "en": "Paused",
+            "ru_native": "Пауза",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пауза"
+        },
+        {
+            "tag": "SYS.MENU_0024",
+            "en": "Restore Defaults",
+            "ru_native": "Вернуть настройки по умолчанию",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відновити параметри за замовчуванням"
+        },
+        {
+            "tag": "SYS.MENU_0025",
+            "en": "VO Volume",
+            "ru_native": "Громкость голоса",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гучність дубляжу"
+        },
+        {
+            "tag": "SYS.MENU_0026",
+            "en": "SFX Volume",
+            "ru_native": "Громкость эффектов",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гучність звукових ефектів"
+        },
+        {
+            "tag": "SYS.MENU_0027",
+            "en": "Music Volume",
+            "ru_native": "Громкость музыки",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гучність музики"
+        },
+        {
+            "tag": "SYS.MENU_0028",
+            "en": "Apply & Exit",
+            "ru_native": "Применить и выйти",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Застосувати та вийти"
+        },
+        {
+            "tag": "SYS.MENU_0029",
+            "en": "Revert & Exit",
+            "ru_native": "Вернуть и выйти",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скасувати та вийти"
+        },
+        {
+            "tag": "SYS.MENU_0030",
+            "en": "OK",
+            "ru_native": "OK",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підтвердити"
+        },
+        {
+            "tag": "SYS.MENU_0031",
+            "en": "Cancel",
+            "ru_native": "Отмена",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скасувати"
+        },
+        {
+            "tag": "SYS.MENU_0032",
+            "en": "Return to Main Menu",
+            "ru_native": "Назад в главное меню",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повернутися до головного меню"
+        },
+        {
+            "tag": "SYS.MENU_0033",
+            "en": "Are you sure you want to return to the main menu? All unsaved progress will be lost.",
+            "ru_native": "Вы точно хотите вернуться в главное меню? Весь несохраненный прогресс будет потерян.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви дійсно хочете повернутися до головного меню?<br>Весь незбережений прогрес буде втрачено."
+        },
+        {
+            "tag": "SYS.MENU_0034",
+            "en": "Quit Game",
+            "ru_native": "Выйти из игры",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вийти з гри"
+        },
+        {
+            "tag": "SYS.MENU_0035",
+            "en": "Are you sure you want to quit the game? All unsaved progress will be lost.",
+            "ru_native": "Вы точно хотите выйти из игры? Весь несохраненный прогресс будет потерян.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дійсно вийти з гри? Весь незбережений прогрес буде втрачено."
+        },
+        {
+            "tag": "SYS.MENU_0036",
+            "en": "Are you sure you want to delete this save data? This cannot be undone.",
+            "ru_native": "Вы точно хотите удалить это сохранение? Данные нельзя будет вернуть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви дійсно хочете видалити ці збережені дані? Це не можна скасувати."
+        },
+        {
+            "tag": "SYS.MENU_0037",
+            "en": "Delete",
+            "ru_native": "Удалить",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Видалити"
+        },
+        {
+            "tag": "SYS.MENU_0038",
+            "en": "Are you sure you want to restore all settings to their default values?",
+            "ru_native": "Вы точно хотите вернуть все настройки к значениям по умолчанию?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви дійсно хочете відновити всі параметри до значень за замовчуванням?"
+        },
+        {
+            "tag": "SYS.MENU_0039",
+            "en": "Restore Default Settings",
+            "ru_native": "Вернуть настройки по умолчанию",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відновити параметри за замовчуванням"
+        },
+        {
+            "tag": "SYS.MENU_0040",
+            "en": "Revert Settings",
+            "ru_native": "Вернуть настройки",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повернути параметри"
+        },
+        {
+            "tag": "SYS.MENU_0041",
+            "en": "Are you sure? Your settings changes will not be saved.",
+            "ru_native": "Вы уверены? Измененные настройки не сохранятся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви впевнені? Ваші зміни параметрів не будуть збережені."
+        },
+        {
+            "tag": "SYS.MENU_0042",
+            "en": "Data Privacy",
+            "ru_native": "Конфиденциальность данных",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Конфіденційність даних"
+        },
+        {
+            "tag": "SYS.MENU_0043",
+            "en": "[Data Privacy message]",
+            "ru_native": "(Сообщение о конфиденциальности данных)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Повідомлення про конфіденційність даних]"
+        },
+        {
+            "tag": "SYS.MENU_0044",
+            "en": "More Info / Opt Out",
+            "ru_native": "Подробнее / Отказаться",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Докладніше / Відмовитися"
+        },
+        {
+            "tag": "SYS.MENU_0045",
+            "en": "Accept",
+            "ru_native": "Принять",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погодитися"
+        },
+        {
+            "tag": "SYS.MENU_0046",
+            "en": "Large Text",
+            "ru_native": "Крупный текст",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Великий текст"
+        },
+        {
+            "tag": "SYS.MENU_0047",
+            "en": "Alt Font",
+            "ru_native": "Альтернативный шрифт",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Альтернативний шрифт"
+        },
+        {
+            "tag": "SYS.MENU_0048",
+            "en": "Talk",
+            "ru_native": "",
+            "ru_machine": "DEEPL Поговорим",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Говорити"
+        },
+        {
+            "tag": "SYS.MENU_0049",
+            "en": "Move",
+            "ru_native": "",
+            "ru_machine": "DEEPL Двигайся",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рух"
+        },
+        {
+            "tag": "SYS.MENU_0050",
+            "en": "Walkie",
+            "ru_native": "",
+            "ru_machine": "DEEPL Walkie",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рація"
+        },
+        {
+            "tag": "SYS.MENU_0051",
+            "en": "Radio",
+            "ru_native": "",
+            "ru_machine": "DEEPL Радио",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіо"
+        },
+        {
+            "tag": "SYS.MENU_0052",
+            "en": "Map",
+            "ru_native": "",
+            "ru_machine": "DEEPL Карта",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мапа"
+        },
+        {
+            "tag": "SYS.MENU_0053",
+            "en": "Pause",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пауза",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пауза"
+        },
+        {
+            "tag": "SYS.MENU_0054",
+            "en": "Tune / Change Channel",
+            "ru_native": "",
+            "ru_machine": "DEEPL Настройка / изменение канала",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Налаштувати / Змінити канал"
+        },
+        {
+            "tag": "SYS.MENU_0055",
+            "en": "Interact",
+            "ru_native": "",
+            "ru_machine": "DEEPL Взаимодействуй",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взаємодія"
+        },
+        {
+            "tag": "SYS.MENU_0056",
+            "en": "Tune / Change Channel",
+            "ru_native": "",
+            "ru_machine": "DEEPL Настройка / изменение канала",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Налаштувати / Змінити канал"
+        },
+        {
+            "tag": "SYS.MENU_0057",
+            "en": "Move /\\n Interact /\\n Talk /\\n Tune",
+            "ru_native": "",
+            "ru_machine": "DEEPL Двигаться /\\n Взаимодействовать /\\n Разговаривать /\\n Настраивать",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рух/\\n Взаємодія/\\n Говорити/\\n Налаштувати"
+        },
+        {
+            "tag": "SYS.MENU_0058",
+            "en": "Cycle Radio & Walkie",
+            "ru_native": "",
+            "ru_machine": "DEEPL Велосипедная рация и рации",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемкнути радіо/рацію"
+        },
+        {
+            "tag": "SYS.MENU_0059",
+            "en": "Toggle Transcription",
+            "ru_native": "",
+            "ru_machine": "DEEPL Toggle Transcription",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемкнути транскрипцію"
+        },
+        {
+            "tag": "SYS.MENU_0060",
+            "en": "Collectibles",
+            "ru_native": "",
+            "ru_machine": "DEEPL Коллекционные предметы",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Предмети колекціювання"
+        },
+        {
+            "tag": "SYS.MENU_0061",
+            "en": "Turn page",
+            "ru_native": "",
+            "ru_machine": "DEEPL Переверни страницу",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перегорнути сторінку"
+        },
+        {
+            "tag": "SYS.MENU_0062",
+            "en": "Rotate",
+            "ru_native": "",
+            "ru_machine": "DEEPL Поворот",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обернути"
+        },
+        {
+            "tag": "SYS.MENU_0063",
+            "en": "Select slice",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выберите ломтик",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обрати фрагмент"
+        },
+        {
+            "tag": "SYS.MENU_0064",
+            "en": "Audio",
+            "ru_native": "",
+            "ru_machine": "DEEPL Аудио",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Аудіо"
+        },
+        {
+            "tag": "SYS.MENU_0065",
+            "en": "Audio",
+            "ru_native": "",
+            "ru_machine": "DEEPL Аудио",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Аудіо"
+        },
+        {
+            "tag": "SYS.MENU_0066",
+            "en": "Video",
+            "ru_native": "",
+            "ru_machine": "DEEPL Видео",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відео"
+        },
+        {
+            "tag": "SYS.MENU_0067",
+            "en": "Game",
+            "ru_native": "",
+            "ru_machine": "DEEPL Игра",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гра"
+        },
+        {
+            "tag": "SYS.MENU_0068",
+            "en": "Confirm",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подтвердите",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підтвердити"
+        },
+        {
+            "tag": "SYS.MENU_0069",
+            "en": "Select",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выберите",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обрати"
+        },
+        {
+            "tag": "SYS.MENU_0070",
+            "en": "Pan",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пан",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рух камери"
+        },
+        {
+            "tag": "SYS.MENU_0071",
+            "en": "Zoom",
+            "ru_native": "",
+            "ru_machine": "DEEPL Zoom",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Збільшення"
+        },
+        {
+            "tag": "SYS.MENU_0072",
+            "en": "Loading",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нагрузка",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завантаження"
+        },
+        {
+            "tag": "SYS.MENU_0073",
+            "en": "Press",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нажмите",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Натиснути"
+        },
+        {
+            "tag": "SYS.MENU_0074",
+            "en": "Borderless",
+            "ru_native": "",
+            "ru_machine": "DEEPL Безграничный",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На весь екран"
+        },
+        {
+            "tag": "SYS.MENU_0075",
+            "en": "New Game",
+            "ru_native": "",
+            "ru_machine": "DEEPL Новая игра",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нова гра"
+        },
+        {
+            "tag": "SYS.MENU_0076",
+            "en": "Press <sprite=1>",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нажмите <sprite=1>.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Натисніть <sprite=1>"
+        },
+        {
+            "tag": "SYS.MENU_0077",
+            "en": "Press <sprite=2>",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нажмите <sprite=2>.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Натисніть <sprite=2>"
+        },
+        {
+            "tag": "SYS.MENU_0078",
+            "en": "Press <sprite=3>",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нажмите <sprite=3>.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Натисніть <sprite=3>"
+        },
+        {
+            "tag": "SYS.MENU_0079",
+            "en": "Press <sprite=0>",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нажмите <sprite=0>",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Натисніть <sprite=0>"
+        },
+        {
+            "tag": "SYS.MENU_0080",
+            "en": "Start",
+            "ru_native": "",
+            "ru_machine": "DEEPL Начни",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Почати"
+        },
+        {
+            "tag": "SYS.MENU_0081",
+            "en": "View Details",
+            "ru_native": "",
+            "ru_machine": "DEEPL Посмотреть детали",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подробиці"
+        },
+        {
+            "tag": "SYS.MENU_0082",
+            "en": "Player choice is a central feature of OXENFREE II: Lost Signals. The game contains playable scenarios which may cause mental and emotional discomfort. Play with care and visit nightschoolstudio.com/contentwarning for a list of potentially sensitive game content.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выбор игрока - центральная особенность OXENFREE II: Lost Signals. Игра содержит игровые сценарии, которые могут вызвать психический и эмоциональный дискомфорт. Играй осторожно и посети сайт nightschoolstudio.com/contentwarning, чтобы ознакомиться со списком потенциально чувствительного игрового контента.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибір гравця — основна особливість OXENFREE II: Lost Signals. Гра містить ігрові сценарії, які можуть спричинити психологічний та емоційний дискомфорт. Грайте обережно та завітайте на nightschoolstudio.com/contentwarning, щоб переглянути список потенційно вразливого вмісту."
+        },
+        {
+            "tag": "SYS.MENU_0083",
+            "en": "Content Warning",
+            "ru_native": "",
+            "ru_machine": "DEEPL Предупреждение о содержании",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Попередження про вміст"
+        },
+        {
+            "tag": "SYS.MENU_0084",
+            "en": "Privacy Statement",
+            "ru_native": "",
+            "ru_machine": "DEEPL Заявление о конфиденциальности",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Положення про конфіденційність"
+        },
+        {
+            "tag": "SYS.MENU_0085",
+            "en": "Conversation will continue",
+            "ru_native": "",
+            "ru_machine": "DEEPL Разговор будет продолжен",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розмова продовжиться"
+        },
+        {
+            "tag": "SYS.MENU_0086",
+            "en": "Very Low",
+            "ru_native": "",
+            "ru_machine": "DEEPL Очень низкий",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже низька"
+        },
+        {
+            "tag": "SYS.MENU_0087",
+            "en": "Low",
+            "ru_native": "",
+            "ru_machine": "DEEPL Низкий",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Низька"
+        },
+        {
+            "tag": "SYS.MENU_0088",
+            "en": "Medium",
+            "ru_native": "",
+            "ru_machine": "DEEPL Средний",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Середня"
+        },
+        {
+            "tag": "SYS.MENU_0089",
+            "en": "High",
+            "ru_native": "",
+            "ru_machine": "DEEPL Высокая",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Висока"
+        },
+        {
+            "tag": "SYS.MENU_0090",
+            "en": "Wear headphones for the best audio experience.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Надень наушники для наилучшего восприятия звука.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Одягніть навушники, щоб отримати ще більше вражень."
+        },
+        {
+            "tag": "SYS.MENU_0091",
+            "en": "0%",
+            "ru_native": "",
+            "ru_machine": "DEEPL 0%",
+            "ru_final": "",
+            "verified": false,
+            "uk": "0%"
+        },
+        {
+            "tag": "SYS.MENU_0092",
+            "en": "100%",
+            "ru_native": "",
+            "ru_machine": "DEEPL 100%",
+            "ru_final": "",
+            "verified": false,
+            "uk": "100%"
+        },
+        {
+            "tag": "SYS.MENU_0093",
+            "en": "Display",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дисплей",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Показати"
+        },
+        {
+            "tag": "SYS.MENU_0094",
+            "en": "Visit nightschoolstudio.com/games/privacy to view our privacy statement.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Загляни на сайт nightschoolstudio.com/games/privacy, чтобы ознакомиться с нашим заявлением о конфиденциальности.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відвідайте nightschoolstudio.com/games/privacy, щоб ознайомитися з положенням про конфіденційність."
+        },
+        {
+            "tag": "SYS.MENU_0095",
+            "en": "Visit nightschoolstudio.com/games/termsofuse to view our terms of use.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Загляни на сайт nightschoolstudio.com/games/termsofuse, чтобы ознакомиться с нашими условиями использования.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відвідайте nightschoolstudio.com/games/termsofuse, щоб ознайомитися з умовами використання."
+        },
+        {
+            "tag": "SYS.MENU_0096",
+            "en": "Terms of Use",
+            "ru_native": "",
+            "ru_machine": "DEEPL Условия использования",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Умови використання"
+        },
+        {
+            "tag": "SYS.MENU_0097",
+            "en": "Battery Saving",
+            "ru_native": "",
+            "ru_machine": "DEEPL Экономия заряда батареи",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Енергозбереження"
+        },
+        {
+            "tag": "SYS.MENU_0098",
+            "en": "Credits",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кредиты",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Титри"
+        },
+        {
+            "tag": "SYS.MENU_0099",
+            "en": "Controller Audio",
+            "ru_native": "",
+            "ru_machine": "DEEPL Контроллер Аудио",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Налаштування звуку"
+        },
+        {
+            "tag": "SYS.MENU_0100",
+            "en": "Haptics",
+            "ru_native": "",
+            "ru_machine": "DEEPL Haptics",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вібрація"
+        },
+        {
+            "tag": "SYS.MENU_0101",
+            "en": "Download Required",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скачать Требуется",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Необхідно завантаження"
+        },
+        {
+            "tag": "SYS.MENU_0102",
+            "en": "Begin download",
+            "ru_native": "",
+            "ru_machine": "DEEPL Начать загрузку",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Почати завантаження"
+        },
+        {
+            "tag": "SYS.MENU_0103",
+            "en": "Wait until later",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди до более позднего времени",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пізніше"
+        },
+        {
+            "tag": "SYS.MENU_0104",
+            "en": "Downloading ({0}%)",
+            "ru_native": "",
+            "ru_machine": "DEEPL Загрузка ({0}%)",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завантаження ({0}%)"
+        },
+        {
+            "tag": "SYS.MENU_0105",
+            "en": "An additional {0}GB data download is required to play the full game. You can begin the game while the download is running. If you are on a metered or limited connection, you may want to wait until you're on Wi-Fi.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Для полноценной игры требуется дополнительная загрузка данных объемом {0} Гб. Ты можешь начать игру во время загрузки. Если у тебя дозированное или ограниченное соединение, возможно, тебе стоит подождать, пока ты не окажешься в сети Wi-Fi.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоб грати в повну версію гри, необхідно завантажити додаткові {0} ГБ даних. Ви можете почати гру під час завантаження. Якщо ви використовуєте лімітне або обмежене з’єднання, можна зачекати, доки ви не під’єднаєтеся до Wi-Fi."
+        },
+        {
+            "tag": "SYS.MENU_0106",
+            "en": "Something went wrong",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что-то пошло не так",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось пішло не так"
+        },
+        {
+            "tag": "SYS.MENU_0107",
+            "en": "We couldn't complete the data download. Please try again when you have a stable network connection. If you need further help, please visit nightschoolstudio.com/support.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы не смогли завершить загрузку данных. Пожалуйста, повтори попытку, когда у тебя будет стабильное подключение к сети. Если тебе нужна дополнительная помощь, посети сайт nightschoolstudio.com/support.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не вдалося завершити завантаження даних. Спробуйте ще раз, коли з’єднання з мережею буде стабільним. Якщо потрібна додаткова допомога, відвідайте nightschoolstudio.com/support."
+        },
+        {
+            "tag": "SYS.MENU_0108",
+            "en": "Retry",
+            "ru_native": "",
+            "ru_machine": "DEEPL Retry",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повторити спробу"
+        },
+        {
+            "tag": "SYS.MENU_0109",
+            "en": "Back to main menu",
+            "ru_native": "",
+            "ru_machine": "DEEPL Назад к главному меню",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Назад до головного меню"
+        },
+        {
+            "tag": "SYS.MENU_0110",
+            "en": "Downloading data",
+            "ru_native": "",
+            "ru_machine": "DEEPL Загрузка данных",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завантаження даних"
+        },
+        {
+            "tag": "SYS.MENU_0111",
+            "en": "The rest of the game data is downloading. You can wait here or return to the game.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Остальные данные игры загружаются. Ты можешь подождать здесь или вернуться в игру.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Решта даних гри завантажується. Ви можете почекати або повернутися до гри."
+        },
+        {
+            "tag": "SYS.MENU_0112",
+            "en": "{0}MB Remaining ({1}%)",
+            "ru_native": "",
+            "ru_machine": "DEEPL {0}Остаток МБ ({1}%)",
+            "ru_final": "",
+            "verified": false,
+            "uk": "{0} МБ залишилося ({1} %)"
+        },
+        {
+            "tag": "SYS.MENU_0113",
+            "en": "Return to game",
+            "ru_native": "",
+            "ru_machine": "DEEPL Возвращение к игре",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повернутися до гри"
+        },
+        {
+            "tag": "SYS.MENU_0114",
+            "en": "Download complete",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скачать полностью",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завантаження завершене"
+        },
+        {
+            "tag": "SYS.MENU_0115",
+            "en": "Enjoy OXENFREE II: Lost Signals!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Наслаждайся игрой OXENFREE II: Lost Signals!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насолоджуйтеся грою OXENFREE II: Lost Signals!"
+        },
+        {
+            "tag": "SYS.MENU_0116",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

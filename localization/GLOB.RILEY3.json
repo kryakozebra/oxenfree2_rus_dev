@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.RILEY3",
+    "entries": [
+        {
+            "tag": "GLOB.RILEY3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.RILEY3_CHOICE_0000_OPTION_0000",
+            "en": "Everything’s fine.",
+            "ru_native": "Порядок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "GLOB.RILEY3_CHOICE_0000_OPTION_0001",
+            "en": "Yeah yeah yeah.",
+            "ru_native": "Да-да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так, так."
+        },
+        {
+            "tag": "GLOB.RILEY3_JACOB_0000",
+            "en": "And—okay, you’re back, cool.",
+            "ru_native": "Ты вернулась, класс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ти повернулася. Круто."
+        },
+        {
+            "tag": "GLOB.RILEY3_JACOB_0001",
+            "en": "I mean—right? You’re back right?",
+            "ru_native": "Да? Ты же вернулась?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… правда? Ти правда повернулася?"
+        },
+        {
+            "tag": "GLOB.RILEY3_JACOB_0002",
+            "en": "You’re back.",
+            "ru_native": "Ты вернулась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти повернулася."
+        },
+        {
+            "tag": "GLOB.RILEY3_JACOB_0003",
+            "en": "You look back.",
+            "ru_native": "Вроде бы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ти повернулася."
+        },
+        {
+            "tag": "GLOB.RILEY3_JACOB_0004",
+            "en": "Yeah, thought so, cool.",
+            "ru_native": "Я так и подумал, класс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так і думав. Клас."
+        },
+        {
+            "tag": "GLOB.RILEY3_JACOB_0005",
+            "en": "Certainly not.",
+            "ru_native": "Это точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно ні."
+        },
+        {
+            "tag": "GLOB.RILEY3_JACOB_0006",
+            "en": "Yeah, you’re blinking, you’re totally back. Cool.",
+            "ru_native": "Да, ты моргаешь, а значит вернулась. Класс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ти блимаєш. Точно повернулася. Добре."
+        },
+        {
+            "tag": "GLOB.RILEY3_RILEY_0000",
+            "en": "I’m back, everything’s fine.",
+            "ru_native": "Да, я здесь, порядок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я повернулася, усе гаразд."
+        },
+        {
+            "tag": "GLOB.RILEY3_RILEY_0001",
+            "en": "Yeah, whatever, I’m fine.",
+            "ru_native": "Да-да, я в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже. Зі мною все добре."
+        },
+        {
+            "tag": "GLOB.RILEY3_RILEY_0002",
+            "en": "Not our first rodeo.",
+            "ru_native": "Уже не впервой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не перше твоє родео."
+        }
+    ]
+}

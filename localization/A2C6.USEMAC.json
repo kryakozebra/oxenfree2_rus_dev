@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.USEMAC",
+    "entries": [
+        {
+            "tag": "A2C6.USEMAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.USEMAC_CHOICE_0000_OPTION_0000",
+            "en": "C’mon, do something…",
+            "ru_native": "Давай, сделай что-нибудь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі, роби що-небудь…"
+        },
+        {
+            "tag": "A2C6.USEMAC_CHOICE_0000_OPTION_0001",
+            "en": "Hope you help…",
+            "ru_native": "Надеюсь, ты поможешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ти допоможеш…"
+        },
+        {
+            "tag": "A2C6.USEMAC_CHOICE_0000_OPTION_0002",
+            "en": "What is this thing…",
+            "ru_native": "Что это за штука...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за штука…"
+        },
+        {
+            "tag": "A2C6.USEMAC_RILEY_0000",
+            "en": "Come on, you stupid hunk of junk. Do something…",
+            "ru_native": "Ну давай, тупая железяка. Сделай что-нибудь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі, чортова ти залізяко. Роби що-небудь…"
+        },
+        {
+            "tag": "A2C6.USEMAC_RILEY_0001",
+            "en": "Okay, well… I hope you help.",
+            "ru_native": "Ну ладно... Надеюсь, ты поможешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… Сподіваюся, ти допоможеш."
+        },
+        {
+            "tag": "A2C6.USEMAC_RILEY_0002",
+            "en": "God, what is this thing… and why does it work?",
+            "ru_native": "Господи, что это за штука... и почему она работает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, що це… за штука? І чому вона працює?"
+        }
+    ]
+}

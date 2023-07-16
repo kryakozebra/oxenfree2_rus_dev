@@ -1,0 +1,1275 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V4.PREGTA",
+    "entries": [
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0000_OPTION_0000",
+            "en": "I'm pregnant.",
+            "ru_native": "Я беременна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вагітна."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0000_OPTION_0001",
+            "en": "You heard what I said.",
+            "ru_native": "Ты все слышал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти все почув."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0001_OPTION_0000",
+            "en": "No balloons.",
+            "ru_native": "Без шариков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без кульок."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0001_OPTION_0001",
+            "en": "Sure, balloons.",
+            "ru_native": "Да, для шариков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, для кульок."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0002_OPTION_0000",
+            "en": "I just needed to say it.",
+            "ru_native": "Нужно было озвучить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені просто треба було це сказати."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0002_OPTION_0001",
+            "en": "It doesn't matter anyway.",
+            "ru_native": "Это не имеет значения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не має значення."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0002_OPTION_0002",
+            "en": "Ask whatever you want.",
+            "ru_native": "Спрашивай что хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запитуй, що хочеш."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0003_OPTION_0000",
+            "en": "I'd prefer a girl.",
+            "ru_native": "Девочку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б хотіла дівчинку."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0003_OPTION_0001",
+            "en": "I know it's a boy.",
+            "ru_native": "Я знаю, что это мальчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що це хлопчик."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0003_OPTION_0002",
+            "en": "Human.",
+            "ru_native": "Человека.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Людину."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0004_OPTION_0000",
+            "en": "Rex.",
+            "ru_native": "Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рекс."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0004_OPTION_0001",
+            "en": "Jacob.",
+            "ru_native": "Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0004_OPTION_0002",
+            "en": "No idea.",
+            "ru_native": "Без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0005_OPTION_0000",
+            "en": "Dinosaurs.",
+            "ru_native": "Динозавры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Динозаври."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0005_OPTION_0001",
+            "en": "I feel like it.",
+            "ru_native": "Нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подобається."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0005_OPTION_0002",
+            "en": "It is their name.",
+            "ru_native": "Это имя ребенка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ім’я дитини."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0006_OPTION_0000",
+            "en": "Deal.",
+            "ru_native": "По рукам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0006_OPTION_0001",
+            "en": "No promises.",
+            "ru_native": "Обещать не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу обіцяти."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0006_OPTION_0002",
+            "en": "I'm not naming them Jacob.",
+            "ru_native": "Никаких Джейкобов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не буду називати Джейкобом."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0007_OPTION_0000",
+            "en": "Terrified.",
+            "ru_native": "Я в ужасе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я налякана."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0007_OPTION_0001",
+            "en": "Hopeful.",
+            "ru_native": "Полна надежды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сповнена надії."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0007_OPTION_0002",
+            "en": "Sorry for the kid.",
+            "ru_native": "Жаль ребенка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шкода дитину."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0008_OPTION_0000",
+            "en": "You're welcome.",
+            "ru_native": "Не за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0008_OPTION_0001",
+            "en": "Only a little.",
+            "ru_native": "Чуть-чуть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи."
+        },
+        {
+            "tag": "A2V4.PREGTA_CHOICE_0008_OPTION_0002",
+            "en": "Don't treat me differently.",
+            "ru_native": "Не носись со мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не панькайся зі мною."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0000",
+            "en": "Uh… [long pause] beg pardon?",
+            "ru_native": "Что, прости?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач… що?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0001",
+            "en": "Uh…",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0002",
+            "en": "Come again?",
+            "ru_native": "Повтори?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повтори?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0003",
+            "en": "Then I do have… 20/20 hearing or—yeah.",
+            "ru_native": "Значит, у меня со слухом все хорошо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді в мене зі слухом усе гаразд…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0004",
+            "en": "[quietly] That it is.",
+            "ru_native": "Ну да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихо] Ага."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0005",
+            "en": "You're—uh—wow, okay.",
+            "ru_native": "Ты... Ничего себе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… Нічого собі."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0006",
+            "en": "Uh… [long pause] Congratulations?",
+            "ru_native": "Эм... Поздравляю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Вітаю?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0007",
+            "en": "I'm sorry, is this a… balloons and yay type of a thing, or…?",
+            "ru_native": "Прости, это событие для шариков и радости или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, це… подія для кульок і радощів чи…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0008",
+            "en": "Let me uh—",
+            "ru_native": "Дай...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0009",
+            "en": "Yeah, let me know there.",
+            "ru_native": "Дай знать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки скажи."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0010",
+            "en": "Copy that.",
+            "ru_native": "Понял.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозумів."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0011",
+            "en": "[awkwardly] Uhh, okay. I… am understanding more why you'd want to take this job…",
+            "ru_native": "Ясно. Теперь понятно, почему ты взяла эту работу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я… тепер розумію, чому ти взялася за цю роботу…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0012",
+            "en": "Security, you know—a sense of security. Maybe you're planning to move back—I don't know—",
+            "ru_native": "Чувство защищенности, все дела. Может, ты планируешь вернуться... Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Почуття безпеки й таке інше. Можливо, ти плануєш повернутися до… Не знаю."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0013",
+            "en": "Actually—actually, I'm gonna—I don't know why I'm talking so much.",
+            "ru_native": "Вообще-то... Да, я лучше... Не знаю, почему так много болтаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді… Так, я краще… Не знаю, чому я так багато базікаю."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0014",
+            "en": "So I'm gonna just take one colossal, uh—metaphorical step back and let you drive our uh—our little chat here.",
+            "ru_native": "Я сейчас сделаю один гигантский... метафорический<br>шаг назад и дам тебе возможность вести разговор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зараз зроблю один гігантський… метафоричний<br>крок назад і дам тобі можливість вести розмову."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0015",
+            "en": "Starting…",
+            "ru_native": "Прямо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0016",
+            "en": "…now.",
+            "ru_native": "...сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…зараз."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0017",
+            "en": "Step…",
+            "ru_native": "Шаг...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Крок…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0018",
+            "en": "Taken.",
+            "ru_native": "Сделан.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зроблено."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0019",
+            "en": "[quietly] It's worth.",
+            "ru_native": "Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихо] Ось і все."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0020",
+            "en": "And… consider it tabled. Officially.",
+            "ru_native": "Считай, что факт официально учтен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вважай, що… я взяв до уваги. Офіційно."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0021",
+            "en": "Oh, are we, uh, done talking about it?",
+            "ru_native": "Все, мы закончили... разговор?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… закінчили розмову?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0022",
+            "en": "Okay. That's cool, too.",
+            "ru_native": "Если да, то ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо так, то гаразд."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0023",
+            "en": "Uh, if you don't already know… which one would you prefer? A boy or a girl?",
+            "ru_native": "Если еще не известно... Ты бы кого хотела? Мальчика или девочку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ще не відомо… Кого б ти хотіла? Хлопчика чи дівчинку?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0024",
+            "en": "I have no idea when you can uh—ya know… identify.",
+            "ru_native": "Понятия не имею, когда можно... узнавать пол.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто гадки не маю, коли можна… дізнатися стать."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0025",
+            "en": "Actually—you know what?",
+            "ru_native": "Вообще... Знаешь что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі… знаєш що?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0026",
+            "en": "I just—really didn't expect this and I know I will wind up with both feet and half a shin in my mouth if I don't pipe down.",
+            "ru_native": "Просто... Такого я не ожидал, и подозреваю, что лишусь<br>не только языка, но и всех зубов, если не заткнусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… я такого не очікував, і, здається, що ти мені<br>не лише язика вирвеш, а й усі зуби, якщо я не замовкну."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0027",
+            "en": "So… piping.",
+            "ru_native": "Так что затыкаюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… замовкаю."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0028",
+            "en": "And… any names?",
+            "ru_native": "Думала над именами?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибрала ім’я?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0029",
+            "en": "And if I'm prying, please say so.",
+            "ru_native": "Если я лезу не туда, так и скажи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це не моя справа, просто скажи."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0030",
+            "en": "I'll just immediately stop talking.",
+            "ru_native": "Я сразу закрою рот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я одразу ж замовкну."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0031",
+            "en": "I'm prying. I'm—sorry.",
+            "ru_native": "Лезу не туда. Прости...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не моя справа, вибач…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0032",
+            "en": "A girl named Rex?",
+            "ru_native": "Девчонка по имени Рекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дівчинка на ім’я Рекс?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0033",
+            "en": "Sounds great—it'll look awesome on a Little League sheet.",
+            "ru_native": "Звучит круто. Будет смотреться в списках детской лиги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить круто… буде гарно виглядати в списках дитячої ліги."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0034",
+            "en": "A little boy named Rex?",
+            "ru_native": "Пацан по имени Рекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопчик на ім’я Рекс?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0035",
+            "en": "Why that one?",
+            "ru_native": "Почему именно оно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому так?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0036",
+            "en": "I mean—don't get me wrong—cool name. Super cool.",
+            "ru_native": "Не пойми неправильно, крутое имя. Даже очень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… нічого не подумай, ім’я круте. Справді."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0037",
+            "en": "But also super uncommon.",
+            "ru_native": "Просто довольно редкое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто доволі рідкісне."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0038",
+            "en": "Well it'll definitely stand out.",
+            "ru_native": "Оно явно будет выделяться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно буде вирізнятися."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0039",
+            "en": "I can count on...no hands how many Rex's I've ever met.",
+            "ru_native": "Я всего... Хотя я вообще ни одного Рекса не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не знаю жодного Рекса."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0040",
+            "en": "Guess you don't need a capital R reason.",
+            "ru_native": "Наверно, для этого причина не нужна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, для цього причина не потрібна."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0041",
+            "en": "It's a good name, though. I dig it.",
+            "ru_native": "Хорошее имя, мне нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарне ім’я. Мені подобається."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0042",
+            "en": "A girl named Jacob? I can see it.",
+            "ru_native": "Девчонка Джейкоб? Звучит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дівчинка на ім’я Джейкоб? Звучить."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0043",
+            "en": "Just make sure you spell it with a C.",
+            "ru_native": "Главное, чтобы не Якоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Головне, щоби не Яків."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0044",
+            "en": "Those Jakob-With-A-K's out there just think they're so much better.",
+            "ru_native": "Все эти Якобы считают, что они гораздо лучше других.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо всі ці Якови вважають, що вони кращі за інших."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0045",
+            "en": "They're the worst.",
+            "ru_native": "Ужасные люди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жахливі люди."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0046",
+            "en": "Trust me.",
+            "ru_native": "Уж поверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повір мені."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0047",
+            "en": "Hey, it's a good backup plan! But only with a C.",
+            "ru_native": "Это хороший запасной план! Главное – не Якоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це хороший запасний план! Головне, щоби не Яків."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0048",
+            "en": "Yeah, you probably don't wanna paint yourself into a name corner, ya know?",
+            "ru_native": "Да, пожалуй, не стоит загонять себя в именной угол, знаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, гадаю, не варто поки що про це думати, так?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0049",
+            "en": "So—uh—bird's eye. How do you uh—ya know...",
+            "ru_native": "Так... Общий вопрос. Как ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Загальне питання. Як ти…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0050",
+            "en": "Feel? Overall?",
+            "ru_native": "Себя чувствуешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Почуваєшся?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0051",
+            "en": "About it.",
+            "ru_native": "В связи с...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У зв’язку з…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0052",
+            "en": "About uh—them.",
+            "ru_native": "В связи с пополнением.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У зв’язку з вагітністю."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0053",
+            "en": "Yeah, sure, but, hey—how often are things as scary as we think they're gonna be, ya know?",
+            "ru_native": "Ну да, но... Как часто вещи оказываются такими же страшными, как мы представляли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але… Як часто речі виявляються такими ж страшними, як ми уявляли?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0054",
+            "en": "I mean, tonight is...a bad example, but still.",
+            "ru_native": "Сегодня – плохой пример, но все же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні… поганий приклад, та все ж таки."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0055",
+            "en": "It should stay that way.",
+            "ru_native": "Пусть оно так и остается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай так і залишається."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0056",
+            "en": "Don't we all?",
+            "ru_native": "Как и всем нам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як і всіх нас."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0057",
+            "en": "Ya know what? We've reached the end of what should be considered my business. But I should say...",
+            "ru_native": "Знаешь, думаю, мы достигли границ того, что может считаться моим делом. Но я хочу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, ми вже дійшли до межі того, що може вважатися «моєю справою». Але я хочу…"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0058",
+            "en": "Uh, well, maybe this is weird, but uh—thanks for telling me.",
+            "ru_native": "Может, это странно, но... Спасибо, что рассказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, це дивно, але… Дякую, що розповіла."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0059",
+            "en": "I appreciate it.",
+            "ru_native": "Я это ценю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я це ціную."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0060",
+            "en": "Is that weird?",
+            "ru_native": "Это странно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дивно?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0061",
+            "en": "It's weird.",
+            "ru_native": "Это странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дивно."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0062",
+            "en": "Or is it?",
+            "ru_native": "Или нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи ні?"
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0063",
+            "en": "Lucky me.",
+            "ru_native": "Мне повезло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені пощастило."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0064",
+            "en": "I'll take it.",
+            "ru_native": "Согласен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Згоден."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0065",
+            "en": "Not even at all, promise.",
+            "ru_native": "Совсем не буду, обещаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зовсім не буду, обіцяю."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0066",
+            "en": "Boy, night of surprises.",
+            "ru_native": "Ночь сюрпризов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, якась ніч сюрпризів."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0067",
+            "en": "But it's nice to have one that's...different. In the good way.",
+            "ru_native": "Приятно, что хоть один из них... выгодно отличается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але добре, що хоч один із них… приємний."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0068",
+            "en": "C'mon, one last transmitter. I think I know a good spot.",
+            "ru_native": "Остался последний передатчик. Я знаю отличное место.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишився останній радіопередавач. Я знаю чудове місце."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0069",
+            "en": "Wow, night of surprises.",
+            "ru_native": "Ночь сюрпризов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, якась ніч сюрпризів."
+        },
+        {
+            "tag": "A2V4.PREGTA_JACOB_0070",
+            "en": "Just when you think, ya know?",
+            "ru_native": "Хотя казалось бы, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто б міг подумати?"
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0000",
+            "en": "I'm pregnant.",
+            "ru_native": "Я беременна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вагітна."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0001",
+            "en": "I found out before I took the job. I'm two months.",
+            "ru_native": "Узнала до приема на работу. Уже два месяца.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я дізналася до прийому на роботу. Уже два місяці."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0002",
+            "en": "And your hearing is fine.",
+            "ru_native": "И слышишь ты отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І в тебе все гаразд зі слухом."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0003",
+            "en": "No balloons.",
+            "ru_native": "Без шариков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без кульок."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0004",
+            "en": "Uh—sure—yeah, balloons. Balloons. Thanks. Thank you.",
+            "ru_native": "Да, конечно. Шарики. Куча шариков. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно. Кульки. Купа кульок. Дякую."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0005",
+            "en": "Look, Jacob… I just needed to say it out loud. I haven't told anyone, yet.",
+            "ru_native": "Джейкоб... Мне просто нужно было это озвучить. Никто еще не знает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе… Мені просто треба було це сказати. Ніхто ще не знає."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0006",
+            "en": "You're technically not \"supposed\" to before three months, but…",
+            "ru_native": "Строго говоря, «нельзя» говорить раньше трех месяцев, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі, «не можна» говорити раніше трьох місяців, але…"
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0007",
+            "en": "Whatever.",
+            "ru_native": "Пофиг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0008",
+            "en": "No, I don't want the night to become… about this. It's not about this.",
+            "ru_native": "Нет, я не хочу, чтобы это стало... главной темой дня. Не нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я не хочу, щоби це стало… головною темою дня. Не треба."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0009",
+            "en": "But I wanted you to know. For whatever it's worth.",
+            "ru_native": "Просто хотела, чтоб ты знал. Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто хотіла, щоби ти знав. Ось і все."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0010",
+            "en": "You can—look, ask whatever you want.",
+            "ru_native": "Можешь... спрашивать что хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш… запитувати, що хочеш."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0011",
+            "en": "It's fine.",
+            "ru_native": "Все ок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0012",
+            "en": "Speaking honestly, I'd prefer a girl.",
+            "ru_native": "Честно говоря, я бы хотела девочку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо чесно, я б хотіла дівчинку."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0013",
+            "en": "But something tells me I'm going to be disappointed in that department.",
+            "ru_native": "Но что-то мне подсказывает, что мое желание не исполнится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але щось мені підказує, що моє бажання не збудеться."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0014",
+            "en": "I know it's a boy.",
+            "ru_native": "Я знаю, что это мальчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що це хлопчик."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0015",
+            "en": "Look, if it's human, I'm happy.",
+            "ru_native": "Слушай, я буду рада человеку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я буду рада, якщо це людина."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0016",
+            "en": "Fate can sort the rest of it.",
+            "ru_native": "Остальное – как карта ляжет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А все інше вирішить доля."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0017",
+            "en": "I was actually thinking Rex.",
+            "ru_native": "Вообще я думала об имени Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі, я думала про ім’я Рекс."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0018",
+            "en": "Dinosaurs. It's probably the closest I'll ever get to having one.",
+            "ru_native": "Динозавры. Это мой единственный шанс заполучить одного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Динозаври. Це мій єдиний шанс отримати одного."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0019",
+            "en": "I just feel like it—I can't really explain it.",
+            "ru_native": "Оно мне нравится... Не знаю, почему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воно мені подобається… Не знаю, чому."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0020",
+            "en": "It is their name. Rex. I guess I'll never know how I came up with it...",
+            "ru_native": "Такое вот имя. Рекс. Наверно, я никогда не узнаю, почему его выбрала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ім’я дитини. Рекс. Мабуть, я ніколи не дізнаюся, чому його вибрала…"
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0021",
+            "en": "I was thinking maybe...Jacob?",
+            "ru_native": "Я думала... Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думала… Джейкоб?"
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0022",
+            "en": "Sure, you got it.",
+            "ru_native": "Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0023",
+            "en": "Sorry, but...no promises.",
+            "ru_native": "Прости, но... обещать не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але… без обіцянок."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0024",
+            "en": "You know I'm lying right? I'm not naming my kid Jacob.",
+            "ru_native": "Шучу. Я не буду называть ребенка Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я жартую. Я не буду називати свою дитину Джейкобом."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0025",
+            "en": "Absolutely no idea.",
+            "ru_native": "Ни малейшего понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0026",
+            "en": "Petrified. In just—every way possible. And more ways to be invented, I'm sure.",
+            "ru_native": "Я в ужасе. Во всех возможных смыслах. И еще в паре пока не возможных.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я налякана. У всіх можливих сенсах. І ще в декількох неможливих."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0027",
+            "en": "I'm...hopeful. I am.",
+            "ru_native": "Я... полна надежды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… сповнена надії."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0028",
+            "en": "I should probably be worried—and ya know—part of me is—very worried, incredibly worried—but...",
+            "ru_native": "Наверное, мне нужно волноваться. И часть меня очень волнуется, жутко волнуется, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, я маю хвилюватися. І частинка мене дуже хвилюється, але…"
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0029",
+            "en": "Hope is still winning.",
+            "ru_native": "Надежда побеждает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Надія перемагає."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0030",
+            "en": "I feel like I'll be apologizing to this kid my entire life.",
+            "ru_native": "Кажется, что я буду всю жизнь извиняться перед ребенком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, я все життя буду вибачатися перед дитиною."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0031",
+            "en": "I know what they're inheriting. Being mine...they're gonna have an uphill climb.",
+            "ru_native": "Наследственность так себе. Быть мной... Ему предстоит долгий путь наверх.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю свої гени. Бути мною… її чекає довгий шлях нагору."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0032",
+            "en": "Heh, you're welcome.",
+            "ru_native": "Не за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0033",
+            "en": "Not many know.",
+            "ru_native": "Мало кто знает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мало хто знає."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0034",
+            "en": "Just a little weird, but I've seen weirder.",
+            "ru_native": "Немного странно, но бывает хуже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трошки дивно, але буває й гірше."
+        },
+        {
+            "tag": "A2V4.PREGTA_RILEY_0035",
+            "en": "Look, I don't want to be treated differently. Not even a little.",
+            "ru_native": "Слушай, я не хочу, чтобы со мной носились. Даже немного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я не хочу, щоби зі мною панькалися. Навіть трохи."
+        }
+    ]
+}

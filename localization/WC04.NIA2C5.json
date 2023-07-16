@@ -1,0 +1,456 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC04.NIA2C5",
+    "entries": [
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0000_OPTION_0000",
+            "en": "Nick, ever been to the caves?",
+            "ru_native": "Ник, а вы бывали в пещерах?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нік, ти коли-небудь був у печерах?"
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0001_OPTION_0000",
+            "en": "How romantic.",
+            "ru_native": "Как романтично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як романтично."
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0001_OPTION_0001",
+            "en": "Tell me more, weirdo.",
+            "ru_native": "Чем еще удивите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розкажи ще про це, чудило."
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0002_OPTION_0000",
+            "en": "What happened?",
+            "ru_native": "Что случилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що сталося?"
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0002_OPTION_0001",
+            "en": "She sounds awesome.",
+            "ru_native": "Она крутая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона видається пікантною."
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0003_OPTION_0000",
+            "en": "Sorry to hear it.",
+            "ru_native": "Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шкода це чути."
+        },
+        {
+            "tag": "WC04.NIA2C5_CHOICE_0003_OPTION_0001",
+            "en": "Here’s to Rachel.",
+            "ru_native": "За Рэйчел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай вип’ємо за Рейчел."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0000",
+            "en": "Hey, Riley. I have.",
+            "ru_native": "Привет, Райли, было дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Райлі. Так."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0001",
+            "en": "Matter of fact, I fell in love in those caves.",
+            "ru_native": "На самом деле, я тут влюбился.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді, я знайшов кохання в тих печерах."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0002",
+            "en": "With a—human. Don’t worry.",
+            "ru_native": "В девушку, не в пещеры. Не волнуйся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Закохався в людину. Не хвилюйся."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0003",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0004",
+            "en": "[over her, chuckling] Ha! Got it, thanks!",
+            "ru_native": "Ха! Ясно, спасибо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[посміхаючись] Ха! Зрозумів, дякую!"
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0005",
+            "en": "Ha! Happily.",
+            "ru_native": "Ха! С удовольствием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха! З радістю."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0006",
+            "en": "When I was your age those caves were still in operation. Still being mined.",
+            "ru_native": "Когда я был молодым, как ты, эти пещеры еще не закрыли. Там шла добыча.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли я був у твоєму віці, у цих печерах ще працювали люди. Тут видобували копалини."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0007",
+            "en": "I worked there on and off—mining work was never constant.",
+            "ru_native": "Я там временами подрабатывал – работа шахтера непостоянная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я періодично там працював, робота з видобутку ніколи не була постійною."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0008",
+            "en": "One of my uh—colleagues was a girl named Rachel. Big as a bear and twice as ferocious.",
+            "ru_native": "У меня была, эм, коллега по имени Рэйчел.<br>Огромная, как медведица, и такая же свирепая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Однією з моїх колежанок була дівчина на<br>ім’я Рейчел. Велика, як ведмідь, і вдвічі лютіша."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0009",
+            "en": "She could out-drink, out-curse, and out-fight any challengers.",
+            "ru_native": "Она могла перепить, перематерить и перебороть любого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона могла перепити, облаяти й побити будь-кого."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0010",
+            "en": "I was smitten.",
+            "ru_native": "Я был поражен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я був охоплений пристрастю."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0011",
+            "en": "Helluva woman.",
+            "ru_native": "Удивительная женщина.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Страшенно крута жінка."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0012",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0013",
+            "en": "Heh, the Bear Woman. She’d have loved that.",
+            "ru_native": "Ха, Медведица. Ей бы это понравилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хех, жінка-ведмедик. Їй би це сподобалося."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0014",
+            "en": "But, uh…",
+            "ru_native": "Но, хм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0015",
+            "en": "And she was an inch taller than me. How could I ever resist?",
+            "ru_native": "А еще она была на дюйм выше меня. Как я мог устоять?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І вона була на дюйм вищою за мене. Як я міг сперечатися?"
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0016",
+            "en": "We had a good time for a good time…",
+            "ru_native": "Нам было хорошо вместе...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми добре провели час, наскільки це можливо…"
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0017",
+            "en": "Rachel is why they shut those mines down.",
+            "ru_native": "Из-за Рэйчел эти шахты и закрыли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Через Рейчел ці шахти закрили."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0018",
+            "en": "The last cave-in, she was uh—",
+            "ru_native": "Последний обвал, она была...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Під час останнього обвалу, вона була…"
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0019",
+            "en": "[with a sigh, a little hard to say] Hell, she was the last uh—casualty.",
+            "ru_native": "Черт, она была последней... жертвой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає, трохи важко говорити] Чорт, вона була останньою жертвою."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0020",
+            "en": "The whole operation shut down after that. I was out of a job.",
+            "ru_native": "После этого добычу прикрыли. Я остался без работы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після цього припинили видобуток. І я залишився без роботи."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0021",
+            "en": "And… all alone.",
+            "ru_native": "И... без любимой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… зовсім один."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0022",
+            "en": "[with a sigh] All alone.",
+            "ru_native": "Совсем один.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зі зітханням] Зовсім один."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0023",
+            "en": "Hmm. Over.",
+            "ru_native": "Хм. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Прийом."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0024",
+            "en": "Hell, even if you were…",
+            "ru_native": "Черт, да даже если нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько, навіть якби…"
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0025",
+            "en": "To Rachel the Bear Woman.",
+            "ru_native": "За Медведицу Рэйчел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вип’ємо за жінку-ведмедика Рейчел."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0026",
+            "en": "You know…",
+            "ru_native": "Знаешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш…"
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0027",
+            "en": "Despite it all it’s a memory I enjoy revisiting.",
+            "ru_native": "Мне все равно нравится об этом вспоминать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Незважаючи на все це, це спогад, який я із задоволенням прокручую в голові."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0028",
+            "en": "So. Thank you, Rachel.",
+            "ru_native": "Так что. Спасибо, Рэйчел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже. Дякую, Рейчел."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0029",
+            "en": "…Riley. Thank you, Riley.",
+            "ru_native": "...Райли. Спасибо тебе, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Райлі. Дякую, Райлі."
+        },
+        {
+            "tag": "WC04.NIA2C5_NICK_0030",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "WC04.NIA2C5_RILEY_0000",
+            "en": "Hey, Nick, you ever explore the caves out here?",
+            "ru_native": "Привет, Ник, а вы исследовали здешние пещеры?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Нік, ти коли-небудь досліджував ці печери?"
+        },
+        {
+            "tag": "WC04.NIA2C5_RILEY_0001",
+            "en": "And as she passed, I saw a stalactite in the shape of a heart over her head.",
+            "ru_native": "Когда ее не стало, я увидел у нее над головой сталактит в форме сердца.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І коли вона пройшла поруч, я побачив сталактит у формі серця над її головою."
+        },
+        {
+            "tag": "WC04.NIA2C5_RILEY_0002",
+            "en": "I can’t smell mildew and bat droppings without thinking of our love and how it—",
+            "ru_native": "Теперь запах плесени и помета летучих мышей<br>напоминают мне про нашу любовь и про то, как она...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер, коли я відчуваю запах цвілі та послід кажанів, завжди думаю<br>про наше кохання і про те, як…"
+        },
+        {
+            "tag": "WC04.NIA2C5_RILEY_0003",
+            "en": "Ha, okay, tell me more, you freak.",
+            "ru_native": "Ну же, удивите меня еще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха, добре, розкажи мені ще про це, збоченцю."
+        },
+        {
+            "tag": "WC04.NIA2C5_RILEY_0004",
+            "en": "So what happened to young Nicky and the Bear Woman?",
+            "ru_native": "И что же случилось с юным Ники и Медведицей?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, що сталося з юним Нікі та жінкою-ведмедиком?"
+        },
+        {
+            "tag": "WC04.NIA2C5_RILEY_0005",
+            "en": "Hey alright, she sounds like a badass.",
+            "ru_native": "Ничего себе, гром-баба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, вона видається крутою."
+        },
+        {
+            "tag": "WC04.NIA2C5_RILEY_0006",
+            "en": "Agh, I’m so sorry. And I’m not just saying that.",
+            "ru_native": "Ох, мне так жаль. Правда жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, мені так шкода. І я не просто так кажу."
+        },
+        {
+            "tag": "WC04.NIA2C5_RILEY_0007",
+            "en": "To Rachel the Bear Woman.",
+            "ru_native": "За Медведицу Рэйчел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вип’ємо за жінку-ведмедика Рейчел."
+        }
+    ]
+}

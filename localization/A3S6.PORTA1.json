@@ -1,0 +1,258 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S6.PORTA1",
+    "entries": [
+        {
+            "tag": "A3S6.PORTA1_ALEX_0000",
+            "en": "I’m sort of in uncharted waters here, Riley, but… yes. I think—I think we’re good.",
+            "ru_native": "Для меня это темный лес, Райли, но... да. Думаю, у нас все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для мене це темний ліс, Райлі, але так. Гадаю, з нами все гаразд."
+        },
+        {
+            "tag": "A3S6.PORTA1_ALEX_0001",
+            "en": "Oh wait wait wait, tune into her signal—quick—we need to pull it in from this side!",
+            "ru_native": "Ой, погоди-погоди! Настройся на ее сигнал,<br>быстро, нам надо вытянуть его с этой стороны!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, стривай, стривай. Налаштуйся на її сигнал.<br>Хутчій. Нам треба витягти його із цього боку."
+        },
+        {
+            "tag": "A3S6.PORTA1_ALEX_0002",
+            "en": "Riley, boost Maggie’s radio!",
+            "ru_native": "Райли, усиль радио Мэгги!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, підсилюй радіо Меггі!"
+        },
+        {
+            "tag": "A3S6.PORTA1_ALEX_0003",
+            "en": "Tune into her signal!",
+            "ru_native": "Настройся на ее сигнал!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Налаштуйся на її сигнал!"
+        },
+        {
+            "tag": "A3S6.PORTA1_ALEX_0004",
+            "en": "Wait! Just a little longer!",
+            "ru_native": "Погоди! Еще немного!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай! Ще трішки!"
+        },
+        {
+            "tag": "A3S6.PORTA1_ALEX_0005",
+            "en": "Hold on… Any second now…",
+            "ru_native": "Держись... В любую секунду...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тримайся… Тепер будь-якої хвилини…"
+        },
+        {
+            "tag": "A3S6.PORTA1_ALEX_0006",
+            "en": "89.5! Remember?",
+            "ru_native": "89.5! Помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "89.5! Пам’ятаєш?"
+        },
+        {
+            "tag": "A3S6.PORTA1_ALEX_0007",
+            "en": "It's just a little to the right of the last station.",
+            "ru_native": "Это чуть правее последней станции.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це трохи направо від останньої станції."
+        },
+        {
+            "tag": "A3S6.PORTA1_ALEX_0008",
+            "en": "89.5, like you told Maggie earlier.",
+            "ru_native": "89.5, как ты говорила Мэгги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "89.5, як ти й казала Меггі раніше."
+        },
+        {
+            "tag": "A3S6.PORTA1_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.PORTA1_CHOICE_0000_OPTION_0000",
+            "en": "Maggie!",
+            "ru_native": "Мэгги!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Меггі!"
+        },
+        {
+            "tag": "A3S6.PORTA1_CHOICE_0000_OPTION_0001",
+            "en": "It’s working!",
+            "ru_native": "Работает!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це працює!"
+        },
+        {
+            "tag": "A3S6.PORTA1_CHOICE_0000_OPTION_0002",
+            "en": "Is this supposed to happen?",
+            "ru_native": "Так и надо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це мало статися?"
+        },
+        {
+            "tag": "A3S6.PORTA1_JACOB_0000",
+            "en": "Ah! Is that—is that enough? It looks like—",
+            "ru_native": "О! Этого... этого хватит? Похоже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Цього достатньо? Здається…"
+        },
+        {
+            "tag": "A3S6.PORTA1_JACOB_0001",
+            "en": "It's going to break!",
+            "ru_native": "Ломается!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ламається!"
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0000",
+            "en": "Whoohah—wow, God, alright, I—this is happening, holy crap.",
+            "ru_native": "Ю-ху... о господи, так, я... это происходит, божечки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого! Господи, це відбувається. Божечки!"
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0001",
+            "en": "Can you guys—can you guys see me?",
+            "ru_native": "Ребята... ребята, вы меня видите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ви… ви мене бачите?"
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0002",
+            "en": "Is this—is this now?",
+            "ru_native": "Это... это настоящее?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це теперішнє?"
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0003",
+            "en": "Or back—is this in the past or…",
+            "ru_native": "Или прошлое... или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи минуле? Це в минулому чи…"
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0004",
+            "en": "Riley? Can you…",
+            "ru_native": "Райли? Ты меня...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти можеш…"
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0005",
+            "en": "Riley! Riley, there you are! And Alex! Hey! [to herself] I cannot believe this.",
+            "ru_native": "Райли! Райли, вот ты где! И Алекс! Эй! Поверить не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0006",
+            "en": "What’s happening? Hey! I think the frequency’s starting to fade…",
+            "ru_native": "Что происходит? Эй! По-моему, частота начинает затухать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається? Гей! Здається частота починає затухати…"
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0007",
+            "en": "Guys? Guys—whoa!",
+            "ru_native": "Ребята? Ребята... ого!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Народе? Народе, агов!"
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0008",
+            "en": "Guys? Guys -- whoa!",
+            "ru_native": "Ребята? Ребята... ого!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Народе? Народе, агов!"
+        },
+        {
+            "tag": "A3S6.PORTA1_MAGGIE_0009",
+            "en": "Whoohah-- wow, God, alright, I -- this is happening.",
+            "ru_native": "Ого... о господи, так, я... это происходит!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого! Господи, це відбувається."
+        },
+        {
+            "tag": "A3S6.PORTA1_RILEY_0000",
+            "en": "Maggie! Hey! Yeah, we can see you!",
+            "ru_native": "Мэгги! Эй! Да, мы тебя видим!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Меггі! Гей! Авжеж, ми тебе бачимо!"
+        },
+        {
+            "tag": "A3S6.PORTA1_RILEY_0001",
+            "en": "It’s working! It’s working, just—just keep at it!",
+            "ru_native": "Работает! Работает, просто... так держать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це працює! Це працює, тільки тримай так!"
+        },
+        {
+            "tag": "A3S6.PORTA1_RILEY_0002",
+            "en": "Jesus, uh, Alex, is this—is this supposed to happen?!",
+            "ru_native": "Господи, Алекс, так... так и надо?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, Алекс, це мало статися?!"
+        }
+    ]
+}

@@ -1,0 +1,267 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1LH.HEATBO",
+    "entries": [
+        {
+            "tag": "A1LH.HEATBO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.HEATBO_CHOICE_0000_OPTION_0000",
+            "en": "Why?",
+            "ru_native": "Почему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо?"
+        },
+        {
+            "tag": "A1LH.HEATBO_CHOICE_0000_OPTION_0001",
+            "en": "Of course.",
+            "ru_native": "Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно."
+        },
+        {
+            "tag": "A1LH.HEATBO_CHOICE_0000_OPTION_0002",
+            "en": "Are you?",
+            "ru_native": "А ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти як?"
+        },
+        {
+            "tag": "A1LH.HEATBO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.HEATBO_CHOICE_0001_OPTION_0000",
+            "en": "You paddle.",
+            "ru_native": "Ты на веслах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти веслуватимеш."
+        },
+        {
+            "tag": "A1LH.HEATBO_CHOICE_0001_OPTION_0001",
+            "en": "I wanna drive.",
+            "ru_native": "Я буду грести.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу кермувати."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0000",
+            "en": "Uh, you’re okay with… getting on a boat. Right?",
+            "ru_native": "Ты же ничего не имеешь против лодок?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ж… ем… не проти плисти в човні? Правда?"
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0001",
+            "en": "I should ask before we get there.",
+            "ru_native": "Я должен спросить заранее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба запитати, перш ніж доберемося."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0002",
+            "en": "Uh, just cause we have to take one to get to the lighthouse.",
+            "ru_native": "Потому что нам придется добираться до маяка на лодке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що нам потрібен човен, щоби дістатися маяка."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0003",
+            "en": "Good, cause we have to take one to get to the lighthouse.",
+            "ru_native": "Отлично, потому что до маяка нужно плыть на лодке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Тому що нам потрібен човен, щоби дістатися маяка."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0004",
+            "en": "Yeah, yes, I just—I thought I’d ask cause we have to take one to actually reach the lighthouse.",
+            "ru_native": "Нет, я-то в норме... Просто решил уточнить, ведь до маяка придется плыть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так, я просто… Вирішив спитати, <br>тому що нам потрібен човен, щоби дістатися маяка."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0005",
+            "en": "The building itself is on a little island, or across an inlet—I forget which.",
+            "ru_native": "Он на небольшом острове, или на той стороне залива... Точно не помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сама будівля на невеликому острові або на березі затоки… Точно не пам’ятаю."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0006",
+            "en": "But the only way to access it is a public-use raft.",
+            "ru_native": "Добраться можно только на общественной лодке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але єдиний спосіб дістатися туди — на поромі."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0007",
+            "en": "So if you have a preference for who paddles…",
+            "ru_native": "Кто из нас будет сидеть на веслах?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож якщо бажаєш вирішити, хто веслуватиме…"
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0008",
+            "en": "Speak now.",
+            "ru_native": "Выбирай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажи зараз."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0009",
+            "en": "Or… actually you don’t have to forever hold your peace.",
+            "ru_native": "Или... Хотя нет, ты же не можешь молчать вечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… хоча ні, ти ж не можеш замовкнути навіки."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0010",
+            "en": "Sure.",
+            "ru_native": "Окей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Згода."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0011",
+            "en": "We can decide when we get there, I guess...",
+            "ru_native": "Ладно, решим на месте...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можемо вирішити, коли доберемося…"
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0012",
+            "en": "The waters are thankfully pretty calm, even at night—",
+            "ru_native": "К счастью, вода тут спокойная, даже ночью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хвиль немає, навіть уночі…"
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0013",
+            "en": "It’s not like the, uh, the Cape Fawning one.",
+            "ru_native": "Не то что на Кейп Фонинг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж не мис Улесливості."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0014",
+            "en": "Really high waves, there. People called it the Seagraves.",
+            "ru_native": "Дико высокие волны. Их называют «морские могилы».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там справді високі хвилі. Люди називають те місце Могилою в морі."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0015",
+            "en": "A <i>lot</i> of shipwrecks. We shouldn’t have a problem.",
+            "ru_native": "Суда тонут только так. Но нам бояться нечего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Багато суден тут затонуло. Але в нас усе має бути гаразд."
+        },
+        {
+            "tag": "A1LH.HEATBO_JACOB_0016",
+            "en": "But, uh, you’ll see soon enough—it’s just up this way.",
+            "ru_native": "Да ты и сама увидишь, мы почти пришли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоро сама побачиш. Нам туди."
+        },
+        {
+            "tag": "A1LH.HEATBO_RILEY_0000",
+            "en": "Uh, why do you ask?",
+            "ru_native": "Почему спрашиваешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А чому питаєш?"
+        },
+        {
+            "tag": "A1LH.HEATBO_RILEY_0001",
+            "en": "Of course, yeah. Boats aren’t a problem for me or anything—I don’t get seasick.",
+            "ru_native": "Конечно нет. Вообще без проблем, у меня не бывает морской болезни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж. Човни — не проблема для мене. У мене немає морської хвороби."
+        },
+        {
+            "tag": "A1LH.HEATBO_RILEY_0002",
+            "en": "Uh… are you okay with boats?",
+            "ru_native": "А ты как к лодкам относишься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… ти не проти пливти в човні?"
+        },
+        {
+            "tag": "A1LH.HEATBO_RILEY_0003",
+            "en": "You’re paddling, I’ll sightsee.",
+            "ru_native": "Ты гребешь, я любуюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти веслуватимеш, я пильнуватиму."
+        },
+        {
+            "tag": "A1LH.HEATBO_RILEY_0004",
+            "en": "No no… I’m driving. Minor control issues.",
+            "ru_native": "Нет, я сяду. Люблю контролировать ситуацию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ні… Я кермуватиму. Я ж трохи схиблена на контролі."
+        }
+    ]
+}

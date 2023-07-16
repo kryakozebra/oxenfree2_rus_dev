@@ -1,0 +1,1212 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.FRSTRI",
+    "entries": [
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0000_OPTION_0000",
+            "en": "Who are you?",
+            "ru_native": "Кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто ти?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0000_OPTION_0001",
+            "en": "What’s going on?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0001_OPTION_0000",
+            "en": "Why doesn’t she know this?",
+            "ru_native": "Почему она это не знает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому вона цього не знає?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0001_OPTION_0001",
+            "en": "This seems like a trick.",
+            "ru_native": "Похоже на уловку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на якісь хитрощі."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0001_OPTION_0002",
+            "en": "And you’re from the future?",
+            "ru_native": "Ты из будущего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти з майбутнього?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0002_OPTION_0000",
+            "en": "Why the Hell would you sacrifice yourself?!",
+            "ru_native": "Нахрена ты пожертвовала собой?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якого біса ти пожертвувала собою?!"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0002_OPTION_0001",
+            "en": "But we’re so close!",
+            "ru_native": "Но мы так близко!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ж ми так близько!"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0002_OPTION_0002",
+            "en": "Are you happy here?",
+            "ru_native": "Ты здесь счастлива?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тут щаслива?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0003_OPTION_0000",
+            "en": "Hey there, good looking.",
+            "ru_native": "Привет, красавица.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, привіт, гарнюне."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0003_OPTION_0001",
+            "en": "Good to see you again.",
+            "ru_native": "Рада тебя снова видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рада тебе знову бачити."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0003_OPTION_0002",
+            "en": "Hey there, good looking.",
+            "ru_native": "Привет, красавица.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, привіт, гарнюне."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0003_OPTION_0003",
+            "en": "Good to see you again.",
+            "ru_native": "Рада тебя снова видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рада тебе знову бачити."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0004_OPTION_0000",
+            "en": "We don’t have a lot of time…",
+            "ru_native": "У нас мало времени...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас обмаль часу…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0004_OPTION_0001",
+            "en": "Listen very carefully…",
+            "ru_native": "Слушай внимательно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай уважно…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0004_OPTION_0002",
+            "en": "Don’t freak out....",
+            "ru_native": "Без паники...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не панікуй…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0004_OPTION_0003",
+            "en": "We don’t have a lot of time…",
+            "ru_native": "У нас мало времени...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас обмаль часу…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0004_OPTION_0004",
+            "en": "Listen very carefully…",
+            "ru_native": "Слушай внимательно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай уважно…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0004_OPTION_0005",
+            "en": "Don’t freak out....",
+            "ru_native": "Без паники...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не панікуй…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0005_OPTION_0000",
+            "en": "It was the right thing to do.",
+            "ru_native": "Это было верным решением.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так було правильно."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0005_OPTION_0001",
+            "en": "Maybe it was a mistake.",
+            "ru_native": "Может, это было ошибкой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо це була помилка."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0005_OPTION_0002",
+            "en": "I wasn’t gonna just sit around.",
+            "ru_native": "Я не собиралась отсиживаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хотіла просто сидіти осторонь."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0005_OPTION_0003",
+            "en": "It was the right thing to do.",
+            "ru_native": "Это было верным решением.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так було правильно."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0005_OPTION_0004",
+            "en": "Maybe it was a mistake.",
+            "ru_native": "Может, это было ошибкой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо це була помилка."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0005_OPTION_0005",
+            "en": "I wasn’t gonna just sit around.",
+            "ru_native": "Я не собиралась отсиживаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хотіла просто сидіти осторонь."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0006_OPTION_0000",
+            "en": "Get over it, there’s work to do.",
+            "ru_native": "Соберись, это еще не конец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Змирися вже із цим, ще є справи."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0006_OPTION_0001",
+            "en": "This stuff is complicated.",
+            "ru_native": "Это все сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе це дуже складно."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0006_OPTION_0002",
+            "en": "Pissed me off, too.",
+            "ru_native": "Я тоже бесилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це мене також розлютило."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0006_OPTION_0003",
+            "en": "Get over it, there’s work to do.",
+            "ru_native": "Соберись, это еще не конец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Змирися вже із цим, ще є справи."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0006_OPTION_0004",
+            "en": "This stuff is complicated.",
+            "ru_native": "Это все сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе це дуже складно."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0006_OPTION_0005",
+            "en": "Pissed me off, too.",
+            "ru_native": "Я тоже бесилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це мене також розлютило."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0007_OPTION_0000",
+            "en": "I’m not sure.",
+            "ru_native": "Не уверена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не впевнена."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0007_OPTION_0001",
+            "en": "It doesn’t matter.",
+            "ru_native": "Это неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не важливо."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0007_OPTION_0002",
+            "en": "I made the right decision for me.",
+            "ru_native": "Я приняла верное для себя решение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зробила правильний вибір для себе."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0007_OPTION_0003",
+            "en": "I’m not sure.",
+            "ru_native": "Не уверена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не впевнена."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0007_OPTION_0004",
+            "en": "It doesn’t matter.",
+            "ru_native": "Это неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не важливо."
+        },
+        {
+            "tag": "A3S5.FRSTRI_CHOICE_0007_OPTION_0005",
+            "en": "I made the right decision for me.",
+            "ru_native": "Я приняла верное для себя решение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зробила правильний вибір для себе."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0000",
+            "en": "[calling] Two seconds, buddy! I’ll be right back.",
+            "ru_native": "Пару секунд, приятель! Сейчас вернусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[голосно говорить] Дві секунди, друже! Я зараз же повернуся."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0001",
+            "en": "[melancholic] Hey there, good-looking.",
+            "ru_native": "Привет, красавица.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[меланхолічно] Привіт, гарнюне."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0002",
+            "en": "Looking good.",
+            "ru_native": "Хорошо выглядишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре виглядаєш."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0003",
+            "en": "[quietly] I always liked this—",
+            "ru_native": "Мне всегда нравился этот жилет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихенько] Мені завжди подобався цей…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0004",
+            "en": "We don’t have a ton of time here, so… I’m gonna cut to it.",
+            "ru_native": "У нас не так много времени, так что перейду к главному.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас обмаль часу, тому перейду до головного."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0005",
+            "en": "Alex won’t be able to close the portal, Riley.",
+            "ru_native": "Алекс не сможет закрыть портал, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс не зможе закрити портал, Райлі."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0006",
+            "en": "Someone has to trade spots with her or else the… well. Let’s just say the door can’t lock.",
+            "ru_native": "Кто-то должен поменяться с ней местами, иначе... В общем, дверь не сможет закрыться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось повинен помінятися з нею місцями, інакше… Скажемо так, двері не зачиняться."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0007",
+            "en": "Transcendental physics, you know.",
+            "ru_native": "Трансцендентальная физика, все дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трансцендентальна фізика і все таке."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0008",
+            "en": "No two ways around it.",
+            "ru_native": "Тут без вариантов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут без варіантів."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0009",
+            "en": "Sorry for the bit of crappy news.",
+            "ru_native": "Извини, что хороших новостей нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, що гарних новин немає."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0010",
+            "en": "She’s never gotten this far. She’s learning… just like you.",
+            "ru_native": "Она никогда не доходила так далеко. Она учится, как и ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона ніколи не заходила так далеко. Вона вчиться, як і ти."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0011",
+            "en": "Who would be playing this trick on you? It wouldn’t be me. Or… you.",
+            "ru_native": "Ну и кто будет пытаться тебя провести? Точно не я. Или... ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну і хто намагатиметься тебе перехитрити? Точно не я. Чи… ти."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0012",
+            "en": "I’m from… inside. And it’s less of a warning.",
+            "ru_native": "Я скорее изнутри. И это не предостережение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я скоріше… зсередини. І це не застереження."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0013",
+            "en": "And more… just an awareness you need to have.",
+            "ru_native": "Больше... понимание, которое тебе нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це більш як… роз’яснення, яке тобі потрібне."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0014",
+            "en": "Now, that \"someone\"… who has to trade with her and her friends on the other side…",
+            "ru_native": "Этот «кто-то», кто поменяется с ней и ее друзьями местами...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цей «хтось», хто здасться їй та її друзям і поміняється з ними місцями…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0015",
+            "en": "…whoever does, will forever live in a moment in time—a moment in their life… forever.",
+            "ru_native": "Кто бы это ни был, он будет заперт в одном моменте из своей жизни... навсегда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто б це не був, він буде ув’язнений в одному із моментів зі свого життя… назавжди."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0016",
+            "en": "I was the one that walked through, for us. I chose to end this… this way.",
+            "ru_native": "Это я пожертвовала собой, ради нас. Я выбрала... такой финал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це я пожертвувала собою заради нас. Я зробила такий вибір,<br>щоби покінчити зі всім цим… таким способом."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0017",
+            "en": "I walked through the portal… and there was a good day waiting on the other side.",
+            "ru_native": "Я прошла сквозь портал и... на другой стороне меня ждал хороший день.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пройшла крізь портал і… на іншому боці на мене чекав гарний день."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0018",
+            "en": "Just… me and Rex.",
+            "ru_native": "Только я и Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки я та Рекс."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0019",
+            "en": "That’s what <i>I</i> chose.",
+            "ru_native": "Таков был мой выбор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Такий був <i>мій</i> вибір."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0020",
+            "en": "So… now you know.",
+            "ru_native": "Теперь ты знаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… тепер ти знаєш."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0021",
+            "en": "I didn’t do it for them…",
+            "ru_native": "Я сделала это не ради них...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зробила це не заради них…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0022",
+            "en": "I did it because it was the right thing to do.",
+            "ru_native": "Я сделала это, потому что это правильный выбор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зробила це, тому що так правильно."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0023",
+            "en": "And it was my decision to make.",
+            "ru_native": "И это мой выбор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І це мій вибір."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0024",
+            "en": "I know, I know. But you have one more thing to do, okay? One more decision to make.",
+            "ru_native": "Знаю, знаю. Но от цели тебя отделает еще один шаг. Еще один выбор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, знаю. Але тобі потрібно ще дещо зробити. Ще один вибір."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0025",
+            "en": "I’m sorry it’s come to this.",
+            "ru_native": "Прости, что так вышло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, що так сталося."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0026",
+            "en": "I… don’t know what… we are.",
+            "ru_native": "Не знаю, что... мы такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не знаю чи це так."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0027",
+            "en": "No one can tell you if you’re gonna be happy.",
+            "ru_native": "Никто не может сказать, будешь ли ты счастлива.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніхто не може сказати, чи ти будеш щаслива."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0028",
+            "en": "Not even… you.",
+            "ru_native": "Даже... ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть… ти."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0029",
+            "en": "You gotta be brave enough to see for yourself.",
+            "ru_native": "Наберись смелости и узнай сама.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти повинна зібратися з духом і дізнатися самотужки."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0030",
+            "en": "And braver, still, to accept what you find.",
+            "ru_native": "И прими то, что узнаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І набратися сміливості, щоби прийняти те, що дізнаєшся."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0031",
+            "en": "Our dad… made mistakes, Riley.",
+            "ru_native": "Наш папа... наделал ошибок, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наш тато… наробив дурниць, Райлі."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0032",
+            "en": "And those mistakes charted a map for us, and burned it into our bones.",
+            "ru_native": "И эти ошибки предопределили нашу судьбу, выжгли ее в костях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ці дурниці визначили нашу долю, викарбували її на наших кістках."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0033",
+            "en": "It’s taken me a long time to focus… on his trying. And his love.",
+            "ru_native": "Я долго шла к тому, чтобы понять... его старания. И любовь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я довго йшла до того, щоби зрозуміти, які він прикладав зусилля.<br>І щоби зрозуміти його кохання."
+        },
+        {
+            "tag": "A3S5.FRSTRI_OTHERRILEY_0034",
+            "en": "Focus on what matters to you, Riley. You’ll know what to do.",
+            "ru_native": "Пойми, что важно для тебя, Райли. Ты поймешь, что делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозумій, що для тебе важливо, Райлі. І ти знатимеш, що робити."
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0000",
+            "en": "Uh—well I think I know the answer already, but… who are you?",
+            "ru_native": "Кажется, я уже знаю ответ, но... Кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, я знаю відповідь, але… Хто ти?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0001",
+            "en": "Are you… me? Us? Something else?",
+            "ru_native": "Ты... это я? Мы? Что-то иное?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти — це я? Ми? Щось інше?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0002",
+            "en": "What the hell is all this? What’s going on?",
+            "ru_native": "Какого хрена тут происходит? Что за?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якого біса тут відбувається? Що за чортівня?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0003",
+            "en": "[confused; nervous] Well… hey, right back at you.",
+            "ru_native": "Взаимно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[розгублено; нервово] Ну… і тобі привіт."
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0004",
+            "en": "I’d ask for your number, but I think I already know it.",
+            "ru_native": "Я бы попросила номерок, но я его уже знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я би попросила твій номер, але я його вже знаю."
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0005",
+            "en": "And… why doesn’t Alex know this herself?",
+            "ru_native": "Но... почему Алекс сама это не знает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але чому Алекс сама цього не знає?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0006",
+            "en": "This… seems like a trick. How am I supposed to trust this?",
+            "ru_native": "Похоже на уловку. Как ты предлагаешь мне в это верить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на якісь хитрощі. Як я маю в це повірити?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0007",
+            "en": "And… you’re from… the future…? To… warn me? Or…",
+            "ru_native": "Ты – это я из будущего? Это предостережение?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… ти з майбутнього? Це застереження? Чи…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0008",
+            "en": "Why would you sacrifice yourself? Ourselves?",
+            "ru_native": "Зачем жертвовать собой? Нами?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо жертвувати собою? Нами?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0009",
+            "en": "For the town—for—for what? For who? We don’t owe them anything.",
+            "ru_native": "Ради города? Ради... чего? Ради кого? Мы им ничего не должны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заради міста? Чи заради чого? Заради кого? Ми їм нічого не винні."
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0010",
+            "en": "You gotta be kidding me, we’re like—we’re right there!",
+            "ru_native": "Ты что, шутишь? Мы же... мы почти у цели!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти що, жартуєш? Ми ж… майже у цілі!"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0011",
+            "en": "We’re so close! I—I ran all over this stupid seaside burg for the last—for—",
+            "ru_native": "Мы так близко! Я носилась по этому треклятому куску суши последние...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми так близько! Я носилася цим бісовим шматком суші останні…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0012",
+            "en": "Are you—",
+            "ru_native": "Ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0013",
+            "en": "Are we…",
+            "ru_native": "Мы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0014",
+            "en": "Are you happy… with this? Are we happy with this?",
+            "ru_native": "Ты счастлива... вот так? Мы счастливы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти задоволена… своїм вибором? Ми задоволені?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0015",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0016",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0017",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0018",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0019",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0020",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0021",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0022",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0023",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0024",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0025",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0026",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0027",
+            "en": "Uh—well you look exactly like me.",
+            "ru_native": "Ты выглядишь совсем как я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ти виглядаєш точнісінько, як я."
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0028",
+            "en": "But are you—me? Us? Me?",
+            "ru_native": "Ты – это я? Мы? Я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти — це я? Ми? Я?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_RILEY_0029",
+            "en": "What the hell is all this?",
+            "ru_native": "Что за хрень происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це все за чортівня?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0000",
+            "en": "Hey, nice to see you again.",
+            "ru_native": "Рада вновь тебя видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, рада тебе знову бачити."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0001",
+            "en": "I wondered when you’d show up.",
+            "ru_native": "Все ждала, что ты придешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не могла дочекатися, коли ж ти з’явишся."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0002",
+            "en": "Not a ton of time here, so let’s cut to it.",
+            "ru_native": "Времени мало, так что сразу к сути.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не так багато часу маємо, тому перейду о головного."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0003",
+            "en": "Alex can’t just close the door, someone <i>has</i> to trade spots with her. No two ways around it.",
+            "ru_native": "Алекс не может закрыть проход, кто-то <i>должен</i><br>поменяться с ней местами. Без вариантов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс не може просто зачинити двері, хтось <i>повинен</i> помінятися з нею місцями.<br>Тут без варіантів."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0004",
+            "en": "And that someone… could be you. It was for me.",
+            "ru_native": "И этим кем-то можешь быть ты. Им стала я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І це хтось… можеш бути ти. Так сталося зі мною."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0005",
+            "en": "<i>I</i> chose to go through. <i>I</i> chose to end this.",
+            "ru_native": "<i>Я</i> выбрала портал. <i>Я</i> решила с этим покончить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "<i>Я</i> вирішила пройти крізь портал. <i>Я</i> вирішила покінчити із цим."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0006",
+            "en": "Me and Rex. And a good day.",
+            "ru_native": "Я, Рекс, прекрасный день.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки я та Рекс. І гарний день."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0007",
+            "en": "Okay, you really gotta listen to me.",
+            "ru_native": "Ты обязана меня выслушать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ти маєш уважно мене послухати."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0008",
+            "en": "So, I’m gonna tell you some crazy stuff, but you can’t freak out, okay?",
+            "ru_native": "Я сейчас буду говорить дикие вещи, но сохраняй спокойствие, ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, я розкажу тобі дещо божевільне, але ти не маєш панікувати, добре?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0009",
+            "en": "Maybe it was a mistake, but it was mine to make.",
+            "ru_native": "Может, это было ошибкой, но ее совершила я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо це була помилка, але то був мій вибір."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0010",
+            "en": "Well what the hell else was I supposed to do? Sit around? Wait for the world to fix itself?",
+            "ru_native": "Что еще я могла сделать, черт возьми? Ждать, пока мир сам собой не исправится?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що в біса ще я мала робити? Просто сидіти? Чекати, поки світ сам усе виправить?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0011",
+            "en": "We both know we did plenty of that. For <i>years</i>. How well did that work out, huh?",
+            "ru_native": "Мы обе знаем, что постоянно так делали. <i>Годами</i>. И как, сработало?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми обидві знаємо, що раніше ми завжди так робили. <i>Роками</i>. І що із цього вийшло, га?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0012",
+            "en": "Button it, Poverly. You still got work to do. Decisions to make. No sitting around.",
+            "ru_native": "Соберись, Поверли. Впереди много работы. И решений. Отсидеться не выйдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зберися, Поверлі. У тебе ще є справи. Вибір, який необхідно зробити.<br>Ти не маєш просто сидіти."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0013",
+            "en": "Not anymore.",
+            "ru_native": "Больше не выйдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більше не маєш."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0014",
+            "en": "Yeah, we were—uh—yeah, we were.",
+            "ru_native": "Да, мы были... Близки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, ну так…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0015",
+            "en": "This stuff is a souffle. One degree off, ya know?",
+            "ru_native": "Это как карточный домик. Одно движение, и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це як готувати суфле. На один градус помилишся і все, розумієш?"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0016",
+            "en": "Yeah, I was pissed off, too.",
+            "ru_native": "Да, я тоже бесилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я теж була розлючена."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0017",
+            "en": "Part of me still is…",
+            "ru_native": "Часть меня до сих пор...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Частина мене й досі розлючена…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0018",
+            "en": "I—don’t know what we are.",
+            "ru_native": "Не знаю, что... мы такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не знаю чи ми щасливі."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0019",
+            "en": "The best I got for you is… different.",
+            "ru_native": "Все, что могу сказать: мы разные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Найвлучніше, що я можу тобі сказати так це те, що тут… усе інакше."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0020",
+            "en": "But hey, that’s <i>me.</i> That’s not <i>you.</i>",
+            "ru_native": "Но это <i>я.</i> Это не <i>ты.</i>",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але зрозумій, це про <i>мене.</i> Не про <i>тебе.</i>"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0021",
+            "en": "No one can <i>tell you</i> if you’re gonna be happy.",
+            "ru_native": "Никто тебе не <i>скажет</i>, будешь ли ты счастлива.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніхто не може <i>сказати</i>, чи ти будеш щаслива."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0022",
+            "en": "Not even… you.",
+            "ru_native": "Даже... ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть… ти."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0023",
+            "en": "You gotta be brave enough to see for yourself.",
+            "ru_native": "Наберись смелости и узнай сама.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти повинна зібратися з духом і дізнатися самотужки."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0024",
+            "en": "And even braver to accept what you find.",
+            "ru_native": "И прими то, что узнаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І набратися сміливості, щоби прийняти те, що дізнаєшся."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0025",
+            "en": "It doesn’t matter if <i>I’m</i> happy. We’re not the same person.",
+            "ru_native": "Не важно, счастлива ли <i>я</i>. Мы ведь разные люди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не має значення чи <i>я</i> щаслива. Ми — не одне й те саме."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0026",
+            "en": "All I can say is I made the right decision for me.",
+            "ru_native": "Знаю лишь, что я приняла верное для себя решение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу сказати, що я зробила правильний вибір для себе."
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0027",
+            "en": "<i>Me.</i> Not <i>you.</i>",
+            "ru_native": "Для <i>себя.</i> Не для <i>тебя.</i>",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "<i>Я.</i> Не <i>ти.</i>"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0028",
+            "en": "And look, good question, but here’s the <i>really</i> important thing…",
+            "ru_native": "Слушай, вопрос хороший, но <i>самое</i> важное здесь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І це гарне запитання, але ось <i>справді</i> важлива річ…"
+        },
+        {
+            "tag": "A3S5.FRSTRI_SOCIALRILEY_0029",
+            "en": "You have to make the right decision for <i>you,</i> nobody else.",
+            "ru_native": "Прими решение, верное для <i>тебя</i>, и никого другого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти повинна зробити правильний вибір для <i>себе,</i> а не для когось іншого."
+        }
+    ]
+}

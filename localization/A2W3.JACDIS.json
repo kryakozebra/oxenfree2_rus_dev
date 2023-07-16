@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.JACDIS",
+    "entries": [
+        {
+            "tag": "A2W3.JACDIS_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.JACDIS_CHOICE_0000_OPTION_0000",
+            "en": "Jacob?",
+            "ru_native": "Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе?"
+        },
+        {
+            "tag": "A2W3.JACDIS_CHOICE_0000_OPTION_0001",
+            "en": "Hey! Where’d you go?",
+            "ru_native": "Эй! Ты куда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Ти куди?"
+        },
+        {
+            "tag": "A2W3.JACDIS_CHOICE_0000_OPTION_0002",
+            "en": "Damn it.",
+            "ru_native": "Проклятье.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От дідько."
+        },
+        {
+            "tag": "A2W3.JACDIS_RILEY_0000",
+            "en": "Uh… Jacob? [calling out a bit more] Jacob?",
+            "ru_native": "Эм... Джейкоб? Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е… Джейкобе? Джейкобе?"
+        },
+        {
+            "tag": "A2W3.JACDIS_RILEY_0001",
+            "en": "Hey! Jacob! Where’d you go?",
+            "ru_native": "Эй! Джейкоб! Ты куда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Джейкобе! Ти куди?"
+        },
+        {
+            "tag": "A2W3.JACDIS_RILEY_0002",
+            "en": "Oh—uh, damn it. God, again?",
+            "ru_native": "О черт. Боже, опять?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От халепа. Боже, знову?"
+        },
+        {
+            "tag": "A2W3.JACDIS_RILEY_0003",
+            "en": "Things—this is getting worse—",
+            "ru_native": "Все... становится хуже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе… стає гірше…"
+        }
+    ]
+}

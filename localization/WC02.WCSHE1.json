@@ -1,0 +1,393 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC02.WCSHE1",
+    "entries": [
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0000_OPTION_0000",
+            "en": "Shelley, do you know about Parentage?",
+            "ru_native": "Шелли, ты знаешь про «Наследие»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі, ти щось знаєш про «Парентаж»?"
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0001_OPTION_0000",
+            "en": "Sounds harmless enough.",
+            "ru_native": "Звучит довольно безобидно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Видається незагрозливим."
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0001_OPTION_0001",
+            "en": "Gross",
+            "ru_native": "Мерзость",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це огидно."
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0002_OPTION_0000",
+            "en": "Scary how?",
+            "ru_native": "Как страшная?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наскільки страшна?"
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0002_OPTION_0001",
+            "en": "Was she a naked dancer too?",
+            "ru_native": "Она тоже голой танцевала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона теж була голою танцівницею?"
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0003_OPTION_0000",
+            "en": "More naked dancing?",
+            "ru_native": "Больше танцев голышом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще більше танців без одягу?"
+        },
+        {
+            "tag": "WC02.WCSHE1_CHOICE_0003_OPTION_0001",
+            "en": "Horror stories?",
+            "ru_native": "Жуткие истории?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Страшні історії?"
+        },
+        {
+            "tag": "WC02.WCSHE1_RILEY_0000",
+            "en": "Shelley, you ever heard of Parentage?",
+            "ru_native": "Шелли, ты слышала что-нибудь про «Наследие»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі, ти коли-небудь чула про «Парентаж»?"
+        },
+        {
+            "tag": "WC02.WCSHE1_RILEY_0001",
+            "en": "Sounds harmless, if annoying.",
+            "ru_native": "Звучит безобидно, хотя и раздражает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Видається незагрозливим, хоча і дратує."
+        },
+        {
+            "tag": "WC02.WCSHE1_RILEY_0002",
+            "en": "Okay, gross?",
+            "ru_native": "Ладно, мерзко?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, це огидно?.."
+        },
+        {
+            "tag": "WC02.WCSHE1_RILEY_0003",
+            "en": "How so?",
+            "ru_native": "Какая?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А чого так?"
+        },
+        {
+            "tag": "WC02.WCSHE1_RILEY_0004",
+            "en": "Did she also dance naked?",
+            "ru_native": "Тоже голой танцевала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона теж танцювала оголеною?"
+        },
+        {
+            "tag": "WC02.WCSHE1_RILEY_0005",
+            "en": "A long history of naked dancing?",
+            "ru_native": "Долгую историю танцев голышом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Довга історія про танці без одягу?"
+        },
+        {
+            "tag": "WC02.WCSHE1_RILEY_0006",
+            "en": "Super horrific?",
+            "ru_native": "Суперстрашно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Супер жахливо?"
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0000",
+            "en": "Oh, lord, God, yes, I have heard of the f—effing Parentage.",
+            "ru_native": "О господи, да, слышала я про это гребаное «Наследие».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, так, я чула про… бісовий «Парентаж»."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0001",
+            "en": "Sorry, on duty, try to monitor the language.",
+            "ru_native": "Прошу прощения, не сдержалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, я на чергуванні, треба стежити за мовою."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0002",
+            "en": "The number of times I’ve had to deal with their naked forest dancing ceremonies.",
+            "ru_native": "Мне не раз приходилось иметь дело с их<br>церемониями, когда они голышом танцевали в лесу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скільки разів мені доводилося мати справу з їхніми обрядами й голими танцями в гаю."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0003",
+            "en": "It’s like—okay, wanna dance naked? Cool!",
+            "ru_native": "Хочешь танцевать голым? Вперед!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу… гаразд, хочеш танцювати голяка? Круто!"
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0004",
+            "en": "That’s why God invented backyards. Over.",
+            "ru_native": "Делай это у себя на заднем дворе. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось чому винайшли приватні подвір’я. Прийом."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0005",
+            "en": "I mean, look, they clean up after themselves, that’s better than a lot of park visitors but still.",
+            "ru_native": "Ну, с другой стороны, они хотя бы за собой убирали,<br>в отличие от большинства, но все равно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто, слухай, вони ж прибирають за собою, і це краще, ніж те,<br>що роблять інші відвідувачі парку, але все одно."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0006",
+            "en": "Right? I can’t stand getting dirt under my fingernails let alone—",
+            "ru_native": "Да? Я даже грязь у себя под ногтями не выношу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж? Я терпіти не можу бруд під нігтями, не кажучи вже про…"
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0007",
+            "en": "—on duty, Shel, c’mon. Uh—anyway…",
+            "ru_native": "Так, Шел, соберись, ты на службе. В общем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…чергова, Шел, годі. Ем, у будь якому випадку…"
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0008",
+            "en": "There was this one member though… she died a few years back…",
+            "ru_native": "Была у них одна последовательница... умерла пару лет назад...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Була серед них одна жінка… вона померла кілька років тому…"
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0009",
+            "en": "Dunno. Wasn’t so hippy-dippy. More uh… scary-hairy?",
+            "ru_native": "Не знаю. Не такая чокнутая. Больше... страшно патлатая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Була не такою хіпі-дуріпі. Більш, ем… страшнятко-волохатко?.."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0010",
+            "en": "More scary than…",
+            "ru_native": "Скорее страшная, чем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більш страшна, ніж…"
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0011",
+            "en": "Yeah, than hairy. Over",
+            "ru_native": "Да, чем патлатая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ніж волохата. Прийом."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0012",
+            "en": "Well, they all danced naked at some point.",
+            "ru_native": "Ну, они там все голыми танцевали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, колись вони всі танцювали оголеними."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0013",
+            "en": "She hated Parentage more than me. But she was still a member.",
+            "ru_native": "Она ненавидела «Наследие» еще больше меня. Хотя сама в нем состояла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона ненавиділа «Парентаж» більше, ніж я. Але вона все ще входила до їхньої секти."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0014",
+            "en": "Just some bog-standard old lady complaining about how the old ways were dying out, kids these days, the usual tap dance.",
+            "ru_native": "Ничем не примечательная старушка, у которой раньше все было лучше, дети сейчас не те пошли –<br>обычная фигня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто звичайна старенька леді, яка скаржиться на те, як усе звичне для неї змінюється,<br>які діти зараз, звичайне бубоніння."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0015",
+            "en": "I had to drive her back home once after she twisted her ankle during one of their naked dance-offs. The stories she told…",
+            "ru_native": "Я как-то подвозила ее домой, когда она подвернула ногу на этих своих танцах голышом.<br>Она мне такое рассказала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Одного разу мені довелося відвезти її додому після того, як вона вивернула щиколотку<br>під час одного з їхніх танців без одягу. Ті історії, які вона розповіла…"
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0016",
+            "en": "That’s when it started to get scary.",
+            "ru_native": "Вот тогда стало страшно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От коли стало страшно."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0017",
+            "en": "Among other things. Over.",
+            "ru_native": "Помимо прочего. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Між іншим. Прийом."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0018",
+            "en": "Not… quite. Parentage wasn’t uh… wasn’t always bird-watching, if you read me.",
+            "ru_native": "Не... совсем. «Наследие» не всегда было безобидным, если вы понимаете, о чем я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не… зовсім. Секта «Парентаж» не… не завжди спостерігала за птахами,<br>якщо ти розумієш, про що я."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0019",
+            "en": "I’m talking the gritty reboot of the Inquisition.",
+            "ru_native": "Я говорю о жесткой перезагрузке Инквизиции.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я кажу про брутальне перезавантаження інквізиції."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0020",
+            "en": "Apparently its founders were a lot less into naked dancing…",
+            "ru_native": "Судя по всему, основатели этой секты увлекались не танцами голышом...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вочевидь, засновники секти набагато менше захоплювалися танцями без одягу…"
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0021",
+            "en": "And a lot more into fire. And bodies.",
+            "ru_native": "А больше кострами. И сжиганием людей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А набагато більше полюбляли вогонь. І тіла."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0022",
+            "en": "But, pin in that, I gotta do a quick walkaround…",
+            "ru_native": "Так, тут остановимся, мне надо на обход...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, запам’ятайте, де ми зупинилися, мені потрібно зробити швиденький обхід…"
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0023",
+            "en": "There are sleeping skunks in this area and they’re not fond of talking alarm clocks.",
+            "ru_native": "Тут скунсы спят, и говорящий будильник их явно не обрадует.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У цій місцевості є сплячі скунси, і вони не люблять будильники."
+        },
+        {
+            "tag": "WC02.WCSHE1_SHELLEY_0024",
+            "en": "Check back later. [whispers] Over and out.",
+            "ru_native": "Потом договорим. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’яжемося пізніше. [шепоче] Кінець зв’язку!"
+        }
+    ]
+}

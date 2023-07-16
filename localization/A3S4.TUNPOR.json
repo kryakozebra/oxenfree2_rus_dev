@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S4.TUNPOR",
+    "entries": [
+        {
+            "tag": "A3S4.TUNPOR_ALEX_0000",
+            "en": "Riley!",
+            "ru_native": "Райли!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі!"
+        },
+        {
+            "tag": "A3S4.TUNPOR_ALEX_0001",
+            "en": "You still with me?!",
+            "ru_native": "Ты еще тут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене ще чуєш?!"
+        },
+        {
+            "tag": "A3S4.TUNPOR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.TUNPOR_CHOICE_0000_OPTION_0000",
+            "en": "This is wrong!",
+            "ru_native": "Это неправильно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це неправильно!"
+        },
+        {
+            "tag": "A3S4.TUNPOR_CHOICE_0000_OPTION_0001",
+            "en": "What is this?!",
+            "ru_native": "Что это?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це?!"
+        },
+        {
+            "tag": "A3S4.TUNPOR_JACOB_0000",
+            "en": "Whoa!",
+            "ru_native": "<none>",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого!"
+        },
+        {
+            "tag": "A3S4.TUNPOR_JACOB_0001",
+            "en": "Oh—uh, okay…",
+            "ru_native": "<none>",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A3S4.TUNPOR_RILEY_0000",
+            "en": "Gah!",
+            "ru_native": "<none>",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га!"
+        }
+    ]
+}

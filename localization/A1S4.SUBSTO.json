@@ -1,0 +1,1293 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S4.SUBSTO",
+    "entries": [
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0000_OPTION_0000",
+            "en": "How so?",
+            "ru_native": "С чего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого б це?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0000_OPTION_0001",
+            "en": "That place?",
+            "ru_native": "Это место?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оте?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0000_OPTION_0002",
+            "en": "Good or bad history?",
+            "ru_native": "Хорошей или плохой истории?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хорошої чи поганої історії?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0001_OPTION_0000",
+            "en": "Which story?",
+            "ru_native": "Какую историю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яку історію?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0001_OPTION_0001",
+            "en": "Casualty of war, right?",
+            "ru_native": "Жертва войны, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жертва війни, чи не так?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0002_OPTION_0000",
+            "en": "What do you mean?",
+            "ru_native": "В смысле?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти про що?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0002_OPTION_0001",
+            "en": "Great story! Anyways...",
+            "ru_native": "Отличная история! Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудова історія! Але…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0003_OPTION_0000",
+            "en": "Why do people think that?",
+            "ru_native": "Почему люди так думают?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому люди так вважають?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0003_OPTION_0001",
+            "en": "Sounds thin...",
+            "ru_native": "Звучит притянуто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слабка теорія…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0003_OPTION_0002",
+            "en": "Do you believe that?",
+            "ru_native": "Ты в это веришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти в це віриш?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0004_OPTION_0000",
+            "en": "Other other?",
+            "ru_native": "Третью?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Геть іншу?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0004_OPTION_0001",
+            "en": "Go on.",
+            "ru_native": "Я слушаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжуй…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0004_OPTION_0002",
+            "en": "No thanks.",
+            "ru_native": "Нет, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні дякую."
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0005_OPTION_0000",
+            "en": "Yes.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0005_OPTION_0001",
+            "en": "No.",
+            "ru_native": "Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні."
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0005_OPTION_0002",
+            "en": "Gimme a break.",
+            "ru_native": "Притормози.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібна пауза!"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0006_OPTION_0000",
+            "en": "Creepy!",
+            "ru_native": "Жуть!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моторошно."
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0006_OPTION_0001",
+            "en": "[Joke] I'm a ghost.",
+            "ru_native": "[Шутка] Я призрак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Жартома] Я — привид."
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0006_OPTION_0002",
+            "en": "They should make that the story.",
+            "ru_native": "Им надо было взять эту версию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їм треба було зробити цю версію офіційною."
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0007_OPTION_0000",
+            "en": "Hogwash!",
+            "ru_native": "Ерунда!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дурниця!"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0007_OPTION_0001",
+            "en": "I can believe it.",
+            "ru_native": "Я могу в это поверить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу в таке повірити."
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0008_OPTION_0000",
+            "en": "Agreed!",
+            "ru_native": "Точно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погоджуюсь!"
+        },
+        {
+            "tag": "A1S4.SUBSTO_CHOICE_0008_OPTION_0001",
+            "en": "Wimp.",
+            "ru_native": "Слабак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слинько."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0000",
+            "en": "There's a great view of Edwards Island up there. Postcard-worthy. Truly.",
+            "ru_native": "Отсюда отличный вид на остров Эдвардса. Как с открытки. Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідси чудовий вид на острів Едвардса. Як із листівки. Дійсно."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0001",
+            "en": "You said this was your first time here, right? I'm glad you got to see it.",
+            "ru_native": "Ты сказала, ты тут впервые? Я рад, что ты это увидела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти казала, що ти тут уперше? Я радий, що ти побачила це."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0002",
+            "en": "It's a uh—piece of American history believe it or not.",
+            "ru_native": "Это все-таки... часть истории Америки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все-таки… частина історії Америки."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0003",
+            "en": "Edwards Island.",
+            "ru_native": "Остров Эдвардса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Острів Едвардса."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0004",
+            "en": "I mean.",
+            "ru_native": "Я про него.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю на увазі."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0005",
+            "en": "Well…",
+            "ru_native": "Ну...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0006",
+            "en": "Well…",
+            "ru_native": "Ну...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0007",
+            "en": "You ever uh… buy the story growing up? About the Kanaloa.",
+            "ru_native": "Ты когда-нибудь слышала историю про «Каналоа»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… е-е… у дитинстві ніколи не чула історію про човен «Каналоа»?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0008",
+            "en": "The uh—ya know—the submarine that went down over there?",
+            "ru_native": "Про подводную лодку, которая тут затонула?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про підводний човен, який тут затонув?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0009",
+            "en": "Yeah—so did you buy it? The submarine story?",
+            "ru_native": "Думаешь, это правда? Про подлодку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, це правда? Історія про підводний човен?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0010",
+            "en": "The one they bored us with in every history class?",
+            "ru_native": "Которой нас доставали на каждом уроке истории?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та, яку нам розповідали на кожному уроці історії?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0011",
+            "en": "Everyone in town has an opinion on it.",
+            "ru_native": "У каждого в городе есть свое мнение на этот счет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кожен у місті має власну думку із цього приводу."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0012",
+            "en": "The USS Kanaloa was the only American submarine downed in enemy combat—",
+            "ru_native": "«Каналоа» была единственной американской<br>подлодкой, которую враг потопил во время войны...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Каналоа» був єдиним американським підводним човном,<br>який ворог потопив під час війни…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0013",
+            "en": "—in American waters. It happened right off the coast of Edwards Island.",
+            "ru_native": "...прямо у берегов острова Эдвардса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…в американських водах. Це сталося прямо біля острова Едвардса."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0014",
+            "en": "1943, during World War 2—",
+            "ru_native": "1943 год, Вторая мировая...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "1943 рік, Друга світова…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0015",
+            "en": "—the Camena Chamber of Commerce is very proud of the tragedy—it's great for the tour.",
+            "ru_native": "Торговая палата Камены очень гордится этой трагедией – это хорошо для туризма.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Торгова палата Камени дуже пишається цією трагедією — це добре для туризму."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0016",
+            "en": "But, uh… you know… some people… don't fully buy it.",
+            "ru_native": "Но... знаешь... не все верят в эту историю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… знаєш… не всі вірять у цю історію."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0017",
+            "en": "But, anyways, the USS Kanaloa was the only American submarine downed in WW2 here.",
+            "ru_native": "Как бы то ни было, «Каналоа» – единственная<br>подлодка США, которая затонула тут во Вторую мировую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як би там не було, «Каналоа» — єдиний підводний човен США,<br>який затонув тут під час Другої світової війні."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0018",
+            "en": "But… not everyone buys the official report.",
+            "ru_native": "Но... не все поверили в официальную версию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… не всі повірили в офіційну версію."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0019",
+            "en": "Oh yeah. Sorry, I—yeah, of course. I'm talking your ear off about—nevermind.",
+            "ru_native": "О да. Конечно, извини. Я тебе тут на уши присел... проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно, вибач. Я тут натуркав тобі у вуха… не зважай."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0020",
+            "en": "Let's see about that transmitter.",
+            "ru_native": "Займемся передатчиком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Займімося радіопередавачем."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0021",
+            "en": "But, uh, about the submarine…",
+            "ru_native": "Так вот, подлодка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, про підводний човен…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0022",
+            "en": "Well… some people say it was friendly fire. That we accidentally bombed our own sub.",
+            "ru_native": "Некоторые считают, что это были свои. Что мы случайно потопили собственную подлодку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дехто вважає, що це були свої. Що ми випадково<br>потопили власний підводний човен."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0023",
+            "en": "I mean, look, mistakes happen, right? War time is war time and people are—ya know—people.",
+            "ru_native": "Все же ошибаются, верно? Война есть война, а люди – это люди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто, усі ж помиляються, адже так? Війна є війна, а люди, ну… ти розумієш, це люди."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0024",
+            "en": "A missed morse code letter here, a garbled radio transmission there.",
+            "ru_native": "Тут не так услышали, там не так передали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не так почули сигнал, не так передали."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0025",
+            "en": "Anyway, I think maybe we did it to ourselves—sank our own submarine—and maybe someone covered it all up.",
+            "ru_native": "В общем, я думаю, мы сами это сделали –<br>потопили свою же подлодку – а потом дело замяли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Загалом, я думаю, ми самі це зробили — потопили свій же підводний човен,<br>а потім справу зам’яли."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0026",
+            "en": "Nobody wants a crack in a rose-colored lens so…",
+            "ru_native": "Ну, ты понимаешь, никому не нужна трещина на розовых очках...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нікому не потрібна тріщина на рожевих окулярах."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0027",
+            "en": "Yeah. Maybe it's uh—",
+            "ru_native": "Да. Может, это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… Мабуть…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0028",
+            "en": "Ya know, maybe it's not exactly what's what.",
+            "ru_native": "Знаешь, может, все было совсем не так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, може все було зовсім не так."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0029",
+            "en": "C'mon, crazier things… right?",
+            "ru_native": "Ну, еще безумнее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ще шаленіша історія… розумієш?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0030",
+            "en": "Oh, I don't know. Little discrepancies, little things, details of the story… not fitting exactly right.",
+            "ru_native": "Не знаю. Мелкие неточности, детали, которые не сходятся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Дрібні неточності, деталі, які не сходяться в цій історії."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0031",
+            "en": "That's—well, that's a comforting way to look at it. You could be right.",
+            "ru_native": "Что ж... это удобная позиция. Может, ты и права.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це зручна позиція. Може, твоя правда."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0032",
+            "en": "Yeah, I'm one of those \"some people,\" yeah, sure, you could say that.",
+            "ru_native": "Да, я определенно один из этих «некоторых».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я напевно один із цих «деяких»."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0033",
+            "en": "But, yeah, about the submarine story…",
+            "ru_native": "Так вот, про историю с подлодкой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, про історію з підводним човном…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0034",
+            "en": "Sometimes things just aren't what they seem, you know?",
+            "ru_native": "Иногда правда может оказаться совсем не такой, как мы думали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іноді правда може бути зовсім не такою, як ми гадали, розумієш?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0035",
+            "en": "I think it's good, as long as our eyes are open. Keeps you on your toes.",
+            "ru_native": "Думаю, это хорошо, пока мы можем трезво смотреть на вещи. Держит в тонусе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вважаю, що це добре об’єктивно дивитися на речі. Це тримає в тонусі."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0036",
+            "en": "Uh—but if uh—if you're willing to bend your brain a bit… there's always the… other other story.",
+            "ru_native": "Э-э.. Но если немного напрячь мозги, всегда есть другая история.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е… Але якщо трохи напружити мозок, завжди є інша історія."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0037",
+            "en": "But—uh—any interest in the… other other story?",
+            "ru_native": "Хочешь послушать... третью историю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи зацікавить тебе ця… зовсім інша версія?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0038",
+            "en": "About the submarine?",
+            "ru_native": "Про подлодку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про підводний човен?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0039",
+            "en": "The uh—",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0040",
+            "en": "Lesser told one?",
+            "ru_native": "Менее популярную.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Менш популярну."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0041",
+            "en": "The one not as often shared?",
+            "ru_native": "Которую редко рассказывают?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ту, що рідко розповідають?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0042",
+            "en": "Okay, no problem, you got a job to do, anyway. I'm distracting.",
+            "ru_native": "Ладно, не вопрос, ты все равно занята. А я отвлекаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, без питань, ти все одно зайнята. А я відволікаю."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0043",
+            "en": "Do you believe in ghosts?",
+            "ru_native": "Ты веришь в привидения?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти віриш у привидів?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0044",
+            "en": "Well...",
+            "ru_native": "Ну...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0045",
+            "en": "Well wait wait wait — let me get there, first.",
+            "ru_native": "Погоди-погоди, я еще не дошел...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, почекай, я ще не дійшов до цікавого…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0046",
+            "en": "But, uh, about the Kanaloa...",
+            "ru_native": "Так вот, «Каналоа»...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, про «Каналоа»…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0047",
+            "en": "Some people... maybe even some people standing right next to you...",
+            "ru_native": "Некоторые... может, даже кто-то, кто стоит рядом с тобой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дехто… може, навіть хтось, хто стоїть поряд із тобою…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0048",
+            "en": "Think the crew members of the USS Kanaloa... got lost on the way to the light, let's say.",
+            "ru_native": "Считают, что экипаж «Каналоа»... скажем так, потерялся по пути на тот свет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вважають, що екіпаж «Каналоа»… скажімо так, загубився дорогою на той світ."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0049",
+            "en": "Anyway, some folks think the crashed sub is... haunted.",
+            "ru_native": "В общем, ходят слухи, что там живут... призраки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Загалом ходять чутки, що в затопленому підводному човні… живуть привиди."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0050",
+            "en": "Some people think this is a haunted place.",
+            "ru_native": "Некоторые считают, что там водятся привидения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дехто вважає, що тут є привиди."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0051",
+            "en": "That's the other-other story.",
+            "ru_native": "Вот тебе и третья история.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось ця інша версія."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0052",
+            "en": "The one they don't put on T-shirts.",
+            "ru_native": "Ту, что не увидишь на футболках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Така, яку не розповідають широкому загалу."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0053",
+            "en": "That's the other story.",
+            "ru_native": "Вот и третья история.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось ця інша історія."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0054",
+            "en": "Definitely not one they put on the t-shirts.",
+            "ru_native": "Такую не печатают на футболках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Така, яку точно не розповідатимуть туристам."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0055",
+            "en": "I don't mean to give you goosebumps, I'm just trying to give you the back-alley tour [chuckles].",
+            "ru_native": "Я не хотел тебя пугать, я просто хотел показать тебе другую сторону этой истории.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хотів тебе налякати, я просто хотів показати тобі інший бік монети."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0056",
+            "en": "Okay, okay, ya know what? Make fun of me but all I'm saying is...",
+            "ru_native": "Ладно. Знаешь что? Можешь издеваться, но я просто хочу сказать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Знаєш що? Можеш знущатися, але я просто хочу сказати…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0057",
+            "en": "Well... few have heard the story. And even fewer believe it.",
+            "ru_native": "Ну... Эту историю мало кто слышал. И тем более – поверил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Цю історію мало хто чув. І тим паче — повірив у неї."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0058",
+            "en": "But I dunno...",
+            "ru_native": "Ну не знаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… не знаю."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0059",
+            "en": "I dunno, I go back and forth. All I know is...",
+            "ru_native": "Не знаю, какой версии верить. Но знаю одно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, якій версії вірити. Але знаю одне…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0060",
+            "en": "Edwards Island is a weird place. You go there and... it's like your feet never really touch the ground.",
+            "ru_native": "Остров Эдвардса – странное место. Ты попадаешь туда...<br>и твои ноги будто не касаются земли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Острів Едвардса — дивне місце. Ти потрапляєш туди…<br>і твої ноги наче не торкаються землі."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0061",
+            "en": "Couple that with an at least semi-questionable tale of maritime disaster and you have yourself the recipe for a proper ghost story.",
+            "ru_native": "Добавь к этому полусомнительную историю о морской<br>катастрофе, и получишь рецепт настоящей истории о привидениях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Додай до цього напівсумнівну історію морської катастрофи,<br>і отримаєш рецепт справжньої історії про привидів."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0062",
+            "en": "...if that's to your tastes.",
+            "ru_native": "...если тебе такое по вкусу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…якщо ти таке полюбляєш."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0063",
+            "en": "Dunno.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтозна."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0064",
+            "en": "Your mileage may vary I guess.",
+            "ru_native": "Судя по всему, ты другого мнения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча ти можеш мати іншу думку."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0065",
+            "en": "I think that I—a man who struggles deeply to remember to bring dryer sheets to the laundromat—does not have every mystery of the universe solved.",
+            "ru_native": "Я считаю, что тот, кто перед выходом из дома постоянно<br>забывает выключить свет, не может разгадать все тайны вселенной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вважаю, що той, хто перед виходом із дому постійно забуває викинути сміття,<br>не може розгадати всі таємниці всесвіту."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0066",
+            "en": "You're kind, but let's be realistic.",
+            "ru_native": "Ты добрая, но будем реалистами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти добра, але будемо реалістами."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0067",
+            "en": "But hey... ghosts, no ghosts... war time accident or, uh, heroic defeat —",
+            "ru_native": "Есть призраки или нет... военная ошибка или героическое поражение...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є привиди чи ні… військова помилка чи героїчна поразка…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0068",
+            "en": "At least we can both agree it gets too friggin' cold out here, Jesus.",
+            "ru_native": "По крайней мере, мы оба согласимся с тем, что тут становится чертовски холодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, ми обоє погодимося з тим, що тут стає страшенно холодно."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0069",
+            "en": "[sighs from the cold] I can barely feel my feet.",
+            "ru_native": "Я ног почти не чувствую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ніг майже не відчуваю."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0070",
+            "en": "But I guess I'm not used to night-hikes. [laughs a little]",
+            "ru_native": "Думаю, я не привыкла к ночным походам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, я не звикла до нічних походів. [хихикає]"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0071",
+            "en": "Cause… I mean, look, mistakes happen, right?",
+            "ru_native": "Просто... Ведь каждый может ошибиться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… Адже кожен може помилитись, хіба ні?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0072",
+            "en": "A missed morse code letter here…",
+            "ru_native": "Тут не так услышали...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не так почули сигнал…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0073",
+            "en": "...a garbled radio transmission there.",
+            "ru_native": "...там не так передали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…не так передали."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0074",
+            "en": "But, uh, th-there’s another story about Edwards Island, that’s… well… lemme ask…",
+            "ru_native": "Есть еще одна история про остров Эдвардса. Но сперва скажи...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, ем, є ще одна історія про острів Едвардса. Але спершу скажи…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0075",
+            "en": "But anyway, I was just asking… you believe in ghosts?",
+            "ru_native": "В общем, я хотел спросить... ты веришь в призраков?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Загалом, я хотів запитати… ти віриш у привидів?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0076",
+            "en": "Kids — teenagers go there all the time, now. They spend the night, get loaded… try and see weird stuff.",
+            "ru_native": "Дети... подростки постоянно туда ходят. Ночуют<br>там, напиваются и... видят странные вещи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Діти… підлітки постійно туди ходять. Ночують там,<br>напиваються та… бачать дивні речі."
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0077",
+            "en": "You grew up here, right? You ever buy that story about Edwards Island?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты ведь вырос здесь, верно? Ты когда-нибудь покупал ту историю про остров Эдвардс?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тут виросла, правда? Ти коли-небудь вірила в легенду про острів Едвардса?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0078",
+            "en": "About the submarine that went down near Fort Milner? The USS Kanaloa?",
+            "ru_native": "",
+            "ru_machine": "DEEPL О подводной лодке, которая затонула возле форта Милнер? О подводной лодке USS Kanaloa?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про підводний човен, який затонув біля Форту Мілнера? Судно ВМФ США «Каналоа»?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0079",
+            "en": "It makes sense, if the radio wave strangeness is coming from there, right? I mean…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это имеет смысл, если странности с радиоволнами исходят оттуда, верно? То есть...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона має сенс, якщо радіохвиля дивна через це, чи не так? Тобто…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_JACOB_0080",
+            "en": "Couple that with an at least semi-questionable tale of maritime disaster and you have yourself the recipe for a proper ghost story.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Соедини это с хотя бы полусомнительной историей о морской катастрофе, и ты получишь рецепт правильной истории о призраках.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Додай до цього напівсумнівну історію морської катастрофи,<br>і отримаєш рецепт справжньої історії про привидів."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0000",
+            "en": "How, uh—how so?",
+            "ru_native": "С чего бы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого б це?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0001",
+            "en": "Seriously? That place? I've been in larger sporting goods stores.",
+            "ru_native": "Серьезно? Да я видела магазины спорттоваров больше этого острова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно? Оте? Та я бачила магазини спорттоварів більші за цей острів."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0002",
+            "en": "Good history or bad history?",
+            "ru_native": "Хорошей или плохой истории?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хорошої чи поганої історії?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0003",
+            "en": "Uh—which story?",
+            "ru_native": "Хм, какую историю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, яку історію?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0004",
+            "en": "It was a uh—ya know—casualty of war, right?",
+            "ru_native": "Это же была... жертва войны, так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж була… жертва війни, чи не так?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0005",
+            "en": "Uh, don't buy what? What do you mean—they think it's a lie?",
+            "ru_native": "А чему тут не верить? Хочешь сказать, они считают, что это ложь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А чому тут не вірити? Хочеш сказати, вони вважають, що це брехня?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0006",
+            "en": "Interesting story, I'll be sure to grab a pamphlet at the bus station.",
+            "ru_native": "Интересная история. Непременно захвачу брошюру на остановке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікава історія. Обов’язково захоплю брошуру на автобусній зупинці."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0007",
+            "en": "But I have to, uh, plant this transmitter now…",
+            "ru_native": "Но сейчас мне надо, хм, установить передатчик...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але зараз мені треба, уф, встановити цей радіопередавач…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0008",
+            "en": "Uh, why would anyone think that?",
+            "ru_native": "Зачем кому-то так думать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е. Навіщо комусь так думати?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0009",
+            "en": "Sounds kinda thin…",
+            "ru_native": "Слабенькая теория...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слабка теорія…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0010",
+            "en": "You would think if something like that actually happened, any more than two people couldn't keep it a secret.",
+            "ru_native": "Если представить, что так оно и было, то больше<br>двух человек не смогли бы удержать это в секрете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо уявити, що так і було, то більше двох людей не змогли би тримати це в таємниці."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0011",
+            "en": "Well… when you say some people, are you one of those… some people?",
+            "ru_native": "Когда ты сказал «некоторые», ты и себя имел в виду?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли ти сказав деякі, ти й себе мав на увазі?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0012",
+            "en": "Other other? There's another story on top of us bombing our own soldiers?",
+            "ru_native": "Третью? Круче той, где мы разбомбили своих же солдат?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Геть іншу? Більш приголомшливу за ту, де ми розбомбили своїх же солдатів?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0013",
+            "en": "Uh… go on?",
+            "ru_native": "Продолжай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е… Продовжуй…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0014",
+            "en": "Eh, I'll pass, thanks. I'm kinda conspiracy-theoried out, to be honest —",
+            "ru_native": "Я пас, спасибо. Хватит с меня конспирологических теорий...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — пас, дякую. Досить із мене конспірологічних теорій…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0015",
+            "en": "A kid on the bus drew me a map to find Bigfoot. I told him I don't know if I'll have the time.",
+            "ru_native": "Мне один малыш в автобусе нарисовал, как найти йети. Я сказала, что вряд ли проверю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені один малюк у автобусі намалював, як знайти Йеті.<br>Я сказала, що навряд чи в мене буде час на таке."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0016",
+            "en": "Sure.",
+            "ru_native": "Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0017",
+            "en": "No. Not really.",
+            "ru_native": "Нет, не особо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Не зовсім."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0018",
+            "en": "Oh, gimme a damn break, Jacob, I thought this was going somewhere interesting.",
+            "ru_native": "Ой, сделай перерыв, Джейкоб. Я думала, дальше будет что-то интересное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, дай відпочити, Джейкобе. Я думала, далі буде щось цікаве."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0019",
+            "en": "I'm thoroughly creeped out, now, thanks.",
+            "ru_native": "Спасибо, у меня мурашки по телу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, тепер у мене мурашки по тілу."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0020",
+            "en": "Damnit, you caught us!",
+            "ru_native": "Черт, ты нас раскусил!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько, нас розкусили!"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0021",
+            "en": "I thought I'd have till the end of the night to take my revenge from our watery grave but —",
+            "ru_native": "Я думала, у меня есть время до утра, чтобы отомстить за наши загубленные души, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думала, у мене є час до ранку, щоби помститися за наші занапащені душі, але…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0022",
+            "en": "Why not make that the official story?",
+            "ru_native": "Почему бы не сделать это официальной версией?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому б не зробити це офіційною версією?"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0023",
+            "en": "The tourism boom from amateur ghost hunters alone...",
+            "ru_native": "Представь, сколько охотников за привидениями сюда повалит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уяви, скільки мисливців за привидами сюди повалить…"
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0024",
+            "en": "Utter hogwash.",
+            "ru_native": "Полный бред.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повна маячня."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0025",
+            "en": "You don't believe this, do you? I mean, c'mon... submarine ghosts?",
+            "ru_native": "Не веришь? Я про привидения на подлодке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не віриш? Я про привидів на підводному човні."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0026",
+            "en": "Look, I can believe it. I've seen crap that's hard to explain. Impossible to explain, even.",
+            "ru_native": "Слушай, я могу в это поверить. Я видела то,<br>что очень сложно объяснить. Даже невозможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я можу в таке повірити. Я бачила те,<br>що дуже важко пояснити. Навіть неможливо."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0027",
+            "en": "So hey, you tell me a downed submarine crew haunts the coast of Camena, I won't argue.",
+            "ru_native": "Так что, если ты скажешь, что экипаж затонувшей<br>подлодки бродит по берегам Камены, я не буду спорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, якщо ти скажеш, що екіпаж затонулої субмарини<br>вештається узбережжям Камени, я не сперечатимуся."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0028",
+            "en": "Agreed. I'm freezing.",
+            "ru_native": "Согласна. Я тоже мерзну.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Згодна. Я теж мерзну."
+        },
+        {
+            "tag": "A1S4.SUBSTO_RILEY_0029",
+            "en": "[laughs] Wimp.",
+            "ru_native": "Слабак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Слинько."
+        }
+    ]
+}

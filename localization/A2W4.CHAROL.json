@@ -1,0 +1,798 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.CHAROL",
+    "entries": [
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0000",
+            "en": "Did you tell her that?",
+            "ru_native": "Ты сказал ей об этом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви їй розповіли?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0001",
+            "en": "Olivia, I mean.",
+            "ru_native": "В смысле, Оливии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівії, я маю на увазі."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0002",
+            "en": "[to himself, a little embarrassed] Obviously…",
+            "ru_native": "Очевидно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну звичайно…"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0003",
+            "en": "I can’t just help you.",
+            "ru_native": "Я не могу вам помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу просто допомогти вам."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0004",
+            "en": "…you think I don’t know that?",
+            "ru_native": "Думаешь, я не в курсе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…думаєте, я цього не знаю?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0005",
+            "en": "I just thought if I—forget it, I know you don’t care.",
+            "ru_native": "Я думал, если... Неважно, тебе все равно нет дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав, якщо я… Забудьте, я знаю, що вам усе одно."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0006",
+            "en": "Oh, this stuff?",
+            "ru_native": "Ты про это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, це?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0007",
+            "en": "Whoops.",
+            "ru_native": "Упс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упс."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0008",
+            "en": "Yeah, that was a joke.",
+            "ru_native": "Да, это был прикол.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, жарт такий."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0009",
+            "en": "Get it?",
+            "ru_native": "Уловил?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподобався?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0010",
+            "en": "You wouldn’t know smart if I gave you a dictionary.",
+            "ru_native": "Тебе-то откуда знать, что такое «умно».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумніваюся, що ви знаєте такі слова як «розумно»."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0011",
+            "en": "Takes one to know one.",
+            "ru_native": "Рыбак рыбака увидел?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Від виродків чую."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0012",
+            "en": "I know, right?",
+            "ru_native": "Скажи же!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0013",
+            "en": "Whatever, Maria should have never talked to you—I shouldn’t have even—",
+            "ru_native": "Ой, короче. Не надо было Марии с вами говорить. Зря я вообще...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Марія не мала б вам нічого розказувати… А мені не треба було навіть…"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0014",
+            "en": "I shouldn’t have even told her I was doing this.",
+            "ru_native": "Зря рассказал ей, чем занимаюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не треба було розповідати їй, чим я займався."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0015",
+            "en": "Look, just don’t tell Olivia about… any of that, okay?",
+            "ru_native": "Слушайте, просто не говорите Оливии про... все это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, тільки не кажіть Олівії про… усе це, гаразд?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0016",
+            "en": "[muttering] Like any of it will matter tomorrow anyway.",
+            "ru_native": "Хотя завтра это будет уже не важно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[бурмоче] Ніби хоч що-небудь із цього матиме значення завтра."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0017",
+            "en": "Go to Hell.",
+            "ru_native": "Катись к черту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пішов би ти."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0018",
+            "en": "What is it about anybody?",
+            "ru_native": "Что вообще с людьми?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А що такого є в кожному?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0019",
+            "en": "There are points in you, and—and some people have… corresponding points.",
+            "ru_native": "У всех нас есть черты, и у некоторых людей эти черты... гармонируют.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От є щось у тобі… І це «щось» перегукується із «чимось» інших людей."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0020",
+            "en": "And she’s honest above everything. That’s… that takes guts.",
+            "ru_native": "Она по-настоящему честная. На такое нужна смелость.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона ось відверта в усьому. І це… дуже сміливо."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0021",
+            "en": "It doesn’t matter—you don’t care. Not really.",
+            "ru_native": "Неважно... Тебе это не интересно, я же вижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча вам же… однаково. Забудьте."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0022",
+            "en": "Violet is like my sister, okay?",
+            "ru_native": "Вайолет мне как сестра.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет мені як сестра."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0023",
+            "en": "And like—I don’t know how your family rolls but…",
+            "ru_native": "И типа... Не знаю, как в твоей семье...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю… як заведено у вашій родині, але…"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0024",
+            "en": "Mine does not roll in that direction.",
+            "ru_native": "Но в моей такое не принято.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У моїй так неприйнятно."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0025",
+            "en": "Parentage is… truth. And truth doesn’t want or need anything.",
+            "ru_native": "«Наследие» – это... правда. А правде ничего не нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Парентаж це… істина. Істина нічого не хоче, і нічого не потребує."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0026",
+            "en": "And now that we have the truth, we can… do whatever we want.",
+            "ru_native": "Теперь у нас есть правда, и мы можем... делать, что хотим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А оскільки ми осягнули істину, ми можемо… робити, що тільки захочемо."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0027",
+            "en": "Okay, so you know I like Olivia, way to go…",
+            "ru_native": "Да, мне нравится Оливия, вот это новости...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То ви знаєте, що мені подобається Олівія, що ж, прекрасно…"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0028",
+            "en": "We’re making things right. And tonight’s the only night we can do it.",
+            "ru_native": "Мы хотим все исправить. И сделать это можем только сегодня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми все робимо правильно. Сьогоднішня ніч єдина, коли ми можемо все завершити."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0029",
+            "en": "You want more?",
+            "ru_native": "Еще вопросы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0030",
+            "en": "Cause that’s about as simple as I can make it.",
+            "ru_native": "Объяснить проще я уже не смогу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я й так усе спростив, як тільки міг."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0031",
+            "en": "Well you can forget it, I’m not getting into it. I can’t.",
+            "ru_native": "Губу закатай. Я ничего больше не скажу. Нельзя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді забудьте, я більше не говоритиму. Я не можу."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0032",
+            "en": "I can’t stop. You don’t understand what’s happening here. We…",
+            "ru_native": "Я не могу. Ты не понимаешь, что происходит. Мы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу. Ви не розумієте, що тут коїться. Ми…"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0033",
+            "en": "Something that A. doesn’t concern you and B. you wouldn’t care about anyway.",
+            "ru_native": "То, что, во-первых: не твое дело, а во-вторых: ты все равно не поймешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось, що А) вас не стосується, і Б) вас усе одно не хвилює."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0034",
+            "en": "Look, I don’t know what you want from me, but I know you’re not gonna get it.",
+            "ru_native": "Слушай, не догоняю, чего еще ты хочешь, но ты этого точно не получишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, я не знаю, чого ви від мене хочете,<br>але я знаю, що ви цього не отримаєте."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0035",
+            "en": "I can’t let her down. I just can’t. I know she—...I know it’s stupid.",
+            "ru_native": "Я не могу ее подвести. Не могу. Она же... Да, это глупо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не підведу її. Я просто не можу. Я знаю, вона… Знаю, що це тупо."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0036",
+            "en": "But I am choosing to be stupid, okay?",
+            "ru_native": "Но это мой выбор, ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я сам обираю бути тупим, зрозуміло?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0037",
+            "en": "Willful stupidity.",
+            "ru_native": "Намеренный идиотизм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Свідома тупість."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHARLIE_0038",
+            "en": "And now I’m done talking about it.",
+            "ru_native": "Больше я ничего не скажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе, досить триндіти."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0000_OPTION_0000",
+            "en": "No.",
+            "ru_native": "Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0000_OPTION_0001",
+            "en": "Help us and I won’t.",
+            "ru_native": "Помоги нам, и я не скажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Допоможи, і я не розповім"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0000_OPTION_0002",
+            "en": "She doesn’t feel the same.",
+            "ru_native": "Твои чувства не взаимны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ваші почуття не взаємні."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0001_OPTION_0000",
+            "en": "Not smart.",
+            "ru_native": "Не умно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не розумно"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0001_OPTION_0001",
+            "en": "God, you’re an ass.",
+            "ru_native": "Вот говнюк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гімно ти мале."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0001_OPTION_0002",
+            "en": "Funny.",
+            "ru_native": "Смешно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Смішно."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0002_OPTION_0000",
+            "en": "Why Olivia?",
+            "ru_native": "Почему Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому Олівія?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0002_OPTION_0001",
+            "en": "Why not Violet?",
+            "ru_native": "Почему не Вайолет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому не Вайолет?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0002_OPTION_0002",
+            "en": "What does Parentage want?",
+            "ru_native": "Чего хочет «Наследие»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого хоче Парентаж?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0003_OPTION_0000",
+            "en": "Talk!",
+            "ru_native": "Говори!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Говори!"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0003_OPTION_0001",
+            "en": "I don’t care, just stop.",
+            "ru_native": "Плевать, завязывайте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Начхати. Просто припини."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0003_OPTION_0002",
+            "en": "Making what right?",
+            "ru_native": "Исправить что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Робите правильно що?"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0004_OPTION_0000",
+            "en": "She’s not worth it.",
+            "ru_native": "Она того не стоит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона того не варта."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0004_OPTION_0001",
+            "en": "At least you’re honest.",
+            "ru_native": "Ты хотя бы честен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, ти чесний."
+        },
+        {
+            "tag": "A2W4.CHAROL_CHOICE_0004_OPTION_0002",
+            "en": "You’re coming with us.",
+            "ru_native": "Ты пойдешь с нами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти йдеш із нами."
+        },
+        {
+            "tag": "A2W4.CHAROL_JACOB_0000",
+            "en": "Okay, yeah, this all really couldn’t be less important.",
+            "ru_native": "Прекрасно, все это не имеет никакого значения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це все зараз зовсім не важливо."
+        },
+        {
+            "tag": "A2W4.CHAROL_JACOB_0001",
+            "en": "Hand over the stuff you stole from the Ranger’s station.",
+            "ru_native": "Давай сюда все, что украл на станции рейнджеров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Віддай те, що вкрав зі станції наглядачів."
+        },
+        {
+            "tag": "A2W4.CHAROL_JACOB_0002",
+            "en": "Are you kidding me?",
+            "ru_native": "Прикалываешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знущаєшся з мене?"
+        },
+        {
+            "tag": "A2W4.CHAROL_JACOB_0003",
+            "en": "Doing what?",
+            "ru_native": "И чем же?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Займався чим?"
+        },
+        {
+            "tag": "A2W4.CHAROL_JACOB_0004",
+            "en": "What do you mean?",
+            "ru_native": "Ты о чем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто?"
+        },
+        {
+            "tag": "A2W4.CHAROL_JACOB_0005",
+            "en": "What do you expect to happen?",
+            "ru_native": "Что должно произойти?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що має статися, чого ти очікуєш?"
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0000",
+            "en": "Jacob, it’s okay.",
+            "ru_native": "Джейкоб, все нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, усе гаразд."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0001",
+            "en": "I know you have a thing for Olivia. Maria told me.",
+            "ru_native": "Я знаю, что тебе нравится Оливия. Мария мне сказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ти поклав око на Олівію. Мені Марія сказала."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0002",
+            "en": "I know all of this—everything you’re doing, this—ya know bravado—all of it, is because of that.",
+            "ru_native": "Я знаю, все, что ты делаешь... эти твои выходки... все из-за нее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я все знаю… Усе, що ти робиш, уся ця… бравада… Усе це заради неї."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0003",
+            "en": "You wanna tell me I’m wrong, tell me I’m wrong. But you won’t, ‘cause I’m not.",
+            "ru_native": "Можешь сказать, что я не права, скажи. Но ты не скажешь, потому что я права.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш мені заперечити, якщо я не права. Але я права."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0004",
+            "en": "No, there are not enough languages to express how much I don’t care about this subject.",
+            "ru_native": "Нет, в языке недостаточно слов, чтобы выразить, насколько мне пофиг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Нема таких слів, щоби виразити, наскільки мені начхати на це."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0005",
+            "en": "But no, your secret is safe.",
+            "ru_native": "Но я сохраню твой секрет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ні, твоя таємниця в безпеці."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0006",
+            "en": "I’ll make you a deal: help us out and I won’t.",
+            "ru_native": "Предлагаю сделку: помоги нам, и я могила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай домовимося: ти допоможеш нам, а я збережу твій секрет."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0007",
+            "en": "Look, bud, that girl has one thing on her mind right now…",
+            "ru_native": "Слушай, парень, у этой девчонки сейчас одно на уме...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, малий, ця дівчинка зараз думає зовсім про інші речі…"
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0008",
+            "en": "And it ain’t requited feelings, okay?",
+            "ru_native": "И это точно не взаимная любовь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона не відповість на твої почуття, розумієш?"
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0009",
+            "en": "Oof. Not smart, there.",
+            "ru_native": "Не очень-то умно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф. Не надто розумно з твоєї сторони."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0010",
+            "en": "God, you are an asshole.",
+            "ru_native": "Ну ты и говнюк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, ну ти й виродок."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0011",
+            "en": "[flat] Funny.",
+            "ru_native": "Смешно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Смішно."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0012",
+            "en": "So what is it about Olivia?",
+            "ru_native": "Так что с Оливией?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що такого є в Олівії?"
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0013",
+            "en": "Violet seems so much nicer. Why not—ya know—crush on her?",
+            "ru_native": "Вайолет гораздо приятнее. Почему не... запасть на нее?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет мені здалася набагато милішою дівчинкою.<br>Чому ти, ну не знаю, не вклепався в неї?"
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0014",
+            "en": "What does Parentage want? What are they trying to do?",
+            "ru_native": "Что хочет «Наследие»? Чего они добиваются?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого хоче Парентаж? Що вони намагаються провернути?"
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0015",
+            "en": "Yeah, I need more, that’s not gonna cut it. Speak. In detail.",
+            "ru_native": "Да, мне нужно больше. Этого мало, гони подробности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно, ще. Цього недостатньо. Говори. Із подробицями."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0016",
+            "en": "I don’t care. You need to stop whatever you’re doing, and go home. Okay?",
+            "ru_native": "Мне плевать. Сворачивайте свою лавочку и расходитесь по домам. Ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилює. Щоби ти не робив, припини і йди додому. Гаразд?"
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0017",
+            "en": "What exactly are you making right?",
+            "ru_native": "Что именно вы исправляете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що саме ви робите правильно?"
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0018",
+            "en": "Look, pal, Olivia isn’t worth this.",
+            "ru_native": "Парень, Оливия того не стоит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, друже. Олівія того не варта."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0019",
+            "en": "And I think you know that.",
+            "ru_native": "И ты это сам понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я думаю, ти це знаєш."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0020",
+            "en": "Well, I can’t say you’re not honest.",
+            "ru_native": "Честности у тебя не отнять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що ж, не можу сказати, що ти не чесний."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0021",
+            "en": "Stupid, but honest.",
+            "ru_native": "Глупо, зато честно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тупий, але чесний."
+        },
+        {
+            "tag": "A2W4.CHAROL_RILEY_0022",
+            "en": "Fine, you’re coming with us. We’re not done, yet.",
+            "ru_native": "Ладно, ты пойдешь с нами. Мы еще не закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, підеш із нами. Ми ще не закінчили."
+        }
+    ]
+}

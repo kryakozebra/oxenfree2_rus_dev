@@ -1,0 +1,150 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.HINTS4",
+    "entries": [
+        {
+            "tag": "A2G2.HINTS4_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.HINTS4_CHOICE_0000_OPTION_0000",
+            "en": "Makes sense.",
+            "ru_native": "Логично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слушна думка."
+        },
+        {
+            "tag": "A2G2.HINTS4_CHOICE_0000_OPTION_0001",
+            "en": "Don't rush me.",
+            "ru_native": "Не торопи меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не квап мене."
+        },
+        {
+            "tag": "A2G2.HINTS4_JACOB_0000",
+            "en": "We should experiment with those EMF boosters some more. It-It seems like they change what's in the tear somehow.",
+            "ru_native": "Надо еще поэкспериментировать с этими усилителями ЭМП.<br>Похоже, они как-то меняют то, что в разрыве.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам слід поекспериментувати із цими підсилювачами ЕМП.<br>Здається, вони змінюють те, що перебуває в розриві."
+        },
+        {
+            "tag": "A2G2.HINTS4_JACOB_0001",
+            "en": "Hey, do you think—d-do you think those booster things control the year we travel to in the tears? We should check that out.",
+            "ru_native": "Думаешь, эти усилители определяют, в какой год<br>можно попасть через разрыв? Надо проверить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, ці підсилювачі визначають, у який рік можна<br>потрапити через розриви? Нам слід перевірити."
+        },
+        {
+            "tag": "A2G2.HINTS4_JACOB_0002",
+            "en": "It's almost like… each booster changes the time, but each one changes it by a different amount.",
+            "ru_native": "Похоже... каждый усилитель меняет время, но по-разному.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це майже як… Кожний підсилювач змінює час, але кожний змінює його по-різному."
+        },
+        {
+            "tag": "A2G2.HINTS4_JACOB_0003",
+            "en": "So one booster might change the year by a decade, but another… you get the idea, let's just keep experimenting.",
+            "ru_native": "Например, один усилитель – на десять лет, а другой... ты поняла.<br>Давай продолжим экспериментировать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, один підсилювач може змінити рік на<br>десятиліття, а інший… Ну ти розумієш. Продовжмо експериментувати."
+        },
+        {
+            "tag": "A2G2.HINTS4_JACOB_0004",
+            "en": "I wonder if maybe… if the mine collapsed in 1892… Maybe we can use that?",
+            "ru_native": "Интересно... если шахта обрушилась в 1892-м... Может, нам это как-то использовать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво, чи… шахта обвалилася в 1892 році… Ми можемо якось використати ці знання?"
+        },
+        {
+            "tag": "A2G2.HINTS4_JACOB_0005",
+            "en": "Cool.",
+            "ru_native": "Круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто."
+        },
+        {
+            "tag": "A2G2.HINTS4_JACOB_0006",
+            "en": "Okay. Fair enough.",
+            "ru_native": "Ладно. Справедливо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Логічно."
+        },
+        {
+            "tag": "A2G2.HINTS4_JACOB_0007",
+            "en": "As I was saying, I think the EMF boosters change the inside of the tears in some way.",
+            "ru_native": "Говорю, мне кажется, усилители ЭМП как-то меняют содержимое разрывов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як я й казав, здається, підсилювачі ЕМП<br>змінюють внутрішню частину розривів у такий самий спосіб."
+        },
+        {
+            "tag": "A2G2.HINTS4_JACOB_0008",
+            "en": "It could be a good idea to—you know—play around with them some more.",
+            "ru_native": "Мне кажется, стоит попробовать с ними еще поэкспериментировать немного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може бути корисно трохи… поекспериментувати з ними."
+        },
+        {
+            "tag": "A2G2.HINTS4_RILEY_0000",
+            "en": "Yeah, I think you might be on to something.",
+            "ru_native": "Да, мне нравится ход твоих мыслей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ти маєш рацію."
+        },
+        {
+            "tag": "A2G2.HINTS4_RILEY_0001",
+            "en": "We can give it a shot.",
+            "ru_native": "Можем попробовать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можемо спробувати."
+        },
+        {
+            "tag": "A2G2.HINTS4_RILEY_0002",
+            "en": "I know, just—in a minute.",
+            "ru_native": "Знаю, минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю. Тільки… хвилинку."
+        },
+        {
+            "tag": "A2G2.HINTS4_RILEY_0003",
+            "en": "Best not to rush into this stuff.",
+            "ru_native": "С этим лучше не торопиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У цій справі краще не поспішати."
+        }
+    ]
+}

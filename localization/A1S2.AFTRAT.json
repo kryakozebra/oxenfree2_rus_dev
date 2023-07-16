@@ -1,0 +1,834 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S2.AFTRAT",
+    "entries": [
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0000_OPTION_0000",
+            "en": "Radio works.",
+            "ru_native": "Радио работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіо працює."
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0000_OPTION_0001",
+            "en": "It’s mostly static.",
+            "ru_native": "Одни помехи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лише шум."
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0001_OPTION_0000",
+            "en": "What does that mean?",
+            "ru_native": "Что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це означає?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0001_OPTION_0001",
+            "en": "Uh, neat.",
+            "ru_native": "Эм... Класс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Чудово."
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0001_OPTION_0002",
+            "en": "Sounds interesting!",
+            "ru_native": "Звучит интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить цікаво!"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0003_OPTION_0000",
+            "en": "General Store, got it.",
+            "ru_native": "Магазин, ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, універмаг, зрозуміла."
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0003_OPTION_0001",
+            "en": "[Joke] You idiot.",
+            "ru_native": "[Шутка] Бестолочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От нетяма."
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0003_OPTION_0002",
+            "en": "Climbing gear? For what?",
+            "ru_native": "Снаряжение? Для чего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Альпіністське спорядження? Для чого?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0004_OPTION_0000",
+            "en": "I’m joking!",
+            "ru_native": "Я шучу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жартую!"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0004_OPTION_0001",
+            "en": "[Joke] Sorry doesn’t cut it!",
+            "ru_native": "[Шутка] Одних извинений мало!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибаченнями тут не обійтися!"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0004_OPTION_0002",
+            "en": "Sorry! Don’t feel bad!",
+            "ru_native": "Прости! Не парься!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач! Не переймайся!"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0006_OPTION_0000",
+            "en": "I can do it, yeah.",
+            "ru_native": "Умею, да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я вмію."
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0006_OPTION_0001",
+            "en": "This sounds dangerous.",
+            "ru_native": "Звучит опасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить небезпечно."
+        },
+        {
+            "tag": "A1S2.AFTRAT_CHOICE_0006_OPTION_0002",
+            "en": "What if I’m not comfortable.",
+            "ru_native": "Не особо заманчиво.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені не дуже це подобається."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0000",
+            "en": "[WT] Great! That’s great to hear.",
+            "ru_native": "Отлично! Рада слышать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово! Це гарна новина."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0001",
+            "en": "[WT] Yes, that’s totally normal—you’re at the far edge of Camena, <br> it’s only beaches and woods and cliffs out here.",
+            "ru_native": "Да, это абсолютно нормально. Ты на краю Камены, там только пляжи, леса и скалы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це цілком нормально. Ти на дальньому кінці Камени —<br>там лише пляжі, ліси й скелі."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0002",
+            "en": "[WT] You won’t be listening to music with it, anyway.",
+            "ru_native": "Все равно оно тебе не для музыки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі ж не музику на ньому слухати."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0003",
+            "en": "[WT] The radio is a tool.",
+            "ru_native": "Радио – инструмент.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіо — це інструмент."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0004",
+            "en": "[WT] Our group within the school—we’re kind of like storm chasers? You know—",
+            "ru_native": "Наша группа... Мы что-то вроде охотников за грозами. Например...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наша група в школі… Ми щось на кшталт мисливців за грозами? Наприклад…"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0005",
+            "en": "[WT] Those guys who track tornadoes and stuff?",
+            "ru_native": "Есть люди, выслеживающие торнадо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люди, що відстежують торнадо й таке інше."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0006",
+            "en": "[WT] Only we track unexplainable audio-visual phenomena.",
+            "ru_native": "А мы ищем необъяснимые аудио-визуальные феномены.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки ми шукаємо незрозумілі аудіо-візуальні феномени."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0007",
+            "en": "And Camena has been bursting with frequency <br> traffic with no known source in recent months.",
+            "ru_native": "Камена в последние месяцы кишит частотным трафиком из неизвестного источника.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Останнім часом Камена кишить частотним трафіком невідомого походження."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0008",
+            "en": "Anyways, Riley, I was saying that things <br> have been pretty crazy in Camena recently.",
+            "ru_native": "Райли, в общем, в последнее время в Камене творится какая-то дичь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, словом, останнім часом у Камені відбувається щось незрозуміле."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0009",
+            "en": "[WT] The town is flooded with weird frequencies and radio interferences <br> for no obvious reason.",
+            "ru_native": "Город заполнен странными частотами и беспричинными радиопомехами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У місті повно дивних частот і безпричинних радіоперешкод."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0010",
+            "en": "[WT] Professor Burke will get into it with you more, but…",
+            "ru_native": "Профессор Берк тебе подробнее объяснит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Професор Берк розповість тобі детальніше, але…"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0011",
+            "en": "—trust me when I say these are exciting times <br> for us transcendental psychoacoustics nerds.",
+            "ru_native": "Поверь, настало наше время, время знатоков трансцендентальной психоакустики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…повір, настали неймовірні часи для нас, знавців трансцендентальної психоакустики."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0012",
+            "en": "[WT] Professor Burke will get into it with you more, but…",
+            "ru_native": "Профессор Берк тебе подробнее объяснит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Професор Берк розповість тобі детальніше, але…"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0013",
+            "en": "[WT] —trust me when I say these are exciting times <br> for us transcendental psychoacoustics nerds.",
+            "ru_native": "Поверь, настало наше время, время знатоков трансцендентальной психоакустики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…повір, настали неймовірні часи для нас, знавців трансцендентальної психоакустики."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0014",
+            "en": "Don’t worry about the details just yet, that’ll come.",
+            "ru_native": "О деталях не волнуйся, потом поймешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся про деталі, згодом ти все зрозумієш."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0015",
+            "en": "[WT] Now… here’s where I confess that I completely messed up <br> and I totally forgot to pack your climbing gear.",
+            "ru_native": "Самое время признаться, что я затупила и<br>забыла положить твое альпинистское снаряжение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз… час зізнатися, що я забула покласти твоє альпіністське спорядження."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0016",
+            "en": "[WT] Without it, you won’t be able get to most places you’ll need to, tonight.",
+            "ru_native": "Без него ты не сможешь попасть куда надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без нього ти не зможеш дістатися туди, куди тобі треба."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0017",
+            "en": "[WT] But I was just saying, Riley, that… <br> sorry, but I forgot to pack your climbing equipment.",
+            "ru_native": "Райли, я как раз хотела... В общем, я забыла положить альпинистское снаряжение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, я хотіла сказати… Вибач, я забула покласти альпіністське спорядження."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0018",
+            "en": "[WT] I’m choosing to blame the unforeseen hangover, but—",
+            "ru_native": "Виню во всем непредвиденное похмелье.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все через непередбачене похмілля, але…"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0019",
+            "en": "[WT] —I express mailed it to the General Store that’s run <br> by a very friendly manager who agreed to set it aside for you.",
+            "ru_native": "Но я отправила посылку экспрессом в местный магазин. Их<br>крайне милый менеджер согласился все тебе передать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…я надіслала посилку в універмаг. Їхній привітний менеджер погодився все передати."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0020",
+            "en": "[WT] It should be mere yards from the bus stop. <br> He says you can pick it up before you head off.",
+            "ru_native": "От остановки там рукой подать. Можешь забрать, перед тем как уйдешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це неподалік автобусної зупинки. Можеш зайти<br>й забрати, перш ніж вирушиш у дорогу."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0021",
+            "en": "[WT] So just go to the General Store and get your gear, first.",
+            "ru_native": "Сначала зайди в магазин и забери снаряжение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спочатку зайди до універмагу та забери спорядження."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0022",
+            "en": "[WT] And then you should be all set.",
+            "ru_native": "Вот тогда будешь готова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після цього ти будеш повністю готова."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0023",
+            "en": "[WT] Oh, over.",
+            "ru_native": "Ой, прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, прийом."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0025",
+            "en": "[WT] But, uh, did you hear me say <br> that you have to go to the General Store to get your climbing stuff?",
+            "ru_native": "Ты же услышала, что тебе нужно забрать альпинистское снаряжение в магазине?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти почула, що тобі треба забрати альпіністське спорядження в універмазі?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0026",
+            "en": "[WT] Sorry, this is my mistake, but it should be close by.",
+            "ru_native": "Прости, мой косяк. Но магазин где-то рядом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, це моя провина, але універмаг десь неподалік."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0027",
+            "en": "[WT] Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0028",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0029",
+            "en": "[WT; sighs] Great, thanks. You’re a life saver.",
+            "ru_native": "Класс, спасибо. Моя спасительница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Добре, дякую. Ти — моя рятівниця."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0030",
+            "en": "[WT] Riley? Did you get that?",
+            "ru_native": "Райли? Ты меня услышала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти все почула?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0031",
+            "en": "Just head to the General Store, honey! <br> I’ll—I’ll buzz you in a bit, over and out.",
+            "ru_native": "Милая, отправляйся в магазин! Я скоро вернусь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сонечко, просто йди до універмагу! Я скоро зв’яжуся з тобою. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0032",
+            "en": "[WT] [to someone else] I do not think she can—",
+            "ru_native": "Вряд ли она сможет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[говорить комусь іншому] Не знаю, чи вона…"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0033",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0034",
+            "en": "[WT] But, uh, Riley, just go to the General Store and they’ll fix you up. Okay?",
+            "ru_native": "Райли, отправляйся в магазин, там все необходимое. Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, йди до універмагу, там є все необхідне. Гаразд?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0035",
+            "en": "[WT] I’ll call you later! Over and out.",
+            "ru_native": "Свяжемся позже! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вийду на зв’язок пізніше! Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0036",
+            "en": "[WT] [pause] Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0037",
+            "en": "[WT] Won’t happen again.",
+            "ru_native": "Это не повторится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це перший і останній раз."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0038",
+            "en": "[WT] Oh! [laughs] Okay, yes, I see that—you’re joking! Yes. Okay. Haha. Phew.",
+            "ru_native": "А, ты шутишь! Понятно. Ха-ха. Фух!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А! [сміється] Я зрозуміла, ти жартуєш! Так, ага, ха-ха."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0039",
+            "en": "[WT] But seriously go to the General Store, they’ll have your stuff. [jokingly] You knucklehead. [sigh]",
+            "ru_native": "Но правда, иди в магазин, там твое снаряжение. Дурында.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але серйозно, йди до універмагу, там твоє спорядження. Жартівниця. [зітхає]"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0040",
+            "en": "[WT] [laughing] Oh screw you! Jesus, you had me going for a— <br> that’s not nice, my word.",
+            "ru_native": "Иди ты в пень! Я на секунду поверила... У вас ужасные шутки, девушка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Та йди до біса! Я вже майже повірила… У тебе жахливі жарти, подруго."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0041",
+            "en": "[WT] God, you have me talking like my mother.",
+            "ru_native": "Боже, я заговорила, как моя мать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, через тебе я почала розмовляти, як моя мати."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0042",
+            "en": "[WT] Riley? Are you still there?",
+            "ru_native": "Райли? Ты еще там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти ще там?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0043",
+            "en": "[WT] Just… the General Store will have your stuff. Okay? Over and out.",
+            "ru_native": "Не забудь, твои вещи в магазине. Ладно? Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не забудь… твоє спорядження в універмазі. Гаразд? Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0044",
+            "en": "[WT] Well, not for walking! [chuckles] <br> A little… climbing gear humor—no, it’s for the rocky terrain.",
+            "ru_native": "Не для пеших прогулок! Немного альпинистского юмора... Нет, это для скал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно не для прогулянок! [сміється] Трохи альпіністських жартів… Ні, це для скель."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0045",
+            "en": "[WT] We thought with your, um, training that’d you, uh— <br> I think you even put on your application that you could do this?",
+            "ru_native": "Мы думали, что с твоей подготовкой... Ты даже<br>указала в резюме, что можешь лазать по скалам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми думали, що з твоєю підготовкою… Здається, ти вказала в резюме,<br>що можеш лазити по скелях?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0046",
+            "en": "[WT] Right?",
+            "ru_native": "Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це так?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0047",
+            "en": "[WT] Or… was that a mistake on our part.",
+            "ru_native": "Или мы ошиблись?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи то ми помилилися?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0048",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0049",
+            "en": "[WT] Hello? You went out again, Riley, <br> but I think you were asking me what the climbing gear is for?",
+            "ru_native": "Алло? Райли, ты опять отключилась. Кажется, ты спрашивала, зачем нужно снаряжение?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло? Райлі, ти знову кудись зникла. Ти спитала, для чого потрібне спорядження?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0050",
+            "en": "[WT] It’s for the terrain, up in the mountains. You can do this, right?",
+            "ru_native": "Оно для скал выше в горах. Ты ведь умеешь им пользоваться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це для скелястої місцевості в горах. Ти вмієш ним користуватися?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0051",
+            "en": "[WT] I think you put on your application you’d done this before.",
+            "ru_native": "В резюме ты указала, что занималась скалолазанием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ти вказувала в резюме, що займалася альпінізмом."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0052",
+            "en": "[WT] Over?",
+            "ru_native": "Прием?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0053",
+            "en": "[WT] Don’t overthink it, it’s just a safety precaution.",
+            "ru_native": "Не зацикливайся, это лишь мера безопасности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, це лише захід безпеки."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0054",
+            "en": "[WT] I would say wait to make that decision until you see the actual equipment.",
+            "ru_native": "Предлагаю принять решение после того, как увидишь снаряжение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пропоную вирішити це після того, як побачиш спорядження."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0055",
+            "en": "[WT] I really wouldn’t overthink it. It’s just a safety precaution.",
+            "ru_native": "Я бы особо не зацикливалась. Это лишь мера безопасности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, не хвилюйся, це лише захід безпеки."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0056",
+            "en": "[WT] Look, don’t worry about it, it’s just a safety precaution.",
+            "ru_native": "Слушай, не переживай, это лишь мера безопасности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, не хвилюйся, це лише захід безпеки."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0057",
+            "en": "[WT] Alright, Riley, just talk to the manager of the General Store <br> and he’ll set you up.",
+            "ru_native": "Короче, Райли, поговори с менеджером магазина, он тебе все отдаст.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Райлі, поговори з менеджером універмагу, він тобі все віддасть."
+        },
+        {
+            "tag": "A1S2.AFTRAT_EVELYN_0058",
+            "en": "[WT] Talk to you soon! Over and out.",
+            "ru_native": "До скорого! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай щастить! Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0000",
+            "en": "Hey, uh, Evelyn? Yeah, the radio seems to work fine. Over.",
+            "ru_native": "Эвелин? Да, радио работает как надо. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Так, радіо працює як слід. Прийом."
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0001",
+            "en": "Evelyn? Yeah, the radio turns on <br> but it doesn’t get a whole lot of stations. Over.",
+            "ru_native": "Эвелин? Да, радио включается, но не находит почти никаких станций. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Так, радіо вмикається, але майже не знаходить жодні станції. Прийом."
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0002",
+            "en": "Uh, Evelyn? Sorry, but what does any of that mean?",
+            "ru_native": "Эвелин? Прости, но что все это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, Евелін? Вибач, але що це все означає?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0003",
+            "en": "Uh, neat?",
+            "ru_native": "Эм... Класс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Чудово?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0004",
+            "en": "Hm. Sounds actually pretty interesting…",
+            "ru_native": "Вообще звучит интересно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, звучить дійсно дуже цікаво…"
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0005",
+            "en": "Uh, okay. The General Store’s like right here, so that’s fine. No problem.",
+            "ru_native": "Хорошо. Магазин тут рядом, так что не страшно. Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Універмаг поруч, тож нічого страшного. Без проблем."
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0006",
+            "en": "Oh, you forgot? <br> How many hangovers did your Mom have when she was pregnant with you?",
+            "ru_native": "Ах ты забыла? Мамка часто от похмелья страдала, когда тебя в животе носила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ти забула? Твоя матір часто страждала від похмілля, коли була вагітна тобою?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0007",
+            "en": "No, Evelyn, I’m joking! I’m—totally—I’m joking, that’s all. It’s fine.",
+            "ru_native": "Нет, Эвелин, я шучу! Я просто шучу. Все норм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Евелін, я жартую! Я… я просто жартую. Усе гаразд."
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0008",
+            "en": "Well, sorry isn’t going to get me back my time, okay? <br> The General Store’s practically three city blocks from—",
+            "ru_native": "Твои извинения не вернут мне потраченное время.<br>Этот магазин почти в трех кварталах от...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твої вибачення не повернуть втрачений час. Універмаг майже за три квартали від…"
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0009",
+            "en": "No, Evelyn, I’m sorry, it wasn’t—I wasn’t serious! Please, don’t feel bad.",
+            "ru_native": "Нет, Эвелин, это ты прости... Я пошутила! Даже не парься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Евелін, це ти вибач, я… Я ж не серйозно! Будь ласка, не переймайся."
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0010",
+            "en": "Climbing gear? What would I need climbing gear for?",
+            "ru_native": "Снаряжение? Зачем мне альпинистское снаряжение?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Альпіністське спорядження? Навіщо воно мені?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0011",
+            "en": "No, no, I can… I can do it—I’ve done it before. This just took me by surprise.",
+            "ru_native": "Нет-нет, я умею... Был опыт. Просто как-то неожиданно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, я вмію… У мене є досвід. Просто якось несподівано."
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0012",
+            "en": "I’m sorry, this just sounds a little dangerous. <br> Rock climbing? To place radio transmitters?",
+            "ru_native": "Извини, просто звучит как-то опасно. Скалолазание? Чтобы установить передатчики?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, просто це звучить небезпечно. Альпінізм?<br>Щоби встановити радіопередавачі?"
+        },
+        {
+            "tag": "A1S2.AFTRAT_RILEY_0013",
+            "en": "Well, I mean… what if I say I’m not comfortable with this? <br> I mean… rock climbing? To place radio transmitters?",
+            "ru_native": "Если честно, звучит не особо заманчиво. Типа... скалолазание?<br>Чтобы установить передатчики?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо чесно… звучить не дуже. Типу… альпінізм? Щоби встановити радіопередавачі?"
+        }
+    ]
+}

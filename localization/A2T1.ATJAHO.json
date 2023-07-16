@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.ATJAHO",
+    "entries": [
+        {
+            "tag": "A2T1.ATJAHO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.ATJAHO_CHOICE_0000_OPTION_0000",
+            "en": "Are you going to kill me?",
+            "ru_native": "Ты меня убьешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти що, хочеш мене вбити?"
+        },
+        {
+            "tag": "A2T1.ATJAHO_CHOICE_0000_OPTION_0001",
+            "en": "Okay.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2T1.ATJAHO_JACOB_0000",
+            "en": "It’s not exactly, uh… in the den, but… c’mon. It’s in the back.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это не совсем... в логове, но... да ладно. Это в задней части.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2T1.ATJAHO_JACOB_0001",
+            "en": "Didn’t know that was on the table.",
+            "ru_native": "Не знал, что есть такой вариант.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знав, що є такий варіант."
+        },
+        {
+            "tag": "A2T1.ATJAHO_JACOB_0002",
+            "en": "Now, the spare transmitter’s not exactly, uh… in the den, but… c’mon. It’s in the back.",
+            "ru_native": "Так, запасной передатчик не то чтобы... в укромном месте, но... ладно. Он сзади.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, запасний радіопередавач перебуває не<br>зовсім, е… у кабінеті, але… нумо. Це ззаду."
+        },
+        {
+            "tag": "A2T1.ATJAHO_RILEY_0000",
+            "en": "Okay. Just don’t murder me or anything.",
+            "ru_native": "Ладно. Только смотри не убей меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Тільки дивись, не вбий мене чи когось ще."
+        },
+        {
+            "tag": "A2T1.ATJAHO_RILEY_0001",
+            "en": "Okay.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        }
+    ]
+}

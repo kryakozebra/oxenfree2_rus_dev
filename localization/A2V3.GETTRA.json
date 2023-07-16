@@ -1,0 +1,132 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.GETTRA",
+    "entries": [
+        {
+            "tag": "A2V3.GETTRA_CHARLIE_0000",
+            "en": "I’m—no, where is it?",
+            "ru_native": "Я... Нет, где оно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… ні, де воно?"
+        },
+        {
+            "tag": "A2V3.GETTRA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.GETTRA_CHOICE_0000_OPTION_0000",
+            "en": "On it!",
+            "ru_native": "Есть!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є!"
+        },
+        {
+            "tag": "A2V3.GETTRA_CHOICE_0000_OPTION_0001",
+            "en": "Olivia, stay there!",
+            "ru_native": "Оливия, стой там!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, стій там!"
+        },
+        {
+            "tag": "A2V3.GETTRA_JACOB_0000",
+            "en": "Riley! You’re closer, grab it!",
+            "ru_native": "Райли! Ты ближе, хватай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Ти вже близько, хапай!"
+        },
+        {
+            "tag": "A2V3.GETTRA_JACOB_0001",
+            "en": "She’s almost there, Riley!",
+            "ru_native": "Райли, она совсем рядом!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона зовсім близько, Райлі!"
+        },
+        {
+            "tag": "A2V3.GETTRA_OLIVIA_0000",
+            "en": "Wait, where’s the radio? Where’s my radio!",
+            "ru_native": "Стоп, где радио? Где мое радио?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стоп, де радіо? Де моє радіо?!"
+        },
+        {
+            "tag": "A2V3.GETTRA_OLIVIA_0001",
+            "en": "Don’t touch that radio! I need it!",
+            "ru_native": "Не трогай его! Оно мне нужно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не чіпайте радіо! Воно мені потрібне!"
+        },
+        {
+            "tag": "A2V3.GETTRA_OLIVIA_0002",
+            "en": "Charlie, can you see it?",
+            "ru_native": "Чарли, ты его видишь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, ти його бачиш?!"
+        },
+        {
+            "tag": "A2V3.GETTRA_OLIVIA_0003",
+            "en": "If she gets that radio, it’s all over!",
+            "ru_native": "Если она заполучит радио, нам крышка!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо вона дістане радіо, то нам гаплик!"
+        },
+        {
+            "tag": "A2V3.GETTRA_OLIVIA_0004",
+            "en": "Grab it! Somebody!",
+            "ru_native": "Хватайте! Кто-нибудь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хапайте! Хто-небудь!"
+        },
+        {
+            "tag": "A2V3.GETTRA_RILEY_0000",
+            "en": "On it!",
+            "ru_native": "Есть!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є!"
+        },
+        {
+            "tag": "A2V3.GETTRA_RILEY_0001",
+            "en": "Olivia, stay there! Don’t move!",
+            "ru_native": "Оливия, стой там! Не двигайся!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, стій там! Не рухайся!"
+        },
+        {
+            "tag": "A2V3.GETTRA_VIOLET_0000",
+            "en": "Olivia, don’t do this!",
+            "ru_native": "Оливия, не делай этого!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, не роби цього!"
+        }
+    ]
+}

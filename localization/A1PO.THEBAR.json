@@ -1,0 +1,330 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.THEBAR",
+    "entries": [
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0000",
+            "en": "Hey. You hear what I said? Bar's closing. Gotta go home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, ты слышал, что я сказал? Бар закрывается. Надо идти домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, чуєш, що я кажу? Бар зачиняється. Час іти додому."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0001",
+            "en": "Hey! Anyone know her?",
+            "ru_native": "Эй! Кто-нибудь ее знает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Хто-небудь знає її?"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0002",
+            "en": "No?",
+            "ru_native": "Нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні?"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0003",
+            "en": "Hey!",
+            "ru_native": "Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов!"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0004",
+            "en": "We're closed! And—listen, not for nothing, but the next time you get in a customer's face, that's it.",
+            "ru_native": "Мы закрыты! И слушай... Ничего личного, но если<br>ты еще раз пристанешь к посетителю, то все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас зачинено. І ще… Нічого особистого,<br>але якщо ти ще раз пристанеш до відвідувача, то все."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0005",
+            "en": "I'm NOT gonna apologize for you, anymore—I won't do it—I don't care that you bum smokes off me every damn night.",
+            "ru_native": "Я больше не буду за тебя извиняться. И мне<br>плевать, что ты каждый вечер стреляешь у меня сиги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я більше НЕ буду вибачатися за тебе. І мені байдуже,<br>що ти стріляєш сигарети в мене щовечора."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0006",
+            "en": "You're out on your ass the next time, Riley. Okay?",
+            "ru_native": "Еще раз, и окажешься на заднице за дверью, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще раз таке станеться — і ти опинишся на задниці за дверима, Райлі."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0007",
+            "en": "Go home.",
+            "ru_native": "Иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди додому."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0008",
+            "en": "Do I have to call somebody?",
+            "ru_native": "Мне позвонить кому-нибудь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені зателефонувати кому-небудь?"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0009",
+            "en": "Hey! Is anybody home?",
+            "ru_native": "Эй! Есть кто дома?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Є хто вдома?"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0010",
+            "en": "Time to catch a bus, kid. Okay?",
+            "ru_native": "На автобус пора, девочка. Поняла?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пора на автобус, дитинко. Ясно?"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0011",
+            "en": "What am I coming at you for? You haven't even paid your TAB, yet.",
+            "ru_native": "Чего наезжаю? Да ты даже за выпивку до сих пор не расплатилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого наїжджаю? Ти ще навіть не заплатила за випивку."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0012",
+            "en": "How'd you get here? How are you getting HOME? That's the — that's what we're —",
+            "ru_native": "Как ты сюда попала? Как ты домой попадешь? Вот что... Вот что мы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти сюди потрапила? Як ти ДОДОМУ потрапиш? Ось у чому… Ось що ми…"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0013",
+            "en": "It's time to get up — let's go — there's nothing to figure out —",
+            "ru_native": "Пора вставать. Идем. Нечего тут думать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час підніматися. Ходімо. Годі тут думати."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0014",
+            "en": "Night's over, okay?",
+            "ru_native": "Вечер окончен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вечір закінчився."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0015",
+            "en": "Hey! Wait, buddy, you were talking to her earlier—",
+            "ru_native": "Эй! Парень, погоди, ты с ней разговаривал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Зажди, хлопче, ти раніше розмовляв із нею…"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0016",
+            "en": "Does anybody know this girl?",
+            "ru_native": "Кто-нибудь знает эту девчонку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто-небудь знає цю дівчину?"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0017",
+            "en": "Hey. You hear what I said? Riley? Bar's closing. Gotta go home.",
+            "ru_native": "Эй. Ты слышала, что я сказал? Райли? Мы закрываемся. Иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, чуєш, що я кажу, Райлі? Бар зачиняється. Час іти додому."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0018",
+            "en": "Anyone friends with Riley Poverly?",
+            "ru_native": "Есть тут друзья Райли Поверли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є тут знайомі Райлі Поверлі?"
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0019",
+            "en": "Hey. You hear what I said? Miss? Bar's closing. Gotta go home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, ты слышал, что я сказал? Мисс? Бар закрывается. Надо идти домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, чуєш, що я кажу, Міс? Бар зачиняється. Час іти додому."
+        },
+        {
+            "tag": "A1PO.THEBAR_BARTENDER_0020",
+            "en": "Anyone friends with this woman? Anyone?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кто-нибудь дружит с этой женщиной? Кто-нибудь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є тут знайомі цієї жінки?"
+        },
+        {
+            "tag": "A1PO.THEBAR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.THEBAR_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.THEBAR_CHOICE_0001_OPTION_0000",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A1PO.THEBAR_CHOICE_0001_OPTION_0001",
+            "en": "Get home?",
+            "ru_native": "Домой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іти додому?"
+        },
+        {
+            "tag": "A1PO.THEBAR_CHOICE_0001_OPTION_0002",
+            "en": "Where am I?",
+            "ru_native": "Где я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де я?"
+        },
+        {
+            "tag": "A1PO.THEBAR_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.THEBAR_CHOICE_0002_OPTION_0000",
+            "en": "I didn't do anything.",
+            "ru_native": "Я ничего не сделала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я нічого не зробила."
+        },
+        {
+            "tag": "A1PO.THEBAR_CHOICE_0002_OPTION_0001",
+            "en": "How'd I get here?",
+            "ru_native": "Как я сюда попала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як я сюди потрапила?"
+        },
+        {
+            "tag": "A1PO.THEBAR_CHOICE_0002_OPTION_0002",
+            "en": "Am I just drunk?",
+            "ru_native": "Я пьяная?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я п’яна?"
+        },
+        {
+            "tag": "A1PO.THEBAR_RILEY_0000",
+            "en": "What? What's… that—",
+            "ru_native": "Что? Что за?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Що це…"
+        },
+        {
+            "tag": "A1PO.THEBAR_RILEY_0001",
+            "en": "Get… gotta get home? Whose home?",
+            "ru_native": "Надо... домой? К кому домой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іти додому? Чийого дому?"
+        },
+        {
+            "tag": "A1PO.THEBAR_RILEY_0002",
+            "en": "Where… where—where am I?",
+            "ru_native": "Где... где... где я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де… де я?"
+        },
+        {
+            "tag": "A1PO.THEBAR_RILEY_0003",
+            "en": "I didn't even DO anything. Okay? What are you coming at me for?",
+            "ru_native": "Я ничего не сделала. Чего ты на меня наезжаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я навіть нічого НЕ ЗРОБИЛА. Ясно? Чого ти на мене наїжджаєш?"
+        },
+        {
+            "tag": "A1PO.THEBAR_RILEY_0004",
+            "en": "How'd I… how'd I get here, just—",
+            "ru_native": "Как я... как я сюда попала?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як… як я сюди потрапила?"
+        },
+        {
+            "tag": "A1PO.THEBAR_RILEY_0005",
+            "en": "Wait wait wait… wait—I am—this whole thing isn't cause I'm just—",
+            "ru_native": "Погоди, погоди... Это же не просто потому, что я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай, чекай. Усе це не через те, що я лиш…"
+        }
+    ]
+}

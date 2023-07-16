@@ -1,0 +1,141 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S7.NEWRAD",
+    "entries": [
+        {
+            "tag": "A1S7.NEWRAD_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.NEWRAD_CHOICE_0000_OPTION_0000",
+            "en": "Strange…",
+            "ru_native": "Странно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно…"
+        },
+        {
+            "tag": "A1S7.NEWRAD_CHOICE_0000_OPTION_0001",
+            "en": "Weird...",
+            "ru_native": "Жутко...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно…"
+        },
+        {
+            "tag": "A1S7.NEWRAD_CHOICE_0000_OPTION_0002",
+            "en": "Huh...",
+            "ru_native": "Ага...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм…"
+        },
+        {
+            "tag": "A1S7.NEWRAD_JACOB_0000",
+            "en": "I guess… they’re already talking about it. I think? Unless this is a—",
+            "ru_native": "Похоже... они уже это обсуждают. Если только это не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть… вони вже про це говорять. Чи не так? Якщо це не…"
+        },
+        {
+            "tag": "A1S7.NEWRAD_JACOB_0001",
+            "en": "It’s just weird that they would… Stoll was mayor… twenty years ago, I think?",
+            "ru_native": "Просто странно... Столл был мэром... лет двадцать назад, кажется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто дивно, що вони… Столл був мером… десь років двадцять тому, ні?"
+        },
+        {
+            "tag": "A1S7.NEWRAD_JACOB_0002",
+            "en": "Maybe it’s an old recording…",
+            "ru_native": "Может, это старая запись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо це старий запис…"
+        },
+        {
+            "tag": "A1S7.NEWRAD_RADIO_0000",
+            "en": "—off alarms in the neighboring areas.",
+            "ru_native": "...отключение сигнализации в соседних районах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…вимкнення сигналізації в усіх сусідніх районах."
+        },
+        {
+            "tag": "A1S7.NEWRAD_RADIO_0001",
+            "en": "The freak lightning storm has so far caused numerous lightning strikes across the suburbs of Camena—",
+            "ru_native": "Внезапная гроза вызвала несколько ударов молнии в пригородах Камены",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивна гроза спричинила численні удари блискавок у передмісті Камени…"
+        },
+        {
+            "tag": "A1S7.NEWRAD_RADIO_0002",
+            "en": "—and a mass blackout stretching twenty-five square miles. More in this developing— [static]",
+            "ru_native": "и отключение электричества на шестьдесят пять<br>квадратных километров вокруг. Подробнее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і масове знеструмлення на двадцять п’ять квадратних миль.<br>Більше подробиць… [шум]"
+        },
+        {
+            "tag": "A1S7.NEWRAD_RADIO_0003",
+            "en": "Mayor Stoll gave a party-line speech earlier today at the University of— [static]",
+            "ru_native": "Сегодня мэр Столл выступил с речью в Университете...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні мер Столл виступив із промовою в Університеті… [шум]"
+        },
+        {
+            "tag": "A1S7.NEWRAD_RADIO_0004",
+            "en": "[ID-4] [static]",
+            "ru_native": "(помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум]"
+        },
+        {
+            "tag": "A1S7.NEWRAD_RILEY_0000",
+            "en": "Yeah. Weird. I mean… strange.",
+            "ru_native": "Да. Жутко. То есть... странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Дивно. Тобто… дуже дивно."
+        },
+        {
+            "tag": "A1S7.NEWRAD_RILEY_0001",
+            "en": "Yeah. Strange. I mean… weird.",
+            "ru_native": "Да. Странно. То есть... жутко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Дивно. Я маю на увазі… незвично."
+        },
+        {
+            "tag": "A1S7.NEWRAD_RILEY_0002",
+            "en": "Yeah. Huh.",
+            "ru_native": "Ага.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм. Так."
+        }
+    ]
+}

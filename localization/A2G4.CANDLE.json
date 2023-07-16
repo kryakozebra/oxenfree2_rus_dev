@@ -1,0 +1,1662 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G4.CANDLE",
+    "entries": [
+        {
+            "tag": "A2G4.CANDLE_ALEX_0000",
+            "en": "As if you even understood what was happening.",
+            "ru_native": "Как будто ты понимала, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уяви, що ти розуміла, що відбувається."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0001",
+            "en": "You don’t understand what’s happening.",
+            "ru_native": "Ты не понимаешь, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не розумієш, що коїться."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0002",
+            "en": "I know you don’t, and… that’s okay, that’s fine.",
+            "ru_native": "Ты знаешь, что нет, и... это нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш, що ні, і… це нормально."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0003",
+            "en": "But… we are taking someone.",
+            "ru_native": "Но... мы кое-кого забираем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… ми декого заберемо."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0004",
+            "en": "That much is a certainty.",
+            "ru_native": "Это совершенно точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це абсолютно точно."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0005",
+            "en": "And if you don’t want it to be someone you care about.",
+            "ru_native": "И если ты не хочешь, что бы это был кто-то близкий тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І якщо ти не хочеш, щоби це був хтось важливий для тебе."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0006",
+            "en": "I’d leave... before you start caring.",
+            "ru_native": "Я уйду... пока не поздно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я піду… поки ще не пізно."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0007",
+            "en": "You are not taking them. It’s not gonna happen, not while I’m here..",
+            "ru_native": "Ты не заберешь их. Пока я здесь, этому не бывать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти їх не забереш. Поки я тут, цього не станеться."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0008",
+            "en": "We… have done this… a few times, now, Riley. Just… don’t insult me.",
+            "ru_native": "Мы… делали это… не раз, Райли. Просто... не обижай меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… робили це… не раз, Райлі. Просто… не ображай мене."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0009",
+            "en": "Just stop. Please just stop. You don’t have to do this.",
+            "ru_native": "Просто остановись. Пожалуйста. Тебе не нужно этого делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто зупинись. Будь ласка. Тобі не треба цього робити."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0010",
+            "en": "Take me, then. I’ve had a life, and it wasn’t what I expected.",
+            "ru_native": "Забери меня. Я свое пожила, и все сложилось не так, как я ожидала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забери мене. Я своє життя прожила, і все склалося не так, як я очікувала."
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0011",
+            "en": "And if it’s gonna be you, then… it’s gonna be you.",
+            "ru_native": "А если это будешь ты, значит... это будешь ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А якщо це будеш ти, то це будеш ти…"
+        },
+        {
+            "tag": "A2G4.CANDLE_ALEX_0012",
+            "en": "Listen.",
+            "ru_native": "Слушай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0000_OPTION_0000",
+            "en": "Perfect.",
+            "ru_native": "Идеально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0000_OPTION_0001",
+            "en": "Um…",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем…"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0001_OPTION_0000",
+            "en": "Stay away!",
+            "ru_native": "Отойди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди!"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0001_OPTION_0001",
+            "en": "Don’t hurt us!",
+            "ru_native": "Не трогай нас!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не чіпай нас!"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0001_OPTION_0002",
+            "en": "Alex, is that you?",
+            "ru_native": "Алекс, это ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс, це ти?"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0002_OPTION_0000",
+            "en": "Get away from him.",
+            "ru_native": "Отойди от него.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди від нього."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0002_OPTION_0001",
+            "en": "It’s your fault!",
+            "ru_native": "Это ваша вина!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ваша провина!"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0002_OPTION_0002",
+            "en": "It wasn’t my fault!",
+            "ru_native": "Это не моя вина!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не винна!"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0003_OPTION_0000",
+            "en": "They don’t need you.",
+            "ru_native": "Вы им не нужны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви їм не потрібні."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0003_OPTION_0001",
+            "en": "Please, just stop.",
+            "ru_native": "Пожалуйста, остановись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, зупинись."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0003_OPTION_0002",
+            "en": "What happened to you?",
+            "ru_native": "Что с тобой произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що з тобою трапилося?"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0004_OPTION_0000",
+            "en": "Stay away!",
+            "ru_native": "Отойди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди!"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0004_OPTION_0001",
+            "en": "Don’t hurt us!",
+            "ru_native": "Не трогай нас!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не чіпай нас!"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0004_OPTION_0002",
+            "en": "Alex, is that you?",
+            "ru_native": "Алекс, это ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс, це ти?"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0005_OPTION_0000",
+            "en": "Get away from him.",
+            "ru_native": "Отойди от него.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди від нього."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0005_OPTION_0001",
+            "en": "It’s your fault!",
+            "ru_native": "Это твоя вина!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це твоя провина!"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0005_OPTION_0002",
+            "en": "It wasn’t my fault!",
+            "ru_native": "Это не моя вина!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не моя провина!"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0006_OPTION_0000",
+            "en": "You’re not taking anyone.",
+            "ru_native": "Ты никого не заберешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти нікого не забереш."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0006_OPTION_0001",
+            "en": "Please, just stop.",
+            "ru_native": "Пожалуйста, остановись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, зупинись."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0006_OPTION_0002",
+            "en": "Take me, then.",
+            "ru_native": "Тогда забери меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді забери мене."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0007_OPTION_0000",
+            "en": "What are you talking about?",
+            "ru_native": "Ты о чем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти про що?"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0007_OPTION_0001",
+            "en": "I take care of myself.",
+            "ru_native": "Я могу о себе позаботиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу подбати про себе."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0007_OPTION_0002",
+            "en": "Shut up.  ",
+            "ru_native": "Заткнись.  ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стулися.  "
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0008_OPTION_0000",
+            "en": "Oh, great.",
+            "ru_native": "Прекрасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, супер."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0008_OPTION_0001",
+            "en": "This looks familiar",
+            "ru_native": "Что-то это мне напоминает",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось мені це нагадує."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0008_OPTION_0002",
+            "en": "Knock it off.",
+            "ru_native": "Прекрати.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Припини."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0009",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0009_OPTION_0000",
+            "en": "Here we go again. ",
+            "ru_native": "Ну вот опять. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну ось знову. "
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0009_OPTION_0001",
+            "en": "What am I doing wrong?",
+            "ru_native": "Что я делаю не так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що я не так роблю?"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0010",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0010_OPTION_0000",
+            "en": "I hate this.",
+            "ru_native": "Ненавижу это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу це."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0010_OPTION_0001",
+            "en": "I hate myself.",
+            "ru_native": "Ненавижу себя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу себе."
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0010_OPTION_0002",
+            "en": "I hate everything. ",
+            "ru_native": "Все ненавижу. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу все. "
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0011_OPTION_0000",
+            "en": "What is this? ",
+            "ru_native": "Что это? ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це? "
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0011_OPTION_0001",
+            "en": "Stay away from Jacob. ",
+            "ru_native": "",
+            "ru_machine": "DEEPL Держись подальше от Джейкоба.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тримайся подалі від Джейкоба. "
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0012_OPTION_0000",
+            "en": "It’s over! You lost!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всё кончено! Ты проиграл!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе! Це твій програш!"
+        },
+        {
+            "tag": "A2G4.CANDLE_CHOICE_0012_OPTION_0001",
+            "en": "Just stop, Alex!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто остановись, Алекс!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто зупинися, Алекс!"
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0000",
+            "en": "Green. Gill. Green. Girl.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зеленый. Gill. Грин. Девушка.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зелені. Зябра. Зелена. Дівчина."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0001",
+            "en": "No. Lie. Out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет. Ложь. Вон.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніякої. Брехні. Нікому."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0002",
+            "en": "Door. Near. Possible.",
+            "ru_native": "Door. Near. Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двері. Поблизу. Можливо."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0003",
+            "en": "Bones. In. Time.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кости. In. Time.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кістки. У. Часі."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0004",
+            "en": "Alex. Alex. Girl. Lost. Beach.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Алекс. Алекс. Девушка. Потерянная. Пляж.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс. Алекс. Дівчина. Загублена. Пляж."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0005",
+            "en": "Care. Not. Dead. Always. End.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уход. Не. Умер. Всегда. Конец.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усім. Байдуже. Мертва. Назавжди. Кінець."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0006",
+            "en": "Green. Girl. Take. Home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зеленый цвет. Девушка. Take. Домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зелена. Дівчина. Відведи. Додому."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0007",
+            "en": "Home. Home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дом. Home.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Додому. Додому."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0008",
+            "en": "Form. Firm.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Форма. Фирма.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Форма. Міцна."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0009",
+            "en": "Bones. Now. Man. Bones.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кости. Сейчас. Man. Кости.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кістки. Зараз. Людини. Кістки."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0010",
+            "en": "Name. Bad. Bobtail. Dead.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Название. Плохое. Бобтейл. Мертвый.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ім’я. Погане. З хвостиком. Мертвий."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0011",
+            "en": "Words. Green. Words.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Слова. Зеленый цвет. Words.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слова. Зелений. Слова."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0012",
+            "en": "Door. Open.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дверь. Открытая.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двері. Відчинено."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0013",
+            "en": "Door. Black.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дверь. Черный цвет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двері. Чорні."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0014",
+            "en": "Time. Death. End.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Время. Смерть. Конец.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час. Смерть. Кінець."
+        },
+        {
+            "tag": "A2G4.CANDLE_ENTITY_0015",
+            "en": "These people will bear us through.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эти люди выдержат нас на протяжении всего пути.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ці люди пронесуть нас."
+        },
+        {
+            "tag": "A2G4.CANDLE_GENERICGHOST_0000",
+            "en": "Now. Look. I’ll just. Sit. And you carry. On with. Whatever. You were doing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сейчас. Смотри. Я просто. Садись. А ты продолжай. Дальше. Что бы ты ни делал. Чем ты занимался.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0002",
+            "en": "I sometimes. Sit. Like this. For. Hours.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я иногда. Сижу. Вот так. В течение. Часа.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0003",
+            "en": "Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0004",
+            "en": "It’s like chasing after puppies!",
+            "ru_native": "Все равно что за щенками гоняться!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Все одно що за цуценятами ганятися!"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0005",
+            "en": "They get lost—",
+            "ru_native": "Они потерялись...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони загубилися…"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0006",
+            "en": "—like we are.",
+            "ru_native": "...как и мы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і ми теж."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0007",
+            "en": "Oh. What have we here?",
+            "ru_native": "О. Что у нас тут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О. Що тут таке?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0008",
+            "en": "What have you done?",
+            "ru_native": "Что ты наделала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти накоїла?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0009",
+            "en": "[ID-16] [ALIAS] [radio static; changing channels]",
+            "ru_native": "[ID-16]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Шум радіо; зміна каналів]"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0010",
+            "en": "Rye. Lee.",
+            "ru_native": "Рай. Ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рай. Лі."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0011",
+            "en": "He looks terribly injured.",
+            "ru_native": "Похоже, он сильно ранен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, він дуже поранений."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0012",
+            "en": "There’s nothing more I could do to him that you haven’t already done.",
+            "ru_native": "Все что можно, ты с ним уже сделала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе, що можна, ти з ним уже зробила."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0013",
+            "en": "Jacob.",
+            "ru_native": "Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0014",
+            "en": "You’re. Out of bounds.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты. Выходишь за рамки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0015",
+            "en": "Who. Do you. Blame. Then? The. Fire?",
+            "ru_native": "А. Кто. Тогда. Виноват? Огонь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А хто. Тоді. Винен? Вогонь?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0016",
+            "en": "It’s on us to make decisions and live with them.",
+            "ru_native": "Мы несем ответственность за свои решения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми відповідаємо за свої рішення й живемо з наслідками."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0017",
+            "en": "Like. You.",
+            "ru_native": "Как. Вы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як. Ти."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0018",
+            "en": "You know, detective, there is no such thing… as accidents.",
+            "ru_native": "Знаешь, детектив, случайностей не бывает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, детективе, випадковостей не буває."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0019",
+            "en": "Coincidences, either.",
+            "ru_native": "И совпадений тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І збігів теж."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0020",
+            "en": "You. Beg us. To keep away. Like. Dogs.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты. Умоляй нас. Чтобы мы держались подальше. Например. Собаки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0021",
+            "en": "As if we are the memories that give you bad dreams.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как будто мы - это воспоминания, которые вызывают у тебя плохие сны.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0022",
+            "en": "You. Beg us. To not. Hurt. You.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты. Умоляешь нас. Чтобы мы не делали этого. Не причинять боль. Тебе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0023",
+            "en": "As if we are the source of your pain and suffering.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как будто мы являемся источником твоей боли и страданий.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0024",
+            "en": "You. Ask. What we. Are.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты. Спрашивай. Что мы. Являемся.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0025",
+            "en": "As if the question itself could make us recognizable.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как будто сам вопрос может сделать нас узнаваемыми.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0026",
+            "en": "And you’re hurtin' everything around ya.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И ты причиняешь вред всему, что тебя окружает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0027",
+            "en": "He’s not your concern right now.",
+            "ru_native": "Сейчас он не твоя забота.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наразі він — не твій клопіт."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0028",
+            "en": "Those children out there need us to be happy.",
+            "ru_native": "Мы нужны этим детям, чтобы они были счастливы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми потрібні цим дітям, щоби вони були щасливими."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0029",
+            "en": "And we will make them happy.",
+            "ru_native": "И мы сделаем их счастливыми.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ми зробимо їх щасливими."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0030",
+            "en": "And ourselves happy in turn.",
+            "ru_native": "А заодно и нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А заразом і самі будемо щасливими."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0031",
+            "en": "And. You. Will stay. Away.",
+            "ru_native": "А. Ты. Не. Мешай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти. Не. Втручайся."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0032",
+            "en": "They don’t need you. They’re just kids.",
+            "ru_native": "Ты им не нужна. Они просто дети.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти їм не потрібна. Вони просто діти."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0033",
+            "en": "You. Can’t. Say. Anything. We haven’t. Already heard.",
+            "ru_native": "Все. Что. Ты. Скажешь. Мы. Уже. Слышали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе. Що. Ти. Скажеш. Ми. Уже. Чули."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0034",
+            "en": "Just stop. Please just stop. You don’t have to do this.",
+            "ru_native": "Просто остановись. Пожалуйста. Тебе не нужно этого делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто зупинись. Будь ласка. Тобі не треба цього робити."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0035",
+            "en": "What happened to you? What were you before?",
+            "ru_native": "Что с тобой произошло? Кем ты была раньше?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що з тобою трапилося? Ким ти була раніше?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0036",
+            "en": "Heed. And stay well.",
+            "ru_native": "Будь осторожна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь обережна."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0037",
+            "en": "This is your final warning.",
+            "ru_native": "Это последнее предупреждение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це останнє попередження."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0038",
+            "en": "Now tend. To your. Friend. Rye. Lee.",
+            "ru_native": "А теперь. Займись. Другом. Рай. Ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йди. До свого. Друга. Рай. Лі."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0039",
+            "en": "And. Then.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И. Потом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0040",
+            "en": "Go. Home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Переходи. Домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0041",
+            "en": "Change course. Rye. Lee. Go. Home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Смени курс. Rye. Ли. Иди. Домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0042",
+            "en": "Wait. Where. Am I.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди. Где. Я.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0043",
+            "en": "Oh. Here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О. Вот.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0044",
+            "en": "I am not five years old, sitting in church.",
+            "ru_native": "Я не пятилетка в церкви.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не п’ятирічна дитина, що сидить у церкві."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0045",
+            "en": "I am not in the car, on the way to the hospital.",
+            "ru_native": "Я не в машине скорой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не в машині, що їде в лікарню."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0046",
+            "en": "I am not anywhere.",
+            "ru_native": "Я нигде.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ніде."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0047",
+            "en": "[ID-76] [ALIAS] [radio static; changing channels]",
+            "ru_native": "[ID-76]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Шум радіо; зміна каналів]"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0048",
+            "en": "As if we were your worst, most terrible memories.",
+            "ru_native": "Как будто мы были твоими худшими, самыми жуткими воспоминаниями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уяви, що ми твої найгірші, найстрашніші спогади."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0049",
+            "en": "You. Ask. Who we. Are.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты. Спрашивай. Кто мы. Кто мы.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0050",
+            "en": "Tend. To your. Friend. Rye. Lee.",
+            "ru_native": "Займись. Своим. Другом. Рай. Ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йди. До свого. Друга. Рай. Лі."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0051",
+            "en": "What has. Happened. To you?",
+            "ru_native": "Что. С вами. Произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що. З вами. Сталося?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0052",
+            "en": "Is this. Something. That will happen?",
+            "ru_native": "Это. Что-то. Что случится?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це. Щось. Що станеться?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0053",
+            "en": "Are you. Making. This happen?",
+            "ru_native": "Это случится. Из-за. Тебя?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це трапиться. Через. Тебе?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0054",
+            "en": "How can you. Take care. Of yourself.",
+            "ru_native": "Как ты можешь. Позаботиться. О себе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти можеш. Подбати. Про себе."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0055",
+            "en": "If you can’t take care of your friends —",
+            "ru_native": "Если не в силах позаботиться о своих друзьях...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо не можеш подбати про своїх друзів…"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0056",
+            "en": "How can you. Take care. Of anything?",
+            "ru_native": "Как ты можешь. Заботиться. О чем-то?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти можеш. Подбати. Про щось?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0057",
+            "en": "If. Anything.",
+            "ru_native": "Если. Что-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо. Щось."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0058",
+            "en": "Yes. You do.",
+            "ru_native": "Да. Ты понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Ти розумієш."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0059",
+            "en": "Have. You?",
+            "ru_native": "Ты. Разве?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти. Хіба?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0060",
+            "en": "Maybe. You should?",
+            "ru_native": "Может быть. Стоит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може бути. Чи варто?"
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0061",
+            "en": "[flat woman] You don’t know what you need.",
+            "ru_native": "Ты не знаешь, что тебе нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[жінка без емоцій] Ти не знаєш, що тобі потрібно."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0062",
+            "en": "[flat woman] You don’t know what anyone needs.",
+            "ru_native": "Ты не знаешь, что нужно другим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[жінка без емоцій] Ти не знаєш, що потрібно іншим."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0063",
+            "en": "So. Just. Accept. Our coming.",
+            "ru_native": "Просто. Прими. Наш. Приход.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто. Змирися. З нашим. Приходом."
+        },
+        {
+            "tag": "A2G4.CANDLE_GHOST_0064",
+            "en": "If you can.",
+            "ru_native": "Если можешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо зможеш."
+        },
+        {
+            "tag": "A2G4.CANDLE_JACOB_0000",
+            "en": "Agh…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Агх...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0000",
+            "en": "Perfect—",
+            "ru_native": "Идеально...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово…"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0001",
+            "en": "Uh…",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е…"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0002",
+            "en": "Ah!",
+            "ru_native": "Ах!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай!"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0003",
+            "en": "No! S-stay away—get—get back.",
+            "ru_native": "Нет! Отойди... назад, назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Відійди… назад, назад."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0004",
+            "en": "No! Don’t—don’t hurt us!",
+            "ru_native": "Нет! Не... не тронь нас!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Не… не чіпай нас!"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0005",
+            "en": "What—who—who are you?",
+            "ru_native": "Что... Кто... кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… Хто… ти хто?"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0006",
+            "en": "Get away from him. Just… get away from him, I mean it.",
+            "ru_native": "Отойди от него. Просто... отойди, я не шучу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди від нього. Просто… відійди, я не жартую."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0007",
+            "en": "This entire night is your fault.",
+            "ru_native": "Вся эта ночь из-за тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уся ця ніч пішла так через тебе."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0008",
+            "en": "Everything that happens—you don’t blame the firemen if they die in the fire.",
+            "ru_native": "Все, что произошло, – пожарные не виноваты, если они сгорели в огне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе, що сталося… пожежники не винні, якщо вони згоріли у вогні."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0009",
+            "en": "This is not my fault. This isn’t his fault, either.",
+            "ru_native": "Я не виновата. И он тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не винна. І він також."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0010",
+            "en": "It was an—an accident.",
+            "ru_native": "Это была просто... случайность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це був просто… нещасний випадок."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0011",
+            "en": "They don’t need—",
+            "ru_native": "Вы им не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви їм не…"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0012",
+            "en": "Please, just—just—",
+            "ru_native": "Прошу, просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, просто…"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0013",
+            "en": "What—what happened to—",
+            "ru_native": "Что... что с тобой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… що з…"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0014",
+            "en": "Alex! Is this—is this you?",
+            "ru_native": "Алекс! Это... это ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс! Це… це ти?"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0015",
+            "en": "Alex, you are not —",
+            "ru_native": "Алекс, ты не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс, ти не…"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0016",
+            "en": "Please, Alex, just —",
+            "ru_native": "Пожалуйста, Алекс, просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, Алекс, просто…"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0017",
+            "en": "Just… take —",
+            "ru_native": "Просто... забери...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… забери…"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0018",
+            "en": "I don’t… I don’t even know what you’re talking about.",
+            "ru_native": "Я не... Я не понимаю, о чем ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не… Я не розумію, про що ти."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0019",
+            "en": "I can take care of myself, creature. I’ve done it for a long time.",
+            "ru_native": "Я могу о себе позаботиться. Я давно это делаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, істото, я можу подбати про себе. Я давно це роблю."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0020",
+            "en": "Shut up. I don’t want to listen to this crap anymore.",
+            "ru_native": "Заткнись. Не хочу больше слушать эту чушь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стулися. Не хочу більше слухати цю нісенітницю."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0021",
+            "en": "[sigh] Wonderful.",
+            "ru_native": "Чудесно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Блискуче."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0022",
+            "en": "This is just full of wonder.",
+            "ru_native": "Это просто чудесно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це просто блиск."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0023",
+            "en": "Doesn’t this look familiar?",
+            "ru_native": "Ничего не напоминает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як це знайомо..."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0024",
+            "en": "Okay you can—you can just stop okay?",
+            "ru_native": "Ладно, может, уже хватит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, може, уже досить?"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0025",
+            "en": "This is—ya know—superfluous.",
+            "ru_native": "Это, знаешь ли, лишнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це, знаєш, уже зайве."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0026",
+            "en": "And here we go yet again.",
+            "ru_native": "Ну вот опять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну ось знову."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0027",
+            "en": "Am I—doing something wrong?",
+            "ru_native": "Я... что-то делаю не так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… щось роблю не так?"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0028",
+            "en": "This is an official declaration—I hate this.",
+            "ru_native": "Заявляю официально: я это ненавижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заявляю офіційно: ненавиджу це."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0029",
+            "en": "Get a notary, knight it, whatever. This is hated.",
+            "ru_native": "Пригласи нотариуса, пусть заверит. Ненавижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запроси нотаріуса, хай засвідчить. Ненавиджу."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0030",
+            "en": "Riley, I hate you.",
+            "ru_native": "Райли, я тебя ненавижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, я тебе ненавиджу."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0031",
+            "en": "I know you do.",
+            "ru_native": "Я знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0032",
+            "en": "Good.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0033",
+            "en": "I am just full of hate right now.  I hate you floor. I hate you air.",
+            "ru_native": "Я просто разрываюсь от ненависти. Ненавижу твой пол. Твой воздух.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто зараз лусну від ненависті. Ненавиджу твою підлогу. Твоє повітря."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0034",
+            "en": "I hate you hate.",
+            "ru_native": "Ненавижу твою ненависть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу твою ненависть."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0035",
+            "en": "What – what is this – what are you trying to do, Alex, scare me? I don’t –",
+            "ru_native": "Что это – что ты хочешь сделать, Alex, scare me? I don’t –",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… Що це таке… Що ти намагаєшся зробити, Алекс, налякати мене? Я не…"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0036",
+            "en": "It’s over, Alex, you guys lost. Just leave us alone, this isn’t going to work.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Все кончено, Алекс, вы, ребята, проиграли. Просто оставь нас в покое, ничего не выйдет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе скінчено, Алекс, ви програли. Просто залиште нас у спокої, це не спрацює."
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0037",
+            "en": "Alex! Stay away from him – it was an accident. What are you doing?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Алекс! Держись от него подальше - это был несчастный случай. Что ты делаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс! Тримайся подалі від нього… це був нещасний випадок. Що ви робите?"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0038",
+            "en": "Oh will you just shut up!",
+            "ru_native": "Oh will you заткнись уже!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, стули пельку!"
+        },
+        {
+            "tag": "A2G4.CANDLE_RILEY_0039",
+            "en": "Alex! Stop already! What is this proving?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Алекс! Прекрати уже! Что это доказывает?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс! Годі вже! Що це доводить?"
+        },
+        {
+            "tag": "A2G4.CANDLE_TALLGHOST_0000",
+            "en": "[distorted] Don’t mind. Me.",
+            "ru_native": "Не обращай. Внимания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не звертайте уваги. На мене."
+        },
+        {
+            "tag": "A2G4.CANDLE_UNKNOWN_0000",
+            "en": "[distorted] We. Will. Take. What Future. Is Here.",
+            "ru_native": "Мы. Заберем. Это. Будущее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми. Заберемо. Майбутнє, яке. Уже настало."
+        },
+        {
+            "tag": "A2G4.CANDLE_UNKNOWN_0001",
+            "en": "[distorted] Yours. Perhaps.",
+            "ru_native": "Твое. Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоє. Можливо."
+        },
+        {
+            "tag": "A2G4.CANDLE_UNKNOWN_0002",
+            "en": "[distorted] Or. Another.",
+            "ru_native": "Или. Другое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або. Чиєсь."
+        }
+    ]
+}

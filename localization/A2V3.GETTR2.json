@@ -1,0 +1,402 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.GETTR2",
+    "entries": [
+        {
+            "tag": "A2V3.GETTR2_CHARLIE_0000",
+            "en": "Violet, just don’t move.",
+            "ru_native": "Вайолет, не двигайся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, не ворушися."
+        },
+        {
+            "tag": "A2V3.GETTR2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.GETTR2_CHOICE_0000_OPTION_0000",
+            "en": "Give it to me, Violet.",
+            "ru_native": "Вайолет, отдай его мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, віддай його мені."
+        },
+        {
+            "tag": "A2V3.GETTR2_CHOICE_0000_OPTION_0001",
+            "en": "Don’t pick it up!",
+            "ru_native": "Не поднимай его!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не чіпай його!"
+        },
+        {
+            "tag": "A2V3.GETTR2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.GETTR2_CHOICE_0001_OPTION_0000",
+            "en": "I went to the cliffs for you!",
+            "ru_native": "Я пришла к тебе на скалы!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я прийшла до тебе на скелі!"
+        },
+        {
+            "tag": "A2V3.GETTR2_CHOICE_0001_OPTION_0001",
+            "en": "Violet, we’re pals, right?",
+            "ru_native": "Вайолет, мы же друзья?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, ми ж друзі?"
+        },
+        {
+            "tag": "A2V3.GETTR2_JACOB_0000",
+            "en": "Violet, back away from it! It will only hurt you and everyone else here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вайолет, отойди от этого! Это только навредит тебе и всем остальным здесь присутствующим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_JACOB_0001",
+            "en": "Violet, don’t!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вайолет, не надо!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_JACOB_0002",
+            "en": "C’mon, Violet, who’s been there for you, tonight, when your friends weren’t?",
+            "ru_native": "Вайолет, скажи, кто тебе помогал, пока твои друзья отмалчивались?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, скажи, хто тобі допомагав, коли твоїх друзів не було поруч?"
+        },
+        {
+            "tag": "A2V3.GETTR2_JACOB_0003",
+            "en": "Riley, c’mon, get it!",
+            "ru_native": "Райли, за ним!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, давай, хапай його!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0000",
+            "en": "Where’s the—there! At your feet! Violet!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Where's the-there! У твоих ног! Фиалка!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0001",
+            "en": "Toss the radio to me!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Брось радио мне!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0002",
+            "en": "It’s right there!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Он находится прямо здесь!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0003",
+            "en": "Just pick it up and throw it to me!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто подними его и брось мне!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0004",
+            "en": "Violet!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вайолет!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0005",
+            "en": "Yes! Yes—I’m—I’m ready, just—just toss it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да! Да, я готов, просто... просто брось его.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0006",
+            "en": "Oh what, she talked to you, before? She pretended to listen to your prattle?",
+            "ru_native": "Она что? Говорила с тобой? Притворялась, что слушает твой лепет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Розмовляла з тобою? Вдавала, що слухає твої балачки?"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0007",
+            "en": "She was playing you then and she’s playing you now!",
+            "ru_native": "Она развела тебя тогда и разводит сейчас!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона обдурила тебе тоді й робить це зараз!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0008",
+            "en": "Wake up!",
+            "ru_native": "Глаза разуй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схаменися!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0009",
+            "en": "I’ve been your friend for fifteen years!",
+            "ru_native": "Я была твоей подругой 15 лет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я була твоєю подругою п’ятнадцять років!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0010",
+            "en": "You want out of your house and away from your Mom?",
+            "ru_native": "Хочешь сбежать из дома и избавиться от мамаши?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш втекти з дому подалі від своєї матері?"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0011",
+            "en": "I can give that to you!",
+            "ru_native": "Я могу тебе помочь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу тобі допомогти!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0012",
+            "en": "Quiet!",
+            "ru_native": "Тихо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тихо!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0013",
+            "en": "Give me my radio, that’s what you’re supposed to do!",
+            "ru_native": "Отдать мне мое радио, вот что!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Віддай моє радіо, ось що!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0014",
+            "en": "Just—just stay there.",
+            "ru_native": "Стой... стой там!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій… стій там."
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0015",
+            "en": "Don’t move!",
+            "ru_native": "Не двигайся!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не рухайся!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0016",
+            "en": "Violet! Move!",
+            "ru_native": "Вайолет! С дороги!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет! Відійди!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0017",
+            "en": "Violet, get the hell out of my way!",
+            "ru_native": "Вайолет, чтоб тебя, отвали с дороги!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, дідько, відійди!"
+        },
+        {
+            "tag": "A2V3.GETTR2_OLIVIA_0018",
+            "en": "Out of the way!",
+            "ru_native": "Прочь с дороги!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Геть із дороги!"
+        },
+        {
+            "tag": "A2V3.GETTR2_RILEY_0000",
+            "en": "No! Give it to me, Violet, she doesn’t know what she’s doing!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет! Отдай его мне, Вайолет, она не знает, что делает!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_RILEY_0001",
+            "en": "No! Don’t pick it up—don’t touch it—it’s—you don’t know what it can do!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет! Не бери его в руки, не трогай его - он - ты не знаешь, что он может сделать!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_RILEY_0002",
+            "en": "Violet, I went to the cliffs for you when your friend couldn’t be bothered!",
+            "ru_native": "Вайолет, я пришла к тебе на помощь, пока подруга тебя игнорировала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, я прийшла до тебе на допомогу, поки подруга тебе ігнорувала."
+        },
+        {
+            "tag": "A2V3.GETTR2_RILEY_0003",
+            "en": "Violet, c’mon, we’re pals, right? I tried to help you—Olivia couldn’t even answer your calls!",
+            "ru_native": "Вайолет, мы же друзья! Я пыталась помочь... А Оливия даже не отвечала тебе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, ми ж друзі! Я намагалася допомогти… А Олівія навіть не брала слухавку!"
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0000",
+            "en": "Um…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0001",
+            "en": "I… don’t think I want to touch it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... не думаю, что хочу к нему прикасаться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0002",
+            "en": "I don’t—I don’t know you!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не... я не знаю тебя!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0003",
+            "en": "Olivia? Are you—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Оливия? Ты...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0004",
+            "en": "Olivia? She—this woman… Riley, she—",
+            "ru_native": "Оливия? Она... Эта женщина, Райли, она...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє? Вона… ця жінка… Райлі, вона…"
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0005",
+            "en": "I… I don’t know what to do!",
+            "ru_native": "Я... я не знаю, что делать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я не знаю, що робити!"
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0006",
+            "en": "I’m not!",
+            "ru_native": "Не буду!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не буду!"
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0007",
+            "en": "Ah! I’m sorry, I—",
+            "ru_native": "Ай! Прости, я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой! Вибач, я…"
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0008",
+            "en": "No! Olivia, this is—you’re crazy if you—",
+            "ru_native": "Нет! Оливия, это... Ты с ума сошла, если...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Олівіє, це… Ти з глузду з’їхала, якщо…"
+        },
+        {
+            "tag": "A2V3.GETTR2_VIOLET_0009",
+            "en": "Olivia—no, wait—Riley, she helped me! You—you—",
+            "ru_native": "Оливия... Нет... Райли мне помогла! А ты... ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє… Ні… Райлі мені допомогла! А ти… ти…"
+        }
+    ]
+}

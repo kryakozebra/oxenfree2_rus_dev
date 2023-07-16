@@ -1,0 +1,375 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2G2.FTAMAC",
+    "entries": [
+        {
+            "tag": "A2G2.FTAMAC_CHOICE_0000_OPTION_0000",
+            "en": "Check out Hank’s equipment?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Проверить оборудование Хэнка?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевірити обладнання Хенка?"
+        },
+        {
+            "tag": "A2G2.FTAMAC_CHOICE_0000_OPTION_0001",
+            "en": "No clue…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Без понятия...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю…"
+        },
+        {
+            "tag": "A2G2.FTAMAC_CHOICE_0001_OPTION_0000",
+            "en": "Check out Hank’s equipment?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Проверить оборудование Хэнка?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевірити обладнання Хенка?"
+        },
+        {
+            "tag": "A2G2.FTAMAC_CHOICE_0001_OPTION_0001",
+            "en": "Let’s try the church.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай попробуем обратиться в церковь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуймо церкву."
+        },
+        {
+            "tag": "A2G2.FTAMAC_CHOICE_0002_OPTION_0000",
+            "en": "Yeah, let’s try that.",
+            "ru_native": "Да, давай try that.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, спробуємо."
+        },
+        {
+            "tag": "A2G2.FTAMAC_CHOICE_0002_OPTION_0001",
+            "en": "Sounds dangerous…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Звучит опасно...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить небезпечно…"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0000",
+            "en": "Mmm… we can’t get through the church, and the mine is caved in…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ммм... мы не можем пройти через церковь, а шахта обвалена...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ммм… через церкву не пройти, шахту завалило…"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0001",
+            "en": "Our options are… dwindling…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Наши возможности... сокращаются...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Варіантів… усе менше…"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0002",
+            "en": "Any ideas?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Есть какие-нибудь идеи?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є ідеї?"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0003",
+            "en": "No no that – that’s as good an idea as any?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, нет, это - не хуже, чем любая другая идея?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, це ж… такий самий варіант, як і всі, так?"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0004",
+            "en": "Let’s futz. Find a, uh – one of his boosters.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай пофутболим. Найди... э-э... один из его бустеров.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То давай пограємося. Дістань якийсь… із цих підсилювачів."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0005",
+            "en": "Yeah… huh. Let’s just – there’s gotta be something we’re missing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да... хм. Давай так - должно быть что-то, что мы упускаем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0006",
+            "en": "Let’s look around.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай осмотримся.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роззирнімося."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0007",
+            "en": "Huh. Well… crud. The mine’s caved in.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Huh. Ну... хреново. Шахта обвалилась.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж… паскудство. Шахту завалило."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0008",
+            "en": "We kind of blew right past the church back there. That could be a way up…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы вроде как проехали мимо церкви. Это может быть путь наверх...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми могли пропустити один шлях, наче за церквою…"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0009",
+            "en": "Or…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Или...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або…"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0010",
+            "en": "Some other way?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Каким-то другим способом?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще якийсь?"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0011",
+            "en": "No no that – that’s as good an idea as any?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, нет, это - не хуже, чем любая другая идея?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, це ж… такий самий варіант, як і всі, так?"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0012",
+            "en": "Let’s futz. Find a, uh – one of his boosters.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай пофутболим. Найди... э-э... один из его бустеров.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То давай пограємося. Дістань якийсь… із цих підсилювачів."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0013",
+            "en": "Yeah, sounds good.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, звучит неплохо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0014",
+            "en": "Huh…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0015",
+            "en": "Maybe there’s another way or…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, есть другой способ или...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0016",
+            "en": "I’m not sure.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не уверен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0017",
+            "en": "Well… we know we can change timelines with Hank’s equipment.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну... мы знаем, что можем изменять временные линии с помощью оборудования Хэнка.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… ми знаємо, що можемо змінювати часові лінії за допомогою обладнання Хенка."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0018",
+            "en": "There has to be something there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Там должно что-то быть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там має бути щось."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0019",
+            "en": "Right?",
+            "ru_native": "Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж?"
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0020",
+            "en": "That’s a sentence I didn’t think I’d hear when I got out of bed this morning.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эту фразу я не думал, что услышу, встав с постели сегодня утром.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи б не подумав, що почую подібне речення, коли встав сьогодні вранці з ліжка."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0021",
+            "en": "Well… the risk is total time annihilation, but the reward is avoiding total time annihilation.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну... риск - это полная аннигиляция времени, но награда - это избежание полной аннигиляции времени.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… є ризик повного знищення часу,<br>але винагородою є уникнення повного знищення часу."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0022",
+            "en": "So I’d say the risk is negotiable, here. Let’s try it. It’s kind of all we have left.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Поэтому я бы сказал, что здесь риск можно обсуждать. Давай попробуем. Это вроде как все, что у нас осталось.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож я б сказав, що про цей ризик можна посперечатися.<br>Давай спробуємо. Це все, що нам залишилося."
+        },
+        {
+            "tag": "A2G2.FTAMAC_JACOB_0023",
+            "en": "Maybe Hank’s equipment can help us out, somehow…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, оборудование Хэнка сможет нам как-то помочь...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, обладнання Хенка допоможе нам якось…"
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0000",
+            "en": "Huh. Well… Hank’s boosters could theoretically be plugged in to some… time weirdness, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм. Ну... бустеры Хэнка теоретически могут быть подключены к каким-то... временным странностям, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0001",
+            "en": "Maybe futzing with those might… affect something? I don’t know, I’m reaching –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, если с ними возиться, это может... на что-то повлиять? Я не знаю, я дотягиваю -",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може якщо погратись із цим, то… щось і вийде? Не знаю, зараз спробую…"
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0002",
+            "en": "Uhhhh yeah no idea.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ухххх да без понятия.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну-у-у, гадки не маю."
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0003",
+            "en": "Huh. Well… Hank’s boosters could theoretically be plugged in to some… time weirdness, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм. Ну... бустеры Хэнка теоретически могут быть подключены к каким-то... временным странностям, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0004",
+            "en": "Maybe futzing with those might… affect something? I don’t know, I’m reaching –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, если с ними возиться, это может... на что-то повлиять? Я не знаю, я дотягиваю -",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0005",
+            "en": "Yeah, let’s check out the church. Maybe there’s a way up the back way or something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, давай проверим церковь. Может быть, там есть путь через черный ход или что-то в этом роде.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай перевіримо варіант із церквою. Там могла бути дорога з чорного ходу."
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0006",
+            "en": "Yeah, good point.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, хорошее замечание.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гарна думка."
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0007",
+            "en": "We should be able to open up a time period when the mine was open through his boosters.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы должны быть в состоянии открыть временной период, когда шахта была открыта, через его бустеры.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми повинні мати можливість відкрити часовий проміжок,<br>коли шахта відкрита за допомогою підсилювачів."
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0008",
+            "en": "It’s… true. We can. But… isn’t there a risk versus reward aspect we’re starting to butt up against?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... правда. Мы можем. Но... нет ли здесь аспекта соотношения риска и вознаграждения, с которым мы начинаем сталкиваться?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… правда. Ми можемо. Але… хіба ми не коливаємося між ризиком і винагородою?"
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0009",
+            "en": "Huh. I think the only thing left we can do is check out Hank’s weird equipment.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Huh. Думаю, единственное, что нам осталось, это проверить странное оборудование Хэнка.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ба. Гадаю, єдине, що нам залишилося, це перевірити дивне обладнання Хенка."
+        },
+        {
+            "tag": "A2G2.FTAMAC_RILEY_0010",
+            "en": "Maybe futzing with those might… affect something? I don’t know, I’m reaching –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, если с ними возиться, это может... на что-то повлиять? Я не знаю, я дотягиваю -",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може якщо погратись із цим, то… щось і вийде? Не знаю, зараз спробую…"
+        }
+    ]
+}

@@ -1,0 +1,159 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2LA.THEWOD",
+    "entries": [
+        {
+            "tag": "A2LA.THEWOD_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.THEWOD_CHOICE_0000_OPTION_0000",
+            "en": "I bet.",
+            "ru_native": "Спорим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще б пак."
+        },
+        {
+            "tag": "A2LA.THEWOD_CHOICE_0000_OPTION_0001",
+            "en": "You really were a nerd.",
+            "ru_native": "Ты правда был задрот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти справді був ботаном."
+        },
+        {
+            "tag": "A2LA.THEWOD_CHOICE_0000_OPTION_0002",
+            "en": "Don’t do that anymore.",
+            "ru_native": "Больше так не делай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не робити цього більше."
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0000",
+            "en": "This place… I used to put, um, transmitters here, actually.",
+            "ru_native": "Это место... вообще-то я тут ставил передатчики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це місце… Я, власне, ставив тут радіопередавачі."
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0001",
+            "en": "I thought maybe I could pick up some activity based on some early findings?",
+            "ru_native": "Я подумал, может, получится что-нибудь сделать на основе прежних результатов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я подумав, що, можливо, міг би розпочати якусь діяльність,<br>спираючись на деякі висновки?"
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0002",
+            "en": "I got a, uh, an old VR-2000 video recorder, set it up by the waterfall…",
+            "ru_native": "У поставил у водопада свой старый видеорегистратор VR-2000...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я отримав старий відеомагнітофон VR-2000, налаштував його біля водоспаду…"
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0003",
+            "en": "When I tuned an off-set frequency, the camera set on fire.",
+            "ru_native": "Когда я настроил смещенную частоту, камера загорелась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли я налаштував зміщену частоту, камера спалахнула."
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0004",
+            "en": "I thought it was the most amazing thing I’d ever seen.",
+            "ru_native": "Я решил, что это самая удивительная вещь, которую я видел в жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав, що це найдивовижніша річ, яку я коли-небудь бачив."
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0005",
+            "en": "Obviously, now, it, uh, seems less impressive.",
+            "ru_native": "Сейчас, конечно, это уже не так впечатляет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вочевидь, зараз це здається менш разючим."
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0006",
+            "en": "Hey, you’re telling me.",
+            "ru_native": "Ага, скажешь тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, це ти мені кажеш."
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0007",
+            "en": "— and you would have missed out on a lot of very interesting conversations, wouldn’t you.",
+            "ru_native": "...то пропустила бы много очень интересных разговоров, разве нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ти б пропустила багато дуже цікавих розмов, чи не так?"
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0008",
+            "en": "No, I’m officially retired from amateur… uh, whatever that was.",
+            "ru_native": "Нет, все, я официально завязал с этим... что бы оно ни было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, з аматорством я офіційно покінчив… що б це не було."
+        },
+        {
+            "tag": "A2LA.THEWOD_JACOB_0009",
+            "en": "I have transmitted my last transmission.",
+            "ru_native": "Я передал свою последнюю передачу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вже здійснив свою останню трансляцію."
+        },
+        {
+            "tag": "A2LA.THEWOD_RILEY_0000",
+            "en": "Yeah, well… welcome to the big leagues, I guess.",
+            "ru_native": "Да, ну... добро пожаловать в высшую лигу, получается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ну… мабуть, ласкаво просимо у вищу лігу."
+        },
+        {
+            "tag": "A2LA.THEWOD_RILEY_0001",
+            "en": "Man, if I knew when we first met how big of a flippin’ nerd you are —",
+            "ru_native": "Чувак, если бы я при нашей первой встрече знала, какой ты задрот...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чувак, якби я знала, коли ми вперше зустрілися, який ти ботан…"
+        },
+        {
+            "tag": "A2LA.THEWOD_RILEY_0002",
+            "en": "Yeah, for me, for you, for the town, maybe, uh, maybe don’t do that anymore.",
+            "ru_native": "Да, ради меня, ради себя, ради города – бросай ты это дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, для мене, для тебе, для міста, можливо, краще більше не робити цього."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S4.EVSCID",
+    "entries": [
+        {
+            "tag": "A1S4.EVSCID_EVELYN_0000",
+            "en": "Riley? You there? Over.",
+            "ru_native": "Райли? Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там? Прийом."
+        },
+        {
+            "tag": "A1S4.EVSCID_EVELYN_0001",
+            "en": "Hey, Riley? Can you hear me? Over?",
+            "ru_native": "Эй, Райли? Ты меня слышишь? Прием?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Райлі? Ти мене чуєш? Прийом?"
+        },
+        {
+            "tag": "A1S4.EVSCID_EVELYN_0002",
+            "en": "Riley, I just have some last little instructions for the transmitter, okay? Over.",
+            "ru_native": "Райли, у меня тут пара последних указаний по передатчику, слышишь? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, у мене тут кілька останніх вказівок щодо радіопередавача, чуєш? Прийом."
+        },
+        {
+            "tag": "A1S4.EVSCID_EVELYN_0003",
+            "en": "Jacob? Riley? Are you guys there? Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб? Райли? Ребята, вы там? Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Райлі? Ви там? Прийом."
+        }
+    ]
+}

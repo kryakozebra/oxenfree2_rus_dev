@@ -1,0 +1,366 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.OMFICO",
+    "entries": [
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0000_OPTION_0000",
+            "en": "Yes…?",
+            "ru_native": "Да?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так…?"
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0000_OPTION_0001",
+            "en": "What do you want?",
+            "ru_native": "Что вам нужно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що вам потрібно?"
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0001_OPTION_0000",
+            "en": "Not good!",
+            "ru_native": "Так себе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кепсько!"
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0001_OPTION_0001",
+            "en": "I’m fine, who’s this?",
+            "ru_native": "Нормально. Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нормально, а хто питає?"
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0001_OPTION_0002",
+            "en": "Don’t waste my time.",
+            "ru_native": "Трата времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не витрачай мій час."
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0002_OPTION_0000",
+            "en": "What are you talking about?",
+            "ru_native": "Что ты несешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти про що?"
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0002_OPTION_0001",
+            "en": "Are you nuts?",
+            "ru_native": "Ты чокнутый?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Божевільний?"
+        },
+        {
+            "tag": "A2C3.OMFICO_CHOICE_0002_OPTION_0002",
+            "en": "Your Mom? Huh?",
+            "ru_native": "Ваша мать? Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя мама? Що?"
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0000",
+            "en": "Man, you sound…",
+            "ru_native": "Вы звучите как-то...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твій голос такий…"
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0001",
+            "en": "Actually you don’t sound at all how I thought you’d sound—",
+            "ru_native": "У тебя совсем другой голос, чем я представлял...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі-то я зовсім не так уявляв собі твій голос…"
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0002",
+            "en": "You’re—you’d be—well, you’re younger than me. Which is a thing.",
+            "ru_native": "Выходит... Да, выходит, ты младше меня. Занятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… ти ж молодша за мене. Дивно."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0003",
+            "en": "But, uh, how’s it going?",
+            "ru_native": "Как твои дела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але... як справи?"
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0004",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0005",
+            "en": "I’m starting to remember how you talk now—",
+            "ru_native": "Начинаю припоминать твои манеры...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Починаю тебе впізнавати…"
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0006",
+            "en": "Uh, you know who this is, but I’ll give you the space to figure it out for yourself.",
+            "ru_native": "Ты знаешь, кто это. Но я дам тебе время самой догадаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш, хто це, і я тобі не буду підказувати."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0007",
+            "en": "Okay—I don’t wanna waste your time—that’s a pretty important resource—",
+            "ru_native": "Конечно, не хочу тратить твое время... Это довольно ценный ресурс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… я не хочу витрачати твій час… це надзвичайно цінний ресурс…"
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0008",
+            "en": "—but… my Mom… used to tell me stories—that’s why I’m calling.",
+            "ru_native": "Мать рассказывала мне истории... Поэтому я и связался с тобой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…моя мама… раніше розповідала мені історії… ось чому я тебе потурбував."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0009",
+            "en": "Cause one of the stories was about tonight. And the things that are going on.",
+            "ru_native": "Одна из историй была про этот день. И про то, что сейчас происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо одна з тих історій була про цю ніч. І про те, що зараз коїться."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0010",
+            "en": "And I just had a hunch. And I like being right.",
+            "ru_native": "Было у меня подозрение... И я оказался прав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене було передчуття. І воно виправдалося."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0011",
+            "en": "So thanks for proving me right.",
+            "ru_native": "Спасибо, что подтвердила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що підтвердила його."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0012",
+            "en": "I’m sure.",
+            "ru_native": "Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0013",
+            "en": "Well… you don’t now. But maybe later.",
+            "ru_native": "Пока не имеешь. Может, позже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не розумієш. Але зрозумієш пізніше."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0014",
+            "en": "I know, I’m surprised I’m talking about her, too.",
+            "ru_native": "Знаю, сам удивлен, что говорю о ней.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, сам не очікував, що за неї згадаю."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0015",
+            "en": "Anyways… another story my Mom used to tell was the fable of the Juniper tree.",
+            "ru_native": "Другая история, что мне рассказывала мать, была о можжевельнике.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інша історія, яку розповідала мама, була про ялівець."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0016",
+            "en": "Mom has children. Dies of happiness. That’s how it starts.",
+            "ru_native": "Мама родила детей и умерла от счастья. Так она начинается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мама народжує дітей. Помирає від щастя. Так вона починається."
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0017",
+            "en": "But that’s how everything starts, right? [chuckles]",
+            "ru_native": "Хотя все именно так и начинается, верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але так усе починається, чи не так? [сміється]"
+        },
+        {
+            "tag": "A2C3.OMFICO_OLDFISHERMAN_0018",
+            "en": "Anyways. I just had a hunch. I’ll see you later.",
+            "ru_native": "У меня просто была догадка. Увидимся позже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так чи інакше. Просто передчуття. До зустрічі. "
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0000",
+            "en": "Yes? This is Riley speaking. Over.",
+            "ru_native": "Да? Говорит Райли. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? Це Райлі. Прийом."
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0001",
+            "en": "Hi. Hey, is there something you want? Over.",
+            "ru_native": "Вам что-то нужно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло. Чим можу допомогти? Прийом."
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0002",
+            "en": "Uh not good? I’m kind of in the middle of stuff, actually, so.",
+            "ru_native": "Так себе. Вообще-то я сейчас кое-чем занята.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та щось кепсько. Я, типу, зайнята зараз."
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0003",
+            "en": "I’m going to need a point to this fast. Okay? Over.",
+            "ru_native": "Давайте ближе к делу, ладно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож ближче до суті. Гаразд? Прийом."
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0004",
+            "en": "Yeah, I’m fine, who’s this. Over.",
+            "ru_native": "Нормально. Кто это? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нормально все. А хто це? Прийом."
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0005",
+            "en": "Listen, I don’t have the time to waste on mystery calls, guy.",
+            "ru_native": "Слушайте, дядя, у меня нет времени на ваши загадки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, дядьку, у мене нема часу на все це загадкове шепотіння в слухавку."
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0006",
+            "en": "Need anything or should I hang up? Over.",
+            "ru_native": "Вам что-то нужно, или я отключаюсь? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або кажи, що треба, або я кладу? Прийом."
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0007",
+            "en": "What the Hell are you talking about? Are you sure you have the right frequency? Over.",
+            "ru_native": "Что ты вообще несешь? Ты радиочастоты случайно не перепутал? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти взагалі про що, у біса, говориш? Ти точно на своїй частоті? Прийом."
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0008",
+            "en": "Uh, are you nuts, guy? I have no clue what any of this is supposed to mean. Over.",
+            "ru_native": "Мужик, ты чокнутый? Я понятия не имею, что все это значит. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти божевільний, дядьку? Я й гадки не маю, як розуміти те, що ти наплів. Прийом."
+        },
+        {
+            "tag": "A2C3.OMFICO_RILEY_0009",
+            "en": "Your Mom? Huh?",
+            "ru_native": "Ваша мать? Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя мама? Що?"
+        }
+    ]
+}

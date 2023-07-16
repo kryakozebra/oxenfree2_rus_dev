@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.RAPDOW",
+    "entries": [
+        {
+            "tag": "A2T1.RAPDOW_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.RAPDOW_CHOICE_0000_OPTION_0000",
+            "en": "Not seeing it.",
+            "ru_native": "Не вижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не бачу."
+        },
+        {
+            "tag": "A2T1.RAPDOW_CHOICE_0000_OPTION_0001",
+            "en": "Could someone have taken it?",
+            "ru_native": "Кто-то мог его забрать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Міг його хтось забрати?"
+        },
+        {
+            "tag": "A2T1.RAPDOW_JACOB_0000",
+            "en": "It should be—right there!",
+            "ru_native": "Прямо там!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Має бути прямо там!"
+        },
+        {
+            "tag": "A2T1.RAPDOW_JACOB_0001",
+            "en": "Uh—maybe a rabbit tried to take it home or something, just look around!",
+            "ru_native": "Может, его кролик пытался утащить, или еще чего. Осмотрись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, його миша намагалася вкрасти, чи ще щось. Просто подивися навкруги!"
+        },
+        {
+            "tag": "A2T1.RAPDOW_JACOB_0002",
+            "en": "I mean—maybe a rabbit tried to take it home or something, just look around!",
+            "ru_native": "Ну... Может, его кролик пытался утащить, или еще чего. Осмотрись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, його миша намагалася вкрасти, чи ще щось. Просто подивися навкруги!"
+        },
+        {
+            "tag": "A2T1.RAPDOW_RILEY_0000",
+            "en": "Uh—where is it exactly?! Not seeing it!",
+            "ru_native": "Где он должен быть?! Не вижу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де саме він має бути?! Не бачу!"
+        },
+        {
+            "tag": "A2T1.RAPDOW_RILEY_0001",
+            "en": "I think someone stole it! I’m not seeing it!",
+            "ru_native": "Думаю, его кто-то украл. Не вижу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, його хтось украв. Не бачу!"
+        }
+    ]
+}

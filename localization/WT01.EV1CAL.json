@@ -1,0 +1,555 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT01.EV1CAL",
+    "entries": [
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0000_OPTION_0000",
+            "en": "Hi, Evelyn, what’s up?",
+            "ru_native": "Привет, Эвелин, что такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, що таке?"
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0000_OPTION_0001",
+            "en": "We’re working, what is it?",
+            "ru_native": "Я слегка занята, Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми працюємо, що сталося?"
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0001_OPTION_0000",
+            "en": "I can’t describe it.",
+            "ru_native": "Не могу описать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу описати."
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0001_OPTION_0001",
+            "en": "Time and space is going crazy.",
+            "ru_native": "Время и пространство сломаны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час і простір злетіли з котушок."
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0001_OPTION_0002",
+            "en": "Ghosts? I think?",
+            "ru_native": "Призраки? М-м-м?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привиди? Здається?"
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0002_OPTION_0000",
+            "en": "Yeah, okay.",
+            "ru_native": "Да, ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд."
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0002_OPTION_0001",
+            "en": "No, I won’t have time.",
+            "ru_native": "Нет, у меня нет времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не маю часу."
+        },
+        {
+            "tag": "WT01.EV1CAL_CHOICE_0003_OPTION_0000",
+            "en": "Hi, Evelyn, what’s up?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, Эвелин, как дела?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, що таке?"
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0000",
+            "en": "I just wanted to see how you were doing and how’s it looking out there.",
+            "ru_native": "Просто хотела узнать, как у тебя дела и как там все выглядит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто хотіла дізнатися, як справи та як там усе інше."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0001",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0002",
+            "en": "Okay, yeah, our readings over here from the weather station and frequency relays are…",
+            "ru_native": "Ну да, наши данные с метеостанции и частотных трансляторов довольно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, наші дані з метеорологічної станції та частотних реле…"
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0003",
+            "en": "No, I don’t think you’re insane, Riley. Our weather station and relay measurements are… well—",
+            "ru_native": "Нет, Райли, это не бред. Данные с метеостанции и транслятора довольно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Райлі, ти не божевільна. Дані з нашої<br>метеорологічної станції й частотного реле такі…"
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0004",
+            "en": "Just cause our readings over here? From the weather station and frequency relays?",
+            "ru_native": "Просто наши данные... Знаешь, с метеостанции и частотных трансляторов?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Через наші дані з метеорологічної станції та частотних реле?"
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0005",
+            "en": "The numbers are jumping like somebody’s firing an AK-47 at their feet.",
+            "ru_native": "Цифры скачут, как будто им по ногам из автомата стреляют.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цифри скачуть, ніби їм по ногах з автомата стріляють."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0006",
+            "en": "I knew this was gonna be big—I knew it—and… honestly, now that it is… it’s a little freaky.",
+            "ru_native": "Я знала, что показатели будут высокими, но честно говоря, я сейчас немного... в шоке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знала, що показники будуть високими, але, чесно кажучи, я зараз трохи… у шоці."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0007",
+            "en": "That and… Leslie got a phone call from her uncle who’s been dead for a while.",
+            "ru_native": "И еще… Лесли позвонил дядя, который уже несколько лет как умер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ще… Леслі зателефонував дядько, який уже кілька років як помер."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0008",
+            "en": "So things are a little weird? But I have a request, if it’s not too much trouble.",
+            "ru_native": "Какие-то странные дела? Но у меня к тебе есть просьба, если не затруднит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якісь дивні речі відбуваються? Але в мене до тебе є прохання, якщо не складно."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0009",
+            "en": "Could you give me a call whenever you plant a transmitter?",
+            "ru_native": "Можешь позвонить, когда установишь передатчик?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш зв’язатися зі мною, коли встановиш радіопередавач?"
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0010",
+            "en": "It would help us with our readings.",
+            "ru_native": "Нам будет проще считывать показатели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буде простіше виправити показники."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0011",
+            "en": "So I know if the machine is working or not.",
+            "ru_native": "Так я буду знать, работает аппарат или нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так я розумітиму, чи працює апарат."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0012",
+            "en": "That sound alright?",
+            "ru_native": "Договорились?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Домовилися?"
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0013",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0014",
+            "en": "Great! Great. It’s important you call me before you head out to your next objective when you plant them, okay?",
+            "ru_native": "Супер! Супер. Обязательно позвони до того, как направишься к следующей точке, хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Супер! Чудово. Обов’язково зв’яжися зі мною до того, як вирушиш далі, добре?"
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0015",
+            "en": "It’ll… help a ton. Okay.",
+            "ru_native": "Это нам… очень поможет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це нам дуже допоможе."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0016",
+            "en": "Okay, I’ll let you go. Good luck out there. Over and out.",
+            "ru_native": "Ладно, теперь иди. Удачи. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, тепер іди. Хай щастить. Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0017",
+            "en": "Uh, okay. I mean… well, okay.",
+            "ru_native": "Хм, ладно. В смысле… хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, гаразд. Тобто… добре."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0018",
+            "en": "Still… call whenever you need something—I’m worried about you out there.",
+            "ru_native": "Все равно… звони, если что-то понадобится. Я за тебя переживаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе одно… поклич мене, якщо щось знадобиться. Я за тебе хвилююся."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0019",
+            "en": "Alright, Riley? Alright. Thanks anyway. Over and out.",
+            "ru_native": "Хорошо, Райли? Хорошо. Все равно спасибо. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, Райлі? Гаразд. Усе одно дякую. Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0020",
+            "en": "Oh, I think—maybe I lost you.",
+            "ru_native": "Ой, мне показалось, связь пропала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, мені здалося, що зв’язок обірвався."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0021",
+            "en": "Crap. Alright. If you can hear me, call whenever you need anything.",
+            "ru_native": "Черт. Ну ладно. Если ты меня слышишь, звони, если что-то понадобится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт. Ну добре. Якщо ти мене чуєш, поклич мене, якщо щось знадобиться."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0022",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0023",
+            "en": "The numbers are otherworldly. Way off track from where they should be.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Цифры потусторонние. Далеко не те, что должны быть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цифри неймовірні. Далеко від значень, у межах яких вони повинні бути."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0024",
+            "en": "Yeah? Yeah, Jim, I know.",
+            "ru_native": "Да-Да, Jim, Знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? Так, Джиме, я знаю."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0025",
+            "en": "Sorry, a co-worker’s letting me know he couldn’t get his car started. It’s okay – Riley?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Извини, коллега сообщает, что не смог завести свою машину. Всё в порядке - Райли?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перепрошую, колега повідомив, що не може завести машину. Усе гаразд. Райлі?"
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0026",
+            "en": "I want to stick to the plan – still plant those transmitters, but… can you do me a favor?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я хочу придерживаться плана - по-прежнему сажать эти передатчики, но... не мог бы ты оказать мне услугу?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу дотримуватися плану і встановити ті радіопередавачі,<br>але… мені потрібна послуга."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0027",
+            "en": "It would help me help you with what’s going on.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это поможет мне помочь тебе разобраться в происходящем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це допомогло б мені допомогти розібратися з тим, що відбувається."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0028",
+            "en": "Just to get our readings straight.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто чтобы разобраться в наших показаниях.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто, щоби з’ясувати, чому наші показання такі."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0029",
+            "en": "Okay, I’ll let you go. Remember – I’m on seven. Good luck out there. Over and out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, я тебя отпускаю. Помни - я на седьмом. Удачи тебе там. Конец связи и выход.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, більше не тримаю. Якщо що, я на сьомому. Удачі там. Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV1CAL_EVELYN_0030",
+            "en": "Channel 7.",
+            "ru_native": "",
+            "ru_machine": "DEEPL 7-й канал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "7 канал."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0000",
+            "en": "Hey, Evelyn, what’s going on? Over.",
+            "ru_native": "Привет, Эвелин, что случилось? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, що трапилося? Прийом."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0001",
+            "en": "Uh, I’m a little busy here, Evelyn. You need something? Over.",
+            "ru_native": "Эвелин, я тут слегка занята. Тебе что-то нужно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… трохи зайнята, Евелін. Тобі що-небудь потрібно? Прийом."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0002",
+            "en": "Honestly, Evelyn… I don’t even know how to describe it, but… things aren’t good.",
+            "ru_native": "Эвелин, если честно... Не знаю, как это описать, но... ничего хорошего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо чесно, Евелін… Я навіть і не знаю, як описати це… але це недобре."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0003",
+            "en": "Something’s definitely happened… I’m not sure what. But I think I’m stuck. Over.",
+            "ru_native": "Произошло что-то... Непонятное. Кажется, я застряла. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось сталося… Не знаю, що. Але, здається, я застрягла. Прийом."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0004",
+            "en": "Evelyn, uh… how do I put this?",
+            "ru_native": "Эвелин... Как бы сказать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, ем… як це сказати?"
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0005",
+            "en": "I think somebody did something to, uh, time and space, somehow, and, uh, broke… everything.",
+            "ru_native": "Думаю, кто-то что-то сделал со временем и пространством и как-то все сломал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, хтось зробив щось із часом і простором і… ем… усе зламалося."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0006",
+            "en": "I know this sounds insane, but…",
+            "ru_native": "Знаю, звучит как бред, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, звучить божевільно, але…"
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0007",
+            "en": "I think there are ghosts… out here with me, and it’s… screwing up how time works?",
+            "ru_native": "Мне кажется, здесь призраки... И это они как-то искажают время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, зі мною поруч є привиди. І час йде неправильно."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0008",
+            "en": "Yeah, Evelyn. That’s fine. Over.",
+            "ru_native": "Да, Эвелин, хорошо. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Евелін, добре. Прийом."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0009",
+            "en": "No, Evelyn, I’m sorry, but I don’t really have the time for that.",
+            "ru_native": "Нет, Эвелин, прости, но у меня совсем нет на это времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Евелін, вибач, але я зовсім не маю часу на це."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0010",
+            "en": "I’m kind of more focused on trying to prevent whatever’s happening right now. Over.",
+            "ru_native": "Я занята тем, что пытаюсь помешать тому, что сейчас происходит. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тут намагаюся перешкодити тому, що зараз коїться. Прийом."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0011",
+            "en": "Uh, you’re catching us at an awkward time, Evelyn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э, ты застала нас в неудобное время, Эвелин.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, зараз незручний час, Евелін."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0012",
+            "en": "We’re right in the middle of the job – what is it?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы как раз в самом разгаре работы - что это такое?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми якраз працюємо… що сталося?"
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0013",
+            "en": "We’re sticking with the plan – planting the transmitters to combat the portal, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы придерживаемся плана - сажаем передатчики для борьбы с порталом, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми дотримуємося плану і встановлюємо радіопередавачі<br>для боротьби з порталом, але…"
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0014",
+            "en": "…we’ve haven’t made much headway, yet. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ...Пока что мы не достигли больших успехов. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ми ще не дуже добре впоралися. Прийом."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0015",
+            "en": "This stuff – the – the portal above Edwards Island is really affecting… just… everything.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эта штука - портал над островом Эдвардс - действительно влияет... просто... на всё.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця штука… портал над островом Едвардса справді якось впливає… на все."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0016",
+            "en": "It’s hard to stay in one time and – and place, here. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Трудно оставаться в одном времени и - и месте, вот. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут важко залишатися в одному часі та на одному місці. Прийом."
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0017",
+            "en": "I think it’s more than just the portal, or – maybe the portal is causing it?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я думаю, что дело не только в портале, или - может быть, портал является причиной этого?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що це не просто портал, чи, можливо, портал спричиняє все це?"
+        },
+        {
+            "tag": "WT01.EV1CAL_RILEY_0018",
+            "en": "But there are definitely, like, ghosts… out here with us. Or something very much like ghosts.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но здесь точно есть призраки... вместе с нами. Или что-то очень похожее на призраков.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але тут, типу, точно є привиди… Або щось дуже схоже на привидів."
+        }
+    ]
+}

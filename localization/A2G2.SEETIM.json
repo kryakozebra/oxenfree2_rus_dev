@@ -1,0 +1,42 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2G2.SEETIM",
+    "entries": [
+        {
+            "tag": "A2G2.SEETIM_JACOB_0000",
+            "en": "Check it out, another one.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зацени, еще один.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевір ще."
+        },
+        {
+            "tag": "A2G2.SEETIM_JACOB_0001",
+            "en": "Wonder what’s inside. Or–when’s inside.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Интересно, что внутри. Или - когда внутри.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво, що всередині. Або… який час всередині."
+        },
+        {
+            "tag": "A2G2.SEETIM_JACOB_0002",
+            "en": "Last one was helpful. Maybe whatever’s inside this one will be, too.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прошлая была полезной. Может быть, то, что находится внутри этой, тоже окажется полезным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Останній став у нагоді. Можливо, те, що всередині цього, стане також."
+        },
+        {
+            "tag": "A2G2.SEETIM_JACOB_0003",
+            "en": "Or whenever’s inside…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Или когда бы ни находился внутри...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або час, що всередині…"
+        }
+    ]
+}

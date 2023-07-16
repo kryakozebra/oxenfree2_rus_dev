@@ -1,0 +1,663 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S3.DEDTRU",
+    "entries": [
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0000_OPTION_0000",
+            "en": "Sorry, I'm an idiot.",
+            "ru_native": "Прости, я дура.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я дурепа."
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0000_OPTION_0001",
+            "en": "I didn't understand!",
+            "ru_native": "Я не поняла!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не зрозуміла!"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0000_OPTION_0002",
+            "en": "That's bad, right?",
+            "ru_native": "Все плохо, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе погано, так?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0001_OPTION_0000",
+            "en": "Is this my fault?",
+            "ru_native": "Это я виновата?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це моя провина?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0001_OPTION_0001",
+            "en": "Sorry, dude.",
+            "ru_native": "Прости, чувак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, друже."
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0001_OPTION_0002",
+            "en": "That's bad, right?",
+            "ru_native": "Все плохо, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе погано, так?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0002_OPTION_0000",
+            "en": "\"Athena\"?",
+            "ru_native": "Собака «Будда»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Афіна»?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0002_OPTION_0001",
+            "en": "Haven't seen her.",
+            "ru_native": "Мы ее не видели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не було."
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0002_OPTION_0002",
+            "en": "How'd she get out?",
+            "ru_native": "Как она выбралась?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вона вирвалася?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0003_OPTION_0000",
+            "en": "She's a girl, though.",
+            "ru_native": "Хоть она и девочка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоч вона й дівчинка."
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0003_OPTION_0001",
+            "en": "Pretty hippy-dippy.",
+            "ru_native": "Хиппи-диппи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гіпі-шміпі."
+        },
+        {
+            "tag": "A1S3.DEDTRU_CHOICE_0003_OPTION_0002",
+            "en": "Cute name.",
+            "ru_native": "Милое имя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Миле ім’я."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0000",
+            "en": "Guess you didn't hear me... asking you to turn the engine off?",
+            "ru_native": "Наверно, не слышала... Я просил отключить двигатель.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ти не почула… Я просив вимкнути двигун."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0001",
+            "en": "A few times, there.",
+            "ru_native": "Уже несколько раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уже кілька разів."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0002",
+            "en": "[annoyed sigh]",
+            "ru_native": "Уф...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[роздратовано зітхає]"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0003",
+            "en": "No. No, it's fine. I should've had more panic in my voice.",
+            "ru_native": "Да ладно. Надо было добавить паники в голос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд. Потрібно було це сказати більш стурбованим тоном."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0004",
+            "en": "No. [sighs] That's not what we want.",
+            "ru_native": "Да. Мы не этого хотели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ми не цього прагнули."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0005",
+            "en": "Ack. Well... thanks.",
+            "ru_native": "Ага. Ну... спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага. Ну… дякую."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0006",
+            "en": "I won't even try to explain what happened—",
+            "ru_native": "Это не объяснишь, я даже пытаться не буду...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я навіть не буду намагатися пояснити це…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0007",
+            "en": "I can't even pretend.",
+            "ru_native": "Даже притвориться не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть прикинутися не зможу."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0008",
+            "en": "No! No, I think… it was on its last legs.",
+            "ru_native": "Нет! Нет, думаю... она уже старая была.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Ні, я гадаю… вона вже старенька була."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0009",
+            "en": "Anyway… you helped me out.",
+            "ru_native": "Ладно... спасибо за помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… дякую за допомогу."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0010",
+            "en": "It's alright. She gave me eight crappy years, which was more than I expected.",
+            "ru_native": "Ничего. Она и так восемь лет протянула – дольше, чем я думал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого страшного. Вона й так вісім років проїздила. Навіть довше, ніж я думав."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0011",
+            "en": "Well…",
+            "ru_native": "Ну...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0012",
+            "en": "I think we can call time of death on this one.",
+            "ru_native": "Думаю, мы можем назвать время смерти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ми можемо назвати час смерті."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0013",
+            "en": "Look, have you seen a dog around?",
+            "ru_native": "Тут собака не пробегала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тут собаку не бачила?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0014",
+            "en": "My border collie, Athena, got out last night, that's really why I'm out here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Моя бордер-колли, Афина, вышла вчера вечером, собственно, поэтому я здесь и нахожусь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0015",
+            "en": "She knows the woods pretty well and is usually back by breakfast, but…",
+            "ru_native": "Оно хорошо знает лес и всегда возвращается к завтраку, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона гарно знає ліс і завжди повертається до сніданку, але…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0016",
+            "en": "But… I was saying that I lost my dog, Athena—that's why I'm out here.",
+            "ru_native": "Но... Говорю же, я ищу свою собаку, Будду, поэтому я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Кажу ж, я шукаю свою собаку, Будду, тому я тут."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0017",
+            "en": "Have you seen her?",
+            "ru_native": "Ты ее не видела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти її не бачила?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0018",
+            "en": "But anyways, I lost my dog? Athena? A black and white collie.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но как бы то ни было, я потерял свою собаку? Афину? Черно-белая колли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0019",
+            "en": "I was just asking if you saw her…",
+            "ru_native": "Решил спросить, вдруг ты ее видела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вирішив спитати, раптом ти її бачила…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0020",
+            "en": "She hasn't come home, yet.",
+            "ru_native": "Она еще не вернулась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона ще не повернулася."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0021",
+            "en": "She's medium-size—about thirty-five pounds.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она среднего размера - около тридцати пяти килограммов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0022",
+            "en": "Super friendly.",
+            "ru_native": "Очень ласковая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона дуже лагідна."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0023",
+            "en": "You haven't seen her, right?",
+            "ru_native": "Вы ее не видели?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не було її тут?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0024",
+            "en": "She's about yay-big.",
+            "ru_native": "Во-от такая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона о-о-ось така."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0025",
+            "en": "Quick to come if you call her…",
+            "ru_native": "Подбежит, если позвать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І завжди біжить, якщо її покликати…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0026",
+            "en": "Ring a bell?",
+            "ru_native": "Не видела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не бачила?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0027",
+            "en": "She would be in the area.",
+            "ru_native": "Она должна быть где-то тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона має бути десь тут."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0028",
+            "en": "She never gets farther than the local roads…",
+            "ru_native": "Дальше местных дорог она не ходит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Далі місцевих доріг вона не ходить…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0029",
+            "en": "Black and white border collie?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Черно-белый бордер-колли?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0030",
+            "en": "Oh—just under the fence.",
+            "ru_native": "А, под забором пролезла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, під парканом пролізла."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0031",
+            "en": "Collies can be diggers, it's hard to train 'em out of it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Колли могут быть землекопами, их трудно отучить от этого.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0032",
+            "en": "Yeah. Figured.",
+            "ru_native": "Ага. Понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, зрозуміло."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0033",
+            "en": "Yeah. Why?",
+            "ru_native": "Да. А что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. А що?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0034",
+            "en": "Her name at the shelter was Trix…",
+            "ru_native": "В приюте ее звали Трикс...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У притулку її звали Трікс…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0035",
+            "en": "I think I just thought it sounded like a stripper.",
+            "ru_native": "Я подумал, это имя больше подходит стриптизерше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здалося, що таке ім’я більше личить стриптизеркам, а не собакам."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0036",
+            "en": "Yeah, well… so can my dog.",
+            "ru_native": "Ну... моя собака тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… моя собака теж."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0037",
+            "en": "Hippy-ish—",
+            "ru_native": "Хипповая...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0038",
+            "en": "Yeah, well, she comes when I call, so… too late to change it now!",
+            "ru_native": "Да, ну, она отзывается на это имя... так что менять уже поздно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, вона відкликається на це ім’я, тож… запізно його змінювати!"
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0039",
+            "en": "Thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0040",
+            "en": "My, uh, one and only, Athena, got out last night, that's really why I'm out here.",
+            "ru_native": "Мой единственный друг, Будда, пропала прошлой ночью, поэтому я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя улюблена Будда втекла вчора ввечері. Ось чому я тут."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0041",
+            "en": "But anyways, I lost my dog? Athena? A twenty pound cutie?",
+            "ru_native": "В общем, я потерял собаку? Будду? Девятикилограммовую милаху?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я загубив свою собаку. Будду. Таку десятикілограмову крихітку."
+        },
+        {
+            "tag": "A1S3.DEDTRU_JACOB_0042",
+            "en": "About… yay big?",
+            "ru_native": "Во-от... такую?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона о-о-ось така."
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0000",
+            "en": "Oof. Sorry. This is—God, I'm sorry, I'm an idiot, this is all my fault—",
+            "ru_native": "Ой. Прости. Это... Боже, прости, я дура. Как же я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой. Вибач. Це… Боже, вибач, я така дурепа, це я винна…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0001",
+            "en": "Oh man, I'm—I—I didn't understand. I thought you wanted it… Ugh.",
+            "ru_native": "Блин, я... Я не поняла. Я думала, ты хотел...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько, я… Я не зрозуміла. Я думала, що ти хотів…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0002",
+            "en": "Ah. That's… bad, right? That's not what we want.",
+            "ru_native": "Так. Все плохо, да? Мы не этого хотели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе погано, так? Ми ж не цього прагнули."
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0003",
+            "en": "Eek. Uh, is this my fault?",
+            "ru_native": "Ик. Э-э, это из-за меня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф, це через мене?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0004",
+            "en": "Oof. Sorry, dude, that sucks.",
+            "ru_native": "Ой. Прости, чувак. Отстой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибач, друже. Відстій."
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0005",
+            "en": "No, I haven't seen any dogs around. Or in the area. Sorry.",
+            "ru_native": "Нет, не пробегала. Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, жодних собак тут не бачила. Мені шкода."
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0006",
+            "en": "Oh man. How'd she get out?",
+            "ru_native": "Ох. Как же она выбралась?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, і як же вона вирвалася?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0007",
+            "en": "You named your border collie… Athena?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты назвал свою бордер-колли... Афина?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0008",
+            "en": "You said she's a girl, though… right?",
+            "ru_native": "Она девочка... да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дівчинка… так?"
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0009",
+            "en": "I'm pretty sure Siddhārtha could write his name in the snow.",
+            "ru_native": "Уверена, Сиддхартха мог бы написать свое имя на снегу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упевнена, Сіддхартха міг би написати своє ім’я на снігу."
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0010",
+            "en": "It's pretty… hippy—",
+            "ru_native": "Она такая... хиппи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це так… по-гіпстерськи…"
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0011",
+            "en": "Hippy dippy, yeah, sorry, it just struck me. Patchouli oil. You know.",
+            "ru_native": "Хиппи-диппи. Прости, меня только что осенило. Масло пачули. Все такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гіпі-шміпі. Вибач, просто спало на думку. Мир, любов і таке інше."
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0012",
+            "en": "It's, uh, a cute name. That's all.",
+            "ru_native": "Это, хм, милое имя. Определенно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це, гм, миле ім’я."
+        },
+        {
+            "tag": "A1S3.DEDTRU_RILEY_0013",
+            "en": "You named your dog… Athena?",
+            "ru_native": "Ты назвал собаку... Буддой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти назвав свою собаку… Буддою?"
+        }
+    ]
+}

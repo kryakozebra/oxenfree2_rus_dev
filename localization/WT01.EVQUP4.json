@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT01.EVQUP4",
+    "entries": [
+        {
+            "tag": "WT01.EVQUP4_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EVQUP4_CHOICE_0000_OPTION_0000",
+            "en": "Last transmitter’s done, Evelyn.",
+            "ru_native": "Эвелин, последний передатчик готов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Останній радіопередавач встановлено, Евелін."
+        },
+        {
+            "tag": "WT01.EVQUP4_RILEY_0000",
+            "en": "I planted the last transmitter, Evelyn. You on the horn?",
+            "ru_native": "Эвелин, я поставила последний передатчик. Ты тут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я встановила останній радіопередавач, Евелін. Ти на зв’язку?"
+        }
+    ]
+}

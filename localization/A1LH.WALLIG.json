@@ -1,0 +1,564 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1LH.WALLIG",
+    "entries": [
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0000_OPTION_0000",
+            "en": "The light isn’t on.",
+            "ru_native": "Свет не горит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Світло не ввімкнено."
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0000_OPTION_0001",
+            "en": "What a dump.",
+            "ru_native": "Какая дыра.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну і звалище."
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0000_OPTION_0002",
+            "en": "Are we allowed here?",
+            "ru_native": "Нам сюда можно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам можна тут перебувати?"
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0001_OPTION_0000",
+            "en": "Will anyone be there?",
+            "ru_native": "Там кто-то есть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там хтось є?"
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0001_OPTION_0001",
+            "en": "That’s a shame.",
+            "ru_native": "Жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так прикро."
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0001_OPTION_0002",
+            "en": "Why’d they do that?",
+            "ru_native": "Почему так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але чому?"
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0002_OPTION_0000",
+            "en": "You were easily amused.",
+            "ru_native": "Тебя легко удивить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тебе було легко розважити."
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0002_OPTION_0001",
+            "en": "Must have been nice.",
+            "ru_native": "Здорово, наверно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Певно, було гарно."
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0002_OPTION_0002",
+            "en": "Think they’ll do it again?",
+            "ru_native": "Может, еще зажгут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як гадаєш, його увімкнуть знову?"
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0003_OPTION_0000",
+            "en": "No clue.",
+            "ru_native": "Без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0003_OPTION_0001",
+            "en": "Information’s out of date?",
+            "ru_native": "Информация устарела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Застаріла інформація?"
+        },
+        {
+            "tag": "A1LH.WALLIG_CHOICE_0003_OPTION_0002",
+            "en": "Maybe there is one?",
+            "ru_native": "Может, там есть рация?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, є?"
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0000",
+            "en": "Watch your step.",
+            "ru_native": "Осторожно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обережно."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0001",
+            "en": "It’s a little slippery here.",
+            "ru_native": "Тут немного скользко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут трохи слизько."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0002",
+            "en": "Nope. Hasn’t been for a while.",
+            "ru_native": "Не-а. Причем уже давно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага. Не працює вже давно."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0003",
+            "en": "Just… progress.",
+            "ru_native": "Прогресс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усього лише прогрес."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0004",
+            "en": "Yeah, it’s fine.",
+            "ru_native": "Да, можно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, усе нормально."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0005",
+            "en": "Well, once upon a time we’d’ve been arrested for landing here. But…",
+            "ru_native": "Однажды нас тут арестовали за проникновение. Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Колись нас заарештували б за те, що ми причалюємо тут. Але…"
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0006",
+            "en": "Lighthouses went out of uh—commission, I guess—sometime in the 70s.",
+            "ru_native": "Маяки перестали обслуживаться где-то в 70-е.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маяки вивели з експлуатації десь у 70-х роках."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0007",
+            "en": "That’s why our local here ain’t exactly Bristol-fashion.",
+            "ru_native": "Поэтому наш старик в таком плачевном состоянии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому наш маяк і не схожий на Брістольський."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0008",
+            "en": "We’ll live to see them tear it down.",
+            "ru_native": "Мы еще увидим, как его снесут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ще побачимо, як його зноситимуть."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0009",
+            "en": "Unfortunately.",
+            "ru_native": "К сожалению.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На жаль."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0010",
+            "en": "A rodent or two? Or ten.",
+            "ru_native": "Парочка крыс? Или десяток.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, один гризун, або два? Чи десять."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0011",
+            "en": "But no people. Probably.",
+            "ru_native": "Людей там нет. Наверное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але не люди. Імовірно."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0012",
+            "en": "Right? I mean, I get—ya know—technological advancements but I dunno.",
+            "ru_native": "Мне тоже. Я понимаю, всякие инновации, технологии... Но блин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Згодна? Я розумію, технологічний прогрес. Але якось…"
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0013",
+            "en": "Just seems kinda sad to me that there’s a better answer than light.",
+            "ru_native": "Немного грустно, что есть решение лучше, чем свет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи сумно, що існує кращий спосіб, ніж світло."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0014",
+            "en": "Oh, you know. Uh—computers, the internet.",
+            "ru_native": "Сама понимаешь. Компьютеры, интернеты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, розумієш… Комп’ютери, інтернет."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0015",
+            "en": "Turns out lots of things can do a better job warning ships from dashing against the rocks than a rotating flashlight.",
+            "ru_native": "Оказалось, предупреждать корабли о скалах можно и без крутящегося фонарика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виявляється, є багато способів попередити судна про скелі, <br>окрім ліхтарика, що обертається."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0016",
+            "en": "I remember they fired it back up once when I was a kid. Town Centennial or something...",
+            "ru_native": "Помню, в детстве его однажды снова зажгли. В честь годовщины города?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пригадую, маяк вмикали одного разу, коли я був малим. <br>Сторіччя міста чи щось таке…"
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0017",
+            "en": "It was like watching a dinosaur walk again. Really—I was mesmerised.",
+            "ru_native": "Будто видишь ожившего динозавра. Я был в восторге.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було таке враження, ніби динозавр ожив. Я був заворожений."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0018",
+            "en": "[chuckles] My parents had to literally carry me away.",
+            "ru_native": "Родителям пришлось меня буквально уносить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моїм батькам довелося буквально на руках мене винести."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0019",
+            "en": "Even then.",
+            "ru_native": "И даже тогда...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть тоді."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0020",
+            "en": "I watched over my dad’s shoulders.",
+            "ru_native": "Я все смотрел поверх отцовского плеча.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я дивився через батькове плече."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0021",
+            "en": "[laughs] Whatever, man, it was fascinating.",
+            "ru_native": "Отстань. Было здорово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там що, чарівне було видовище."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0022",
+            "en": "They haven’t lit it since.",
+            "ru_native": "Больше его не зажигали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З тих пір його не вмикали."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0023",
+            "en": "Well… they haven’t lit it since. So. Maybe I was the only one.",
+            "ru_native": "Ну... Больше его не зажигали. Может, я один такой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… з тих пір його не вмикали. Тож, мабуть, я був єдиний."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0024",
+            "en": "Uh, they haven’t done it since, so. Probably not.",
+            "ru_native": "С тех пор его не зажигали. Так что вряд ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З тих пір не вмикали. Отож, мабуть, ні."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0025",
+            "en": "It’s a shame lighthouse keeper went the way of the travel agent and, uh, [chuckles] radio play.",
+            "ru_native": "Жаль, что смотрители маяка пошли по пути турагентов и... радиоспектаклей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прикро, що ця дама, охоронець маяка, пішла шляхом<br>туристичного агента і… радіопостановки."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0026",
+            "en": "I’d’ve happily written that on my tax returns.",
+            "ru_native": "С радостью написал бы это в налоговом вычете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б із задоволенням вніс це в податкову декларацію."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0027",
+            "en": "Man, it’s really coming down.",
+            "ru_native": "Ох черт, настоящий ливень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І справді стихає."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0028",
+            "en": "It wasn’t like this on the mainland…",
+            "ru_native": "На материке такого не было...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На материку було не так…"
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0029",
+            "en": "You, uh, you know why your work would suggest coming to a dilapidated lighthouse for a walkie?",
+            "ru_native": "Хм, а ты не знаешь, зачем тебе надо идти к полуразрушенному маяку за рацией?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як гадаєш, для чого у твоїй роботі потрібно було <br>прийти на напівзруйнований маяк по рацію?"
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0030",
+            "en": "Because we’ll be lucky to find a pile of usable dust.",
+            "ru_native": "Потому что мы там можем найти разве что кучу пыли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що нам пощастить знайти купу корисного пилу."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0031",
+            "en": "It’s just not really for that.",
+            "ru_native": "Просто оно того не стоит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді не тільки для цього."
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0032",
+            "en": "So… the last time I was over here...",
+            "ru_native": "Хм... когда я последний раз там был...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже… коли я був тут востаннє…"
+        },
+        {
+            "tag": "A1LH.WALLIG_JACOB_0033",
+            "en": "I mean, maybe we’ll find one, but… it’s a super long shot.",
+            "ru_native": "Ну, может, мы что и найдем, но... крайне маловероятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, ми знайдемо. Але надії вкрай мало."
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0000",
+            "en": "The lighthouse isn’t on.",
+            "ru_native": "Свет на маяке не горит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маяк не працює."
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0001",
+            "en": "Jesus, what happened here?",
+            "ru_native": "Боже, что тут произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, що тут сталося?"
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0002",
+            "en": "Should we—are we allowed here? Like—legally?",
+            "ru_native": "Нам сюда вообще можно? По закону?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам слід… Нам можна тут перебувати? Це законно?"
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0003",
+            "en": "Uh—is anyone gonna be there?",
+            "ru_native": "Там кто-то может быть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там хтось може бути?"
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0004",
+            "en": "Shame.",
+            "ru_native": "Жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як прикро."
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0005",
+            "en": "Why’d they take them out of operation?",
+            "ru_native": "Почему от маяков отказались?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому їх вивели з експлуатації?"
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0006",
+            "en": "Doesn’t take much to hold your interest, huh?",
+            "ru_native": "Смотрю, тебя довольно легко удивить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Небагато потрібно, щоби тебе зацікавити, га?"
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0007",
+            "en": "Must have been cool to see.",
+            "ru_native": "Наверно, здорово было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Певно, круто було подивитися."
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0008",
+            "en": "Uh, think they’ll ever do it again? See if your… memory holds up?",
+            "ru_native": "Как думаешь, его еще зажгут? Освежишь воспоминание.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, його ввімкнуть знову? Побачимо… чи не підведе тебе твоя пам’ять."
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0009",
+            "en": "Yeah, no clue. I… didn’t know all that about lighthouses, so I didn’t argue.",
+            "ru_native": "Без понятия. Я... про маяки ничего не знала, вот и не спорила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, жодної гадки. Я… не знала всього цього про маяки. Тож не сперечалася."
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0010",
+            "en": "Maybe their information’s out of date? I don’t know.",
+            "ru_native": "Может, у них информация устарела? Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, ця інформація застаріла? Не знаю."
+        },
+        {
+            "tag": "A1LH.WALLIG_RILEY_0011",
+            "en": "Well… I mean, maybe there is one? Maybe they know something you don’t.",
+            "ru_native": "Ну... может, там есть рация? Может, они знают больше, чем ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Я гадаю, може є рація? Може вони знають таке, що ти не знаєш."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G4.WALKTO",
+    "entries": [
+        {
+            "tag": "A2G4.WALKTO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.WALKTO_CHOICE_0000_OPTION_0000",
+            "en": "Is someone there?",
+            "ru_native": "Тут кто-нибудь есть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там хтось є?"
+        },
+        {
+            "tag": "A2G4.WALKTO_CHOICE_0000_OPTION_0001",
+            "en": "I hate this.",
+            "ru_native": "Ненавижу это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу це."
+        },
+        {
+            "tag": "A2G4.WALKTO_RILEY_0000",
+            "en": "Hey, i-is someone over there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, там кто-то есть?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.WALKTO_RILEY_0001",
+            "en": "Just wanna say… I really hate this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто хочу сказать... Я действительно ненавижу это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

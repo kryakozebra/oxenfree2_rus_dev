@@ -1,0 +1,1023 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT03.TELHAP",
+    "entries": [
+        {
+            "tag": "WT03.TELHAP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0000_OPTION_0000",
+            "en": "Hank, you there?",
+            "ru_native": "Хэнк, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, Ти там?"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0001_OPTION_0000",
+            "en": "Just ‘good?’",
+            "ru_native": "Просто «неплохо»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто «непогано»?"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0001_OPTION_0001",
+            "en": "I’ll bill you for my time.",
+            "ru_native": "Пришлю тебе счет за потраченное время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Надішлю тобі рахунок за витрачений час."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0001_OPTION_0002",
+            "en": "Hope you’re happy!",
+            "ru_native": "Надеюсь, ты счастлив.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ти задоволений!"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0002_OPTION_0000",
+            "en": "Teens are ending the world.",
+            "ru_native": "Подростки рушат мир.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підлітки руйнують світ."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0002_OPTION_0001",
+            "en": "The sky is caving in.",
+            "ru_native": "Небо проваливается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Небо падає."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0002_OPTION_0002",
+            "en": "Don’t ask.",
+            "ru_native": "Не спрашивай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не питай."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0003_OPTION_0000",
+            "en": "Sure, why not.",
+            "ru_native": "Ладно, почему нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, чом би й ні."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0003_OPTION_0001",
+            "en": "For what?",
+            "ru_native": "Для чего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для чого?"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0003_OPTION_0002",
+            "en": "No, too busy.",
+            "ru_native": "Нет, мы заняты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, багато справ."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0004_OPTION_0000",
+            "en": "Sure, why not.",
+            "ru_native": "Ладно, почему нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, чом би й ні."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0004_OPTION_0001",
+            "en": "I have a shoe?",
+            "ru_native": "У меня есть ботинок?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене є черевик?.."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0004_OPTION_0002",
+            "en": "No, too busy.",
+            "ru_native": "Нет, мы заняты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, багато справ."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0005_OPTION_0000",
+            "en": "Okay, fine.",
+            "ru_native": "Ладно, хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, добре."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0005_OPTION_0001",
+            "en": "Sorry, no thanks.",
+            "ru_native": "Нет, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але ні, дякую."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0006_OPTION_0000",
+            "en": "And do what with it?",
+            "ru_native": "И что с ним делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що з ним робити?"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0006_OPTION_0001",
+            "en": "I’ll keep any eye out!",
+            "ru_native": "Буду смотреть в оба!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивитимуся на всі боки!"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0006_OPTION_0002",
+            "en": "Why do you want this?",
+            "ru_native": "Почему ты этого хочешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо тобі це?"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0007_OPTION_0000",
+            "en": "We can use his help.",
+            "ru_native": "Помощь пригодится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Його допомога може стати в нагоді."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0007_OPTION_0001",
+            "en": "Maybe we’ll find something.",
+            "ru_native": "Может, мы что найдем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може ми щось таке знайдемо."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0008_OPTION_0000",
+            "en": "We can use his help.",
+            "ru_native": "Помощь пригодится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Його допомога може стати в нагоді."
+        },
+        {
+            "tag": "WT03.TELHAP_CHOICE_0008_OPTION_0001",
+            "en": "He’s a kook.",
+            "ru_native": "Он псих.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він — псих."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0000",
+            "en": "[WT] Yeah, the pic is uploading now… [breathes out] What a milestone.",
+            "ru_native": "Да, фото загружается... Вот это да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0001",
+            "en": "[WT] It’s coming through. Looks good.",
+            "ru_native": "Принимаю. Хм, выглядит неплохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0002",
+            "en": "[WT] A little blurry around the edges…",
+            "ru_native": "Немного размыто по краям…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0003",
+            "en": "[WT] And the resolution kills some of the clarity…",
+            "ru_native": "И слегка нечетко из-за разрешения...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0004",
+            "en": "[WT] But, yeah, this is a start.",
+            "ru_native": "Но да, это уже кое-что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0005",
+            "en": "[chuckling] Yeah, not until it’s verifiable. Photos can be doctored. Physical evidence can’t.",
+            "ru_native": "Да, но только после подтверждения. Фото и подделать можно.<br>А вещественные доказательства – нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Хихикає] Так, але лише після підтвердження. Фото й підробити можна.<br>А речові докази –- ні."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0006",
+            "en": "I’m appreciative, I am—you did a great job, I just—I’m thinking about the next piece of this.",
+            "ru_native": "Я ценю это, вы проделали отличную работу, просто... я думаю над следующим шагом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я дуже вдячний, це відмінна робота, просто… я міркую над наступним кроком."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0007",
+            "en": "And that’s physical evidence.",
+            "ru_native": "А это вещественные доказательства.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А це речові докази."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0008",
+            "en": "What’s next is procuring some actual, verifiable, physical evidence.",
+            "ru_native": "Следующий шаг – найти реальные доказательства, которые можно проверить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наступний крок –- знайти реальні докази, які можна протестувати."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0009",
+            "en": "And with everything that’s happening tonight—the readings I’m getting—",
+            "ru_native": "И с учетом всего происходящего, судя по показаниям...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Враховуючи все, що відбувається, судячи з показників…"
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0010",
+            "en": "—I feel like it’s now or never, honestly.",
+            "ru_native": "...сейчас или никогда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…зараз або ніколи."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0011",
+            "en": "What’s it like out there?",
+            "ru_native": "Как там дела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як там справи?"
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0012",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0013",
+            "en": "[beat] That’s too bad.",
+            "ru_native": "Плохо дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[стомлено] Це погано."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0014",
+            "en": "[beat] Well anyways...",
+            "ru_native": "Ну ладно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[стомлено] Ну, у будь-якому випадку…"
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0015",
+            "en": "Continued research, I think, is imperative at this point.",
+            "ru_native": "Думаю, необходимо продолжить исследование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, варто продовжити дослідження."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0016",
+            "en": "So, with that in mind, can you possibly assist me in finding something ghostly that’s a little more… solid?",
+            "ru_native": "Так что не могли бы вы найти что-то более... существенное от призрака?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, чи можна знайти щось більш… вагоме для доказу існування привидів?.."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0017",
+            "en": "I understand if you’re too taken up with other things.",
+            "ru_native": "Я понимаю, у вас и других дел по горло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію, є багато інших справ."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0018",
+            "en": "But it would be an enormous help.",
+            "ru_native": "Но это бы мне невероятно помогло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це мені б безкінечно допомогло."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0019",
+            "en": "I truly think this is important work…",
+            "ru_native": "Я правда считаю, что это важно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я насправді вважаю, що це важливо…"
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0020",
+            "en": "…deserving of attention. Over.",
+            "ru_native": "...и заслуживает внимания. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і заслуговує на увагу. Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0021",
+            "en": "Great, that’s great—we’re looking for something from the other side. An impossible object.",
+            "ru_native": "Отлично, просто отлично. Мы ищем что-то с «той стороны». Что-то, чего не может быть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, просто чудово. Ми шукаємо щось із тієї сторони. Щось,<br>чого не може існувати тут."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0022",
+            "en": "Something that’s come in from another time, a past life or alternate reality.",
+            "ru_native": "Что-то из другого времени, прошлой жизни или альтернативной реальности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось з іншого часу, минулого життя чи альтернативної реальності."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0023",
+            "en": "No, to be completely honest, I don’t know why you would avoid participating—",
+            "ru_native": "Нет, если уж совсем честно, я не понимаю, почему вы отказываетесь поучаствовать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, якщо вже зовсім чесно, я не розумію, чому ви відмовляєтеся взяти участь…"
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0024",
+            "en": "—in the greatest breakthrough of human understanding since the telescope. But to each their own.",
+            "ru_native": "...в величайшем открытии со времен изобретения телескопа. Но каждому свое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…у найбільшому відкритті з часів винаходу телескопа.<br>Але кожен приймає рішення самостійно."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0025",
+            "en": "I’m sensing that you’re not comfortable with the idea. So. We can forget it.",
+            "ru_native": "Чувствую, тебе эта идея не по душе. Ладно. Забудем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчуваю, тобі ця ідея не до вподоби. Тож. Облишимо це."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0026",
+            "en": "You’ve helped me enough.",
+            "ru_native": "Вы достаточно помогли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви вже достатньо допомогли."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0027",
+            "en": "I’ll give you full credit in any papers published. Maybe even… a percentage of profits…",
+            "ru_native": "Я добавлю вас во все публикации. Может, даже поделюсь процентом с прибыли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вкажу вас у всіх публікаціях. Може, навіть поділюся відсотком із прибутку…"
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0028",
+            "en": "…if this becomes a book.",
+            "ru_native": "...если выпущу книгу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…якщо видаватиму книгу."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0029",
+            "en": "Equal air time for publicity materials, too.",
+            "ru_native": "И позову сниматься в промо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І покличу зніматися в рекламі."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0030",
+            "en": "What do you say?",
+            "ru_native": "Что скажете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що скажете?"
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0031",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0032",
+            "en": "Just keep your eyes peeled while you’re out there, tonight.",
+            "ru_native": "Просто внимательно смотрите по сторонам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто уважно дивіться на всі боки."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0033",
+            "en": "Take it! I’ll let you know what to do next if you find something.",
+            "ru_native": "Заберите! Я скажу, что делать дальше, когда вы что-то найдете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хапайте! Я скажу, що робити далі, коли щось таке знайдете."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0034",
+            "en": "I need something that no scientific group or collegiate institute can deny.",
+            "ru_native": "Мне нужно то, что не сможет отрицать ни одна научная группа или научный совет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібне те, що не зможе спростувати жодна наукова група чи наукова рада."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0035",
+            "en": "So… I guess to answer your question, I’m going to use it to prove my theories on time and the afterlife.",
+            "ru_native": "Итак... отвечаю на твой вопрос: я собираюсь использовать<br>это, чтобы доказать свои теории о времени и загробной жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже… відповідаю на твоє запитання: я збираюся використати його,<br>щоби підтвердити свої теорії про час і потойбічне життя."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0036",
+            "en": "And correct the course of human understanding. No big deal.",
+            "ru_native": "И скорректировать человеческие представления. Всего-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І скоригувати людські уявлення. І все."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0037",
+            "en": "Check in if you get something. Or call if you have any questions. About anything.",
+            "ru_native": "Сообщи, если что-нибудь найдете. Или звони, если будут вопросы. Любые.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повідом, якщо щось знайдете. Або якщо виникнуть питання. Будь-які."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0038",
+            "en": "Okay—over and out.",
+            "ru_native": "Ясно, конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло, кінець зв’язку."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0039",
+            "en": "Things are still crazy, and I'm thankful for the picture. So. If you need anything else—",
+            "ru_native": "Тут все еще хрень творится, так что спасибо за картинку. Если что будет нужно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут і досі чортівня коїться, тож дякую за фото. Якщо щось буде потрібно…"
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0040",
+            "en": "—have questions or anything, just give me a call. But only if it's important.",
+            "ru_native": "Какие-то вопросы или еще что, обращайтесь. Но только по делу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…виникнуть якісь питання чи ще щось, звертайтеся. Але лише в справі."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0041",
+            "en": "I don’t have time to chit-chat. Okay. Talk to you later. Over and out.",
+            "ru_native": "На болтовню времени нет. Ладно. До скорого. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На балаканину часу немає. Гаразд. Пізніше зв’яжемося. Кінець зв’язку."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0042",
+            "en": "Good, good, I’ll take your word for it that you got everything in frame.",
+            "ru_native": "Ладно-ладно, так уж и быть. Поверю, что кадр удачный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, добре, я повірю вам на слово, що на фото все видно."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0043",
+            "en": "This is a good start.",
+            "ru_native": "Для начала сойдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вдалий початок."
+        },
+        {
+            "tag": "WT03.TELHAP_HANK_0044",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0000",
+            "en": "Hank. Interesting guy…",
+            "ru_native": "Хэнк. Интересный парень...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенк. Цікавий хлопець…"
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0001",
+            "en": "I don’t know if we want to be taking such a detour but…",
+            "ru_native": "Не знаю, станем ли мы делать такой крюк, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи ми робитимемо такий гак, але…"
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0002",
+            "en": "He is interesting.",
+            "ru_native": "Он интересный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він цікавий."
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0003",
+            "en": "Eh, true. Well… I won’t be surprised if we do find something, so.",
+            "ru_native": "Верно. Ну... Не удивлюсь, если мы и впрямь что-то найдем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правильно. Ну… не дивуватимуся, якщо ми справді щось таке знайдемо."
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0004",
+            "en": "I’ll try to, uh, keep his request in mind.",
+            "ru_native": "Постараюсь не забыть о его просьбе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Намагатимуся не забути про його прохання."
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0005",
+            "en": "Yeah, no—makes sense, I guess.",
+            "ru_native": "Да, конечно. Звучит здраво.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно. Логічно, мабуть."
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0006",
+            "en": "Weird to ask us to find something like a ghost rock or whatever he’s hoping for, but…",
+            "ru_native": "Странно просить нас найти призрачный камень или что там ему надо, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дивно просити нас знайти камінь-привид або що там йому треба, але…"
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0007",
+            "en": "Still. Interesting.",
+            "ru_native": "Все же интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить цікаво."
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0008",
+            "en": "Eh, true.",
+            "ru_native": "Верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух, твоя правда."
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0009",
+            "en": "Yeah, I’m afraid of relating too strongly, to be honest.",
+            "ru_native": "Да, боюсь, что слишком хорошо его понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, боюся, що дуже добре його розумію."
+        },
+        {
+            "tag": "WT03.TELHAP_JACOB_0010",
+            "en": "But… whatever.",
+            "ru_native": "Ну да ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та… все одно."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0000",
+            "en": "Hey, Hank? You there? We got something you might be interested in…",
+            "ru_native": "Эй, Хэнк? Ты там? Мы тут нашли кое-что интересное...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Хенку? Ти там? Ми тут знайшли дещо цікаве…"
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0001",
+            "en": "Um… just good?",
+            "ru_native": "Эм... просто «неплохо»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… просто «непогано»?"
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0002",
+            "en": "Just good—that’s a genuine photograph of someone who’s not alive anymore, Hank.",
+            "ru_native": "«Неплохо» – да это настоящая фотография человека, которого уже нет в живых, Хэнк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Непогано» — це ти про справжню фотографію людини, яка вже давно померла, Хенку."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0003",
+            "en": "I think that puts it somewhere near nuclear fission on the list of scientific discoveries. Over.",
+            "ru_native": "Думаю, в списке научных открытий это должно<br>стоять где-то рядом с расщеплением атома. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, у списку наукових відкриттів це має стояти десь поряд<br>із розщепленням атома. Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0004",
+            "en": "Yeah, okay, I’ll bill you for our time. Over.",
+            "ru_native": "Ладно, пришлю тебе счет за потраченное время. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, надішлю тобі рахунок за витрачений час. Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0005",
+            "en": "Well, I sincerely hope you’re happy. Cause… you should be. Over.",
+            "ru_native": "Что ж, надеюсь, ты счастлив. Потому что... должен бы. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, сподіваюся, ти задоволений. Бо… маєш таким бути. Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0006",
+            "en": "Some teenager named Olivia is trying to open a portal to another dimension and it’s, uh, not great if that happens.",
+            "ru_native": "Девчонка по имени Оливия пытается открыть портал в другое<br>измерение, и если откроет, это будет, эм, не здорово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дівчисько на ім’я Олівія намагається відкрити портал в інший вимір<br>і якщо відкриє, це буде халепа."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0007",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0008",
+            "en": "Thanks to some lady named Olivia, the time-space continuum’s sky is crashing down on our heads.",
+            "ru_native": "Небо пространственно-временного континуума<br>рушится нам на голову. Спасибо леди по имени Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Небо просторово-часового континууму звалиться нам на голову.<br>А дякувати за це треба леді на ім’я Олівія."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0009",
+            "en": "Yeah, just… don’t ask.",
+            "ru_native": "Да, просто... не спрашивай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, просто… навіть не питай."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0010",
+            "en": "Uh, sure. I mean… we’re out here anyway. What are you looking for? Over.",
+            "ru_native": "Да, конечно. То есть... мы все равно здесь. Что надо искать? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно. Тобто ми все одно тут. Що треба шукати? Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0011",
+            "en": "Sorry, but, we’re a little busy with other things.",
+            "ru_native": "Прости, но у нас есть дела поважнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але в нас є важливіші справи."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0012",
+            "en": "And honestly we’re trying to avoid ghosts, not attract them, you know? Over.",
+            "ru_native": "И, честно говоря, мы пытаемся избегать призраков, а не приманивать. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І, чесно кажучи, ми намагаємося уникати привидів, а не приманювати їх. Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0013",
+            "en": "Okay, well… let’s say we take the time. What’s in it for us?",
+            "ru_native": "Ладно, допустим, у нас есть время. А нам это зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, припустимо, у нас є час. А навіщо це нам?"
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0014",
+            "en": "Well… okay. As long as we’re in the book jacket, too. In a… tweed something.",
+            "ru_native": "Ну... ладно. Только я тоже буду на обложке. В... твидовом пиджаке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, добре. Тільки я також буду на обкладинці. У… твідовому піджаку."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0015",
+            "en": "What are we looking for? Over.",
+            "ru_native": "Так что мы ищем? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, що ми шукаємо? Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0016",
+            "en": "Okay, but do what with this impossible object? Over.",
+            "ru_native": "Ну ладно, а с этим невероятным предметом нам что делать? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, гаразд, а із цим «неіснуючим» предметом, що робити? Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0017",
+            "en": "Okay, sounds good. I’ll keep an eye out. Over.",
+            "ru_native": "Ладно, договорились. Буду смотреть в оба. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, домовилися. Дивитимуся на всі боки. Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0018",
+            "en": "Uh huh, but… why do you want this? What are you gonna do with it? Over.",
+            "ru_native": "Ага, но… зачем тебе это? Что ты будешь с этим делать? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм, але… навіщо тобі це? Що ти робитимеш із ним? Прийом."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0019",
+            "en": "Eh, we can really use his help. He seems to know some stuff about… this stuff.",
+            "ru_native": "Нам пригодится его помощь. Кажется, он разбирается... во всем этом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам знадобиться його допомога. Здається, він розуміється на… усьому цьому."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0020",
+            "en": "Eh, maybe we’ll find something. If we can help the guy out, why not—you know?",
+            "ru_native": "Вдруг что найдем. Если получится выручить человека, то почему бы нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раптом щось таке знайдемо. Якщо вдасться допомогти йому, то чом би й ні?"
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0021",
+            "en": "Hopefully we can use his help. He seems to know some stuff about… this stuff.",
+            "ru_native": "Надеюсь, он нам поможет. Он вроде много знает... обо всем этом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, він допоможе нам. Він наче багато знає… про все це."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0022",
+            "en": "Yeah, he’s setting off my kook radar a bit. But… you know. We all have our crap we’re obsessed with.",
+            "ru_native": "Да, мой радар психов посылает сигналы. Но вообще... Все мы чем-то одержимы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мій радар психів посилає сигнали. Але насправді… Усі ми чимось захоплюємося."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0023",
+            "en": "Well… actually, we already have a, uh, weird object.",
+            "ru_native": "Вообще-то у нас уже есть странный предмет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Насправді в нас уже є «дивний» предмет."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0024",
+            "en": "We took the picture for you. I have to say it’s pretty good.",
+            "ru_native": "Мы сделали фото. Надо сказать, весьма неплохо получилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тебе сфотографували. Мушу визнати, фото класне."
+        },
+        {
+            "tag": "WT03.TELHAP_RILEY_0025",
+            "en": "Check your mailbox when you get the chance, okay? Over.",
+            "ru_native": "Проверь почту, как будет возможность, ладно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевір пошту, коли буде можливість, добре? Прийом."
+        }
+    ]
+}

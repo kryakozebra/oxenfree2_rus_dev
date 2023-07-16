@@ -1,0 +1,96 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S7.DOGBAR",
+    "entries": [
+        {
+            "tag": "A3S7.DOGBAR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.DOGBAR_CHOICE_0000_OPTION_0000",
+            "en": "Where you going?",
+            "ru_native": "Куда ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти куди?"
+        },
+        {
+            "tag": "A3S7.DOGBAR_CHOICE_0000_OPTION_0001",
+            "en": "Slow down!",
+            "ru_native": "Сбавь скорость!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пригальмуй!"
+        },
+        {
+            "tag": "A3S7.DOGBAR_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.DOGBAR_CHOICE_0001_OPTION_0000",
+            "en": "Don’t run so fast!",
+            "ru_native": "Не беги так быстро!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не так швидко!"
+        },
+        {
+            "tag": "A3S7.DOGBAR_CHOICE_0001_OPTION_0001",
+            "en": "Where are you taking me?",
+            "ru_native": "Куда ты меня тащишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди ти тягнеш мене?"
+        },
+        {
+            "tag": "A3S7.DOGBAR_RILEY_0000",
+            "en": "[chuckling] Hey, where you going?",
+            "ru_native": "Эй, ты куда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[хихикає] Агов, ти куди?"
+        },
+        {
+            "tag": "A3S7.DOGBAR_RILEY_0001",
+            "en": "[chuckling] Hey, slow down!",
+            "ru_native": "Эй, тормози!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[хихикає] Агов, пригальмуй!"
+        },
+        {
+            "tag": "A3S7.DOGBAR_RILEY_0002",
+            "en": "[chuckling] Don’t—don’t run so fast!",
+            "ru_native": "Не... не беги так быстро!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[хихикає] Не… не так швидко!"
+        },
+        {
+            "tag": "A3S7.DOGBAR_RILEY_0003",
+            "en": "Athena?! Where are you taking me?",
+            "ru_native": "Будда?! Куда ты меня тащишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Афіно?! Куди ти тягнеш мене?"
+        }
+    ]
+}

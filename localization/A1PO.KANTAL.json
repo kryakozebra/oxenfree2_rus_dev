@@ -1,0 +1,330 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1PO.KANTAL",
+    "entries": [
+        {
+            "tag": "A1PO.KANTAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.KANTAL_CHOICE_0000_OPTION_0000",
+            "en": "Yes.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A1PO.KANTAL_CHOICE_0000_OPTION_0001",
+            "en": "Maybe.",
+            "ru_native": "Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо."
+        },
+        {
+            "tag": "A1PO.KANTAL_CHOICE_0000_OPTION_0002",
+            "en": "No.",
+            "ru_native": "Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні."
+        },
+        {
+            "tag": "A1PO.KANTAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.KANTAL_CHOICE_0001_OPTION_0000",
+            "en": "You think this is related?",
+            "ru_native": "Думаешь, это как-то связано?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаєш, це пов’язано?"
+        },
+        {
+            "tag": "A1PO.KANTAL_CHOICE_0001_OPTION_0001",
+            "en": "No way.",
+            "ru_native": "Да ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нізащо."
+        },
+        {
+            "tag": "A1PO.KANTAL_CHOICE_0001_OPTION_0002",
+            "en": "This is because of them.",
+            "ru_native": "Это все из-за них.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все через них."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0000",
+            "en": "So this is gonna feel like a hard left turn, but hear me out.",
+            "ru_native": "Это прозвучит очень неожиданно, но послушай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У це буде важко повірити, але вислухай мене."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0001",
+            "en": "Okay, so. Ghosts. Do you uh…",
+            "ru_native": "Ладно, итак. Призраки. Ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, отже. Привиди. А ти…"
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0002",
+            "en": "No way to ask but to ask, do you believe in ghosts?",
+            "ru_native": "Спрошу прямо: ты веришь в призраков?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мушу запитати. Ти віриш у привидів?"
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0003",
+            "en": "I promise there’s a point.",
+            "ru_native": "Я не просто так спрашиваю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я клянуся, сенс у цьому є."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0004",
+            "en": "But do you?",
+            "ru_native": "Веришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти?"
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0005",
+            "en": "Totally. So. Back in 1943, a submarine went down right near Edwards Island.",
+            "ru_native": "Именно. Итак. В 1943 году прямо возле острова Эдвардса затонула подводная лодка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно. Отже. У 1943 році підводний човен затонув поблизу острова Едвардса."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0006",
+            "en": "I mean, fair, the evidence isn’t exactly in Casper’s favor, but…",
+            "ru_native": "Честно говоря, тут аргументы не в пользу Каспера, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Згоден, не дуже вагомий аргумент на користь існування привидів, та менше з тим…"
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0007",
+            "en": "Back in 1943, a submarine went down right near Edwards Island.",
+            "ru_native": "В 1943 году прямо возле острова Эдвардса затонула подводная лодка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У 1943 році підводний човен затонув поблизу острова Едвардса."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0008",
+            "en": "Let’s just say you do, because I’m telling you this story either way.",
+            "ru_native": "Ладно, будем считать, что веришь, потому что я все равно расскажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зробімо вигляд, що так, бо я все одно розповім тобі цю історію."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0009",
+            "en": "So. Back in 1943, a submarine went down right near Edwards Island.",
+            "ru_native": "Итак. В 1943 году прямо возле острова Эдвардса затонула подводная лодка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже в 1943 році підводний човен затонув поблизу острова Едвардса."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0010",
+            "en": "The USS Kanaloa. Some say it was friendly fire. Some say it was intentional.",
+            "ru_native": "«Каналоа». Одни считают это случайностью. Другие – что ее потопили специально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Судно ВМФ США «Каналоа». Дехто каже, то був дружній вогонь.<br>Дехто — потопили навмисно."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0011",
+            "en": "And a special some think the crew members of the USS Kanaloa… got lost on the way to the light, let’s say...",
+            "ru_native": "А кое-кто думает, что экипаж «Каналоа»... скажем так, потерялся по пути на тот свет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ще дехто вважає, що екіпаж «Каналоа»…<br>скажімо так, загубився дорогою на той світ…"
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0012",
+            "en": "...and have stuck around ever since.",
+            "ru_native": "...и застрял тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і відтоді перебуває тут."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0013",
+            "en": "And I admit, I’m one of them.",
+            "ru_native": "Признаюсь, я тоже один из них.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я визнаю, я один із них."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0014",
+            "en": "Uh—a believer I mean, not a...a ghost or—yeah.",
+            "ru_native": "В смысле, из тех, кто так считает... не из призраков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто вірю в це… а не привид."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0015",
+            "en": "I...think that story is something to know if you didn’t. And you didn’t.",
+            "ru_native": "Я... думаю, что эту историю стоит знать. А ты не знала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… гадаю, що цю історію слід знати. А ти не знаєш."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0016",
+            "en": "I know I know, and I’ve said the same to myself more than once.",
+            "ru_native": "Знаю-знаю, я сам себе это не раз говорил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, знаю. Я сам говорив собі це не раз."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0017",
+            "en": "But now...now does not feel like then.",
+            "ru_native": "Но сейчас... сейчас все по-другому.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але зараз… здається, це інше."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0018",
+            "en": "If it’s true is a big part of that equation.",
+            "ru_native": "Вот именно – если это правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це правда, то це велика частина цього рівняння."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0019",
+            "en": "I just think that story is something to know if you didn’t. And you didn’t.",
+            "ru_native": "Я просто думаю, что эту историю стоит знать. А ты не знала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лиш гадаю, що цю історію слід знати. А ти не знаєш."
+        },
+        {
+            "tag": "A1PO.KANTAL_JACOB_0020",
+            "en": "Let’s get to the summit.",
+            "ru_native": "Пошли на вершину.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піднімімося на вершину."
+        },
+        {
+            "tag": "A1PO.KANTAL_RILEY_0000",
+            "en": "Absolutely. Can’t say I’ve met any for coffee, but I believe there’s—ya know—more than we can see.",
+            "ru_native": "Разумеется. Сама я их не видела, но я верю, что мы видим не все. Ну, ты понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Безперечно. На каву ніхто не заходив. Але я вірю,<br>що існує таке, чого ми не можемо побачити."
+        },
+        {
+            "tag": "A1PO.KANTAL_RILEY_0001",
+            "en": "I mean, maybe?",
+            "ru_native": "То есть, наверное?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… може?"
+        },
+        {
+            "tag": "A1PO.KANTAL_RILEY_0002",
+            "en": "I dunno—we’ve all seen something out of the corner of our eyes we can’t explain, right?",
+            "ru_native": "Не знаю. Мы все иногда краем глаза замечаем то, что не можем объяснить, согласись?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну не знаю. Усі хоч раз бачили краєм ока таке, що неможна пояснити. Правда?"
+        },
+        {
+            "tag": "A1PO.KANTAL_RILEY_0003",
+            "en": "Not—really. No.",
+            "ru_native": "Пожалуй, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зовсім."
+        },
+        {
+            "tag": "A1PO.KANTAL_RILEY_0004",
+            "en": "You think this is that? Is—them?",
+            "ru_native": "Думаешь, это они?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти гадаєш, у цьому річ? Вони?"
+        },
+        {
+            "tag": "A1PO.KANTAL_RILEY_0005",
+            "en": "Dude, c’mon…",
+            "ru_native": "Да брось, чувак...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі…"
+        },
+        {
+            "tag": "A1PO.KANTAL_RILEY_0006",
+            "en": "I mean—then this is them, right? If it’s true.",
+            "ru_native": "Хочешь сказать, это они? Если это правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто тоді були вони, так? Якщо це правда."
+        }
+    ]
+}

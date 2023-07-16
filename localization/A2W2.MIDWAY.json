@@ -1,0 +1,141 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.MIDWAY",
+    "entries": [
+        {
+            "tag": "A2W2.MIDWAY_CHARLIE_0000",
+            "en": "[overexerted running]",
+            "ru_native": "[ID-0]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[звуки бігу]"
+        },
+        {
+            "tag": "A2W2.MIDWAY_CHARLIE_0001",
+            "en": "Crap crap crap.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дерьмовое дерьмовое дерьмо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.MIDWAY_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.MIDWAY_CHOICE_0000_OPTION_0000",
+            "en": "Stick together, Jacob!",
+            "ru_native": "Не убегай, Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не тікай, Джейкобе!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_CHOICE_0000_OPTION_0002",
+            "en": "Jacob, go get him!",
+            "ru_native": "Джейкоб, хватай его!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, дожени його!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_JACOB_0000",
+            "en": "Hey! Buddy!",
+            "ru_native": "Эй! Приятель!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Друже!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_JACOB_0001",
+            "en": "Did you see that guy?",
+            "ru_native": "Видишь того парня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бачиш того хлопця?"
+        },
+        {
+            "tag": "A2W2.MIDWAY_JACOB_0002",
+            "en": "Wait up!",
+            "ru_native": "Постой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_JACOB_0003",
+            "en": "He has something!",
+            "ru_native": "У него что-то есть!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нього щось є!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_JACOB_0004",
+            "en": "“Go get him?” What the—I’m trying!",
+            "ru_native": "В смысле «догоняй»? Я пытаюсь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Дожени його»? Що… Я намагаюся!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_JACOB_0005",
+            "en": "Hey! That’s Olivia’s friend. Charlie!",
+            "ru_native": "Эй! Смотри, это тот парень!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Це друг Олівії. Чарлі!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_JACOB_0006",
+            "en": "Hey! Someone’s here!",
+            "ru_native": "Эй! Есть тут кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Тут хтось є!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_RILEY_0000",
+            "en": "Jacob! Wait, let’s stick together!",
+            "ru_native": "Джейкоб, погоди, не убегай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Стривай, не тікай!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_RILEY_0001",
+            "en": "Hey! Uh, pal, can you stop—can you hold up?! Hey! What’s going on?!",
+            "ru_native": "Эй! Приятель, погоди... притормози! Эй! Что за дела!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Хлопче, стривай… Пригальмуй! Гей! Що відбувається?!"
+        },
+        {
+            "tag": "A2W2.MIDWAY_RILEY_0002",
+            "en": "Jacob, quick, go get him!",
+            "ru_native": "Джейкоб, быстрее, догоняй ей!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, швидше, дожени його!"
+        }
+    ]
+}

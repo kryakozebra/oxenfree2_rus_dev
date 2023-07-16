@@ -1,0 +1,402 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT02.PARAC1",
+    "entries": [
+        {
+            "tag": "WT02.PARAC1_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, I’m here.",
+            "ru_native": "Да, я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тут."
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0000_OPTION_0001",
+            "en": "I’m sort of busy right now.",
+            "ru_native": "Я немного занята.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я трохи зайнята."
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0001_OPTION_0000",
+            "en": "There are other portals.",
+            "ru_native": "Есть и другие порталы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є інші портали."
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0001_OPTION_0001",
+            "en": "Maybe the ghosts?",
+            "ru_native": "Может, призраки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, це привиди?"
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0001_OPTION_0002",
+            "en": "Haven’t seen that.",
+            "ru_native": "Не видела такого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не бачила нічого такого."
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0002_OPTION_0000",
+            "en": "Don’t, it’s not safe.",
+            "ru_native": "Не надо, это небезопасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не варто йти, це небезпечно."
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0002_OPTION_0001",
+            "en": "Keep a lookout for masked people.",
+            "ru_native": "Остерегайтесь людей в масках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стережися людей у масках."
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0002_OPTION_0002",
+            "en": "Watch for weirdness.",
+            "ru_native": "Остерегайтесь странностей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стережися різних дивацтв."
+        },
+        {
+            "tag": "WT02.PARAC1_CHOICE_0003_OPTION_0000",
+            "en": "Yeah, I’m here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, я здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тут."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0000",
+            "en": "Oh, hi—yeah, I’m here. Uh, over.",
+            "ru_native": "Ой, привет... да, я тут. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, привіт… так, я тут. Прийом."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0001",
+            "en": "Uh, sorry, Shelley, but I’m kind of busy at the moment. Over.",
+            "ru_native": "Простите, Шелли, но я сейчас немного занята. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Шеллі, але я зараз трохи зайнята. Прийом."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0002",
+            "en": "Uh, they could be talking about other, uh, portals?",
+            "ru_native": "Может, они говорили о других, хм, порталах?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може вони говорили про інші, типу, портали?"
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0003",
+            "en": "And when I say portal I mean literally a portal—it’s a triangle cut in the sky.",
+            "ru_native": "И когда я говорю «портал», я имею в виду портал – треугольник в небе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І коли я говорю «портал», я маю на увазі портал,<br>той що у вигляді трикутника в небі."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0004",
+            "en": "There’s, uh, more than one.",
+            "ru_native": "Тут их, хм, больше одного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут їх, типу, декілька."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0005",
+            "en": "Uh, they could be talking about the, uh, the ghosts? Or… beings. Or… whatever they are.",
+            "ru_native": "Может, они говорили про, хм, призраков? Или... существ. Или... кто они такие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, вони говорили про, типу, привидів? Або… істот. Або… хто вони там."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0006",
+            "en": "They emit a soft light. Maybe they’re seeing that? Over.",
+            "ru_native": "Они излучают слабый свет. Может, они это видят? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони випромінюють слабке світло. Може люди бачать це? Прийом."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0007",
+            "en": "Nope. No visual here. Over.",
+            "ru_native": "Нет. Не вижу такого. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Не бачу нічого такого. Прийом."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0008",
+            "en": "Shelley, honestly, I wouldn’t. It’s not exactly safe out here. I wish I wasn’t out here. Over.",
+            "ru_native": "Шелли, я бы на твоем месте никуда не выходила. Тут небезопасно. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі, я б на твоєму місці нікуди не ходила. Тут небезпечно. Прийом."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0009",
+            "en": "Mm, okay. Well… keep a lookout for any… creepy people in masks running around.",
+            "ru_native": "М-м, ладно. Просто... остерегайтесь... страшных людей в масках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "М-м, гаразд. Просто… стережися… дивних людей у масках."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0010",
+            "en": "They’re, uh, kind of the bad guys, here.",
+            "ru_native": "Они, типа, плохие ребята.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони, типу, поганці."
+        },
+        {
+            "tag": "WT02.PARAC1_RILEY_0011",
+            "en": "Mm, okay. Well… watch out for weirdness. There’s plenty to go around out here.",
+            "ru_native": "М-м, ладно. Что ж... остерегайтесь странностей. Тут их полно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "М-м, гаразд. Ну… Стережися різних дивацтв. Тут їх повно."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0000",
+            "en": "This will just take a second.",
+            "ru_native": "Это займет всего секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це лише на секунду."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0001",
+            "en": "I’ve been getting calls from local residents, uh, concerning… sightings, I guess.",
+            "ru_native": "Мне тут звонят местные жители, ну, насчет… наблюдений, я полагаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені тут дзвонять місцеві жителі, ну щодо… спостережень, здається."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0002",
+            "en": "People reporting seeing, uh, what I would assume is a sort of bioluminescence out in the storm.",
+            "ru_native": "Люди говорят, что видят, хм... я бы<br>предположила, что это биолюминесценция во время грозы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люди кажуть, що бачать, гм… я можу припустити,<br>що це біолюмінесценція під час грози."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0003",
+            "en": "They’re NOT talking about the situation above Edwards Island.",
+            "ru_native": "Они НЕ говорят о ситуации над островом Эдвардса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони НЕ говорять про ситуацію над островом Едвардса."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0004",
+            "en": "This is something else, but it’s hard to get a visual from my station, even with the binoculars.",
+            "ru_native": "Это что-то другое, но мне трудно рассмотреть из станции даже в бинокль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це щось інше, але мені важко розгледіти зі станції, навіть у бінокль."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0005",
+            "en": "Have you seen anything like… glowing objects?",
+            "ru_native": "Вы видели что-то похожее на... светящиеся объекты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти бачила щось схоже на… об’єкти, що світяться?"
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0006",
+            "en": "Of varied sizes.",
+            "ru_native": "Разного размера.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Різного розміру."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0007",
+            "en": "Maybe even someone with a glow-in-the-dark backpack?",
+            "ru_native": "Возможно, даже кого-то со светящимся в темноте рюкзаком?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, навіть когось із рюкзаком, що світиться в темряві?"
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0008",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0009",
+            "en": "[sigh] Yeah. Okay.",
+            "ru_native": "Да. Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Так. Добре."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0010",
+            "en": "[sigh] Yeah, I still think there’s a more logical explanation, here, but okay, if that’s what you think.",
+            "ru_native": "Думаю, этому есть более логичное объяснение, но если ты так думаешь, то ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, цьому є більш логічне пояснення, але якщо ти так думаєш, то гаразд."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0011",
+            "en": "Riley? Are you there? You might be breaking up a little, but…",
+            "ru_native": "Райли? Ты там? Наверное, ты сейчас занята, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там? Напевно, ти зараз зайнята, але…"
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0012",
+            "en": "I’m going to investigate, and it’ll take me probably half an hour. Just wanted you to know.",
+            "ru_native": "Я собираюсь пойти проверить. Это займет где-то полчаса. Просто предупреждаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я збираюся піти перевірити дещо. Тож мене не буде десь півгодини. Просто попереджаю."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0013",
+            "en": "You can still contact me.",
+            "ru_native": "Если что, все равно звони.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо щось потрібно, усе одно дай знати."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0014",
+            "en": "If you have any questions.",
+            "ru_native": "Если будут вопросы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо виникнуть питання."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0015",
+            "en": "But I’ll be away from the station for a while.",
+            "ru_native": "Но я ненадолго отлучусь со станции.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я ненадовго піду зі станції."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0016",
+            "en": "I’ll be fine, Riley, don’t worry about it. A quick check. It’s my job.",
+            "ru_native": "Все будет хорошо, Райли, не волнуйся. Я быстро. Это же моя работа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде добре, Райлі, не хвилюйся. Я швидко. Це ж моя робота."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0017",
+            "en": "Okay, good to know. I’ll see if I see anybody. .",
+            "ru_native": "Ладно, спасибо за предупреждение. Я посмотрю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, дякую за попередження. Я буду на сторожі."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0018",
+            "en": "I’ll check back in with you whether or not I see anything.",
+            "ru_native": "Я тебе передам, увижу я что-нибудь или нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повідомлю, якщо побачу щось незвичне."
+        },
+        {
+            "tag": "WT02.PARAC1_SHELLEY_0019",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        }
+    ]
+}

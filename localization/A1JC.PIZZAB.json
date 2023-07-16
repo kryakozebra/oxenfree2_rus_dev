@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1JC.PIZZAB",
+    "entries": [
+        {
+            "tag": "A1JC.PIZZAB_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.PIZZAB_CHOICE_0000_OPTION_0000",
+            "en": "Eats enough pizza...",
+            "ru_native": "Одна лишь пицца...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їсть піци вдосталь…"
+        },
+        {
+            "tag": "A1JC.PIZZAB_CHOICE_0000_OPTION_0001",
+            "en": "Gotta love pizza!",
+            "ru_native": "Пицца – это любовь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочу піцу!"
+        },
+        {
+            "tag": "A1JC.PIZZAB_RILEY_0000",
+            "en": "Dude, learn to boil rice, c’mon.",
+            "ru_native": "Чувак, сварить рис не так сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чуваче, навчися варити рис."
+        },
+        {
+            "tag": "A1JC.PIZZAB_RILEY_0001",
+            "en": "God, I could go for a pizza right now.",
+            "ru_native": "Я бы тоже не отказалась от пиццы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, не відмовилася б від піци зараз."
+        }
+    ]
+}

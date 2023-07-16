@@ -1,0 +1,204 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.HOTCOL",
+    "entries": [
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0000",
+            "en": "Warm.",
+            "ru_native": "Тепло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепло."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0001",
+            "en": "Warmer.",
+            "ru_native": "Теплее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепліше."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0002",
+            "en": "Even warmer.",
+            "ru_native": "Еще теплее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще тепліше."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0003",
+            "en": "Warmer still.",
+            "ru_native": "Тепло-тепло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепло-тепло."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0004",
+            "en": "Heating up.",
+            "ru_native": "Горячее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарячіше."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0005",
+            "en": "Temperature rising.",
+            "ru_native": "Температура растет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Температура зростає."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0006",
+            "en": "Hot.",
+            "ru_native": "Горячо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаряче."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0007",
+            "en": "Ooo, hot.",
+            "ru_native": "О-о-о, горячо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О-о-о, гаряче."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0008",
+            "en": "Fire!",
+            "ru_native": "Жарко!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спекотно!"
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0009",
+            "en": "Burning!",
+            "ru_native": "Горит!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Аж палає!"
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0010",
+            "en": "Less warm.",
+            "ru_native": "Холоднее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Холодніше."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0011",
+            "en": "Even less warm.",
+            "ru_native": "Еще холоднее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще холодніше."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0012",
+            "en": "Brrr, cool.",
+            "ru_native": "Бр-р-р, холодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бр-р-р, холодно."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0013",
+            "en": "Cool.",
+            "ru_native": "Прохладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прохолодно."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0014",
+            "en": "Cooler.",
+            "ru_native": "Прохладнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прохолодніше."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0015",
+            "en": "Cold.",
+            "ru_native": "Холодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Холодно."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0016",
+            "en": "Colder.",
+            "ru_native": "Холоднее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Холодніше."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0017",
+            "en": "Is it cold in here?",
+            "ru_native": "Тут холодно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут холодно?"
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0018",
+            "en": "Ice cold.",
+            "ru_native": "Ледышка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Морозно."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0019",
+            "en": "Frozen.",
+            "ru_native": "Холодина.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заморозки."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0020",
+            "en": "Iceberg.",
+            "ru_native": "Айсберг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Айсберг."
+        },
+        {
+            "tag": "A2W3.HOTCOL_VOICE_0021",
+            "en": "Solid ice.",
+            "ru_native": "Кусок льда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Суцільний лід."
+        }
+    ]
+}

@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2_TIMEL1",
+    "entries": [
+        {
+            "tag": "A2W2_TIMEL1_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_TIMEL1_CHOICE_0000_OPTION_0000",
+            "en": "You already said that.",
+            "ru_native": "Ты уже это говорил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти вже це говорив."
+        },
+        {
+            "tag": "A2W2_TIMEL1_CHOICE_0000_OPTION_0001",
+            "en": "Yeah, I know.",
+            "ru_native": "Да, я знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, знаю."
+        },
+        {
+            "tag": "A2W2_TIMEL1_JACOB_0000",
+            "en": "You, uh, you’re pretty good at this stuff. Right?",
+            "ru_native": "У тебя отлично получается. Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе немає із цим проблем, так?"
+        },
+        {
+            "tag": "A2W2_TIMEL1_JACOB_0001",
+            "en": "Did I say this already? Oh, sorry, deja vu.",
+            "ru_native": "А уже это говорил? Ой, прости, дежавю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба я це вже казав? Ой, вибач, дежавю."
+        },
+        {
+            "tag": "A2W2_TIMEL1_JACOB_0002",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2_TIMEL1_RILEY_0000",
+            "en": "You, uh, already said that. This is about my time in the… right?",
+            "ru_native": "Ты, хм, уже это говорил. Про мою службу в... верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти, гм, це вже казав. Про мою службу в… так?"
+        },
+        {
+            "tag": "A2W2_TIMEL1_RILEY_0001",
+            "en": "Yeah… uh… I know.",
+            "ru_native": "Да... хм... Я знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… гм… Я знаю."
+        }
+    ]
+}

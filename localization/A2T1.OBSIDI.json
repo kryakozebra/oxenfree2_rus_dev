@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.OBSIDI",
+    "entries": [
+        {
+            "tag": "A2T1.OBSIDI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.OBSIDI_CHOICE_0000_OPTION_0000",
+            "en": "There it is.",
+            "ru_native": "Вот ты где.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось."
+        },
+        {
+            "tag": "A2T1.OBSIDI_CHOICE_0000_OPTION_0001",
+            "en": "Weird rocks.",
+            "ru_native": "Странные камни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивне каміння."
+        },
+        {
+            "tag": "A2T1.OBSIDI_RILEY_0000",
+            "en": "Found ya.",
+            "ru_native": "Нашла!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайшла."
+        },
+        {
+            "tag": "A2T1.OBSIDI_RILEY_0001",
+            "en": "Huh. Weird rock collection, Jacob.",
+            "ru_native": "Странная коллекция, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивна колекція каміння, Джейкобе."
+        }
+    ]
+}

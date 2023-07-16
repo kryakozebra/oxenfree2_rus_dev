@@ -1,0 +1,681 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.CATJAC",
+    "entries": [
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0000_OPTION_0000",
+            "en": "Focus on the ghost.",
+            "ru_native": "Сосредоточься на призраке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередься на привиді."
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0000_OPTION_0001",
+            "en": "Yes, she did.",
+            "ru_native": "Да, хотела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0000_OPTION_0002",
+            "en": "You okay?",
+            "ru_native": "Как ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0001_OPTION_0000",
+            "en": "It’s some dead soldier.",
+            "ru_native": "Так звали погибшую женщину-солдата.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так звали вбиту солдатку."
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0001_OPTION_0001",
+            "en": "He hated my Mom.",
+            "ru_native": "Он ненавидел мою мать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він ненавидів мою маму."
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0001_OPTION_0002",
+            "en": "Done talking about this.",
+            "ru_native": "Хватит об этом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну все, досить."
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0002_OPTION_0000",
+            "en": "Plant transmitters, go home.",
+            "ru_native": "Ставим передатчики, идем домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розставити радіопередавачі, повернутися додому."
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0002_OPTION_0001",
+            "en": "Don’t think about it.",
+            "ru_native": "Выбрось из головы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думай про це."
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0002_OPTION_0002",
+            "en": "They won’t win.",
+            "ru_native": "Им не победить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їм не перемогти."
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0003_OPTION_0000",
+            "en": "They want our lives.",
+            "ru_native": "Им нужны наши жизни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони хочуть наші життя."
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0003_OPTION_0001",
+            "en": "They want time?",
+            "ru_native": "Им нужно время?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їм потрібен час?"
+        },
+        {
+            "tag": "A2W4.CATJAC_CHOICE_0003_OPTION_0002",
+            "en": "No idea.",
+            "ru_native": "Без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0000",
+            "en": "So… your, uh, nom wanted to name you Anna, huh.",
+            "ru_native": "Значит... мама хотела назвать тебя Анной? Ха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То… твоя, ем, мама хтіла назвати тебе Анна, значить."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0001",
+            "en": "Yeah. No problem.",
+            "ru_native": "Ага. Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без проблем."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0002",
+            "en": "Uh… okay. I think we’re alive. The kid’s breathing.",
+            "ru_native": "Да... все хорошо. Кажется, мы живы. Ребенок дышит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… нормально. Думаю, ми живі. І малий дихає."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0003",
+            "en": "Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0004",
+            "en": "So when you said that your mom thinks you’re great… actually, sorry—this is none of my business.",
+            "ru_native": "Выходит, когда ты сказала, что твоя мама считает<br>тебя классной, ты... прости, это не мое дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож коли ти казала, що твоя мама тобою пишається… Вибач… Це не мої справи."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0005",
+            "en": "But what’s, uh, Riley from? Or—do you know why your dad named you that?",
+            "ru_native": "Но почему Райли? Ты знаешь, почему отец тебя так назвал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але чому все-таки Райлі? Ти знаєш, чому батько тебе так назвав?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0006",
+            "en": "Yeah, you said that your mom left when you were young.",
+            "ru_native": "Да, ты же сказала, что твоя мама ушла, когда ты была меленькой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ти казала, що твоя мама пішла, коли ти була маленька."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0007",
+            "en": "I know you don’t talk to your dad much these days, but do you know why he called you Riley?",
+            "ru_native": "Я знаю, ты сейчас не общаешься с отцом, но не знаешь, почему он назвал тебя Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ви з батьком останнім часом майже не розмовляєте, але…<br>Ти знаєш, чому тебе назвали Райлі?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0008",
+            "en": "And your dad called you Riley. You know why?",
+            "ru_native": "А отец назвал тебя Райли. Знаешь почему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А твій батько назвав тебе Райлі. Ти знаєш, чому?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0009",
+            "en": "Yeah, sorry, anyways—",
+            "ru_native": "Да, прости, какая разница...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вибач, ну його…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0010",
+            "en": "Sorry, anyways—",
+            "ru_native": "Да, прости...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0011",
+            "en": "It’s really… I’m sad Maggie’s not here to see this. I can’t help it thinking about her.",
+            "ru_native": "Просто... Жаль, что Мэгги этого не видит. Не могу перестать о ней думать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так шкода… що Меггі зараз не з нами. Я постійно думаю про неї."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0012",
+            "en": "She was right—she was right—she was… she was right. But, uh…",
+            "ru_native": "Она была права... она была права... она была... права. Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона мала рацію… Вона мала рацію… Вона мала… рацію. Але…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0013",
+            "en": "What, uh—just curious as to… what your opinion is on the topic of ghosts… stealing our future?",
+            "ru_native": "Что... просто любопытно, что ты думаешь о призраках... крадущих наше будущее?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені просто цікаво… Що ти думаєш про привидів… що крадуть наше майбутнє?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0014",
+            "en": "Uh, sorry,but the, uh, t-the ghosts… stealing our future thing sounds a little… um…",
+            "ru_native": "Но, прости, призраки... крадущие наше будущее, звучит немного... м-м-м...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, вибач, привиди… що крадуть наше майбутнє… звучить трохи… ем…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0015",
+            "en": "How do you, uh, wanna handle that?",
+            "ru_native": "Как ты думаешь справиться с этим?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти, ну, збираєшся робити із цим?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0016",
+            "en": "Any uh… any thoughts?",
+            "ru_native": "Есть... идеи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є якісь… думки з цього приводу?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0017",
+            "en": "Frightening, I guess is the word I’m looking for, here.",
+            "ru_native": "«Пугающе», пожалуй, это подходящее слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Страх, єдине що лізе в голову."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0018",
+            "en": "Any, uh, thoughts?",
+            "ru_native": "Есть какие-то идеи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є якісь, ну, варіанти?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0019",
+            "en": "Roger.",
+            "ru_native": "Есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийнято."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0020",
+            "en": "No? No thoughts? Okay. Me, too. Just checking.",
+            "ru_native": "Нет идей? Ладно. И у меня нет. Просто спросил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні? Без варіантів? Гаразд. Я теж. Просто перевіряв."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0021",
+            "en": "Okay…",
+            "ru_native": "Ладно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0022",
+            "en": "Let’s stick that transmitter in the ground and keep moving.",
+            "ru_native": "Воткнем этот передатчик в землю и пойдем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай встромимо цей передавач у землю й підемо далі."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0023",
+            "en": "God… our future is… <i>its</i> future?",
+            "ru_native": "Боже... наше будущее... это будущее?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи… наше майбутнє це… <i>їхнє</i> майбутнє?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0024",
+            "en": "What the hell does that even mean?",
+            "ru_native": "Какого черта это вообще значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що, у біса, це взагалі значить?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0025",
+            "en": "I mean…",
+            "ru_native": "То есть...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0026",
+            "en": "It doesn’t sound like a fair trade… to be frank.",
+            "ru_native": "Не похоже на честную сделку... откровенно говоря.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відверто кажучи… звучить якось не чесно."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0027",
+            "en": "And I don’t even know what my future is.",
+            "ru_native": "А я даже не знаю, какое у меня будущее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я навіть не знаю, яке те моє майбутнє."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0028",
+            "en": "And what does Parentage have to do with any of this?",
+            "ru_native": "И причем тут «Наследие»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І як до цього причетний Парентаж?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0029",
+            "en": "What could they be trying to accomplish here…?",
+            "ru_native": "Чего они могли тут добиваться...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого вони добиваються…?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0030",
+            "en": "And… was it telling the truth?",
+            "ru_native": "И... была ли это правда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаєш… воно казало правду?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0031",
+            "en": "Your mom met your dad… while they both served?",
+            "ru_native": "Твои родители познакомились... на службе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твої батьки зустрілися… на службі?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0032",
+            "en": "But, uh, you said you think they want to steal our lives?",
+            "ru_native": "Но, эм, ты сказала, что думаешь, что им нужны наши жизни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сказала… вони хочуть вкрасти наші життя?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0033",
+            "en": "But, uh, you think they want to steal our time? Or they want more time?",
+            "ru_native": "Но, эм, ты думаешь, им нужны наши жизни? Или больше времени?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти думаєш… вони хочуть вкрасти наш час? Чи їм потрібно більше часу?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0034",
+            "en": "But, uh, I-I know you don’t know what… it was saying, but…",
+            "ru_native": "Но, эм, знаю, ты не понимаешь, что... это значило, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ти не розумієш, що… воно нам казало, але…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0035",
+            "en": "I’m sorry—but back to the, uh, the stealing our future stuff…",
+            "ru_native": "Прости. Вернемся к краже нашего будущего...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач… але повертаючись до, ем, викрадення нашого майбутнього…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0036",
+            "en": "I mean… should we be doing, like, anything about that?",
+            "ru_native": "Я к тому... нам надо что-то с этим делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу… Чи маємо ми щось із тим зробити?"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0037",
+            "en": "Yeah, you said that your Mom left when you were young.",
+            "ru_native": "Да, ты говорила, что твоя мама ушла, когда ты была маленькой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ти казала, що твоя мама пішла, коли ти була маленька."
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0038",
+            "en": "Yeah... I know you don’t talk to your Dad much these days...",
+            "ru_native": "Да... Я знаю, вы с отцом сейчас почти не общаетесь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ви з батьком останнім часом майже не розмовляєте, але…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0039",
+            "en": "Was it right? Or…",
+            "ru_native": "Та к и было? Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це правда? Чи…"
+        },
+        {
+            "tag": "A2W4.CATJAC_JACOB_0040",
+            "en": "Just lying.",
+            "ru_native": "Это ложь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, брехня."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0000",
+            "en": "Just…focus on the stuff that’s happening now, Jacob.",
+            "ru_native": "Просто... сосредоточься на том, что происходит сейчас, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… Зосередьмося на поточних справах, Джейкобе."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0001",
+            "en": "Uh, how are you holding up?",
+            "ru_native": "Как ты, держишься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти тримаєшся?"
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0002",
+            "en": "Uh, yeah. Or at least my dad says. I never met her, so… I don’t know.",
+            "ru_native": "Да. По крайней мере, так говорит отец. Я ее никогда не видела, так что... Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, так каже мій батько. Я її ніколи не бачила, тож… Я не знаю."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0003",
+            "en": "It’s just, uh, some dead soldier. A historical thing I never looked up. And won’t.",
+            "ru_native": "Так звали какую-то погибшую женщину-солдата.<br>Историческая фигня, я не вникала. И не хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На честь, ем, якоїсь загиблої солдатки.<br>Щось з історії, у яку я ніколи не вдавалась. І не збираюсь."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0004",
+            "en": "But… anyways—",
+            "ru_native": "Но... все равно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… А, ну його…"
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0005",
+            "en": "He hated my mom, Jacob, that’s the only—that’s it. He just didn’t want to give her anything.",
+            "ru_native": "Он ненавидел мою мать, Джейкоб, вот и все. Просто не хотел ни в чем ей уступать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він ненавидів мою маму, Джейкобе, ось і… усе. Він їй нічого не хотів залишити."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0006",
+            "en": "She left him holding the bag. I was the bag. So he named me Riley.",
+            "ru_native": "Она оставила его с багажом. Багажом была я. Вот он и назвал меня «Райли».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А вона залишила йому ношу. Цією ношею була я. І він назвав мене Райлі."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0007",
+            "en": "Yeah, I’m-I'm done talking about this. A fifty foot ghost just threatened us with AM radio.",
+            "ru_native": "Ладно, хватит об этом. Нам только что угрожал приемником пятнадцатиметровый призрак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну все, з мене досить цього. Нам тільки що<br>погрожував п’ятнадцятиметровий привид з радіо."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0008",
+            "en": "Nothing’s changed, Jacob. It’s the same as it’s been.",
+            "ru_native": "Ничего не изменилось, Джейкоб. Все так же, как было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого не змінилося, Джейкобе. Усе залишилось, як і було."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0009",
+            "en": "We plant the transmitters, we stop those kids, we stop the ghosts, we go home and have a shower.",
+            "ru_native": "Мы ставим передатчики, останавливаем этих детей,<br>останавливаем призраков, идем домой и принимаем душ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми розміщуємо радіопередавачі, зупиняємо тих дітей, гальмуємо привидів,<br>розходимося по домівках і йдемо в душ."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0010",
+            "en": "I wouldn’t think about it. It’s not important, since we already know what to do to stop it. Okay?",
+            "ru_native": "Я бы об этом не думала. Это неважно, ведь мы уже знаем, как это остановить. Хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думай про це. Це не важливо, оскільки ми вже знаємо, як усе зупинити. Гаразд?"
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0011",
+            "en": "Don’t worry, Jacob. They won’t win. These <i>kids</i> won’t win, whatever they’re trying to do.",
+            "ru_native": "Не бойся, Джейкоб. Они не победят. Эти дети не победят, что бы они ни делали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, Джейкобе. Ці <i>діти</i> не переможуть, як би вони не хотіли."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0012",
+            "en": "And those… things won’t either. Okay?",
+            "ru_native": "И эти... штуки тоже. Хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ті… штуки теж. Зрозуміло?"
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0013",
+            "en": "They want… our lives? I think? I don’t—I don’t know.",
+            "ru_native": "Им нужны... наши жизни? Ведь так? Я не... я не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їм потрібні… наші життя? Може? Не знаю… Я не знаю."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0014",
+            "en": "They want… time? More time? I don’t—I don’t know.",
+            "ru_native": "Им нужно... время? Больше времени? Я не... я не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їм потрібен… час? Більше часу? Не знаю… Я не знаю."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0015",
+            "en": "I have absolutely no idea, Jacob. It’s… it doesn’t sound very appealing, though.",
+            "ru_native": "Я вообще без понятия, Джейкоб. Но... звучит это не очень радужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю, Джейкобе. Але звучить не надто привабливо."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0016",
+            "en": "Parentage won’t win.",
+            "ru_native": "«Наследие» не победит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Парентаж не переможе."
+        },
+        {
+            "tag": "A2W4.CATJAC_RILEY_0017",
+            "en": "Uh, yeah. Or at least my Dad says.",
+            "ru_native": "Ну да. По крайней мере, отец так говорит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, ну так. Принаймні, так каже батько."
+        }
+    ]
+}

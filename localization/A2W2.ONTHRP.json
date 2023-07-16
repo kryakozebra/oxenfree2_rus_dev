@@ -1,0 +1,96 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.ONTHRP",
+    "entries": [
+        {
+            "tag": "A2W2.ONTHRP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.ONTHRP_CHOICE_0000_OPTION_0000",
+            "en": "Doing okay?",
+            "ru_native": "Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A2W2.ONTHRP_CHOICE_0000_OPTION_0001",
+            "en": "Out of shape?",
+            "ru_native": "Не в форме?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не у формі?"
+        },
+        {
+            "tag": "A2W2.ONTHRP_JACOB_0000",
+            "en": "[sounds of exertion]",
+            "ru_native": "[ID-0]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[звуки втоми]"
+        },
+        {
+            "tag": "A2W2.ONTHRP_JACOB_0001",
+            "en": "[more awkward noises]",
+            "ru_native": "[ID-1]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[більше дивних звуків]"
+        },
+        {
+            "tag": "A2W2.ONTHRP_JACOB_0002",
+            "en": "You kidding? This is my… happy place…",
+            "ru_native": "Смеешься? Это мое... счастливое место...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знущаєшся? Це ж… моє щасливе місце…"
+        },
+        {
+            "tag": "A2W2.ONTHRP_RILEY_0000",
+            "en": "Hey, you doing okay?",
+            "ru_native": "Эй, ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A2W2.ONTHRP_RILEY_0001",
+            "en": "[laughs a little]",
+            "ru_native": "[ID-4]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[стримано сміється]"
+        },
+        {
+            "tag": "A2W2.ONTHRP_RILEY_0002",
+            "en": "First time back at the gym in a while?",
+            "ru_native": "Давно не тренировался?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давно не тренувався?"
+        },
+        {
+            "tag": "A2W2.ONTHRP_RILEY_0003",
+            "en": "[laughs a little]",
+            "ru_native": "[ID-7]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[стримано сміється]"
+        }
+    ]
+}

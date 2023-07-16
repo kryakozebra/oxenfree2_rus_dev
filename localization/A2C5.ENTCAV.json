@@ -1,0 +1,105 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C5.ENTCAV",
+    "entries": [
+        {
+            "tag": "A2C5.ENTCAV_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.ENTCAV_CHOICE_0000_OPTION_0000",
+            "en": "“Should?”",
+            "ru_native": "«Должна»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«А повинні?»"
+        },
+        {
+            "tag": "A2C5.ENTCAV_CHOICE_0000_OPTION_0001",
+            "en": "It better.",
+            "ru_native": "Надеюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так краще."
+        },
+        {
+            "tag": "A2C5.ENTCAV_JACOB_0000",
+            "en": "Okay. [breathes] See that ladder? That should take us up and out.",
+            "ru_native": "Видишь лестницу? Она должна вести на поверхность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.ENTCAV_JACOB_0001",
+            "en": "So. Getting close!",
+            "ru_native": "Мы все ближе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, наближаємося!"
+        },
+        {
+            "tag": "A2C5.ENTCAV_JACOB_0002",
+            "en": "Thank God.",
+            "ru_native": "Слава богу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякувати Богу."
+        },
+        {
+            "tag": "A2C5.ENTCAV_JACOB_0003",
+            "en": "Will. The light’s a good indication.",
+            "ru_native": "Точно. Свет тому подтверждение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.ENTCAV_JACOB_0004",
+            "en": "Just a little bit further.",
+            "ru_native": "Немного осталось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще трохи."
+        },
+        {
+            "tag": "A2C5.ENTCAV_RILEY_0000",
+            "en": "Uh, “should” take us up and out? Or will?",
+            "ru_native": "«Должна» вести? Или точно ведет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.ENTCAV_RILEY_0001",
+            "en": "It better.",
+            "ru_native": "Надеюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.ENTCAV_RILEY_0002",
+            "en": "This cave has been… pleasantly empty of bats but can’t say it’s been my favorite time.",
+            "ru_native": "Отсутствие летучих мышей меня радует, но задерживаться не хотелось бы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

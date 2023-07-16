@@ -1,0 +1,744 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.LATERC",
+    "entries": [
+        {
+            "tag": "GLOB.LATERC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0000_OPTION_0000",
+            "en": "Sure.",
+            "ru_native": "Давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0000_OPTION_0001",
+            "en": "Ask me the smartest question.",
+            "ru_native": "Задай самый умный вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Постав мені найрозумніше запитання."
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0000_OPTION_0002",
+            "en": "No.",
+            "ru_native": "Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні."
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0001_OPTION_0000",
+            "en": "Sounds great.",
+            "ru_native": "Звучит здорово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить чудово."
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0001_OPTION_0001",
+            "en": "Yes, but that’s not a dumb question.",
+            "ru_native": "Да, но это не тупой вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але це — не дурне запитання."
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0001_OPTION_0002",
+            "en": "You don’t want to be my friend.",
+            "ru_native": "Ты не захочешь быть моим другом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не хочеш бути моїм другом."
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0002_OPTION_0000",
+            "en": "Uh...friendship?",
+            "ru_native": "Эм... Дружба?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… дружба?"
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0002_OPTION_0001",
+            "en": "We’re 3AM food friends.",
+            "ru_native": "Друзья по жору в три ночи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми — друзі опівнічного перекусу."
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0002_OPTION_0002",
+            "en": "Jiley? Racob?",
+            "ru_native": "Джайли? Рейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джайлі? Рейкоб?"
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0003_OPTION_0000",
+            "en": "Jiley.",
+            "ru_native": "Джайли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джайлі."
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0003_OPTION_0001",
+            "en": "Racob.",
+            "ru_native": "Рейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рейкоб."
+        },
+        {
+            "tag": "GLOB.LATERC_CHOICE_0003_OPTION_0002",
+            "en": "Friendship revoked?",
+            "ru_native": "Дружба отменится?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дружбу відкликано?"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0000",
+            "en": "So. Can I ask you the dumbest question in the world?",
+            "ru_native": "Итак. Можно задать тебе самый тупой вопрос в мире?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож я можу поставити тобі найдурніше запитання у світі?"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0001",
+            "en": "And I mean the dumbest. Dumb. Embarrassing. Throw a sad rock.",
+            "ru_native": "Он правда тупой. Даже стыдно. Можешь кинуть камнем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто найдурніше. Дурне. Ніякове."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0002",
+            "en": "Any interest?",
+            "ru_native": "Интересно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво?"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0003",
+            "en": "Going once, going twice…",
+            "ru_native": "Два, один на веревочке...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Один раз, двічі…"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0004",
+            "en": "‘Cause it’s dumb! It’s the dumbest! But I’m still asking.",
+            "ru_native": "Потому что он тупой! Самый тупой! Но я спрошу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що це дурне! Найдурніше! Але все-таки спитаю."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0005",
+            "en": "Whoa, reverse psychology!",
+            "ru_native": "Реверсивная психология.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, психологія навиворіт!"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0006",
+            "en": "Lucky for me, I’m way too stupid for that to work.",
+            "ru_native": "К счастью для меня, я слишком глуп для такого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На щастя для мене, я надто дурний, щоби це спрацювало."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0007",
+            "en": "Dumbest question time!",
+            "ru_native": "Итак, самый тупой вопрос!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час найтупіших запитань!"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0008",
+            "en": "Wow. Okay.",
+            "ru_native": "Ого, ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого. Добре."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0009",
+            "en": "But hey, customer is always right.",
+            "ru_native": "Что ж, клиент всегда прав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ж покупець завжди правий."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0010",
+            "en": "Sold! Meaning uh… meaning I’m just gonna go ahead and ask.",
+            "ru_native": "Продано! То есть... Я тогда возьму и спрошу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продано! Тобто… тобто я зараз наберуся сміливості й запитаю."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0011",
+            "en": "Do you uh… wanna be friends? After this?",
+            "ru_native": "Хочешь... быть друзьями? После сегодня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… хочеш бути друзями? Після цього?"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0012",
+            "en": "And like—just friends. Legit. No prefixes.",
+            "ru_native": "Просто друзьями, без всякого там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто лише друзями. Справжніми. Без префіксів."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0013",
+            "en": "And not even like—best friends. More like…",
+            "ru_native": "Даже не лучшими друзьями. Скорее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І навіть не кращими друзями. Скоріше…"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0014",
+            "en": "“It’s three AM, I need a cheeseburger and a cherry danish, who would join me on this quest?”",
+            "ru_native": "«Сейчас три часа ночи, а я хочу чизбургер и вишневый пирог, кого бы позвать в поход?»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Зараз третя година ночі. Мені потрібен чизбургер<br>і данська булочка з вишнею. Хто зі мною?»"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0015",
+            "en": "“What dingus is also awake at this hour?\"",
+            "ru_native": "«Какой придурок тоже не спит в это время?»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Який ідіот також не спить о цій годині?»"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0016",
+            "en": "“Wait! I know just the dingus.” That kind of friend.",
+            "ru_native": "«Постой! Знаю одного». Такой тип друзей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Чекай! Мені відомий як раз такий ідіот». Такий друг."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0017",
+            "en": "How’s that sound?",
+            "ru_native": "Как тебе идея?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як тобі таке?"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0018",
+            "en": "You in?",
+            "ru_native": "Согласна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти за?"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0019",
+            "en": "For the—friendship, I mean.",
+            "ru_native": "На дружбу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю на увазі, за дружбу."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0020",
+            "en": "Burger and danish, too, I guess.",
+            "ru_native": "И на бургер с пирогом тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, мені також бургер і булочку."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0021",
+            "en": "Great news! So go ahead and shelve me in the “I need help moving” tier…",
+            "ru_native": "Кайф! Впиши меня в строку «Когда понадобится двигать мебель».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудова новина! Отож прямуй уперед і перемісти мене<br>на рівень «мені потрібна допомога з переїздом»…"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0022",
+            "en": "But probably keep me below the “I need a kidney” level.",
+            "ru_native": "Главное пониже строки «Когда понадобится почка».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але не вище рівня «мені потрібні нирки»."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0023",
+            "en": "[self-mocking] Do you wanna be my friend? What am I, nine?!",
+            "ru_native": "«Хочешь со мной дружить?» Мне что, девять лет?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Сміється із себе] Хочеш бути моїм другом? Мені що, дев’ять років?!"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0024",
+            "en": "I’m happy with your answer, but still, it’s a dumb question!",
+            "ru_native": "Я рад твоему ответу, но это все равно тупой вопрос!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене задовольняє твоя відповідь. А все-таки це дурне запитання!"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0025",
+            "en": "But I’m still happy.",
+            "ru_native": "Но я все равно рад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я таки задоволений."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0026",
+            "en": "Yes, Riley, I really do wanna be your friend. I know your self-esteem is saying otherwise. Loudly.",
+            "ru_native": "Нет, Райли, я очень хочу быть твоим другом.<br>Знаю, твоя самооценка говорит обратное, и громко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Райлі, насправді я хочу бути твоїм другом.<br>Я знаю, що твоя гордість говорить інакше. Вголос."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0027",
+            "en": "But, okay, I get it, and okay, I’ll drop it.",
+            "ru_native": "Но ладно, я понимаю. Закроем тему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але гаразд, я розумію, і все добре. Я облишу це."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0028",
+            "en": "Your loss though, I know a place that does a terrible cheeseburger at 3AM.",
+            "ru_native": "Ну и зря. Я знаю местечко, где в три ночи подают убойные чизбургеры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя невдача. Мені відоме місце, у якому готують жахливі чизбургери о третій ночі."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0029",
+            "en": "Ah, yes, literally the worst answer to that question. But, hey, loud and clear.",
+            "ru_native": "М-да, буквально худший ответ из существующих. Зато все сразу понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О так, буквально найгірша відповідь на таке запитання. Але чітка й розбірлива."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0030",
+            "en": "So we are officially friends without prefixes.",
+            "ru_native": "Значит, мы теперь официально друзья.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож ми офіційно друзі без префіксів."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0031",
+            "en": "What do we call this new friendship?",
+            "ru_native": "Как назовем нашу дружбу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як назвемо цю нову дружбу?"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0032",
+            "en": "It needs a title.",
+            "ru_native": "Ей нужно название.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їй потрібна назва."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0033",
+            "en": "For uh… ya know. The record?",
+            "ru_native": "Для... этого. Протокола?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… для офіційного протоколу."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0034",
+            "en": "Untitled, okay. Worked for Rothko, works for Summers/Poverly.",
+            "ru_native": "Без названия. Как картина Ротко. Раз ему можно, то и нам можно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без назви, ясно. Спрацювало для Ротко, спрацює і для Саммерса — Поверлі."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0035",
+            "en": "Hell yeah. 3AM food friends. Yes. Thing made.",
+            "ru_native": "Огонь! Друзья по жору в три ночи. Отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж. Друзі опівнічного перекусу. Так. Готово."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0036",
+            "en": "Okay, it doesn’t need a title. Fine.",
+            "ru_native": "Ладно, не нужно ей название. Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, назва їй непотрібна. Добре."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0037",
+            "en": "Those are both terrible.",
+            "ru_native": "Оба варианты ужасны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обидва варіанти звучать жахливо."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0038",
+            "en": "But you still have to pick one.",
+            "ru_native": "Но все равно выбери один.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але треба обрати один."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0039",
+            "en": "Name our new friendship.",
+            "ru_native": "Назови нашу дружбу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Назвімо нашу нову дружбу."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0040",
+            "en": "Cast the die!",
+            "ru_native": "Верши судьбу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кидай жереб!"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0041",
+            "en": "That makes it even worse!",
+            "ru_native": "Оно стало еще ужаснее!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так навіть іще гірше!"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0042",
+            "en": "And even more perfect.",
+            "ru_native": "А значит еще идеальнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І навіть більш ідеально."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0043",
+            "en": "I hate it, too!",
+            "ru_native": "Я тоже так считаю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я також ненавиджу її!"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0044",
+            "en": "Which means it’s perfect.",
+            "ru_native": "Значит, оно идеально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це означає, що вона ідеальна."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0045",
+            "en": "More like—on probation.",
+            "ru_native": "Она... на испытательном сроке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоріше, до неї застосовано випробувальний термін."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0046",
+            "en": "To be revisited in six months. So keep it on the mental backburner.",
+            "ru_native": "Полгода, и вернемся к обсуждению. Так что отметь в календаре.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоби перевірити повторно за шість місяців. Тож тримай це в пам’яті."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0047",
+            "en": "Fine, Racob it is. I hate it and it’s awful and I hate it.",
+            "ru_native": "Хорошо, значит Рейкоб. Звучит достаточно ужасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, хай буде Рейкоб. Ненавиджу цю назву, вона жахлива."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0048",
+            "en": "Alright, well, let’s survive the night…",
+            "ru_native": "Что ж, предлагаю пережить эту ночь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, спробуймо пережити цю ніч…"
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0049",
+            "en": "And maybe someday we can get drunk playing minigolf.",
+            "ru_native": "И когда-нибудь сможем напиться, играя в минигольф.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І може одного дня влаштуємо п’яні ігри в мінігольф."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0050",
+            "en": "So… nevermind. No hard feelings, etcetera.",
+            "ru_native": "Так что... Проехали. Без обид и прочего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… не зважай. Жодних образ тощо."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0051",
+            "en": "And I really mean that, by the way. All is good.",
+            "ru_native": "Я сейчас серьезно. Все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я справді маю це на увазі. Усе добре."
+        },
+        {
+            "tag": "GLOB.LATERC_JACOB_0052",
+            "en": "Anyway, lay on, Macduff.",
+            "ru_native": "Ладно. Смелей, Макдуф!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як, «Веди, Макдуф»."
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0000",
+            "en": "Yeah, sure, why not.",
+            "ru_native": "Да, почему нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звісно, чому б ні."
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0001",
+            "en": "How about you ask me the smartest question in the world?",
+            "ru_native": "Лучше задай мне самый умный вопрос в мире.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не хочеш поставити мені найрозумніше запитання у світі?"
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0002",
+            "en": "Nope.",
+            "ru_native": "Не-а.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ні."
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0003",
+            "en": "[happy sigh] Yeah, Jacob. Consider it done.",
+            "ru_native": "Да, Джейкоб! По рукам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Задоволено зітхає] Так, Джейкобе. Вважай, що так."
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0004",
+            "en": "Yeah, I’m in, but dude that is not the dumbest question!",
+            "ru_native": "Да, я за! Чувак, это не самый тупой вопрос!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я за. Але друже, це — не найдурніше запитання!"
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0005",
+            "en": "You really don’t want—",
+            "ru_native": "Слушай, ты не захочешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді ти не хочеш…"
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0006",
+            "en": "I… think you call it—ya know—friendship.",
+            "ru_native": "Думаю, она называется просто дружбой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, її назва — дружба."
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0007",
+            "en": "You already named it perfectly. We are 3AM food friends. That’s like—a thing.",
+            "ru_native": "Ты уже дал идеальное название. Друзья по жору в три ночи. Классная тема.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти вже вигадав їй ідеальну назву.<br>Нас поєднала опівнічна харчова дружба. Це вже щось."
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0008",
+            "en": "Or rather, we’re making it a thing. Right now.",
+            "ru_native": "Вводим новые тренды. С этой минуты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи ми робимо з неї щось. Прямо зараз."
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0009",
+            "en": "Uh—what would a crappy magazine call us? Jiley? Racob?",
+            "ru_native": "Как бы нас назвал дешевый журнальчик? Джайли? Рейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як нас назвали в дешевому журналі? Джайлі? Рейкоб?"
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0010",
+            "en": "Fine. Jiley. It sounds—I dunno—like an Irish folk dance.",
+            "ru_native": "Ладно. Джайли. Звучит как... ирландский народный танец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Джайлі. Схоже на ірландський народний танок."
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0011",
+            "en": "Racob, fine, whatever, I hate it.",
+            "ru_native": "Рейкоб, без разницы. Звучит ужасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рейкоб, гаразд, байдуже. Ненавиджу її."
+        },
+        {
+            "tag": "GLOB.LATERC_RILEY_0012",
+            "en": "If we don’t come up with a name does that mean our friendship is cancelled?",
+            "ru_native": "Если не придумаем название, наша дружба отменяется?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ми не вигадаємо назву, чи означатиме, що нашу дружбу скасовано?"
+        }
+    ]
+}

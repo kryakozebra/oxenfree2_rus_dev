@@ -1,0 +1,195 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S7.JACTRU",
+    "entries": [
+        {
+            "tag": "A1S7.JACTRU_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACTRU_CHOICE_0000_OPTION_0000",
+            "en": "You scared me!",
+            "ru_native": "Ты меня напугал!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти налякав мене!"
+        },
+        {
+            "tag": "A1S7.JACTRU_CHOICE_0000_OPTION_0001",
+            "en": "Didn’t you hear me?",
+            "ru_native": "Ты меня не слышал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене не чув?"
+        },
+        {
+            "tag": "A1S7.JACTRU_CHOICE_0000_OPTION_0002",
+            "en": "What are you doing?",
+            "ru_native": "Что ты делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти робиш?"
+        },
+        {
+            "tag": "A1S7.JACTRU_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACTRU_CHOICE_0001_OPTION_0000",
+            "en": "You scared me!",
+            "ru_native": "Ты меня напугал!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти налякав мене!"
+        },
+        {
+            "tag": "A1S7.JACTRU_CHOICE_0001_OPTION_0001",
+            "en": "Didn’t you see me?",
+            "ru_native": "Ты меня не видел?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене не бачив?"
+        },
+        {
+            "tag": "A1S7.JACTRU_CHOICE_0001_OPTION_0002",
+            "en": "What are you doing?",
+            "ru_native": "Что ты делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти робиш?"
+        },
+        {
+            "tag": "A1S7.JACTRU_JACOB_0000",
+            "en": "Hey! Jesus!",
+            "ru_native": "О господи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Господи!"
+        },
+        {
+            "tag": "A1S7.JACTRU_JACOB_0001",
+            "en": "Good lord, that—I’m sorry, you scared me.",
+            "ru_native": "Господи... Извини, ты меня напугала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи… Вибач, ти налякала мене."
+        },
+        {
+            "tag": "A1S7.JACTRU_JACOB_0002",
+            "en": "Phew.",
+            "ru_native": "Фух.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фух."
+        },
+        {
+            "tag": "A1S7.JACTRU_JACOB_0003",
+            "en": "Gotta give my heart a second.",
+            "ru_native": "Сердце чуть не выпрыгнуло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серце мало не вистрибнуло."
+        },
+        {
+            "tag": "A1S7.JACTRU_JACOB_0004",
+            "en": "Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "A1S7.JACTRU_JACOB_0005",
+            "en": "Sorry? No, I—I didn’t.",
+            "ru_native": "Прости, нет... не слышал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач? Ні… не чув."
+        },
+        {
+            "tag": "A1S7.JACTRU_JACOB_0006",
+            "en": "[sigh] Good to see you.",
+            "ru_native": "Рада тебя видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радий тебе бачити."
+        },
+        {
+            "tag": "A1S7.JACTRU_JACOB_0007",
+            "en": "[sigh] Good to see you.",
+            "ru_native": "Рада тебя видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радий тебе бачити."
+        },
+        {
+            "tag": "A1S7.JACTRU_RILEY_0000",
+            "en": "Ah! Christ!",
+            "ru_native": "О боже!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тьху! Господи!"
+        },
+        {
+            "tag": "A1S7.JACTRU_RILEY_0001",
+            "en": "<i>You</i> scared <i>me</i>! Are you kidding! Ugh. God.",
+            "ru_native": "Ты меня напугал! Что за шутки! Уф.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти налякав мене! Що за жарти! Уф."
+        },
+        {
+            "tag": "A1S7.JACTRU_RILEY_0002",
+            "en": "Didn’t you hear me? God, I’ve been calling out for five minutes.",
+            "ru_native": "Ты меня не слышал? Я минут пять кричала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене не чув? Господи, я хвилин п’ять волала."
+        },
+        {
+            "tag": "A1S7.JACTRU_RILEY_0003",
+            "en": "What are you doing in there?",
+            "ru_native": "Что ты тут делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти тут робиш?"
+        },
+        {
+            "tag": "A1S7.JACTRU_RILEY_0004",
+            "en": "Didn’t you see me coming up? Ugh.",
+            "ru_native": "Ты разве меня не видел? Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба ти мене не бачив? Гм."
+        }
+    ]
+}

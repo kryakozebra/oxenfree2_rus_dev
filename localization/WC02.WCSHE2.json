@@ -1,0 +1,852 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC02.WCSHE2",
+    "entries": [
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0000_OPTION_0000",
+            "en": "Shelley, tell me more about Parentage",
+            "ru_native": "Шелли, расскажи мне про «Наследие».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі, розкажи більше про «Парентаж»."
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0001_OPTION_0000",
+            "en": "They made this a religion?",
+            "ru_native": "Они превратили это в религию?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони зробили це релігією?"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0001_OPTION_0001",
+            "en": "Nightmare.",
+            "ru_native": "Кошмар.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жах."
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0002_OPTION_0000",
+            "en": "I don’t believe it.",
+            "ru_native": "Я в это не верю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не вірю в це."
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0002_OPTION_0001",
+            "en": "Fascinating.",
+            "ru_native": "Увлекательно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Захоплююче."
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0003_OPTION_0000",
+            "en": "Why the name?",
+            "ru_native": "Почему так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому така назва?"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0003_OPTION_0001",
+            "en": "Paradise how?",
+            "ru_native": "Что за рай?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Який рай?"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0004_OPTION_0000",
+            "en": "Nobody stopped them?",
+            "ru_native": "Их никто не остановил?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їх ніхто не зупинив?"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0004_OPTION_0001",
+            "en": "They never got caught?",
+            "ru_native": "Их ни разу не поймали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їх ніхто не спіймав?"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0005_OPTION_0000",
+            "en": "They changed so much.",
+            "ru_native": "Они так сильно изменились.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони так змінилися."
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0005_OPTION_0001",
+            "en": "But the old lady?",
+            "ru_native": "А старушка?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А що та старенька леді?"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0006_OPTION_0000",
+            "en": "But their history!",
+            "ru_native": "Но их история!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ж їхні історії!"
+        },
+        {
+            "tag": "WC02.WCSHE2_CHOICE_0006_OPTION_0001",
+            "en": "They’re still dangerous.",
+            "ru_native": "Они все еще опасны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони й досі небезпечні."
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0000",
+            "en": "Hey, Shelley, I wanna know more about Parentage.",
+            "ru_native": "Эй, Шелли, я хочу узнать побольше про «Наследие».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Шеллі, я хочу дізнатися більше про «Парентаж»."
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0001",
+            "en": "So someone decided to make a religion out of this?",
+            "ru_native": "Значит, кто-то решил сделать из этого религию?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож хтось вирішив зробити із цього релігію?"
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0002",
+            "en": "Sounds like a nightmare.",
+            "ru_native": "Кошмар какой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на якийсь жах."
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0003",
+            "en": "No way.",
+            "ru_native": "Ну нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нісенітниця."
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0004",
+            "en": "Heck of a tall tale.",
+            "ru_native": "Небылица какая-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До біса крутий сюжет."
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0005",
+            "en": "How’d they get that name?",
+            "ru_native": "Как они придумали это название?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вони отримали це ім’я?"
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0006",
+            "en": "Define “paradise.” What did that look like?",
+            "ru_native": "«Рай»? А как именно он выглядел?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Опиши «рай». Як це виглядало?"
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0007",
+            "en": "Did anyone try to stop them?",
+            "ru_native": "Никто не пытался их остановить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось намагався їх зупинити?"
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0008",
+            "en": "Some people didn’t—ya know—catch them in the act or—something?",
+            "ru_native": "Никто не поймал их... с поличным или... типа того?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ніхто не впіймав їх на місці злочину, чи щось таке?"
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0009",
+            "en": "How did they all become hippies?",
+            "ru_native": "Как они все превратились в хиппи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому вони всі стали хіпі?"
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0010",
+            "en": "Well, I mean, you say that but what about the old lady?",
+            "ru_native": "А как же старушка?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, я маю на увазі, ти так кажеш, але як щодо старої леді?"
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0011",
+            "en": "Clearly not everyone changed their minds.",
+            "ru_native": "Явно не все перестроились.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вочевидь, не всі передумали."
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0012",
+            "en": "But their history? The—ya know—the corpses?",
+            "ru_native": "А их история? Ну, трупы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ж їхні історії? Про трупи?.."
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0013",
+            "en": "As far as I’m concerned, they’re as dangerous now as they were then.",
+            "ru_native": "Насколько я понимаю, сейчас они так же опасны, как и тогда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як на мене, вони зараз такі ж небезпечні, як і тоді."
+        },
+        {
+            "tag": "WC02.WCSHE2_RILEY_0014",
+            "en": "Call me crazy if you want.",
+            "ru_native": "Можешь считать меня сумасшедшей, если хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Називайте мене божевільною, якщо хочете."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0000",
+            "en": "Oh, hey, Riley, I just finished with Skunksville. Okay. Parentage.",
+            "ru_native": "О, привет, Райли. Я только что закончила со скунсами. Итак. «Наследие».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, привіт, Райлі, я щойно закінчила зі Скунксвілом. Гаразд. «Парентаж»."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0001",
+            "en": "I mean, this is secondhand off someone who smelled like they were carved from gin, but still…",
+            "ru_native": "Это я про одежду, от которой так несет, будто ее<br>хозяин с ног до головы проспиртовался. В общем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю на увазі, що все це балачки із бабусиної скрині, але все одно…"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0002",
+            "en": "So I guess Parentage goes back like—centuries. And a good few of ‘em.",
+            "ru_native": "Мне кажется, «Наследие» существует не один век. А очень много.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож я гадаю, що корені «Парентажу» сягають у минуле. І на добрячі декілька століть."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0003",
+            "en": "There was this freak lightning storm once over Edwards Island, just outta nowhere.",
+            "ru_native": "Однажды над островом Эдвардса разразилась жуткая гроза, просто из ниоткуда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Одного разу над островом Едвардса, просто нізвідки, з’явилася ця дивна гроза."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0004",
+            "en": "This was right in the middle of a wicked drought, so as soon as lightning touched ground, everything caught on fire—and everyone.",
+            "ru_native": "Да, это было прямо в разгар ужасной засухи, и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було прямо посеред жахливої посухи, і тому як тільки блискавка вдарила по землі запалало все... і всі, хто там був."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0005",
+            "en": "Hundreds of skeletons.",
+            "ru_native": "Сотни скелетов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сотні скелетів."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0006",
+            "en": "At least that they were able to count.",
+            "ru_native": "По крайней мере, сколько смогли сосчитать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, наскільки змогли порахувати."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0007",
+            "en": "Hard to get a proper number out of ash. Over.",
+            "ru_native": "Сложно вычислить точно из горы пепла. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Важко визначити правильну кількість із попелу. Прийом."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0008",
+            "en": "Well—this is where it goes from bananas to nuts depending on your definitions…",
+            "ru_native": "Да, тут-то чудики стали шизиками – смотря какое определение подобрать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ось де все переходить від божевілля до навіженості, залежно від визначень…"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0009",
+            "en": "For a reason. And a weird one.",
+            "ru_native": "Не случайно. А по весьма странной причине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З певної причини. І дивної."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0010",
+            "en": "But wait, it gets worse. And weirder.",
+            "ru_native": "Но это еще не все. Дальше было хуже. И страннее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але зачекай, далі — більше. І дивніше."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0011",
+            "en": "Apparently during that fire this—like—thing showed up in the sky.",
+            "ru_native": "Очевидно, во время того пожара в небе появилась какая-то штука.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вочевидь, під час тієї пожежі ця… штука з’явилася в небі."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0012",
+            "en": "Like this—I dunno—shape. The woman was mighty slurry at this point.",
+            "ru_native": "Что-то вроде... не знаю... фигуры. Тут старуху было не разобрать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цієї… не знаю… форми. Жінка була перетворилася на суспензію в той момент."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0013",
+            "en": "Something opened in the sky, and showed paradise on the other side while the earth below it was an actual burning hell.",
+            "ru_native": "Что-то в небе открылось, и они увидели, что на<br>той стороне – рай, а у нас на земле – ад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось відчинилося в небі й було видно рай по той бік,<br>а земля під тією штукою була справжнім пеклом."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0014",
+            "en": "A triangle or…",
+            "ru_native": "Треугольник или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трикутник чи…"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0015",
+            "en": "Dunno, she was just shy of intelligible. Over.",
+            "ru_native": "Не знаю, ее болтовня была довольно невнятная. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, вона просто соромилася пояснити. Прийом."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0016",
+            "en": "Way way.",
+            "ru_native": "Еще как да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0017",
+            "en": "I was captivated. I mean, once I got past the belching every other sentence.",
+            "ru_native": "Я была очарована. В смысле, когда смогла разобрать ее поток сознания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже захоплююче. Тобто, у мене перехоплювало подих майже через речення."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0018",
+            "en": "But anyway. The shape, it was… let’s call it…",
+            "ru_native": "В общем. Так фигура была... скажем так...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але все ж таки. Яка та штука… назвемо її…"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0019",
+            "en": "A vision of paradise. But just that. There and gone, an open-and-shut door.",
+            "ru_native": "Образом рая. Только и всего. Дверь, в которую не войти и не выйти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прохід до раю. Це все? Була там і зникла, двері відчинилися й зачинилися?"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0020",
+            "en": "Those who survived called that vision Planetshine. And decided to form a group to recreate it.",
+            "ru_native": "Выжившие назвали это видение Сиянием планет.<br>И решили основать группу, чтобы воссоздать его.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ті, хто вижив, назвали це «Сяйвом Місяця». І вирішили заснувати секту,<br>щоби відтворити ті події."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0021",
+            "en": "And thus, Parentage was born.",
+            "ru_native": "Так и родилось «Наследие».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І таким чином народилася секта «Парентаж»."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0022",
+            "en": "With ash on their tongues.",
+            "ru_native": "С пеплом на губах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З попелом у роті."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0023",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0024",
+            "en": "Search me on that one.",
+            "ru_native": "Я-то откуда знаю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А спитайся."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0025",
+            "en": "My mom is like—weirdly obsessed with Frankenstein so...people are freaks, ya know?",
+            "ru_native": "Моя мама как бы... помешана на Франкенштейне, так что...<br>все люди с прибабахом, понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя мама — несамовито одержима Франкенштейном, тож люди — божевільні, розумієш?"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0026",
+            "en": "Couldn’t tell you, she didn’t go into detail…",
+            "ru_native": "Не могу сказать, она подробно не описывала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу сказати, вона не вдалася в подробиці…"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0027",
+            "en": "…but it was the only time during that car ride that the old lady looked happy.",
+            "ru_native": "...но это был единственный момент за всю поездку, когда старушка выглядела счастливой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…але то був єдиний раз, під час цієї поїздки в машині,<br>коли та старенька леді виглядала щасливою."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0028",
+            "en": "Like she was there. Dunno. It was trippy.",
+            "ru_native": "Как будто она была там. Не знаю. Было странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніби вона була там. Не знаю. Це було чудернацько."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0029",
+            "en": "Who knows where they got that name?",
+            "ru_native": "Кто знает, как они дошли до такого названия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто знає, звідки вони взяли цю назву?"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0030",
+            "en": "The old lady told me that for like—years and years after they tried to recreate that night.",
+            "ru_native": "Старуха рассказывала, что они потом годами пытались воссоздать ту ночь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та стара леді казала мені, що роками вони намагалися відтворити ту ніч."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0031",
+            "en": "As best they could, so no lightning, but plenty of fire…",
+            "ru_native": "Максимум, что у них вышло – это пожар, без молнии...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як могли, тож не було блискавки, але було багато вогню…"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0032",
+            "en": "…and plenty of bodies.",
+            "ru_native": "...и куча тел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і багато тіл."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0033",
+            "en": "For years.",
+            "ru_native": "Годами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роками."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0034",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0035",
+            "en": "I’m sure they tried. And I’m sure they were set on fire.",
+            "ru_native": "Точно пытались. И их точно сожгли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упевнена, що хтось намагався. І також впевнений, що їх підпалили."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0036",
+            "en": "I’m sure they did. And I’m sure they were set on fire.",
+            "ru_native": "Точно поймали. И их точно сожгли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упевнена, що хтось намагався. І також впевнений, що їх підпалили."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0037",
+            "en": "The long and short of it: it never happened again.",
+            "ru_native": "Если в двух словах – это ни разу не повторялось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коротше кажучи, це ніколи не повторилося."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0038",
+            "en": "The shape in the sky, I mean. Surprise surprise.",
+            "ru_native": "Я про фигуру в небе. Сюрприз-сюрприз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю на увазі ту штуку в небі. Сюрприз-сюрприз."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0039",
+            "en": "People dropped out, membership went kaput, the thing—uh—ran its course.",
+            "ru_native": "Люди отваливались, секте пришел конец, все пошло... своим чередом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люди роз’їхалися, секті прийшов капут, та штука… зникла."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0040",
+            "en": "Couple o’ die hards, but no more—ya know—bodies.",
+            "ru_native": "Осталась парочка фанатиков, но больше никаких трупов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишилося декілька «міцних горішків», але не було більше… тіл."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0041",
+            "en": "No more sacrifices.",
+            "ru_native": "Никаких жертв.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більше жодних жертв."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0042",
+            "en": "No more ash. Over.",
+            "ru_native": "Никакого пепла. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більше жодного попелу. Прийом."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0043",
+            "en": "Hey this is America, we never let a good brand go to waste.",
+            "ru_native": "Эй, мы же в Америке, тут хороший бренд никогда не пропадает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, це ж Америка, ми ніколи не дозволяємо хорошому бренду пропасти."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0044",
+            "en": "Hippies didn’t wanna be called hippies, so they took the name and called themselves Parentage instead.",
+            "ru_native": "Хиппи никогда не нравилось, что их называют «хиппи»,<br> поэтому они стали звать себя «Наследием».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіпі не хотіли, щоби їх називали хіпі, тому вони взяли собі ім’я<br>і назвали себе «Парентаж»."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0045",
+            "en": "And stayed naked forest dancers ever since, so, hey, nice second act there.",
+            "ru_native": "И с тех пор – только голые танцы в лесу. Неплохой конец пьесы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І відтоді залишалися голими лісовими танцюристами, так що,<br>гей, гарний другий акт цієї вистави."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0046",
+            "en": "Yeah, you’re not wrong.",
+            "ru_native": "Да. Да, ты права.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Так, ти не помиляєшся."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0047",
+            "en": "I dunno. There are people who think indoor plumbing is a mortal sin, so—",
+            "ru_native": "Не знаю. Есть люди, которые считают туалет в доме смертным грехом, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Є люди, які вважають, що сантехніка в приміщенні є смертним гріхом, тож…"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0048",
+            "en": "—you’re always gonna find one hanger-on I guess.",
+            "ru_native": "...всегда найдется один фанатик, пожалуй.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…гадаю, завжди можна знайти одного шанувальника."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0049",
+            "en": "…seems colder out tonight.",
+            "ru_native": "...похолодало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…здається, сьогодні холодніше."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0050",
+            "en": "Maybe that’s just me. Over.",
+            "ru_native": "Или мне так кажется. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, це тільки мені здається. Прийом."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0051",
+            "en": "Lost to the ages.",
+            "ru_native": "Остались в прошлом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Втрачені на віки."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0052",
+            "en": "Well, except for one slurring grandmother in a backseat.",
+            "ru_native": "Кроме, пожалуй, бормочущей старухи на заднем сиденье.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, за винятком однієї невдоволеної бабусі на задньому сидінні."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0053",
+            "en": "No I… I won’t.",
+            "ru_native": "Нет... не считаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я… не буду."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0054",
+            "en": "The old lady was drunk, but…",
+            "ru_native": "Старуха была пьяна, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Старенька леді була напідпитку, але…"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0055",
+            "en": "There’s a difference between drunken delusion and belief.",
+            "ru_native": "Есть разница между пьяным бредом и верой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є різниця між алкогольним сп’янінням і вірою."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0056",
+            "en": "Her conviction was plenty sober…",
+            "ru_native": "Ее уверенность была довольно трезвой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її переконання були досить тверезими…"
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0057",
+            "en": "Anyway, don’t believe everything you read.",
+            "ru_native": "В любом случае, не верь всему, что написано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У всякому разі, не вірте всьому, що читаєте."
+        },
+        {
+            "tag": "WC02.WCSHE2_SHELLEY_0058",
+            "en": "I’m getting a call so, see you when I hear you. Over and out.",
+            "ru_native": "Меня вызывают, потом договорим. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені телефонують, тож, до наступного разу. Кінець зв’язку."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "GLOB.MAINQU",
+    "entries": [
+        {
+            "tag": "GLOB.MAINQU_JACOB_0000",
+            "en": "[neutral] C’mon, we still have two more transmitters to place, let's figure out where to go next.",
+            "ru_native": "Ладно, осталось еще два передатчика. Давай определимся, куда идти дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Нейтрально] Годі, нам потрібно встановити іще два радіопередавачі.<br>З’ясуймо, куди йти далі."
+        },
+        {
+            "tag": "GLOB.MAINQU_JACOB_0001",
+            "en": "[shaken up but stabilizing] C’mon, we still have two more transmitters to place, let's figure out where to go next.",
+            "ru_native": "Ладно, осталось еще два передатчика. Давай определимся, куда идти дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Схвильовано, але відновлюючи спокій] Годі, нам потрібно встановити іще два<br>радіопередавачі. З’ясуймо, куди йти далі."
+        },
+        {
+            "tag": "GLOB.MAINQU_JACOB_0002",
+            "en": "[recovering from injury, but not extreme] C’mon, we still have two more transmitters to place, let's figure out where to go next.",
+            "ru_native": "Ладно, осталось еще два передатчика. Давай определимся, куда идти дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Відновлюючись після травми, але не надто емоційно] Годі, нам потрібно встановити<br>іще два радіопередавачі. З’ясуймо, куди йти далі."
+        },
+        {
+            "tag": "GLOB.MAINQU_JACOB_0003",
+            "en": "[neutral] Okay, one more to go. Let’s figure out where.",
+            "ru_native": "Так, последний остался. Где будем ставить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Нейтрально] Гаразд, іще один. З’ясуймо, де."
+        },
+        {
+            "tag": "GLOB.MAINQU_JACOB_0004",
+            "en": "[shaken up but stabilizing] Okay, one more to go. Let’s figure out where.",
+            "ru_native": "Так, последний остался. Где будем ставить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Схвильовано, але відновлюючи спокій] Гаразд, іще один. З’ясуймо, де."
+        },
+        {
+            "tag": "GLOB.MAINQU_JACOB_0005",
+            "en": "[recovering from injury, but not extreme] Okay, one more to go. Let’s figure out where.",
+            "ru_native": "Так, последний остался. Где будем ставить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Відновлюючись після травми, але не надто емоційно] Гаразд, іще один. З’ясуймо, де."
+        }
+    ]
+}

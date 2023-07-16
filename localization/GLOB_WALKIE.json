@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB_WALKIE",
+    "entries": [
+        {
+            "tag": "GLOB_WALKIE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB_WALKIE_CHOICE_0000_OPTION_0000",
+            "en": "This is Riley, over...",
+            "ru_native": "Это Райли, прием...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Райлі, прийом…"
+        },
+        {
+            "tag": "GLOB_WALKIE_RILEY_0000",
+            "en": "This is Riley, over…",
+            "ru_native": "Это Райли, прием...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Райлі, прийом…"
+        }
+    ]
+}

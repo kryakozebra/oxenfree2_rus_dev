@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT03.HANFIC",
+    "entries": [
+        {
+            "tag": "WT03.HANFIC_HANK_0000",
+            "en": "My motion alarm triggered on the box. Is that you? Over.",
+            "ru_native": "У меня сработал сигнал движения. Это ты? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене на поштовій скринці спрацював датчик руху. Це ти? Прийом."
+        },
+        {
+            "tag": "WT03.HANFIC_HANK_0001",
+            "en": "Riley? Are you there? Was that you at the box? Over.",
+            "ru_native": "Райли? Ты там? Это была ты? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там? То була ти? Прийом."
+        },
+        {
+            "tag": "WT03.HANFIC_HANK_0002",
+            "en": "Riley, you’re the only one who would have messed with it. Answer, please. Over.",
+            "ru_native": "Райли, ты единственная, кто мог это сделать. Ответь, пожалуйста. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, ти єдина, хто міг це зробити. Дай відповідь, будь ласка. Прийом."
+        },
+        {
+            "tag": "WT03.HANFIC_HANK_0003",
+            "en": "Pick up when you can. Over and out.",
+            "ru_native": "Ответь, как сможешь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дай відповідь, як зможеш. Кінець зв’язку."
+        }
+    ]
+}

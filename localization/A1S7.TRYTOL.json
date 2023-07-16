@@ -1,0 +1,24 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1S7.TRYTOL",
+    "entries": [
+        {
+            "tag": "A1S7.TRYTOL_JACOB_0000",
+            "en": "Wait wait, you didn’t grab my spare walkie-talkie.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди-подожди, ты не захватил мою запасную рацию.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, ти не взяла мою запасну рацію."
+        },
+        {
+            "tag": "A1S7.TRYTOL_JACOB_0001",
+            "en": "You should really get it in case we get split up or something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе действительно стоит приобрести его на случай, если мы разделимся или что-то в этом роде.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі справді варто взяти її на випадок, якщо ми розділимося чи щось таке."
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.SHEWAL",
+    "entries": [
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, here!",
+            "ru_native": "Да, я тут!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тут!"
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0001_OPTION_0000",
+            "en": "Where’s the gate key?",
+            "ru_native": "Где ключ от ворот?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ключ від воріт?"
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0001_OPTION_0001",
+            "en": "Call the authorities.",
+            "ru_native": "Свяжитесь с властями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’яжіться з владою."
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0001_OPTION_0002",
+            "en": "Get out of town.",
+            "ru_native": "Уезжайте из города.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їдьте з міста."
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0002_OPTION_0000",
+            "en": "Where are you?",
+            "ru_native": "Где вы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ви?"
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0002_OPTION_0001",
+            "en": "Call the authorities.",
+            "ru_native": "Свяжитесь с властями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’яжіться з владою."
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0002_OPTION_0002",
+            "en": "Get out of town.",
+            "ru_native": "Уезжайте из города.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їдьте з міста."
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0003_OPTION_0000",
+            "en": "If she helps, sure.",
+            "ru_native": "Если она помогает, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо вона допомагає, звичайно."
+        },
+        {
+            "tag": "A2W2.SHEWAL_CHOICE_0003_OPTION_0001",
+            "en": "If you say so.",
+            "ru_native": "Верю на слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скажеш."
+        },
+        {
+            "tag": "A2W2.SHEWAL_JACOB_0000",
+            "en": "She seems… nice.",
+            "ru_native": "Кажется, она... милая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, вона… хороша."
+        },
+        {
+            "tag": "A2W2.SHEWAL_RILEY_0000",
+            "en": "Yeah, Shelley, I'm-I’m here.",
+            "ru_native": "Да, Шелли, я тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Шеллі, я… Я тут."
+        },
+        {
+            "tag": "A2W2.SHEWAL_RILEY_0001",
+            "en": "Uh, yeah, actually, do-do you… happen to know where the key for the gate is? Over.",
+            "ru_native": "Хм, вообще-то, да... Не знаете, где лежит ключ от ворот? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, якщо чесно, так… Не знаєте, де лежить ключ від воріт? Прийом."
+        },
+        {
+            "tag": "A2W2.SHEWAL_RILEY_0002",
+            "en": "Uh, just get on the horn and call the authorities—the National Guard—anyone—to get their butts down here.",
+            "ru_native": "Просто свяжитесь с властями... Национальной гвардией...<br>с кем угодно, чтобы они мчались сюда сломя головы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто повідомте про це владі… Національній гвардії…<br>кому завгодно, аби лише вони прибули сюди."
+        },
+        {
+            "tag": "A2W2.SHEWAL_RILEY_0003",
+            "en": "Uh, honestly, Shelley, just… get out of town.",
+            "ru_native": "Шелли, просто... уезжайте из города.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі, просто… їдьте з міста."
+        },
+        {
+            "tag": "A2W2.SHEWAL_RILEY_0004",
+            "en": "It’s… <i>very</i> dangerous to be around here tonight. I don’t know if we can stop… it. Uh, Over.",
+            "ru_native": "Тут… сейчас очень опасно. Не знаю, сможем ли мы это остановить. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут… зараз <i>дуже</i> небезпечно. Не знаю, чи ми зможемо це зупинити. Прийом."
+        },
+        {
+            "tag": "A2W2.SHEWAL_RILEY_0005",
+            "en": "Uh, just out of curiosity… where are you right now? Over.",
+            "ru_native": "О, просто интересно... а вы сейчас где? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, мені просто цікаво… а де ви зараз? Прийом."
+        },
+        {
+            "tag": "A2W2.SHEWAL_RILEY_0006",
+            "en": "If Ranger Shelley actually helps us? Sure. Very nice.",
+            "ru_native": "Рейнджер Шелли правда нам помогает? Да, очень мило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо наглядачка Шеллі дійсно нам допомагає? Так. Дуже хороша."
+        },
+        {
+            "tag": "A2W2.SHEWAL_RILEY_0007",
+            "en": "If you say so.",
+            "ru_native": "Верю на слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скажеш."
+        },
+        {
+            "tag": "A2W2.SHEWAL_SHELLEY_0000",
+            "en": "Perfect. You sound clear.",
+            "ru_native": "Отлично. Слышу тебя хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Супер. Я чудово тебе чую."
+        },
+        {
+            "tag": "A2W2.SHEWAL_SHELLEY_0001",
+            "en": "Alright, is there anything else I can help you with?",
+            "ru_native": "Ладно, я могу чем-то еще тебе помочь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я можу тобі чимось допомогти?"
+        },
+        {
+            "tag": "A2W2.SHEWAL_SHELLEY_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2W2.SHEWAL_SHELLEY_0003",
+            "en": "Trying to get to the beach? It’s on the bulletin board, tacked up.",
+            "ru_native": "Хотите дойти до пляжа? Ключ приклеен к доске объявлений.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочете дійти до пляжу? Ключ приклеєний до дошки оголошень."
+        },
+        {
+            "tag": "A2W2.SHEWAL_SHELLEY_0004",
+            "en": "Unfortunately, Riley, I can’t do that unless I can tell them what’s going on.",
+            "ru_native": "Прости, Райли, я не могу это сделать, пока не буду знать, что им говорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Райлі, я не можу цього зробити, доки не буду знати, що саме їм казати."
+        },
+        {
+            "tag": "A2W2.SHEWAL_SHELLEY_0005",
+            "en": "And I can’t do that, yet.",
+            "ru_native": "Нет, я пока не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А поки що я не можу цього зробити."
+        },
+        {
+            "tag": "A2W2.SHEWAL_SHELLEY_0006",
+            "en": "I’m a big girl, Riley. I can handle myself just fine.",
+            "ru_native": "Я взрослая девочка, Райли, и могу о себе позаботиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я доросла дівчинка, Райлі, і можу про себе подбати."
+        },
+        {
+            "tag": "A2W2.SHEWAL_SHELLEY_0007",
+            "en": "I’m at the Oberon Outpost, fifteen and three-quarter miles from you.",
+            "ru_native": "Я на заставе Оберон, в пятнадцати с половиной милях от вас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я на Аванпості Оберон, за п’ятнадцять із половиною миль від вас."
+        },
+        {
+            "tag": "A2W2.SHEWAL_SHELLEY_0008",
+            "en": "Alright, I have to leave. But I’ll be in touch. You do the same. Over and out.",
+            "ru_native": "Ладно, мне пора. Будем на связи. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, мені час йти. Але будемо на зв’язку. Кінець зв’язку."
+        }
+    ]
+}

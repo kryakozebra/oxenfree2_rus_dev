@@ -1,0 +1,51 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.RIBEREX",
+    "entries": [
+        {
+            "tag": "A3S5.RIBEREX_ALEX_0000",
+            "en": "[distant] Riley! C’mon!",
+            "ru_native": "[distant] Райли, Давай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[віддалений звук] Райлі! Годі!"
+        },
+        {
+            "tag": "A3S5.RIBEREX_CHOICE_0000_OPTION_0000",
+            "en": "Whoa, that did something!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вау, это что-то дало!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого собі! Це щось дало."
+        },
+        {
+            "tag": "A3S5.RIBEREX_CHOICE_0000_OPTION_0001",
+            "en": "What’s going on?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        },
+        {
+            "tag": "A3S5.RIBEREX_RILEY_0000",
+            "en": "Whoa, I think… that did something –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вау, я думаю... это что-то сделало -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, гадаю… це щось дало…"
+        },
+        {
+            "tag": "A3S5.RIBEREX_RILEY_0001",
+            "en": "What’s going on?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        }
+    ]
+}

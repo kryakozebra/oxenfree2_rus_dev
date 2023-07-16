@@ -1,0 +1,483 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SYS_ZONES",
+    "entries": [
+        {
+            "tag": "SYS_ZONES_0000",
+            "en": "Epiphany Fields",
+            "ru_native": "Крещенское поле",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хрещенські поля"
+        },
+        {
+            "tag": "SYS_ZONES_0001",
+            "en": "Main Street",
+            "ru_native": "Главная улица",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мейн-стріт"
+        },
+        {
+            "tag": "SYS_ZONES_0002",
+            "en": "Discovery Cliffs",
+            "ru_native": "Утесы открытий",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скелі Відкриття"
+        },
+        {
+            "tag": "SYS_ZONES_0003",
+            "en": "Beacon Beach",
+            "ru_native": "Пляж с маяком",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пляж біля маяка"
+        },
+        {
+            "tag": "SYS_ZONES_0004",
+            "en": "Caves",
+            "ru_native": "Пещеры",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Печери"
+        },
+        {
+            "tag": "SYS_ZONES_0005",
+            "en": "Bunker",
+            "ru_native": "Бункер",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бункер"
+        },
+        {
+            "tag": "SYS_ZONES_0006",
+            "en": "Edwards Island",
+            "ru_native": "Остров Эдвардса",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Острів Едвардса"
+        },
+        {
+            "tag": "SYS_ZONES_0007",
+            "en": "Uptown Harbor",
+            "ru_native": "Верхняя гавань",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Верхня гавань"
+        },
+        {
+            "tag": "SYS_ZONES_0008",
+            "en": "Berenson Creek",
+            "ru_native": "Бухта Беренсон",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Струмок Беренсон"
+        },
+        {
+            "tag": "SYS_ZONES_0009",
+            "en": "Copper Creek Trail",
+            "ru_native": "Тропа к Медной бухте",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стежка до Мідного струмка"
+        },
+        {
+            "tag": "SYS_ZONES_0010",
+            "en": "Pemmican Trailhead",
+            "ru_native": "Перевал Пеммикан",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Початкова точка Пеммікан"
+        },
+        {
+            "tag": "SYS_ZONES_0011",
+            "en": "Camber Cape",
+            "ru_native": "Мыс Кейбер",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мис Кейбер"
+        },
+        {
+            "tag": "SYS_ZONES_0012",
+            "en": "Copper Creek Trail",
+            "ru_native": "Круглосуточный магазин «Фанни»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стежка до Мідного струмка"
+        },
+        {
+            "tag": "SYS_ZONES_0013",
+            "en": "Garland Mines",
+            "ru_native": "Шахты Гарленда",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шахти Гарленда"
+        },
+        {
+            "tag": "SYS_ZONES_0014",
+            "en": "Lighthouse",
+            "ru_native": "Маяк",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маяк"
+        },
+        {
+            "tag": "SYS_ZONES_0015",
+            "en": "Tootega Falls",
+            "ru_native": "Тутега Фолз",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Водоспади Тутега"
+        },
+        {
+            "tag": "SYS_ZONES_0016",
+            "en": "Point Tilia",
+            "ru_native": "Поинт Тилия",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пункт Тілія"
+        },
+        {
+            "tag": "SYS_ZONES_0017",
+            "en": "Comm Tower",
+            "ru_native": "Башня связи",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіовежа"
+        },
+        {
+            "tag": "SYS_ZONES_0018",
+            "en": "Church of the Grand Architect",
+            "ru_native": "Церковь Великого Архитектора",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Церква Великого Архітектора"
+        },
+        {
+            "tag": "SYS_ZONES_0019",
+            "en": "North Camena Community Center",
+            "ru_native": "Общественный центр Северной Камены",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Громадський центр Північної Камени"
+        },
+        {
+            "tag": "SYS_ZONES_0020",
+            "en": "Waterhead Bluffs",
+            "ru_native": "Утес Уотерхед",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скелі Уотерхед"
+        },
+        {
+            "tag": "SYS_ZONES_0021",
+            "en": "Charity Point",
+            "ru_native": "Черити Поинт",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Черіті-Пойнт"
+        },
+        {
+            "tag": "SYS_ZONES_0022",
+            "en": "Copper Mine",
+            "ru_native": "Медная шахта",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мідна шахта"
+        },
+        {
+            "tag": "SYS_ZONES_0023",
+            "en": "The Ocean",
+            "ru_native": "Океан",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Океан"
+        },
+        {
+            "tag": "SYS_ZONES_0024",
+            "en": "Horseshoe Beach",
+            "ru_native": "Пляж Подкова",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пляж «Підкова»"
+        },
+        {
+            "tag": "SYS_ZONES_0025",
+            "en": "Garland Ghost Town",
+            "ru_native": "Город-призрак Гарленд",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Місто-привид Гарленд"
+        },
+        {
+            "tag": "SYS_ZONES_0026",
+            "en": "The Athanasia",
+            "ru_native": "«Бессмертие»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Афанасія»"
+        },
+        {
+            "tag": "SYS_ZONES_0027",
+            "en": "Funnie's",
+            "ru_native": "",
+            "ru_machine": "DEEPL Funnie's",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фанні"
+        },
+        {
+            "tag": "SYS_ZONES_0028",
+            "en": "Highway",
+            "ru_native": "Шоссе",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шосе"
+        },
+        {
+            "tag": "SYS_ZONES_0029",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0030",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0031",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0032",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0033",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0034",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0035",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0036",
+            "en": "railer Creek Trail",
+            "ru_native": "Ж/д путь к бухте",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "стежка «Рейлер-Крік»"
+        },
+        {
+            "tag": "SYS_ZONES_0037",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0038",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0039",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0040",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0041",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0042",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0043",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0044",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0045",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0046",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0047",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0048",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0049",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS_ZONES_0050",
+            "en": "I-12",
+            "ru_native": "I-12",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "I-12"
+        },
+        {
+            "tag": "SYS_ZONES_0051",
+            "en": "Parking Lot",
+            "ru_native": "Парковка",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Парковка"
+        },
+        {
+            "tag": "SYS_ZONES_0052",
+            "en": "Epilogue",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эпилог",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Епілог"
+        }
+    ]
+}

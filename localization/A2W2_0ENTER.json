@@ -1,0 +1,240 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2_0ENTER",
+    "entries": [
+        {
+            "tag": "A2W2_0ENTER_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_0ENTER_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, I think so.",
+            "ru_native": "Думаю, да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, так."
+        },
+        {
+            "tag": "A2W2_0ENTER_CHOICE_0000_OPTION_0001",
+            "en": "Is someone else here?",
+            "ru_native": "Здесь есть кто-то еще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут є хтось ще?"
+        },
+        {
+            "tag": "A2W2_0ENTER_CHOICE_0000_OPTION_0002",
+            "en": "HELLO?!",
+            "ru_native": "АЛЛО?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "АГОВ?!"
+        },
+        {
+            "tag": "A2W2_0ENTER_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_0ENTER_CHOICE_0001_OPTION_0000",
+            "en": "Yeah, got it.",
+            "ru_native": "Да, ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, зрозуміло."
+        },
+        {
+            "tag": "A2W2_0ENTER_CHOICE_0001_OPTION_0001",
+            "en": "Watch your own feet.",
+            "ru_native": "Сам смотри под ноги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сам дивися під ноги."
+        },
+        {
+            "tag": "A2W2_0ENTER_CHOICE_0001_OPTION_0002",
+            "en": "[DELAYED] How close are we?",
+            "ru_native": "[С задержкой] Сколько еще идти?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скільки ще йти?"
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0000",
+            "en": "Oh -- hear that?",
+            "ru_native": "О... слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О… чуєш?"
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0001",
+            "en": "That’s a phone, right?",
+            "ru_native": "Телефон звонит, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це телефон, так?"
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0002",
+            "en": "Like an old landline?",
+            "ru_native": "Стационарный?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стаціонарний?"
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0003",
+            "en": "No... but it could be coming from the Ranger station.",
+            "ru_native": "Нет... но, может, это телефон на станции.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні… але, може, це телефон на станції."
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0004",
+            "en": "If we’re in luck, she’s still there.",
+            "ru_native": "Если повезет, рейнджер еще там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо нам пощастить, то наглядачка й досі там."
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0005",
+            "en": "It could be coming from the Ranger station.",
+            "ru_native": "Может, это на станции телефон звонит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, це телефон на станції."
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0006",
+            "en": "Watch -- watch your footing. It gets kinda steep, but…",
+            "ru_native": "Смотри... смотри под ноги. Тут крутой спуск, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обережніше… дивися під ноги. Тут крутий спуск."
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0007",
+            "en": "We’re close to the Ranger Station.",
+            "ru_native": "Станция рейнджеров уже близко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми неподалік від станції наглядачів."
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0008",
+            "en": "No, no, I -- I won’t.",
+            "ru_native": "Нет-нет, не подверну.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, я… не підверну."
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0009",
+            "en": "Uh, close! Another city block? With the slopes it might feel like two, but…",
+            "ru_native": "Ага, близко! Еще квартал? С подъемом может показаться, что все два, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Недовго! Десь квартал. Враховуючи підйом, може здаватися, що більше, але…"
+        },
+        {
+            "tag": "A2W2_0ENTER_JACOB_0010",
+            "en": "Yeah, we’re almost there.",
+            "ru_native": "Да, мы почти пришли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ми майже прийшли."
+        },
+        {
+            "tag": "A2W2_0ENTER_RILEY_0000",
+            "en": "Yeah, I, uh, think so… unless it’s a really… weird bird.",
+            "ru_native": "Да, по-моему... или это очень-очень странная птица.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, здається… або це дуже-дуже дивний птах."
+        },
+        {
+            "tag": "A2W2_0ENTER_RILEY_0001",
+            "en": "Yeah, so… does that mean there’s someone else here? Can you see anybody?",
+            "ru_native": "И... значит, тут еще кто-то есть? Ты кого-нибудь видишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… тут ще хтось є? Ти когось бачиш?"
+        },
+        {
+            "tag": "A2W2_0ENTER_RILEY_0002",
+            "en": "Hey, is anybody there? Hello!",
+            "ru_native": "Эй, здесь кто-нибудь есть? Ау!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут є хтось? Ау!"
+        },
+        {
+            "tag": "A2W2_0ENTER_RILEY_0003",
+            "en": "Yeah, uh, got it.",
+            "ru_native": "Ага, ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, гм, зрозуміло."
+        },
+        {
+            "tag": "A2W2_0ENTER_RILEY_0004",
+            "en": "I’ll be alright, Jacob.",
+            "ru_native": "Я в норме, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, Джейкобе."
+        },
+        {
+            "tag": "A2W2_0ENTER_RILEY_0005",
+            "en": "Just do me a favor and don’t twist an ankle trying to see where I’m going.",
+            "ru_native": "Просто сделай мне одолжение и не подверни ногу, пока за мной следишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто зроби мені послугу й не підверни ногу, коли будеш дивитися, куди я йду."
+        },
+        {
+            "tag": "A2W2_0ENTER_RILEY_0006",
+            "en": "We’re close? How close?",
+            "ru_native": "Мы близко? Сколько еще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Неподалік? Скільки ще до неї йти?"
+        }
+    ]
+}

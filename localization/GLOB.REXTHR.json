@@ -1,0 +1,348 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.REXTHR",
+    "entries": [
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0000_OPTION_0000",
+            "en": "I think I’m seeing my kid.",
+            "ru_native": "Кажется, я вижу своего сына.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що бачу мою дитину."
+        },
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0000_OPTION_0001",
+            "en": "I could use a coffee.",
+            "ru_native": "Сейчас бы кофе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кава не завадила б."
+        },
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0001_OPTION_0000",
+            "en": "How you holding up?",
+            "ru_native": "Держишься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти тримаєшся?"
+        },
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0001_OPTION_0001",
+            "en": "I could use a coffee.",
+            "ru_native": "Сейчас бы кофе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кава не завадила б."
+        },
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0002_OPTION_0000",
+            "en": "We’re not.",
+            "ru_native": "Не ладим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не ладнаємо."
+        },
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0002_OPTION_0001",
+            "en": "I’m not sure.",
+            "ru_native": "Не уверена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не впевнена."
+        },
+        {
+            "tag": "GLOB.REXTHR_CHOICE_0002_OPTION_0002",
+            "en": "It’s probably not real.",
+            "ru_native": "Наверное, глюки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоріш за все, це не реальність."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0000",
+            "en": "It’s weird, right? My cortisol is like—stratosphere.",
+            "ru_native": "Странно, да? У меня кортизол зашкаливает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно, правда? Рівень кортизолу в мене — до небес."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0001",
+            "en": "But I would give both pinkies for a dark roast the size of my face.",
+            "ru_native": "Но я готов отдать оба мизинчика за огромную чашку черного кофе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я готовий віддати два мізинці за величезну чашку кави."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0002",
+            "en": "I mean—ya know—no.",
+            "ru_native": "Ну, как сказать... Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… розумієш… ні."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0003",
+            "en": "But—I’m sticking around if that’s what you’re asking.",
+            "ru_native": "Но я тебя не оставлю, если ты про это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я поруч, якщо ти про це."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0004",
+            "en": "And if it’s not, well. Now you know.",
+            "ru_native": "А если не про это, то... Знай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А якщо не про це, що ж. Тепер ти знаєш."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0005",
+            "en": "Oh, okay. Wow. Uh…",
+            "ru_native": "Ничего себе...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, гаразд. Ого."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0006",
+            "en": "I hope you guys are getting along?",
+            "ru_native": "Вы ладите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ви ладнаєте одне з одним?"
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0007",
+            "en": "For the most part?",
+            "ru_native": "По большей части?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Головним чином?"
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0008",
+            "en": "Hopefully?",
+            "ru_native": "Надеюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На щастя?"
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0009",
+            "en": "Well that’s a bummer.",
+            "ru_native": "Неприятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прикро."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0010",
+            "en": "But I mean—who knows what you’re seeing?",
+            "ru_native": "Хотя кто знает, что именно ты видишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, розумієш, хто знає, що ти бачиш?"
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0011",
+            "en": "Could all just be a bad dream…",
+            "ru_native": "Может, это просто плохой сон...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, це лише поганий сон…"
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0012",
+            "en": "Yeah, that adds up.",
+            "ru_native": "Да, понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, уявляю."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0013",
+            "en": "I don’t know if I’ll ever be sure about anything again…",
+            "ru_native": "Я вообще уже ни в чем никогда не буду уверен...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи взагалі буду впевнений у чомусь знову…"
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0014",
+            "en": "Yeah, totally. Could all just be a dream.",
+            "ru_native": "Точно. Просто сон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, абсолютно. Може, просто сон."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0015",
+            "en": "Maybe this is a dream right now…",
+            "ru_native": "Может, сейчас мы тоже спим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, прямо зараз це сон…."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0016",
+            "en": "…wake up, Jacob.",
+            "ru_native": "Проснись, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…прокинься, Джейкобе."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0017",
+            "en": "It’s not a dream. [to self] I don’t think. [super quiet, to self] Wake up, Jake.",
+            "ru_native": "Это не сон. Я так не думаю. Проснись, Джейк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не сон. [До себе] Гадаю, що ні.<br>[Надзвичайно тихо, до себе] Прокидайся, Джейку."
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0018",
+            "en": "Maybe it’s just a dream? Ya know?",
+            "ru_native": "Может, это просто сон? Да ведь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, це лише сон? Розумієш?"
+        },
+        {
+            "tag": "GLOB.REXTHR_JACOB_0019",
+            "en": "Just—hopefully not a bad one?",
+            "ru_native": "Надеюсь, хотя бы не плохой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся лише, що не поганий."
+        },
+        {
+            "tag": "GLOB.REXTHR_RILEY_0000",
+            "en": "I really need a coffee.",
+            "ru_native": "Сейчас бы кофе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені насправді потрібна кава."
+        },
+        {
+            "tag": "GLOB.REXTHR_RILEY_0001",
+            "en": "You holding up okay?",
+            "ru_native": "Держишься там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нормально тримаєшся?"
+        },
+        {
+            "tag": "GLOB.REXTHR_RILEY_0002",
+            "en": "So—like—whenever we—I dunno, go wherever it is we go.",
+            "ru_native": "Каждый раз, когда мы попадаем... куда-то туда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоразу, коли ми потрапляємо… десь туди."
+        },
+        {
+            "tag": "GLOB.REXTHR_RILEY_0003",
+            "en": "I think… I think I’m with my kid. Like we talk and we—we know each other.",
+            "ru_native": "Кажется, я вижу своего сына. Мы разговариваем и... знаем друг друга.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається… здається, я зі своїм сином. Ми розмовляємо. І ми знайомі."
+        },
+        {
+            "tag": "GLOB.REXTHR_RILEY_0004",
+            "en": "It’s—my kid. It’s gotta be.",
+            "ru_native": "Это мой сын. Точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це — мій син. Має бути він."
+        },
+        {
+            "tag": "GLOB.REXTHR_RILEY_0005",
+            "en": "I—don’t think we are, actually.",
+            "ru_native": "Вообще-то не особо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Узагалі, гадаю, що ні."
+        },
+        {
+            "tag": "GLOB.REXTHR_RILEY_0006",
+            "en": "I mean—maybe? I’m not sure.",
+            "ru_native": "Наверное? Сложно сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть. Я не впевнена."
+        },
+        {
+            "tag": "GLOB.REXTHR_RILEY_0007",
+            "en": "Who knows. Probably not even real.",
+            "ru_native": "Кто знает. Наверно, это просто глюки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хотіла б я знати. Може, то не реальність."
+        }
+    ]
+}

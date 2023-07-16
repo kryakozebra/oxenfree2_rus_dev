@@ -1,0 +1,258 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.CLUBUI",
+    "entries": [
+        {
+            "tag": "A2G2.CLUBUI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CLUBUI_CHOICE_0000_OPTION_0000",
+            "en": "Alliance?",
+            "ru_native": "Уже не помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Альянс?"
+        },
+        {
+            "tag": "A2G2.CLUBUI_CHOICE_0000_OPTION_0001",
+            "en": "Association?",
+            "ru_native": "Ассоциация?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Асоціація?"
+        },
+        {
+            "tag": "A2G2.CLUBUI_CHOICE_0000_OPTION_0002",
+            "en": "Agency?",
+            "ru_native": "Агентство?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агенція?"
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0000",
+            "en": "\"NWMA, Garland chapter.\" Ohh, okay. I think I can guess.",
+            "ru_native": "«СЗША, Гарленд». Так, кажется, я понял.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«ПЗГА, Гарлендський підрозділ». Так, розберуся."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0001",
+            "en": "National—no no, Northwestern… Miners… um…",
+            "ru_native": "Союз... Нет, Северо-западный... Шахтерский... хм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Патріотичний… Ні, ні, Південно-західний… гірничий…"
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0002",
+            "en": "Umm…",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем…"
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0003",
+            "en": "Miners because of the flag.",
+            "ru_native": "«Шахтерский» – из-за флага.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Гірничий», бо зображено на прапорі."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0004",
+            "en": "And because, you know, Garland.",
+            "ru_native": "Ну, и потому что Гарленд.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ще тому що Гарленд."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0005",
+            "en": "Northwest Miners…",
+            "ru_native": "Северо-западный шахтерский...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Північно-західний гірничий…"
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0006",
+            "en": "Maybe? I'm sure I read the name in eighth grade Oregon state history.",
+            "ru_native": "Возможно? По-моему, я видел это название в учебнике по истории в восьмом классе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо? Здається, я зустрічав цю назву в<br>підручнику з історії штату Орегон за восьмий клас."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0007",
+            "en": "Lost to me now.",
+            "ru_native": "Уже не помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уже забув."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0008",
+            "en": "That's it!",
+            "ru_native": "Точно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно!"
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0009",
+            "en": "Or at least it brings back memories of eighth grade Oregon state history.",
+            "ru_native": "По крайней мере, я что-то такое помню. Проходили по истории в 8 классе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні я пам’ятаю щось таке з курсу історії штату Орегон за восьмий клас."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0010",
+            "en": "I was thinking union.",
+            "ru_native": "Я думал про союз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав, що союз."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0011",
+            "en": "Northwest Miners' Association!",
+            "ru_native": "Северо-западная шахтерская ассоциация!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Північно-західна гірнича асоціація!"
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0012",
+            "en": "Thank you, eighth grade Oregon state history.",
+            "ru_native": "Спасибо тебе, история Орегона за 8 класс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую курсу історії штату Орегон за восьмий клас."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0013",
+            "en": "\"This hall now stands as a permanent memorial to the twelve brave souls who lost their lives during the collapse of Lattimer mine, shaft A.\"",
+            "ru_native": "«Этот зал – вечное напоминание о двенадцати<br>храбрецах, погибших при обрушении ствола А шахты Латтимер».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Цей зал — вічне нагадування про дванадцять хоробрих працівників,<br>що загинули під час обвалу ствола А шахти Латтімер»."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0014",
+            "en": "\"Dedicated by the families of the dead on this day of February 7, 1892.\"",
+            "ru_native": "«Посвящается семьям погибших 7 февраля 1892 года».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Присвячується сім’ям загиблих, 7 лютого 1892 року»."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0015",
+            "en": "\"Forever in solidarity.\"",
+            "ru_native": "«Вечная память».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вічна пам’ять»."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0016",
+            "en": "[exhales]",
+            "ru_native": "(выдыхает)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Видихає]"
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0017",
+            "en": "Thank you, Mrs. Staley.",
+            "ru_native": "Спасибо, миссис Стейли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, місіс Стейлі."
+        },
+        {
+            "tag": "A2G2.CLUBUI_JACOB_0018",
+            "en": "I thought Hank said this was a schoolhouse?",
+            "ru_native": "Хэнк вроде говорил, что это бывшая школа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, Хенк говорив, що це колишня школа."
+        },
+        {
+            "tag": "A2G2.CLUBUI_RILEY_0000",
+            "en": "I see… benches?",
+            "ru_native": "Вижу... скамейки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачу… лави."
+        },
+        {
+            "tag": "A2G2.CLUBUI_RILEY_0001",
+            "en": "And some kind of weird flag. With a pickaxe.",
+            "ru_native": "И какой-то странный флаг. С киркой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ще якийсь дивний прапор. Із киркою."
+        },
+        {
+            "tag": "A2G2.CLUBUI_RILEY_0002",
+            "en": "Alliance? Northwestern Mining Alliance?",
+            "ru_native": "Альянс? Северо-западный шахтерский альянс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Альянс? Північно-західний гірничий альянс?"
+        },
+        {
+            "tag": "A2G2.CLUBUI_RILEY_0003",
+            "en": "Association? The Northwest Miners' Association?",
+            "ru_native": "Ассоциация? Северо-западная шахтерская ассоциация?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Асоціація? Північно-західна гірнича асоціація?"
+        },
+        {
+            "tag": "A2G2.CLUBUI_RILEY_0004",
+            "en": "Agency? Like some kind of mining… agency?",
+            "ru_native": "Агентство? Вроде шахтерского... агентства?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агенція? Типу гірнича агенція?"
+        }
+    ]
+}

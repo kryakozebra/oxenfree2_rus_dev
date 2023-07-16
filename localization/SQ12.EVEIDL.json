@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ12.EVEIDL",
+    "entries": [
+        {
+            "tag": "SQ12.EVEIDL_EVELYN_0000",
+            "en": "[WT] Are you there? Riley? Pick up, okay? Over.",
+            "ru_native": "Ты там? Райли? Отзовись? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти там? Райлі? Прийом."
+        },
+        {
+            "tag": "SQ12.EVEIDL_EVELYN_0001",
+            "en": "[WT] Rilleeeeyy. Pick up, please. Over.",
+            "ru_native": "Райли-и-и-и. Ответь, пожалуйста. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі-і-і-і. Будь ласка, вийди на зв’язок. Прийом."
+        },
+        {
+            "tag": "SQ12.EVEIDL_EVELYN_0002",
+            "en": "[WT] I have something weird and maybe important to tell you. I’m not entirely sure, but…",
+            "ru_native": "У меня есть для тебя странное и, возможно, важное сообщение. Я не совсем уверена, но…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене для тебе є дивне і, можливо, важливе повідомлення. Я не впевнена, але…"
+        },
+        {
+            "tag": "SQ12.EVEIDL_EVELYN_0003",
+            "en": "[WT] Just talk to me, please. Over.",
+            "ru_native": "Просто поговори со мной. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто поговори зі мною, будь ласка. Прийом."
+        },
+        {
+            "tag": "SQ12.EVEIDL_EVELYN_0004",
+            "en": "[WT] Okay, well call me back when you’re hands-free. Over and out.",
+            "ru_native": "Ладно, поговорим, когда освободишься. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, зв’яжись зі мною, коли звільнишся. Кінець зв’язку."
+        }
+    ]
+}

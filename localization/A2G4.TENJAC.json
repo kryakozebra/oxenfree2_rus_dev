@@ -1,0 +1,96 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G4.TENJAC",
+    "entries": [
+        {
+            "tag": "A2G4.TENJAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.TENJAC_CHOICE_0000_OPTION_0000",
+            "en": "Jacob! Are you okay?",
+            "ru_native": "Джейкоб! Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Ти як?"
+        },
+        {
+            "tag": "A2G4.TENJAC_CHOICE_0000_OPTION_0001",
+            "en": "Jacob, can you hear me?",
+            "ru_native": "Джейкоб, ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, ти мене чуєш?"
+        },
+        {
+            "tag": "A2G4.TENJAC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.TENJAC_CHOICE_0001_OPTION_0000",
+            "en": "Jacob! Please, get up!",
+            "ru_native": "Джейкоб! Вставай, пожалуйста!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Вставай, будь ласка!"
+        },
+        {
+            "tag": "A2G4.TENJAC_CHOICE_0001_OPTION_0001",
+            "en": "Jacob, c’mon, let’s go!",
+            "ru_native": "Джейкоб, идем!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, пішли!"
+        },
+        {
+            "tag": "A2G4.TENJAC_RILEY_0000",
+            "en": "Jacob! Are you okay? Is anything broken?",
+            "ru_native": "Джейкоб! Ты как? Ничего не сломал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Ти як? Нічого не зламав?"
+        },
+        {
+            "tag": "A2G4.TENJAC_RILEY_0001",
+            "en": "Jacob! Jacob, can you hear me?",
+            "ru_native": "Джейкоб? Джейкоб, ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Джейкобе, ти мене чуєш?"
+        },
+        {
+            "tag": "A2G4.TENJAC_RILEY_0002",
+            "en": "Jacob! Please, c’mon, man, get up! Show me something here!",
+            "ru_native": "Джейкоб! Пожалуйста, вставай! Покажи мне что-нибудь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Будь ласка, вставай! Поворушися!"
+        },
+        {
+            "tag": "A2G4.TENJAC_RILEY_0003",
+            "en": "Jacob! Jacob, c’mon, let’s go! Up and at’m, buddy, let’s do something!",
+            "ru_native": "Джейкоб! Давай, пошли! Вставай, приятель!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Нуж-бо, пішли! Вставай, друже!"
+        }
+    ]
+}

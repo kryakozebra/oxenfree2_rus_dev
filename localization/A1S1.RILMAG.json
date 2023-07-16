@@ -1,0 +1,96 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.RILMAG",
+    "entries": [
+        {
+            "tag": "A1S1.RILMAG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.RILMAG_CHOICE_0000_OPTION_0000",
+            "en": "Who are you?",
+            "ru_native": "Вы кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви хто?"
+        },
+        {
+            "tag": "A1S1.RILMAG_CHOICE_0000_OPTION_0001",
+            "en": "Where am I?",
+            "ru_native": "Где я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де я?"
+        },
+        {
+            "tag": "A1S1.RILMAG_CHOICE_0000_OPTION_0002",
+            "en": "Do I know you?",
+            "ru_native": "Я вас знаю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вас знаю?"
+        },
+        {
+            "tag": "A1S1.RILMAG_MAGGIE_0000",
+            "en": "[possessed] Bury me…",
+            "ru_native": "Закопай...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Закопай…"
+        },
+        {
+            "tag": "A1S1.RILMAG_MAGGIE_0001",
+            "en": "[possessed] …where you can’t see water.",
+            "ru_native": "...меня вдали от воды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…мене подалі від води."
+        },
+        {
+            "tag": "A1S1.RILMAG_RILEY_0000",
+            "en": "Excuse me—who—who are you?",
+            "ru_native": "Простите... Вы кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, але… хто… хто ви?"
+        },
+        {
+            "tag": "A1S1.RILMAG_RILEY_0001",
+            "en": "Uh—where is this? Where—am I?",
+            "ru_native": "Что это за место? Где я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… що це за місце? Де… я?"
+        },
+        {
+            "tag": "A1S1.RILMAG_RILEY_0002",
+            "en": "[hesitates] I think—do we know each other?",
+            "ru_native": "Кажется... Мы знакомы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається… Ми знайомі?"
+        },
+        {
+            "tag": "A1S1.RILMAG_VOICE_0000",
+            "en": "[VO] Adler? Come in. We’re receiving--",
+            "ru_native": "",
+            "ru_machine": "DEEPL [VO] Адлер? Входите. Мы принимаем...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

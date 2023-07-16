@@ -1,0 +1,744 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S6.JACONE",
+    "entries": [
+        {
+            "tag": "A3S6.JACONE_ALEX_0000",
+            "en": "Jacob. Tune it closed… when you’re on the other—",
+            "ru_native": "Джейкоб. Настрой его на закрытие... когда будешь на другой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе. Налаштуй його на закриття, коли будеш по той бік…"
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0000_OPTION_0000",
+            "en": "If you want to.",
+            "ru_native": "Если ты хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти хочеш."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0000_OPTION_0001",
+            "en": "Are you sure?",
+            "ru_native": "Ты уверен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти впевнений?"
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0000_OPTION_0002",
+            "en": "You earned the right.",
+            "ru_native": "Ты заслужил это право.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти заслужив це право."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0001_OPTION_0000",
+            "en": "Me too.",
+            "ru_native": "И я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0001_OPTION_0001",
+            "en": "Any time.",
+            "ru_native": "Не за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0001_OPTION_0002",
+            "en": "Take care, Jacob.",
+            "ru_native": "Береги себя, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бережи себе, Джейкобе."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0002_OPTION_0000",
+            "en": "Take care, Jacob.",
+            "ru_native": "Береги себя, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бережи себе, Джейкобе."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0002_OPTION_0001",
+            "en": "Thanks for doing this.",
+            "ru_native": "Спасибо, что сделал это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що зробив це."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0002_OPTION_0002",
+            "en": "I’m sorry this happened.",
+            "ru_native": "Мне жаль, что так вышло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шкода, що це сталося."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0003_OPTION_0000",
+            "en": "I understand.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я понимаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0003_OPTION_0001",
+            "en": "I shouldn’t have asked you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне не следовало спрашивать тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не мала тебе просити."
+        },
+        {
+            "tag": "A3S6.JACONE_CHOICE_0003_OPTION_0002",
+            "en": "Guess it’s me or Olivia.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Видимо, или я, или Оливия.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, це або я, або Олівія."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0000",
+            "en": "Really?",
+            "ru_native": "Правда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді?"
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0001",
+            "en": "I do.",
+            "ru_native": "Я сделаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0002",
+            "en": "I am, Riley. Yeah. I am.",
+            "ru_native": "Да, Райли. Уверен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Райлі, упевнений."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0003",
+            "en": "I won’t.",
+            "ru_native": "Не скажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не скажу."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0004",
+            "en": "Guess it’s just us for the finale.",
+            "ru_native": "Похоже, это финал только для нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже це фінал лише для нас."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0005",
+            "en": "Riley, what we did… tonight. Knowing you…",
+            "ru_native": "Райли, то, что мы сделали этой ночью. Узнать тебя...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, те що ми зробили цієї ночі… Познайомитися з тобою…"
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0006",
+            "en": "I was never gonna be able to top that.",
+            "ru_native": "Лучше в моей жизни ничего не будет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кращого в моєму житті не буде."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0007",
+            "en": "And that’s not why I want to do this, but… it’s true in any case.",
+            "ru_native": "Но я не поэтому хочу это сделать, просто... это в любом случае правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я не тому хочу зробити це, а… хай там що, це правда."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0008",
+            "en": "So…",
+            "ru_native": "Что ж...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож…"
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0009",
+            "en": "I’m glad you helped me find my dog.",
+            "ru_native": "Я рад, что ты помогла мне найти собаку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я радий, що ти допомогла мені знайти мого собаку."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0010",
+            "en": "I’m glad you killed my truck.",
+            "ru_native": "Я рад, что ты прикончила мой грузовик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я радий, що ти зламала мою вантажівку."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0011",
+            "en": "I’m glad you helped me with my truck.",
+            "ru_native": "Я рад, что ты помогла мне с грузовиком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я радий, що ти допомогла мені з моєю вантажівкою."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0012",
+            "en": "I’m glad I ran into you.",
+            "ru_native": "Я рад, что встретил тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я радий, що зустрів тебе."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0013",
+            "en": "Yeah. Likewise.",
+            "ru_native": "Да. И я по тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Навзаєм."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0014",
+            "en": "Heh. Any time.",
+            "ru_native": "Ха. Не за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хех, будь ласка."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0015",
+            "en": "Heh. Right.",
+            "ru_native": "Ага. Верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хех. Правда."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0016",
+            "en": "Guess this is it.",
+            "ru_native": "Вот, пожалуй, и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От, певно, і все."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0017",
+            "en": "At the end of everything, I, uh, all told, I’m… glad I ran into you.",
+            "ru_native": "В конце концов, я, эм, я... рад, что встретил тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Врешті-решт, я радий, що зустрів тебе."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0018",
+            "en": "It might seem crazy, what with everything that happened, but…",
+            "ru_native": "Это может показаться безумием, как и все, что случилось, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це може здаватися божевіллям, зважаючи на все, що сталося, але…"
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0019",
+            "en": "I think it brought me right where I was always supposed to be.",
+            "ru_native": "Думаю, это привело меня туда, где я всегда должен был быть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ці події привели мене туди, де я мав бути."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0020",
+            "en": "But…",
+            "ru_native": "Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0021",
+            "en": "Maybe that’s a little wishful thinking.",
+            "ru_native": "Может, мне просто хочется в это верить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, мені просто хочеться в це вірити."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0022",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0023",
+            "en": "Yeah. So do I.",
+            "ru_native": "Да. Я тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я теж."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0024",
+            "en": "No no no, this… this is what I want. Really.",
+            "ru_native": "Нет-нет, я сам этого хочу. Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ні, ні… Я сам цього хочу, Райлі."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0025",
+            "en": "This is a good thing. [chuckles a little] Trust me.",
+            "ru_native": "Все хорошо. Верь мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе добре. [Трохи хихикає] Повір мені."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0026",
+            "en": "Well. I’ll see you when I see you.",
+            "ru_native": "Что ж. Увидимся, когда увидимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж. Побачимося, коли побачимося."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0027",
+            "en": "Oh, uh, Riley… I’m sorry, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, эм, Райли... Прости, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, Райлі… Мені шкода, але…"
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0028",
+            "en": "Before tonight… I think I would have been the first one to volunteer. Honestly.",
+            "ru_native": "До этого дня... Я бы в числе первых вызвался добровольцем. Честно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До цієї ночі… я вважав, що першим добровольцем буду я. Чесно."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0029",
+            "en": "But… I’m sorry, Riley, our… friendship and what we did tonight…",
+            "ru_native": "Но... Прости, Райли. Наша дружба и то, что мы делали...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Вибач, Райлі, наша… дружба й наші дії цієї ночі…"
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0030",
+            "en": "I can’t just live in memories anymore.",
+            "ru_native": "Я больше не могу жить воспоминаниями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я більше не можу жити в спогадах."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0031",
+            "en": "I’m just not in the same place I was…",
+            "ru_native": "Для меня все стало по-другому...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не в тому місці, у якому був…"
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0032",
+            "en": "I… want to make some changes in my life.",
+            "ru_native": "Я хочу изменить свою жизнь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… хочу дещо змінити своє життя."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0033",
+            "en": "And I have to be living that life to make those changes.",
+            "ru_native": "И чтобы ее поменять, я должен жить дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому я маю жити ним, щоби зробити ці зміни."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0034",
+            "en": "And if that makes me selfish…",
+            "ru_native": "Если я кажусь эгоистом...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І якщо я через це здаюся егоїстичним…"
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0035",
+            "en": "Then… I’m sorry.",
+            "ru_native": "То прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді… Мені шкода."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0036",
+            "en": "But I can’t just live in memories anymore.",
+            "ru_native": "Но я больше не могу жить воспоминаниями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я більше не можу жити в спогадах."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0037",
+            "en": "I feel terrible even saying it, Riley, I do. I’m… sorry I can’t do this for you. But I just can’t.",
+            "ru_native": "Райли, мне ужасно неприятно говорить это.<br>Прости, что не могу помочь. Но я правда не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені прикро казати це, Райлі, прикро. Мені шкода, що я<br>не можу зробити цього заради тебе. Але я просто не можу."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0038",
+            "en": "I’m just sorry I’m not… able to do this for you. I just can’t.",
+            "ru_native": "Мне жаль, что... я не могу помочь. Не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені просто шкода. що я не можу… зробити це заради тебе. Просто не можу."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0039",
+            "en": "I’m… sorry. Really.",
+            "ru_native": "Мне жаль. Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені… шкода. Правда."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0040",
+            "en": "I’m… sorry. Really.",
+            "ru_native": "Мне жаль. Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені… шкода. Правда."
+        },
+        {
+            "tag": "A3S6.JACONE_JACOB_0041",
+            "en": "I’m glad I took the job.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я рад, что согласился на эту работу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я радий, що погодився на цю роботу."
+        },
+        {
+            "tag": "A3S6.JACONE_OLIVIA_0000",
+            "en": "What! Why?",
+            "ru_native": "Что! Почему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Чому?"
+        },
+        {
+            "tag": "A3S6.JACONE_OLIVIA_0001",
+            "en": "No, this is—I-I just—",
+            "ru_native": "Нет, это... Я... Я просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. це… Я просто…"
+        },
+        {
+            "tag": "A3S6.JACONE_OLIVIA_0002",
+            "en": "I just don’t know why…",
+            "ru_native": "Я просто не знаю, почему...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не знаю, чому…"
+        },
+        {
+            "tag": "A3S6.JACONE_OLIVIA_0003",
+            "en": "I just… don’t know why I couldn’t… do it.",
+            "ru_native": "Я просто... не знаю, почему я не смогла… это сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не знаю, чому я не змогла зробити цього."
+        },
+        {
+            "tag": "A3S6.JACONE_OLIVIA_0004",
+            "en": "It’s fine. He doesn’t want it. I… need this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всё нормально. Ему это не нужно. А мне... это нужно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе добре. Він цього не хоче. А мені… це потрібно."
+        },
+        {
+            "tag": "A3S6.JACONE_OLIVIA_0005",
+            "en": "It’s fine. He doesn’t want it. I… need this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всё нормально. Ему это не нужно. А мне... это нужно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе добре. Він цього не хоче. А мені… це потрібно."
+        },
+        {
+            "tag": "A3S6.JACONE_OLIVIA_0006",
+            "en": "It’s fine. He doesn’t want it. I… need this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всё нормально. Ему это не нужно. А мне... это нужно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе добре. Він цього не хоче. А мені… це потрібно."
+        },
+        {
+            "tag": "A3S6.JACONE_OLIVIA_0007",
+            "en": "It’s fine. He doesn’t want it. I… need this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всё нормально. Ему это не нужно. А мне... это нужно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе добре. Він цього не хоче. А мені… це потрібно."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0000",
+            "en": "Only cause you want to, Jacob.",
+            "ru_native": "Только если ты хочешь, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лише тому, що ти хочеш цього, Джейкобе."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0001",
+            "en": "Jacob. Are you… sure about this?",
+            "ru_native": "Джейкоб. Ты... уверен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, ти впевнений… щодо цього?"
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0002",
+            "en": "I think you earned the right, Jacob. So. Don’t say I never did anything for ya.",
+            "ru_native": "Думаю, ты заслужил это право, Джейкоб. Так что<br>не говори, что я ничего для тебя не делала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ти заслужив це право, Джейкобе. Тож не говори,<br>що я нічого не зробила для тебе."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0003",
+            "en": "Me too, Jacob.",
+            "ru_native": "Я тоже, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж, Джейкобе."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0004",
+            "en": "I’ll miss you, I will.",
+            "ru_native": "Я буду скучать, правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сумуватиму за тобою, правда."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0005",
+            "en": "Any time, Jacob.",
+            "ru_native": "Не за что, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, Джейкобе."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0006",
+            "en": "Wherever you’re going… just… take care, Jacob.",
+            "ru_native": "Куда бы ты ни отправился... просто... береги себя, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де б ти не був… бережи себе, Джейкобе."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0007",
+            "en": "A life is what you make it. Right?",
+            "ru_native": "Ты сам строишь свою жизнь. Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сам відповідаєш за своє життя, еге ж?"
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0008",
+            "en": "I hope you get what you want.",
+            "ru_native": "Надеюсь, ты получишь желаемое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ти отримаєш те, чого прагнеш."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0009",
+            "en": "Thanks for being… you, Jacob. Thanks for doing this.",
+            "ru_native": "Спасибо, что был... собой, Джейкоб. Спасибо, что сделал это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що був самим собою, Джейкобе. Дякую, що зробив це."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0010",
+            "en": "I’m so sorry all this happened to us, Jacob—happened to… me.",
+            "ru_native": "Джейкоб, прости за все, что случилось с нами... случилось со... мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода, що це сталося з нами, Джейкобе. Зі мною…"
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0011",
+            "en": "I didn’t want it to end like this.",
+            "ru_native": "Я не хотела, чтобы все так закончилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хотіла, щоби це сталося так."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0012",
+            "en": "Jacob—",
+            "ru_native": "Джейкоб?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе…"
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0013",
+            "en": "I understand, Jacob. You have a life to live. You should see that through.",
+            "ru_native": "Понимаю, Джейкоб. У тебя своя жизнь. Ты должен прожить ее до конца.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію, Джейкобе. У тебе своє життя. Треба це враховувати."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0014",
+            "en": "I’m sorry, I… I shouldn’t have asked you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прости, я... я не должен был тебя спрашивать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я… я не повинна була тебе просити."
+        },
+        {
+            "tag": "A3S6.JACONE_RILEY_0015",
+            "en": "Well. Guess that leaves me or you, Olivia…",
+            "ru_native": "Что ж, остаемся мы с тобой, Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, залишилися я або ти, Олівіє…"
+        }
+    ]
+}

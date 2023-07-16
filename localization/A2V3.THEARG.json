@@ -1,0 +1,816 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.THEARG",
+    "entries": [
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0000",
+            "en": "My knife? Are you kidding me?",
+            "ru_native": "Нож? В смысле?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніж? Ти що, знущаєшся?"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0001",
+            "en": "To, like, cut branches in the woods!",
+            "ru_native": "Да, чтобы резать ветки в лесу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, щоби різати гілки в лісі!"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0002",
+            "en": "Not to stab people!",
+            "ru_native": "А не людей!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А не протикати людей!"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0003",
+            "en": "Oh please, Gingerbread over there was the insane one, earlier.",
+            "ru_native": "Да ладно! Это твой Рыжий первым обезумел, еще тогда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі! Це твій Рудий почав робити дурниці, ще тоді."
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0004",
+            "en": "I thought he was going to rip my head off!",
+            "ru_native": "Я думал, он мне башку оторвет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав, він мені голову відірве!"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0005",
+            "en": "Oh please, Gingerbread over there was the one crossing the line, earlier.",
+            "ru_native": "Да ладно! Это твой Рыжий первым перешел черту, еще тогда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тоб! Це твій Рудий першим перейшов усі межі, ще тоді."
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0006",
+            "en": "Oh please, Gingerbread over there was the out-of-control one, earlier.",
+            "ru_native": "Да ладно! Это твой Рыжий первым сорвался, еще тогда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі! Це твій Рудий себе не контролював, ще тоді."
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0007",
+            "en": "Oh please, Gingerbread, you went completely ballistic on me, earlier.",
+            "ru_native": "Да ладно, Рыжий, ты же первым на меня набросился, еще тогда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, Рудий, ти ж на мене перший накинувся, ще тоді."
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0008",
+            "en": "I thought you were gonna rip my head off!",
+            "ru_native": "Я думал, ты мне башку оторвешь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав, ти мені голову відірвеш!"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0009",
+            "en": "She was… nice to me before!",
+            "ru_native": "Она... была ко мне добра!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… добре до мене ставилася!"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0010",
+            "en": "I… really don’t want to hurt anyone, Olivia.",
+            "ru_native": "Я никому не хочу причинять вред, Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я нікому не хочу зла, Олівіє."
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0011",
+            "en": "I mean, I know what I said before—",
+            "ru_native": "Помню, что тогда говорил...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пам’ятаю, що я казав…"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0012",
+            "en": "I… God. Olivia, I’m—",
+            "ru_native": "Я... Боже. Оливия, я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Боже. Олівіє, я…"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0013",
+            "en": "I… [sigh] Olivia, what’s going on—what are we doing?",
+            "ru_native": "Я... Оливия, что происходит? Что мы делаем?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… [зітхає] Олівіє, що відбувається… Що ми робимо?"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0014",
+            "en": "Uh…",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм…"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0015",
+            "en": "Oh shut up! I’m not killing anyone but give me a break.",
+            "ru_native": "Заткнись! Никого я убивать не собираюсь, отвали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Замовкни! Нікого я не збираюся вбивати, відвали."
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0016",
+            "en": "You… go home!",
+            "ru_native": "Сама... иди домой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сама… йди додому!"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0017",
+            "en": "I’m—hold on. I’m sorry, Olivia, but I’m out.",
+            "ru_native": "Я... Погоди, Оливия. Ты прости, но я пас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Стривай, Олівіє. Вибач, але я пас."
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0018",
+            "en": "Violet...",
+            "ru_native": "Вайолет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет…"
+        },
+        {
+            "tag": "A2V3.THEARG_CHARLIE_0019",
+            "en": "I just don’t know what this is going to do, anymore.",
+            "ru_native": "Я больше не понимаю, для чего мы это делаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я більше не розумію, для чого ми це робимо."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0000_OPTION_0000",
+            "en": "Whoa! Hold on!",
+            "ru_native": "Так! Спокойно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Пригальмуйте!"
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0000_OPTION_0001",
+            "en": "I wouldn’t do that.",
+            "ru_native": "Не советую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не раджу."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0000_OPTION_0002",
+            "en": "Shut up, Olivia.",
+            "ru_native": "Закрой рот, Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стулися, Олівіє."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0001_OPTION_0000",
+            "en": "You’ll be okay, Charlie.",
+            "ru_native": "Чарли, ты справишься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде гаразд, Чарлі."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0001_OPTION_0001",
+            "en": "Go home, Charlie.",
+            "ru_native": "Чарли, иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди додому, Чарлі."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0001_OPTION_0002",
+            "en": "Try attacking me, go ahead.",
+            "ru_native": "Ну попробуй напасть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нападай, не соромся."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0002_OPTION_0000",
+            "en": "You don’t have to, Charlie.",
+            "ru_native": "Чарли, ты не обязан.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, ти не мусиш робити цього."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0002_OPTION_0001",
+            "en": "Go home, Charlie.",
+            "ru_native": "Чарли, иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди додому, Чарлі."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0002_OPTION_0002",
+            "en": "Try it, see what happens.",
+            "ru_native": "Давай, рискни здоровьем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нападай. Побачиш, що буде."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0003_OPTION_0000",
+            "en": "You should be scared, Violet.",
+            "ru_native": "Вайолет, ты должна быть напугана.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти, мабуть, налякана, Вайолет."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0003_OPTION_0001",
+            "en": "Leave her alone, Olivia.",
+            "ru_native": "Оливия, оставь ее в покое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залиш її в спокої, Олівіє."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0003_OPTION_0002",
+            "en": "You’re all coming with me.",
+            "ru_native": "Вы все пойдете со мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви всі підете зі мною."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0004_OPTION_0000",
+            "en": "You should be scared, Violet.",
+            "ru_native": "Вайолет, ты должна быть напугана.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти, мабуть, налякана, Вайолет."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0004_OPTION_0001",
+            "en": "Leave her alone, Olivia.",
+            "ru_native": "Оливия, оставь ее в покое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залиш її в спокої, Олівіє."
+        },
+        {
+            "tag": "A2V3.THEARG_CHOICE_0004_OPTION_0002",
+            "en": "You’re all coming with me.",
+            "ru_native": "Вы все пойдете со мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви всі підете зі мною."
+        },
+        {
+            "tag": "A2V3.THEARG_JACOB_0000",
+            "en": "Is Parentage—",
+            "ru_native": "А «Наследие»...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А «Парентаж»…"
+        },
+        {
+            "tag": "A2V3.THEARG_JACOB_0001",
+            "en": "Hey, don’t do something you can’t take back, kid.",
+            "ru_native": "Девочка, не делай того, о чем потом пожалеешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дівчинко, не треба робити того, про що потім пожалкуєш."
+        },
+        {
+            "tag": "A2V3.THEARG_JACOB_0002",
+            "en": "Good one.",
+            "ru_native": "Ничего себе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого собі."
+        },
+        {
+            "tag": "A2V3.THEARG_JACOB_0003",
+            "en": "Finally, a teenager with some sense!",
+            "ru_native": "Подросток со здравым смыслом!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нарешті, підліток зі здоровим глуздом!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0000",
+            "en": "Parentage has no idea I’m even here! My Aunt and Uncle are clueless—",
+            "ru_native": "«Наследие» понятия не имеет, что я здесь! Тетя с дядей ничего не знают...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Парентаж» і гадки не має, що я тут! Тітка з дядьком нічого не знають…"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0001",
+            "en": "They’d never approve of the ceremony—it’s off-chart. I’m taking it myself.",
+            "ru_native": "Они бы никогда не одобрили такую церемонию. Я проведу ее сама.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони ніколи б не схвалили таку церемонію… Я проведу її сама."
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0002",
+            "en": "Charlie, take them down. You have your knife, right?",
+            "ru_native": "Чарли, избавься от них. У тебя нож с собой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, позбудься їх. Твій ніж із тобою?"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0003",
+            "en": "You brought it!",
+            "ru_native": "Ты сам его взял!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сам його взяв!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0004",
+            "en": "Charlie! Focus up! Don’t listen to their bullcrap. C’mon!",
+            "ru_native": "Чарли! Сосредоточься! Не слушай их бредни! Ну же!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі! Зосередься! Не слухай їхню маячню. Ну!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0005",
+            "en": "What does that even mean? Nice?",
+            "ru_native": "Что это вообще значит? «Добра»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це взагалі означає? Добре ставилася?"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0006",
+            "en": "This is what we talked about!",
+            "ru_native": "Мы же это обсуждали!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми про це говорили!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0007",
+            "en": "What was the blood pact for if you’re not even gonna—",
+            "ru_native": "Для чего тогда клясться на крови, если ты даже не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо тоді давати клятви на крові, якщо ти навіть не…"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0008",
+            "en": "Whatever. Fine.",
+            "ru_native": "Пофиг. Оно мне надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже. Гаразд."
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0009",
+            "en": "Whatever. Fine.",
+            "ru_native": "Пофиг. Оно мне надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже. Гаразд."
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0010",
+            "en": "Who gives a crap what you like?",
+            "ru_native": "Всем насрать, что тебе нравится!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та всі чхати хотіли на те, що тобі подобається!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0011",
+            "en": "But what, Violet?",
+            "ru_native": "Но что, Вайолет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але що, Вайолет?"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0012",
+            "en": "So I took an extra hour to get you from the woods!",
+            "ru_native": "Да, ты на час подольше побыла в лесу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти на годину довше побула в лісі!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0013",
+            "en": "Who friggin’ cares?",
+            "ru_native": "Всем насрать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усім начхати!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0014",
+            "en": "Nothing has even happened. Yet, It’s all noise and fury! They haven’t fixed it!",
+            "ru_native": "Еще даже ничего не произошло! Только шум и эмоции! Они ничего не исправили!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще навіть нічого не сталося. Лише шум та емоції! Вони нічого не виправили!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0015",
+            "en": "She has no power over us—you have nothing over us.",
+            "ru_native": "У нее нет права. У тебя ничего на нас нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона не має права… У тебе нічого на нас немає."
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0016",
+            "en": "Tonight is the Blue Moon! Janus is aligned! Don’t you get it?",
+            "ru_native": "Сегодня голубая луна! Янус в линии! Вы не понимаете!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні блакитний місяць! Янус у лінії! Ви не розумієте!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0017",
+            "en": "This is once every ten—no—twenty years, and once this is done, we’re all set!",
+            "ru_native": "Такое бывает раз в десять... двадцать лет! Еще немного, и мы будем счастливы!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Таке буває раз на десять… двадцять років! Ще трохи, і ми будемо щасливі!"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0018",
+            "en": "Absolutely nothing is going to—",
+            "ru_native": "Ничего ужасного не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого жахливого не…"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0019",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0020",
+            "en": "You’re both out?! We—we just—",
+            "ru_native": "Вы оба уходите?! Мы же только...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви кидаєте мене?! Ми… ми лише…"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0021",
+            "en": "What? You’re—you’re quitting?",
+            "ru_native": "Что? Ты... ты уходишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Ти… ти йдеш?"
+        },
+        {
+            "tag": "A2V3.THEARG_OLIVIA_0022",
+            "en": "You know what it’s going to do! It’s going to do everything!",
+            "ru_native": "Ты знаешь, для чего! Чтобы все исправить!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш, для чого! Щоби все виправити!"
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0000",
+            "en": "Okay! Whoa, slow down—this is getting insane—",
+            "ru_native": "Так! Спокойно. С ума сходить не надо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Пригальмуйте… Не треба робити дурниць…"
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0001",
+            "en": "Okay, seriously, Olivia. You’re walking into territory you can’t walk back.",
+            "ru_native": "Оливия, хватит. Ты сейчас ступаешь на очень опасную территорию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, годі. Ти переходиш усі межі дозволеного."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0002",
+            "en": "Oh just shut the hell up, Olivia—guys, don’t listen to her. She’s out of control.",
+            "ru_native": "Оливия, закрой уже рот! Ребята, не слушайте ее. Она себя не контролирует.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та стулися ти вже, Олівіє! Друзі, не слухайте її. Вона себе не контролює."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0003",
+            "en": "Charlie. There’s nobody here that can make you do anything you don’t want to do.",
+            "ru_native": "Чарли. Никто здесь не может заставить тебя делать то, чего ты не хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі. Ніхто не може тебе змусити робити те, що ти не хочеш."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0004",
+            "en": "I gave you a second chance at the waterfall. Show me you earned it.",
+            "ru_native": "Я дала тебе второй шанс у водопада. Покажи, что я была права.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я дала тобі другий шанс біля водоспаду. Доведи, що я зробила це не дарма."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0005",
+            "en": "Charlie. C’mon, man. Let’s call it a night, okay?",
+            "ru_native": "Чарли. Парень, прекрати. Давайте мирно разойдемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі. Годі тобі, хлопче. Давайте просто мирно розійдемося?"
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0006",
+            "en": "Seriously, you want to try and cut me? Try it. See what happens.",
+            "ru_native": "Ты сейчас всерьез решил меня порезать? Ну давай. Попробуй.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти серйозно хочеш мене порізати? Нападай. І побачиш, що буде."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0007",
+            "en": "C’mon, man, haven’t you done enough for a school night? Go home.",
+            "ru_native": "Парень, ты уже достаточно дел наворотил сегодня. Иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопче, ти й так сьогодні багато чого зробив. Іди додому."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0008",
+            "en": "Violet. Listen to me. You should be scared.",
+            "ru_native": "Вайолет. Послушай. Ты должна быть напугана.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет. Послухай. Ти маєш бути налякана."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0009",
+            "en": "Remember Charity Point? Don’t you want to just go home?",
+            "ru_native": "Помнишь Черити Поинт? Разве ты не хочешь домой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти пам’ятаєш Черіті-Пойнт? Хіба тобі не хочеться додому?"
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0010",
+            "en": "Okay, just leave her alone, Olivia.",
+            "ru_native": "Так, Оливия. Оставь ее в покое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залиш її в спокої, Олівіє."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0011",
+            "en": "You didn’t see her at Charity Point. She’s… had a rough night. Right, Violet?",
+            "ru_native": "Ты не видела ее в Черити Поинт. У нее... была тяжелая ночь. Да, Вайолет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не бачила її в Черіті-Пойнт. У неї… була важка ніч. Так, Вайолет?"
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0012",
+            "en": "Okay, all of you are coming with me, you understand? March.",
+            "ru_native": "Так, вы все пойдете со мной, ясно? Шагом марш.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви всі підете зі мною, ясно? Кроком руш."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0013",
+            "en": "You should all be terrified of what you’ve unleashed on us—",
+            "ru_native": "Вы все должны бояться того, что выпустили на свободу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви всі маєте боятися того, що ви випустили на волю."
+        },
+        {
+            "tag": "A2V3.THEARG_RILEY_0014",
+            "en": "Hasn’t she been through enough, tonight? Haven’t we all been through enough?",
+            "ru_native": "Думаю, она уже достаточно прошла за сегодня. Все мы прошли достаточно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, вона сьогодні багато чого пережила. Як і всі ми."
+        },
+        {
+            "tag": "A2V3.THEARG_VIOLET_0000",
+            "en": "Olivia…",
+            "ru_native": "Оливия...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє…"
+        },
+        {
+            "tag": "A2V3.THEARG_VIOLET_0001",
+            "en": "Olivia, I—I don’t like this.",
+            "ru_native": "Оливия... Мне это не нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, я… Мені це не подобається."
+        },
+        {
+            "tag": "A2V3.THEARG_VIOLET_0002",
+            "en": "I—I don’t—I’m not quitting, but—",
+            "ru_native": "Я не... Я не ухожу, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не… Я не йду, але…"
+        },
+        {
+            "tag": "A2V3.THEARG_VIOLET_0003",
+            "en": "I… I…",
+            "ru_native": "Я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я…"
+        },
+        {
+            "tag": "A2V3.THEARG_VIOLET_0004",
+            "en": "Olivia?",
+            "ru_native": "Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє?"
+        },
+        {
+            "tag": "A2V3.THEARG_VIOLET_0005",
+            "en": "Yeah, I can’t do this anymore, either.",
+            "ru_native": "Да, я тоже больше так не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я теж так більше не можу."
+        },
+        {
+            "tag": "A2V3.THEARG_VIOLET_0006",
+            "en": "I can’t do this anymore, Olivia. I’m—I’m so sorry.",
+            "ru_native": "Оливия, я так больше не могу. Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, я так більше не можу. Я… Вибач."
+        },
+        {
+            "tag": "A2V3.THEARG_VIOLET_0007",
+            "en": "Olivia…",
+            "ru_native": "Оливия...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє…"
+        }
+    ]
+}

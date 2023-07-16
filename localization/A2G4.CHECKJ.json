@@ -1,0 +1,501 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G4.CHECKJ",
+    "entries": [
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0000_OPTION_0000",
+            "en": "You okay?",
+            "ru_native": "Как ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти як?"
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0000_OPTION_0001",
+            "en": "How did you survive?",
+            "ru_native": "Как ты выжил?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як тобі вдалося вціліти?"
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0000_OPTION_0002",
+            "en": "Yeah, you fell.",
+            "ru_native": "Да, ты упал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ти впав."
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0001_OPTION_0000",
+            "en": "I didn’t just fall!",
+            "ru_native": "Это не я упала!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не я впала!"
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0001_OPTION_0001",
+            "en": "Nice of you to ask.",
+            "ru_native": "Спасибо, что спросил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що спитав."
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0001_OPTION_0002",
+            "en": "I hate everything in here.",
+            "ru_native": "Я тут все ненавижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тут усе ненавиджу."
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0002_OPTION_0000",
+            "en": "Definitely. ",
+            "ru_native": "Точно. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно. "
+        },
+        {
+            "tag": "A2G4.CHECKJ_CHOICE_0002_OPTION_0001",
+            "en": "Let's do it.",
+            "ru_native": "Но как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давайте зробимо це."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0000",
+            "en": "Ah, just—just—just… wait. [breathes out]",
+            "ru_native": "Просто, просто... подожди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто, просто… почекай. [видихає]"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0001",
+            "en": "The board gave way, didn’t it? [strains in a little pain]",
+            "ru_native": "Доска поддалась, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дошка піддалася, чи не так? [напружується від невеликого болю]"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0002",
+            "en": "Oof.",
+            "ru_native": "Ой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0003",
+            "en": "Just uh… give me a second.",
+            "ru_native": "Дай-ка мне минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, дай мені хвилину."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0004",
+            "en": "[ID-4] [strained sigh]",
+            "ru_native": "[ID-4]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Напружено зітхає]"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0005",
+            "en": "Yeah, I’m—ugh—fine.",
+            "ru_native": "Да, я... в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я… у мене все гаразд."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0006",
+            "en": "It didn’t feel like that… far of a fall.",
+            "ru_native": "Это не было похоже на... падение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не було схоже на… падіння."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0007",
+            "en": "Like I’d just taken a header off a chair or… something.",
+            "ru_native": "Как будто я со стула упал или... вроде того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наче я зі стільця впав або… щось таке."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0008",
+            "en": "I’m—ugh—I’m not entirely sure… probably… time… weirdness.",
+            "ru_native": "Я... не совсем уверен... наверное... странности... времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не зовсім упевнений… напевно… це… дива часу."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0009",
+            "en": "Really? Ugh—the roof?",
+            "ru_native": "Правда? Уф... крыша?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді? Уф… дах?"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0010",
+            "en": "Are you okay?",
+            "ru_native": "Ты в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0011",
+            "en": "Like—you look okay, but…",
+            "ru_native": "Ты с виду в порядке, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із тобою, наче, усе гаразд, але…"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0012",
+            "en": "Still checking.",
+            "ru_native": "Хочу удостовериться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто перевіряю."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0013",
+            "en": "Yeah, but, ya know, manners!",
+            "ru_native": "Ну, ты понимаешь, вежливость!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ти розумієш, вихованість!"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0014",
+            "en": "Good. Good. I think—I think we’re both okay, then.",
+            "ru_native": "Хорошо. Хорошо. Выходит, мы оба в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Добре. Виходить, ми обидва цілі."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0015",
+            "en": "Ah! So you’re completely unharmed then, gotcha.",
+            "ru_native": "Значит, ты совершенно невредима, ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Значить, ти абсолютно ціла, зрозуміло."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0016",
+            "en": "Okay. I think we’re both gonna live.",
+            "ru_native": "Ладно. Думаю, мы с тобой еще поживем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Думаю, ми ще з тобою ще поживемо."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0017",
+            "en": "Wood rot. Am I right?",
+            "ru_native": "Дерево прогнило. Я прав?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дерево прогнило. Чи не так?"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0018",
+            "en": "Let’s, uh… let’s get out of here.",
+            "ru_native": "Давай... давай убираться отсюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забираймося звідси."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0019",
+            "en": "Can we, just, do that, please.",
+            "ru_native": "Пожалуйста, давай сделаем это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому б просто не зробити це."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0020",
+            "en": "[sigh]",
+            "ru_native": "(вздыхает)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає]"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0021",
+            "en": "There’s gotta be a—a piece of plywood or something we can wrench off?",
+            "ru_native": "Должен быть кусок фанеры или что-то, что мы можем оторвать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Має бути шматок фанери або щось, що ми можемо відірвати?"
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0022",
+            "en": "Look for the door.",
+            "ru_native": "Поищи дверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукай двері."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0023",
+            "en": "I’m—ugh—I’m not entirely sure… probably… time… weirdness.",
+            "ru_native": "Я... не совсем уверен... наверное... странности... времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не зовсім упевнений… напевно… це… дива часу."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0024",
+            "en": "It didn’t feel like that… far of a fall.",
+            "ru_native": "Это не было похоже на ...падение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не було схоже на… падіння."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0025",
+            "en": "Like I’d just taken a header off a chair or… something.",
+            "ru_native": "Как будто я со стула упал или... вроде того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наче я зі стільця впав або… щось таке."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0026",
+            "en": "God, Miss Adler would be pretty pissed at me if she knew I’d broken into this church.",
+            "ru_native": "Боже, мисс Адлер была бы в ярости, если бы узнала, что я пробрался в эту церковь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, міс Адлер була б дуже зла на мене, якби дізналася, що я вдерся в цю церкву."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0027",
+            "en": "She, uh… always said not to wander around Garland. I’d get a disease.",
+            "ru_native": "Она, эм... всегда говорила не шататься по Гарленду. А то что-нибудь подцепишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… завжди казала не вештатися навколо Гарленда. Бо можна захворіти."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0028",
+            "en": "Sorry.",
+            "ru_native": "Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0029",
+            "en": "We can use the rope. It might take me a little while, but… it’s alright. I’ll keep up.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы можем использовать веревку. Это может занять у меня немного времени, но... ничего страшного. Я не отстану.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми можемо скористатися мотузкою. Це займе трохи часу, але… усе гаразд. Я встигну."
+        },
+        {
+            "tag": "A2G4.CHECKJ_JACOB_0030",
+            "en": "Let's get back up top. We've got a portal to close.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай вернемся на самый верх. Нам нужно закрыть портал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повернемося нагору. Нам потрібно закрити портал."
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0000",
+            "en": "Eesh. Are you, uh, okay?",
+            "ru_native": "У-уф. Ты как, в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, як ти там?"
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0001",
+            "en": "Where did you go?",
+            "ru_native": "Где ты пропадал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди ти подівся?"
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0002",
+            "en": "Yeah, you—you fell. The wood in the roof gave out.",
+            "ru_native": "Да, ты... ты упал. Доска на крыше лопнула.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ти… ти впав. Дошка на даху луснула."
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0003",
+            "en": "I’m not the one who just fell through the roof!",
+            "ru_native": "Это не я только что с крыши свалилась!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не я щойно з даху впала!"
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0004",
+            "en": "Well… that’s very nice of you to ask.",
+            "ru_native": "Ну... спасибо, что спросил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… дякую, що спитав."
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0005",
+            "en": "But I’m fine.",
+            "ru_native": "Но я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але зі мною все гаразд."
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0006",
+            "en": "Eh—ya know—I kind of hate everything right now.",
+            "ru_native": "Да... знаешь... Я сейчас вроде как все ненавижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… знаєш… Я зараз ніби все ненавиджу."
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0007",
+            "en": "Uh, yeah, definitely. Find a door.",
+            "ru_native": "Ах да, конечно. Найдем дверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, так, звісно. Знайдемо двері."
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0008",
+            "en": "Uh, yeah, we should, but… how?",
+            "ru_native": "Да, надо бы... но как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, треба… але як?"
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0009",
+            "en": "Jesus, how did you survive? You dropped at least a couple of stories.",
+            "ru_native": "Господи, как ты выжил? Ты пролетел минимум пару этажей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, як тобі вдалося вціліти? Ти впав з такої висоти…"
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0010",
+            "en": "Yeah, let’s, uh, let’s climb out using the same rope.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, давай, вылезем, используя ту же веревку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, давай, е-е, давай виліземо по тій самій мотузці."
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0011",
+            "en": "Yeah, let's get back up and get that transmitter going.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, давай снова поднимемся и запустим передатчик.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, давай піднімемося і ввімкнемо райдіопередавач."
+        },
+        {
+            "tag": "A2G4.CHECKJ_RILEY_0012",
+            "en": "Alrigth. Let's head up, close that portal and finish this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Алригт. Давай отправимся наверх, закроем этот портал и закончим с этим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Давай підіймемося, закриємо портал і покінчимо з цим."
+        }
+    ]
+}

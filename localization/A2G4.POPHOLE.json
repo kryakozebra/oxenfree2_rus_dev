@@ -1,0 +1,114 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2G4.POPHOLE",
+    "entries": [
+        {
+            "tag": "A2G4.POPHOLE_CHOICE_0000_OPTION_0000",
+            "en": "Let’s do it. ",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай сделаем это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уперед. "
+        },
+        {
+            "tag": "A2G4.POPHOLE_CHOICE_0000_OPTION_0001",
+            "en": "Watch your step…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Смотри под ноги...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивися під ноги…"
+        },
+        {
+            "tag": "A2G4.POPHOLE_CHOICE_0000_OPTION_0002",
+            "en": "One second. ",
+            "ru_native": "",
+            "ru_machine": "DEEPL 1 секунда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Секунду. "
+        },
+        {
+            "tag": "A2G4.POPHOLE_JACOB_0000",
+            "en": "[sigh] Okay – okay okay – we’re back.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Окей - окей окей - мы вернулись.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Гаразд. Добре, добре, ми повернулися."
+        },
+        {
+            "tag": "A2G4.POPHOLE_JACOB_0001",
+            "en": "Let’s plant this thing before anything else – before a horde of gremlins drag us off into the night.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай посадим эту штуку раньше, чем все остальное - до того, как орда гремлинов утащит нас в ночь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай спочатку встановимо цю штуку, поки орда гремлінів не затягне нас у ніч."
+        },
+        {
+            "tag": "A2G4.POPHOLE_JACOB_0002",
+            "en": "I don’t blame you.",
+            "ru_native": "Я тебя не виню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тебе розумію."
+        },
+        {
+            "tag": "A2G4.POPHOLE_JACOB_0003",
+            "en": "Let’s finish this, Riley.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай закончим с этим, Райли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай покінчимо з цим, Райлі."
+        },
+        {
+            "tag": "A2G4.POPHOLE_JACOB_0004",
+            "en": "You earned the last one.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты заслужил последнее.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви заробили останній."
+        },
+        {
+            "tag": "A2G4.POPHOLE_RILEY_0000",
+            "en": "Yeah. [sigh] Let’s do it.",
+            "ru_native": "Yeah. [sigh] Погнали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. [зітхає] Уперед."
+        },
+        {
+            "tag": "A2G4.POPHOLE_RILEY_0001",
+            "en": "Alright. Watch your step, though, seriously.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Однако смотри под ноги, серьезно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Дивися під ноги, обережно. Я серйозно."
+        },
+        {
+            "tag": "A2G4.POPHOLE_RILEY_0002",
+            "en": "I’m not climbing down there again, even if you yell really loud.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я больше не полезу туда, даже если ты будешь очень громко кричать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я більше туди не полізу, навіть якщо ти дуже голосно кричатимеш."
+        },
+        {
+            "tag": "A2G4.POPHOLE_RILEY_0003",
+            "en": "Yeah, okay, one second. Just… let me get my bearings.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, хорошо, одну секунду. Просто... дай мне сориентироваться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, добре, одну секунду. Просто… дай мені зорієнтуватися."
+        }
+    ]
+}

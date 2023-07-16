@@ -1,0 +1,492 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT02.CALTRA",
+    "entries": [
+        {
+            "tag": "WT02.CALTRA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0000_OPTION_0000",
+            "en": "It’s Riley, Shelley.",
+            "ru_native": "Шелли, это Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі, це Райлі."
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0001_OPTION_0000",
+            "en": "A ghost is warning you.",
+            "ru_native": "Призрак вас предупреждает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привид тебе попереджає."
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0001_OPTION_0001",
+            "en": "A weird call gave us bad news.",
+            "ru_native": "В олене был портал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивний дзвінок приніс нам погані новини."
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0002_OPTION_0000",
+            "en": "A ghost has a message.",
+            "ru_native": "У призрака есть сообщение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привид має повідомлення для тебе."
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0002_OPTION_0001",
+            "en": "A weird call gave us bad news.",
+            "ru_native": "В олене был портал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивний дзвінок приніс нам погані новини."
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0003_OPTION_0000",
+            "en": "Don’t go.",
+            "ru_native": "Не ходите.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не варто йти."
+        },
+        {
+            "tag": "WT02.CALTRA_CHOICE_0003_OPTION_0001",
+            "en": "Go, it’s okay.",
+            "ru_native": "Идите, все нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йди, усе буде добре."
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0000",
+            "en": "Ranger Shelley? It’s Riley. Over.",
+            "ru_native": "Рейнджер Шелли? Это Райли. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наглядачка Шеллі? Це Райлі. Прийом."
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0001",
+            "en": "Uh, yeah, actually. I think a… ghost of a dead relative is… trying to warn you.",
+            "ru_native": "Вообще-то да. Мне кажется... вас хочет предупредить... призрак умершего родственника.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді так. Здається… привид померлого родича… намагається попередити тебе."
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0002",
+            "en": "So… if you have an uncle that served on the Kanaloa…",
+            "ru_native": "Так что... если у вас есть дядя, который служил на «Каналоа»...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… якщо в тебе є дядько, який служив на човні «Каналоа»…"
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0003",
+            "en": "Maybe think about not leaving your station for the rest of the night. Over.",
+            "ru_native": "Возможно, вам до утра лучше не покидать станцию. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо краще залишитися на станції до ранку. Прийом."
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0004",
+            "en": "[REMOVED] Uh, yeah, actually. We tuned a portal out of a deer’s head. But, uh, more importantly…",
+            "ru_native": "Вообще-то да. Мы настроили портал из головы оленя. Но, что важнее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0005",
+            "en": "We got some sort of a warning. And I think it was directed at you, so…",
+            "ru_native": "Мы получили предупреждение. И, думаю, оно предназначалось вам, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми отримали попередження. І, гадаю, воно призначалося тобі, тож…"
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0006",
+            "en": "I think a… ghost of a dead relative is… trying to warn you. We… just had a bit of a conversation.",
+            "ru_native": "По-моему... вас хочет предупредить... призрак умершего родственника.<br>Мы только что... говорили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається… це попередження… від привида померлого родича. Ми щойно… розмовляли."
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0007",
+            "en": "So… we tuned a portal out of a deer’s head. Uh, bear with me.",
+            "ru_native": "В общем... мы настроили портал из головы оленя. Дослушайте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0008",
+            "en": "We got some sort of a warning. And I think it was directed at you, so...",
+            "ru_native": "Мы получили предупреждение. И, думаю, оно предназначалось вам, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми отримали попередження. І, гадаю, воно призначалося тобі, тож…"
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0009",
+            "en": "Don’t go, Shelley. Seriously. It’s not worth the risk. I’d listen to it. Over.",
+            "ru_native": "Не ходите, Шелли. Серьезно. Лучше не рисковать. я бы прислушалась. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не йди, Шеллі. Серйозно. Краще не ризикувати. Я б прислухалася. Прийом."
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0010",
+            "en": "Go, Shelley, it’ll be okay. I don’t know if I would trust a ghost’s advice, anyway. Over.",
+            "ru_native": "Идите, Шелли, все будет в порядке. Не знаю, стоит ли верить советам призрака. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йди, Шеллі, усе буде гаразд. Не знаю, чи варто вірити порадам привида. Прийом."
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0011",
+            "en": "Uh, yeah, actually. We tuned a portal out of a, uh, floating triangle. But, uh, more importantly…",
+            "ru_native": "Вообще-то да. Мы настроили портал из, эм,<br>парящего в небе треугольника. Но, что важнее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм, насправді… Ми налаштували портал із плаваючого трикутника. Але, що важливіше…"
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0012",
+            "en": "Long story shrunk, we got a weird phone call and uh…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Длинная история сократилась, нам поступил странный телефонный звонок, и э...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо коротко, був дивний телефонний дзвінок та ем…"
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0013",
+            "en": "We got some sort of a warning. And I think it was directed at you, so...",
+            "ru_native": "Мы получили предупреждение. И, думаю, оно предназначалось вам, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми отримали попередження. І, гадаю, воно призначалося тобі, тож…"
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0014",
+            "en": "Maybe think about not leaving your station for the rest of the night. Over.",
+            "ru_native": "Возможно, вам до утра лучше не покидать станцию. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо краще залишитися на станції до ранку. Прийом."
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0015",
+            "en": "We got some sort of a warning. And I think it was directed at you, so...",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы получили что-то вроде предупреждения. И я думаю, что оно было направлено на тебя, так что...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми отримали попередження. І, гадаю, воно призначалося тобі, тож…"
+        },
+        {
+            "tag": "WT02.CALTRA_RILEY_0016",
+            "en": "Maybe think about not leaving your station for the rest of the night. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Возможно, подумай о том, чтобы не покидать свой участок до конца ночи. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо краще залишитися на станції до ранку. Прийом."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0000",
+            "en": "Riley, hey.",
+            "ru_native": "Райли, привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, привіт."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0001",
+            "en": "Find out anything about that answering machine message I got?",
+            "ru_native": "Выяснила что-нибудь про то сообщение мне на автоответчик?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З’ясувала щось про те повідомлення з автовіповідача?"
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0003",
+            "en": "I… do. I—yeah, I have a… great uncle. He was, uh, sonar. I think.",
+            "ru_native": "Да... у меня есть двоюродный дядя. Он был, эм, гидроакустиком. По-моему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… у мене є двоюрідний дядько. Він був, ем, гідроакустиком. Здається."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0004",
+            "en": "[WT] You… tuned a portal out of a deer’s head… and it warned you to warn… me.",
+            "ru_native": "Вы... настроили портал из головы оленя... и он передал вам предупредить... меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0005",
+            "en": "Well, what is the reason you called?",
+            "ru_native": "Ты мне для этого позвонила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для цього ти зі мною зв’язалася?"
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0006",
+            "en": "Riley, hey. What’s going on?",
+            "ru_native": "Райли, привет. Как дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, привіт. Як справи?"
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0007",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0008",
+            "en": "Well, what is the reason you called?",
+            "ru_native": "Ты мне для этого позвонила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для цього ти зі мною зв’язалася?"
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0009",
+            "en": "Well… crud.",
+            "ru_native": "Что ж... фигово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… це паскудство."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0010",
+            "en": "It said I shouldn’t leave the station anymore? I was just about to… [sigh]",
+            "ru_native": "Значит, я не должна покидать станцию? Но я только собиралась...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Значить, я не маю покидати станцію? Але я щойно збиралася…"
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0011",
+            "en": "I was just about to go do a check on another distress call.",
+            "ru_native": "Я только собиралась проверить еще один сигнал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тільки-но збиралася перевірити ще один сигнал."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0012",
+            "en": "Do you… do you not think I should go?",
+            "ru_native": "Как думаешь... мне стоит пойти?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як гадаєш… мені варто піти?"
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0013",
+            "en": "I sound stupid just asking…",
+            "ru_native": "Глупый вопрос, конечно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дурне питання, звичайно…"
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0014",
+            "en": "But…",
+            "ru_native": "Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0015",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0016",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0017",
+            "en": "[big sigh] This is… so dumb, but okay, sure. Sure, fine. Fine. I’m… I’ll stay put.",
+            "ru_native": "Это… так тупо, но ладно. Хорошо. Я… Я останусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сильно зітхає] Це… так тупо, але гаразд. Добре. Я… Я залишусь."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0018",
+            "en": "I can radio in some support from other stations, see if they can cover.",
+            "ru_native": "Я могу связаться по рации с другими станциями и узнать, не может ли кто помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу зв’язатися по рації з іншими станціями й<br>дізнатися, чи може хтось допомогти."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0019",
+            "en": "Ugh. I hope this isn’t some… I just hope this is something real.",
+            "ru_native": "Уф. Надеюсь, это не... Надеюсь, это не выдумка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф. Сподіваюся, це не… Сподіваюся, це не вигадка."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0020",
+            "en": "Okay, Riley. Radio if you need anything. And thanks… for this. Over and out.",
+            "ru_native": "Ладно, Райли. Если что-то понадобится, вызывай. И спасибо... за это. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Райлі. Якщо щось знадобиться, викликай. І дякую… за це. Кінець зв’язку."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0021",
+            "en": "[big sigh; laughs a little] Okay. Yeah. God, I wish you hadn't even said anything, now.",
+            "ru_native": "Ладно. Да. Боже, лучше бы ты мне ничего не говорила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сильно зітхає; трохи сміється] Гаразд. Так.<br>Господи, краще б ти нічого не говорила."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0022",
+            "en": "Okay, Riley. Radio if you need anything. And thanks… for this.",
+            "ru_native": "Ладно, Райли. Если что-то понадобится, вызывай. И спасибо... за это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Райлі. Якщо щось знадобиться, викликай. І дякую… за це."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0023",
+            "en": "Just for letting me know. Alright, over and out.",
+            "ru_native": "Спасибо, что сказала. Ладно, конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що повідомила. Гаразд, кінець зв’язку."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0024",
+            "en": "You know, just… forget it. I’m going to pretend I never heard any of this.",
+            "ru_native": "Знаешь, просто... забудь. Я притворюсь, что ничего не слышала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, просто… облиш це. Я вдам, що нічого не чула."
+        },
+        {
+            "tag": "WT02.CALTRA_SHELLEY_0025",
+            "en": "Call if you need anything. I’m going out to the call. Over and out.",
+            "ru_native": "Если что, звони. Я на вызов. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо щось знадобиться, викликай. Кінець зв’язку."
+        }
+    ]
+}

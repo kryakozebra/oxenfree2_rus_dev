@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT04.NIQUP5",
+    "entries": [
+        {
+            "tag": "WT04.NIQUP5_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NIQUP5_CHOICE_0000_OPTION_0000",
+            "en": "You make it home, Nick?",
+            "ru_native": "Ник, вернулись домой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку, ви повернулися?"
+        },
+        {
+            "tag": "WT04.NIQUP5_RILEY_0000",
+            "en": "You back home, Nick?",
+            "ru_native": "Ник, вы дома?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку, ви вдома?"
+        }
+    ]
+}

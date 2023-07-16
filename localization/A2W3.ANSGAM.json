@@ -1,0 +1,447 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.ANSGAM",
+    "entries": [
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0000_OPTION_0000",
+            "en": "Who is this?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0000_OPTION_0001",
+            "en": "No thanks!",
+            "ru_native": "Нет, спасибо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, дякую!"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0000_OPTION_0002",
+            "en": "What do you want?",
+            "ru_native": "Чего ты хочешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тобі треба?"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0001_OPTION_0000",
+            "en": "Who is this?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0001_OPTION_0001",
+            "en": "No thanks!",
+            "ru_native": "Нет, спасибо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, дякую!"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0001_OPTION_0002",
+            "en": "Where’s Jacob!",
+            "ru_native": "Где Джейкоб?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Джейкоб?!"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0002_OPTION_0000",
+            "en": "Okay, if it brings back Jacob.",
+            "ru_native": "Ладно, если это вернет Джейкоба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, якщо це поверне Джейкоба."
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0002_OPTION_0001",
+            "en": "This is a trick.",
+            "ru_native": "Это ловушка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це пастка."
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0002_OPTION_0002",
+            "en": "Play what?",
+            "ru_native": "Во что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вийди ти»?"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0003_OPTION_0000",
+            "en": "Okay, fine, whatever.",
+            "ru_native": "Ладно. Как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, як скажеш."
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0003_OPTION_0001",
+            "en": "This is a trick.",
+            "ru_native": "Это ловушка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це пастка."
+        },
+        {
+            "tag": "A2W3.ANSGAM_CHOICE_0003_OPTION_0002",
+            "en": "Play what?",
+            "ru_native": "Во что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вийди ти»?"
+        },
+        {
+            "tag": "A2W3.ANSGAM_RILEY_0000",
+            "en": "Uh—who—who is speaking?",
+            "ru_native": "Эм... кто... кто говорит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Хто… хто це говорить?"
+        },
+        {
+            "tag": "A2W3.ANSGAM_RILEY_0001",
+            "en": "Uh, no-no thanks. I’m a little busy at the moment.",
+            "ru_native": "Эм, нет, спасибо. Я немного занята.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Я трохи зайнята."
+        },
+        {
+            "tag": "A2W3.ANSGAM_RILEY_0002",
+            "en": "Okay, what do you want? I don’t really have the time to deal with this right now.",
+            "ru_native": "Ладно, чего тебе? У меня сейчас вообще нет времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, чого тобі? У мене зараз немає часу на це."
+        },
+        {
+            "tag": "A2W3.ANSGAM_RILEY_0003",
+            "en": "Where’s Jacob? Did you—is something happening or—?",
+            "ru_native": "Где Джейкоб? Ты... что-то случилось, или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Джейкоб? Ти… Щось трапилося чи?.."
+        },
+        {
+            "tag": "A2W3.ANSGAM_RILEY_0004",
+            "en": "Alright. Er—okay. But this better bring Jacob back.",
+            "ru_native": "Ладно. Х... хорошо. Если это вернет Джейкоба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Д… добре. Якщо це допоможе повернути Джейкоба…"
+        },
+        {
+            "tag": "A2W3.ANSGAM_RILEY_0005",
+            "en": "No way, this is a—this is some trick. Forget it.",
+            "ru_native": "Ни за что, это... это уловка. Забудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні за що, це… це пастка. Не буду."
+        },
+        {
+            "tag": "A2W3.ANSGAM_RILEY_0006",
+            "en": "Play what? What—what am I supposed to do?",
+            "ru_native": "Во что? Что мне надо делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вийди ти»? Що… що мені робити?"
+        },
+        {
+            "tag": "A2W3.ANSGAM_RILEY_0007",
+            "en": "Okay. Fine. Whatever, if this—if this is what you want.",
+            "ru_native": "Ладно. Хорошо. Сделаю все, что ты хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Добре. Зроблю все, як скажеш."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0000",
+            "en": "Who who. [laughs] Are you an owl?",
+            "ru_native": "Кто-кто. Ты кукушка что ли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто-хто. [сміється] Кінь у пальто!"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0001",
+            "en": "Not busy yet. But you will be. [giggles]",
+            "ru_native": "Пока нет. Но скоро будешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки що ні. Але скоро будеш. [сміється]"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0002",
+            "en": "We want to play. While you still can. [giggles]",
+            "ru_native": "Мы хотим поиграть. Пока ты еще можешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми хочемо гратися. Поки ти ще можеш. [сміється]"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0003",
+            "en": "Who who. [laughs] Are you an owl?",
+            "ru_native": "Кто-кто. Ты кукушка что ли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто-хто. [сміється] Кінь у пальто!"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0004",
+            "en": "Not busy yet. But you will be. [giggles]",
+            "ru_native": "Пока нет. Но скоро будешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки що ні. Але скоро будеш. [сміється]"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0005",
+            "en": "Jacob? [calling out] Jacob! [to her] No Jacob here.",
+            "ru_native": "Джейкоб? Джейкоб! Джейкоба тут нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Джейкобе! Джейкоба тут немає."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0006",
+            "en": "[distorted] Regret calamities if you can thereby help the sufferer—",
+            "ru_native": "Сожалейте о трагедии, если это поможет пострадавшему...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жалкуйте про трагедію, якщо це допоможе постраждалому…"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0007",
+            "en": "[distorted] Class, how do you pronounce divertissement?",
+            "ru_native": "Класс, как пишется «дивертисмент»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Учні, як пишеться слово «дивертисмент»?"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0008",
+            "en": "[ghostly voice] Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0009",
+            "en": "Tag, tig, tiggy, tips. Touch and go and then you’re it.",
+            "ru_native": "Вышел месяц из тумана, вынул ножик из кармана.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тікав заєць через міст. Довгі вуха, куций хвіст."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0010",
+            "en": "If to play… just say okay.",
+            "ru_native": "Буду резать, буду бить. Все равно тебе водить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти далі не тікай, рахувати починай. Раз, два, три — вийди ти."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0011",
+            "en": "Just follow along.",
+            "ru_native": "Просто повторяй.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто повторюй."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0012",
+            "en": "Sticks and stones can break my bones…",
+            "ru_native": "Если сильно палкой бить, можно ребра проломить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо палицею дати, можна ребра всі зламати…"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0013",
+            "en": "And so can rocks. And so can blocks.",
+            "ru_native": "Камнем в меня бросьте – сломаете мне кости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо камені жбурляти, можна кісток не зібрати."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0014",
+            "en": "Bloody and red, they’ll kill me dead…",
+            "ru_native": "Кирпичом по голове – тут и смерть придет ко мне...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цеглою по голові — і помру я у траві…"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0015",
+            "en": "Sticks and stones can break my bones…",
+            "ru_native": "Если сильно палкой бить, можно ребра проломить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо палицею дати, можна ребра всі зламати…"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0016",
+            "en": "And so can rocks. And so can blocks.",
+            "ru_native": "Камнем в меня бросьте – сломаете мне кости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо камені жбурляти, можна кісток не зібрати."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0017",
+            "en": "[ghostly voice] Bloody and red, they’ll kill me dead…",
+            "ru_native": "Кирпичом по голове – тут и смерть придет ко мне...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цеглою по голові — і помру я у траві…"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0018",
+            "en": "No more night. No more light.",
+            "ru_native": "Ночь не придет. Солнце не взойдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніч не настане, а сонце не встане."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0019",
+            "en": "Sticks and stones can break my bones…",
+            "ru_native": "Если сильно палкой бить, можно ребра проломить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо палицею дати, можна ребра всі зламати…"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0020",
+            "en": "And so can rocks. And so can blocks.",
+            "ru_native": "Камнем в меня бросьте – сломаете мне кости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо камені жбурляти, можна кісток не зібрати."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0021",
+            "en": "Bloody and red, they’ll kill me dead…",
+            "ru_native": "Кирпичом по голове – тут и смерть придет ко мне...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цеглою по голові — і помру я у траві…"
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0022",
+            "en": "No more night. No more light.",
+            "ru_native": "Ночь не придет. Солнце не взойдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніч не настане, а сонце не встане."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0023",
+            "en": "[growing distortion] No more light.",
+            "ru_native": "Солнце не взойдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[трохи спотворено] Сонце не встане."
+        },
+        {
+            "tag": "A2W3.ANSGAM_VOICE_0024",
+            "en": "[distorted] No more light.",
+            "ru_native": "Солнце не взойдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спотворено] Сонце не встане."
+        }
+    ]
+}

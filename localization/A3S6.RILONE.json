@@ -1,0 +1,357 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S6.RILONE",
+    "entries": [
+        {
+            "tag": "A3S6.RILONE_ALEX_0000",
+            "en": "It’s not up to me.",
+            "ru_native": "Я тут ни при чем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не я вирішую."
+        },
+        {
+            "tag": "A3S6.RILONE_ALEX_0001",
+            "en": "Riley. I knew this was a possibility… a mathematical prospect, no matter how unlikely…",
+            "ru_native": "Райли. Я знала, что это был шанс...<br>математическая перспектива, пусть и маловероятная...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, я знала, що це було можливо…<br>математична перспектива, якою неймовірною вона б не була…"
+        },
+        {
+            "tag": "A3S6.RILONE_ALEX_0002",
+            "en": "That you would be the one to free us. To end it.",
+            "ru_native": "Что ты освободишь нас. Покончишь с этим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти звільниш нас. Покінчиш із цим."
+        },
+        {
+            "tag": "A3S6.RILONE_ALEX_0003",
+            "en": "There aren’t enough ways to say thank you.",
+            "ru_native": "Не знаю, как выразить тебе благодарность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, як висловити тобі вдячність."
+        },
+        {
+            "tag": "A3S6.RILONE_ALEX_0004",
+            "en": "But it’ll have to do.",
+            "ru_native": "Но как-то надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я маю зробити це."
+        },
+        {
+            "tag": "A3S6.RILONE_ALEX_0005",
+            "en": "So thank you.",
+            "ru_native": "Так что спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож дякую."
+        },
+        {
+            "tag": "A3S6.RILONE_ALEX_0006",
+            "en": "I figured.",
+            "ru_native": "Понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я так і подумала."
+        },
+        {
+            "tag": "A3S6.RILONE_ALEX_0007",
+            "en": "Well… it’s been nice meeting you… again and again.",
+            "ru_native": "Что ж... я рада, что встретила тебя... не раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж… я була рада зустріти тебе… не один раз."
+        },
+        {
+            "tag": "A3S6.RILONE_ALEX_0008",
+            "en": "Remember… tune into the portal when you’re on the other—",
+            "ru_native": "Запомни... отключи портал, когда будешь на другой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запам’ятай… налаштуйся на портал, коли будеш на тому боці…"
+        },
+        {
+            "tag": "A3S6.RILONE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.RILONE_CHOICE_0000_OPTION_0000",
+            "en": "I have no future.",
+            "ru_native": "У меня нет будущего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене немає майбутнього."
+        },
+        {
+            "tag": "A3S6.RILONE_CHOICE_0000_OPTION_0001",
+            "en": "Rex and I don't end well.",
+            "ru_native": "У нас с Рексом все плохо кончится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас із Рексом усе закінчиться погано."
+        },
+        {
+            "tag": "A3S6.RILONE_CHOICE_0000_OPTION_0002",
+            "en": "To spare everyone else.",
+            "ru_native": "Чтобы освободить остальных.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоби врятувати інших."
+        },
+        {
+            "tag": "A3S6.RILONE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.RILONE_CHOICE_0001_OPTION_0000",
+            "en": "This is for everybody.",
+            "ru_native": "Это ради всех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це заради всіх."
+        },
+        {
+            "tag": "A3S6.RILONE_CHOICE_0001_OPTION_0001",
+            "en": "No sweat.",
+            "ru_native": "Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не парся."
+        },
+        {
+            "tag": "A3S6.RILONE_CHOICE_0001_OPTION_0002",
+            "en": "This is for me, not you.",
+            "ru_native": "Это ради меня, не ради тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це заради мене, не заради тебе."
+        },
+        {
+            "tag": "A3S6.RILONE_JACOB_0000",
+            "en": "No, Riley, are you crazy?",
+            "ru_native": "Нет, Райли, ты с ума сошла?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Райлі, ти з дубу впала?"
+        },
+        {
+            "tag": "A3S6.RILONE_JACOB_0001",
+            "en": "Why on Earth should it be you?",
+            "ru_native": "С чего вдруг это должна быть ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого це раптом маєш бути ти?"
+        },
+        {
+            "tag": "A3S6.RILONE_OLIVIA_0000",
+            "en": "Yeah!",
+            "ru_native": "Да!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так!"
+        },
+        {
+            "tag": "A3S6.RILONE_OLIVIA_0001",
+            "en": "Why should—why do you get to decide?!",
+            "ru_native": "Почему... Почему ты за нас решаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому… чому це ти вирішуєш?"
+        },
+        {
+            "tag": "A3S6.RILONE_OLIVIA_0002",
+            "en": "This wasn’t your night!",
+            "ru_native": "Это была не твоя ночь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це була не твоя ніч."
+        },
+        {
+            "tag": "A3S6.RILONE_OLIVIA_0003",
+            "en": "It was mine!",
+            "ru_native": "А моя!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А моя!"
+        },
+        {
+            "tag": "A3S6.RILONE_OLIVIA_0004",
+            "en": "And you robbed me of it!",
+            "ru_native": "И ты у меня ее украла!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти вкрала її в мене!"
+        },
+        {
+            "tag": "A3S6.RILONE_OLIVIA_0005",
+            "en": "I just—after everything, after… tonight, you get the glory of remembrance.",
+            "ru_native": "Я просто... после всего, после... этой ночи от тебя останутся только воспоминания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто після цієї ночі… тебе згадуватимуть із пошаною."
+        },
+        {
+            "tag": "A3S6.RILONE_OLIVIA_0006",
+            "en": "I can’t believe it. And you’re letting it happen.",
+            "ru_native": "Поверить не могу. А ты ее даже не остановишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повірити не можу. І ти це не зупиняєш."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0000",
+            "en": "It should be me.",
+            "ru_native": "Это должна быть я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це маю бути я."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0001",
+            "en": "I don't… have a future. I barely have a past.",
+            "ru_native": "Я меня нет... будущего. И почти нет прошлого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене… немає майбутнього. Та й минуле навряд чи є."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0002",
+            "en": "And this… might be a way to do some good while I still have time to do it.",
+            "ru_native": "А это... может быть мой шанс сделать что-то хорошее, пока не поздно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А це… може бути спосіб зробити щось добре, доки є час."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0003",
+            "en": "Rex and I… we don't end well, Olivia.",
+            "ru_native": "У нас с Рексом… все плохо кончится, Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас із Рексом усе закінчиться погано, Олівіє."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0004",
+            "en": "We eventually fall apart like everything else does.",
+            "ru_native": "В итоге, наши отношения развалятся, как и все остальное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Врешті-решт наші стосунки розваляться, як і все інше."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0005",
+            "en": "I just want something to be good—I want to do good, for once. And I can. With this.",
+            "ru_native": "Я просто хочу сделать что-то хорошее... хотя бы раз. И я могу. Вот так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лише хочу зробити щось добре. Хоча б раз. І я можу. Завдяки цьому."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0006",
+            "en": "I'm going so no one else does—so no one else has to.",
+            "ru_native": "Я иду, чтобы никому другому не пришлось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я йду, щоби нікому іншому не довелося."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0007",
+            "en": "I… however inadvertently, am a part of this—got us into this. I should get us out.",
+            "ru_native": "Я… хоть и случайно, втянулась в это и втянула вас. Я должна нас вытащить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… хоча й ненароком, втягнула в це себе і вас. Я маю нас витягти."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0008",
+            "en": "It’s not just for you. It’s for everybody.",
+            "ru_native": "Это не только ради тебя. Ради всех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не лише заради тебе. Це заради всіх."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0009",
+            "en": "Hey. No sweat, Alex. Glad I was around to help.",
+            "ru_native": "Эй. Без проблем, Алекс. Рада, что смогла помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не парся, Алекс. Я рада, що змогла допомогти."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0010",
+            "en": "Honestly, Alex… this is mostly for me. I’m taking the opportunity to hop a steamship outta here.",
+            "ru_native": "Честно говоря, Алекс... я делаю это ради себя.<br>Пользуюсь шансом, чтобы свалить отсюда на всех парах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо чесно, Алекс… я роблю це заради себе.<br>Користуюся шансом, щоби втекти звідси якомога швидше."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0011",
+            "en": "So to speak.",
+            "ru_native": "Образно говоря.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так би мовити."
+        },
+        {
+            "tag": "A3S6.RILONE_RILEY_0012",
+            "en": "You heard Alex, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты ведь слышал Алекса, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви чули Алекс, так?"
+        }
+    ]
+}

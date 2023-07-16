@@ -1,0 +1,285 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1PO.JACGPO",
+    "entries": [
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0000_OPTION_0000",
+            "en": "Hear what?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что слышал?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чую що?"
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0000_OPTION_0001",
+            "en": "I don’t hear anything…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я ничего не слышу...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не чую нічого."
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0001_OPTION_0000",
+            "en": "Jacob!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе!"
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0002_OPTION_0000",
+            "en": "Jacob!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе!"
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0002_OPTION_0001",
+            "en": "Oh my God!",
+            "ru_native": "",
+            "ru_machine": "DEEPL О Боже!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи!"
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0003_OPTION_0000",
+            "en": "It sounds like a radio…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Звук похож на радио...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на радіостанцію."
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0003_OPTION_0001",
+            "en": "Jacob…?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб...?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе…?"
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0003_OPTION_0002",
+            "en": "This is a nightmare.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это просто кошмар.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це жах."
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0004_OPTION_0000",
+            "en": "I have to do something!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я должен что-то сделать!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю щось зробити!"
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0004_OPTION_0001",
+            "en": "I’m not leaving you!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не оставлю тебя!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не залишу тебе!"
+        },
+        {
+            "tag": "A1PO.JACGPO_CHOICE_0004_OPTION_0002",
+            "en": "That noise!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Этот шум!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цей шум!"
+        },
+        {
+            "tag": "A1PO.JACGPO_JACOB_0000",
+            "en": "Wait. Riley… do you – do you hear that?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди. Райли... ты - ты слышишь это?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекай. Райлі… ти — ти чуєш це?"
+        },
+        {
+            "tag": "A1PO.JACGPO_JACOB_0001",
+            "en": "There’s…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Там...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось…"
+        },
+        {
+            "tag": "A1PO.JACGPO_JACOB_0002",
+            "en": "Is that…?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это...?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це що…?"
+        },
+        {
+            "tag": "A1PO.JACGPO_JACOB_0003",
+            "en": "You don’t hear that?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты не слышишь этого?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти цього не чуєш?"
+        },
+        {
+            "tag": "A1PO.JACGPO_JACOB_0004",
+            "en": "It sounds like… it sounds like…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это звучит как... это звучит как...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на… здається це…"
+        },
+        {
+            "tag": "A1PO.JACGPO_JACOB_0005",
+            "en": "[Possessed] Kids.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [Одержимый] Дети.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спокійно] Діти."
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0000",
+            "en": "Uh, hear… what?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, слышь... что?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, чую… що?"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0001",
+            "en": "Uh, Jacob, I… don’t hear anything.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, Джейкоб, я... ничего не слышу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, Джейкобе, я… не чую нічого."
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0002",
+            "en": "Is the – is the sound dying?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Звук умирает?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звук стихає?"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0003",
+            "en": "Jacob!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе!"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0004",
+            "en": "Jacob?! Jacob – can you – can you hear me?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб?! Джейкоб - ты - ты меня слышишь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Ти… ти мене чуєш?"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0005",
+            "en": "Holy – oh my God – what’s – what is this?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Holy - oh my God - what's - what is - what is this?!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже — що — що це?"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0006",
+            "en": "It sounds… does that sound like a radio? What is going on?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Звук... это похоже на радио? Что происходит?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже… схоже на радіостанцію? Що відбувається?"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0007",
+            "en": "Jac – Jacob? Oh – I can’t believe this – Jacob!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Jac - Jacob? О - я не могу в это поверить - Джейкоб!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джей — Джейкобе? Не можу повірити, що це відбувається — Джейкобе!"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0008",
+            "en": "[half to herself] What is that noise?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [наполовину про себя] Что это за шум?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[майже про себе] Що це за шум?"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0009",
+            "en": "This is a nightmare, I… [sighs] Oh God.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это кошмар, я... [вздыхает] О Боже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це жах, я… [зітахє] Господи."
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0010",
+            "en": "[to herself] I have to do something, here… I can’t just…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Я должна что-то сделать, вот... Я не могу просто...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сама собі] Я маю щось зробити, тут… Я не можу просто…"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0011",
+            "en": "[to herself] But… [sigh] I don’t know – it doesn’t make any sense!",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Но... [вздох] Я не знаю - в этом нет никакого смысла!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сама собі] Але… [зітхає] Не знаю — це якесь безглуздя!"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0012",
+            "en": "[to herself] I’m not leaving you, Jacob – just – just stay with me…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Я не оставлю тебя, Джейкоб - просто - просто останься со мной...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сама собі] Я не залишу тебе, Джейкобе, не відключайся…"
+        },
+        {
+            "tag": "A1PO.JACGPO_RILEY_0013",
+            "en": "[to herself] God, that noise! It sounds… just like…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Боже, этот шум! Он звучит... прямо как...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сама собі] Господи, цей шум! Схоже… зовсім схоже на…"
+        }
+    ]
+}

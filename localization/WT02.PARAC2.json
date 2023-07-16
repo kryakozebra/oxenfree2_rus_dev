@@ -1,0 +1,294 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT02.PARAC2",
+    "entries": [
+        {
+            "tag": "WT02.PARAC2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PARAC2_CHOICE_0000_OPTION_0000",
+            "en": "Did you see anything?",
+            "ru_native": "Вы что-нибудь видели?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось бачила?"
+        },
+        {
+            "tag": "WT02.PARAC2_CHOICE_0000_OPTION_0001",
+            "en": "I’m here, Hi.",
+            "ru_native": "Я тут. Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тут. Привіт."
+        },
+        {
+            "tag": "WT02.PARAC2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PARAC2_CHOICE_0001_OPTION_0000",
+            "en": "No idea.",
+            "ru_native": "Без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "WT02.PARAC2_CHOICE_0001_OPTION_0001",
+            "en": "I’ll see what I can find.",
+            "ru_native": "Попробую выяснить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробую дізнатися."
+        },
+        {
+            "tag": "WT02.PARAC2_CHOICE_0002_OPTION_0000",
+            "en": "Did you see anything?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты что-нибудь видел?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось бачила?"
+        },
+        {
+            "tag": "WT02.PARAC2_RILEY_0000",
+            "en": "Hey, Shelley? Did you see anything when you went out? Over.",
+            "ru_native": "Эй, Шелли? Вы видели что-нибудь снаружи? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Шеллі? Бачила щось зовні? Прийом."
+        },
+        {
+            "tag": "WT02.PARAC2_RILEY_0001",
+            "en": "Hey, yeah, I’m here. Hi. Over.",
+            "ru_native": "Привет, да. Я тут. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, так. Я тут. Прийом."
+        },
+        {
+            "tag": "WT02.PARAC2_RILEY_0002",
+            "en": "Oh man, I have no idea. Over.",
+            "ru_native": "Боже, я без понятия. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, гадки не маю. Прийом."
+        },
+        {
+            "tag": "WT02.PARAC2_RILEY_0003",
+            "en": "Mm. I don’t know, but… I’ll see what I can find out?",
+            "ru_native": "М-м. Не знаю, но... Попробую узнать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "М-м. Не знаю, але… Спробую дізнатися?.."
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0000",
+            "en": "Riley, hey. No, I didn’t find anything.",
+            "ru_native": "Райли, привет. Нет, я ничего не заметила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, привіт. Ні, я нічого такого не помітила."
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0001",
+            "en": "Riley, hi. So… I didn’t find anything on my spotcheck outside.",
+            "ru_native": "Райли, привет. Нет... я ничего такого не заметила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, привіт. Ні… нічого такого не помітила."
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0002",
+            "en": "I scoured the North Woods for a bit before heading back due to the weather, but…",
+            "ru_native": "Я обошла северную часть леса, а потом из-за погоды пошла назад, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я обійшла північну частину лісу, а потім через погоду пішла назад, але…"
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0003",
+            "en": "…when I made it back to the station… I had this message on my answering machine…",
+            "ru_native": "...когда я вернулась на станцию... У меня на автоответчике было это сообщение...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…коли повернулася на станцію… у мене на автовідповідачі було це повідомлення…"
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0004",
+            "en": "Here. I’ll play it for you…",
+            "ru_native": "Вот. Послушай...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось. Послухай…"
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0005",
+            "en": "[garbled answering machine] [BEEP] Hello. You’ve reached a supplanter’s tomb.",
+            "ru_native": "Алло. Вы дошли до могилы узурпатора.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спотворений звук автовідповідача] [БІІП] Агов. Ви дійшли до могили узурпатора."
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0006",
+            "en": "[garbled answering machine] [BEEP] We’re of the forest.",
+            "ru_native": "Мы из леса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спотворений звук автовідповідача] [БІІП] Ми із гаю."
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0007",
+            "en": "[garbled answering machine] [BEEP] By his house. Come soon. [whispers] Riley.",
+            "ru_native": "У его дома. Приходи скорее. Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спотворений звук автовідповідача] [БІІП] Біля його будинку.<br>Приходь швидше. [шепоче] Райлі."
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0008",
+            "en": "Riley—they said your name. Did you hear that part? Do you know anything about this?",
+            "ru_native": "«Райли» – они назвали твое имя. Ты слышала? Ты знаешь что-нибудь об этом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Райлі» — вони назвали твоє ім’я. Ти чула? Знаєш щось про це?"
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0009",
+            "en": "Like… maybe one of those people you mentioned…?",
+            "ru_native": "Может... это один из тех, о ком ты говорила?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може… це один із тих, про кого ти говорила?"
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0010",
+            "en": "Or… if you’ve seen anybody else around?",
+            "ru_native": "Или... ты еще кого-нибудь видела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… ти ще когось бачила?"
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0011",
+            "en": "Okay. Well… thanks, anyway.",
+            "ru_native": "Ладно. Ну... все равно спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Ну, все одно… дякую."
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0012",
+            "en": "Call me if you need anything or, uh, see anything. Over and out.",
+            "ru_native": "Позвони мне, если что-нибудь захочешь или, хм, увидишь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’яжися зі мною, якщо щось буде потрібно або якщо щось побачиш. Кінець зв’язку."
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0013",
+            "en": "Okay. Sounds good. Thanks.",
+            "ru_native": "Да, хорошо. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Добре. Дякую."
+        },
+        {
+            "tag": "WT02.PARAC2_SHELLEY_0014",
+            "en": "You might be… maybe you’re not hearing me, but, uh…",
+            "ru_native": "Возможно, ты... может, ты меня не слышишь, но, эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо ти… може ти мене не чуєш, але ем…"
+        },
+        {
+            "tag": "WT02.PARAC2_VOICEMAIL_0000",
+            "en": "[BEEP] 3 8 6 6 4 3 7.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [БИП] 3 8 6 6 4 3 7.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[БІП] 3 8 6 6 4 3 7."
+        },
+        {
+            "tag": "WT02.PARAC2_VOICEMAIL_0001",
+            "en": "[BEEP] 3 8 6 6 4 3 7.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [БИП] 3 8 6 6 4 3 7.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[БІП] 3 8 6 6 4 3 7."
+        },
+        {
+            "tag": "WT02.PARAC2_VOICEMAIL_0002",
+            "en": "[BEEP] Answer the question. Question the answer. [whispers] Riley.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [BEEP] Ответь на вопрос. Вопрос-ответ. Райли [шепотом].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[БІП] Відповідай на питання. Запитуй відповідь. [шепоче] Райлі."
+        },
+        {
+            "tag": "WT02.PARAC2_VOICEMAIL_0003",
+            "en": "Ladies and gentlemen, please welcome a very funny comedian–",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дамы и господа, поприветствуйте очень смешного комика -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пані та панове, привітайте дуже файного коміка…"
+        },
+        {
+            "tag": "WT02.PARAC2_VOICEMAIL_0004",
+            "en": "I know funny, I have funny on speed-dial, and that was not funny! [canned laughter]",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я знаю смешное, у меня есть смешное на быстром наборе, и это было не смешно! [консервированный смех].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що таке смішно, а ще я люблю файно пожарти, зрозуміли? Жарти — жерти! [штучний сміх]"
+        },
+        {
+            "tag": "WT02.PARAC2_VOICEMAIL_0005",
+            "en": "Two cannibals are eating a clown. One says to the other: 'Does this taste funny to you...Riley?’",
+            "ru_native": "",
+            "ru_machine": "DEEPL Два каннибала едят клоуна. Один говорит другому: 'Тебе это кажется смешным на вкус... Райли?'",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Два канібали збираються жерти клоуна. Один каже іншому: «Можна жарти… файно, Райлі?»"
+        }
+    ]
+}

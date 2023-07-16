@@ -1,0 +1,249 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S4.RUNWEI",
+    "entries": [
+        {
+            "tag": "A3S4.RUNWEI_ALEX_0000",
+            "en": "Hi. It’s getting late.",
+            "ru_native": "Привет. Уже поздно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. Уже пізно."
+        },
+        {
+            "tag": "A3S4.RUNWEI_ALEX_0001",
+            "en": "Olivia’s already at the Comm Tower, she’s—she doesn’t know what she’s doing.",
+            "ru_native": "Оливия уже на башне связи, она... Она не понимает, что делает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія вже на радіовежі. Вона не розуміє, що робить."
+        },
+        {
+            "tag": "A3S4.RUNWEI_ALEX_0002",
+            "en": "She’s trying to use the tower’s old telecoms to create a new portal.",
+            "ru_native": "Она пытается использовать старую аппаратуру и создать новый портал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона намагається використати старе обладнання, щоби створити новий портал."
+        },
+        {
+            "tag": "A3S4.RUNWEI_ALEX_0003",
+            "en": "We gotta—we gotta hurry.",
+            "ru_native": "Нужно... Нужно спешить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно поспішати."
+        },
+        {
+            "tag": "A3S4.RUNWEI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.RUNWEI_CHOICE_0000_OPTION_0000",
+            "en": "Huh? What is this?",
+            "ru_native": "Все колеблется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га? Що це?"
+        },
+        {
+            "tag": "A3S4.RUNWEI_CHOICE_0000_OPTION_0001",
+            "en": "Oh man, this sucks.",
+            "ru_native": "Твою ж мать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бляха, це некльово."
+        },
+        {
+            "tag": "A3S4.RUNWEI_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.RUNWEI_CHOICE_0001_OPTION_0000",
+            "en": "It’s crazy unstable.",
+            "ru_native": "Какое-то безумие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе якось по-божевільному нестабільно."
+        },
+        {
+            "tag": "A3S4.RUNWEI_CHOICE_0001_OPTION_0001",
+            "en": "Where’s Olivia?",
+            "ru_native": "Где Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Олівія?"
+        },
+        {
+            "tag": "A3S4.RUNWEI_CHOICE_0001_OPTION_0002",
+            "en": "Let’s hurry.",
+            "ru_native": "Бежим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хутчій."
+        },
+        {
+            "tag": "A3S4.RUNWEI_JACOB_0000",
+            "en": "You know, this place? Best pancakes in thirty miles. Not many people know that.",
+            "ru_native": "Знаешь это место? Лучшие блинчики на районе. Мало кто в теме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш це місце? Найкращі млинці на тридцять миль. Мало хто в курсі."
+        },
+        {
+            "tag": "A3S4.RUNWEI_JACOB_0001",
+            "en": "Oh. Crap. This is—",
+            "ru_native": "Вот черт. Это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трясця. Це…"
+        },
+        {
+            "tag": "A3S4.RUNWEI_JACOB_0002",
+            "en": "Oof. Ugh—okay.",
+            "ru_native": "Фух. Так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A3S4.RUNWEI_JACOB_0003",
+            "en": "Things on the island seem a little different since I last came for brunch.",
+            "ru_native": "На острове все как-то поменялось с тех пор, как я заглядывал на обед.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На острові все трохи помінялося, відколи я востаннє приїздив сюди на обід."
+        },
+        {
+            "tag": "A3S4.RUNWEI_JACOB_0004",
+            "en": "I feel hot but my hands are cold…",
+            "ru_native": "Вроде жарко, а руки ледяные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наче спекотно, а руки холодні…"
+        },
+        {
+            "tag": "A3S4.RUNWEI_JACOB_0005",
+            "en": "Does that make sense?",
+            "ru_native": "Бред какой-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти що-небудь розумієш?"
+        },
+        {
+            "tag": "A3S4.RUNWEI_JACOB_0006",
+            "en": "Everything’s falling apart.",
+            "ru_native": "Все вокруг разваливается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе розвалюється."
+        },
+        {
+            "tag": "A3S4.RUNWEI_JACOB_0007",
+            "en": "Uh… man. That’s… weird.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эээ... чувак. Это... странно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як… дивно."
+        },
+        {
+            "tag": "A3S4.RUNWEI_RILEY_0000",
+            "en": "[ID-0] [groans like a stomach ache from the sudden glitch]",
+            "ru_native": "[ID-0]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Стогне ніби від несподіваного нападу болю в шлунку]"
+        },
+        {
+            "tag": "A3S4.RUNWEI_RILEY_0001",
+            "en": "[to herself] Ugh, God, everything is—it’s losing stability.",
+            "ru_native": "Боже, все вокруг теряет стабильность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] О, Господи. Усе навколо втрачає стабільність."
+        },
+        {
+            "tag": "A3S4.RUNWEI_RILEY_0002",
+            "en": "[to herself] Ugh. Oh man, this sucks. What’s happening?",
+            "ru_native": "Твою ж мать. Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Бляха. Це некльово. Що відбувається?"
+        },
+        {
+            "tag": "A3S4.RUNWEI_RILEY_0003",
+            "en": "It’s—yeah, everything’s unstable. I didn’t expect everything to be this bad.",
+            "ru_native": "Да, все изменяется. Не ожидала, что все будет так плохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, усе нестабільно. Не очікувала, що все буде так погано."
+        },
+        {
+            "tag": "A3S4.RUNWEI_RILEY_0004",
+            "en": "I don’t know why I have the nerve to expect anything, anymore.",
+            "ru_native": "Удивительно, что я вообще имела наглость что-то ожидать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чому я взагалі чогось очікувала."
+        },
+        {
+            "tag": "A3S4.RUNWEI_RILEY_0005",
+            "en": "Where’s Olivia? Do you see her?",
+            "ru_native": "Где Оливия? Ты ее видишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Олівія? Ти її бачиш?"
+        },
+        {
+            "tag": "A3S4.RUNWEI_RILEY_0006",
+            "en": "Ugh, yeah… let’s—we gotta—",
+            "ru_native": "Да... Давай... Нужно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Гаразд. Нам слід…"
+        },
+        {
+            "tag": "A3S4.RUNWEI_RILEY_0007",
+            "en": "Wait – a… lamp, now? What’s going on?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди - теперь... лампа? Что происходит?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зажди… лампа? Що коїться?"
+        }
+    ]
+}

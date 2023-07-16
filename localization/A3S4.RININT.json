@@ -1,0 +1,141 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S4.RININT",
+    "entries": [
+        {
+            "tag": "A3S4.RININT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.RININT_CHOICE_0000_OPTION_0000",
+            "en": "Where is that girl?",
+            "ru_native": "Оливия!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де та дівчинка?"
+        },
+        {
+            "tag": "A3S4.RININT_CHOICE_0000_OPTION_0001",
+            "en": "This looks bad...",
+            "ru_native": "Как-то стремно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це погано…"
+        },
+        {
+            "tag": "A3S4.RININT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.RININT_CHOICE_0001_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов!"
+        },
+        {
+            "tag": "A3S4.RININT_CHOICE_0001_OPTION_0001",
+            "en": "Alex?",
+            "ru_native": "Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс?"
+        },
+        {
+            "tag": "A3S4.RININT_GHOST_0000",
+            "en": "Can I have like two real quick minutes with Alex for a second?",
+            "ru_native": "Алекс, задержишься со мной на секунду?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна мені пару хвилин із Алекс на секунду?"
+        },
+        {
+            "tag": "A3S4.RININT_GHOST_0001",
+            "en": "I just wanna leave my Dad a message or something —",
+            "ru_native": "Хочу оставить папе какое-нибудь сообщение...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лише хочу залишити батькові повідомлення."
+        },
+        {
+            "tag": "A3S4.RININT_RILEY_0000",
+            "en": "Olivia! Can you hear me?!",
+            "ru_native": "Оливия! Ты меня слышишь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє! Ти мене чуєш?"
+        },
+        {
+            "tag": "A3S4.RININT_RILEY_0001",
+            "en": "Ooh boy. This looks… not good.",
+            "ru_native": "Блин. Ничего хорошего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже. Це… недобре."
+        },
+        {
+            "tag": "A3S4.RININT_RILEY_0002",
+            "en": "Alright. Better get a move on…",
+            "ru_native": "Так. Надо бы ускориться...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Прискоримося…"
+        },
+        {
+            "tag": "A3S4.RININT_RILEY_0003",
+            "en": "The Comm Tower’s up this way, I think.",
+            "ru_native": "Башня связи в той стороне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіовежа там, здається."
+        },
+        {
+            "tag": "A3S4.RININT_RILEY_0004",
+            "en": "Hello? Is…",
+            "ru_native": "Эй! Это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Це…"
+        },
+        {
+            "tag": "A3S4.RININT_RILEY_0005",
+            "en": "Alex? Are you..",
+            "ru_native": "Алекс! Ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс? Ти що…"
+        },
+        {
+            "tag": "A3S4.RININT_RILEY_0006",
+            "en": "Ugh, where is that girl…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ух, где эта девушка...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух, де це дівча…."
+        }
+    ]
+}

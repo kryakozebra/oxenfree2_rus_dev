@@ -1,0 +1,303 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.MEBEPO",
+    "entries": [
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0000_OPTION_0000",
+            "en": "Need one of those time travel things.",
+            "ru_native": "Нужна машина времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібна машина часу."
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0000_OPTION_0001",
+            "en": "We'll find another way up.",
+            "ru_native": "Найдем другой путь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайдемо інший шлях."
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0000_OPTION_0002",
+            "en": "Now what?",
+            "ru_native": "Что дальше?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тепер?"
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0001_OPTION_0000",
+            "en": "We'll find another way up.",
+            "ru_native": "Найдем другой путь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайдемо інший шлях."
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0001_OPTION_0001",
+            "en": "Now what?",
+            "ru_native": "Что дальше?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тепер?"
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0002_OPTION_0000",
+            "en": "Time travel.",
+            "ru_native": "Путешествие во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подорож у часі."
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0002_OPTION_0001",
+            "en": "The church.",
+            "ru_native": "Церковь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Церква."
+        },
+        {
+            "tag": "A2G2.MEBEPO_CHOICE_0002_OPTION_0002",
+            "en": "Doubt it.",
+            "ru_native": "Сомневаюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумніваюся."
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0000",
+            "en": "Oh, wow. This would be the entrance to the caves and the way up to the ledge, but…",
+            "ru_native": "Ух ты. Это мог бы быть вход в шахту и проход к уступу, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого! Це може бути вхід у печери і шлях до виступу, але…"
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0001",
+            "en": "Nope. Caved in.",
+            "ru_native": "Не-а. Завалено.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Завалено."
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0002",
+            "en": "Not gonna work. Not—like this at least. We should find some other way.",
+            "ru_native": "Не сработает. По крайней мере, не так. Нужен другой способ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не спрацює. Принаймні не так. Треба знайти інший спосіб."
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0003",
+            "en": "Amen on both counts.",
+            "ru_native": "Истинно так по обоим пунктам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Істинно так за обома пунктами."
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0004",
+            "en": "Um… the church, I guess? But I wouldn’t put money on it. How about we cross our fingers and look around some more?",
+            "ru_native": "Может, попробуем церковь? Но я не уверен. Может, скрестим пальцы и поищем еще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, через церкву? Але я не впевнений. Схрестімо пальці й пошукаємо інший варіант?"
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0005",
+            "en": "Nope, not really. Let's just look around some more.",
+            "ru_native": "Ну нет. Давай лучше еще поищем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не зовсім. Пошукаймо ще навколо."
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0006",
+            "en": "You never know, right?",
+            "ru_native": "Кто знает. Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто знає? Еге ж?"
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0007",
+            "en": "Hm, collapsed. But—",
+            "ru_native": "Хм, завал. Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, обрушилася. Але…"
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0008",
+            "en": "You thinking what I'm thinking?",
+            "ru_native": "Ты думаешь о том же, о чем и я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти думаєш про те ж, що і я?"
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0009",
+            "en": "Oh yeah! Don't worry, we'll workshop the team name later.",
+            "ru_native": "О да! Не волнуйся, название потом придумаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О так! Не хвилюйся, назву команди придумаємо потім."
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0010",
+            "en": "But yeah, I agree. We might stumble on a time when it's open. Navigable.",
+            "ru_native": "Но да, согласен. Мы можем попасть в то время, когда проход был открыт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я згоден. Можемо потрапити в той час, коли прохід був відкритий."
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0011",
+            "en": "Heh. I mean we might be able to find a time when the mines are open. You know?",
+            "ru_native": "Хе. Я имею в виду, мы можем найти время, когда шахта была открыта. Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хе. Тобто, ми можемо знайти час, коли шахти були відкриті. Розумієш?"
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0012",
+            "en": "Oh, sweet providence.",
+            "ru_native": "О, сладкое провидение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, солодке провидіння."
+        },
+        {
+            "tag": "A2G2.MEBEPO_JACOB_0013",
+            "en": "Because… I’m thinking we might be able to find a time when the mines are open. You know? ",
+            "ru_native": "Потому что.. Мне кажется, мы сможем найти<br>момент, когда шахта была открыта. Понимаешь? ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оскільки… Гадаю, ми можемо знайти час, коли шахти відкриті. Розумієш? "
+        },
+        {
+            "tag": "A2G2.MEBEPO_RILEY_0000",
+            "en": "Where's a—uh, rip in the fabric of spacetime when you need one, huh?",
+            "ru_native": "Где этот... разрыв в ткани пространства-времени, когда он так нужен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну де ж цей… розрив у часо-просторовій тканині, коли він нам так необхідний?"
+        },
+        {
+            "tag": "A2G2.MEBEPO_RILEY_0001",
+            "en": "Wow, that felt really weird to actually… mean. Unironically.",
+            "ru_native": "Ух, это было слишком странно, чтобы и правда... Без шуток.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, то було досить дивно, щоби… Без жартів."
+        },
+        {
+            "tag": "A2G2.MEBEPO_RILEY_0002",
+            "en": "Well, that's two strikes. Can't go up through the church, can't go up through the mines.",
+            "ru_native": "Итак, мы не можем пройти ни через церковь, ни через шахту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, ми не можемо пройти ані через церкву, ані через шахти."
+        },
+        {
+            "tag": "A2G2.MEBEPO_RILEY_0003",
+            "en": "Any ideas?",
+            "ru_native": "Есть идеи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Варіанти?"
+        },
+        {
+            "tag": "A2G2.MEBEPO_RILEY_0004",
+            "en": "I'm thinking the time—uh, spelunkers are back.",
+            "ru_native": "Думаю, пришел час... временных спелеологов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, настав час… часових спелеологів."
+        },
+        {
+            "tag": "A2G2.MEBEPO_RILEY_0005",
+            "en": "Finally ready to climb the church?",
+            "ru_native": "Готов взбираться на церковь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нарешті готовий підійматися на церкву?"
+        },
+        {
+            "tag": "A2G2.MEBEPO_RILEY_0006",
+            "en": "Somehow I'm skeptical.",
+            "ru_native": "Что-то я сомневаюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось не віриться."
+        },
+        {
+            "tag": "A2G2.MEBEPO_RILEY_0007",
+            "en": "Let's just keep looking. Worth a shot.",
+            "ru_native": "Поищем еще. Стоит попробовать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжуймо шукати. Варто спробувати."
+        }
+    ]
+}

@@ -1,0 +1,285 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2W4",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2W4_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2W4_CHOICE_0000_OPTION_0000",
+            "en": "Time’s jumping around, right?",
+            "ru_native": "Время скачет туда-сюда, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час стрибає туди-сюди, так?"
+        },
+        {
+            "tag": "EVWT.EVA2W4_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2W4_CHOICE_0001_OPTION_0000",
+            "en": "It’s like a dream.",
+            "ru_native": "Похоже на сон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ніби сон."
+        },
+        {
+            "tag": "EVWT.EVA2W4_CHOICE_0001_OPTION_0001",
+            "en": "It doesn’t make sense.",
+            "ru_native": "Будто теряешь рассудок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це нелогічно."
+        },
+        {
+            "tag": "EVWT.EVA2W4_CHOICE_0001_OPTION_0002",
+            "en": "It’s like being teleported.",
+            "ru_native": "Похоже на телепортацию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ніби телепортація."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0000",
+            "en": "[out of breath] Hey, I’m here. Hello.",
+            "ru_native": "Я здесь. Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Захекано] Гей, я тут. Алло."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0001",
+            "en": "Sorry. You’re asking about time jumps. Okay. Is that—is that what’s been happening?",
+            "ru_native": "Извини. Ты спрашивала про скачки во времени. Так вот что у вас творится?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач. Ти питала про стрибки в часі. Саме це відбувається?"
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0002",
+            "en": "We can’t really tell. We haven’t felt anything like that, really, no. We’re just collecting data.",
+            "ru_native": "Сложно сказать, на нашем конце ничего такого не было. Мы просто данные собираем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не можемо сказати впевнено. Ми такого ще не відчували. Ми лише збираємо дані."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0003",
+            "en": "And the, uh, information being collected by the transmitter isn’t being understood by our computers… currently.",
+            "ru_native": "И полученные передатчиком значения почему-то не расшифровываются компьютерами... пока что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ту інформацію, яку збирає радіопередавач,<br>наші комп’ютери розібрати не можуть… поки."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0004",
+            "en": "Maybe sometime in the future… we can actually start to decipher it.",
+            "ru_native": "Может, в будущем мы сможем хотя бы подступиться к анализу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, колись у майбутньому… ми зможемо фактично почати розшифровувати їх."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0005",
+            "en": "But, uh, what happens when… it happens?",
+            "ru_native": "Что происходит, когда... это случается?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але що станеться, коли… це станеться?"
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0006",
+            "en": "When… time skips?",
+            "ru_native": "Когда пропадает время?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли… час зникає?"
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0007",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0008",
+            "en": "You know, I’m glad I’m not out there, but I’m a little envious. You know. Just… a little.",
+            "ru_native": "Знаешь, я рада, что меня там нет, но при этом немного завидую. Совсем немного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, я рада, що мене немає там, але я трохи заздрю. Зовсім трохи."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0009",
+            "en": "Anyways, stay safe. I’ll speak to you soon. Over and out.",
+            "ru_native": "Ладно, будь осторожна. До скорого. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як, бережи себе. Скоро зв’яжемося. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0010",
+            "en": "Okay. Stay safe out there, Riley. I’ll speak to you soon. Over and out.",
+            "ru_native": "Хорошо. Будь осторожна, Райли. До скорого. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Бережи себе, Райлі. До скорого. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0011",
+            "en": "I’m sorry, Riley. We’ll get this sorted out as soon as we can.",
+            "ru_native": "Мне так жаль, Райли. Мы постараемся во всем разобраться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Райлі. Ми розберемося із цим, щойно буде можливість."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0012",
+            "en": "Stay safe out there. I’ll speak to you soon. Over and out.",
+            "ru_native": "Будь осторожна. До скорого. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бережи себе. До скорого. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2W4_EVELYN_0013",
+            "en": "Riley? Guh, okay… hope you’re okay. I’ll speak to you soon. Over and out.",
+            "ru_native": "Райли? Блин... Надеюсь, у тебя все хорошо. До скорого. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Гаразд. Сподіваюся, ти в нормі. До скорого. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0000",
+            "en": "Hey, uh, Evelyn? Time is, kinda, like… jumping around a lot. Right?",
+            "ru_native": "Эй, Эвелин? У тебя тоже время... скачет туда-сюда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін? Час ніби… стрибає туди-сюди. Еге ж?"
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0001",
+            "en": "I’m sorry, I just feel like I should be double-checking we’re not the only ones experiencing this.",
+            "ru_native": "Прости, мне нужно убедиться, что не только мы через это проходим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, мені потрібно переконатися, що не тільки ми відчуваємо це."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0002",
+            "en": "I hope you’re there. Over.",
+            "ru_native": "Надеюсь, ты там. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ти там. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0003",
+            "en": "It’s… like a dream, Evelyn, honestly. It’s like… dreaming you’re someplace else.",
+            "ru_native": "Это похоже на сон, Эвелин. Будто тебе снится, что ты в другом месте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ніби сон, Евелін, справді. Це ніби… тобі сниться, що ти десь інде."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0004",
+            "en": "And… when it’s over, it’s the same thing, you feel like you’ve woken up.",
+            "ru_native": "А когда все заканчивается, кажется, что ты только что проснулся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І коли це закінчується, здається, ніби ти щойно прокинувся."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0005",
+            "en": "And you can barely remember what happened. Uh, over.",
+            "ru_native": "Ты почти ничего не помнишь из случившегося. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І майже не пам’ятаєш, що сталося. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0006",
+            "en": "When it happens, it… feels like you’re losing your mind.",
+            "ru_native": "В этот момент кажется, что ты теряешь рассудок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли це відбувається, здається, ніби ти втрачаєш розум."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0007",
+            "en": "It feels like what I imagine getting old feels like. Everything—memories—just… blurs together.",
+            "ru_native": "Мне так представляется старость. Все воспоминания расплываются воедино.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені так здається старість. Усі спогади… поєднуються."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0008",
+            "en": "I don’t know. If you’re not feeling them, then… nevermind. Over.",
+            "ru_native": "Не знаю. Если ты такого не испытывала, то... проехали. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Якщо ти не відчуваєш їх, то… не зважай. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0009",
+            "en": "It’s like being teleported, honestly. It’s like… being beamed to another planet by an alien force.",
+            "ru_native": "Похоже на телепортацию. Будто какая-то<br>внеземная сила переносит тебя на другую планету.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це схоже на телепортацію. Ніби… якась позаземна<br>сила переносить тебе на іншу планету."
+        },
+        {
+            "tag": "EVWT.EVA2W4_RILEY_0010",
+            "en": "It feels terrible, if I’m being even more honest. Over.",
+            "ru_native": "Если совсем откровенно, ощущения ужасные. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це жахливо, якщо вже зовсім чесно. Прийом."
+        }
+    ]
+}

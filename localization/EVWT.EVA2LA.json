@@ -1,0 +1,231 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2LA",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2LA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2LA_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? I think this is bye.",
+            "ru_native": "Эвелин? Пора прощаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Гадаю, це прощання."
+        },
+        {
+            "tag": "EVWT.EVA2LA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2LA_CHOICE_0001_OPTION_0000",
+            "en": "Thanks for your help.",
+            "ru_native": "Спасибо за помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за допомогу."
+        },
+        {
+            "tag": "EVWT.EVA2LA_CHOICE_0001_OPTION_0001",
+            "en": "[JOKE] Thanks for nothing.",
+            "ru_native": "[Шутка] Спасибо за ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ЖАРТ] Дякую за відсутність допомоги."
+        },
+        {
+            "tag": "EVWT.EVA2LA_CHOICE_0001_OPTION_0002",
+            "en": "Hope to see you around.",
+            "ru_native": "Надеюсь, еще увидимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, зустрінемося."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0000",
+            "en": "Oh no. Riley. I’m sorry that it’s not—that you’re just still stuck.",
+            "ru_native": "О нет. Райли. Мне жаль, что... ты не можешь поехать домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ні. Райлі. Мені шкода, що… що ти там застрягла."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0001",
+            "en": "I—yeah, Riley, I saw on the readout here that… stuff isn’t right, yet.",
+            "ru_native": "Да, Райли, я вижу по показателям, что... проблема еще не решена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Райлі, я бачу по приборах, що проблему досі не вирішено."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0002",
+            "en": "I’m just… [sighs] Just… I’m, I'm sorry, Riley.",
+            "ru_native": "Я просто... Мне жаль, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто… [зітхає] Просто… мені шкода, Райлі."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0003",
+            "en": "And thanks for sticking with it.",
+            "ru_native": "Спасибо, что не сдаешься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що тримаєшся."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0004",
+            "en": "I appreciate it. We all do.",
+            "ru_native": "Я это ценю. Все мы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ціную це. Ми всі цінуємо."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0005",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0006",
+            "en": "[chuckles] Yeah, will do. Over and out.",
+            "ru_native": "Обязательно. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Хихикає] Так, неодмінно. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0007",
+            "en": "[chuckles] Yeah, well, I’ll try to remember the right address to send your check.",
+            "ru_native": "Постараюсь ничего не перепутать и отправить зарплату по адресу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Хихикає] Так. Що ж… Запам’ятаю правильну адресу, щоби надіслати тобі чек."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0008",
+            "en": "Be careful out there, lady. Over and out.",
+            "ru_native": "Будь осторожна, дамочка. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обережніше там, леді. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0009",
+            "en": "Hope to see you, too. Over and out.",
+            "ru_native": "Увидимся. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теж сподіваюся, що побачимося. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2LA_EVELYN_0010",
+            "en": "Alright, you’re probably out of range on the boat.",
+            "ru_native": "Ладно, на лодке наверняка связи уже нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, мабуть, на човні зв’язку немає."
+        },
+        {
+            "tag": "EVWT.EVA2LA_RILEY_0000",
+            "en": "Hey, uh, Evelyn? We planted the last transmitter, but… ugh, this’ll take too long to explain—",
+            "ru_native": "Эй, Эвелин? Мы поставили последний передатчик, но... Долго объяснять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ми розмістили останній радіопередавач, але… надто довго пояснювати…"
+        },
+        {
+            "tag": "EVWT.EVA2LA_RILEY_0001",
+            "en": "I just have to go to Edwards Island and fix it there. I don’t know what’s gonna happen. Over.",
+            "ru_native": "Чтобы все исправить, мне нужно на остров Эдвардса.<br>И я не знаю, что там произойдет. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібно на острів Едвардса полагодити там. Я не знаю, що станеться. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2LA_RILEY_0002",
+            "en": "Yeah. Thanks for your help, Evelyn. You’ve been such a lifesaver, literally.",
+            "ru_native": "Да. Спасибо за помощь, Эвелин. Ты в прямом смысле спасла мне жизнь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Дякую за твою допомогу, Евелін. Ти буквально врятувала мені життя."
+        },
+        {
+            "tag": "EVWT.EVA2LA_RILEY_0003",
+            "en": "But… I’ll see you when I see you. If you don’t hear from me, still send the check. Over.",
+            "ru_native": "Но... Может, еще увидимся. Если не выйду на связь, деньги все равно отправь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… побачимося, коли побачимося. Якщо я не подам звістку,<br>усе одно надішли мені чек. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2LA_RILEY_0004",
+            "en": "Yeah, well, thanks for absolutely nothing, Evelyn, that’s what I’m calling to say.",
+            "ru_native": "Да, спасибо, что совершенно мне не помогала, Эвелин. Говорю как есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дякую за відсутність допомоги, Евелін. Саме для цього я виходжу на зв’язок."
+        },
+        {
+            "tag": "EVWT.EVA2LA_RILEY_0005",
+            "en": "And your voice is annoying. I’m joking. Over.",
+            "ru_native": "Еще у тебя голос противный. Шучу. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твій голос дратує. Жартую. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2LA_RILEY_0006",
+            "en": "It’s alright, Evelyn. You get a job, you gotta do the job, you know. This one’s almost over.",
+            "ru_native": "Перестань, Эвелин. Если получаешь работу, ее нужно выполнять. Все почти закончилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, Евелін. У тебе є робота, тобі<br>потрібно виконувати роботу. Ця майже закінчилася."
+        },
+        {
+            "tag": "EVWT.EVA2LA_RILEY_0007",
+            "en": "Hope to see you around. Over.",
+            "ru_native": "Надеюсь, еще увидимся. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, побачимося."
+        }
+    ]
+}

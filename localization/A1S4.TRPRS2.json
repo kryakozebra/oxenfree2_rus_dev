@@ -1,0 +1,321 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1S4.TRPRS2",
+    "entries": [
+        {
+            "tag": "A1S4.TRPRS2_CHOICE_0000_OPTION_0000",
+            "en": "Should we call Evelyn?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может, позвонить Эвелин?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подзвонити Евелін?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_CHOICE_0000_OPTION_0001",
+            "en": "What now?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что теперь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що далі?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_CHOICE_0000_OPTION_0002",
+            "en": "Is it working?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Работает ли он?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воно працює?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_CHOICE_0001_OPTION_0000",
+            "en": "I’m here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тут."
+        },
+        {
+            "tag": "A1S4.TRPRS2_CHOICE_0001_OPTION_0001",
+            "en": "It was all me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это всё я.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все я."
+        },
+        {
+            "tag": "A1S4.TRPRS2_CHOICE_0001_OPTION_0002",
+            "en": "Great team effort.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отличная командная работа.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудова командна робота."
+        },
+        {
+            "tag": "A1S4.TRPRS2_EVELYN_0000",
+            "en": "Hey, Jacob! Yeah, the – the readings… are just… coming in now… there they are.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, Джейкоб! Да, показания... только что... поступили... вот они.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом, Джейкобе! Сигнал наче… так, іде… усе добре."
+        },
+        {
+            "tag": "A1S4.TRPRS2_EVELYN_0001",
+            "en": "The signals’ clear. You guys did a great job.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сигналы понятны. Вы, ребята, проделали отличную работу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сигнал чіткий. Молодці."
+        },
+        {
+            "tag": "A1S4.TRPRS2_EVELYN_0002",
+            "en": "Riley there with you?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли там с тобой?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі там із тобою?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_EVELYN_0003",
+            "en": "Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0000",
+            "en": "Yeah, it’s working great. I, uh, think…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, работает отлично. Я, э-э, думаю...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, схоже, що працює."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0001",
+            "en": "So… that light either means it’s relaying data back to the lab...",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так что... этот свет либо означает, что он передает данные обратно в лабораторию...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… або дані були відправлені назад до лабораторії…"
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0002",
+            "en": "Or… it’s rebooting.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Или... он перезагружается.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або…. ця штука перезавантажується."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0003",
+            "en": "I hope we don’t have to troubleshoot anything.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Надеюсь, нам не придется ничего устранять.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, нам не треба буде це ще й лагодити."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0004",
+            "en": "Oh, uh, yeah, good – good idea.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, ах, да, хорошо - хорошая идея.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, слушна думка… дуже слушна."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0005",
+            "en": "Let’s, uh, let’s actually call Evelyn real quick, make sure they’re getting the feed.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай, на самом деле, быстренько позвоним Эвелин и убедимся, что они получают сигнал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай швиденько подзвонимо Евелін, треба переконатись, що все добре."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0006",
+            "en": "Something is… good. But… maybe we should ping Evelyn?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что-то есть... хорошее. Но... может быть, стоит пинговать Эвелин?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось… це вже добре, але… давай все-таки маякнемо Евелін?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0007",
+            "en": "Just to make sure it’s doing the something they need it to do?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто чтобы убедиться, что он делает то, что им нужно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоби переконатись, що ми зробили все, як вони хотіли?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0008",
+            "en": "Maybe – looking at it, maybe we should call Evelyn? I mean, it’s doing something, but...",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, - глядя на него, - может быть, стоит позвонить Эвелин? Ведь она что-то делает, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… дивлюся я й думаю: може все-таки подзвонити Евелін? Пацієнт скоріше живий, але…"
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0009",
+            "en": "Right? We should probably give her a call and let her know it’s up and running.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Верно? Наверное, нам стоит позвонить ей и сообщить, что все готово к работе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай вона сама переконається і скаже, що воно справді працює, як треба."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0010",
+            "en": "It’s, uh, channel 7.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это, э-э, седьмой канал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона на 7-му каналі."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0011",
+            "en": "I can call her, instead… if you want?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я могу позвонить ей, вместо этого... если хочешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу її набрати, хочеш?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0012",
+            "en": "I’ll just give her a call – hold on a sec.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто позвоню ей - подожди секунду.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я її наберу… одну секунду."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0013",
+            "en": "Hey, uh, Evelyn? We turned on the transmitter. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, Эвелин? Мы включили передатчик. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло, Евелін? Ми встановили радіопередавач. Прийом."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0014",
+            "en": "Yeah, she’s –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, она...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вона…"
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0015",
+            "en": "Well she can speak for herself.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что ж, она может говорить за себя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А взагалі-то вона й сама розкаже."
+        },
+        {
+            "tag": "A1S4.TRPRS2_JACOB_0016",
+            "en": "Riley?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_RILEY_0000",
+            "en": "Heyo! That did something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эйо! Это что-то дало.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого собі! Оце так."
+        },
+        {
+            "tag": "A1S4.TRPRS2_RILEY_0001",
+            "en": "Yeah, so… should we call Evelyn? Maybe check with her if it’s working?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, так... Может, позвонить Эвелин? Может, уточнить у нее, работает ли она?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це точно… може тоді подзвонити Евелін? Хай ще вона подивиться?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_RILEY_0002",
+            "en": "So… what’s, uh, what’s next?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Итак... что... что дальше?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну і… що далі?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_RILEY_0003",
+            "en": "This was our only transmitter for the night. Pack it in?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это был наш единственный передатчик на ночь. Упаковать его?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це був єдиний радіопередавач на сьогодні. Збираємось?"
+        },
+        {
+            "tag": "A1S4.TRPRS2_RILEY_0004",
+            "en": "It’s working, though, right? I mean… it’s doing something. Something is good.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но ведь это работает, верно? Я имею в виду... это что-то делает. Что-то хорошее.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ж він працює, так? Ну… Блимає як-не-як. А як-не-як це вже щось."
+        },
+        {
+            "tag": "A1S4.TRPRS2_RILEY_0005",
+            "en": "Evelyn? I’m –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин? Я...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Я…"
+        },
+        {
+            "tag": "A1S4.TRPRS2_RILEY_0006",
+            "en": "[chuckles] Oh, yeah, I’m here. It was really all –",
+            "ru_native": "",
+            "ru_machine": "DEEPL [О, да, я здесь. Это было действительно всё -",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Так, тут. Це все…"
+        },
+        {
+            "tag": "A1S4.TRPRS2_RILEY_0007",
+            "en": "Evelyn, can you hear me? It was a great team –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин, ты меня слышишь? Это была отличная команда -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, ти добре мене чуєш? Це була чудова команда…"
+        }
+    ]
+}

@@ -1,0 +1,951 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S6.FIRSTE",
+    "entries": [
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0000_OPTION_0000",
+            "en": "Wait… what?",
+            "ru_native": "Стой... Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зажди, що?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0000_OPTION_0001",
+            "en": "Sorry... I dozed off?",
+            "ru_native": "Прости... я уснула?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я задрімала."
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0000_OPTION_0002",
+            "en": "We already did this...",
+            "ru_native": "Мы уже это говорили...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вже відбувалося…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0001_OPTION_0000",
+            "en": "Evelyn, everything's wrong!",
+            "ru_native": "Эвелин, все не так!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, усе божевільне якесь!"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0001_OPTION_0001",
+            "en": "I don't understand myself.",
+            "ru_native": "Я сама себя не понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сама себе не розумію."
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0002_OPTION_0000",
+            "en": "I think something’s wrong...",
+            "ru_native": "По-моему, что-то не так...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, щось не так…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0002_OPTION_0001",
+            "en": "I’m not feeling well...",
+            "ru_native": "Мне нехорошо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені не добре…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0002_OPTION_0002",
+            "en": "Uh, I can hear you…",
+            "ru_native": "Да, я тебя слышу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тебе чую…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0003_OPTION_0000",
+            "en": "Time went backwards…",
+            "ru_native": "Время пошло вспять...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час пішов назад…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0003_OPTION_0001",
+            "en": "We already did this!",
+            "ru_native": "Мы уже это делали!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вже відбувалося!"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0003_OPTION_0002",
+            "en": "Can’t you remember this?",
+            "ru_native": "Неужели ты не помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Невже ти не пам’ятаєш?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0004_OPTION_0000",
+            "en": "Time went backwards…",
+            "ru_native": "Время пошло вспять...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час пішов назад."
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0004_OPTION_0001",
+            "en": "I already did my duties!",
+            "ru_native": "Я уже сделала свою работу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вже виконала завдання!"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0004_OPTION_0002",
+            "en": "Don’t you feel weird, too?",
+            "ru_native": "Ты тоже это чувствуешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не почуваєшся дивно?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0006_OPTION_0000",
+            "en": "Yeah I know!",
+            "ru_native": "Да, я знаю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я знаю!"
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0006_OPTION_0001",
+            "en": "This is so strange.",
+            "ru_native": "Это так странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Божевілля."
+        },
+        {
+            "tag": "A1S6.FIRSTE_CHOICE_0006_OPTION_0002",
+            "en": "The store’s closed.",
+            "ru_native": "Магазин закрыт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Універмаг зачинено."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0000",
+            "en": "Hey! Hi, thank God. I didn’t know if you’d be in range.",
+            "ru_native": "Слава богу. Боялась, что ты вне зоны доступа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт! Дякувати Богу, я думала, що ти поза зоною."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0001",
+            "en": "Hey! Hi—that’s okay, I’m just glad you picked up and that the walkie’s working.",
+            "ru_native": "Ничего, главное, что ты ответила, а значит рация работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого страшного. Головне, що ти відповіла й рація працює."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0002",
+            "en": "Sorry, can you hear me? The distortion might be… futzing with this.",
+            "ru_native": "Ты меня слышишь? Наверное, сигнал искажается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене чуєш? Схоже, якісь перебої сигналу."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0003",
+            "en": "I’m just glad the walkie’s still kind of in range.",
+            "ru_native": "Хорошо, что рация все еще в зоне доступа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, що рація все ще в зоні доступу."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0004",
+            "en": "I’m Evelyn, a new researcher with the lab, like you. This is the start of my fourth week, actually.",
+            "ru_native": "Это Эвелин, новый исследователь в лаборатории, как и ты. Я здесь уже четвертую неделю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Евелін, нова дослідниця з лабораторії, як і ти. Я тут уже четвертий тиждень."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0005",
+            "en": "I’m by Oval Beach. It’s about twenty miles out, but I can hear you okay. Surprisingly. Can you hear me?",
+            "ru_native": "Я у Овал Бич. Где-то в двадцати милях, но слышу тебя отлично. На удивление.<br>Ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я біля Овального пляжу. Десь за двадцять миль, але чую тебе чудово.<br>На диво. Ти мене чуєш?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0006",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0007",
+            "en": "Riley, how are you hearing me?",
+            "ru_native": "Райли, меня хорошо слышно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, мене добре чути?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0008",
+            "en": "Sorry, Riley, can you hear me? It’s Evelyn. I’m a new researcher, like you.",
+            "ru_native": "Прости, Райли, ты меня слышишь? Это Эвелин. Я – новый исследователь, как ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Райлі, ти мене чуєш? Це Евелін. Я нова дослідниця з лабораторії, як і ти."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0009",
+            "en": "You have to push the button to talk back…",
+            "ru_native": "Чтобы ответить, нужно нажать кнопку...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоби відповісти, потрібно натиснути кнопку…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0010",
+            "en": "Over…?",
+            "ru_native": "Прием?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0011",
+            "en": "Riley? Can you hear me alright?",
+            "ru_native": "Райли? Хорошо меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Мене добре чути?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0012",
+            "en": "As long as it’s something.",
+            "ru_native": "Ну хоть что-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну хоч щось."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0013",
+            "en": "Maybe you walked into a bad zone. [to someone else in the room] Do we have her number? No? Okay.",
+            "ru_native": "Может, ты зашла в глухую зону. ...Есть ее номер? Нет? Ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, ти зайшла до глухої зони.<br>[звертається до когось іншого] У нас є її номер? Ні? Зрозуміло."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0014",
+            "en": "Didn’t what already happen?",
+            "ru_native": "Что уже было?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що вже було?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0015",
+            "en": "The, uh, did Leslie give you the instructions?",
+            "ru_native": "Лесли уже выдала тебе инструкции?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Леслі вже надала тобі інструкції?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0016",
+            "en": "Or…",
+            "ru_native": "Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0017",
+            "en": "Backwards in time? Huh?",
+            "ru_native": "В прошлое? Чего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У минуле? Чого?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0018",
+            "en": "Riley, are you there? It’s hard to… ugh, these things.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли, ты там? Это трудно... тьфу, эти вещи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0019",
+            "en": "Already do what? You’ve—you didn’t talk to anyone else, right?",
+            "ru_native": "Делали что? Ты... ты же ни с кем больше не говорила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що вже відбулося? Ти… ти ж ні з ким іншим не говорила, адже так?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0020",
+            "en": "Went to the summit? That’s what you’re saying?",
+            "ru_native": "Поднялась на гору? О чем это ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уже піднялася на вершину? Про що це ти?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0021",
+            "en": "Riley? Are you there?",
+            "ru_native": "Райли? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0022",
+            "en": "Oh no, that’s—I’m sorry. Are you… not able to perform your duties, you don’t think?",
+            "ru_native": "О нет, это... Сочувствую. Ты... не сможешь выполнить работу, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ні, це… Співчуваю. Ти… не зможеш виконати роботу, так?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0023",
+            "en": "Or…?",
+            "ru_native": "Или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи…?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0024",
+            "en": "Repeating stuff? Is that what you—it’s hard to—",
+            "ru_native": "Уже делали? О чем ты... не могу понять...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уже відбувалося? Про що ти… не можу зрозуміти…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0025",
+            "en": "Already did all of what? You’ve—you didn’t talk to anyone else, right?",
+            "ru_native": "Проходили что? Ты... ты же ни с кем больше не говорила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Проходили що? Ти… ти ж ні з ким не говорила, адже так?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0026",
+            "en": "Went to the summit? That’s what you’re saying?",
+            "ru_native": "Поднялась на гору? О чем это ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уже піднялася на вершину? Про що це ти?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0027",
+            "en": "Riley? Are you there?",
+            "ru_native": "Райли? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0028",
+            "en": "Sorry—I think we lost each other for a second. But, anyways…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Извини - кажется, мы на секунду потеряли друг друга. Но, как бы то ни было...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0029",
+            "en": "Well, welcome to Camena! Or the Northern tip, anyway.",
+            "ru_native": "Добро пожаловать в Камену! На ее север, если точнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ласкаво просимо до Камени! До її північного краю, якщо точніше."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0030",
+            "en": "You’re going to be, uh, placing transmitters. That’s the, uh, the job.",
+            "ru_native": "Тебе нужно, эм, установить передатчики. Это и есть твоя работа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі потрібно, ем, встановити радіопередавачі. Це і є твоє завдання."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0031",
+            "en": "In your backpack, you’ll find most of your equipment. Should be… four transmitters and a test radio.",
+            "ru_native": "В рюкзаке лежит большая часть оборудования. Четыре передатчика и испытательное радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У рюкзаку лежить необхідне обладнання.<br>Чотири радіопередавачі та радіо для досліджень."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0032",
+            "en": "Now… here’s where I confess that I completely messed up and I totally forgot to pack your climbing gear.",
+            "ru_native": "Самое время признаться, что я затупила и<br>забыла положить твое альпинистское снаряжение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз… саме час зізнатися, що я забула покласти твоє альпіністське спорядження."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0033",
+            "en": "Riley? Lost you there, but I was just saying that I forgot to pack your climbing equipment.",
+            "ru_native": "Райли? Связь прервалась. Я говорила, что забыла положить альпинистское снаряжение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Зв’язок перервався. Я говорила,<br>що забула покласти тобі альпіністське спорядження."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0034",
+            "en": "I’m choosing to blame the unforeseen hangover, but—",
+            "ru_native": "Виню во всем непредвиденное похмелье.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все через непередбачене похмілля, але…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0035",
+            "en": "—I express mailed it to the General Store that’s run by a very friendly manager who agreed to set it aside for you.",
+            "ru_native": "Но я отправила посылку экспрессом в местный магазин. Их<br>крайне милый менеджер согласился все тебе передать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…я надіслала посилку в універмаг.<br>Їхній привітний менеджер погодився все передати тобі."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0036",
+            "en": "It should be mere yards from the bus stop. He says you can pick it up before you head off.",
+            "ru_native": "От остановки там рукой подать. Можешь забрать, перед тем как уйдешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це неподалік автобусної зупинки. Можеш зайти<br>й забрати, перш ніж вирушиш в дорогу."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0037",
+            "en": "So just go to the General Store and get your gear, first.",
+            "ru_native": "Сначала зайди в магазин и забери снаряжение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спочатку зайди до універмагу й забери спорядження."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0038",
+            "en": "And then you should be all set.",
+            "ru_native": "Вот тогда будешь готова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після цього ти будеш повністю готова."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0039",
+            "en": "Oh, over.",
+            "ru_native": "Ой, прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0040",
+            "en": "Riley—Riley? Still there? Did you hear me say that you have to go to the General Store to get your climbing stuff?",
+            "ru_native": "Райли... Райли? Ты же услышала, что тебе нужно<br>забрать альпинистское снаряжение в магазине?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, Райлі? Ти ще там? Ти почула,<br>що тобі треба забрати альпіністське спорядження в універмазі?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0041",
+            "en": "Sorry, this is my mistake, but it should be close by.",
+            "ru_native": "Прости, мой косяк. Но магазин где-то рядом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, це моя провина, але універмаг десь неподалік."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0042",
+            "en": "Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0043",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0044",
+            "en": "Oh! Great. That’s—I’m glad you’re up to speed.",
+            "ru_native": "О! Отлично. Я рада, что ты в курсе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Чудово. Я рада, що ти в курсі."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0045",
+            "en": "I know, I’m normally on top of this stuff, but… eh, what can you do?",
+            "ru_native": "Знаю, у меня обычно все под контролем, но... что поделаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, у мене зазвичай усе під контролем, але… що вдієш?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0046",
+            "en": "It’s closed? Oh… shoot. Well… can you still head over and knock on the door?",
+            "ru_native": "Закрыт? Вот черт. Можешь подойти и постучать в дверь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачинено? От дідько. Можеш підійти й постукати у двері?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0047",
+            "en": "It would help me out a ton if they can just let you grab the equipment real quick.",
+            "ru_native": "Может, они тебе разрешать быстренько забрать снаряжение? Было бы круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, вони тобі дозволять швиденько забрати спорядження? Було б круто."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0048",
+            "en": "Sounds good?",
+            "ru_native": "Что скажешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що скажеш?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0049",
+            "en": "Riley? Did you get that?",
+            "ru_native": "Райли? Ты меня услышала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти все почула?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0050",
+            "en": "Just head to the General Store, honey! I’ll—I’ll buzz you in a bit, over and out.",
+            "ru_native": "Милая, отправляйся в магазин! Я скоро вернусь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сонечко, просто йди до універмагу! Я скоро зв’яжуся з тобою. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0051",
+            "en": "I do not think she can—",
+            "ru_native": "По-моему, она не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На мою думку, вона не…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0052",
+            "en": "Riley, sorry—if you can hear me, just go to the General Store and they’ll fix you up!",
+            "ru_native": "Райли, прости... Если ты меня слышишь, зайди в местный магазин, там твои вещи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, вибач… Якщо ти мене чуєш, зайди до універмагу, там твої речі!"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0053",
+            "en": "I’ll call you later! Over and out.",
+            "ru_native": "Свяжемся позже! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’яжуся з тобою пізніше! Кінець зв’язку."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0054",
+            "en": "Talk to you soon! Over and out.",
+            "ru_native": "До скорого! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай щастить! Кінець зв’язку."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0055",
+            "en": "I’m sorry, Riley, I’m not really understanding… what you’re saying…",
+            "ru_native": "Прости, Райли, я не понимаю... о чем ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Райлі, я не розумію… про що ти…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0056",
+            "en": "This is, uh, your first day with us, right?",
+            "ru_native": "Ты же у нас первый день, так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ж у нас перший день, так?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0057",
+            "en": "And you just landed in Camena.",
+            "ru_native": "Ты только что прилетела в Камену.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти щойно прибула до Камени."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0058",
+            "en": "I’m sorry, maybe I have the wrong person…",
+            "ru_native": "Извини, может, я ошиблась...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, може, я помилилася."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0059",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S6.FIRSTE_EVELYN_0060",
+            "en": "It’s okay, Riley, I’ll… let’s get through the instructions, here, and maybe we can circle back.",
+            "ru_native": "Все хорошо, Райли, я... давай пройдемся по инструкциям и попробуем начать с начала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, Райлі, я… пройдемося інструкціями і спробуємо почати спочатку."
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0000",
+            "en": "Wait… what’s—",
+            "ru_native": "Стой... что за...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекай…. Що це…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0001",
+            "en": "Oh, uh, sorry… I think I… dozed off for a second…",
+            "ru_native": "Ой, прости... Похоже, я... задремала немного...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так, вибач, я… трохи тут задрімала."
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0002",
+            "en": "Hey, wait… Evelyn? We—didn’t we already do this?",
+            "ru_native": "Постой... Эвелин? Мы... мы ведь это уже говорили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, зажди… Евелін? Ми… хіба це вже не відбувалось?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0003",
+            "en": "Uh, yeah… I can… I can hear you…",
+            "ru_native": "Да... Я... Я тебя слышу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… Я… Я тебе чую…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0004",
+            "en": "I’m—Evelyn, I think something’s wrong… Didn’t this already all… happen?",
+            "ru_native": "Я... Эвелин. По-моему, что-то не так... Кажется, это все... уже было?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Евелін. Здається, щось не так… Здається, це все… уже було?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0005",
+            "en": "I think… time went backwards, or… we—or just I went backwards in time, or…",
+            "ru_native": "Похоже... время пошло вспять... или мы... или я вернулась в прошлое, или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже… час пішов назад… або ми… або я повернулася до минулого, або…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0006",
+            "en": "Didn’t we already do this? This whole—I woke up on the bench and you called me and—",
+            "ru_native": "Мы же это уже делали? Все это. Я проснулась на скамейке, ты мне позвонила, и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це не відбулося вже? Усе це.<br>Я прокинулася на лавці, ти мені зателефонувала, і…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0007",
+            "en": "Evelyn, tell me you remember calling me already and giving me all the info.",
+            "ru_native": "Эвелин, скажи, что ты помнишь, что уже звонила мне и все рассказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, скажи, що ти пам’ятаєш, що вже дзвонила мені й усе розповіла."
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0008",
+            "en": "I went up to the summit? Placed the transmitter? Remember?",
+            "ru_native": "Я поднялась на гору? Поставила передатчик? Помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вже піднімалася на вершину? Встановлювала радіопередавач? Пам’ятаєш?"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0009",
+            "en": "I’m—Evelyn, I think I’m—I might be sick or something. I’m just not feeling very well right now.",
+            "ru_native": "Я... Эвелин, кажется, я заболела или типа того. Мне нехорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Евелін, здається, я захворіла чи типу того. Мені не добре."
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0010",
+            "en": "Or… maybe it’s not me. I just—I think time is… going backwards? Or… repeating stuff?",
+            "ru_native": "Или... может, дело не во мне. Мне просто кажется, что... мы это уже делали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… може, справа не в мені. Просто мені здається, що це все вже відбувалося."
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0011",
+            "en": "I already did my—you know—my duties! I planted the first transmitter, we already did all of this.",
+            "ru_native": "Я уже сделала свою, ну, работу! Я поставила первый передатчик, мы это уже проходили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вже виконала своє завдання!<br>Я поставила перший радіопередавач, ми вже це проходили."
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0012",
+            "en": "Evelyn, don’t you feel… the slightest bit strange, too? Like…",
+            "ru_native": "Эвелин, у тебя нет этого... странного чувства? Как будто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, у тебе нема цього… дивного відчуття? Ніби…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0013",
+            "en": "Don’t you remember telling me this stuff. Me going to the summit? I already went there!",
+            "ru_native": "Ты разве не помнишь, что все это уже говорила.<br>Как я поднялась на гору? Я уже была там!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хіба не пам’ятаєш, що вже говорила це. Як я піднялася на вершину? Я вже там була!"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0014",
+            "en": "Yeah yeah you forgot the climbing gear and—yeah, I already know all this.",
+            "ru_native": "Да-да, ты забыла про альпинистское снаряжение и... Я это уже слышала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так-так, ти забула про альпіністське спорядження і… Я вже це знаю."
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0015",
+            "en": "This is just so strange…",
+            "ru_native": "Просто это так... странно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це просто так дивно…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0016",
+            "en": "The General Store’s closed, Evelyn, I get there too late.",
+            "ru_native": "Магазин закрыт, Эвелин. Я опоздала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Універмаг зачинено, Евелін. Я дісталася сюди занадто пізно."
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0017",
+            "en": "Evelyn, just—it’s just that everything is… wrong. Or…",
+            "ru_native": "Эвелин, это... тот вечер – вот ошибка. Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, це… цей вечір — він дивний. Або…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0018",
+            "en": "I don’t know. Maybe I—",
+            "ru_native": "Не знаю. Может, я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Може я…"
+        },
+        {
+            "tag": "A1S6.FIRSTE_RILEY_0019",
+            "en": "I… I don’t even really understand what I’m saying myself, Evelyn. Uh… over.",
+            "ru_native": "Я... Я сама не понимаю, что говорю, Эвелин. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Я навіть сама не розумію, що кажу, Евелін. Прийом."
+        }
+    ]
+}

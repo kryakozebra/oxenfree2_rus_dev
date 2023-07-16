@@ -1,0 +1,150 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.BACKPA",
+    "entries": [
+        {
+            "tag": "A1PO.BACKPA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.BACKPA_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, I think…",
+            "ru_native": "Думаю, да...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, так…"
+        },
+        {
+            "tag": "A1PO.BACKPA_CHOICE_0000_OPTION_0001",
+            "en": "Let’s just walk.",
+            "ru_native": "Прогуляемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто ходімо."
+        },
+        {
+            "tag": "A1PO.BACKPA_JACOB_0000",
+            "en": "Now we’re set.",
+            "ru_native": "Отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер усе готово."
+        },
+        {
+            "tag": "A1PO.BACKPA_JACOB_0001",
+            "en": "We’ll be able to access all areas of your map now.",
+            "ru_native": "Теперь мы доберемся до всех точек на карте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер ми маємо доступ до всіх зон, позначених на твоїй карті."
+        },
+        {
+            "tag": "A1PO.BACKPA_JACOB_0002",
+            "en": "We’re not restricted to the beaten path, so to speak.",
+            "ru_native": "Наши возможности теперь безграничны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зможемо, так би мовити, відійти від проторованого шляху."
+        },
+        {
+            "tag": "A1PO.BACKPA_JACOB_0003",
+            "en": "Alright, well… we should start walking to as above-sea-level as we can get.",
+            "ru_native": "Что ж... Надо бы подняться как можно выше над уровнем моря.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, слід підніматися якомога вище над рівнем моря."
+        },
+        {
+            "tag": "A1PO.BACKPA_JACOB_0004",
+            "en": "Take a look at your map, and let’s pick where we want to go.",
+            "ru_native": "Открой карту и выбери, куда нам идти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поглянь на карту. Куди нам слід іти?"
+        },
+        {
+            "tag": "A1PO.BACKPA_JACOB_0005",
+            "en": "Alright…",
+            "ru_native": "Итак...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд…"
+        },
+        {
+            "tag": "A1PO.BACKPA_JACOB_0006",
+            "en": "Have an idea of where we’re going?",
+            "ru_native": "Есть идеи, куда нам идти?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш, куди ми йдемо?"
+        },
+        {
+            "tag": "A1PO.BACKPA_JACOB_0007",
+            "en": "Okay, yeah, let’s do it.",
+            "ru_native": "Ладно, погнали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ходімо."
+        },
+        {
+            "tag": "A1PO.BACKPA_JACOB_0008",
+            "en": "Wherever you wanna go on the map there, we should be able to get to.",
+            "ru_native": "Выбирай любое место на карте – мы туда доберемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зможемо дістатися до будь-якого місця на карті."
+        },
+        {
+            "tag": "A1PO.BACKPA_RILEY_0000",
+            "en": "Uh… yeah. Think so. Doesn’t seem too… difficult.",
+            "ru_native": "Да. Думаю, да. Путь не особо... сложный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… знаю. Гадаю. Не так уже це й складно."
+        },
+        {
+            "tag": "A1PO.BACKPA_RILEY_0001",
+            "en": "Uh… let’s just walk. Just like a museum—I prefer not to make a whole plan first.",
+            "ru_native": "Эм... Прогуляемся? Это как посещение музея. Зачем планировать маршрут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… просто підемо. Як у музеї. Гадаю, план складати не варто."
+        },
+        {
+            "tag": "A1PO.BACKPA_RILEY_0002",
+            "en": "Just start moving and see what you see.",
+            "ru_native": "Просто иди и смотри по сторонам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто рухатимемося й побачимо те, що побачимо."
+        },
+        {
+            "tag": "A1PO.BACKPA_RILEY_0003",
+            "en": "Got it. Follow me.",
+            "ru_native": "Нашла. За мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ясно. За мною."
+        }
+    ]
+}

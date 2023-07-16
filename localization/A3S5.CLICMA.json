@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.CLICMA",
+    "entries": [
+        {
+            "tag": "A3S5.CLICMA_MAGGIE_0000",
+            "en": "Sorry, but I’m extremely busy right now.",
+            "ru_native": "Извини, я сейчас жутко занята.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач, я зараз дуже зайнята."
+        },
+        {
+            "tag": "A3S5.CLICMA_MAGGIE_0001",
+            "en": "Try Station 3C.",
+            "ru_native": "Попробуй станцию 3С.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуй станцію 3С."
+        },
+        {
+            "tag": "A3S5.CLICMA_RILEY_0000",
+            "en": "Excuse me, but—",
+            "ru_native": "Простите, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, але…"
+        }
+    ]
+}

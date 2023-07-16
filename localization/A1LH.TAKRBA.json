@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1LH.TAKRBA",
+    "entries": [
+        {
+            "tag": "A1LH.TAKRBA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.TAKRBA_CHOICE_0000_OPTION_0000",
+            "en": "Go ahead.",
+            "ru_native": "Дерзай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжуй."
+        },
+        {
+            "tag": "A1LH.TAKRBA_CHOICE_0000_OPTION_0001",
+            "en": "I’ll drive.",
+            "ru_native": "Я сяду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я кермуватиму."
+        },
+        {
+            "tag": "A1LH.TAKRBA_JACOB_0000",
+            "en": "I drove last time… wanna steer back?",
+            "ru_native": "Хочешь попробовать погрести?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я кермувала минулого разу… хочеш, тепер ти?"
+        },
+        {
+            "tag": "A1LH.TAKRBA_JACOB_0001",
+            "en": "You got us here. Want me to work the oars back?",
+            "ru_native": "Ты нас сюда доставила. Мне сесть на весла?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти доправила нас сюди. Хочеш, щоби назад веслував я?"
+        },
+        {
+            "tag": "A1LH.TAKRBA_JACOB_0002",
+            "en": "I can do it, but…",
+            "ru_native": "Я и сам могу, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу, але…"
+        },
+        {
+            "tag": "A1LH.TAKRBA_JACOB_0003",
+            "en": "Maybe you want the exercise.",
+            "ru_native": "Вдруг хочешь размяться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, хочеш попрацювати фізично."
+        },
+        {
+            "tag": "A1LH.TAKRBA_JACOB_0004",
+            "en": "Not that you, uh…",
+            "ru_native": "Не то чтобы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не те щоб…"
+        },
+        {
+            "tag": "A1LH.TAKRBA_JACOB_0005",
+            "en": "…need it.",
+            "ru_native": "Обязательно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…тобі це було потрібно."
+        },
+        {
+            "tag": "A1LH.TAKRBA_JACOB_0006",
+            "en": "Sure thing.",
+            "ru_native": "Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A1LH.TAKRBA_JACOB_0007",
+            "en": "I’ll just do it, don’t worry about it. Let’s head out.",
+            "ru_native": "Ладно, я на веслах, не парься. Отчаливаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зроблю це, не хвилюйся. Вирушаймо."
+        },
+        {
+            "tag": "A1LH.TAKRBA_RILEY_0000",
+            "en": "No, go ahead. My hands are a little, uh, clammy.",
+            "ru_native": "Нет, дерзай. У меня руки уже заледенели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, краще ти. У мене руки не звідти виросли."
+        },
+        {
+            "tag": "A1LH.TAKRBA_RILEY_0001",
+            "en": "Don’t worry about it, I’ll drive. I need to get my blood moving.",
+            "ru_native": "Не волнуйся, я сяду. Мне надо согреться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся про це, я кермуватиму. Мені потрібно розігнати кров."
+        }
+    ]
+}

@@ -1,0 +1,429 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.MEECHA",
+    "entries": [
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0000",
+            "en": "Hey! You. Lady. You and Gingerbread here better quit following us.",
+            "ru_native": "Эй! Ты. Дамочка. Тебе с Рыжим лучше от нас отстать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Ти. Жіночко. Тобі з Рудим краще від нас відчепитися."
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0001",
+            "en": "Or bad things are gonna happen.",
+            "ru_native": "Или будет плохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інакше буде погано."
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0002",
+            "en": "Seriously—",
+            "ru_native": "Серьезно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно…"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0003",
+            "en": "Did you two just meet or something?",
+            "ru_native": "Вы двое что, первый день знакомы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви що, нещодавно познайомилися?"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0004",
+            "en": "Uh, take your first pet and the street you grew up on—that’s my name. Happy?",
+            "ru_native": "Возьми имя первого питомца и название улицы, на которой выросла. Довольна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Візьми ім’я твоєї першої тваринки й назву вулиці,<br>на якій ти виросла. Це і є моє ім’я."
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0005",
+            "en": "Yeah no, I’m not ten.",
+            "ru_native": "Нет, мне не десять лет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, мені ж не десять років."
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0006",
+            "en": "DId you two just meet or something?",
+            "ru_native": "Вы двое первый день знакомы или что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви що, нещодавно познайомилися?"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0007",
+            "en": "Violet didn’t need you and neither do I—none of us need you.",
+            "ru_native": "Вайолет вы не нужны и мне тоже – вы никому из нас не нужны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви не потрібні ані мені, ані Вайолет. Ви нікому з нас не потрібні."
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0008",
+            "en": "Don’t follow me, don’t follow us, stop what you’re doing. Last warning.",
+            "ru_native": "Не ходите за мной, отстаньте от нас,<br>прекратите это делать. Последний раз предупреждаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не ходіть за мною, відчепіться від нас, припиніть<br>це робити. Останній раз вам кажу."
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0009",
+            "en": "And Gingerbread, c’mon—",
+            "ru_native": "Рыжий, да ладно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рудий, годі тобі…"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHARLIE_0010",
+            "en": "Are these your work hours or something? You look exhausted—and I mean that in a bad way.",
+            "ru_native": "Ты на дежурстве или что? У тебя измученный вид – в плохом смысле.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти на зміні чи що? Ти якийсь стомлений… Виглядаєш паршиво."
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0000_OPTION_0000",
+            "en": "Who’s Gingerbread?",
+            "ru_native": "Кто такой «Рыжий»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто такий Рудий?"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0000_OPTION_0002",
+            "en": "Let’s work something out…",
+            "ru_native": "Давай договоримся...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай-но домовимося…"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0001_OPTION_0000",
+            "en": "Who’s Gingerbread?",
+            "ru_native": "Кто такой «Рыжий»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто такий Рудий?"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0001_OPTION_0002",
+            "en": "We helped Violet!",
+            "ru_native": "Мы помогли Вайолет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми допомогли Вайолет!"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0002_OPTION_0000",
+            "en": "Calm down.",
+            "ru_native": "Успокойся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заспокойся."
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0002_OPTION_0001",
+            "en": "We’ll get him next time.",
+            "ru_native": "Достанем его в другой раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дістанемо його іншого разу."
+        },
+        {
+            "tag": "A2W2.MEECHA_CHOICE_0002_OPTION_0002",
+            "en": "What a prick.",
+            "ru_native": "Ну и придурок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Який придурок."
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0000",
+            "en": "Open. The gate.",
+            "ru_native": "Открой. Ворота.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчини. Ворота."
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0001",
+            "en": "[angry] Oh—are you kidding me?",
+            "ru_native": "Издеваешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[злісно] Ох… Ти знущаєшся?"
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0002",
+            "en": "Will you just shut up, dude.",
+            "ru_native": "Рот свой закрой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, стули пельку."
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0003",
+            "en": "Oh will you just shut up, dude.",
+            "ru_native": "Рот свой закрой, чувак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, стули пельку."
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0004",
+            "en": "This is stupid! Look, whatever you and your little friends are doing—",
+            "ru_native": "Это глупо! Слушай, чем бы ты и твои мелкие друзья не занимались...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дурня якась! Слухай, чим би ти й твої друзяки не займались…"
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0005",
+            "en": "Wait!",
+            "ru_native": "Подожди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай!"
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0006",
+            "en": "Oh yeah, why don’t you eat something!",
+            "ru_native": "Да, а не пойти ли тебе кое-куда!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, а не піти б тобі куди-небудь?"
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0007",
+            "en": "And go to Hell also!",
+            "ru_native": "И к черту заодно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І до біса заодно!"
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0008",
+            "en": "God! You and your entire freak show crew!",
+            "ru_native": "Ты и вся твоя чокнутая компашка!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі й усім твоїм навіженим друзякам!"
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0009",
+            "en": "Don’t think we don’t know you’re up to something!",
+            "ru_native": "Не думай, что мы не знаем, что вы что-то замышляете!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думай, що ми не знаємо, що ви щось задумали!"
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0010",
+            "en": "Agh! It’s just—mmm. So annoying—if we had gotten here just two minutes earlier…",
+            "ru_native": "Это просто... бесит. Если бы мы пришли на пару минут раньше...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це просто… так бісить. Якби ми прийшли на кілька хвилин раніше…"
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0011",
+            "en": "Yes! He’s—ugh. God, that was annoying. If we had just gotten here two minutes earlier…",
+            "ru_native": "Да! Он... Боже, как это бесит. Если бы мы пришли всего на пару минут раньше...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Він… Як же мене це бісить. Якби ми прийшли на кілька хвилин раніше…"
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0012",
+            "en": "[sigh] Okay. Okay, it’s—I’m fine.",
+            "ru_native": "Ладно. Ладно, я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Зі мною… усе гаразд."
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0013",
+            "en": "There’s probably a key for the lock at the Ranger’s Station. It’s… just up here.",
+            "ru_native": "Ключ от замка должен быть на станции рейнджеров. Это… тут, наверху.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ключ від замка має бути на станції наглядачів. Це… тут, нагорі."
+        },
+        {
+            "tag": "A2W2.MEECHA_JACOB_0014",
+            "en": "Ugh.",
+            "ru_native": "Уф.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух."
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0000",
+            "en": "Uh, who’s Gingerbread? Is that—Jacob?",
+            "ru_native": "Э, кто такой «Рыжий»? Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Який Рудий? Джейкоб?"
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0001",
+            "en": "Okay. Give us a break. Just who the hell are you?",
+            "ru_native": "Ладно. Проехали. Кто ты, черт возьми, такой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Облиш. Хто ти в біса такий?"
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0002",
+            "en": "Wait, c’mon, let’s—let’s work something out.",
+            "ru_native": "Постой, давай... давай договоримся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, давай-но… домовимося."
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0003",
+            "en": "Open the gate and we’ll—I’ll—I—I have money? How about that? Twenty—seventeen bucks?",
+            "ru_native": "Открой ворота, и мы... Я... У меня есть деньги. Хочешь двадцать... семнадцать баксов?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчини ворота, і ми… Я… У мене є гроші. Хочеш двадцять… сімнадцять баксів?"
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0004",
+            "en": "Hey—wait, c’mon—we helped out your buddy Violet, okay?",
+            "ru_native": "Послушай, мы помогли твоей подружке, Вайолет, ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, стривай, ми допомогли твоїй подружці, Вайолет, ясно?"
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0005",
+            "en": "She was in trouble and now she’s not because of us.",
+            "ru_native": "Она была в беде, а мы ее выручили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона була в біді, а ми її виручили."
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0006",
+            "en": "And now we need you to open the gate.",
+            "ru_native": "А теперь нам надо, чтобы ты открыл ворота.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер нам треба, щоби ти відчинив ворота."
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0007",
+            "en": "Maybe we get you out of trouble, too? Sound fair?",
+            "ru_native": "Может, мы и тебе поможем? Уговор?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, ми й тебе виручимо? Гаразд?"
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0008",
+            "en": "Okay, okay, Jacob, he’s gone. You can breathe.",
+            "ru_native": "Ладно-ладно, Джейкоб, он ушел. Выдыхай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе-усе, Джейкобе, він пішов. Видихни."
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0009",
+            "en": "It’s okay. We’ll get him next time. There has to be another way.",
+            "ru_native": "Ничего. Достанем его в другой раз. Должен быть другой путь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого. Дістанемо його іншим разом. Має бути інший вихід."
+        },
+        {
+            "tag": "A2W2.MEECHA_RILEY_0010",
+            "en": "God. Somebody’s parents must have read the wrong books cause that kid’s a prick.",
+            "ru_native": "Боже. Чьи-то родители, наверное, не те книжки<br>читали, потому что этот пацан просто придурок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, чиїсь батьки, мабуть, не ті книжки читали, бо цей хлопець просто придурок."
+        }
+    ]
+}

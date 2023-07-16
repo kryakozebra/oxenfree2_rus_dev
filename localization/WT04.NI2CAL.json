@@ -1,0 +1,474 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT04.NI2CAL",
+    "entries": [
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0000_OPTION_0000",
+            "en": "You’re Air Force?",
+            "ru_native": "Вы из ВВС?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви з авіації?"
+        },
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0000_OPTION_0001",
+            "en": "My dad was in the Air Force.",
+            "ru_native": "Мой отец служил в ВВС.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мій тато служив у повітряних силах."
+        },
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0001_OPTION_0000",
+            "en": "Childhood dream?",
+            "ru_native": "Детская мечта?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мрія дитинства?"
+        },
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0001_OPTION_0001",
+            "en": "How’d that work out?",
+            "ru_native": "И что в итоге?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що з того вийшло?"
+        },
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0002_OPTION_0000",
+            "en": "I gotta go.",
+            "ru_native": "Мне пора.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені вже час іти."
+        },
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0002_OPTION_0001",
+            "en": "Hardly anyone goes to space.",
+            "ru_native": "Мало кто летает в космос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Одиниці потрапляють у космос."
+        },
+        {
+            "tag": "WT04.NI2CAL_CHOICE_0002_OPTION_0002",
+            "en": "That’s too bad.",
+            "ru_native": "Это печально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Неправильно це."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0000",
+            "en": "Hey there, still floating. I appreciate the check-up.",
+            "ru_native": "Привет, еще на плаву. Спасибо, что спросила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, ще на плаву. Дякую, що запитала."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0001",
+            "en": "Water took a turn, though, and not a friendly one.",
+            "ru_native": "Вода изменилась, и не в лучшую сторону.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вода хвилюється, і не за нас."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0002",
+            "en": "We’re not quite in Charlie Foxtrot territory, but, you know, if the weather gets worse…",
+            "ru_native": "Мы не то чтобы в полной заднице, но если погода испортится...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Терпимо, але якщо погода зіпсується…"
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0003",
+            "en": "I can still handle it, but…",
+            "ru_native": "Я все равно справлюсь, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене все ще під контролем, але…"
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0004",
+            "en": "Hopefully I’m the only idiot tooling around out here.",
+            "ru_native": "Надеюсь, я не единственный идиот, что тут плавает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, я один тут такий телепень."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0005",
+            "en": "I’m guessing… Army?",
+            "ru_native": "Полагаю... Армия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дай вгадаю… Армія?"
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0006",
+            "en": "Should I slow down? Use simpler words?",
+            "ru_native": "Говорить помедленнее? Простыми словами?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені казати повільніше? Обирати простіші слова?"
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0007",
+            "en": "Only teasing. I have nothing but admiration for the grunts.",
+            "ru_native": "Шучу. Я испытываю к пехоте исключительно восхищение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жартую. Я безкінечно захоплююся піхотинцями."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0008",
+            "en": "That means I like you, in case admiration has too many syllables.",
+            "ru_native": "Нравишься ты мне. Вдруг «восхищение» – слишком длинное слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто шаную вас, у захопленні забагато літер."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0009",
+            "en": "Yeah, you sniffed it. Served years back.",
+            "ru_native": "Да, угадала. Отслужил много лет назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розкусила мене. Служив я багато років тому."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0010",
+            "en": "And similar company, I didn’t get to fly either.",
+            "ru_native": "Аналогично, я тоже не полетал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І теж, літати не прийшлося."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0011",
+            "en": "Couldn’t speak for the current state of the service, but when I was your age—",
+            "ru_native": "Не знаю как сейчас, но когда я был в твоем возрасте...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого не можу сказати за те, що зараз, але от у мої роки…"
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0012",
+            "en": "—everyone was itching for the fastest, shiniest bird in the coop. Everyone wanted to fly.",
+            "ru_native": "...каждый хотел стать самой быстрой и яркой птичкой в курятнике. Все хотели летать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…кожний хтів бути найшвидшим, найблискучішим<br>птахом у зграї. Кожний хтів літати."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0013",
+            "en": "Everyone. I wanted to explore. I wanted the shuttle.",
+            "ru_native": "Все. Я хотел исследовать. Хотел в космос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кожний. Я хотів досліджувати. Хотів у ракету."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0014",
+            "en": "Let the flyboys have their pissing contest.",
+            "ru_native": "Пусть пилоты фюзеляжами меряются.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай би ті літуни мірялися, хто вище задере носа."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0015",
+            "en": "I had my eyes elsewhere.",
+            "ru_native": "Я мечтал о другом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав зовсім про інше."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0016",
+            "en": "Yeah, never grew out of it.",
+            "ru_native": "Значит, я до сих пор ребенок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я ніколи не дорослішав."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0017",
+            "en": "Some… most… might argue I still haven’t. But…",
+            "ru_native": "Некоторые... многие... с этим согласятся. Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось… майже всі… посперечалися б на цей рахунок. Але…"
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0018",
+            "en": "Sure. On TV like everyone else.",
+            "ru_native": "Конечно. По телику, как все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно. По ящику, як і всі."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0019",
+            "en": "But…",
+            "ru_native": "Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0020",
+            "en": "I was too tall, ya see. They cap astronauts at six foot four.",
+            "ru_native": "Не прошел по росту. В астронавты берут до 195 см.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вийшов занадто високим. У космонавти вищих за 193 см не беруть."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0021",
+            "en": "I’m over by a single inch.",
+            "ru_native": "А я на два сантиметра выше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я на сантиметри два вищий."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0022",
+            "en": "Genetics. Whatcha gonna do?",
+            "ru_native": "Генетика. Что поделаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Генетика. Що тут поробиш?"
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0023",
+            "en": "Not like I could cut my feet off.",
+            "ru_native": "Ноги же себе не отрежешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ж не відріжу собі стопи."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0024",
+            "en": "Though the thought had occurred.",
+            "ru_native": "Хотя мысли такие были.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоч і були такі думки."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0025",
+            "en": "Ah. Okay. I’ll… see you around. Over and out.",
+            "ru_native": "Ох. Ладно. Увидимся. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Побачимося… Кінець зв’язку."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0026",
+            "en": "Yeah, and everyone thinks they’re gonna get rich.",
+            "ru_native": "Да, и каждый думает, что сорвет джекпот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, і кожний думає, що він прорветься."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0027",
+            "en": "They didn’t have room to fart in that shoebox, I can’t blame ‘em.",
+            "ru_native": "У них в этой обувной коробке пернуть негде было, так что я их не виню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та їм у цих коробках і бзднути не дають, я на них зла не тримаю."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0028",
+            "en": "Never quite shook the bug to—ya know—stand somewhere no one else ever had.",
+            "ru_native": "Так и не довелось мне ступить туда, куда не ступала нога человека.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От і не прийшлося мені крокувати там, де ще не ставала нога людства."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0029",
+            "en": "That’s why I bought the boat. So far all I’ve found is seaweed and styrofoam.",
+            "ru_native": "Поэтому я и купил лодку. Но пока кроме водорослей и пенопласта ничего не встретил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому я й купив човен. Проте поки все, що я відшукав, це водорості та пінопласт."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0030",
+            "en": "Anyway, thanks for the check-in. I’m heading further out, see if I can get a better view of it all.",
+            "ru_native": "В любом случае, спасибо за разговор. Я поплыву<br>дальше, посмотрю, может, найду вид получше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну добре тоді, дякую, що вислухала. А я попливу далі, може, кращий вид знайду."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0031",
+            "en": "Reach out when you can, make sure I haven’t drowned. Over and out.",
+            "ru_native": "Как сможешь, вызывай, а то вдруг я утонул. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як зможеш, виклич, перевір, чи не втопився я. Кінець зв’язку."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0032",
+            "en": "I was Air Force, not Navy, so I wouldn’t call myself an old salt…",
+            "ru_native": "Я служил в ВВС, но не во флоте, так что морским волком меня не назовешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я служив не на флоті, а в авіації, так що ні, я не морський вовк…"
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0033",
+            "en": "But I know water that shouldn’t be trusted when I see it.",
+            "ru_native": "Но я с первого взгляда могу отличить воды, которым не стоит доверять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я знаю, якої води слід остерігатися, із першого погляду."
+        },
+        {
+            "tag": "WT04.NI2CAL_NICK_0034",
+            "en": "And since you’re clearly captivated by my every word, I’m gonna talk more about me because that’s what old men do when people are too polite to walk away.",
+            "ru_native": "А раз ты явно очарована каждым моим словом, я продолжу говорить о себе, ведь<br>именно так и поступают старики, когда люди слишком вежливы, чтобы уйти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А оскільки ти вже розвісила вуха й ловиш кожне моє слово,<br>я буду далі розповідати про себе, бо так і належить старим,<br>коли люди надто ввічливі, щоби піти."
+        },
+        {
+            "tag": "WT04.NI2CAL_RILEY_0000",
+            "en": "Air Force?",
+            "ru_native": "ВВС?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авіація?"
+        },
+        {
+            "tag": "WT04.NI2CAL_RILEY_0001",
+            "en": "Ah. My dad was Air Force. Electrical engineering, though, not a pilot.",
+            "ru_native": "Мой отец служил в ВВС. Правда, электротехником, не пилотом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мій тато служив у повітряних силах. Тільки електротехніком, не пілотом."
+        },
+        {
+            "tag": "WT04.NI2CAL_RILEY_0002",
+            "en": "Well, yeah, which kid didn’t wanna be an astronaut growing up? Over.",
+            "ru_native": "Ну да, кто в детстве не мечтал быть космонавтом? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну так, хто ж у дитинстві не мріяв стати космонавтом? Прийом."
+        },
+        {
+            "tag": "WT04.NI2CAL_RILEY_0003",
+            "en": "Ever see the inside of a shuttle? Over.",
+            "ru_native": "Видели когда-нибудь ракету изнутри? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви бачили колись ракету зсередини? Прийом."
+        },
+        {
+            "tag": "WT04.NI2CAL_RILEY_0004",
+            "en": "Yeah, alright, Nick, good catching up, but I gotta go. Okay? Over.",
+            "ru_native": "Ладно, Ник, спасибо, что поболтали, но мне пора. Хорошо? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Ніку, було приємно поговорити, мені вже час. То я піду? Прийом."
+        },
+        {
+            "tag": "WT04.NI2CAL_RILEY_0005",
+            "en": "I mean, I’m sorry but like 99.999% of applicants don’t make it right? That’s lottery numbers. Over.",
+            "ru_native": "Вы меня простите, но 99,999% кандидатов все равно отсеивают?<br>Это как в лотерею выиграть. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробачте, хіба там не добрі 99,999% кандидатів пролітають у конкурсі?<br>Це ж справжня лотерея. Прийом."
+        },
+        {
+            "tag": "WT04.NI2CAL_RILEY_0006",
+            "en": "That’s really sad. I mean, c’mon, surely they could extend the ceiling, right?",
+            "ru_native": "Это правда грустно. Ну серьезно, они что, не могли поднять планку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Печаль. А їм, типу, так важко підняти планку для того конкурсу?"
+        }
+    ]
+}

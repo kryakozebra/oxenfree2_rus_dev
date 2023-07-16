@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.SNELCA",
+    "entries": [
+        {
+            "tag": "A2C4.SNELCA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.SNELCA_CHOICE_0000_OPTION_0000",
+            "en": "I really don’t.",
+            "ru_native": "Вообще-то нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно кажучи, ні."
+        },
+        {
+            "tag": "A2C4.SNELCA_CHOICE_0000_OPTION_0001",
+            "en": "Sure.",
+            "ru_native": "Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скажеш."
+        },
+        {
+            "tag": "A2C4.SNELCA_JACOB_0000",
+            "en": "Hope in one hand, uh, poop in the other… you know that… expression—",
+            "ru_native": "В одной руке надежда, в другой руке дерьмо... Знаешь выражение?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "В одній руці надія, а в іншій, ем, гімно… Знаєш такий вислів?"
+        },
+        {
+            "tag": "A2C4.SNELCA_JACOB_0001",
+            "en": "Just—forget it, I’m saying it’s meaningless to hope, which… sounds mean.",
+            "ru_native": "Я хочу сказать, что глупо надеяться, и... Как-то грубо прозвучало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я намагаюся сказати, що надія нічого не варта… А це вже звучить жорстоко."
+        },
+        {
+            "tag": "A2C4.SNELCA_JACOB_0002",
+            "en": "Nevermind.",
+            "ru_native": "Забей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай."
+        },
+        {
+            "tag": "A2C4.SNELCA_RILEY_0000",
+            "en": "I hope it was empty when that happened.",
+            "ru_native": "Надеюсь, внутри было пусто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, коли все це сталося, тут нікого не було."
+        },
+        {
+            "tag": "A2C4.SNELCA_RILEY_0001",
+            "en": "I… really don’t. Poop in your hand?",
+            "ru_native": "Вообще-то нет. Дерьмо в руке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі-то… ні. Гімно в руці?"
+        },
+        {
+            "tag": "A2C4.SNELCA_RILEY_0002",
+            "en": "Yeah. Sure.",
+            "ru_native": "Да, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, авжеж."
+        }
+    ]
+}

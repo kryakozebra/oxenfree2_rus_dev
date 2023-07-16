@@ -1,0 +1,627 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT02.PORMAD",
+    "entries": [
+        {
+            "tag": "WT02.PORMAD_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0000_OPTION_0000",
+            "en": "The Park Ranger Shelley?",
+            "ru_native": "Рейнджер Шелли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наглядачка парку Шеллі?"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0000_OPTION_0001",
+            "en": "What concern?",
+            "ru_native": "Какое беспокойство?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого перейматися?"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0000_OPTION_0002",
+            "en": "Get away from us.",
+            "ru_native": "Отвяжись от нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчепися від нас."
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0001_OPTION_0000",
+            "en": "Who are you talking about?",
+            "ru_native": "О ком ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про кого це ти?"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0001_OPTION_0001",
+            "en": "What concern?",
+            "ru_native": "Какое беспокойство?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого перейматися?"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0001_OPTION_0002",
+            "en": "Get away from us.",
+            "ru_native": "Отвяжись от нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчепися від нас."
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0002_OPTION_0000",
+            "en": "You’re… related?",
+            "ru_native": "Вы... родственники?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви… родичі?"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0002_OPTION_0001",
+            "en": "Shelley will die?",
+            "ru_native": "Шелли умрет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі, помре?"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0003_OPTION_0000",
+            "en": "Let’s call her.",
+            "ru_native": "Давай ей позвоним.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговорімо з нею."
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0003_OPTION_0001",
+            "en": "Maybe…",
+            "ru_native": "Возможно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо…"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0004_OPTION_0000",
+            "en": "Warn who?",
+            "ru_native": "Для кого?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Попередження для кого?"
+        },
+        {
+            "tag": "WT02.PORMAD_CHOICE_0004_OPTION_0001",
+            "en": "It was kind of sad.",
+            "ru_native": "Звучало грустно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все видалося сумним…"
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0000",
+            "en": "Oh man.",
+            "ru_native": "О боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0001",
+            "en": "Ah!",
+            "ru_native": "А!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай!"
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0002",
+            "en": "Sister born?",
+            "ru_native": "Сестрой рождена?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Народжена сестрою?"
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0003",
+            "en": "What—what does that mean?",
+            "ru_native": "Что... что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… що це означає?"
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0004",
+            "en": "These things… ugh, puts my hair on end.",
+            "ru_native": "От этих штук... у меня волосы дыбом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Від цих штук… у мене волосся дибки."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0005",
+            "en": "[breathes out] That must have been about the Park Ranger.",
+            "ru_native": "Наверное, это про рейнджера из парка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[видихає] Напевно, це про наглядачку парку."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0006",
+            "en": "That message on her answering machine was trying to lead us here… so we would tell her something.",
+            "ru_native": "Это сообщение на ее автоответчике пыталось<br>привести нас сюда... чтобы мы ей что-то рассказали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Те повідомлення на автовідповідачі натякало, що нам варто попередити її."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0007",
+            "en": "I think it was trying to… tell us to tell her something…",
+            "ru_native": "Кажется, оно хотело... чтобы мы ей что-то передали...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, нам варто… попередити її про щось…"
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0008",
+            "en": "It… sounded like, at least.",
+            "ru_native": "По крайней мере, звучало так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні схоже на те."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0009",
+            "en": "But… they’re so hard to understand.",
+            "ru_native": "Но... понять сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… зрозуміти складно."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0010",
+            "en": "Yeah. No, I think that’s a good idea.",
+            "ru_native": "Да. Нет, думаю, это хорошая идея.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, чудова ідея."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0011",
+            "en": "I think yours has the stronger connection… so—whenever you want.",
+            "ru_native": "У тебя рация вроде лучше ловит... так что... когда захочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе рація ніби краще ловить… тож… коли наважишся."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0012",
+            "en": "No, I—that makes sense. I guess we can think about it.",
+            "ru_native": "Нет, я... это логично. Стоит подумать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це логічно. Варто подумати."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0013",
+            "en": "Let’s just—just not think about it. We got stuff to do, and this might just be a distraction.",
+            "ru_native": "Давай просто... не думать об этом. У нас есть чем заняться, а это только отвлекает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай просто… не думати про це. У нас є справи, а це лише відволікає."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0014",
+            "en": "What the hell was that about?",
+            "ru_native": "Что за черт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за чортівня?"
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0015",
+            "en": "It almost sounded like a warning.",
+            "ru_native": "Было похоже на предупреждение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було схоже на попередження."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0016",
+            "en": "I… don’t think I do, either?",
+            "ru_native": "Я... вроде тоже не знаю? Или... это рейнджер? Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не думаю."
+        },
+        {
+            "tag": "WT02.PORMAD_JACOB_0017",
+            "en": "Dude, you better be packing hand sanitizer.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чувак, лучше бы ты взял с собой дезинфицирующее средство для рук.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чуєш, тобі краще взяти дезінфекційний засіб для рук."
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0000",
+            "en": "Shelley? Park Ranger Shelley?",
+            "ru_native": "Шелли? Рейнджер Шелли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі? Наглядачка Шеллі?"
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0001",
+            "en": "Concern? Alarm—what cause for alarm—what concern?",
+            "ru_native": "Беспокойство? Какой повод для тревоги? Какое беспокойство?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перейматися? Який привід для тривоги? Чого перейматися?"
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0002",
+            "en": "Get the Hell away from us. Okay? Just stay back.",
+            "ru_native": "Отвяжись от нас. Ясно? Просто отвали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчепися від нас. Гаразд? Просто відвали."
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0003",
+            "en": "Shelley? Who’s—who are you talking about?",
+            "ru_native": "Шелли? Кто это... о ком ты говоришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі? Хто це… про кого ти говориш?"
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0004",
+            "en": "Wait, are you—are you saying, the Park Ranger and you are related, or…?",
+            "ru_native": "Стой, ты... ты хочешь сказать, что вы с рейнджером родственники, или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, ти… ти хочеш сказати, що ви з наглядачкою парку родичі, так?"
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0005",
+            "en": "Wait, are you—are you saying, this Shelley person and you are—are related, or…?",
+            "ru_native": "Стой, ты... ты хочешь сказать, что вы с этой Шелли родственники, или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, ти… ти хочеш сказати, що ви із цією Шеллі родичі, так?"
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0006",
+            "en": "Wait, are you—are you saying that the Park Ranger will die, or…?",
+            "ru_native": "Стой, ты... ты хочешь сказать, что рейнджер умрет, или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, ти… ти хочеш сказати, що наглядачка парку помре, так?"
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0007",
+            "en": "Wait, are you—are you saying, this Shelley person is going to die, or…?",
+            "ru_native": "Стой, ты... ты хочешь сказать, что эта Шелли умрет, или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, ти… ти хочеш сказати, що ця Шеллі помре, так?"
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0008",
+            "en": "We should… call her on the walkie. Let her know what happened.",
+            "ru_native": "Надо... вызвать ее по рации. Рассказать, что случилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно… викликати її по рації. Розповісти, що сталося."
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0009",
+            "en": "Maybe. I’m… not sure we should be these things’, like, lap dogs.",
+            "ru_native": "Возможно. Я... не уверена, что мы должны слушаться эту штуку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть так. Не впевнена, що ми повинні сліпо слухатися цю штуку."
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0010",
+            "en": "Yeah, but a warning for who? I don’t know a Shelley.",
+            "ru_native": "Да, но для кого? Я не знаю никакой Шелли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але для кого? Я не знаю жодної Шеллі."
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0011",
+            "en": "It… it felt kind of… sad. I don’t know why.",
+            "ru_native": "У него был... грустный голос. Не знаю почему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він був… наче сумний. Не знаю чому."
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0012",
+            "en": "Uh–hello?",
+            "ru_native": "",
+            "ru_machine": "DEEPL А-ха-ха?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, привіт?"
+        },
+        {
+            "tag": "WT02.PORMAD_RILEY_0013",
+            "en": "Hey, idiot? Leave us alone. We’re busy.",
+            "ru_native": "Hey, idiot? Отстань. У нас дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ідіоте? Відчепися. Ми зайняті."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0000",
+            "en": "Things… are what. They. Seem.",
+            "ru_native": "Все... так. Как. Кажется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе так. Як. Здається."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0001",
+            "en": "There Is. Cause. For Alarm.",
+            "ru_native": "Есть. Повод. Для тревоги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є. Привід. Для тривоги."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0002",
+            "en": "Shell. Lee.",
+            "ru_native": "Шел. Ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шел. Лі."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0003",
+            "en": "This concerns Shelley.",
+            "ru_native": "Это касается Шелли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це стосується Шеллі."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0004",
+            "en": "Shelley. Shelley.",
+            "ru_native": "Шелли. Шелли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі. Шеллі."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0005",
+            "en": "Concern. For her.",
+            "ru_native": "Беспокойство. За нее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Переймайся. Через неї."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0006",
+            "en": "The. Ranger. Of. Forest. Shelley.",
+            "ru_native": "Рейнджер. В. Лесу. Шелли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наглядачка. У гаї. Шеллі."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0007",
+            "en": "Fear. None for you. Fear. For. Shelley.",
+            "ru_native": "Бойся. Не за себя. Бойся. За. Шелли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бійся. Не за себе. Бійся. За. Шеллі."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0008",
+            "en": "Shelley. Not to leave. Cabin.",
+            "ru_native": "Шелли. Не выходить. Из хижины.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі. Не варто виходити. З хатинки."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0009",
+            "en": "Buried. In Death. If ventures. More.",
+            "ru_native": "Погребена. Умрет. Если. Рискнет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буде похована. Помре. Якщо. Ризикне."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0010",
+            "en": "She. My own. Blood. And form.",
+            "ru_native": "Она. Моя. Кровь. И плоть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона. Моя. Кров. І тіло."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0011",
+            "en": "Of sister. My love.",
+            "ru_native": "Сестры. Моей любимой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сестри. Моєї коханої."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0012",
+            "en": "And sister. Born.",
+            "ru_native": "И сестрой. Рождена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І сестрою. Народжена."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0013",
+            "en": "[WWII news reel] Sonar Technician John Gerald Shelley aboard the USS Kanaloa talks to a mess attendant about—",
+            "ru_native": "Техник гидролокатора Джон Джеральд Шелли на борту<br>авианосца «Каналоа» разговаривает с дежурным о...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Новини Другої світової війни] Технік гідролокатора Джон Джеральд Шеллі<br>на борту авіаносця «Каналоа» розмовляє із черговим про…"
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0014",
+            "en": "Shell. Lee.",
+            "ru_native": "Шел. Ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шел. Лі."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0015",
+            "en": "Do not. Venture.",
+            "ru_native": "Не. Рискуй.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не. Ризикуй."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0016",
+            "en": "For. Her Mother. And Uncle.",
+            "ru_native": "Ради. Матери. И дяди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заради. Матері. І дядька."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0017",
+            "en": "Who. Breathes. In darkness.",
+            "ru_native": "Что. Дышит. В темноте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що. Дихає. У темряві."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0018",
+            "en": "Fear. For her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Страх. Для нее.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бійся. За неї."
+        },
+        {
+            "tag": "WT02.PORMAD_VOICE_0019",
+            "en": "Not to leave. Cabin.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не уходить. Кабина.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не варто виходити. З хатинки."
+        }
+    ]
+}

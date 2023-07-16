@@ -1,0 +1,96 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WODS.FALTRE",
+    "entries": [
+        {
+            "tag": "WODS.FALTRE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WODS.FALTRE_CHOICE_0000_OPTION_0000",
+            "en": "One step at a time.",
+            "ru_native": "Шаг за шагом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Один крок за один раз."
+        },
+        {
+            "tag": "WODS.FALTRE_CHOICE_0000_OPTION_0001",
+            "en": "You ever slip?",
+            "ru_native": "Ты когда-нибудь поскальзывался?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи було в тебе таке, що ти послизнувся?"
+        },
+        {
+            "tag": "WODS.FALTRE_JACOB_0000",
+            "en": "Ah, uh, slow up, be careful around these logs.",
+            "ru_native": "И помедленнее, осторожнее с деревьями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ах, повільніше, будь обережна біля цих колод."
+        },
+        {
+            "tag": "WODS.FALTRE_JACOB_0001",
+            "en": "Sometimes it rains and stays slick overnight.",
+            "ru_native": "Иногда после дождя они скользкие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іноді, коли пройшов дощ, вони залишаються слизькими й на наступний день."
+        },
+        {
+            "tag": "WODS.FALTRE_JACOB_0002",
+            "en": "But… you seem okay.",
+            "ru_native": "Но... ты вроде в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… з тобою, здається, усе гаразд."
+        },
+        {
+            "tag": "WODS.FALTRE_JACOB_0003",
+            "en": "Ha, no. Well… once. Twice, but never seriously hurt.",
+            "ru_native": "Ха, нет. Ну... один раз. Точнее, два, но не сильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха, ні. Ну… раз. Двічі, але ніколи серйозно не падав."
+        },
+        {
+            "tag": "WODS.FALTRE_JACOB_0004",
+            "en": "Well, once seriously hurt, but… I'm fine.",
+            "ru_native": "Ладно, один раз сильно, но... я в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, колись послизнувся й боляче впав, але… У мене все гаразд."
+        },
+        {
+            "tag": "WODS.FALTRE_RILEY_0000",
+            "en": "Just take one step at a time.",
+            "ru_native": "Просто ступай шаг за шагом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто роби по одному кроку за раз."
+        },
+        {
+            "tag": "WODS.FALTRE_RILEY_0001",
+            "en": "Ha, you ever slip? Sounds like there's a—an anecdote, there—",
+            "ru_native": "Ха, а ты когда-нибудь поскальзывался? Звучит, как начало анекдота или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха, чи було в тебе таке, що ти послизнувся? Здається, є анекдот на цю тему…"
+        }
+    ]
+}

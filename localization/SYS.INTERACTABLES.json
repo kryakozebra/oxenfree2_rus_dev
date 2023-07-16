@@ -1,0 +1,1761 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SYS.INTERACTABLES",
+    "entries": [
+        {
+            "tag": "SYS.INTERACTABLES_0000",
+            "en": "Bus Stop",
+            "ru_native": "Автобусная остановка",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Автобусна зупинка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0001",
+            "en": "Crab Shack",
+            "ru_native": "Крабовая хижина",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Крабова хатинка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0002",
+            "en": "Billboard",
+            "ru_native": "Рекламный щит",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рекламний щит"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0003",
+            "en": "Ticket Booth",
+            "ru_native": "Билетная касса",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Каса"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0004",
+            "en": "General Store",
+            "ru_native": "Магазин",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Універмаг"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0005",
+            "en": "Window",
+            "ru_native": "Окно",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вікно"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0006",
+            "en": "Building",
+            "ru_native": "Здание",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будівля"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0007",
+            "en": "Bulletin Board",
+            "ru_native": "Доска объявлений",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дошка оголошень"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0008",
+            "en": "Structure",
+            "ru_native": "Сооружение",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Споруда"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0009",
+            "en": "Enjoy the View",
+            "ru_native": "Наслаждайтесь видом",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насолоджуйтесь краєвидом"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0010",
+            "en": "Barbed Wire",
+            "ru_native": "Колючая проволока",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Колючий дріт"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0011",
+            "en": "Gate",
+            "ru_native": "Ворота",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ворота"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0012",
+            "en": "Sign",
+            "ru_native": "Вывеска",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вивіска"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0013",
+            "en": "Footprints",
+            "ru_native": "Следы",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сліди"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0014",
+            "en": "Go to Parking Lot",
+            "ru_native": "Пойти на парковку",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти до парковки"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0015",
+            "en": "Go to Beach",
+            "ru_native": "Пойти к пляжу",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти на пляж"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0016",
+            "en": "Go to Trail",
+            "ru_native": "Пойти к тропе",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти до стежки"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0017",
+            "en": "Go to Garland",
+            "ru_native": "Пойти к Гарленд",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти до Гарленда"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0018",
+            "en": "Go to Falls",
+            "ru_native": "Пойти к водопадам",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти до водоспадів"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0019",
+            "en": "Go to Forest",
+            "ru_native": "Пойти в лес",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти до гаю"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0020",
+            "en": "Climbing Gear",
+            "ru_native": "Альпинистское снаряжение",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Альпіністське спорядження"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0021",
+            "en": "Info Board",
+            "ru_native": "Доска информации",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дошка з інформацією"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0022",
+            "en": "Chapel",
+            "ru_native": "Часовня",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Каплиця"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0023",
+            "en": "EMF Controls",
+            "ru_native": "Переключатель ЭМП",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемикачі ЕМП"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0024",
+            "en": "EMF Booster",
+            "ru_native": "Усилитель ЭМП",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підсилювач ЕМП"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0025",
+            "en": "Place Transmitter",
+            "ru_native": "Установить передатчик",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Установити радіопередавач"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0026",
+            "en": "Camera",
+            "ru_native": "Камера",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Камера"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0027",
+            "en": "Go to Mine",
+            "ru_native": "Пойти к шахте",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти до шахти"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0028",
+            "en": "Climb Down",
+            "ru_native": "Спуститься вниз",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спуститися"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0029",
+            "en": "Boat",
+            "ru_native": "Лодка",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Човен"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0030",
+            "en": "Ferry Sign",
+            "ru_native": "Знак парома",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знак порома"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0031",
+            "en": "Parks and Facilities",
+            "ru_native": "«Парки и здания»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Управління парків»"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0032",
+            "en": "Tunnel",
+            "ru_native": "Тоннель",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тунель"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0033",
+            "en": "Jacob",
+            "ru_native": "Джейкоб",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0034",
+            "en": "Hug Jacob",
+            "ru_native": "Обнять Джейкоба",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обійняти Джейкоба"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0035",
+            "en": "Olivia",
+            "ru_native": "Оливия",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0036",
+            "en": "Portal",
+            "ru_native": "Портал",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Портал"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0037",
+            "en": "Riley",
+            "ru_native": "Райли",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0038",
+            "en": "Small Boat",
+            "ru_native": "Маленькая лодка",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маленький човен"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0039",
+            "en": "Ferry",
+            "ru_native": "Паром",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пором"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0040",
+            "en": "PET",
+            "ru_native": "Погладить",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Попестити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0041",
+            "en": "Pick Up",
+            "ru_native": "Взять",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взяти"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0042",
+            "en": "Give Penny",
+            "ru_native": "Дать пенни",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дати монетку"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0043",
+            "en": "Lever",
+            "ru_native": "Рычаг",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Важіль"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0044",
+            "en": "Let Go",
+            "ru_native": "Отпустить",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відпустити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0045",
+            "en": "Comfort",
+            "ru_native": "Утешить",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Втішити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0046",
+            "en": "Shoe",
+            "ru_native": "Ботинок",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Черевик"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0047",
+            "en": "Push Boulder",
+            "ru_native": "Толкнуть валун",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Штовхнути валун"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0048",
+            "en": "Boulder",
+            "ru_native": "Валун",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Валун"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0049",
+            "en": "Go to Cave",
+            "ru_native": "Пойти к пещере",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти до печери"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0050",
+            "en": "Backpack",
+            "ru_native": "Рюкзак",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рюкзак"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0051",
+            "en": "Marlin",
+            "ru_native": "Марлин",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Марлін"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0052",
+            "en": "Bed",
+            "ru_native": "Кровать",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ліжко"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0053",
+            "en": "Radio",
+            "ru_native": "Радио",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіо"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0054",
+            "en": "Graffiti",
+            "ru_native": "Граффити",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Графіті"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0055",
+            "en": "Broken Ladder",
+            "ru_native": "Сломанная лестница",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зламана драбина"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0056",
+            "en": "Chimney",
+            "ru_native": "Труба",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Труба"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0057",
+            "en": "Switch On",
+            "ru_native": "Включить",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Увімкнути"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0058",
+            "en": "Sit Down",
+            "ru_native": "Сесть",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сісти"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0059",
+            "en": "Enter Tear",
+            "ru_native": "Войти в разрыв",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Увійти у розрив"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0060",
+            "en": "Time Tear",
+            "ru_native": "Временной разрыв",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Часовий розрив"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0061",
+            "en": "Lockbox",
+            "ru_native": "Ящик с замком",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скринька із замком"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0062",
+            "en": "Exit Tear",
+            "ru_native": "Выйти из разрыва",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вийти з розриву"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0063",
+            "en": "Newspaper",
+            "ru_native": "Газета",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Газета"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0064",
+            "en": "Go to Woods",
+            "ru_native": "Пойти в лес",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти до лісу"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0065",
+            "en": "Transmitter",
+            "ru_native": "Передатчик",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіопередавач"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0066",
+            "en": "Newspaper",
+            "ru_native": "Газета",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Газета"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0067",
+            "en": "Lamp",
+            "ru_native": "Лампа",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лампа"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0068",
+            "en": "Go To Docks",
+            "ru_native": "Пойти в доки",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти до доків"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0069",
+            "en": "Climb",
+            "ru_native": "Забраться",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забратися"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0070",
+            "en": "Open Door",
+            "ru_native": "Открыть дверь",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відкрити двері"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0071",
+            "en": "Wires",
+            "ru_native": "Провода",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дроти"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0072",
+            "en": "Newspaper Clipping",
+            "ru_native": "Вырезка из газет",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирізка з газети"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0073",
+            "en": "Portrait",
+            "ru_native": "Портрет",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Портрет"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0074",
+            "en": "Window",
+            "ru_native": "Окно",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вікно"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0075",
+            "en": "Gravestones",
+            "ru_native": "Могильные камни",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Надгробки"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0076",
+            "en": "Broken Machine",
+            "ru_native": "Сломанный аппарат",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зламаний апарат"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0077",
+            "en": "Pet",
+            "ru_native": "Погладить",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Попестити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0078",
+            "en": "Sit",
+            "ru_native": "Сесть",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сісти"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0079",
+            "en": "Store",
+            "ru_native": "Магазин",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Магазин"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0080",
+            "en": "Car",
+            "ru_native": "Машина",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Автівка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0081",
+            "en": "Statue",
+            "ru_native": "Статуя",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Статуя"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0082",
+            "en": "Rope",
+            "ru_native": "Веревка",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мотузка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0083",
+            "en": "Take Picture",
+            "ru_native": "Сделать снимок",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зробити фото"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0084",
+            "en": "Machine",
+            "ru_native": "Аппарат",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Апарат"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0085",
+            "en": "???",
+            "ru_native": "???",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "???"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0086",
+            "en": "Tie Rope",
+            "ru_native": "Привязать веревку",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Канат"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0087",
+            "en": "Enter",
+            "ru_native": "Войти",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Увійти"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0088",
+            "en": "Climbing Anchor",
+            "ru_native": "Альпинистский якорь",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Альпіністське спорядження"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0089",
+            "en": "Talk",
+            "ru_native": "Поговорить",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Говорити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0090",
+            "en": "Padlock",
+            "ru_native": "Замок",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Висячий замок"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0091",
+            "en": "Time Loop Machine",
+            "ru_native": "",
+            "ru_machine": "DEEPL Машина временной петли",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Апарат петлі часу"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0092",
+            "en": "Note",
+            "ru_native": "",
+            "ru_machine": "DEEPL Примечание",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нотатки"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0093",
+            "en": "Place Aside",
+            "ru_native": "",
+            "ru_machine": "DEEPL Место в стороне",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відкласти"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0094",
+            "en": "Book",
+            "ru_native": "",
+            "ru_machine": "DEEPL Книга",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Книга"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0095",
+            "en": "Cassette",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кассета",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Касета"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0096",
+            "en": "Cookie Tin",
+            "ru_native": "",
+            "ru_machine": "DEEPL Жестянка для печенья",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Банка печива"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0097",
+            "en": "Dog Tag",
+            "ru_native": "",
+            "ru_machine": "DEEPL Бирка для собак",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жетон собаки"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0098",
+            "en": "Flyer",
+            "ru_native": "",
+            "ru_machine": "DEEPL Флаер",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Флаєр"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0099",
+            "en": "Letter",
+            "ru_native": "",
+            "ru_machine": "DEEPL Письмо",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лист"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0100",
+            "en": "Map",
+            "ru_native": "",
+            "ru_machine": "DEEPL Карта",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мапа"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0101",
+            "en": "Mask",
+            "ru_native": "",
+            "ru_machine": "DEEPL Маска",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маска"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0102",
+            "en": "Mug",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кружка",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кружка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0103",
+            "en": "Patch",
+            "ru_native": "",
+            "ru_machine": "DEEPL Патч",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нашивка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0104",
+            "en": "Cell Phone",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сотовый телефон",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Телефон"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0105",
+            "en": "Radio",
+            "ru_native": "",
+            "ru_machine": "DEEPL Радио",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіо"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0106",
+            "en": "Recorder",
+            "ru_native": "",
+            "ru_machine": "DEEPL Рекордер",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Магнітофон"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0107",
+            "en": "Open",
+            "ru_native": "",
+            "ru_machine": "DEEPL Открой",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відкрити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0108",
+            "en": "Rest",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отдых",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відпочити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0109",
+            "en": "Animal Burrow",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нора животного",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нора тварини"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0110",
+            "en": "Strange Gizmo",
+            "ru_native": "",
+            "ru_machine": "DEEPL Странная штуковина",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивна штука"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0111",
+            "en": "Climb",
+            "ru_native": "Забраться",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забратися"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0112",
+            "en": "PICK UP",
+            "ru_native": "ВЗЯТЬ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ПІДНЯТИ"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0113",
+            "en": "Light",
+            "ru_native": "",
+            "ru_machine": "DEEPL Свет",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запалити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0114",
+            "en": "CHECK JACOB",
+            "ru_native": "CHECK ДЖЕЙКОБ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ПЕРЕВІРИТИ, ЯК ТАМ ДЖЕЙКОБ"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0115",
+            "en": "Radio Lock",
+            "ru_native": "Радио Lock",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіозамок"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0116",
+            "en": "Answer",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ответить",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відповісти"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0117",
+            "en": "Pull",
+            "ru_native": "",
+            "ru_machine": "DEEPL Потяни",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тягти"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0118",
+            "en": "Down",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вниз",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Униз"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0119",
+            "en": "Up",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вверх",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Угору"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0120",
+            "en": "Broom",
+            "ru_native": "",
+            "ru_machine": "DEEPL Метла",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мітла"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0121",
+            "en": "Button",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кнопка",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кнопка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0122",
+            "en": "Doggy Door",
+            "ru_native": "",
+            "ru_machine": "DEEPL Собачья дверь",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двері для собаки"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0123",
+            "en": "Framed Picture",
+            "ru_native": "",
+            "ru_machine": "DEEPL Картинка в рамке",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фото в рамці"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0124",
+            "en": "Garage Door Opener",
+            "ru_native": "",
+            "ru_machine": "DEEPL Открыватель дверей гаража",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пульт від дверей гаража"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0125",
+            "en": "Garage Door",
+            "ru_native": "",
+            "ru_machine": "DEEPL Гаражная дверь",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двері гаража"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0126",
+            "en": "Ladder",
+            "ru_native": "",
+            "ru_machine": "DEEPL Лестница",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Драбина"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0127",
+            "en": "Leave Doggy Door",
+            "ru_native": "",
+            "ru_machine": "DEEPL Оставьте собачью дверь",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишити двері для собаки"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0128",
+            "en": "Metal Monster",
+            "ru_native": "",
+            "ru_machine": "DEEPL Металлический монстр",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Металевий монстр"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0129",
+            "en": "Books",
+            "ru_native": "",
+            "ru_machine": "DEEPL Книги",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Книги"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0130",
+            "en": "Pizza Boxes",
+            "ru_native": "",
+            "ru_machine": "DEEPL Коробки для пиццы",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коробки від піци"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0131",
+            "en": "Radio Equipment",
+            "ru_native": "",
+            "ru_machine": "DEEPL Радиооборудование",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обладнання для радіо"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0132",
+            "en": "Sculpture",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скульптура",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скульптура"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0133",
+            "en": "Side Door",
+            "ru_native": "",
+            "ru_machine": "DEEPL Боковая дверь",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бічні двері"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0134",
+            "en": "Go Downstairs",
+            "ru_native": "",
+            "ru_machine": "DEEPL Спустись вниз",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти вниз"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0135",
+            "en": "Light Switch",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выключатель освещения",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемикач світла"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0136",
+            "en": "Poster",
+            "ru_native": "",
+            "ru_machine": "DEEPL Постер",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Постер"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0137",
+            "en": "Ignition",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зажигание",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запалювання"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0138",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0139",
+            "en": "Walkie",
+            "ru_native": "",
+            "ru_machine": "DEEPL Walkie",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рація"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0140",
+            "en": "Truck",
+            "ru_native": "",
+            "ru_machine": "DEEPL Грузовик",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вантажівка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0141",
+            "en": "Overgrowth",
+            "ru_native": "",
+            "ru_machine": "DEEPL Overgrowth",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зарості"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0142",
+            "en": "Bait Display",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дисплей для приманки",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наживка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0143",
+            "en": "Key",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ключ",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ключ"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0144",
+            "en": "Calendar",
+            "ru_native": "",
+            "ru_machine": "DEEPL Календарь",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Календар"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0145",
+            "en": "Family Photo",
+            "ru_native": "",
+            "ru_machine": "DEEPL Семейная фотография",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сімейне фото"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0146",
+            "en": "Register",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зарегистрируйся",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Журнал"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0147",
+            "en": "Get Camera",
+            "ru_native": "",
+            "ru_machine": "DEEPL Получи камеру",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Узяти камеру"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0148",
+            "en": "Use Radio",
+            "ru_native": "",
+            "ru_machine": "DEEPL Используй радио",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скористатися радіо"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0149",
+            "en": "Give to Jacob",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отдать Якову",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дати Джейкобу"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0150",
+            "en": "Show Penny",
+            "ru_native": "",
+            "ru_machine": "DEEPL Показать Пенни",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Показати монетку"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0151",
+            "en": "Call Out",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вызов",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Покликати"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0152",
+            "en": "Flashlight",
+            "ru_native": "",
+            "ru_machine": "DEEPL Фонарик",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ліхтарик"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0153",
+            "en": "Cage",
+            "ru_native": "",
+            "ru_machine": "DEEPL Клетка",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Клітка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0154",
+            "en": "Crashed Elevator",
+            "ru_native": "",
+            "ru_machine": "DEEPL Разбившийся лифт",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зламаний ліфт"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0155",
+            "en": "Broken Cables",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сломанные кабели",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Порвані кабелі"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0156",
+            "en": "Gap",
+            "ru_native": "",
+            "ru_machine": "DEEPL Gap",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прірва"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0157",
+            "en": "Jump Down",
+            "ru_native": "",
+            "ru_machine": "DEEPL Перейти вниз",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стрибнути вниз"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0158",
+            "en": "Check Charlie",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чек Чарли",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговорити з Чарлі"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0159",
+            "en": "Charlie?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чарли?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі?"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0160",
+            "en": "Fish",
+            "ru_native": "",
+            "ru_machine": "DEEPL Рыба",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Риба"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0161",
+            "en": "Stop Jacob",
+            "ru_native": "",
+            "ru_machine": "DEEPL Остановись Якоб",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зупинити Джейкоба"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0162",
+            "en": "Place Anchor",
+            "ru_native": "",
+            "ru_machine": "DEEPL Разместите якорь",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розмістити якір"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0163",
+            "en": "Closet",
+            "ru_native": "",
+            "ru_machine": "DEEPL Шкаф",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шафа"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0164",
+            "en": "Door",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дверь",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двері"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0165",
+            "en": "Phone",
+            "ru_native": "",
+            "ru_machine": "DEEPL Телефон",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Телефон"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0166",
+            "en": "Papers",
+            "ru_native": "",
+            "ru_machine": "DEEPL Бумаги",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Документи"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0167",
+            "en": "Squirrel",
+            "ru_native": "",
+            "ru_machine": "DEEPL Белка",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Білка"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0168",
+            "en": "Lock",
+            "ru_native": "",
+            "ru_machine": "DEEPL Замок",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Замок"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0169",
+            "en": "Files",
+            "ru_native": "",
+            "ru_machine": "DEEPL Файлы",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Файли"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0170",
+            "en": "Turn Off",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выключи",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вимкнути"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0171",
+            "en": "Jump",
+            "ru_native": "",
+            "ru_machine": "DEEPL Перейти",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стрибнути"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0172",
+            "en": "Climb Down",
+            "ru_native": "",
+            "ru_machine": "DEEPL Забирайся вниз",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спуститися"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0173",
+            "en": "Inspect Panel",
+            "ru_native": "",
+            "ru_machine": "DEEPL Осмотри панель",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оглянути панель"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0174",
+            "en": "Bulletin Board",
+            "ru_native": "",
+            "ru_machine": "DEEPL Доска объявлений",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дошка оголошень"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0175",
+            "en": "Star Map",
+            "ru_native": "",
+            "ru_machine": "DEEPL Звездная карта",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зоряна мапа"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0176",
+            "en": "Altar",
+            "ru_native": "",
+            "ru_machine": "DEEPL Алтарь",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вівтар"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0177",
+            "en": "Poster",
+            "ru_native": "",
+            "ru_machine": "DEEPL Постер",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Плакат"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0178",
+            "en": "Chandelier",
+            "ru_native": "",
+            "ru_machine": "DEEPL Люстра",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люстра"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0179",
+            "en": "Wall Writing",
+            "ru_native": "",
+            "ru_machine": "DEEPL Настенное письмо",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Графіті"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0180",
+            "en": "Painting",
+            "ru_native": "",
+            "ru_machine": "DEEPL Покраска",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Малюнок"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0181",
+            "en": "Lounge",
+            "ru_native": "",
+            "ru_machine": "DEEPL Лаунж",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кімната відпочинку"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0182",
+            "en": "Shrine",
+            "ru_native": "",
+            "ru_machine": "DEEPL Shrine",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рака"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0183",
+            "en": "Stuff",
+            "ru_native": "",
+            "ru_machine": "DEEPL Stuff",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Речі"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0184",
+            "en": "Stage",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сцена",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сцена"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0185",
+            "en": "Smash",
+            "ru_native": "",
+            "ru_machine": "DEEPL Smash",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розбити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0186",
+            "en": "Cable",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кабель",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кабель"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0187",
+            "en": "Antenna",
+            "ru_native": "",
+            "ru_machine": "DEEPL Антенна",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Антена"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0188",
+            "en": "Push Box",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нажимная коробка",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Штовхнути ящик"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0189",
+            "en": "Water Cooler",
+            "ru_native": "",
+            "ru_machine": "DEEPL Водяной охладитель",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кулер для води"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0190",
+            "en": "Grab Radio",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хватай радио",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Узяти радіо"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0191",
+            "en": "Choose Jacob",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выбери Якоба",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обрати Джейкоба"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0192",
+            "en": "Confirm",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подтвердите",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підтвердити"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0193",
+            "en": "Choose Olivia",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выбери Оливию",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обрати Олівію"
+        },
+        {
+            "tag": "SYS.INTERACTABLES_0194",
+            "en": "Choose Riley",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выбери Райли",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обрати Райлі"
+        }
+    ]
+}

@@ -1,0 +1,753 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2LA.JARIWA",
+    "entries": [
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0000_OPTION_0000",
+            "en": "Rex.",
+            "ru_native": "Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рекс."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0000_OPTION_0001",
+            "en": "Olivia.",
+            "ru_native": "Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0000_OPTION_0002",
+            "en": "Alex.",
+            "ru_native": "Алекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0001_OPTION_0000",
+            "en": "It was you, too.",
+            "ru_native": "Ты тоже молодец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти теж молодець."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0001_OPTION_0001",
+            "en": "Yeah, I’m pretty great.",
+            "ru_native": "Да, я молодец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я просто супер."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0001_OPTION_0002",
+            "en": "Anyone could have done this.",
+            "ru_native": "Это мог сделать любой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це міг зробити будь-хто."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0002_OPTION_0000",
+            "en": "We’ll look tomorrow.",
+            "ru_native": "Поищем завтра.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пошукаємо її завтра."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0002_OPTION_0001",
+            "en": "I know she’s okay.",
+            "ru_native": "Уверена, она в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упевнена, з нею все гаразд."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0002_OPTION_0002",
+            "en": "I’m worried, too.",
+            "ru_native": "Я тоже волнуюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж хвилююся."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0003_OPTION_0000",
+            "en": "It’ll be a while till I “meet” him.",
+            "ru_native": "Мы с ним еще нескоро «встретимся».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з ним ще нескоро «зустрінемося»."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0003_OPTION_0001",
+            "en": "I’m worried about him.",
+            "ru_native": "Я за него волнуюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хвилююся за нього."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0003_OPTION_0002",
+            "en": "It’s a lot of process.",
+            "ru_native": "Это долгий процесс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це тривалий процес."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0004_OPTION_0000",
+            "en": "I feel bad for her. ",
+            "ru_native": "Мне ее жалко. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шкода її. "
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0004_OPTION_0001",
+            "en": "Thank God she lost.",
+            "ru_native": "Слава богу, она пропала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякувати Богу, вона програла."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0004_OPTION_0002",
+            "en": "What will happen to her?",
+            "ru_native": "Что с ней будет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що з нею буде?"
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0005_OPTION_0000",
+            "en": "I ruined her escape.",
+            "ru_native": "Я не дала ей убежать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я згаяла її шанс на звільнення."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0005_OPTION_0001",
+            "en": "She was incredibly selfish.",
+            "ru_native": "Она была та еще эгоистка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона була такою егоїсткою."
+        },
+        {
+            "tag": "A2LA.JARIWA_CHOICE_0005_OPTION_0002",
+            "en": "I'm unsure what I feel.",
+            "ru_native": "У меня смешанные чувства.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене змішані почуття."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0000",
+            "en": "You’ve, uh, been pretty quiet…",
+            "ru_native": "Ты что-то притихла...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось ти не дуже балакуча…"
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0001",
+            "en": "Thinking about anything in particular?",
+            "ru_native": "Думаешь о чем-то?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про щось думаєш?"
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0002",
+            "en": "You sound… exactly how you should sound. You sound like someone tired.",
+            "ru_native": "Ты звучишь... как и должна. Как кто-то очень уставший.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти здаєшся… саме такою, якою маєш. Здаєшся дуже стомленою."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0003",
+            "en": "Look… Riley…",
+            "ru_native": "Слушай... Райли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай… Райлі…"
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0004",
+            "en": "Look, tonight was… something else. You should be proud how you handled it.",
+            "ru_native": "Эта ночь была... особенной. Ты должна гордиться собой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця ніч була… дещо незвичайною. Ти маєш пишатися тим, як ти впоралася."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0005",
+            "en": "I’m proud of how you handled it. I don’t know what I would have done without you here.",
+            "ru_native": "Я горжусь тобой. Не знаю, что бы я без тебя делал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пишаюся тобою. Не знаю, щоби я без тебе робив."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0006",
+            "en": "We are just… extraordinarily lucky this worked out—I mean, if you hadn’t been here at the exact right time.",
+            "ru_native": "Нам просто... чертовски повезло, что все получилось. То<br>есть, если бы ты не оказалась здесь в нужное время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам просто… страшенно пощастило, що все вийшло. Тобто, ти опинилася тут<br>у потрібний час."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0007",
+            "en": "At this exact right spot, with these exact right transmitters…",
+            "ru_native": "В нужном месте, с этими передатчиками...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У потрібному місці, із цими радіопередавачами…"
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0008",
+            "en": "I… don’t know what would have happened.",
+            "ru_native": "Я... не знаю, что бы произошло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не знаю, що сталося б."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0009",
+            "en": "Oh go on. [chuckling]",
+            "ru_native": "Да брось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, продовжуй. [хихикає]"
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0010",
+            "en": "[chuckling]",
+            "ru_native": "[ID-27]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[хихикає]"
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0011",
+            "en": "You sell yourself short. And old.",
+            "ru_native": "Ты себя недооцениваешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти себе недооцінюєш. І вважаєш старою."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0012",
+            "en": "I’m actually… I’m worried about Athena [weakly chuckles].",
+            "ru_native": "На самом деле, я... Я думаю о Будде.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді я… Я непокоюся через Афіну. [трохи хихикає]"
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0013",
+            "en": "We just… never found her. You know?",
+            "ru_native": "Мы же ее так и не нашли. Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми її так і не знайшли. Пригадуєш?"
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0014",
+            "en": "And… I don’t know—I just keep picturing her waiting for me, wagging her tail, on the porch.",
+            "ru_native": "Не знаю. Я просто представляю, как она ждет меня на крыльце, виляя хвостом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю… Я просто уявляю, як вона чекає на мене на ґанку, виляє хвостом."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0015",
+            "en": "I really hope she’s there.",
+            "ru_native": "Я правда надеюсь, что она там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я дійсно сподіваюся, що вона там."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0016",
+            "en": "Okay. Deal.",
+            "ru_native": "Ладно. По рукам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Домовились."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0017",
+            "en": "Man. I hope you’re right.",
+            "ru_native": "Надеюсь, ты права.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько. Сподіваюся, твоя правда."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0018",
+            "en": "Yeah. I don’t know. She’s a smart dog, so… I still have hope.",
+            "ru_native": "Да. Не знаю. Она умная собака, так что... Я не теряю надежды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Не знаю. Вона розумна собака, тож… Я не втрачаю надії."
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0019",
+            "en": "Let’s, uh, head back to the docks. Time to close out, you know.",
+            "ru_native": "Ладно, давай возвращаться в доки. Пора закругляться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай-но повернемося до доків. Час зачинятися, чи не так?"
+        },
+        {
+            "tag": "A2LA.JARIWA_JACOB_0020",
+            "en": "Oh. Man.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О. Man.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0000",
+            "en": "Uh… I’m just… picturing Rex.",
+            "ru_native": "Нет... Я просто... представляю Рекса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні… Я просто… уявляю Рекса."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0001",
+            "en": "I’m wondering when the next time will be when I’ll see him… what that’ll be like.",
+            "ru_native": "Интересно, когда я снова его увижу… на что это будет похоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво, коли я знову побачу його… на що це буде схоже."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0002",
+            "en": "It’s gonna take years. And that—it feels so strange. Like a loss. Or something.",
+            "ru_native": "Пройдут годы. Это странное чувство. Потери. Или типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Минуть роки. Це дивне почуття. Втрати. Або типу того."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0003",
+            "en": "I probably sound—",
+            "ru_native": "Я, наверное, звучу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я, мабуть, здаюся…"
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0004",
+            "en": "Uh… I’m just… thinking about Olivia.",
+            "ru_native": "Хм... Я просто... думаю об Оливии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… Я просто… думаю про Олівію."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0005",
+            "en": "I can just imagine what she’s thinking. How mad she is. How…",
+            "ru_native": "Представляю, что она думает. Как злится. Как...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Намагаюся уявити, що вона думає. Яка вона розлючена. Як…"
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0006",
+            "en": "I dunno, she must just feel so defeated.",
+            "ru_native": "Не знаю, она, наверное, чувствует себя раздавленной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, вона, мабуть, почувається розчавленою."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0007",
+            "en": "In some small way I wish it... actually worked out for her.",
+            "ru_native": "В каком-то смысле я бы хотела, чтобы это... помогло ей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У якомусь сенсі я хотіла б, щоби це… допомогло їй."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0008",
+            "en": "Uh… I’m just… remembering the Parentage center. And-and that girl… Alex.",
+            "ru_native": "Хм... Я просто... вспоминаю «Наследие». И ту девочку... Алекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… Я просто… згадую «Парентаж». І ту дівчинку… Алекс."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0009",
+            "en": "She’s been stuck between spaces for what must feel like eons. And I screwed up her chance at escape.",
+            "ru_native": "Она застряла между измерениями, должно быть,<br>на целую вечность. И я не дала ей сбежать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона застрягла між вимірами, мабуть, на цілу вічність.<br>І я згаяла її шанс звільнитися."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0010",
+            "en": "Hey, it was you, too, Jacob, you’re a part of this, too.",
+            "ru_native": "Эй, ты тоже приложил к этому руку, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ти теж не осторонь стояв, Джейкобе, ти теж брав участь."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0011",
+            "en": "Hey, yeah, I am pretty great, aren’t I.",
+            "ru_native": "Да-да, я просто супер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так-так, я просто супер, я — молодець."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0012",
+            "en": "Uh, anyone could have accomplished what I did tonight, Jacob.",
+            "ru_native": "Ладно тебе, Джейкоб, это мог сделать кто угодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, Джейкобе, це міг зробити будь-хто."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0013",
+            "en": "And anyone younger could have done it in half the time.",
+            "ru_native": "А кто-нибудь помоложе справился бы в два раза быстрее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А хтось молодший впорався б у два рази швидше."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0014",
+            "en": "Hey, let’s make a deal.",
+            "ru_native": "Давай договоримся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай-но домовимося."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0015",
+            "en": "You walk me to the docks… I’ll come out tomorrow morning, first thing, and help you look.",
+            "ru_native": "Ты проводишь меня к докам... А я вернусь завтра утром и помогу тебе с поисками.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти проводиш мене до доків… А я повернуся завтра вранці й допоможу тобі з пошуками."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0016",
+            "en": "Jacob. Seriously, she’s going to turn up okay.",
+            "ru_native": "Джейкоб. Серьезно, она скоро найдется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, серйозно, вона скоро знайдеться."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0017",
+            "en": "Dogs run around these woods all the time—you’ve said it yourself.",
+            "ru_native": "Ты же сам говорил, в этих лесах собаки постоянно бегают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ж сам казав, що в цих лісах собаки постійно бігають."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0018",
+            "en": "And now that all the, uh, phenomena is done… she’ll come trotting home, bored.",
+            "ru_native": "А теперь, когда все эти, хм, явления закончились... она прибежит усталая домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер, коли всі ці, гм, явища скінчилися… вона прибіжить утомлена додому."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0019",
+            "en": "Yeah. I didn’t want to say anything… but I’m a little worried, too.",
+            "ru_native": "Да. Не хотела говорить... но я сама немного волнуюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Не хотіла казати… але я сама трохи хвилююсь."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0020",
+            "en": "We’ve been all over the coast. She should’ve turned up by now… right?",
+            "ru_native": "Мы прошли все побережье. Она уже должна была бы объявиться... верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми пройшли все узбережжя. Вона вже мала б знайтись… ні?"
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0021",
+            "en": "I’m just, uh, just worried about him. About… what he’ll turn out to be.",
+            "ru_native": "Я просто, эм, переживаю за него. За то... каким он окажется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хвилююся за нього. Про те… ким він стане."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0022",
+            "en": "He… he just so reminds me of me. But… I don’t know.",
+            "ru_native": "Он... он так сильно напоминает мне себя. Но... не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він… він просто мені так нагадує мене. Але… не знаю."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0023",
+            "en": "It’s just been… a lot to ingest, I guess. Seeing him. What he’s like.",
+            "ru_native": "Просто... слишком много информации. Увидеть, какой он.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, це б було… занадто. Побачити його. Який він."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0024",
+            "en": "It feels like something a parent shouldn’t know, or something.",
+            "ru_native": "Мне кажется, родителям такое знать не стоит, в общем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Таке відчуття, що батьки не повинні про це знати, чи щось таке."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0025",
+            "en": "I’m just—I’m thinking of a world where… we weren’t here.",
+            "ru_native": "Я просто думаю о том мире, где... нас не было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто… я думаю про світ, де… нас не має."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0026",
+            "en": "Where she set up her tower thing and… opened the portal and… ruined everything for everyone.",
+            "ru_native": "Где она поставила свою башню... открыла портал и... всем все испортила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де вона встановила свою вежу і… відкрила портал і… зруйнувала все і для всіх."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0027",
+            "en": "Just what woulda happened. It’s… I don’t know. I’m glad she lost.",
+            "ru_native": "Что могло бы случиться. Я... не знаю. Я рада, что ее нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Таке б сталося. Це… я не знаю. Я рада, що вона програла."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0028",
+            "en": "I’m just wondering what’s going to happen to her. What will she eventually turn into.",
+            "ru_native": "Мне просто интересно, что с ней будет дальше. В кого она в итоге превратится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені просто цікаво, що з нею станеться. На що вона зрештою перетвориться."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0029",
+            "en": "What person will she be, you know? Is she gonna… go on and become some doctor or CEO of something—",
+            "ru_native": "Каким она будет человеком, понимаешь? Станет каким-нибудь доктором<br>или директором компании...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якою вона буде людиною, розумієш? Чи збирається вона… йти далі і стати<br>якимось лікарем чи генеральним директором чогось…"
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0030",
+            "en": "—forget about everything that happened tonight. Let herself forget, I mean.",
+            "ru_native": "...забудет ли о том, что случилось этой ночью. В смысле, предпочтет забыть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…забуде про все, що сталося сьогодні. Дозволить собі забути, я маю на увазі."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0031",
+            "en": "She was just so… selfish. Not that I… don’t understand how she could get that way.",
+            "ru_native": "Просто она была такая... эгоистка. Не то чтобы... я не понимаю,<br>как она могла до такого дойти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона була такою… егоїсткою. Не те, щоби я… не розумію, як вона могла стати такою."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0032",
+            "en": "But… I can’t imagine being willing to trade… someone for myself. In something like this. You know?",
+            "ru_native": "Но... не могу представить ,чтобы я обменяла кого-то на себя. В подобной ситуации.<br>Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… я не можу уявити, як можна заради власної користі здати… когось.<br>Для чогось подібного. Розумієш?"
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0033",
+            "en": "I… she was… I don’t know. I don’t really know how I feel about it. About her.",
+            "ru_native": "Она... она была... не знаю. Правда, не могу понять, что я к ней чувствую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… вона була… не знаю. Я насправді не знаю, як я до цього ставлюся. Щодо неї."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0034",
+            "en": "About what Alex was trying to do. Olivia… seemed so determined.",
+            "ru_native": "А насчет Алекс – Оливия... казалась такой решительной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про те, що намагалася зробити Алекс. Олівія… здавалася такою рішучою."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0035",
+            "en": "I could be convinced… it was the right thing for her.",
+            "ru_native": "Я бы согласилась... что это было для нее правильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене можна було переконати… це було правильним для неї."
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0036",
+            "en": "That’s -- sorry, I… kept having flashes… future memories of me and my… son.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... прости, я... продолжал испытывать вспышки... будущих воспоминаний обо мне и моем... сыне.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2LA.JARIWA_RILEY_0037",
+            "en": "I never told you about it. It didn’t seem… important to what was going on.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я никогда не рассказывал тебе об этом. Это не казалось... важным для того, что происходило.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

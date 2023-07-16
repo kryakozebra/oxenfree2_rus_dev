@@ -1,0 +1,321 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ31.BABAP3",
+    "entries": [
+        {
+            "tag": "SQ31.BABAP3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BABAP3_CHOICE_0000_OPTION_0000",
+            "en": "Didn’t scare me.",
+            "ru_native": "Меня не напугал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене не налякав."
+        },
+        {
+            "tag": "SQ31.BABAP3_CHOICE_0000_OPTION_0001",
+            "en": "Are you Tobias?",
+            "ru_native": "Ты Тобиас?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти Тобіас?"
+        },
+        {
+            "tag": "SQ31.BABAP3_CHOICE_0000_OPTION_0002",
+            "en": "What are you doing here?",
+            "ru_native": "Что ты тут делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти тут робиш?"
+        },
+        {
+            "tag": "SQ31.BABAP3_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BABAP3_CHOICE_0001_OPTION_0000",
+            "en": "That was him.",
+            "ru_native": "Это был он.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це був він."
+        },
+        {
+            "tag": "SQ31.BABAP3_CHOICE_0001_OPTION_0001",
+            "en": "I have no idea.",
+            "ru_native": "Понятия не имею.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "SQ31.BABAP3_CHOICE_0001_OPTION_0002",
+            "en": "He didn’t scare me.",
+            "ru_native": "Он меня не напугал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він мене не налякав."
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0000",
+            "en": "Ah!",
+            "ru_native": "А!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой!"
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0001",
+            "en": "Uh—yeah, you did!",
+            "ru_native": "О да, еще как!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ще і як!"
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0002",
+            "en": "Way to go…",
+            "ru_native": "Так держать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так тримати…"
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0003",
+            "en": "She’ll just never admit it.",
+            "ru_native": "Она просто никогда не признается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона просто ніколи не зізнається."
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0004",
+            "en": "And you scared her, too, but she’d never admit it.",
+            "ru_native": "Ты ее тоже напугал, просто она никогда не признается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти її теж налякав, просто вона ніколи не зізнається."
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0005",
+            "en": "That was totally Tobias right?",
+            "ru_native": "Это же был Тобиас?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це був Тобіас?"
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0006",
+            "en": "Had to have been.",
+            "ru_native": "Должен был быть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мав бути він."
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0007",
+            "en": "He—I dunno—sounded like a Tobias?",
+            "ru_native": "У него... не знаю... голос, как у Тобиаса?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нього… не знаю… голос був, як у Тобіаса?"
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0008",
+            "en": "It was him, it had to have been.",
+            "ru_native": "Это был он, кто же еще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це був він, хто ж іще."
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0009",
+            "en": "Don’t worry, Riley, I think you’re cool.",
+            "ru_native": "Не волнуйся, Райли. Я не сомневаюсь в твоей крутости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, Райлі. Я не сумніваюся, що ти крута."
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0010",
+            "en": "Tootega Falls. Maybe he—huh.",
+            "ru_native": "Тутега Фолз. Может, он... хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Водоспади Тутега. Можливо, він… гм."
+        },
+        {
+            "tag": "SQ31.BABAP3_JACOB_0011",
+            "en": "Yeah we should—try and swing by there. Test out a—uh—a theory of mine.",
+            "ru_native": "Надо бы туда заскочить. Проверить... мою теорию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба туди заскочити. Перевірити… мою теорію."
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0000",
+            "en": "Well… [takes a breath] You didn’t scare me.",
+            "ru_native": "Ну… Меня ты не напугал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Мене ти не налякав."
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0001",
+            "en": "Hey are you Tobias? Little—uh, entity?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, ты Тобиас? Литтл-у, сущность?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0002",
+            "en": "What are you doing out here, little dude?",
+            "ru_native": "Что ты тут делаешь, малыш?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти тут робиш, хлопче?"
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0003",
+            "en": "That had to have been him.",
+            "ru_native": "Это должен был быть он.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це мав бути він."
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0004",
+            "en": "He—ya know—looked young. Or—close to it",
+            "ru_native": "",
+            "ru_machine": "DEEPL Он выглядел молодым. Или близко к тому.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0005",
+            "en": "Yeah, not exactly able to identify amorphous blobs.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, не совсем способен идентифицировать аморфные сгустки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0006",
+            "en": "He really didn’t scare me, ya know.",
+            "ru_native": "Он правда меня не напугал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він дійсно мене не налякав."
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0007",
+            "en": "Hey are you Tobias?",
+            "ru_native": "Привет, ты Тобиас?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, ти Тобіас?"
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0008",
+            "en": "He—ya know—looked young.",
+            "ru_native": "Он, знаешь, выглядел молодо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він, знаєш, виглядав молодо."
+        },
+        {
+            "tag": "SQ31.BABAP3_RILEY_0009",
+            "en": "I dunno. Could have been.",
+            "ru_native": "Не знаю. Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Можливо."
+        },
+        {
+            "tag": "SQ31.BABAP3_SFX_0000",
+            "en": "Ferry airhorn.",
+            "ru_native": "Гудок парома.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SQ31.BABAP3_TOBIAS_0000",
+            "en": "I scared you!",
+            "ru_native": "Я вас напугал!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вас налякав!"
+        },
+        {
+            "tag": "SQ31.BABAP3_TOBIAS_0001",
+            "en": "I like being scary.",
+            "ru_native": "Я люблю пугать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люблю лякати."
+        },
+        {
+            "tag": "SQ31.BABAP3_TOBIAS_0002",
+            "en": "Oh, and “See you at Tootega Falls.”",
+            "ru_native": "О, и «До встречи на Тутега Фолз».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, і «До зустрічі на водоспадах Тутега»."
+        },
+        {
+            "tag": "SQ31.BABAP3_TOBIAS_0003",
+            "en": "Boo.",
+            "ru_native": "Бу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бу."
+        }
+    ]
+}

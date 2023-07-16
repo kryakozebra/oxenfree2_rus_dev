@@ -1,0 +1,492 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S2.LESTAL",
+    "entries": [
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0000_OPTION_0000",
+            "en": "Riley here.",
+            "ru_native": "Райли на связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі на зв’язку."
+        },
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0000_OPTION_0001",
+            "en": "Evelyn already called.",
+            "ru_native": "Я говорила с Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я говорила з Евелін."
+        },
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0001_OPTION_0000",
+            "en": "Not really…",
+            "ru_native": "Не особо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зовсім…"
+        },
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0001_OPTION_0001",
+            "en": "She kinda did.",
+            "ru_native": "Вроде.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу того."
+        },
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0001_OPTION_0002",
+            "en": "I know what to do.",
+            "ru_native": "Я знаю, что делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що робити."
+        },
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0002_OPTION_0000",
+            "en": "She forgot, actually.",
+            "ru_native": "Она забыла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі-то, вона забула."
+        },
+        {
+            "tag": "A1S2.LESTAL_CHOICE_0002_OPTION_0001",
+            "en": "Yep! Got it!",
+            "ru_native": "Да! Оно у меня!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Воно в мене!"
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0000",
+            "en": "Hi, Riley, it’s Leslie. I’m calling just to get you up to speed.",
+            "ru_native": "Привет, это Лесли. Хотела ввести тебя в курс дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Райлі, це Леслі. Хотіла розповісти тобі детальніше про все."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0001",
+            "en": "Hi, Riley, I know. I just have some additional information for you.",
+            "ru_native": "Да, Райли, я знаю. Но мне нужно еще кое-что тебе сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Райлі, я знаю. Але я маю ще дещо тобі сказати."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0002",
+            "en": "Riley, I think we got disconnected, <br> but if you can hear me, I have some info for you.",
+            "ru_native": "Райли, связь оборвалась. Надеюсь, сейчас меня слышно. Итак, что тебе нужно знать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, зв’язок перервався. Сподіваюся, зараз<br>ти мене чуєш. Отже, слухай уважно."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0003",
+            "en": "We’re setting up in Hamstead, getting the receivers ready, <br> but we’ll be able to talk you through any problems you might have.",
+            "ru_native": "Мы сейчас в Хамстеде, настраиваем передатчики, однако<br>всегда на связи, если у тебя вдруг возникнут проблемы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зараз у Хамстеді, налаштовуємо радіопередавачі,<br>але ми завжди на зв’язку, якщо в тебе виникнуть якісь проблеми."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0004",
+            "en": "In the last couple months, there’s been, um, frequent yet inexplicable— <br>so far, inexplicable EMI disturbances in the immediate area.",
+            "ru_native": "За последние пару месяцев здесь фиксировали частые<br>и пока что необъяснимые электромагнитные помехи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За останні кілька місяців тут зафіксували<br>багато незрозумілих електромагнітних перешкод."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0005",
+            "en": "I think it cut out, but anyways, <br> Camena’s been suffering electromagnetic disturbances the last month or two.",
+            "ru_native": "Думаю, связь прервалась. В общем, Камена в<br>последние месяцы страдает от электромагнитных помех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, зв’язок перервався. Словом,<br>Камена останнім часом потерпає від електромагнітних перешкод."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0006",
+            "en": "Radio and television frequency interference. <br> People’s phones turning on and off, plane signal distortions…",
+            "ru_native": "Телевизионных и радиопомех. Выключение телефонов, искажение сигналов от самолетов...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Телевізійних та радіоперешкод.<br>Телефони вимикаються, сигнали від літаків спотворюються…"
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0007",
+            "en": "All being affected from no known source— <br> now the EPA has contracted us to investigate.",
+            "ru_native": "Источник так и не нашли, поэтому АООС привлекло нас к работе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джерело так і не знайшли, тому Управління з охорони<br>навколишнього середовища США залучило нас до роботи."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0008",
+            "en": "Gathering data, analyzing, and reporting our findings.",
+            "ru_native": "Мы собираем, анализируем и предоставляем им данные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми збираємо, аналізуємо й надаємо їм дані."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0009",
+            "en": "You’re going in and out, RIley, but, quickly…",
+            "ru_native": "Райли, ты начала пропадать. Я быстро...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, якісь перебої зі зв’язком. Я швидко…"
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0010",
+            "en": "There’s been strange signal bursts— <br> electromagnetic interference messing with the town’s electrical equipment.",
+            "ru_native": "В городе фиксируют странные электромагнитные<br>помехи, влияющие на местное электрооборудование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У місті фіксують електромагнітні перешкоди,<br>що впливають на місцеве устаткування."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0011",
+            "en": "And the EPA has hired us to analyze the area’s frequencies <br> to try and pinpoint the source.",
+            "ru_native": "АООС поручили нам изучить местные частоты и найти источник сигналов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "УОНС США залучили нас, щоби ми вивчили місцеві<br>частоти і знайшли джерело сигналів."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0012",
+            "en": "Riley? Did you hear me say that the town <br> has had radio interference the past few months?",
+            "ru_native": "Райли? Ты услышала? В городе в последние месяцы наблюдают радиопомехи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти почула? У місті останнім часом фіксують радіоперешкоди."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0013",
+            "en": "We’re investigating the matter.",
+            "ru_native": "Мы проверяем, в чем дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми перевіряємо, у чому справа."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0014",
+            "en": "So to try and trace the signal, you are going to be setting up <br> portable transmitters in specific places along Camena’s coastline.",
+            "ru_native": "Чтобы отследить сигнал, нужно установить портативные<br>передатчики в определенных точках вдоль побережья Камены.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоби відстежити сигнал, треба встановити портативні<br>радіопередавачі в певних точках узбережжя Камени."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0015",
+            "en": "Did Evelyn walk you through the steps of how to do it?",
+            "ru_native": "Эвелин тебе объяснила, как это делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін розповіла тобі, як це робити?"
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0016",
+            "en": "RIley? You’re breaking up a little, but you’re going to be setting up <br> transmitters to gather frequency data along the coast.",
+            "ru_native": "Райли? Ты немного пропадаешь. В общем, тебе нужно<br>установить передатчики вдоль побережья, чтобы собрать данные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Зв’язок барахлить. Тобі потрібно встановити<br>радіопередавачі уздовж узбережжя, щоби зібрати дані."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0017",
+            "en": "Has Evelyn walked you through the instructions?",
+            "ru_native": "Эвелин объяснила, что нужно делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін пояснила, що треба робити?"
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0018",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0019",
+            "en": "Or no?",
+            "ru_native": "Или нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи ні?"
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0020",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0021",
+            "en": "Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0022",
+            "en": "Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0023",
+            "en": "Good, good.",
+            "ru_native": "Это хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це чудово."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0024",
+            "en": "Sorry, Riley, I think the connection dropped but I’m back now.",
+            "ru_native": "Прости, Райли. Связь прервалась, но я снова здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Райлі. Зв’язок перервався, але я знову тут."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0025",
+            "en": "Did Evelyn give you the rope climbing equipment?",
+            "ru_native": "Эвелин дала тебе альпинистское снаряжение?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін дала тобі альпіністське спорядження?"
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0026",
+            "en": "You might be in a bad zone, but… anyways, <br> did Evelyn pack your rock climbing gear?",
+            "ru_native": "Ты наверное в глухой зоне... Эвелин положила твое снаряжение?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, ти зайшла до глухої зони, але…<br>Евелін дала тобі альпіністське спорядження?"
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0027",
+            "en": "I reminded her on Tuesday.",
+            "ru_native": "Я напоминала во вторник.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я їй нагадувала у вівторок."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0028",
+            "en": "Did she give it to you?",
+            "ru_native": "Она его тебе отдала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона тобі його віддала?"
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0029",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0030",
+            "en": "It should be in your bag.",
+            "ru_native": "Оно должно быть в сумке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воно має бути у твоїй сумці."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0031",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0032",
+            "en": "Damn, okay. Well… I guess your military training will come in handy, huh?",
+            "ru_native": "Вот черт. Ну... Видимо, тебе-таки пригодится военная подготовка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько. Ну… твоя військова підготовка станеться тобі в пригоді."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0033",
+            "en": "Great, great.",
+            "ru_native": "Отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, чудово."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0034",
+            "en": "Good, at least she did that.",
+            "ru_native": "Хоть что-то она сделала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, хоч щось вона зробила."
+        },
+        {
+            "tag": "A1S2.LESTAL_LESLIE_0035",
+            "en": "Riley? Static’s pretty bad, but I think the connection’s back.",
+            "ru_native": "Райли? Помехи сильные, но связь вроде восстановилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Тут сильні шуми, але, здається, зв’язок відновився."
+        },
+        {
+            "tag": "A1S2.LESTAL_RILEY_0000",
+            "en": "Hi, Riley, here. Over.",
+            "ru_native": "Райли на связи. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Райлі на зв’язку. Прийом."
+        },
+        {
+            "tag": "A1S2.LESTAL_RILEY_0001",
+            "en": "Hi, uh, Professor Burke. <br> Thanks, but Evelyn already called to make sure I was okay. Over.",
+            "ru_native": "Профессор Берк! Спасибо, Эвелин уже убедилась, что я в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Професоре Берк! Дякую, Евелін уже виходила на зв’язок, щоби дізнатися, чи все гаразд."
+        },
+        {
+            "tag": "A1S2.LESTAL_RILEY_0002",
+            "en": "Um, not really. She told me I have transmitters, <br> but I’m unsure what to do with them. Over.",
+            "ru_native": "Не особо. У меня есть передатчики, но что с ними делать, я не знаю. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. У мене є радіопередавачі, але я не знаю, що з ними робити. Прийом."
+        },
+        {
+            "tag": "A1S2.LESTAL_RILEY_0003",
+            "en": "Uh, she kind of did. I know I have transmitters, at least. Over.",
+            "ru_native": "Вроде да. Я хотя бы знаю, что у меня есть передатчики. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу того. Принаймні, я знаю, що в мене є радіопередавачі. Прийом."
+        },
+        {
+            "tag": "A1S2.LESTAL_RILEY_0004",
+            "en": "Yeah, I’m okay. I know what to do. Over.",
+            "ru_native": "Да. Я знаю, что делать. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, усе гаразд. Я знаю, що робити. Прийом."
+        },
+        {
+            "tag": "A1S2.LESTAL_RILEY_0005",
+            "en": "She, uh… kind of forgot. She mailed it to the General Store, <br> but the shop is actually closed. So.",
+            "ru_native": "Она... забыла. Отправила его почтой в местный магазин, но он закрыт. Вот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… забула. Вона надіслала його до універмагу, але він зачинений. Ось так."
+        },
+        {
+            "tag": "A1S2.LESTAL_RILEY_0006",
+            "en": "Hope it wasn’t important. Uh, over.",
+            "ru_native": "Надеюсь, и так справлюсь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, я й без нього впораюся. Прийом."
+        },
+        {
+            "tag": "A1S2.LESTAL_RILEY_0007",
+            "en": "Uh, yeah, totally. Got it right here.",
+            "ru_native": "Да, конечно. Вот оно, под боком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно. Воно в мене."
+        }
+    ]
+}

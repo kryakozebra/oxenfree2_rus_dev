@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT02.STOTUN",
+    "entries": [
+        {
+            "tag": "WT02.STOTUN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.STOTUN_CHOICE_0000_OPTION_0000",
+            "en": "Finger got a cramp.",
+            "ru_native": "Палец свело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Палець звело."
+        },
+        {
+            "tag": "WT02.STOTUN_CHOICE_0000_OPTION_0001",
+            "en": "Thinking it over.",
+            "ru_native": "Думаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обмірковую."
+        },
+        {
+            "tag": "WT02.STOTUN_JACOB_0000",
+            "en": "Change your mind?",
+            "ru_native": "Передумала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Передумала?"
+        },
+        {
+            "tag": "WT02.STOTUN_RILEY_0000",
+            "en": "My—hand got a cramp, gimme a second…",
+            "ru_native": "Мне... руку судорогой свело. Секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені… руку судомою звело. Секунду."
+        },
+        {
+            "tag": "WT02.STOTUN_RILEY_0001",
+            "en": "No, just… thinking it over.",
+            "ru_native": "Нет, просто... думаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, просто… обмірковую."
+        }
+    ]
+}

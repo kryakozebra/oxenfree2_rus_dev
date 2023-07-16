@@ -1,0 +1,249 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S2.MAPTEA",
+    "entries": [
+        {
+            "tag": "A1S2.MAPTEA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.MAPTEA_CHOICE_0000_OPTION_0000",
+            "en": "It’s okay.",
+            "ru_native": "Все норм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A1S2.MAPTEA_CHOICE_0000_OPTION_0001",
+            "en": "[Joke] I quit!",
+            "ru_native": "[Шутка] Я ухожу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[жартома] Я звільняюся!"
+        },
+        {
+            "tag": "A1S2.MAPTEA_CHOICE_0000_OPTION_0002",
+            "en": "Thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0000",
+            "en": "Can you pull out your map for me, please?",
+            "ru_native": "Можешь достать карту?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дістань карту, будь ласка."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0001",
+            "en": "The topographical one.",
+            "ru_native": "Топографическую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Топографічну."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0002",
+            "en": "With the height from sea level listed.",
+            "ru_native": "С указанием высоты над уровнем моря.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там, де зазначена висота над рівнем моря."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0003",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0004",
+            "en": "I think your first place to plant a transmitter <br> is on the nearest summit from the bus stop.",
+            "ru_native": "Думаю, первый передатчик надо поставить на ближайшей от остановки вершине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаю, перший радіопередавач треба поставити на найближчій до зупинки вершині."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0005",
+            "en": "If you take the trail, you should get there fairly soon.",
+            "ru_native": "По тропе туда можно добраться довольно быстро.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо підеш стежкою, то швидко туди дійдеш."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0006",
+            "en": "Your map has a lot of useful information, <br> so check it if you ever get lost or forget where to go.",
+            "ru_native": "На карте много полезной информации, так что проверяй ее, если возникнут проблемы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На карті багато корисної інформації, тож користуйся нею,<br>якщо загубишся чи забудеш, куди йти."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0007",
+            "en": "Okay. Head out to the summit when you’re ready.",
+            "ru_native": "Все. Как будешь готова, иди к вершине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе. Коли будеш готова, вирушай до вершини."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0008",
+            "en": "And contact Evelyn in case you have any questions.",
+            "ru_native": "Если будут вопросы, обращайся к Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо виникнуть запитання, звертайся до Евелін."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0009",
+            "en": "We cut out again, but the summit is your first stop.",
+            "ru_native": "Связь опять прервалась. Первое место – вершина.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’язок знову зник. Твоя перша зупинка — вершина."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0010",
+            "en": "And feel free to contact Evelyn if you have any questions.",
+            "ru_native": "Если будут вопросы, обращайся к Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо виникнуть запитання, звертайся до Евелін."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0011",
+            "en": "Sorry about the, um, lack of instruction, there.",
+            "ru_native": "Прости за сомнительный инструктаж.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач за такий собі інструктаж."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0012",
+            "en": "We’ll get better at it, I promise.",
+            "ru_native": "Мы станем лучше, обещаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми станемо краще, обіцяю."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0013",
+            "en": "Yes, well, still, don’t worry. You’re in good hands.",
+            "ru_native": "Да, не волнуйся. Ты в хороших руках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, не хвилюйся. Ти в хороших руках."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0014",
+            "en": "Until you’re taping camera poles next to an owl nest in the rain, <br> I don’t think the other researchers will have much sympathy.",
+            "ru_native": "Боюсь, пока ты в ливень не клеишь камеры к столбам<br>напротив совиного гнезда, сочувствия коллег ты не получишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боюсь, колеги не будуть тобі співчувати. Хіба якщо ти<br>в зливу будеш закріпляти камери на стовпах напроти совиного гнізда."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0015",
+            "en": "But don’t worry. This’ll be easy.",
+            "ru_native": "Но не переживай. Это не сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але не хвилюйся. Це не важко."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0016",
+            "en": "The connection’s getting broken, but Evelyn will call you soon!",
+            "ru_native": "Связь опять портится. Эвелин с тобой свяжется!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’язок знову зникає. Евелін із тобою зв’яжеться!"
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0017",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.MAPTEA_LESLIE_0018",
+            "en": "Okay, over and out.",
+            "ru_native": "Ясно, конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.MAPTEA_RILEY_0000",
+            "en": "Oh, it’s fine.",
+            "ru_native": "Все нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A1S2.MAPTEA_RILEY_0001",
+            "en": "I think my last job paid me in arcade tokens, so… <br> any amount of professionalism is appreciated.",
+            "ru_native": "На последней работе мне платили игровыми жетонами, так что я ценю ваш профессионализм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На попередній роботі мені платили гральними жетонами,<br>тож я ціную ваш професіоналізм."
+        },
+        {
+            "tag": "A1S2.MAPTEA_RILEY_0002",
+            "en": "Yeah, Leslie, you know, I just can’t work under these conditions.",
+            "ru_native": "Нет, Лесли, я не могу работать в таких условиях!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Леслі, я не можу працювати в таких умовах."
+        },
+        {
+            "tag": "A1S2.MAPTEA_RILEY_0003",
+            "en": "Hey, thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, дякую."
+        }
+    ]
+}

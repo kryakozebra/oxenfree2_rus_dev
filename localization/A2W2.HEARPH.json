@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.HEARPH",
+    "entries": [
+        {
+            "tag": "A2W2.HEARPH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.HEARPH_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, I think so.",
+            "ru_native": "Думаю, да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, так."
+        },
+        {
+            "tag": "A2W2.HEARPH_CHOICE_0000_OPTION_0001",
+            "en": "Is someone else here?",
+            "ru_native": "Здесь есть кто-то еще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут є хтось ще?"
+        },
+        {
+            "tag": "A2W2.HEARPH_CHOICE_0000_OPTION_0002",
+            "en": "HELLO?!",
+            "ru_native": "АЛЛО?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "АГОВ?!"
+        },
+        {
+            "tag": "A2W2.HEARPH_JACOB_0000",
+            "en": "Oh—hear that?",
+            "ru_native": "О... слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О… чуєш?"
+        },
+        {
+            "tag": "A2W2.HEARPH_JACOB_0001",
+            "en": "That’s a phone, right?",
+            "ru_native": "Телефон звонит, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це телефон, так?"
+        },
+        {
+            "tag": "A2W2.HEARPH_JACOB_0002",
+            "en": "Like an old landline?",
+            "ru_native": "Стационарный?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стаціонарний?"
+        },
+        {
+            "tag": "A2W2.HEARPH_JACOB_0003",
+            "en": "No... but it could be coming from the Ranger station.",
+            "ru_native": "Нет... но, может, это телефон на станции.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні… але, може, це телефон на станції."
+        },
+        {
+            "tag": "A2W2.HEARPH_JACOB_0004",
+            "en": "If we’re in luck, she’s still there.",
+            "ru_native": "Если повезет, рейнджер еще там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо нам пощастить, то наглядачка й досі там."
+        },
+        {
+            "tag": "A2W2.HEARPH_JACOB_0005",
+            "en": "It could be coming from the Ranger station.",
+            "ru_native": "Может, это на станции телефон звонит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, це телефон на станції."
+        },
+        {
+            "tag": "A2W2.HEARPH_RILEY_0000",
+            "en": "Yeah, I, uh, I think so… unless it’s a really… weird bird?",
+            "ru_native": "Да, по-моему... или это очень-очень странная птица.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, здається… або це дуже-дуже дивний птах."
+        },
+        {
+            "tag": "A2W2.HEARPH_RILEY_0001",
+            "en": "Yeah, so… does that mean there’s someone else here? Can you see anybody?",
+            "ru_native": "И... значит, тут еще кто-то есть? Ты кого-нибудь видишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… тут ще хтось є? Ти когось бачиш?"
+        },
+        {
+            "tag": "A2W2.HEARPH_RILEY_0002",
+            "en": "Hey, is anybody there? Hello!",
+            "ru_native": "Эй, здесь кто-нибудь есть? Ау!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут є хтось? Ау!"
+        }
+    ]
+}

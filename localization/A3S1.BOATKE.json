@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S1.BOATKE",
+    "entries": [
+        {
+            "tag": "A3S1.BOATKE_RILEY_0000",
+            "en": "Okay, seriously woman, are you trying to get your boat stolen?",
+            "ru_native": "Дамочка, ты будто хочешь, чтобы твою лодку украли!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жінко, ти ніби хочеш, щоби твого човна вкрали?"
+        },
+        {
+            "tag": "A3S1.BOATKE_RILEY_0001",
+            "en": "Eh, whatever, gift horse, mouth, etc.",
+            "ru_native": "Ладно, дареному коню...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, дарованому коневі… тощо."
+        },
+        {
+            "tag": "A3S1.BOATKE_RILEY_0002",
+            "en": "I think we got everything we need.",
+            "ru_native": "Думаю, у нас есть все, что нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, у нас є все, що треба."
+        },
+        {
+            "tag": "A3S1.BOATKE_RILEY_0003",
+            "en": "I think all that leaves is the code for the lock so I can untie the boat.",
+            "ru_native": "Думаю, осталось найти код для замка, и можно отвязывать лодку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, усе, що залишилося, — це код до замка, щоби я міг відв’язати човен."
+        },
+        {
+            "tag": "A3S1.BOATKE_SFX_0000",
+            "en": "[bark]",
+            "ru_native": "Гав-гав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[гавкіт]"
+        }
+    ]
+}

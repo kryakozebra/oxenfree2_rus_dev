@@ -1,0 +1,411 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.JAHAAR",
+    "entries": [
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0000_OPTION_0000",
+            "en": "Mostly embarrassed.",
+            "ru_native": "Гордость пострадала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але принижено."
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0000_OPTION_0001",
+            "en": "I hate gravity.",
+            "ru_native": "Ненавижу гравитацию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу гравітацію."
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0000_OPTION_0002",
+            "en": "Never mention that.",
+            "ru_native": "Ничего не говори.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забудь про це."
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0001_OPTION_0000",
+            "en": "Unless this is a bear cave.",
+            "ru_native": "А если там медведь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ведмеді?"
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0001_OPTION_0001",
+            "en": "You’re sure this leads out?",
+            "ru_native": "Там точно есть выход?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти впевнений, що це вихід?"
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0001_OPTION_0002",
+            "en": "Who owns this property?",
+            "ru_native": "Кто тут владелец?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто власник цього місця?"
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0002_OPTION_0000",
+            "en": "Mostly embarrassed.",
+            "ru_native": "Гордость пострадала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але принижено."
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0002_OPTION_0001",
+            "en": "I hate gravity.",
+            "ru_native": "Ненавижу гравитацию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу гравітацію."
+        },
+        {
+            "tag": "A2C3.JAHAAR_CHOICE_0002_OPTION_0002",
+            "en": "The baby’s okay.",
+            "ru_native": "Ребенок цел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із дитиною все добре."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0000",
+            "en": "Phew. Okay. You doing alright?",
+            "ru_native": "Фух! Ладно. Как ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фух. Як ти?"
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0001",
+            "en": "You—look okay…",
+            "ru_native": "Выглядишь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виглядаєш нормально…"
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0002",
+            "en": "That’s a good sign?",
+            "ru_native": "Вроде нормально?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нормально ж?"
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0003",
+            "en": "Well, don’t be embarrassed. I’d have shattered my face—least you know how to roll a little.",
+            "ru_native": "Даже не парься. Я бы все лицо разбил... Ты хоть умеешь кувыркаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, припини. Я би взагалі без обличчя залишився… Ти хоч вмієш правильно падати."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0004",
+            "en": "Isaac Newton really should have been a farmer.",
+            "ru_native": "Исааку Ньютону стоило стать фермером.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще б Ісаак Ньютон сіяв соняшники."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0005",
+            "en": "Talk about what?",
+            "ru_native": "Что обсуждать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До якої теми?"
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0006",
+            "en": "Okay? Okay.",
+            "ru_native": "Жива? Жива.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жива? Жива."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0007",
+            "en": "So—[cough] the, uh, rock face was pretty sheer… it was hard enough for me not to slip and, uh, die.",
+            "ru_native": "Что ж... Скала довольно отвесная. Удивительно, что я не улетел навстречу смерти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… скеля така прямовисна… і як я так умудрився не розбитися."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0008",
+            "en": "I don’t think we can get back up, but the caves are pretty well-connected, so…",
+            "ru_native": "Сомневаюсь, что мы заберемся обратно, но пещеры соединены между собой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми вже навряд піднімемось, але печери між собою поєднані, тож…"
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0009",
+            "en": "We follow this one through, should wind up somewhere on the other side.",
+            "ru_native": "Если пройдем вглубь, должны оказаться где-то на другой стороне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми заліземо тут, маємо вилізти десь на іншому боці."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0010",
+            "en": "She admittedly isn’t the prettiest plan, but…",
+            "ru_native": "План довольно сомнительный, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Такий собі план, звичайно, але…"
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0011",
+            "en": "She’s the best we got.",
+            "ru_native": "Другого у нас нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наразі найкращий."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0012",
+            "en": "No, I… don’t think there are bears out here, but… of course, now you got me wondering.",
+            "ru_native": "По-моему, медведи тут не водятся, но... Из-за тебя я начал сомневаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я…. взагалі не думаю, що тут є ведмеді, але… через тебе я тепер сумніваюся."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0013",
+            "en": "Very sure. Not that I’ve been to this particular spot, but… there aren’t a lot of dead ends, here.",
+            "ru_native": "Точно. Конечно, конкретно здесь я не проверял, но тупиков в пещерах очень мало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Абсолютно. Не те щоб я тут був раніше… просто глухих кутів тут не багато."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0014",
+            "en": "Oh, yeah. This is—we’re all in the park area. I don't think any of it is privately owned.",
+            "ru_native": "Да, тут все парковая зона. Не думаю, что здесь есть частные владения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут усюди паркова зона. Не думаю, що це чиясь власність."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0015",
+            "en": "C’mon",
+            "ru_native": "Идем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0016",
+            "en": "Anyways, c’mon. Just this way, I think.",
+            "ru_native": "Ладно, идем. Думаю, нам сюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ходімо. Сюди, як я розумію."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0017",
+            "en": "Oh God, Riley, are—is the—I’m sorry, is the… are you feeling okay?",
+            "ru_native": "Боже, Райли, ты... Прости, ты в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, Райлі, ти… Пробач, ти… із тобою все гаразд?"
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0018",
+            "en": "You’re… you know. Pregnant.",
+            "ru_native": "Ты же... ну, беременна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ж… вагітна."
+        },
+        {
+            "tag": "A2C3.JAHAAR_JACOB_0019",
+            "en": "So… we want to go… up there, but… the caves are pretty well-connected.",
+            "ru_native": "Так... нам нужно... наверх, но... пещеры все между собой связаны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… нам треба… нагору, але… печери взагалі добре пов’язані між собою."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0000",
+            "en": "Mostly just embarrassed. It’s nice to be reminded you’re not sixteen anymore.",
+            "ru_native": "Гордость пострадала. Получила напоминание, что мне уже не шестнадцать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лише принижено. Ось і нагадування, що мені більше не шістнадцять."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0001",
+            "en": "You can bruise.",
+            "ru_native": "В виде шишки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Синяки."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0002",
+            "en": "Whoever invented gravity’s an asshole.",
+            "ru_native": "Создатель гравитации – козел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто б там не винайшов цю гравітацію, він гімнюк."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0003",
+            "en": "Just… let’s never talk of… that again.",
+            "ru_native": "Давай... Не будем это обсуждать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай… ніколи не повертатися до цієї теми."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0004",
+            "en": "Uh, unless this is a bear cave.",
+            "ru_native": "А если там медведь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки на нас не вийде ведмідь."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0005",
+            "en": "In which case, we probably won’t wind up somewhere on the other side—",
+            "ru_native": "В таком случае мы вряд ли попадем на ту сторону...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді вже ніхто нікуди ніколи не вилізе."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0006",
+            "en": "Not unless you mean ‘the other side’ in some sort of… religious sense.",
+            "ru_native": "Если только не в религиозном смысле.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо під «іншим боком» ти не маєш на увазі щось… релігійне."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0007",
+            "en": "Are you sure this leads out?",
+            "ru_native": "Там точно есть выход?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти впевнений, що це вихід?"
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0008",
+            "en": "Uh, is this… public-use land, or…?",
+            "ru_native": "Это земли общего пользования или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця земля нічия чи?.."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0009",
+            "en": "It’s okay, Jacob.",
+            "ru_native": "Все хорошо, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, Джейкобе."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0010",
+            "en": "I’m only two months pregnant—",
+            "ru_native": "У меня срок всего два месяца...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я всього на другому місяці…"
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0011",
+            "en": "—and I’ve known women who’d ridden the worst wooden roller coasters when they’re just about to burst.",
+            "ru_native": "...а я знала женщин, которые катались на раздолбанных деревянных горках<br>за пару недель до родов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є такі, що лізуть на приїжджі атракціони з гімна та палиць перед самими пологами."
+        },
+        {
+            "tag": "A2C3.JAHAAR_RILEY_0012",
+            "en": "It’ll be alright.",
+            "ru_native": "Все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде гаразд."
+        }
+    ]
+}

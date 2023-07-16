@@ -1,0 +1,105 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C5.CLIARE",
+    "entries": [
+        {
+            "tag": "A2C5.CLIARE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.CLIARE_CHOICE_0000_OPTION_0000",
+            "en": "Doing okay?",
+            "ru_native": "Осилишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A2C5.CLIARE_CHOICE_0000_OPTION_0001",
+            "en": "You’ll be fine.",
+            "ru_native": "Ты справишься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде гаразд."
+        },
+        {
+            "tag": "A2C5.CLIARE_JACOB_0000",
+            "en": "Okay, here we go…",
+            "ru_native": "Так. Поехали...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, поїхали."
+        },
+        {
+            "tag": "A2C5.CLIARE_JACOB_0001",
+            "en": "One… ledge at a time…",
+            "ru_native": "Шаг за шагом...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… потихеньку…"
+        },
+        {
+            "tag": "A2C5.CLIARE_JACOB_0002",
+            "en": "[sigh]",
+            "ru_native": "Ох...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає]"
+        },
+        {
+            "tag": "A2C5.CLIARE_JACOB_0003",
+            "en": "Does it matter?",
+            "ru_native": "У меня есть выбор?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яка різниця?"
+        },
+        {
+            "tag": "A2C5.CLIARE_JACOB_0004",
+            "en": "It’s okay—I’ll be fine, let’s just do it.",
+            "ru_native": "Ничего, справлюсь. Полезли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд… я впораюся, рухаємося далі."
+        },
+        {
+            "tag": "A2C5.CLIARE_JACOB_0005",
+            "en": "Yeah. Noted.",
+            "ru_native": "Да. Принято.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, зрозуміло."
+        },
+        {
+            "tag": "A2C5.CLIARE_RILEY_0000",
+            "en": "You feel okay climbing this one?",
+            "ru_native": "Ты как, осилишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти справляєшся?"
+        },
+        {
+            "tag": "A2C5.CLIARE_RILEY_0001",
+            "en": "You’ll be fine, just… don’t look down.",
+            "ru_native": "Ты справишься, только вниз не смотри.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде добре, тільки не дивися вниз."
+        }
+    ]
+}

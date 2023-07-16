@@ -1,0 +1,213 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S3.LEAVJA",
+    "entries": [
+        {
+            "tag": "A1S3.LEAVJA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.LEAVJA_CHOICE_0000_OPTION_0000",
+            "en": "I don't have time for this.",
+            "ru_native": "У меня нет на это времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене немає на це часу."
+        },
+        {
+            "tag": "A1S3.LEAVJA_CHOICE_0000_OPTION_0001",
+            "en": "I just got bored.",
+            "ru_native": "Мне просто стало скучно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені стало нудно."
+        },
+        {
+            "tag": "A1S3.LEAVJA_CHOICE_0000_OPTION_0002",
+            "en": "I'll be back.",
+            "ru_native": "Я вернусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я скоро буду."
+        },
+        {
+            "tag": "A1S3.LEAVJA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.LEAVJA_CHOICE_0001_OPTION_0000",
+            "en": "I ran out of patience.",
+            "ru_native": "У меня больше нет терпения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене закінчилося терпіння."
+        },
+        {
+            "tag": "A1S3.LEAVJA_CHOICE_0001_OPTION_0001",
+            "en": "Maybe I'll be back.",
+            "ru_native": "Может, я еще вернусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, я ще повернуся."
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0000",
+            "en": "Oh, okay, I guess nevermind. Bye.",
+            "ru_native": "Конечно-конечно, иди. Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так-так, іди. Бувай."
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0001",
+            "en": "Didn't mean to bother you. See ya around.",
+            "ru_native": "Не хотел тебя напрягать. Увидимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хотів тобі заважати. До зустрічі."
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0002",
+            "en": "Yeah, okay.",
+            "ru_native": "А, ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, гаразд."
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0003",
+            "en": "Oh, really? You're… okay, you're leaving. Okay.",
+            "ru_native": "Правда? Ну ладно, иди. Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дійсно? Ти… а, ти йдеш. Гаразд."
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0004",
+            "en": "See you later, I guess?",
+            "ru_native": "До скорого?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До зустрічі?"
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0005",
+            "en": "Well, thanks for explaining.",
+            "ru_native": "Ну, спасибо, что объяснила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, дякую, що сказала."
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0006",
+            "en": "Don't worry, I won't hold you to it.",
+            "ru_native": "Не волнуйся. Я тебя не держу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, я тебе не затримую."
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0007",
+            "en": "Okay. Haha. I get it. Good one.",
+            "ru_native": "Ладно. Ха-ха. Я понял. Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Ха-ха. Я зрозумів. Добре."
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0008",
+            "en": "It must be that time of year—\"Mess with the Townies\" Day.",
+            "ru_native": "Наверное, сегодня день «приколов над местными».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні, мабуть, день такий… «Пожартуй над місцевим», еге ж?"
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0009",
+            "en": "I need to get a calendar with the international ones.",
+            "ru_native": "Надо бы купить календарь, чтобы не пропускать эту дату.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба купити календар, щоби не забути, коли цей день."
+        },
+        {
+            "tag": "A1S3.LEAVJA_JACOB_0010",
+            "en": "Whatever. See ya.",
+            "ru_native": "Ну ладно. Увидимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага. Бувай."
+        },
+        {
+            "tag": "A1S3.LEAVJA_RILEY_0000",
+            "en": "Sorry, I just don't have time for this right now.",
+            "ru_native": "Прости, просто мне сейчас некогда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, просто в мене зараз немає на це часу."
+        },
+        {
+            "tag": "A1S3.LEAVJA_RILEY_0001",
+            "en": "Sorry, I just got bored—I got stuff to do… you know how it is.",
+            "ru_native": "Извини, мне просто стало скучно. А у меня еще дела... ну, ты понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, мені просто стало нудно. У мене є ще справи… ну, ти розумієш."
+        },
+        {
+            "tag": "A1S3.LEAVJA_RILEY_0002",
+            "en": "No, I'll—I'll be back, trust me.",
+            "ru_native": "Нет, я... я вернусь, обещаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я… я повернуся, обіцяю."
+        },
+        {
+            "tag": "A1S3.LEAVJA_RILEY_0003",
+            "en": "Sorry, I just ran out of time for this. And patience, if I'm being honest.",
+            "ru_native": "Прости, у меня больше нет на это времени. И терпения, если честно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, у мене більше немає на це часу. І терпіння, якщо чесно."
+        },
+        {
+            "tag": "A1S3.LEAVJA_RILEY_0004",
+            "en": "I'll—maybe I'll come back, I can't promise anything.",
+            "ru_native": "Я... может, я еще вернусь, не могу обещать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… можливо, ще повернуся, не буду нічого обіцяти."
+        }
+    ]
+}

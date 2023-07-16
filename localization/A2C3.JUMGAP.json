@@ -1,0 +1,330 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.JUMGAP",
+    "entries": [
+        {
+            "tag": "A2C3.JUMGAP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.JUMGAP_CHOICE_0000_OPTION_0000",
+            "en": "I think I can make it.",
+            "ru_native": "Я перепрыгну.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаю, я впораюся."
+        },
+        {
+            "tag": "A2C3.JUMGAP_CHOICE_0000_OPTION_0001",
+            "en": "Let's climb down.",
+            "ru_native": "Пора ломать ноги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нумо спускатися."
+        },
+        {
+            "tag": "A2C3.JUMGAP_CHOICE_0000_OPTION_0002",
+            "en": "Piece of cake.",
+            "ru_native": "Легкотня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Легкотня."
+        },
+        {
+            "tag": "A2C3.JUMGAP_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.JUMGAP_CHOICE_0001_OPTION_0000",
+            "en": "Definitely.",
+            "ru_native": "Определенно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Певна річ."
+        },
+        {
+            "tag": "A2C3.JUMGAP_CHOICE_0001_OPTION_0001",
+            "en": "Absolutely.",
+            "ru_native": "Безусловно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно."
+        },
+        {
+            "tag": "A2C3.JUMGAP_CHOICE_0001_OPTION_0002",
+            "en": "We’ll see!",
+            "ru_native": "Увидим!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивимося!"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0000",
+            "en": "Oh. Bit of a, uh, leap there.",
+            "ru_native": "Далековато тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йой, далеченько."
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0001",
+            "en": "Or a lot of a leap there.",
+            "ru_native": "Даже офигеть как далеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0002",
+            "en": "Don’t—really see another way though.",
+            "ru_native": "Но другого пути я не вижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0003",
+            "en": "Huh.",
+            "ru_native": "Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0004",
+            "en": "Uh, can you?",
+            "ru_native": "Точно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти впевнена?"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0005",
+            "en": "Oh, God, c’mon, don’t say that.",
+            "ru_native": "Прошу, не говори так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0006",
+            "en": "Is it?",
+            "ru_native": "Разве?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаєш?"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0007",
+            "en": "Yeah, I think this is our only option.",
+            "ru_native": "Боюсь, это единственный выход.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаю, це наш єдиний варіант."
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0008",
+            "en": "Because…",
+            "ru_native": "Для меня...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо…"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0009",
+            "en": "It doesn’t look like it.",
+            "ru_native": "Выглядит сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виглядає не так."
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0010",
+            "en": "Well you’re gonna have to go first cause if you can’t do it…",
+            "ru_native": "Ладно, ты первая. Потому что если ты не справишься...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ти маєш іти перша, бо якщо ти не зможеш…"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0011",
+            "en": "...I know I can’t.",
+            "ru_native": "То я тем более.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Я точно не зможу."
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0012",
+            "en": "Are you gonna jump, Riley?",
+            "ru_native": "Райли, будешь прыгать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти будеш стрибати, Райлі?"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0013",
+            "en": "I’d like to tell you we could go around, but I think this is honestly our only option.",
+            "ru_native": "Я бы с радостью предложил обходной путь, но его, к сожалению, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0014",
+            "en": "Ah, we could climb down here, also. Might take a little longer…",
+            "ru_native": "О, мы могли бы спуститься вниз. Вышло бы чуть дольше...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми можемо тут спуститися. Буде трохи довше, звичайно…"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0015",
+            "en": "I just don’t think we can make the gap.",
+            "ru_native": "Просто мне кажется, мы не допрыгнем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не думаю, що ми здолаємо таку прірву."
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0016",
+            "en": "Right?",
+            "ru_native": "Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так?"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0017",
+            "en": "Or am I just… not judging it correctly…",
+            "ru_native": "Или я просто... неверно рассчитал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може я й помиляюся…"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0018",
+            "en": "Yeah, definitely.",
+            "ru_native": "Да, определенно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, однозначно."
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0019",
+            "en": "We could also just climb down. Seems much easier?",
+            "ru_native": "Мы могли бы просто спуститься вниз. Так же проще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна просто спуститися. Так простіше ж?"
+        },
+        {
+            "tag": "A2C3.JUMGAP_JACOB_0020",
+            "en": "Or… climb.",
+            "ru_native": "Или... слезть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… спустишся."
+        },
+        {
+            "tag": "A2C3.JUMGAP_RILEY_0000",
+            "en": "I can make it. Probably.",
+            "ru_native": "Я перепрыгну. Наверное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я впораюся. Напевно."
+        },
+        {
+            "tag": "A2C3.JUMGAP_RILEY_0001",
+            "en": "Leg-breaking time.",
+            "ru_native": "Время ломать ноги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.JUMGAP_RILEY_0002",
+            "en": "No, piece of cake.",
+            "ru_native": "Да ну, легко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та раз плюнути."
+        },
+        {
+            "tag": "A2C3.JUMGAP_RILEY_0003",
+            "en": "Oh, definitely.",
+            "ru_native": "Определенно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Однозначно."
+        },
+        {
+            "tag": "A2C3.JUMGAP_RILEY_0004",
+            "en": "Oh, absolutely.",
+            "ru_native": "Безусловно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Абсолютно."
+        },
+        {
+            "tag": "A2C3.JUMGAP_RILEY_0005",
+            "en": "Well, uh, we’ll see, won’t we?",
+            "ru_native": "Ну, сейчас и увидим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивимося, чи не так?"
+        },
+        {
+            "tag": "A2C3.JUMGAP_RILEY_0006",
+            "en": "Yeah… we should probably climb down. Just to be safe.",
+            "ru_native": "Да... наверное, стоит спуститься. Так безопаснее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… мабуть, нам слід спуститися вниз, заради безпеки."
+        }
+    ]
+}

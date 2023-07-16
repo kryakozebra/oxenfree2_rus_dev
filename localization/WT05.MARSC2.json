@@ -1,0 +1,501 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT05.MARSC2",
+    "entries": [
+        {
+            "tag": "WT05.MARSC2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0000_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло?"
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0000_OPTION_0001",
+            "en": "What is it!",
+            "ru_native": "А что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А що?"
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0001_OPTION_0000",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага."
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0001_OPTION_0001",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0002_OPTION_0000",
+            "en": "Yeah. I have.",
+            "ru_native": "Да, это я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0002_OPTION_0001",
+            "en": "Three cult members, yeah.",
+            "ru_native": "Три сектанта, да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Три сектанти, так."
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0002_OPTION_0002",
+            "en": "Why do you ask?",
+            "ru_native": "Почему ты спрашиваешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти питаєш?"
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0003_OPTION_0000",
+            "en": "They’re into some bad stuff.",
+            "ru_native": "У них неприятности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У них неприємності."
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0003_OPTION_0001",
+            "en": "They’re raising ghosts.",
+            "ru_native": "Они призывают призраков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони викликають привидів."
+        },
+        {
+            "tag": "WT05.MARSC2_CHOICE_0003_OPTION_0002",
+            "en": "Tell me about them.",
+            "ru_native": "Расскажи мне о них.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розкажи мені про них."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0000",
+            "en": "Hi! Hiya. Thanks for picking up—",
+            "ru_native": "Приветик! Спасибо, что ответила...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт! Дякую, що відповіла…"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0001",
+            "en": "Remember when I said if you run into three teenagers to call them assholes?",
+            "ru_native": "Помнишь, я говорила, ты встретишь трех<br>подростков, которые окажутся полными придурками?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пам’ятаєш, я казала, передати трьом підліткам, що вони засранці, якщо побачиш їх?"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0002",
+            "en": "Well have you run into three teenagers?",
+            "ru_native": "Ну что, встретила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що, ти їх зустріла?"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0003",
+            "en": "I asked—nevermind. Have you run into three teenagers?",
+            "ru_native": "Я спрашивала... неважно. Ты встретила трех подростков?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я питала… забудь. Ти зустріла трьох підлітків?"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0004",
+            "en": "Nevermind. Have you run into three teenagers, that’s the question.",
+            "ru_native": "Неважно. Вопрос был, встретила ли ты трех подростков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забудь. Я запитувала, чи ти зустрічала трьох підлітків."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0005",
+            "en": "Oh, uh, over.",
+            "ru_native": "Ой, да, прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, так, прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0006",
+            "en": "Really? Seriously—that’s—",
+            "ru_native": "Правда? Серьезно... это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правда? Серйозно… це…"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0007",
+            "en": "Okay—so that’s—that’s Charlie and Violet. They’re my friends. And Olivia, but… forget her.",
+            "ru_native": "Ладно, это... Чарли и Вайолет. Они мои друзья. И Оливия, но… забудь о ней.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, це… Чарлі та Вайолет. Вони мої друзі. Й Олівія, але… забудь за неї."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0008",
+            "en": "Only one of them is a freak—that’s Olivia.",
+            "ru_native": "Среди них только один придурок – Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серед них тільки одна засранка — Олівія."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0009",
+            "en": "Violet and Charlie are fine. They’re my friends.",
+            "ru_native": "Вайолет и Чарли нормальные. Они мои друзья.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет і Чарлі нормальні. Вони мої друзі."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0010",
+            "en": "Because two of my friends—Violet and Charlie—they’re out tonight—",
+            "ru_native": "Потому что два моих друга – Вайолет и Чарли – сегодня ночью...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо двоє моїх друзів, Вайолет і Чарлі, сьогодні вночі…"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0011",
+            "en": "—they went out with this other girl, Olivia.",
+            "ru_native": "...пошли с той другой девчонкой, Оливией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…пішли з тією дівчинкою, Олівією."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0012",
+            "en": "Are you there? Helloooo?",
+            "ru_native": "Ты там? Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти там? Аллоо-о-о?"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0013",
+            "en": "I’m asking—if you’re still there, I’m only asking because my friends, Violet and Charlie—",
+            "ru_native": "Я спрашиваю – если ты еще там – только потому что мои друзья, Вайолет и Чарли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я питаю… Якщо ти ще там… Лише тому, що мої друзі, Вайолет і Чарлі…"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0014",
+            "en": "They said they were going out tonight with this, uh, other girl, Olivia.",
+            "ru_native": "Они сказали, что сегодня ночью пойдут с той другой девчонкой, Оливией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони сказали, що сьогодні вночі підуть із тією дівчинкою, Олівією."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0015",
+            "en": "And they just—they just told me they were going out to Edwards Island—",
+            "ru_native": "И они сказали, что собираются на остров Эдвардса...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І вони сказали, що збираються на острів Едвардса…"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0016",
+            "en": "—and they kind of gave me this look… like this was the last time.",
+            "ru_native": "...и так на меня посмотрели… как в последний раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і так на мене глянули… ніби прощаються."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0017",
+            "en": "And I don’t really know what I did to piss them off…? So, like, what are they doing?",
+            "ru_native": "И я правда не понимаю, что я им такого сделала? И что они задумали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я не розумію, що я їм такого зробила? Що вони задумали?"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0018",
+            "en": "Are they at Brad’s house?",
+            "ru_native": "Они дома у Брэда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони вдома в Бреда?"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0019",
+            "en": "Do you know Brad Nelkin? You wouldn’t know Brad Nelkin.",
+            "ru_native": "Ты знаешь Бреда Нелкина? Наверняка не знаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш Бреда Нелкіна? Мабуть, не знаєш."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0020",
+            "en": "Uh, what about Mr. and Mrs. Nelkin? They live on Elmwood. With Brad.",
+            "ru_native": "О, а как насчет мистера и миссис Нелкин? Они живут в Элмвуде. С Брэдом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, а містера та місіс Нелкін? Вони живуть на вулиці Елмвуд. Із Бредом."
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0021",
+            "en": "Are they not at Brad’s—are they out? Are they outside? Are they talking about me?",
+            "ru_native": "Разве они не у Брэда? Они ушли? Они снаружи? Они обо мне говорят?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба вони не в Бреда? Вони пішли? Вони надворі? Вони говорять про мене?"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0022",
+            "en": "Oh, I mean, I could go back to third grade, but—",
+            "ru_native": "О, в смысле, я их знаю как облупленных, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, тобто, я їх знаю, як свої п’ять пальців, але…"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0023",
+            "en": "Yeah, but are they talking about me? Are they talking about me?",
+            "ru_native": "Да, но они обо мне говорят? Обо мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але вони говорять про мене? Вони говорять про мене?"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0024",
+            "en": "Look—I used to be really good friends with Violet—",
+            "ru_native": "Слушай... Мы с Вайолет были близкими подругами...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай… ми з Вайолет були хорошими подругами…"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0025",
+            "en": "—and Charlie used to do the radio station thing—",
+            "ru_native": "...а Чарли занимался школьной радиостанцией...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…а Чарлі займався шкільною радіостанцією…"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0026",
+            "en": "But ever since Olivia started hanging out with them, it’s like everything—",
+            "ru_native": "Но с тех пор, как Оливия стала с ними тусоваться, все...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але з тих пір, як Олівія стала гуляти з ними, усе…"
+        },
+        {
+            "tag": "WT05.MARSC2_MARIA_0027",
+            "en": "Ah—God, I gotta go—sorry, we’ll talk more later—bye—call me!",
+            "ru_native": "Ой, блин, мне пора. Прости, потом поболтаем. Пока, перезвони мне!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, боже, мені вже час… Вибач, поговоримо пізніше. Бувай!"
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0000",
+            "en": "Yeah, hello. I’m here. Over.",
+            "ru_native": "Да, алло. Я тут. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, алло. Я тут. Прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0001",
+            "en": "Okay, yeah, I’m here, what is it? Over.",
+            "ru_native": "Да, я тут, а что? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тут, а що? Прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0002",
+            "en": "Yeah. Over.",
+            "ru_native": "Да. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0003",
+            "en": "Uh, what? Over.",
+            "ru_native": "Эм, что? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, що? Прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0004",
+            "en": "Uh, yeah. I have. Three teenagers in masks, just like you said. Over.",
+            "ru_native": "Да, это я. Три подростка в масках, как ты и сказала. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це я. Три підлітки в масках, як ти і сказала. Прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0005",
+            "en": "Oh, I think you mean cult members. Those freaks in masks—that’s who you’re talking about, right?",
+            "ru_native": "О, думаю, ты имеешь в виду сектантов. Те придурки в масках – ты же про них говоришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, гадаю, ти маєш на увазі сектантів. Ті бовдури в масках — ти ж про них говориш?"
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0006",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0007",
+            "en": "Why are you asking me this? Over.",
+            "ru_native": "Почему ты спрашиваешь? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти питаєш? Прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0008",
+            "en": "They’re… getting into some bad stuff over here, Maria.",
+            "ru_native": "У них... неприятности, Мария.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У них… неприємності, Маріє."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0009",
+            "en": "But I can’t really get into it right now. Over.",
+            "ru_native": "Но я сейчас не могу этим заняться. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я зараз не можу розповісти більше. Прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0010",
+            "en": "Maria, they’re, uh, using… radio technology to open up portals between space-time…",
+            "ru_native": "Мария, они, эм, используют... радиотехнологии, чтобы<br>открыть порталы между пространством-временем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє, вони, гм, використовують… радіотехнології,<br>щоби зробити портали між часом і простором…"
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0011",
+            "en": "…and… kind of raising the dead. In a way. Over.",
+            "ru_native": "...и... вроде как воскресить мертвых. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і… воскресити мертвих. Прийом."
+        },
+        {
+            "tag": "WT05.MARSC2_RILEY_0012",
+            "en": "Hey, Maria, who are they? Really? Tell me about them, okay? Over.",
+            "ru_native": "Мария, кто они? Расскажи мне о них, ладно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє, хто вони? Розкажи мені про них, гаразд? Прийом."
+        }
+    ]
+}

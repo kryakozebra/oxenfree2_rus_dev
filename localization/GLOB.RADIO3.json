@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.RADIO3",
+    "entries": [
+        {
+            "tag": "GLOB.RADIO3_JACOB_0000",
+            "en": "You’re just setting yourself up for heartbreak.",
+            "ru_native": "Ты сама напрашиваешься на разочарование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так ти себе до серцевого нападу доведеш."
+        },
+        {
+            "tag": "GLOB.RADIO3_JACOB_0001",
+            "en": "You’ve been warned.",
+            "ru_native": "Я предупредил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я попередила."
+        }
+    ]
+}

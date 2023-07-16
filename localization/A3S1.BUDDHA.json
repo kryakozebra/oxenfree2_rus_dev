@@ -1,0 +1,600 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S1.BUDDHA",
+    "entries": [
+        {
+            "tag": "A3S1.BUDDHA_BUDDHA_0000",
+            "en": "[bark]",
+            "ru_native": "Гав-гав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[гавкіт]"
+        },
+        {
+            "tag": "A3S1.BUDDHA_BUDDHA_0001",
+            "en": "[bark]",
+            "ru_native": "Гав-гав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[гавкіт]"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0000_OPTION_0000",
+            "en": "Yay!",
+            "ru_native": "Ура!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ура!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0000_OPTION_0001",
+            "en": "Oh thank God.",
+            "ru_native": "Слава богу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякувати Богу."
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0000_OPTION_0002",
+            "en": "Bet you’re happy!",
+            "ru_native": "Счастлив?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти радий?"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0001_OPTION_0000",
+            "en": "Can I pet her?",
+            "ru_native": "Можно погладить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна її погладити?"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0001_OPTION_0001",
+            "en": "She’s a cutie.",
+            "ru_native": "Милашка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Любуся."
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0001_OPTION_0002",
+            "en": "Where has she been?",
+            "ru_native": "Где она была?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де вона була?"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0002_OPTION_0000",
+            "en": "You two are cute.",
+            "ru_native": "Вы милахи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви двоє любчики."
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0002_OPTION_0001",
+            "en": "Speak, Athena!",
+            "ru_native": "Будда, голос!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Голос, Афіно!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0002_OPTION_0002",
+            "en": "Okay, wrap it up.",
+            "ru_native": "Заканчивайте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Закругляйтеся."
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0003_OPTION_0000",
+            "en": "It’s okay…",
+            "ru_native": "Все норм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд…"
+        },
+        {
+            "tag": "A3S1.BUDDHA_CHOICE_0003_OPTION_0001",
+            "en": "Okay, settle down.",
+            "ru_native": "Все, завязывайте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, заспокойся."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0000",
+            "en": "D-Did you hear that?!",
+            "ru_native": "Ты это слышала?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти це чула?!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0001",
+            "en": "Athena? Athena!",
+            "ru_native": "Будда? Будда!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Афіно? Афіно!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0002",
+            "en": "Oh Athena! You freaking knucklehead, oh I’m gonna kill you!",
+            "ru_native": "Будда! Ах ты засранка! Я тебя прикончу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Афіно! Дурепо ти така. Я тебе приб’ю!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0003",
+            "en": "Oh, my God, I was so worried!",
+            "ru_native": "Боже, я так волновался!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, я так хвилювався!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0004",
+            "en": "[relieved laughter] Oh my God, oh…",
+            "ru_native": "[ID-5]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Сміється полегшено] О, Господи!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0005",
+            "en": "You beautiful dummy.",
+            "ru_native": "Ты ж моя глупышка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти моя дурненька."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0006",
+            "en": "You have no idea.",
+            "ru_native": "Ты даже не представляешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти й не уявляєш."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0007",
+            "en": "She seems alright…",
+            "ru_native": "Вроде цела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, з нею все гаразд…"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0008",
+            "en": "[breathes out sigh of relief]",
+            "ru_native": "[ID-12]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Видихає з полегшенням]"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0009",
+            "en": "Let’s find out. Athena, can Riley pet you? Athena—Speak!",
+            "ru_native": "Давай проверим. Будда, Райли может тебя погладить? Голос!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дізнаємось. Афіно, можна Райлі погладити тебе? Афіно! Голос!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0010",
+            "en": "That means yes.",
+            "ru_native": "Это значит «да».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це означає «так»."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0011",
+            "en": "She really is. Adorable and a total dingus. That’s my Teeny-Theeny.",
+            "ru_native": "Это да. Очаровательная дурочка – вот моя Буддинька.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді. Чарівна й дурненька, моя Афінонька."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0012",
+            "en": "If her breath is any indication, the dumpster outside Seafood Sammy’s.",
+            "ru_native": "Судя по запашку из пасти, рылась в мусоре у «Даров моря от Сэмми».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Судячи із запаху з пащі, рилася в смітті біля «Дарів моря від Семмі»."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0013",
+            "en": "But I’ll take a night of lobster farts if that means this little dingus is back home.",
+            "ru_native": "Но я готов мириться с газами с ароматом лобстера, если эта дурочка дома.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я готовий миритися з газами з ароматом лобстера, якщо ця дурепа вдома."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0014",
+            "en": "Do you know how many TV remotes this mutt has obliterated?",
+            "ru_native": "Ты хоть знаешь, сколько пультов эта морда сгрызла?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хоча б уявляєш, скільки пультів ця мармиза згризла?"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0015",
+            "en": "Athena—I swear to Vishnu, I’m getting you a bell—a, a very large bell that you can hear from Wisconsin.",
+            "ru_native": "Будда, клянусь Вишну, я тебе куплю... колокол.<br>Огромный колокол, чтоб из Висконсина слышать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Афіно, клянуся Вишною, я тобі куплю… дзвоник.<br>Величезний дзвоник, щоби було чути аж із Вісконсина."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0016",
+            "en": "Dumb dog, I love you. I love you and you’re dumb and I love you.",
+            "ru_native": "Дурочка, как я тебя люблю. Люблю тебя, дурында, сильно-сильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дурепо ти моя улюблена. Я люблю тебе. Ти — дурепа, і я люблю тебе."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0017",
+            "en": "No more running off.",
+            "ru_native": "Больше не убегай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більше не тікай."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0018",
+            "en": "Actually—that won’t be a problem because of the bell.",
+            "ru_native": "Хотя с колоколом ты далеко не убежишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча із дзвоником це більше не проблема."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0019",
+            "en": "Problem solved.",
+            "ru_native": "Проблема решена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Проблему вирішено."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0020",
+            "en": "Oh, for sure, but like, I needed this. Real bad.",
+            "ru_native": "Понимаю, но мне это было нужно. Очень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це точно. Але мені це було потрібно. Дуже."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0021",
+            "en": "Oh, she is the chattiest of Kathys, believe me.",
+            "ru_native": "Эта дама та еще болтушка, уж поверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця дівчинка дуже балакуча, повір."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0022",
+            "en": "Oh man, this is—uh, sorry…",
+            "ru_native": "Блин, это... Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт, ти… вибач."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0023",
+            "en": "I’m not usually like this—you know, but… eh, it’s been a long night.",
+            "ru_native": "Я обычно не так... Короче, долгая ночь выдалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зазвичай не так… Але ніч довга видалась."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0024",
+            "en": "She’s my home. You know? She’s my home, and it’s just…",
+            "ru_native": "Она – мой дом. Понимаешь? Мой дом, и меня...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона — мій дім. Розумієш? Вона — мій дім, і я…"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0025",
+            "en": "It’s nice to feel relieved…",
+            "ru_native": "Накрыло облегчением. Приятно что-то чувствовать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я відчуваю полегшення…"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0026",
+            "en": "For once.",
+            "ru_native": "Это редкость.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нарешті."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0027",
+            "en": "Alright, c’mon girl.",
+            "ru_native": "Так, Будда, слушай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ходімо, собацюкро."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0028",
+            "en": "I’ll be right back, like right the hell back, so don’t you wiggle away, ya hear me?",
+            "ru_native": "Я вернусь, мигом, туда и обратно. Так что никаких самоволок, поняла?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я повернуся, швиденько. Туди й назад. Отож нікуди не тікай, ясно?"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0029",
+            "en": "Be my good girl, stay here. Sound good? Speak.",
+            "ru_native": "Будь хорошей девочкой, жди тут. Хорошо? Голос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь хорошою дівчинкою, стій тут. Ясно? Голос!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0030",
+            "en": "Sounds good.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0031",
+            "en": "And, uh… if I don’t make it back… it’s not cause I didn’t try.",
+            "ru_native": "И... если я не вернусь... Это не потому, что я не пытался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І якщо… я не повернуся, то… то не тому, що не намагався."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0032",
+            "en": "Someone in town will take you in—they all know you—you’ll—you’ll be okay.",
+            "ru_native": "Кто-нибудь в городе тебя приютит, тебя все знают. Все будет хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто-небудь у місті тебе прихистить. Тебе всі знають. З тобою все буде гаразд."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0033",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0034",
+            "en": "Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0035",
+            "en": "I’m ready.",
+            "ru_native": "Я готов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я готовий."
+        },
+        {
+            "tag": "A3S1.BUDDHA_JACOB_0036",
+            "en": "I have to do this thing. It’s… an opportunity to do something… important.",
+            "ru_native": "Я должен пойти. Это... возможность сделать нечто важное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене є справи. Це… можливість зробити щось важливе."
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0000",
+            "en": "Athena! You’re okay, buddy!",
+            "ru_native": "Ура! Будда! Ты в порядке!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Афіно! З тобою все добре!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0001",
+            "en": "Oh thank God. I kept thinking—I don’t want to say what I was thinking…",
+            "ru_native": "Слава богу. Я все думала... Не буду озвучивать, что думала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, дякувати Богу. Я все думала… Не хочу навіть казати, що я думала."
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0002",
+            "en": "Man, Jacob, I bet you’re happy.",
+            "ru_native": "Ну что, Джейкоб, ты счастлив?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що, Джейкобе, ти радий?"
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0003",
+            "en": "Is it okay if I pet her?",
+            "ru_native": "Можно ее погладить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна її погладити?"
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0004",
+            "en": "Okay, seriously, your dog is criminally cute.",
+            "ru_native": "Слушай, твоя собака преступно милая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, серйозно, Афіна надто мила."
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0005",
+            "en": "Where do you think she was?",
+            "ru_native": "Как думаешь, где она была?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як гадаєш, де вона була?"
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0006",
+            "en": "Okay, seriously, this, this is sweet. Maybe too sweet.",
+            "ru_native": "Не могу, это так мило. Даже слишком мило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, серйозно, це мило. Може, занадто мило."
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0007",
+            "en": "Athena, speak!",
+            "ru_native": "Будда, голос!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Афіно, голос!"
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0008",
+            "en": "Alright, wind it up, Summers, we got work to do.",
+            "ru_native": "Ладно, сладкая парочка, у нас много работы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, солодка парочко, у нас багато роботи."
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0009",
+            "en": "It’s okay, Jacob. It’s alright.",
+            "ru_native": "Все норм, Джейкоб. Я знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, Джейкобе. Усе добре."
+        },
+        {
+            "tag": "A3S1.BUDDHA_RILEY_0010",
+            "en": "Okay, alright, settle down, man. She’s back. She’s safe. You’re alright.",
+            "ru_native": "Так, все, завязывайте. Она вернулась, она в безопасности. Все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, зав’язуйте. Вона повернулася, вона в небезпеці. З тобою все гаразд."
+        },
+        {
+            "tag": "A3S1.BUDDHA_UNKNOWN_0000",
+            "en": "[whimpering]",
+            "ru_native": "(скулит)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[скімлить]"
+        }
+    ]
+}

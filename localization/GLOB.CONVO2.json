@@ -1,0 +1,474 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.CONVO2",
+    "entries": [
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0000_OPTION_0000",
+            "en": "You monster.",
+            "ru_native": "Ты чудовище.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти — чудовисько."
+        },
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0000_OPTION_0001",
+            "en": "Bad book?",
+            "ru_native": "Плохая книга?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погана книга?"
+        },
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0001_OPTION_0000",
+            "en": "We’re old.",
+            "ru_native": "Мы старые.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми старі."
+        },
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0001_OPTION_0001",
+            "en": "They should increase late fees.",
+            "ru_native": "Штрафы надо увеличить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їм слід збільшити штрафи."
+        },
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0001_OPTION_0002",
+            "en": "It’s a good practice.",
+            "ru_native": "Хорошая практика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарна практика."
+        },
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0002_OPTION_0000",
+            "en": "Finish the book",
+            "ru_native": "Дочитай книгу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дочитай книгу."
+        },
+        {
+            "tag": "GLOB.CONVO2_CHOICE_0002_OPTION_0001",
+            "en": "Never return it.",
+            "ru_native": "Не возвращай ее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не повертай її."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0000",
+            "en": "So, embarrassing confession.",
+            "ru_native": "Время постыдных признаний.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Соромно визнавати."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0001",
+            "en": "Before my truck broke down, I was headed to the library to return a book I was a month late in returning.",
+            "ru_native": "Пока грузовик не сломался, я направлялся в библиотеку,<br>чтобы вернуть просроченную на месяц книгу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перед тим, як поламалася моя вантажівка, я збирався<br>до бібліотеки, щоби повернути книгу, яку мав повернути місяць тому."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0002",
+            "en": "I’m talking 30 proper days. And I never even finished it.",
+            "ru_native": "Речь о полноценных 30 днях. И я ее даже не дочитал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мова йде рівно про 30 днів. Я так і не дочитав її."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0003",
+            "en": "Athena and I walk there all the time…",
+            "ru_native": "Мы с Буддой постоянно там гуляли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Афіна і я гуляємо там постійно…"
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0004",
+            "en": "…so I figured, two birds, ya know?",
+            "ru_native": "Вот я и решил двух зайцев сразу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…отож я подумав вбити двох зайців. Розумієш?"
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0005",
+            "en": "Maybe she was chilling by the drop box. There’s precedent.",
+            "ru_native": "Может, она обнюхивала ящик для возврата? Такое бывало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, вона відпочивала біля поштової скриньки. Раніше таке бувало."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0006",
+            "en": "Terror of the fiction section, that’s me.",
+            "ru_native": "Я ужас раздела беллетристики!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жах у розділі фантастики — це я."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0007",
+            "en": "Eh—it was mindless brain candy.",
+            "ru_native": "Простая жвачка для мозгов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гумка для голови без мізків."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0008",
+            "en": "Fun, but no real—uh—vitamins and minerals, ya know?",
+            "ru_native": "Вкусно, но... без витаминов и минералов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікава, але без вітамінів і мінералів. Розумієш?"
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0009",
+            "en": "But really, I could’ve waited another 30 ‘cause Camena PL got rid of late fees last September.",
+            "ru_native": "Оказалось, я мог не торопиться, так как библиотека отменила штрафы в прошлом сентябре.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але насправді можна було почекати ще 30, адже в публічній бібліотеці Камени у<br>вересні скасовано штрафи за несвоєчасне повернення книги."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0010",
+            "en": "I mean is it weird that I don’t mind paying late fees?",
+            "ru_native": "Странно ли, что я совсем не против заплатить штраф?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це не дивно, що я не проти сплатити штраф за несвоєчасне повернення книги?"
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0011",
+            "en": "I get that getting rid of them promotes library usage which is a big plus but I mean…",
+            "ru_native": "Понимаю, их отмена поощряет людей на чтение, что прекрасно, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію, що їхнє скасування стимулює читачів відвідувати бібліотеку.<br>Це великий плюс, але…"
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0012",
+            "en": "There has to be consequences.",
+            "ru_native": "Должны же быть последствия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мають бути наслідки."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0013",
+            "en": "Life is nothing but late fees.",
+            "ru_native": "Жизнь полна штрафов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Життя — це самі лише штрафи за несвоєчасне повернення."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0014",
+            "en": "Kids need to learn that.",
+            "ru_native": "Детей надо к этому готовить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Діти мають це засвоїти."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0015",
+            "en": "I am… old. Yes.",
+            "ru_native": "Я старый. Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я старий. Так."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0016",
+            "en": "I am old. We are old.",
+            "ru_native": "Я старый. Мы старые.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я старий. Ми старі."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0017",
+            "en": "…they should still bring back late fees.",
+            "ru_native": "И все равно им стоит вернуть штрафы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…їм слід повернути штрафи за несвоєчасне повернення."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0018",
+            "en": "Bold. Uncompromising. And a little scary.",
+            "ru_native": "Дерзко. Бескомпромиссно. И немного пугающе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сміливо. Без компромісів. І трохи лячно."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0019",
+            "en": "I like it.",
+            "ru_native": "Мне нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені подобається."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0020",
+            "en": "I do and that’s exactly why! Learn the lesson, young reader!",
+            "ru_native": "Помню, в том-то и дело! Усвой урок, юный читатель!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я так і роблю, і саме тому! Засвоюй урок, юний читач!"
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0021",
+            "en": "Maybe a more considerate child also wants to know how that day at school went for Dude. But now they’ll never know…",
+            "ru_native": "Быть может, более ответственный ребенок тоже хочет узнать,<br>как прошли уроки у Барбоса. Но теперь никогда не узнает...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, більш відповідальна дитина хоче знати, як пройшов<br>день у школі для котика Чувака. Але тепер так і не дізнається."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0022",
+            "en": "I guess I could finish the book, though. Years from now if I wanna.",
+            "ru_native": "Хотя теперь я могу дочитать книгу. Когда-нибудь, спустя годы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча, здається, я міг би дочитати книгу. Роки минули."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0023",
+            "en": "Watch out for this wildcat.",
+            "ru_native": "Какой я рискованный тип.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стережися цієї дикої кішки."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0024",
+            "en": "Anyway. Now you know. Judge me.",
+            "ru_native": "Ладно, теперь ты в курсе. Осуждай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як. Тепер ти знаєш. Будь моїм суддею."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0025",
+            "en": "Go ahead.",
+            "ru_native": "Вперед.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Починай."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0026",
+            "en": "You’re not the boss of me!",
+            "ru_native": "Не указывай мне!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мені не командир!"
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0027",
+            "en": "But—yeah—I should. I will!",
+            "ru_native": "Но да, надо. Дочитаю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але так, мені слід. Неодмінно!"
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0028",
+            "en": "But because Jacob decided so, thank you and tip your wait staff.",
+            "ru_native": "Потому что так решил сам Джейкоб, спасибо, всего доброго.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але оскільки Джейкоб так вирішив, дякую. І подякуй тим, хто тебе обслуговував."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0029",
+            "en": "Whoa, getting systemic. Maybe you’re on to something…",
+            "ru_native": "Системный подход! Что-то в этой идее есть...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, критикуєш систему. Може, ти щось задумала..."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0030",
+            "en": "But my guilt will eventually eat my feet. I’ll return it.",
+            "ru_native": "Но чувство вины меня живьем съест. Лучше верну.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але моє почуття провини врешті решт виб’є ґрунт у мене з-під ніг. Я таки поверну її."
+        },
+        {
+            "tag": "GLOB.CONVO2_JACOB_0031",
+            "en": "Fine. I’ll just judge myself. I’m a pro at this point.",
+            "ru_native": "Ясно. Тогда сам себя поосуждаю, я в этом деле мастер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Я просто засуджуватиму себе. У таких речах я майстер."
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0000",
+            "en": "You’re a monster, Jacob Summers. I’m ashamed to know you.",
+            "ru_native": "Ты чудовище, Джейкоб Саммерс. Мне стыдно, что мы знакомы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти — чудовисько, Джейкоб Саммерс. Мені соромно за знайомство з тобою."
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0001",
+            "en": "Not a good book?",
+            "ru_native": "Плохая книга?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погана була книга?"
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0002",
+            "en": "So we’re old huh?",
+            "ru_native": "Выходит, мы старые?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож ми старі, еге ж?"
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0003",
+            "en": "No, I get it. Hell, they should increase the fees.",
+            "ru_native": "Я согласна. Более того, штрафы надо увеличить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я розумію. Їм слід збільшити штрафи."
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0004",
+            "en": "Give that lesson a capital L, you know what I mean?",
+            "ru_native": "Чтобы преподать урок с большой буквы У!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Урок із великої літери «У». Розумієш, до чого я?"
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0005",
+            "en": "You really wanna charge a kid fifty cents ‘cause he’s one day late in returning \"Dude the Cat Goes to School\"?",
+            "ru_native": "Хочешь брать у ребенка 50 центов, потому что он<br>на день задержал «Пес-Барбос идет в школу»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти справді хочеш, щоби дитина платила п’ятдесят центів за те,<br>що невчасно повернула книгу «Кіт Чувак ходить до школи»?"
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0006",
+            "en": "Do you remember how hard it was to get money as a kid? You may as well charge them cold fusion.",
+            "ru_native": "Ты помнишь, как сложно было в детстве найти деньги?<br>Ты еще атомную энергию с них спроси.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пам’ятаєш, як важко було отримати гроші в дитинстві?<br>Чому не вимагати оплату ядерним паливом тоді?"
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0007",
+            "en": "Finish the damn thing! C’mon, at this point you’re like—morally obligated.",
+            "ru_native": "Дочитай! В сложившейся ситуации ты просто обязан это сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дочитай ту кляту штуку! Тепер ти типу морально зобов’язаний."
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0008",
+            "en": "You know what? At this point you might as well keep it.",
+            "ru_native": "Знаешь, раз такое дело, можешь ее себе оставить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш що? У такому разі ти все одно можеш залишити книгу собі."
+        },
+        {
+            "tag": "GLOB.CONVO2_RILEY_0009",
+            "en": "Make the library really learn the lesson.",
+            "ru_native": "Преподашь урок самой библиотеке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай бібліотека засвоїть урок."
+        }
+    ]
+}

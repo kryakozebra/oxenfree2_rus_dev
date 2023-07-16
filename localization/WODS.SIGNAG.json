@@ -1,0 +1,150 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WODS.SIGNAG",
+    "entries": [
+        {
+            "tag": "WODS.SIGNAG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WODS.SIGNAG_CHOICE_0000_OPTION_0000",
+            "en": "It means elk, actually.",
+            "ru_native": "Вообще-то, это значит «лось».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді, це означає лось."
+        },
+        {
+            "tag": "WODS.SIGNAG_CHOICE_0000_OPTION_0001",
+            "en": "Oh.",
+            "ru_native": "О.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А-а."
+        },
+        {
+            "tag": "WODS.SIGNAG_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WODS.SIGNAG_CHOICE_0001_OPTION_0000",
+            "en": "Wapiti!",
+            "ru_native": "Вапити!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вапіті»!"
+        },
+        {
+            "tag": "WODS.SIGNAG_EVELYN_0000",
+            "en": "Oh, good, you're at the trail marker. You're going the right way.",
+            "ru_native": "О, хорошо, ты у указателя. Ты идешь правильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, добре, ти біля позначки про стежку. Ти йдеш правильною дорогою."
+        },
+        {
+            "tag": "WODS.SIGNAG_JACOB_0000",
+            "en": "\"Wapiti\" means deer.",
+            "ru_native": "«Вапити» значит «олень».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вапіті» означає «олень»."
+        },
+        {
+            "tag": "WODS.SIGNAG_JACOB_0001",
+            "en": "Just… in case you didn't know.",
+            "ru_native": "Если вдруг ты не знала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На випадок… якщо ти не в курсі."
+        },
+        {
+            "tag": "WODS.SIGNAG_JACOB_0002",
+            "en": "Oh. Cool. I didn't know that.",
+            "ru_native": "О. Круто. Я не знал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О. Круто. Я цього не знав."
+        },
+        {
+            "tag": "WODS.SIGNAG_RILEY_0000",
+            "en": "\"Wapiti Trail. Day Hiking and Biking Only. Sunrise to Sunset.\"",
+            "ru_native": "«Тропа вапити. Только дневные пешие и велосипедные прогулки. От восхода до заката».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вапіті Трейл. Лише денні піші та велосипедні прогулянки. <br>Від сходу до заходу сонця»."
+        },
+        {
+            "tag": "WODS.SIGNAG_RILEY_0001",
+            "en": "Actually, it means elk. Elk are mountainous, deer are grasslands.",
+            "ru_native": "Вообще-то, лось. Лоси живут в горах, а олени – в лугах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді, це означає лось. Лосі — у лісах, олені — на лугах."
+        },
+        {
+            "tag": "WODS.SIGNAG_RILEY_0002",
+            "en": "And wapiti's an Americanization of a Cree word. For elk.",
+            "ru_native": "А «вапити» – это американизированный вариант слова «лось» на языке кри.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А «Вапіті» — це американізація слова «крі». Що означає «лось»."
+        },
+        {
+            "tag": "WODS.SIGNAG_RILEY_0003",
+            "en": "Oh. Uh, interesting.",
+            "ru_native": "О. Интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оу. Ем, цікаво."
+        },
+        {
+            "tag": "WODS.SIGNAG_RILEY_0004",
+            "en": "Wapiti's a fun word to say…",
+            "ru_native": "«Вапити» – забавное слово...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вапіті» — це смішне слово…"
+        },
+        {
+            "tag": "WODS.SIGNAG_RILEY_0005",
+            "en": "Wapiti!",
+            "ru_native": "Вапити!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вапіті»!"
+        },
+        {
+            "tag": "WODS.SIGNAG_RILEY_0006",
+            "en": "And I'm done.",
+            "ru_native": "И все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І все."
+        }
+    ]
+}

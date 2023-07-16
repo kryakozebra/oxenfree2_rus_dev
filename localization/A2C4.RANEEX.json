@@ -1,0 +1,105 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.RANEEX",
+    "entries": [
+        {
+            "tag": "A2C4.RANEEX_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.RANEEX_CHOICE_0000_OPTION_0000",
+            "en": "Maybe we’re near an exit.",
+            "ru_native": "Может, рядом выход.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вихід має бути поруч."
+        },
+        {
+            "tag": "A2C4.RANEEX_CHOICE_0000_OPTION_0001",
+            "en": "Super strange.",
+            "ru_native": "Очень странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже дивно."
+        },
+        {
+            "tag": "A2C4.RANEEX_JACOB_0000",
+            "en": "Radio sounds good here, too.",
+            "ru_native": "Тут радио тоже хорошо ловит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут теж добре ловить."
+        },
+        {
+            "tag": "A2C4.RANEEX_JACOB_0001",
+            "en": "Maybe we are near an—a—something—a gap in the stone wall?",
+            "ru_native": "Может, неподалеку есть какой-то проем в камне?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, ми неподалік від якоїсь прогалини в стіні?"
+        },
+        {
+            "tag": "A2C4.RANEEX_JACOB_0002",
+            "en": "Huh. Radio sounds good! Reception should be melted garbage down here.",
+            "ru_native": "Радио ловит! Хотя связь здесь должна быть паршивее некуда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хех, а непогано ловить! Хоча тут зв’язку майже нема, і радіо має шипіти."
+        },
+        {
+            "tag": "A2C4.RANEEX_JACOB_0003",
+            "en": "That doesn’t make any sense.",
+            "ru_native": "Ничего не понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось я не розумію."
+        },
+        {
+            "tag": "A2C4.RANEEX_JACOB_0004",
+            "en": "But hey, add it to the list.",
+            "ru_native": "Хотя уже не привыкать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча… це мій звичайний стан."
+        },
+        {
+            "tag": "A2C4.RANEEX_JACOB_0005",
+            "en": "Uh, I guess?",
+            "ru_native": "Может быть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно?"
+        },
+        {
+            "tag": "A2C4.RANEEX_RILEY_0000",
+            "en": "Well… maybe we’re near an exit? Or a… hole?",
+            "ru_native": "Может, рядом выход? Или просто дыра?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То може… вихід близько? Чи якийсь отвір?"
+        },
+        {
+            "tag": "A2C4.RANEEX_RILEY_0001",
+            "en": "Yeah. Super strange.",
+            "ru_native": "Да. Очень странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, ну дуже дивно."
+        }
+    ]
+}

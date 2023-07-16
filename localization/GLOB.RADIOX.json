@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.RADIOX",
+    "entries": [
+        {
+            "tag": "GLOB.RADIOX_JACOB_0000",
+            "en": "I know it was working back near the elevator…",
+            "ru_native": "Знаю, у подъемника оно сработало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що поруч із підйомником воно працювало…"
+        },
+        {
+            "tag": "GLOB.RADIOX_JACOB_0001",
+            "en": "…but something tells me that was an outlier. I wouldn’t count on it working again.",
+            "ru_native": "Но что-то мне говорит, это исключение. Я бы не рассчитывал что-то тут поймать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Але щось говорить мені, що то було виключення. Не варто<br>розраховувати на те, що воно знову працюватиме."
+        }
+    ]
+}

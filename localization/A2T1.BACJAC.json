@@ -1,0 +1,204 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.BACJAC",
+    "entries": [
+        {
+            "tag": "A2T1.BACJAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.BACJAC_CHOICE_0000_OPTION_0000",
+            "en": "Let’s keep going.",
+            "ru_native": "Идем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пішли далі."
+        },
+        {
+            "tag": "A2T1.BACJAC_CHOICE_0000_OPTION_0001",
+            "en": "What was with the weird stones?",
+            "ru_native": "Что это за странные камни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за дивне каміння?"
+        },
+        {
+            "tag": "A2T1.BACJAC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.BACJAC_CHOICE_0001_OPTION_0000",
+            "en": "How the Hell should I know?",
+            "ru_native": "Мне-то откуда знать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки, у біса, мені знати?"
+        },
+        {
+            "tag": "A2T1.BACJAC_CHOICE_0001_OPTION_0001",
+            "en": "Uh, it was black.",
+            "ru_native": "Черные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, воно було чорним."
+        },
+        {
+            "tag": "A2T1.BACJAC_CHOICE_0001_OPTION_0002",
+            "en": "Just nevermind.",
+            "ru_native": "Забей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто не зважай."
+        },
+        {
+            "tag": "A2T1.BACJAC_JACOB_0000",
+            "en": "Nice job! Looks like it’s still in okay condition.",
+            "ru_native": "Блеск! Выглядит еще в рабочем состоянии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Клас! Виглядає наче нормально."
+        },
+        {
+            "tag": "A2T1.BACJAC_JACOB_0001",
+            "en": "I worried the rain might’ve hurt it but uh…",
+            "ru_native": "Боялся, что его дождь испортил...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я непокоївся, що його дощ зіпсував…"
+        },
+        {
+            "tag": "A2T1.BACJAC_JACOB_0002",
+            "en": "Looks like it should work.",
+            "ru_native": "Вроде еще работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Начебто ще працює."
+        },
+        {
+            "tag": "A2T1.BACJAC_JACOB_0003",
+            "en": "Let’s find out.",
+            "ru_native": "Давай узнаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дізнаймося."
+        },
+        {
+            "tag": "A2T1.BACJAC_JACOB_0004",
+            "en": "It, uh, shouldn’t have been…?",
+            "ru_native": "Не должна была...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А так не повинно бути?"
+        },
+        {
+            "tag": "A2T1.BACJAC_JACOB_0005",
+            "en": "What kind of volcanic rock?",
+            "ru_native": "Какими именно камнями?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яким саме вулканічним камінням?"
+        },
+        {
+            "tag": "A2T1.BACJAC_JACOB_0006",
+            "en": "Was it black? Red?",
+            "ru_native": "Черными? Красными?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорним? Червоним?"
+        },
+        {
+            "tag": "A2T1.BACJAC_JACOB_0007",
+            "en": "What’d it look like?",
+            "ru_native": "Как они выглядели?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як воно виглядало?"
+        },
+        {
+            "tag": "A2T1.BACJAC_JACOB_0008",
+            "en": "Huh. That’s… weird.",
+            "ru_native": "Это странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ги. Це… дивно."
+        },
+        {
+            "tag": "A2T1.BACJAC_RILEY_0000",
+            "en": "C’mon, let’s, uh, keep going. We got work to do.",
+            "ru_native": "Давай, идем дальше. У нас полно работы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нумо, пішли. У нас багатенько роботи."
+        },
+        {
+            "tag": "A2T1.BACJAC_RILEY_0001",
+            "en": "Why was this thing surrounded by, uh, what looked like volcanic rock?",
+            "ru_native": "Почему эта штука окружена какими-то вулканическими камнями?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ця штука оточена якимось вулканічним камінням?"
+        },
+        {
+            "tag": "A2T1.BACJAC_RILEY_0002",
+            "en": "Oh geez, how the Hell should I know, Jacob, it was just… off.",
+            "ru_native": "Господи, мне-то откуда знать, Джейкоб? Просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, мені звідки знати, Джейкобе? Просто… каміння."
+        },
+        {
+            "tag": "A2T1.BACJAC_RILEY_0003",
+            "en": "It shouldn’t have been there.",
+            "ru_native": "Их там быть не должно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Його там не повинно бути."
+        },
+        {
+            "tag": "A2T1.BACJAC_RILEY_0004",
+            "en": "All I know is it was black. That’s all.",
+            "ru_native": "Черные. Больше ничего не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що каміння було чорним. Це все."
+        },
+        {
+            "tag": "A2T1.BACJAC_RILEY_0005",
+            "en": "Just… nevermind.",
+            "ru_native": "Ясно, забей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… не зважай."
+        }
+    ]
+}

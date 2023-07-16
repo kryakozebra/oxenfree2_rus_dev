@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.WADWAT",
+    "entries": [
+        {
+            "tag": "A2W2.WADWAT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.WADWAT_CHOICE_0000_OPTION_0000",
+            "en": "Suck it up.",
+            "ru_native": "Смирись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі."
+        },
+        {
+            "tag": "A2W2.WADWAT_CHOICE_0000_OPTION_0001",
+            "en": "I hate this.",
+            "ru_native": "Ненавижу это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу це."
+        },
+        {
+            "tag": "A2W2.WADWAT_JACOB_0000",
+            "en": "Man—oh God, this is cold.",
+            "ru_native": "Господи, холодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, як же холодно."
+        },
+        {
+            "tag": "A2W2.WADWAT_JACOB_0001",
+            "en": "Yikes.",
+            "ru_native": "Жуть какая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто жах."
+        },
+        {
+            "tag": "A2W2.WADWAT_JACOB_0002",
+            "en": "Ah, no y-you’d think I could, but turns out…",
+            "ru_native": "Это ты так думаешь, но оказалось....",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ти так думаєш, але виявляється…"
+        },
+        {
+            "tag": "A2W2.WADWAT_RILEY_0000",
+            "en": "You can handle a little rain water.",
+            "ru_native": "Немного дождевой воды тебе не помешает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи дощової води тобі не зашкодить."
+        },
+        {
+            "tag": "A2W2.WADWAT_RILEY_0001",
+            "en": "Yeah, no, this-this sucks. I hate this.",
+            "ru_native": "Нет, это отстой. Ненавижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це відстій. Ненавиджу."
+        }
+    ]
+}

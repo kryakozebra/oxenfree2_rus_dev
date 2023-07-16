@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "DOCK.BUSSTP",
+    "entries": [
+        {
+            "tag": "DOCK.BUSSTP_EVELYN_0000",
+            "en": "The bus stop? Yeah, I think so.",
+            "ru_native": "Автобусная-то? Кажется да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Автобусна зупинка? Схоже не те."
+        },
+        {
+            "tag": "DOCK.BUSSTP_JACOB_0000",
+            "en": "The ride’s at least pretty, though. Depending on the season.",
+            "ru_native": "Хотя бы виды красивые. Но зависит от времени года.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, поїздка нічогенька. Проте це добряче залежить від сезону."
+        },
+        {
+            "tag": "DOCK.BUSSTP_LESLIE_0000",
+            "en": "Uh, yes, I believe so. But, uh, I’d have to check my guidebook…",
+            "ru_native": "Вроде да. Но нужно свериться со справочником...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, ага. Але я б… однаково перевірила в довіднику…"
+        },
+        {
+            "tag": "DOCK.BUSSTP_RILEY_0000",
+            "en": "Is the bus stop here really the last until Washington?",
+            "ru_native": "Эта остановка и правда последняя перед Вашингтоном?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця автобусна зупинка справді остання до Вашингтону?"
+        },
+        {
+            "tag": "DOCK.BUSSTP_RILEY_0001",
+            "en": "Last stop till Washington, they said. An hour from any town, they said.",
+            "ru_native": "Последняя остановка перед Вашингтоном. Час пути до других городов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Остання зупинка до Вашингтону, казали мені.<br>Час їзди від будь-якого міста, казали вони мені."
+        },
+        {
+            "tag": "DOCK.BUSSTP_RILEY_0002",
+            "en": "I just cannot believe I forgot my headphones.",
+            "ru_native": "Как же я могла забыть наушники.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О ні, ну як я могла забути навушники."
+        }
+    ]
+}

@@ -1,0 +1,978 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S1.CHAAPP",
+    "entries": [
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0000",
+            "en": "Hey—hey, guys, wait up!",
+            "ru_native": "Эй, ребята, подождите!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Друзі, чекайте!"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0001",
+            "en": "Hey! Hey. [breathes] I thought it was you two.",
+            "ru_native": "Привет! Я так и подумал, что это вы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Гей [дихає] Я так і подумав, що то ви."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0002",
+            "en": "What are you, uh, what are you doing here?",
+            "ru_native": "Чем вы... Чем вы тут занимаетесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ви… Що ви тут робите?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0003",
+            "en": "Going for a late night swim?",
+            "ru_native": "Решили поплавать перед сном?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирішили поплавати перед сном?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0004",
+            "en": "I, uh, I know you’re not actually doing that.",
+            "ru_native": "Ладно, знаю, вы здесь не для плавания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, розумію, ви тут не для цього."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0005",
+            "en": "Oh really? Uh, why?",
+            "ru_native": "Серьезно? Зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно? Навіщо?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0006",
+            "en": "Yeah, that’s where I’m—that’s where I’m going, but, uh…",
+            "ru_native": "Да, я туда и... Туда и направлялся, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так я туди й… Я туди й ішов, але…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0007",
+            "en": "Seriously, what’s going on, you guys look shifty or something.",
+            "ru_native": "Ну правда, что происходит? Вы какие-то подозрительные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно, що відбувається? Ви такі серйозні."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0008",
+            "en": "Going home. I’m just up the way, but, uh…",
+            "ru_native": "Домой иду. Я живу прямо по дороге, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іду додому. Я живу там, але…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0009",
+            "en": "Oh, uh, that one? The, uh, canoe looking thing?",
+            "ru_native": "Вот эту? Похожую на каноэ?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оцю? Схожу на каное?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0010",
+            "en": "My uncle has the same model. I assume you don’t have the key for it.",
+            "ru_native": "У моего дяди такая же. Полагаю, ключа от нее у вас нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мого дядька така ж модель. Гадаю, ключа від неї у вас немає."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0011",
+            "en": "Right?",
+            "ru_native": "Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже так?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0012",
+            "en": "I mean—you’re stealing it. Not exactly a head-scratcher.",
+            "ru_native": "Вы ведь ее крадете. Тут и ежу понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви ж її крадете. Це ясно як Божий день."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0013",
+            "en": "But, look…",
+            "ru_native": "Смотрите...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, слухай…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0014",
+            "en": "Uh—no? Why would I?",
+            "ru_native": "Что... нет? Откуда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Для чого він мені?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0015",
+            "en": "But—actually, lucky for you…",
+            "ru_native": "Но, к счастью для вас...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але насправді… Вам пощастило…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0016",
+            "en": "Riley, for real, I will.",
+            "ru_native": "Райли, ну правда, я пойду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, ну правда, я піду."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0017",
+            "en": "Yeah, why would you? Well…",
+            "ru_native": "Действительно, откуда? Что ж...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, навіщо? Що ж…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0018",
+            "en": "I used to not believe in karma, but after tonight, I, uh, pretty much believe in everything so…",
+            "ru_native": "Я не верил в карму, но после сегодняшнего... Я верю почти во все, что есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не вірив у карму. Але після цього вечора я справді вірю у все, тож…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0019",
+            "en": "Gimme a second.",
+            "ru_native": "Дайте секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дай мені секунду."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0020",
+            "en": "Well… two and a half seconds.",
+            "ru_native": "Точнее две с половиной секунды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… дві з половиною секунди."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0021",
+            "en": "Giddy-up.",
+            "ru_native": "Готово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Готово."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0022",
+            "en": "I was an asshole! I’ve been an asshole to you, Gingerbread, and I was an asshole, tonight.",
+            "ru_native": "Я был говнюком! По отношению к тебе, Рыжий, да и в принципе весь день.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я був гівнюком! По відношенню до тебе, Рудий, та і взагалі весь день."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0023",
+            "en": "You tried to help me out back there at the Falls.",
+            "ru_native": "Вы пытались мне помочь у водопада.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви намагалися мені допомогти біля водоспадів."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0024",
+            "en": "I remember what happened. I’ll—I mean, I think I’ll always remember.",
+            "ru_native": "Я помню, что произошло. Думаю, этого мне никогда не забыть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пам’ятаю, що сталося. Гадаю, мені цього ніколи не забути."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0025",
+            "en": "So. You helped me out, I helped you.",
+            "ru_native": "Вот. Вы помогли мне, а я – вам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отож, ви допомогли мені, а я допоміг вам."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0026",
+            "en": "We’re even, now.",
+            "ru_native": "Теперь мы в расчете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер ми квити."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0027",
+            "en": "Okay?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0028",
+            "en": "Officially.",
+            "ru_native": "Официально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Офіційно."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0029",
+            "en": "Okay, well… agree to disagree.",
+            "ru_native": "Ладно, останемся при своем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, кожний залишається при своїй думці."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0030",
+            "en": "Or just disagree, take your pick.",
+            "ru_native": "Или твоем, если хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або при моїй, вирішуй сам."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0031",
+            "en": "I can’t solve all your problems, Riley. [chuckles] No one can.",
+            "ru_native": "Все твои проблемы мне не решить, Райли. Никому не решить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу вирішити всі твої проблеми, Райлі. [хихикає] Ніхто не може."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0032",
+            "en": "Hey, any time. Well… not any time.",
+            "ru_native": "Обращайтесь. Хотя... лучше не надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка. Хоча краще не треба."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0033",
+            "en": "Don’t be. It’s way easier than you think, but I’m not gonna spoil the magic.",
+            "ru_native": "Не стоит. Это гораздо проще, чем кажется, но открывать свои секреты я не буду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не варто. Це набагато простіше, ніж ти думаєш. Але я не псуватиму магії."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0034",
+            "en": "Oh, by the way, are you two dating?",
+            "ru_native": "Кстати, вы двое встречаетесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До речі, ви двоє зустрічаєтеся?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0035",
+            "en": "I had a bet with Violet.",
+            "ru_native": "Мы с Вайолет поспорили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з Вайолет закладалися."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0036",
+            "en": "One whole dollar.",
+            "ru_native": "На целый доллар.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На цілий долар."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0037",
+            "en": "But still.",
+            "ru_native": "Но все же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але все ж."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0038",
+            "en": "I don’t know! You’re like—old! Old people don’t hang out like this.",
+            "ru_native": "Не знаю! Вы, типа... старые! Старики не ходят парами просто так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю! Ви старі! Старі не ходять парами, як ви."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0039",
+            "en": "Well then.",
+            "ru_native": "Что ж.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, гаразд."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0040",
+            "en": "Okay, ha ha.",
+            "ru_native": "Ясно, ха-ха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха-ха."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0041",
+            "en": "Alright, well. Dang, I owe Violet some money. If I tell her.",
+            "ru_native": "Ясненько. Блин, теперь я должен Вайолет. Если расскажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Чорт, тепер я винен Вайолет гроші. Якщо я їй скажу."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0042",
+            "en": "Anyway, I’m sure I’ll see you two around. Camena’s a small town.",
+            "ru_native": "Ладно, уверен, что еще увидимся. Камена – маленький город.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як, упевнений, що ми ще побачимося. Камена — невелике містечко."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0043",
+            "en": "Just… I can’t promise I’ll wave if I do.",
+            "ru_native": "Но не обещаю, что поздороваюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але не обіцяю, що привітаюся."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0044",
+            "en": "See you later, Jacob!",
+            "ru_native": "Увидимся, Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще побачимося, Джейкобе!"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHARLIE_0045",
+            "en": "And I’m not, uh, into Olivia anymore. She’s, um—I just don’t think we’re right for each other?",
+            "ru_native": "И мне больше не нравится Оливия. Она... Короче, мы друг другу не подходим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені більше не подобається Олівія. Вона… я гадаю, ми не підходимо одне одному."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0000_OPTION_0000",
+            "en": "Stealing a boat.",
+            "ru_native": "Крадем лодку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Човен крадемо."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0000_OPTION_0001",
+            "en": "Go home, Charlie.",
+            "ru_native": "Иди домой, Чарли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди додому, Чарлі."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0000_OPTION_0002",
+            "en": "What are you doing?",
+            "ru_native": "Что ты тут делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ви робите?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0001_OPTION_0000",
+            "en": "Correct.",
+            "ru_native": "Верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правильно."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0001_OPTION_0001",
+            "en": "Do you?",
+            "ru_native": "А у тебя?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А у вас?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0001_OPTION_0002",
+            "en": "Seriously, go home.",
+            "ru_native": "Слушай, иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно, іди додому."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0002_OPTION_0000",
+            "en": "What are you doing?",
+            "ru_native": "Что ты делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти робиш?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0002_OPTION_0001",
+            "en": "Wait, stop!",
+            "ru_native": "Нет, стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій, зупинись!"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0003_OPTION_0000",
+            "en": "We’re not even.",
+            "ru_native": "Мы не в расчете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не квити."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0003_OPTION_0001",
+            "en": "Boat’s still locked up.",
+            "ru_native": "Лодка все еще на цепи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Човен усе ще припнутий."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0003_OPTION_0002",
+            "en": "Thank you.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0004_OPTION_0000",
+            "en": "No.",
+            "ru_native": "Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0004_OPTION_0001",
+            "en": "Hell no.",
+            "ru_native": "Еще чего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно ні."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0004_OPTION_0002",
+            "en": "We’re divorced.",
+            "ru_native": "Мы в разводе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми розлучені."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0005_OPTION_0000",
+            "en": "Ugh, annoying.",
+            "ru_native": "Раздражают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дратують."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0005_OPTION_0001",
+            "en": "He’ll be alright.",
+            "ru_native": "Он переживет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Переживе."
+        },
+        {
+            "tag": "A3S1.CHAAPP_CHOICE_0005_OPTION_0002",
+            "en": "We got a boat to borrow.",
+            "ru_native": "Пора брать лодку в долг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам ще треба позичити човен."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0000",
+            "en": "Oh no. That sounds like—",
+            "ru_native": "О нет. Это что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ні. Це схоже на…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0001",
+            "en": "Cause your friend, Olivia, has gone all the way over the rainbow.",
+            "ru_native": "Затем, что твоя подружка Оливия совсем поехала шифером.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На те, що твоя подруга, Олівія, зовсім із глузду з’їхала."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0002",
+            "en": "We’re taking the boat, kid, okay?",
+            "ru_native": "Мы забираем лодку, ясно, парень?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми забираємо човен, ясно, хлопче?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0003",
+            "en": "We’re borrowing a friend’s boat.",
+            "ru_native": "Мы одалживаем лодку друга.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми позичаємо човен друга."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0004",
+            "en": "Your friend, Olivia, has gone all the way over the rainbow.",
+            "ru_native": "Твоя подружка Оливия совсем поехала шифером.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя подруга, Олівія, зовсім із глузду з’їхала."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0005",
+            "en": "We have to get to Edwards Island, that’s all. Head home.",
+            "ru_native": "Мы едем на остров Эдвардса, вот и все. Иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам потрібно потрапити на острів Едвардса, от і все. Іди додому."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0006",
+            "en": "I mean…",
+            "ru_native": "Ну...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0007",
+            "en": "Yeah, no, no key.",
+            "ru_native": "Да, ключа нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Ні, немає ключа."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0008",
+            "en": "Uh, Charlie… why’d you do that for us?",
+            "ru_native": "Чарли... Почему ты нам помогаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, чому ти нам допомагаєш?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0009",
+            "en": "Wow. I’m actually impressed.",
+            "ru_native": "Ого. Я под впечатлением.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого. Я вражений."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0010",
+            "en": "Oh, you guys really thought that?",
+            "ru_native": "Вы правда так подумали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви що, справді так думали?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0011",
+            "en": "Yeah, dude, write that crossword answer in ink, that’s a solid no.",
+            "ru_native": "Да, чувак, и запиши это где-нибудь, чтоб не забыть. Твердое нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, чуваче, запиши це де-небудь, щоби не забути. Однозначно ні."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0012",
+            "en": "Oh yeah, total bloodbath. I mean, we almost cut the cat in half.",
+            "ru_native": "Настоящее кровопролитие. Чуть кошку не распилили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справжнє кровопролиття. Трохи кішку не розпиляли."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0013",
+            "en": "No. No, we’re not dating. You guys really thought that?",
+            "ru_native": "Нет. Нет, мы не встречаемся. Вы правда так подумали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Ні, не зустрічаємося. Ви справді так подумали?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0014",
+            "en": "Kids.",
+            "ru_native": "Дети.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Діти."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0015",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже так?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0016",
+            "en": "Can’t live with ‘em, can’t—",
+            "ru_native": "И жить тяжело, и пристрел...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І з ними тяжко, і без них…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0017",
+            "en": "Wait, that’s the other thing.",
+            "ru_native": "Нет, это не то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не те."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0018",
+            "en": "Yeah, well… I’m sure I was annoying, too, back then. Still am. Probably.",
+            "ru_native": "Ну... Уверен, я был таким же. Да и сейчас такой. Наверно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… я впевнений, що я також дратував. І досі дратую. Мабуть."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0019",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0020",
+            "en": "C’mon, we still need to figure out that lock combination.",
+            "ru_native": "Давай, еще нужно узнать комбинацию от замка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам ще треба дізнатися комбінацію замка."
+        },
+        {
+            "tag": "A3S1.CHAAPP_JACOB_0021",
+            "en": "Let’s check out Eva’s.",
+            "ru_native": "Посмотрим лодку Евы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивимося човен Єви."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0000",
+            "en": "We’re stealing a boat, Charlie, we appreciate the interest.",
+            "ru_native": "Мы крадем лодку, Чарли. Спасибо, что спросил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми крадемо човен, Чарлі. Дякую, що спитав."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0001",
+            "en": "Don’t worry about it, Charlie. Just get home.",
+            "ru_native": "Чарли, не забивай голову. Иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, не переймайся. Іди додому."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0002",
+            "en": "Never mind us, what are you doing out here?",
+            "ru_native": "О нас не переживай, ты сам-то что тут делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай на нас. Що ти тут робиш?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0003",
+            "en": "Bright kid. Very observant.",
+            "ru_native": "Молодец. Наблюдательный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правильно. Спостережливий."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0004",
+            "en": "Do you have the key for it?",
+            "ru_native": "А у тебя есть ключ?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе є ключ до нього?"
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0005",
+            "en": "Charlie, for real, go home.",
+            "ru_native": "Чарли, ну правда, иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, справді, іди додому."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0006",
+            "en": "Uh, Charlie… what are you—",
+            "ru_native": "Чарли... Что ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, що ти…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0007",
+            "en": "Wait, no—stop—",
+            "ru_native": "Постой, нет... Стой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій, постривай…"
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0008",
+            "en": "Uh, we’re not even close to even, kid. We are wildly asymmetrical…",
+            "ru_native": "Парень, мы и близко не в расчете. Должок за тобой еще весомый...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопче, ми ще далеко не квити. За тобою величезний борг."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0009",
+            "en": "I mean, okay, but the boat is still locked to the harbor.",
+            "ru_native": "Спасибо, конечно, но лодка все еще на цепи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, але човен усе ще припнутий."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0010",
+            "en": "Charlie. Thanks.",
+            "ru_native": "Чарли. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, дякую."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0011",
+            "en": "Uh—no. No we are not.",
+            "ru_native": "Эм... нет. Не встречаемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Ні, не зустрічаємося."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0012",
+            "en": "Good God no. Just—no. Absolutely no.",
+            "ru_native": "Не дай бог. Нет. Категорически нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже милостивий, ні. Зовсім ні. Абсолютно."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0013",
+            "en": "Divorced, actually. I got the house, he got my shoes.",
+            "ru_native": "Мы в разводе. Я забрала дом, а он – мою обувь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розлучені. Я забрала будинок, він — моє взуття."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0014",
+            "en": "Ugh… pretty annoying.",
+            "ru_native": "Да, раздражают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дратують."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0015",
+            "en": "Eh, he’ll be fine. They usually are.",
+            "ru_native": "Он переживет. Дети обычно такие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він переживе. Діти такі і є."
+        },
+        {
+            "tag": "A3S1.CHAAPP_RILEY_0016",
+            "en": "Whatever. We got a boat to borrow.",
+            "ru_native": "Ладно. Надо лодку в долг брать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже. Нам ще треба позичити човен."
+        }
+    ]
+}

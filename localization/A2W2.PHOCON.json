@@ -1,0 +1,753 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.PHOCON",
+    "entries": [
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0000_OPTION_0000",
+            "en": "No fires.",
+            "ru_native": "Никаких пожаров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жодних пожеж."
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0000_OPTION_0001",
+            "en": "It’s not an electrical storm…",
+            "ru_native": "Это не гроза...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не гроза…"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0000_OPTION_0002",
+            "en": "Help! Ghosts and time travel!",
+            "ru_native": "Помогите! Привидения и путешествия во времени!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Допоможіть! Привиди й подорожі в часі!"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0001_OPTION_0000",
+            "en": "Riley.",
+            "ru_native": "Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі."
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0001_OPTION_0001",
+            "en": "Riley and Jacob.",
+            "ru_native": "Райли и Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі та Джейкоб."
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0001_OPTION_0002",
+            "en": "Why do you want to know?",
+            "ru_native": "А почему вы спрашиваете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ви запитуєте?"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0002_OPTION_0000",
+            "en": "I think?",
+            "ru_native": "Наверно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно?"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0002_OPTION_0001",
+            "en": "Not sure.",
+            "ru_native": "Трудно сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Важко сказати."
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0003_OPTION_0000",
+            "en": "We need help.",
+            "ru_native": "Нам нужна помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам потрібна допомога."
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0003_OPTION_0001",
+            "en": "Something's going on.",
+            "ru_native": "Кое-что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось відбувається."
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0003_OPTION_0002",
+            "en": "Stay safe.",
+            "ru_native": "Будьте осторожны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будьте обережні."
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0004_OPTION_0000",
+            "en": "So you’ll help?",
+            "ru_native": "Значит, вы поможете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То ви допоможете?"
+        },
+        {
+            "tag": "A2W2.PHOCON_CHOICE_0004_OPTION_0001",
+            "en": "We’re not crazy!",
+            "ru_native": "Мы не спятили!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не божевільні!"
+        },
+        {
+            "tag": "A2W2.PHOCON_JACOB_0000",
+            "en": "Riley, tell her what’s going on.",
+            "ru_native": "Райли, расскажи ей, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, розкажи їй, що відбувається."
+        },
+        {
+            "tag": "A2W2.PHOCON_JACOB_0001",
+            "en": "So… what’s going on?",
+            "ru_native": "Так... что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… що відбувається?"
+        },
+        {
+            "tag": "A2W2.PHOCON_JACOB_0002",
+            "en": "Is she…",
+            "ru_native": "Она…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона…"
+        },
+        {
+            "tag": "A2W2.PHOCON_JACOB_0003",
+            "en": "Is she going to do something?",
+            "ru_native": "Она собирается что-нибудь делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона збирається щось робити?"
+        },
+        {
+            "tag": "A2W2.PHOCON_JACOB_0004",
+            "en": "Okay, well… [sighs] good enough, I guess.",
+            "ru_native": "Ну, ладно... Это хорошо, наверное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ну… [зітхає] Це, напевно, добре."
+        },
+        {
+            "tag": "A2W2.PHOCON_JACOB_0005",
+            "en": "Maybe?",
+            "ru_native": "Возможно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що думаєш?"
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0000",
+            "en": "Uh, no—no fires, no. Not that I’ve seen, anyway.",
+            "ru_native": "О, нет... никаких пожаров. По крайней мере, я не видела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні… жодних пожеж. Принаймні, я не бачила."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0001",
+            "en": "Look, uh, Shelley? I know what you’re talking about, but it’s—it’s not an electrical storm.",
+            "ru_native": "Послушайте, Шелли? Я знаю, о чем вы, но это... это не гроза.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, Шеллі? Я не знаю, про що ви, але… це не гроза."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0002",
+            "en": "Something else is going on, and… I don’t know how much I can get into it without you just hanging up—",
+            "ru_native": "Происходит что-то другое, и... Не знаю, сколько я<br>успею рассказать до того, как вы повесите трубку...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відбувається щось інше, і… Не знаю, скільки<br>я встигну розповісти до того, як ви кинете слухавку…"
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0003",
+            "en": "—but—",
+            "ru_native": "Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0004",
+            "en": "Fires? No. No fires, Shelley, but I have some bad news.",
+            "ru_native": "Пожары? Нет. Никаких пожаров, Шелли, но у меня плохие новости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пожежі? Ні. Жодних пожеж, Шеллі, але в мене погані новини."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0005",
+            "en": "There’s… ghosts. And what I can only sum up as the… imminent collapse of the space-time continuum.",
+            "ru_native": "Это… привидения. И то, что я могу описать только как...<br>неизбежный коллапс пространственно-временного континуума.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… привиди. І те, що я можу описати лише як…<br>неминучий колапс просторово-часового континууму."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0006",
+            "en": "Uh, Riley. Riley Poverly. I grew up here.",
+            "ru_native": "Эм, Райли. Райли Поверли. Я тут выросла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, Райлі. Райлі Поверлі. Я тут виросла."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0007",
+            "en": "Uh, Riley and Jacob. We’re both—or were both residents—Jacob still is.",
+            "ru_native": "Эм, Райли и Джейкоб. Мы тут оба жили, то есть Джейкоб и сейчас живет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, Райлі та Джейкоб. Ми обидва тут жили, тобто… Джейкоб і досі тут живе."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0008",
+            "en": "Uh, can I ask why do you want to know?",
+            "ru_native": "Эм, а почему вы спрашиваете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, а чому ви запитуєте?"
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0009",
+            "en": "I… think? Maybe? She says she’s been getting other calls…",
+            "ru_native": "Ну... Наверное? Она сказала, ей не только мы звонили...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… здається? Вона сказала, що не тільки ми їй телефонували…"
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0010",
+            "en": "Uh, to be honest, I’m not entirely sure. She says she’s been getting other calls.",
+            "ru_native": "Хм, честно говоря, я не уверена. Она сказала, что ей не только мы звонили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, чесно, я не впевнена. Вона сказала, що не тільки ми їй телефонували."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0011",
+            "en": "Look, if you can help, we need it.",
+            "ru_native": "Слушайте, нам нужна ваша помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, нам потрібна ваша допомога."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0012",
+            "en": "It would take too long to explain but there are radio frequencies being broadcasted… and they’re—they’re dangerous.",
+            "ru_native": "Долго объяснять, но есть радиочастоты, и они… они опасны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Довго пояснювати, але є радіочастоти, і вони… небезпечні."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0013",
+            "en": "We’re trying to disrupt them…",
+            "ru_native": "Мы пытаемся их заглушить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми намагаємося заглушити їх…"
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0014",
+            "en": "Look, something’s going on. There are… people trying to open a… portal or something.",
+            "ru_native": "Послушайте, кое-что происходит. Есть... люди,<br>которые хотят открыть… портал или типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, щось відбувається. Є… люди, які хочуть відчинити… портал чи щось таке."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0015",
+            "en": "It’s just—it’s impossible to explain but just trust me.",
+            "ru_native": "Это просто... не объяснить, просто поверьте мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це важко пояснити, просто повірте мені."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0016",
+            "en": "Just… stay safe. Stay inside, wherever you are. It’s dangerous out here.",
+            "ru_native": "Будьте осторожны. Не выходите наружу. Тут опасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будьте обережні. Не виходьте надвір. Там небезпечно."
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0017",
+            "en": "So you’ll help us out?",
+            "ru_native": "Значит, вы нам поможете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То ви нам допоможете?"
+        },
+        {
+            "tag": "A2W2.PHOCON_RILEY_0018",
+            "en": "You see?! We’re not crazy!",
+            "ru_native": "Видите?! Мы не спятили!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бачите?! Ми не божевільні!"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0000",
+            "en": "I’m getting a few scattered reports of an electrical storm in your area and wanted to check if any fires have started.",
+            "ru_native": "Я получила несколько сообщений о том, что в вашем<br>регионе гроза, и хотела проверить, не начались ли пожары.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я отримала кілька повідомлень про те, що у вашому регіоні гроза,<br>і хотіла перевірити, чи не почалися пожежі."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0001",
+            "en": "Have you seen anything?",
+            "ru_native": "Вы ничего не видели?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви нічого не бачили?"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0002",
+            "en": "And is Local 43 on standby?",
+            "ru_native": "Сорок третий в режиме ожидания?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сорок третій у режимі очікування?"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0003",
+            "en": "Okay. Good.",
+            "ru_native": "Ладно. Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, добре."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0004",
+            "en": "There’s also… [sigh] how do I put this? There’s been other notices of strange phenomena—",
+            "ru_native": "Еще поступили... м-м, как бы сказать? Сообщения о странных явлениях...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще я отримала… гм, як би мовити? Повідомлення про дивні явища…"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0005",
+            "en": "Other, um, activity.",
+            "ru_native": "Иной активности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іншої активності."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0006",
+            "en": "But uh, first, can I ask who I’m speaking with?",
+            "ru_native": "Но можно сперва узнать, с кем я говорю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але можна спершу дізнатися, з ким я розмовляю?"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0007",
+            "en": "Okay, slow down. First, can I ask who I’m speaking with?",
+            "ru_native": "Ладно, помедленнее. Можно сначала узнать, с кем я говорю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, повільніше. Можна спершу дізнатися, з ким я розмовляю?"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0008",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0009",
+            "en": "Still there?",
+            "ru_native": "Вы еще тут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви ще тут?"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0010",
+            "en": "Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0011",
+            "en": "Can I ask who am I speaking with?",
+            "ru_native": "С кем я говорю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна дізнатися, з ким я розмовляю?"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0012",
+            "en": "Well I heard your friend call you Riley, so I’m going to go with that.",
+            "ru_native": "Буду звать тебя «Райли». Я слышала, твой друг тебя так называл.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я чула, що твій друг називав тебе Райлі, тому я теж буду так до тебе звертатися."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0013",
+            "en": "So… Riley. There aren’t any fires. That’s good.",
+            "ru_native": "Итак... Райли. Никаких пожаров нет. Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… Райлі. Пожеж немає. Це добре."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0014",
+            "en": "So… Riley. It’s not a storm. And something \"else\" is going on. Okay.",
+            "ru_native": "Итак… Райли. Это не гроза. И происходит «кое-что еще». Окей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… Райлі. Це не гроза. І відбувається «ще щось». Гаразд."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0015",
+            "en": "I would normally write this up as tomfoolery, but… I’ve been getting too many off-color calls tonight.",
+            "ru_native": "Обычно я бы сочла это за глупую шутку, но… этой<br>ночью я получила слишком много странных звонков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зазвичай я б подумала, що це якийсь жарт, але…<br>сьогодні я отримала занадто багато дивних дзвінків."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0016",
+            "en": "So… Riley. There are no fires. But you say there’s… ghosts.",
+            "ru_native": "Итак... Райли. Пожаров нет. Но ты говоришь, что есть... привидения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… Райлі. Пожеж немає. Але ти кажеш, що є… привиди."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0017",
+            "en": "I have to go check something out, but… if you have a walkie? I’m on 1.",
+            "ru_native": "Мне надо пойти кое-что проверить, но... у вас есть рация? Я на 1.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені треба піти дещо перевірити, але… у вас є рація? Я на 1."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0018",
+            "en": "I’ll put out a ping in just a moment. Okay?",
+            "ru_native": "Я свяжусь с вами через минуту. Хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зв’яжуся з вами за хвилинку. Добре?"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0019",
+            "en": "Talk to you in a second.",
+            "ru_native": "Поговорим через минуту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговоримо за хвилину."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0020",
+            "en": "What’s not so good is that I’ve been getting a lot of other off-color calls tonight.",
+            "ru_native": "Плохо, что я продолжаю получать слишком много... так сказать, сомнительных звонков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погано, що я продовжую отримувати занадто багато… так би мовити, дивних дзвінків."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0021",
+            "en": "It’s become a bit of an unsettling trend.",
+            "ru_native": "Это становится тревожной тенденцией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це стає тривожною тенденцією."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0022",
+            "en": "And I’d like to stamp it out—whatever it is—before it gets any worse.",
+            "ru_native": "И я хочу прекратить это – что бы это ни было – пока не стало хуже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я хочу припинити це — що б це не було — доки не стало гірше."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0023",
+            "en": "Sooner than later.",
+            "ru_native": "Очень интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рано чи пізно."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0024",
+            "en": "Much sooner.",
+            "ru_native": "Очень-преочень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще рано."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0025",
+            "en": "Yeah, I don’t know anything about that stuff.",
+            "ru_native": "Да, я ничего об этом не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я нічогісінько про це не знаю."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0026",
+            "en": "But… that doesn’t necessarily mean I can’t help.",
+            "ru_native": "Но... это не значит, что я не могу помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… це не означає, що я не можу допомогти."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0027",
+            "en": "Well… I trust that you <i>think</i> you’re telling me the truth.",
+            "ru_native": "Ну… Я верю, что вы думаете, что говорите правду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Я вірю, що ви <i>думаєте</i>, що кажете правду."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0028",
+            "en": "Well, unfortunately I can’t stay in just yet.",
+            "ru_native": "Ну, к сожалению, я не могу не выходить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, на жаль, я не можу не виходити."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0029",
+            "en": "What’s not so good is that I’ve been getting too many… let’s call 'em off-color calls tonight.",
+            "ru_native": "Плохо, что я продолжаю получать слишком много... так сказать, сомнительных звонков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погано, що я продовжую отримувати занадто багато… так би мовити, дивних дзвінків."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0030",
+            "en": "And… I’ve been hearing other things on my patrols.",
+            "ru_native": "И... я слышу странные вещи во время обходов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… я чула ще дещо під час своїх патрулювань."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0031",
+            "en": "Stuff I would normally chalk up to coffee-induced, auditory-hallucinations, but…",
+            "ru_native": "Обычно я бы подумала, что это слуховые галлюцинации из-за кофе, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зазвичай думаю, що мені ввижається, бо я п’ю занадто багато кави, але…"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0032",
+            "en": "You couple these with the phone calls....",
+            "ru_native": "Если прибавить звонки....",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо до цього додати ті телефонні дзвінки…"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0033",
+            "en": "It’s been an interesting night, to say the least.",
+            "ru_native": "Интересная ночка выдалась, мягко говоря.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Словом, цікава видалася нічка."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0034",
+            "en": "<i>Real</i> interesting.",
+            "ru_native": "Очень интересная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дійсно цікава."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0035",
+            "en": "Times two.",
+            "ru_native": "Дважды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікава-цікава."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0036",
+            "en": "I’ll do what I can, but it’s not like park rangers are exactly outfitted for trouble gear-wise.",
+            "ru_native": "Я сделаю все, что в моих силах, но у рейнджеров не особо много снаряжения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зроблю все, що в моїх силах, але наглядачі парку не споряджені для такого."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0037",
+            "en": "Hell, we have to provide our own pens.",
+            "ru_native": "Черт, нам даже ручки не выдают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, ми навіть ручки самі купуємо."
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0038",
+            "en": "Or you <i>are</i> and so am I, but…",
+            "ru_native": "Или мы все вместе спятили, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або ми разом з’їхали з глузду…"
+        },
+        {
+            "tag": "A2W2.PHOCON_SHELLEY_0039",
+            "en": "We’ll cross that bridge, so to speak. So, look...",
+            "ru_native": "Будем решать проблемы по мере поступления. Так, смотрите...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, до цього ми ще повернемося. А зараз дивіться…"
+        }
+    ]
+}

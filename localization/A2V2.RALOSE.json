@@ -1,0 +1,168 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2V2.RALOSE",
+    "entries": [
+        {
+            "tag": "A2V2.RALOSE_JACOB_0000",
+            "en": "Yeah, I think Maggie actually had something to do with these? I’m not… entirely sure, though.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, я думаю, что Мэгги действительно имела к ним какое-то отношение? Хотя я... не совсем уверен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, Меггі знала, що з цим робити? Я не… не до кінця певний."
+        },
+        {
+            "tag": "A2V2.RALOSE_JACOB_0001",
+            "en": "Let’s try it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай попробуем это сделать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуймо."
+        },
+        {
+            "tag": "A2V2.RALOSE_JACOB_0002",
+            "en": "Yeah, I think Maggie actually had something to do with these? I’m not… entirely sure, though.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, я думаю, что Мэгги действительно имела к ним какое-то отношение? Хотя я... не совсем уверен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, Меггі знала, що з цим робити? Я не… не до кінця певний."
+        },
+        {
+            "tag": "A2V2.RALOSE_JACOB_0003",
+            "en": "I have full faith you’ll figure it out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я полностью верю, что ты разберешься с этим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я впевнений на 100%, що ти розберешся."
+        },
+        {
+            "tag": "A2V2.RALOSE_JACOB_0004",
+            "en": "Well, some faith.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, некоторая вера.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, на 70%"
+        },
+        {
+            "tag": "A2V2.RALOSE_JACOB_0005",
+            "en": "That’s just like the lock we saw over in Garland. Your radio ain’t gonna cut it, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это совсем как замок, который мы видели в Гарланде. Твоя рация не поможет, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на замок, який ми бачили у Гарленді. Твоє радіо тут не впорається, але…"
+        },
+        {
+            "tag": "A2V2.RALOSE_JACOB_0006",
+            "en": "…Parentage does their radio broadcasts from here, maybe they got some funky junk sitting around.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ...Parentage ведет свои радиопередачи отсюда, может быть, у них есть какой-нибудь прикольный хлам.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Звідси Парентаж транслює радіопередачі. Можливо, тут є щось цікавеньке."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0000",
+            "en": "Ah-ha – see? I knew the radio from upstairs would come in handy.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ах-ха - видишь? Я знал, что рация сверху пригодится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага! Бачиш? Знала ж, що радіо з верхнього поверху знадобиться."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0001",
+            "en": "There’s a radio lock on the panel here. It’s old military tech from like the 50’s.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Здесь на панели есть радиозамок. Это старая военная техника примерно 50-х годов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На панелі стоїть радіозамок. Стара військова техніка 50-х років."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0002",
+            "en": "They use alternate frequency RF signals to control the deadbolt.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они используют радиочастотные сигналы переменной частоты для управления засовом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони послуговуються іншим радіочастотним сигналом, щоби керувати засувом."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0003",
+            "en": "But we can use this radio with its broader range to tune in its code and unlock it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но мы можем использовать это радио с его более широким диапазоном, чтобы подстроиться под его код и разблокировать его.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ми можемо використати це радіо з більшим діапазоном,<br>щоб налаштуватися і відкрити замок."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0004",
+            "en": "Uh, theoretically.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, теоретически.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теоретично."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0005",
+            "en": "There’s a radio lock on the panel here. It’s old military tech from like the 50’s.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Здесь на панели есть радиозамок. Это старая военная техника примерно 50-х годов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На панелі стоїть радіозамок. Стара військова техніка 50-х років."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0006",
+            "en": "They use alternate frequency RF signals to control the deadbolt.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они используют радиочастотные сигналы переменной частоты для управления засовом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони послуговуються іншим радіочастотним сигналом, щоби керувати засувом."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0007",
+            "en": "If we had a radio with a broader range we could tune in its code and unlock it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Если бы у нас была рация с более широким диапазоном, мы могли бы настроить ее код и разблокировать ее.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було б у нас радіо із ширшим діапазоном,<br>ми б налаштувалися за кодом та відкрили його."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0008",
+            "en": "Uh, theoretically.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, теоретически.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теоретично."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0009",
+            "en": "Okay, here we go. I should just have to tune into the lock’s frequency and it’ll pop right open.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну вот, началось. Мне нужно просто настроиться на частоту замка, и он сразу же откроется.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, нічого складного. Я маю налаштуватися на частоту замка, і він відкриється."
+        },
+        {
+            "tag": "A2V2.RALOSE_RILEY_0010",
+            "en": "Not that I’ve ever used one of these before…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не то чтобы я раньше пользовался таким...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не те щоби я коли-небудь таким користувалася…"
+        }
+    ]
+}

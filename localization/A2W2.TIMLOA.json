@@ -1,0 +1,321 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.TIMLOA",
+    "entries": [
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, we’re stuck.",
+            "ru_native": "Да, мы застряли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ми застрягли."
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0000_OPTION_0001",
+            "en": "I think the phone’s gonna ring.",
+            "ru_native": "Думаю, зазвонит телефон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, зараз задзвонить телефон."
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0000_OPTION_0002",
+            "en": "You’re a little slow.",
+            "ru_native": "Ты немного тормозишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти трохи повільний."
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0001_OPTION_0000",
+            "en": "Told you so.",
+            "ru_native": "Я же говорила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ж казала."
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0001_OPTION_0001",
+            "en": "It’s them.",
+            "ru_native": "Это они.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вони."
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0001_OPTION_0002",
+            "en": "Look for a way out.",
+            "ru_native": "Ищи выход.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукай вихід."
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0002_OPTION_0000",
+            "en": "You answer this time.",
+            "ru_native": "Теперь ты бери трубку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер ти відповідай."
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0002_OPTION_0001",
+            "en": "It’s them.",
+            "ru_native": "Это они.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вони."
+        },
+        {
+            "tag": "A2W2.TIMLOA_CHOICE_0002_OPTION_0002",
+            "en": "Look for a way out.",
+            "ru_native": "Ищи выход.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукай вихід."
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0000",
+            "en": "Awesome. That has to be for the… gate—? Hold on…",
+            "ru_native": "Отлично. Это, должно быть, ключ от ворот? Погоди...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово. Мабуть, це ключ від воріт… Стривай…"
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0001",
+            "en": "Cool. Maybe it’s for a… desk... here—? Hold on…",
+            "ru_native": "Круто. Может, это ключ от стола? Погоди...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто. Можливо, це ключ від столу? Стривай…"
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0002",
+            "en": "I’m—this—is this another loop thing?",
+            "ru_native": "Я... это что, очередная петля времени?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0003",
+            "en": "I feel like we’re going in circles.",
+            "ru_native": "Кажется, мы ходим по кругу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ми ходимо по колу."
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0004",
+            "en": "Or… that you’ve found the key before…",
+            "ru_native": "Или… ты уже находила этот ключ раньше...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи… ти вже знаходила цей ключ раніше…"
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0005",
+            "en": "Right? Or…",
+            "ru_native": "Верно? Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? Чи…"
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0006",
+            "en": "Sorry, I’m just—",
+            "ru_native": "Прости, я просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я просто…"
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0007",
+            "en": "Is… that…",
+            "ru_native": "Это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це…"
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0008",
+            "en": "Someone we want to talk to?",
+            "ru_native": "Кто-то, с кем мы хотим поговорить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось, з ким ми хочемо поговорити?"
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0009",
+            "en": "That you did.",
+            "ru_native": "Как ты сказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти й казала."
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0010",
+            "en": "Or not…",
+            "ru_native": "Или нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи ні…"
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0011",
+            "en": "Uh, no, no that’s okay. I like my little corner of the responsibility shop over here—",
+            "ru_native": "Эм, нет, все... все в порядке. Мне моя роль нравится...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, ні, усе… усе гаразд. Мені подобається моя роль…"
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0012",
+            "en": "Just… keeping morale up, you know. Sorry.",
+            "ru_native": "Просто... морально тебя поддерживать. Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, знаєш… морально тебе підтримувати. Вибач."
+        },
+        {
+            "tag": "A2W2.TIMLOA_JACOB_0013",
+            "en": "I’m… wait, are we… stuck… in something?",
+            "ru_native": "Я... постой, мы... типа... застряли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… стривай, ми… застрягли… десь?"
+        },
+        {
+            "tag": "A2W2.TIMLOA_RILEY_0000",
+            "en": "Yeah. Uh, we’re—I-I-I think we’re stuck—time’s breaking down.",
+            "ru_native": "Да. Мы… Думаю, мы застряли... время ломается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Ми… Я… думаю, ми застрягли… час ламається."
+        },
+        {
+            "tag": "A2W2.TIMLOA_RILEY_0001",
+            "en": "[sighs] The phone’s gonna start ringing in a second.",
+            "ru_native": "Сейчас зазвонит телефон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз задзвенить телефон."
+        },
+        {
+            "tag": "A2W2.TIMLOA_RILEY_0002",
+            "en": "Yes, Jacob, we’re in another Time Loop. Welcome to what’s happening.",
+            "ru_native": "Да, Джейкоб, мы снова во временной петле. Добро пожаловать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.TIMLOA_RILEY_0003",
+            "en": "Told you so.",
+            "ru_native": "Я же говорила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ж казала."
+        },
+        {
+            "tag": "A2W2.TIMLOA_RILEY_0004",
+            "en": "It’s them. They’re just… messing with us—or… trying to.",
+            "ru_native": "Это они. Они просто... играют с нами... или... пытаются.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вони. Вони просто… граються з нами… або… намагаються."
+        },
+        {
+            "tag": "A2W2.TIMLOA_RILEY_0005",
+            "en": "Look, I’ll deal with the phone—you ignore it.",
+            "ru_native": "Не обращай внимание, с телефоном я разберусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, не звертай увагу. Я розберуся з телефоном."
+        },
+        {
+            "tag": "A2W2.TIMLOA_RILEY_0006",
+            "en": "Look for a way out, check for one of those, uh, machines if you can.",
+            "ru_native": "Ищи выход, проверь эти... аппараты, если можешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукай вихід, перевір ці… апарати, якщо можеш."
+        },
+        {
+            "tag": "A2W2.TIMLOA_RILEY_0007",
+            "en": "Okay, screw this—you answer this time, I’m tired of getting jerked around by these things.",
+            "ru_native": "Ладно, к черту – на этот раз ты отвечай. Меня это уже достало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, до біса це. Цього разу відповідаєш ти. Мене це вже дістало."
+        },
+        {
+            "tag": "A2W2.TIMLOA_RILEY_0008",
+            "en": "Yes, Jacob, we’re in a Time Loop. Welcome to what’s happening.",
+            "ru_native": "Да, Джейкоб, мы во временной петле. Добро пожаловать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Джейкобе, ми в петлі часу. Ласкаво прошу."
+        }
+    ]
+}

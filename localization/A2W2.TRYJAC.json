@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.TRYJAC",
+    "entries": [
+        {
+            "tag": "A2W2.TRYJAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TRYJAC_CHOICE_0000_OPTION_0000",
+            "en": "Who are you talking to?",
+            "ru_native": "С кем ты говоришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З ким ти розмовляєш?"
+        },
+        {
+            "tag": "A2W2.TRYJAC_CHOICE_0000_OPTION_0001",
+            "en": "Jacob? You okay?",
+            "ru_native": "Джейкоб? Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Ти як?"
+        },
+        {
+            "tag": "A2W2.TRYJAC_RILEY_0000",
+            "en": "Um… Jacob, who are you talking to?",
+            "ru_native": "Эм… Джейкоб, с кем ты говоришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Джейкобе, з ким ти розмовляєш?"
+        },
+        {
+            "tag": "A2W2.TRYJAC_RILEY_0001",
+            "en": "Uh… Jacob? You doing okay there?",
+            "ru_native": "Эм… Джейкоб? Ты как там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е… Джейкобе? З тобою все гаразд?"
+        }
+    ]
+}

@@ -1,0 +1,780 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.THCACC",
+    "entries": [
+        {
+            "tag": "A2C3.THCACC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0000_OPTION_0000",
+            "en": "Not me.",
+            "ru_native": "Не для меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні за що."
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0000_OPTION_0001",
+            "en": "Yeah, it’d be great.",
+            "ru_native": "Да, прекрасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, було б чудово."
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0000_OPTION_0002",
+            "en": "Why? What’s the point?",
+            "ru_native": "Ну и в чем смысл?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо?"
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0001_OPTION_0000",
+            "en": "Were you rich?",
+            "ru_native": "Вы были богаты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти був багатий?"
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0001_OPTION_0001",
+            "en": "Uh, sounds fun.",
+            "ru_native": "Звучит весело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить весело."
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0001_OPTION_0002",
+            "en": "Ugh, how annoying.",
+            "ru_native": "Раздражает такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дратує таке."
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0002_OPTION_0000",
+            "en": "You sound depressed.",
+            "ru_native": "У тебя депрессия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе депресія."
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0002_OPTION_0001",
+            "en": "You don’t peak in high school.",
+            "ru_native": "Школа – только начало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Світ на школі не зійшовся."
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0002_OPTION_0002",
+            "en": "I get it.",
+            "ru_native": "Понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумію."
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0003_OPTION_0000",
+            "en": "Sure.",
+            "ru_native": "Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0003_OPTION_0001",
+            "en": "You want kids?",
+            "ru_native": "Ты хочешь детей?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хочеш дітей?"
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0004_OPTION_0000",
+            "en": "It’s something.",
+            "ru_native": "Ну да...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О так."
+        },
+        {
+            "tag": "A2C3.THCACC_CHOICE_0004_OPTION_0001",
+            "en": "You want kids?",
+            "ru_native": "Ты хочешь детей?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хочеш дітей?"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0000",
+            "en": "You know… tonight, thinking about Olivia—thinking about her friends—",
+            "ru_native": "Ну, знаешь... Об этом дне, об Оливии... О ее друзьях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш… спогади про цю ніч, про Олівію, про її друзів…"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0001",
+            "en": "You know… thinking about Maggie—thinking about my time back then, how I spent it—",
+            "ru_native": "Ну, знаешь... О Мэгги, о своем детстве, как я проводил время...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш… спогади про Меггі, про дитинство…"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0002",
+            "en": "You know… thinking about Mr. Branch—thinking about my time back then, how I spent it—",
+            "ru_native": "Ну, знаешь... О мистере Бранче, о своем детстве, как я проводил время...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш… спогади про містера Бранча, про моє дитинство…"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0003",
+            "en": "But, uh, what we were talking about earlier?",
+            "ru_native": "Знаешь, вот мы тогда поговорили и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про що ми розмовляли тоді…"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0004",
+            "en": "It’s just got me thinking how much I would love to go back to high school with the brain I have now.",
+            "ru_native": "Я подумал, как здорово было бы вернуться в школу с мозгами, которые у меня сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навели мене на думку, що я б залюбки повернувся до старшої школи<br>з мізками, що маю зараз."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0005",
+            "en": "But anyways, I was just saying that I’d love to go back to high school with the mind I have now.",
+            "ru_native": "Я хотел сказать, что здорово было бы вернуться<br>в школу с мозгами, которые у меня сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хтів сказати, що залюбки б повернутися до старшої школи з мізками, що маю зараз."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0006",
+            "en": "You know?",
+            "ru_native": "Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш?"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0007",
+            "en": "Retain my experience, my slightly better fashion sense…",
+            "ru_native": "Сохранить весь опыт, более тонкое чувство стиля...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зі своїм досвідом, із кращим почуттям стилю…"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0008",
+            "en": "…my modicum of self-confidence I’ve slowly nurtured over the years.",
+            "ru_native": "Ту капельку уверенности в себе, что я взращивал долгие годы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…із дещицею впевненості в собі, яку я виростив за всі ці роки."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0009",
+            "en": "How much more fun would it be.",
+            "ru_native": "Было бы гораздо веселее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було б у рази веселіше."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0010",
+            "en": "With what I know now.",
+            "ru_native": "С багажом знаний.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із нинішніми знаннями."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0011",
+            "en": "No, I understand that, but… wouldn’t it be a nice do-over.",
+            "ru_native": "Понимаю, но... Была бы классная перезагрузка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я розумію, але все одно… Це було б прикольне перезавантаження."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0012",
+            "en": "Yeah, it’s a fantasy—shoot me—but it’d just be a nice do-over, right?",
+            "ru_native": "Да, это все мечты, я в курсе. Но была бы классная перезагрузка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це всього фантазії, але щоби я провалився, яке б то було перезавантаження!"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0013",
+            "en": "No, not for the classes, for the… social stuff—just to get a nice do-over.",
+            "ru_native": "Нет, не ради учебы. Ради общения и эдакой перезагрузки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не задля уроків, а для… спілкування і, свого роду, перезавантаження."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0014",
+            "en": "Just to get a nice do-over.",
+            "ru_native": "Чисто ради перезагрузки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто щоби перезавантажитись."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0015",
+            "en": "Anyways, the high school thing… it’d just be a nice do-over.",
+            "ru_native": "Я к чему про школу... Была бы классная перезагрузка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я до чого веду… школа була б чудовим перезавантаженням."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0016",
+            "en": "Like… these caves—I was down in these caves, once, with a bunch of my brothers’ friends—",
+            "ru_native": "Например, эти пещеры... Я однажды был в пещерах с друзьями моего брата.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Узяти навіть ці печери… Я тут був колись із компанією мого брата…"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0017",
+            "en": "—and they all made us—basically—have a party in one of my parents’ lofts downtown.",
+            "ru_native": "И они заставили нас провести вечеринку в одной из квартир родителей в центре.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…вони напоумили нас, типу, влаштувати вечірку в одній із квартир батьків у центрі."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0018",
+            "en": "My parents—they own property—but anyway that’s just one of a hundred times when I wish I had just said no.",
+            "ru_native": "У родителей было много квартир... И это лишь<br>один из ста случаев, когда мне стоило отказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У моїх батьків їх було багато…<br>але в той день був один зі ста випадків, коли я мав сказати «ні»."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0019",
+            "en": "But—uh, yeah, sorry, I was—I’d just been reminded of this loft party some of my brother’s friends made us throw.",
+            "ru_native": "Прости, я что-то вспомнил о вечеринке, которую нас заставили провести друзья брата.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вибач, я… тільки-но згадав ту домашню вечірку, яку нас змусили влаштувати."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0020",
+            "en": "But instead I—we—said yes—",
+            "ru_native": "Но вместо этого я... Мы согласились.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але натомість я… ми… погодились."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0021",
+            "en": "—and a four-thousand dollar oven got destroyed.",
+            "ru_native": "И испортили печь за четыре куска долларов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і вони розтрощили піч за чотири тисячі доларів."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0022",
+            "en": "We’d run into them in the caves.",
+            "ru_native": "Мы встретили их в пещерах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми натрапили на них у печерах."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0023",
+            "en": "And they just convinced us.",
+            "ru_native": "Они нас уломали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І вони нас переконали."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0024",
+            "en": "And just how stupid it ended up being.",
+            "ru_native": "И как же глупо все закончилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А як усе тупо закінчилося."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0025",
+            "en": "God, we would get so lucky.",
+            "ru_native": "Нам еще крупно повезло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам ще дуже пощастило."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0026",
+            "en": "My parents were both surgeons and they had a lot of toys. My brother had a lot of friends.",
+            "ru_native": "Родители были хирургами, и у них было много игрушек. У брата было полно друзей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мої батьки були хірургами. У них було багато іграшок. А в брата було багато друзів."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0027",
+            "en": "I… had friends. A few friends. And then a lot of people that liked to stay at the pool.",
+            "ru_native": "У меня... тоже. Парочка. Плюс куча людей, которым нравился наш бассейн.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене… були друзі. Небагато. І ще натовп, який просто любив тусити біля басейну."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0028",
+            "en": "I got grounded, that’s all—and none of those kids really liked me. They liked my brother.",
+            "ru_native": "Меня наказали, вот и все. Да и никому из тех<br>ребят я не нравился. Им нравился мой брат.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене насварили, і все… А я нікому з них не подобався. Мій брат усім подобався."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0029",
+            "en": "And my brother just needed my buy-off. So if he got in trouble, I would, too.",
+            "ru_native": "А брат старался меня подкупить. Так что в неприятности мы влезали вместе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мій брат хотів підкупити мене, щоби якщо раптом йому прилетить, то й мені теж."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0030",
+            "en": "I don’t want to make my brother’s friends sound like nightmares—he just had a lot of friends.",
+            "ru_native": "Я не к тому, что друзья брата были ужасными, просто их было много.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не подумай, я не кажу, що друзі мого брата були поганими, їх просто було забагато."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0031",
+            "en": "And when you have a lot of friends, you’re bound to get a few curdled.",
+            "ru_native": "А когда друзей много, среди них обязательно попадутся уроды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А якщо людей забагато, серед них неодмінно знайдуться придурки."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0032",
+            "en": "But, uh, anyways, I just…",
+            "ru_native": "В общем, я просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі-то, ем, я просто…"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0033",
+            "en": "I think I just miss the anticipation of adulthood. The not knowing what it’s like.",
+            "ru_native": "Думаю, я просто скучаю по предвкушению зрелости. По незнанию, как оно все обернется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаю, я просто сумую за тим очікуванням дорослості.<br>За нерозумінням, яка вона насправді."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0034",
+            "en": "I don’t think anything can ever compete with that.",
+            "ru_native": "С этим ничто не сравнится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ні з чим не порівняєш."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0035",
+            "en": "But what I was saying—I was thinking that I just miss the anticipation—the mystery of adulthood.",
+            "ru_native": "Я хотел сказать, что, наверное, просто скучаю по предвкушению...<br>Этакой тайне зрелости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сказав, що… сумую за очікуванням… тієї загадкової дорослості."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0036",
+            "en": "Other than having kids, I guess.",
+            "ru_native": "Ну, кроме рождения детей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За винятком, хіба що, дітей."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0037",
+            "en": "Not knowing, you know?",
+            "ru_native": "По незнанию. Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Невідомість, розумієш?"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0038",
+            "en": "I just don’t think it’ll ever get topped.",
+            "ru_native": "Думаю, с этим ничто не сравнится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що із цим щось може зрівнятися."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0039",
+            "en": "I’m—no, nevermind. I’m just… babbling, here.",
+            "ru_native": "Я... Ладно, неважно. Я просто так болтаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… та ні, не бери в голову. Просто… базікаю тут."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0040",
+            "en": "Tonight’s just got me thinking about it.",
+            "ru_native": "Сегодняшний день навел на мысли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця ніч просто підштовхнула на роздуми."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0041",
+            "en": "We should find the way where we’re going soon. Sorry.",
+            "ru_native": "Скоро мы должны выйти на дорогу. Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми вже скоро маємо знайти дорогу. Вибач."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0042",
+            "en": "I’m—no, I know. I’m just… babbling, here.",
+            "ru_native": "Да, знаю. Я просто так... болтаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… та ні, я знаю. Просто… базікаю."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0043",
+            "en": "…Something like that.",
+            "ru_native": "Что-то вроде того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу того."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0044",
+            "en": "Anyways…",
+            "ru_native": "Короче...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коротше…"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0045",
+            "en": "That would be… you know…",
+            "ru_native": "Было бы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було б… ну знаєш…"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0046",
+            "en": "Something.",
+            "ru_native": "Интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось із чимось."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0047",
+            "en": "I don’t know if I want any. I’m mostly just thinking, you know, in generalities or something.",
+            "ru_native": "Я и сам не знаю. Просто думаю... Общими понятиями, так сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи хочу я. Я замислююсь, ну типу, над загальними речами."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0048",
+            "en": "That’s probably gonna be… for you… you know.",
+            "ru_native": "Для тебя это, наверно, будет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для тебе це, мабуть, буде… ну знаєш."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0049",
+            "en": "Pretty damn exciting, right?",
+            "ru_native": "Захватывающе, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Неймовірний досвід, так?"
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0050",
+            "en": "Yeah. It is.",
+            "ru_native": "Да. Верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так."
+        },
+        {
+            "tag": "A2C3.THCACC_JACOB_0051",
+            "en": "Oh me? Ha—I don’t know. I’m mostly just thinking in, uh, generalities.",
+            "ru_native": "Кто, я? Ха... Даже не знаю. Просто мыслю общими понятиями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто, я? Хех… не знаю. Я здебільшого думаю загальними поняттями."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0000",
+            "en": "Yeah, no thanks. I did it once. That was enough.",
+            "ru_native": "Нет уж, спасибо. Одного раза мне хватило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, дякую. Бували, знаємо. Більше не хочеться."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0001",
+            "en": "Of course, yeah, that’d be great.",
+            "ru_native": "Конечно, было бы прекрасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно, було б класно."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0002",
+            "en": "Might as well add superhuman strength, too, and be able to read minds.",
+            "ru_native": "Заодно докинуть сверхчеловеческую силу и умение читать мысли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прямо як мати суперсилу чи телекінез."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0003",
+            "en": "Uh, why? What would be the point?",
+            "ru_native": "Но зачем? В чем смысл?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І навіщо? І в чому сенс?"
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0004",
+            "en": "We graduated once, you want to take Calculus again?",
+            "ru_native": "Ты хочешь заново сдавать все экзамены?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш знову алгебру здавати?"
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0005",
+            "en": "This sounds like the problems of people with offshore accounts.",
+            "ru_native": "Звучит как проблема людей с оффшорными счетами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить, як проблема людей з офшорами."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0006",
+            "en": "Uh, if this is you trying to make a loft party sound like something to regret, you’re preaching to the wrong choir.",
+            "ru_native": "Если ты так пытаешь выставить вечеринку на<br>квартире в жутком свете, то ты не по адресу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти намагаєшся показати, як жалкуєш про ту домашню вечірку,<br>ти знайшов не того слухача."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0007",
+            "en": "Yeah, that sounds pretty annoying.",
+            "ru_native": "Да, меня такое раздражает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, таке дратує."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0008",
+            "en": "Jesus, you sound like you need to talk to somebody.",
+            "ru_native": "Господи, да тебе надо с профессионалом поговорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, тобі треба поговорити з кимось."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0009",
+            "en": "Good God, Jacob, you didn’t peak in high school—there’s more to life than just waiting to start.",
+            "ru_native": "Боже правый, Джейкоб. Школа – это не венец твоей жизни! Это только начало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, дай сил… Джейкобе, світ на школі не зійшовся.<br>Після неї життя тільки починається."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0010",
+            "en": "No, I get it. I wouldn’t want to go back, but…",
+            "ru_native": "Понимаю. Я бы не хотела возвращаться, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я все розумію. Сама б я не поверталася в минуле, але…"
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0011",
+            "en": "The older you get the less you think you know, you know?",
+            "ru_native": "Чем ты старше, тем больше понимаешь, как мало знаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чим доросліше стаєш, тим більше розумієш, як мало знаєш."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0012",
+            "en": "Uh, yeah. Probably.",
+            "ru_native": "Да, возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну так, скоріш за все."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0013",
+            "en": "Oh, you want kids? I don’t know if I pegged you as that.",
+            "ru_native": "Так ты хочешь детей? По тебе не скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хочеш дітей? От від кого ніяк не очікувала."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0014",
+            "en": "It’s, uh, something… that’s—yeah, it’s something to think about, at least.",
+            "ru_native": "Ну да... Задуматься заставит, это уж точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, є над чим подумати."
+        },
+        {
+            "tag": "A2C3.THCACC_RILEY_0015",
+            "en": "Something to… project into the future over. Which… is nice, in and of itself.",
+            "ru_native": "Задуматься о будущем. Что по-своему хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Над… планами на майбутнє. А це… по-своєму цікаво."
+        }
+    ]
+}

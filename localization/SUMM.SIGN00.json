@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SUMM.SIGN00",
+    "entries": [
+        {
+            "tag": "SUMM.SIGN00_JACOB_0000",
+            "en": "Used to be open ‘til like ten, but someone spotted a bobcat a couple years back.",
+            "ru_native": "Раньше был открыт до десяти, но пару лет назад кто-то заметил рысь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше був відчинений до десятої, але кілька років тому хтось побачив тут рись."
+        },
+        {
+            "tag": "SUMM.SIGN00_JACOB_0001",
+            "en": "Limited the hours.",
+            "ru_native": "И время работы ограничили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І графік роботи змінили."
+        },
+        {
+            "tag": "SUMM.SIGN00_RILEY_0000",
+            "en": "Hours: Sunrise to sunset.",
+            "ru_native": "Часы работы: от восхода до заката.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Працює: від сходу до заходу."
+        }
+    ]
+}

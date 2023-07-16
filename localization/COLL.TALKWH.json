@@ -1,0 +1,420 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "COLL.TALKWH",
+    "entries": [
+        {
+            "tag": "COLL.TALKWH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "COLL.TALKWH_CHOICE_0000_OPTION_0000",
+            "en": "Explain?",
+            "ru_native": "Объяснишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поясни."
+        },
+        {
+            "tag": "COLL.TALKWH_CHOICE_0000_OPTION_0001",
+            "en": "Sorry, not my business.",
+            "ru_native": "Прости, не мое дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, це не моя справа."
+        },
+        {
+            "tag": "COLL.TALKWH_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "COLL.TALKWH_CHOICE_0001_OPTION_0000",
+            "en": "You followed in his footsteps.",
+            "ru_native": "Ты пошел по его стопам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти пішов його стопами."
+        },
+        {
+            "tag": "COLL.TALKWH_CHOICE_0001_OPTION_0001",
+            "en": "I’m really sorry.",
+            "ru_native": "Мне правда жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені так шкода."
+        },
+        {
+            "tag": "COLL.TALKWH_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "COLL.TALKWH_CHOICE_0002_OPTION_0000",
+            "en": "Whatever you say.",
+            "ru_native": "Как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скажеш"
+        },
+        {
+            "tag": "COLL.TALKWH_CHOICE_0002_OPTION_0001",
+            "en": "You’re better than a shadow.",
+            "ru_native": "Ты не его тень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти кращий за тінь."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0000",
+            "en": "Tom? How do you know about Tom?",
+            "ru_native": "Том? Откуда ты знаешь про Тома?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Том? Звідки ви знаєте про Тома?"
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0001",
+            "en": "Actually, after tonight, I’m sure there’s a perfectly reasonable unreasonable explanation.",
+            "ru_native": "Вообще-то, после этой ночи, уверен, этому есть<br>вполне разумное иррациональное объяснение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча, після цієї ночі, впевнений, є якесь неймовірне тому пояснення."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0002",
+            "en": "[small sigh] Tom was…",
+            "ru_native": "Ох... Том был...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Том був…"
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0003",
+            "en": "…the shadow I grew up in.",
+            "ru_native": "...тенью, в которой я рос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…тінню, у якій я виріс."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0004",
+            "en": "[ID-4] [sad sigh]",
+            "ru_native": "Ох...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає]"
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0005",
+            "en": "That was Tom.",
+            "ru_native": "Вот кем был Том.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось такий він, Том."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0006",
+            "en": "You tapped on the glass, here I am.",
+            "ru_native": "Ты маякнула, и вот я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ти почала розмову."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0007",
+            "en": "Guess I uh–guess I lost you.",
+            "ru_native": "Похоже... похоже, связь прервалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, зв’язок обірвався"
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0008",
+            "en": "So be it. Over and out.",
+            "ru_native": "Проехали. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на те. Кінець зв’язку."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0009",
+            "en": "I had a good father. I didn’t starve.",
+            "ru_native": "У меня был хороший отец. Я не голодал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене був хороший батько. Я не голодував."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0010",
+            "en": "But that was obligation. An obligation plenty run away from but he never did.",
+            "ru_native": "Но это была его обязанность. Обязанность, от которой многие убегают, но не он.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це був обов’язок. Обов’язок, якого більшість уникають, але не він."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0011",
+            "en": "But it was still just…obligation.",
+            "ru_native": "Но это была просто... обязанность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Проте це все ще був лише…обов’язок."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0012",
+            "en": "Not uh–[stops himself short]",
+            "ru_native": "А не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не, ем…"
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0013",
+            "en": "Yeah. It was obligation.",
+            "ru_native": "Да. Обязанность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча так. Це був обов’язок."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0014",
+            "en": "You’re gonna owe me one hell of an explanation someday you know that?",
+            "ru_native": "Ты мне задолжала чертову кучу объяснений, ты в курсе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, одного чудового дня ти матимеш мені дещо пояснити, і знаєш що?"
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0015",
+            "en": "But what the hell, I’ll play ball.",
+            "ru_native": "Но фиг с тобой, я тебе подыграю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я залюбки тобі відповім."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0016",
+            "en": "[over her] No, ma’am. No apologies. Not interested.",
+            "ru_native": "Нет, мадам. Никаких извинений. Неинтересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, мем. Жодних вибачень. Не цікаво."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0017",
+            "en": "Appreciate it, but save it for those who need it.",
+            "ru_native": "Спасибо, но прибереги это для кого-нибудь другого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені-то приємно, але прибережи їх для того, кому вони потрібні."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0018",
+            "en": "I know I’m doing the same thing as…he did. The experiments. I know that…might be a problem.",
+            "ru_native": "Я знаю, что делаю то же... что и он. Эксперименты.<br>Я знаю, это может быть... проблемой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, я роблю все, як він. Експерименти. Я знаю, що це… може бути проблемою."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0019",
+            "en": "But I’m not doing it for the same reason.",
+            "ru_native": "Но я занимаюсь этим по другой причине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але причини в нас різні."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0020",
+            "en": "This is a pursuit of truth. Beautiful, bright truth.",
+            "ru_native": "Я стремлюсь к истине. Красивой и светлой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це пошуки правди. Чистої, прекрасної правди."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0021",
+            "en": "There was nothing beautiful about his pursuit.",
+            "ru_native": "А в его стремлении ничего красивого не было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але нема в тому краси."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0022",
+            "en": "Just dust and…old letters carved in cheap stone.",
+            "ru_native": "Только пыль и... старые буквы на дешевом камне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лише пил… і стародавні літери, викарбовані в камінні."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0023",
+            "en": "[ID-29] [sighs]",
+            "ru_native": "Ох...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає]"
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0024",
+            "en": "Nothing more.",
+            "ru_native": "Больше ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І більше нічого."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0025",
+            "en": "Ain’t that the undisputed truth.",
+            "ru_native": "Разве это не бесспорная истина?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це непорушна істина."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0026",
+            "en": "I didn’t starve. That’s where I leave it.",
+            "ru_native": "Я не голодал. На этом и остановимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не голодував. На цьому зупинимося."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0027",
+            "en": "[sighs, back to business] You owe me a story someday, Riley.",
+            "ru_native": "Уф... Когда-нибудь ты мне все расскажешь, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Ти мені винна історію, Райлі."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0028",
+            "en": "Let’s make sure it’s a sunny day when you tell it.",
+            "ru_native": "Давай договоримся, пусть это будет солнечный день.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба буде підібрати сонячний день, щоби ти її розповіла."
+        },
+        {
+            "tag": "COLL.TALKWH_HANK_0029",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "COLL.TALKWH_RILEY_0000",
+            "en": "Go on?",
+            "ru_native": "А дальше?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжуй?"
+        },
+        {
+            "tag": "COLL.TALKWH_RILEY_0001",
+            "en": "You know what? Not my business. I uh–sorry.",
+            "ru_native": "Знаешь что? Это не мое дело. Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А знаєш, мене це не стосується. Мені, ем… шкода."
+        },
+        {
+            "tag": "COLL.TALKWH_RILEY_0002",
+            "en": "I’m…surprised that you followed in his footsteps. The experiments and everything.",
+            "ru_native": "Я... удивлена, что ты пошел по его стопам. Эксперименты и все такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… була здивована, що ти пішов по його стопах. Експерименти і все це."
+        },
+        {
+            "tag": "COLL.TALKWH_RILEY_0003",
+            "en": "That’s–uh–I’m really–[interrupted]",
+            "ru_native": "Ну... я... правда...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… Мені дуже…"
+        },
+        {
+            "tag": "COLL.TALKWH_RILEY_0004",
+            "en": "Whatever you gotta tell yourself, my man.",
+            "ru_native": "Убеждай себя сколько угодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти тільки себе переконав у цьому."
+        },
+        {
+            "tag": "COLL.TALKWH_RILEY_0005",
+            "en": "I don’t know if you need to hear this. I don’t know if you want to hear this but…",
+            "ru_native": "Не знаю, нужно ли это тебе, и не знаю, хочешь ли ты это услышать, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи треба тобі це почути, і чи хочеш ти це чути, але…"
+        },
+        {
+            "tag": "COLL.TALKWH_RILEY_0006",
+            "en": "You are better than a shadow, Hank.",
+            "ru_native": "Ты не его тень, Хэнк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти кращий за тінь, Хенку."
+        }
+    ]
+}

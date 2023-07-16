@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.TIMLO3",
+    "entries": [
+        {
+            "tag": "A2C6.TIMLO3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TIMLO3_CHOICE_0000_OPTION_0000",
+            "en": "Crap!",
+            "ru_native": "Дерьмо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт!"
+        },
+        {
+            "tag": "A2C6.TIMLO3_CHOICE_0000_OPTION_0001",
+            "en": "Ugh. Okay...",
+            "ru_native": "Уф. Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2C6.TIMLO3_CHOICE_0000_OPTION_0002",
+            "en": "I feel sick.",
+            "ru_native": "Мне нехорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені погано."
+        },
+        {
+            "tag": "A2C6.TIMLO3_RILEY_0000",
+            "en": "Ugh. Crap!",
+            "ru_native": "Вот черт!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От чорт!"
+        },
+        {
+            "tag": "A2C6.TIMLO3_RILEY_0001",
+            "en": "Ugh… okay. At least you’re not dead…",
+            "ru_native": "Уф... Слава богу, жива.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд... Принаймні ти жива…"
+        },
+        {
+            "tag": "A2C6.TIMLO3_RILEY_0002",
+            "en": "I’ve— felt better. Ugh.",
+            "ru_native": "Мне... уже лучше. Уф.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувало і краще. Уф."
+        },
+        {
+            "tag": "A2C6.TIMLO3_VOICE_0000",
+            "en": "Hey, I want to play!",
+            "ru_native": "Эй, я хочу поиграть!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, я хочу пограти!"
+        }
+    ]
+}

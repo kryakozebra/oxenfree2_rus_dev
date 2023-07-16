@@ -1,0 +1,186 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2W3",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2W3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2W3_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn, you there?",
+            "ru_native": "Эвелин, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, ти мене чуєш?"
+        },
+        {
+            "tag": "EVWT.EVA2W3_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2W3_CHOICE_0001_OPTION_0000",
+            "en": "Am I going the right way?",
+            "ru_native": "Я правильно иду?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я йду в правильний бік?"
+        },
+        {
+            "tag": "EVWT.EVA2W3_CHOICE_0001_OPTION_0001",
+            "en": "Anything weird happening?",
+            "ru_native": "У тебя происходят странности?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відбувається щось дивне?"
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0000",
+            "en": "Hey, Riley. Yep, I’m here.",
+            "ru_native": "Да, Райли, я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вітаю, Райлі. Так, я чую тебе."
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0001",
+            "en": "What’s up?",
+            "ru_native": "Что такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що сталося?"
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0003",
+            "en": "Yeah, I… I think you’re going the right way.",
+            "ru_native": "Да. Думаю, ты на верном пути.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… Здається, ти йдеш у правильному напрямку."
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0004",
+            "en": "If you’re coming from the Harbor, then, yeah.",
+            "ru_native": "Если идешь со стороны гавани, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо йдеш від гавані, то в правильному."
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0005",
+            "en": "Placing transmitters is always about being above sea level. Just remember that.",
+            "ru_native": "Главное – размещать передатчики выше уровня моря. Помни об этом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Установлювати радіопередавачі завжди потрібно вище рівня моря. Просто пам’ятай це."
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0006",
+            "en": "Go as high as you can go. Okay, I gotta run. Call if you need anything. Over and out.",
+            "ru_native": "Постарайся забраться повыше. Мне нужно бежать, обращайся, если что. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Постарайся встановлювати якомога вище. Гаразд, маю бігти.<br>Викликай, якщо щось буде потрібно. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0007",
+            "en": "Mm. I mean… everything’s kind of drawing outside the lines, right now, Riley—",
+            "ru_native": "Как сказать... Сейчас все подряд выходит за рамки обычного, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як сказати… Зараз тут усе виходить за межі розумного, Райлі."
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0008",
+            "en": "But no, not since the last thing. Just a lot of readings, not enough time to decipher them.",
+            "ru_native": "Но так новостей никаких. Чисто куча данных и слишком мало времени на их изучение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але новин немає. Лише купа даних, але немає часу їх розшифровувати."
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0009",
+            "en": "Alright, keep in touch. I’ll talk to you later. Over and out.",
+            "ru_native": "Ладно, не пропадай. Позже поговорим. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, будьмо на зв’язку. Поговоримо пізніше. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2W3_EVELYN_0010",
+            "en": "Riley? Riley? Ack, these stupid things—",
+            "ru_native": "Райли? Райли? Дурацкие рации...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Райлі? Чорт, ці кляті речі…"
+        },
+        {
+            "tag": "EVWT.EVA2W3_RILEY_0000",
+            "en": "Hey, Evelyn? Are you there? Over.",
+            "ru_native": "Эвелин? Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ти там? Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2W3_RILEY_0001",
+            "en": "Um, this is probably a stupid question, but… am I going the right way?",
+            "ru_native": "Наверное, вопрос глупый, но... я в правильном направлении иду?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, це дивне запитання, але… я йду в правильному напрямку?"
+        },
+        {
+            "tag": "EVWT.EVA2W3_RILEY_0002",
+            "en": "I just passed… well, I’m in Point Tilia. I think.",
+            "ru_native": "Я прошла... Сейчас я в Поинт Тилия. Кажется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я щойно пройшла… я в пункті Тілія. Здається."
+        },
+        {
+            "tag": "EVWT.EVA2W3_RILEY_0003",
+            "en": "Anything, uh, weird happening on your end? Over.",
+            "ru_native": "На твоем конце есть странности? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось дивне відбувається з твого боку? Прийом."
+        }
+    ]
+}

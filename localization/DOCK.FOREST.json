@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "DOCK.FOREST",
+    "entries": [
+        {
+            "tag": "DOCK.FOREST_RILEY_0000",
+            "en": "Oh wait, this is—yeah, this is going to the forest and nature areas.",
+            "ru_native": "Погоди... Да, эта тропа ведет к лесу и прочим прелестям природы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай-но… так, це дорога до лісу, до зеленої зони."
+        },
+        {
+            "tag": "DOCK.FOREST_RILEY_0001",
+            "en": "I shouldn’t just wander off and get lost, so… maybe later.",
+            "ru_native": "Не стоит бродить тут, а то потеряюсь. Может, позже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені зараз не можна губитися… може пізніше."
+        }
+    ]
+}

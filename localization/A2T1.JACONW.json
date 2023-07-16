@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.JACONW",
+    "entries": [
+        {
+            "tag": "A2T1.JACONW_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.JACONW_CHOICE_0000_OPTION_0000",
+            "en": "No, not yet.",
+            "ru_native": "Пока нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки що ні."
+        },
+        {
+            "tag": "A2T1.JACONW_CHOICE_0000_OPTION_0001",
+            "en": "I’m busy.",
+            "ru_native": "Я занята.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зайнята."
+        },
+        {
+            "tag": "A2T1.JACONW_JACOB_0000",
+            "en": "I know it’s there. Over.",
+            "ru_native": "Он где-то там. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що він десь там. Прийом."
+        },
+        {
+            "tag": "A2T1.JACONW_RILEY_0000",
+            "en": "No, not yet. Over.",
+            "ru_native": "Пока что нет. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки що ні. Прийом."
+        },
+        {
+            "tag": "A2T1.JACONW_RILEY_0001",
+            "en": "A little busy here, Jacob. Over and out.",
+            "ru_native": "Джейкоб, я немного занята. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, я трохи зайнята. Кінець зв’язку."
+        }
+    ]
+}

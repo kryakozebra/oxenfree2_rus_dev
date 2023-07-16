@@ -1,0 +1,186 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1LH.ARRLIG",
+    "entries": [
+        {
+            "tag": "A1LH.ARRLIG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.ARRLIG_CHOICE_0000_OPTION_0000",
+            "en": "Thank you.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A1LH.ARRLIG_CHOICE_0000_OPTION_0001",
+            "en": "You’re just slow.",
+            "ru_native": "Это ты черепаха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто ти повільний."
+        },
+        {
+            "tag": "A1LH.ARRLIG_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.ARRLIG_CHOICE_0001_OPTION_0000",
+            "en": "Guess no one’s here.",
+            "ru_native": "Видимо, тут никого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, тут нікого немає."
+        },
+        {
+            "tag": "A1LH.ARRLIG_CHOICE_0001_OPTION_0001",
+            "en": "Let’s see what’s inside.",
+            "ru_native": "Надо осмотреться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивімося, що всередині."
+        },
+        {
+            "tag": "A1LH.ARRLIG_CHOICE_0001_OPTION_0002",
+            "en": "Uh, you first.",
+            "ru_native": "После тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… ти перший."
+        },
+        {
+            "tag": "A1LH.ARRLIG_JACOB_0000",
+            "en": "Okay, okay, you win.",
+            "ru_native": "Ладно, ты победила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, твоя взяла."
+        },
+        {
+            "tag": "A1LH.ARRLIG_JACOB_0001",
+            "en": "Everyone is very impressed.",
+            "ru_native": "Все крайне впечатлены.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі дуже вражені."
+        },
+        {
+            "tag": "A1LH.ARRLIG_JACOB_0002",
+            "en": "Ah, thank you for pointing that out.",
+            "ru_native": "Спасибо, что открыла мне глаза.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що нагадала."
+        },
+        {
+            "tag": "A1LH.ARRLIG_JACOB_0003",
+            "en": "God, what a racket.",
+            "ru_native": "Вот это бедлам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, ну й шум."
+        },
+        {
+            "tag": "A1LH.ARRLIG_JACOB_0004",
+            "en": "Yeah. Definitely not.",
+            "ru_native": "Да. Это уж точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Однозначно, ні."
+        },
+        {
+            "tag": "A1LH.ARRLIG_JACOB_0005",
+            "en": "But, you know, it should still have some equipment we need.",
+            "ru_native": "Но здесь наверняка есть нужное нам оборудование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, знаєш, тут має бути необхідне нам обладнання."
+        },
+        {
+            "tag": "A1LH.ARRLIG_JACOB_0006",
+            "en": "…hopefully.",
+            "ru_native": "Надеюсь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…сподіваюся."
+        },
+        {
+            "tag": "A1LH.ARRLIG_JACOB_0007",
+            "en": "It’s, uh, not as spooky as it seems inside.",
+            "ru_native": "Тут не так жутко, как кажется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут не так лячно, як здається всередині."
+        },
+        {
+            "tag": "A1LH.ARRLIG_RILEY_0000",
+            "en": "Ah, why thank you, thank you.",
+            "ru_native": "Спасибо, право, не стоит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ну… дякую, дякую."
+        },
+        {
+            "tag": "A1LH.ARRLIG_RILEY_0001",
+            "en": "It’s less that I’m that fast and more that you’re just <i>really</i> slow.",
+            "ru_native": "Это не я быстрая, это ты настоящая черепаха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не те, щоби я така вже спритна. Скоріше ти просто <i>ну дуже</i> повільний."
+        },
+        {
+            "tag": "A1LH.ARRLIG_RILEY_0002",
+            "en": "So… guess that means no one’s here.",
+            "ru_native": "Что ж... Видимо, тут никого нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, це означає, що тут нікого немає."
+        },
+        {
+            "tag": "A1LH.ARRLIG_RILEY_0003",
+            "en": "Well we’re here. Let’s see if it has anything useful.",
+            "ru_native": "Раз уж мы здесь... Поищем что-нибудь полезное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ж ми тут. Подивімося, чи є тут що-небудь корисне."
+        },
+        {
+            "tag": "A1LH.ARRLIG_RILEY_0004",
+            "en": "Uh… after you.",
+            "ru_native": "Эм... После тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… після тебе."
+        }
+    ]
+}

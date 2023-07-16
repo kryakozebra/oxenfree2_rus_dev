@@ -1,0 +1,114 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G4.AFTREX",
+    "entries": [
+        {
+            "tag": "A2G4.AFTREX_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.AFTREX_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, I’m here.",
+            "ru_native": "Да, я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тут."
+        },
+        {
+            "tag": "A2G4.AFTREX_CHOICE_0000_OPTION_0001",
+            "en": "Sorry…",
+            "ru_native": "Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач…"
+        },
+        {
+            "tag": "A2G4.AFTREX_JACOB_0000",
+            "en": "Riley! Riley, c-can you hear me?",
+            "ru_native": "Райли! Райли, ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Райлі, ти мене чуєш?"
+        },
+        {
+            "tag": "A2G4.AFTREX_JACOB_0001",
+            "en": "Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі?"
+        },
+        {
+            "tag": "A2G4.AFTREX_JACOB_0002",
+            "en": "Are you… you’re coming back, it looks like.",
+            "ru_native": "Ты… похоже, ты возвращаешься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… схоже, що ти повертаєшся."
+        },
+        {
+            "tag": "A2G4.AFTREX_JACOB_0003",
+            "en": "It looked like you… just… kinda spaced out for a second.",
+            "ru_native": "Мне показалось, что ты... на секунду отключилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здалося, що ти… на мить відключилася."
+        },
+        {
+            "tag": "A2G4.AFTREX_JACOB_0004",
+            "en": "Uh… no.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э... нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.AFTREX_JACOB_0005",
+            "en": "I didn’t see any kid.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не видел ни одного ребенка.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G4.AFTREX_RILEY_0000",
+            "en": "Yeah. Yeah, I’m-I’m-I'm here… sorry.",
+            "ru_native": "Да. Да, я… Я здесь… извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Так, я… Я тут… вибач."
+        },
+        {
+            "tag": "A2G4.AFTREX_RILEY_0001",
+            "en": "Yeah. Sorry… I, uh… I don’t know what just happened.",
+            "ru_native": "Да. Прости... Я... Я не знаю, что сейчас произошло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Вибач… Я… Я не знаю, що зараз сталося."
+        },
+        {
+            "tag": "A2G4.AFTREX_RILEY_0002",
+            "en": "There was a… did you see a kid… around here, just now?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тут недавно был... ты видел ребенка... неподалеку?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

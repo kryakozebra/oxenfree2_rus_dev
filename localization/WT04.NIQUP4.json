@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT04.NIQUP4",
+    "entries": [
+        {
+            "tag": "WT04.NIQUP4_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NIQUP4_CHOICE_0000_OPTION_0000",
+            "en": "Nick, talk to me.",
+            "ru_native": "Ник, ответьте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку, поговоріть зі мною."
+        },
+        {
+            "tag": "WT04.NIQUP4_RILEY_0000",
+            "en": "Talk to me, Nick, tell me you’re safe.",
+            "ru_native": "Ник, скажите, что у вас все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку, скажіть, що у вас усе гаразд."
+        }
+    ]
+}

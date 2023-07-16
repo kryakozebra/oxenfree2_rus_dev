@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.ENTLIG",
+    "entries": [
+        {
+            "tag": "A1S1.ENTLIG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.ENTLIG_CHOICE_0000_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Ау?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A1S1.ENTLIG_CHOICE_0000_OPTION_0001",
+            "en": "Not waking up, yet...",
+            "ru_native": "Я еще сплю?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ще сплю…"
+        },
+        {
+            "tag": "A1S1.ENTLIG_CHOICE_0000_OPTION_0002",
+            "en": "Place looks deserted",
+            "ru_native": "Заброшенное место.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це місце виглядає занедбаним."
+        },
+        {
+            "tag": "A1S1.ENTLIG_RILEY_0000",
+            "en": "H-hello? Is anyone in here?",
+            "ru_native": "Эй? Есть там кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Тут хтось є?"
+        },
+        {
+            "tag": "A1S1.ENTLIG_RILEY_0001",
+            "en": "Alright, well… no, then.",
+            "ru_native": "Ну ладно... нет так нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, гаразд… значить нікого."
+        },
+        {
+            "tag": "A1S1.ENTLIG_RILEY_0002",
+            "en": "Either I shouldn’t have taken that extra half of a sleeping pill tonight, or…",
+            "ru_native": "Или я выпила на ночь лишнюю половинку снотворного, или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи мені не треба було приймати ще одну половинку снодійного сьогодні, чи…"
+        },
+        {
+            "tag": "A1S1.ENTLIG_RILEY_0003",
+            "en": "…I really am… here… and  have no clue why.",
+            "ru_native": "...я правда... здесь... и без понятия почему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я дійсно… тут… я й гадки не маю чому."
+        },
+        {
+            "tag": "A1S1.ENTLIG_RILEY_0004",
+            "en": "No one would work like this. I don’t think this thing’s operational.",
+            "ru_native": "Так не бывает. Сомневаюсь, что эта штука работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навряд чи тут хтось є. Здається, ця штука не працює."
+        }
+    ]
+}

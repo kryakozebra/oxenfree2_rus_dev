@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2_DURROP",
+    "entries": [
+        {
+            "tag": "A2W2_DURROP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_DURROP_CHOICE_0000_OPTION_0000",
+            "en": "Doing okay?",
+            "ru_native": "Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A2W2_DURROP_CHOICE_0000_OPTION_0001",
+            "en": "Out of shape?",
+            "ru_native": "Не в форме?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не у формі?"
+        },
+        {
+            "tag": "A2W2_DURROP_JACOB_0000",
+            "en": "[Grunting noises]",
+            "ru_native": "(бормочет)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[невдоволено бурчить]"
+        },
+        {
+            "tag": "A2W2_DURROP_JACOB_0001",
+            "en": "[More grunting noises]",
+            "ru_native": "(снова бормочет)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ще більше невдоволено бурчить]"
+        },
+        {
+            "tag": "A2W2_DURROP_JACOB_0002",
+            "en": "You kidding? This is my… happy place….",
+            "ru_native": "Смеешься? Это мое... счастливое место...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знущаєшся? Це ж… моє щасливе місце…"
+        },
+        {
+            "tag": "A2W2_DURROP_RILEY_0000",
+            "en": "Hey, you doing okay?",
+            "ru_native": "Эй, ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A2W2_DURROP_RILEY_0001",
+            "en": "[Laughs]",
+            "ru_native": "(смеется)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється]"
+        },
+        {
+            "tag": "A2W2_DURROP_RILEY_0002",
+            "en": "First time at the gym in a while?",
+            "ru_native": "Давно не тренировался?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давно не тренувався?"
+        }
+    ]
+}

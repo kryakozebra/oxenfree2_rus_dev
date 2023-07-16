@@ -1,0 +1,357 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1S3.EVEWRU",
+    "entries": [
+        {
+            "tag": "A1S3.EVEWRU_CHOICE_0000_OPTION_0000",
+            "en": "Explain the job again.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Объясни еще раз суть работы.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поясни суть роботи ще раз."
+        },
+        {
+            "tag": "A1S3.EVEWRU_CHOICE_0000_OPTION_0001",
+            "en": "Do I need a partner?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нужен ли мне партнер?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені дійсно потрібен напарник?"
+        },
+        {
+            "tag": "A1S3.EVEWRU_CHOICE_0000_OPTION_0002",
+            "en": "Nope, no questions.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не-а, никаких вопросов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, питань немає."
+        },
+        {
+            "tag": "A1S3.EVEWRU_CHOICE_0001_OPTION_0000",
+            "en": "Over and out!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Конец связи и выход!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку!"
+        },
+        {
+            "tag": "A1S3.EVEWRU_CHOICE_0001_OPTION_0001",
+            "en": "Thanks, bye!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Спасибо, пока!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, бувай!"
+        },
+        {
+            "tag": "A1S3.EVEWRU_CHOICE_0001_OPTION_0002",
+            "en": "See ya.",
+            "ru_native": "",
+            "ru_machine": "DEEPL До встречи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0000",
+            "en": "One tonight, and a few more tomorrow when the general store opens.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Один сегодня вечером, и еще несколько завтра, когда откроется общий магазин.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Один сьогодні й ще кілька завтра, коли універмаг відчиниться."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0001",
+            "en": "Okay, guys! I feel good about this! Really! Jacob, Riley… have any questions?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, ребята! Я чувствую себя хорошо в этом плане! Правда! Джейкоб, Райли... есть вопросы?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, друзі! У мене є хороше передчуття! Чесно! Джейкобе, Райлі… у вас є питання?"
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0002",
+            "en": "But, uh, you guys have any questions before you head out?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, ребята, у вас есть какие-нибудь вопросы, прежде чем вы отправитесь в путь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У вас є якісь запитання, поки ви не пішли?"
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0003",
+            "en": "Before I finally get some dinner.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пока я, наконец, не поужинал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки я не пішла вечеряти."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0004",
+            "en": "Going once, going twice!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пошел раз, пошел два!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рахую до трьох!"
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0005",
+            "en": "It’s okay if you don’t!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ничего страшного, если ты этого не сделаешь!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого страшного, якщо питань немає."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0006",
+            "en": "No?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні?"
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0007",
+            "en": "[chuckles] It’s okay, it’s a bit specialized.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется] Все нормально, это немного специализированно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Усе гаразд, це не проста штука."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0008",
+            "en": "You and Jacob are going to put transmitters – these big, metal poles – into a few areas around Camena.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты и Джейкоб собираетесь установить передатчики - эти большие металлические столбы - в нескольких районах вокруг Камены.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви з Джейкобом будете встановлювати радіопередавачі,<br>великі металеві стовпи, у кількох місцях Камени."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0009",
+            "en": "These will gather electromagnetic data and send them to our lab for study.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они будут собирать электромагнитные данные и отправлять их в нашу лабораторию для изучения.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони будуть збирати електромагнітні дані й<br>надсилати їх у нашу лабораторію для вивчення."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0010",
+            "en": "We’re doing this because some radio signals are disrupting the town’s equipment, and no one can figure out why, yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы делаем это потому, что некоторые радиосигналы нарушают работу городского оборудования, и никто пока не может понять, почему.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми робимо це, бо деякі сигнали перешкоджають нормальній<br>роботі обладнання, і ніхто не може зрозуміти чому."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0011",
+            "en": "[chuckles] Yes, ha – you do, Riley. It’s for safety.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется] Да, ха - так и есть, Райли. Это для безопасности.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Так… Дійсно потрібен, Райлі. Це задля твоєї ж безпеки."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0012",
+            "en": "You’re going to be traversing some hazardous terrain and it’s always best to have a spotter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе предстоит преодолевать опасные участки местности, и всегда лучше иметь помощника.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти будеш працювати в небезпечній місцевості, тому краще не робити це самотужки."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0013",
+            "en": "Okay…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд…"
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0014",
+            "en": "Alright guys, good luck.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, ребята, удачи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, друзі, щасти вам."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0015",
+            "en": "Let me know if you run into any trouble or have any future questions.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дай мне знать, если ты столкнешься с какими-либо проблемами или у тебя возникнут вопросы в будущем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дайте знати, якщо будуть якісь проблеми чи питання в майбутньому."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0016",
+            "en": "I’ll be on most of the night.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я буду в эфире почти всю ночь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буду на зв'язку майже всю ніч."
+        },
+        {
+            "tag": "A1S3.EVEWRU_EVELYN_0017",
+            "en": "Okay, guys, talk to you later. Over and out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, ребята, поговорим позже. Конец связи и выход.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, пізніше поговоримо. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S3.EVEWRU_JACOB_0000",
+            "en": "I don’t…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене нема…"
+        },
+        {
+            "tag": "A1S3.EVEWRU_JACOB_0001",
+            "en": "Think so?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Думаешь, да?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається."
+        },
+        {
+            "tag": "A1S3.EVEWRU_JACOB_0002",
+            "en": "Riley? No?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли? Нет?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ні?"
+        },
+        {
+            "tag": "A1S3.EVEWRU_JACOB_0003",
+            "en": "[laughs] Good question!",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется] Хороший вопрос!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Гарне питання!"
+        },
+        {
+            "tag": "A1S3.EVEWRU_JACOB_0004",
+            "en": "Thanks Evelyn!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Спасибо Эвелин!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, Евелін!"
+        },
+        {
+            "tag": "A1S3.EVEWRU_JACOB_0005",
+            "en": "Talk to you later.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Поговорим с тобой позже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потім поговоримо."
+        },
+        {
+            "tag": "A1S3.EVEWRU_JACOB_0006",
+            "en": "Over and out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прием и отбой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A1S3.EVEWRU_RILEY_0000",
+            "en": "Oh. Neat.",
+            "ru_native": "",
+            "ru_machine": "DEEPL O. Neat.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово."
+        },
+        {
+            "tag": "A1S3.EVEWRU_RILEY_0001",
+            "en": "I’m sorry, but… I just wanna be sure I caught everything.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Извини, но... Я просто хочу быть уверен, что всё поймал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але… Я просто хочу впевнитися, що я все зрозуміла."
+        },
+        {
+            "tag": "A1S3.EVEWRU_RILEY_0002",
+            "en": "Uh, just one…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, только один...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, лише одне питання…"
+        },
+        {
+            "tag": "A1S3.EVEWRU_RILEY_0003",
+            "en": "No offense, Jacob – we just met, you seem nice – but do I really need a partner for this?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не обижайся, Джейкоб - мы только что познакомились, ты кажешься милым, - но действительно ли мне нужен для этого партнер?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без образ, Джейкобе, ти наче хороший хлопець,<br>але мені дійсно потрібен напарник для цього?"
+        },
+        {
+            "tag": "A1S3.EVEWRU_RILEY_0004",
+            "en": "I don’t think I have any questions, no.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не думаю, что у меня есть вопросы, нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що в мене немає питань."
+        },
+        {
+            "tag": "A1S3.EVEWRU_RILEY_0005",
+            "en": "Okay, over and out!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, конец связи!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, кінець зв’язку!"
+        },
+        {
+            "tag": "A1S3.EVEWRU_RILEY_0006",
+            "en": "Alright, Evelyn. Thanks. Uh, bye.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, Эвелин. Спасибо. Э-э, пока.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Евелін. Дякую. Бувай."
+        },
+        {
+            "tag": "A1S3.EVEWRU_RILEY_0007",
+            "en": "Okay, Evelyn, see ya.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, Эвелин, до встречи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Евелін. До зв’язку."
+        }
+    ]
+}

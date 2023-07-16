@@ -1,0 +1,411 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S5.SWITCH",
+    "entries": [
+        {
+            "tag": "A1S5.SWITCH_CHARLIE_0000",
+            "en": "Who are they? Why are we—",
+            "ru_native": "Кто они? Почему мы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто вони? Чому ми…"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHARLIE_0001",
+            "en": "Where’d the island go?",
+            "ru_native": "Куда делся остров?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди подівся острів?"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHARLIE_0002",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHARLIE_0003",
+            "en": "Olivia, stop. Something’s wrong.",
+            "ru_native": "Оливия, хватит. Что-то не так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, зупинися. Щось не так."
+        },
+        {
+            "tag": "A1S5.SWITCH_CHARLIE_0004",
+            "en": "Did something hit it?",
+            "ru_native": "В нее что-то ударило?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її щось пошкодило?"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHARLIE_0005",
+            "en": "It's totally fried.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Он полностью прожарен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S5.SWITCH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHOICE_0000_OPTION_0000",
+            "en": "Who are you?",
+            "ru_native": "Кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хто?"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHOICE_0000_OPTION_0001",
+            "en": "What the hell?",
+            "ru_native": "Что за черт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що за чортівня?"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHOICE_0001_OPTION_0000",
+            "en": "Huh?",
+            "ru_native": "А?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм?"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHOICE_0001_OPTION_0001",
+            "en": "I’m doing this?",
+            "ru_native": "Я испортила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це я зіпсувала?"
+        },
+        {
+            "tag": "A1S5.SWITCH_CHOICE_0001_OPTION_0002",
+            "en": "What are you talking about?!",
+            "ru_native": "Что ты несешь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ви таке кажете?!"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0000",
+            "en": "No, the antenna isn’t—this—wait—what the—",
+            "ru_native": "Нет, антенна не... это... постой... что за...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, антена не… це… стривай… що…"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0001",
+            "en": "That’s a transmitter.",
+            "ru_native": "Это передатчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це радіопередавач."
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0002",
+            "en": "Her stupid transmitter fried our antenna!",
+            "ru_native": "Ее тупой передатчик сжег нашу антенну!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її тупий радіопередавач спалив антену!"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0003",
+            "en": "This isn’t—this is <i>not</i> supposed to be happening—",
+            "ru_native": "Так не... так не должно было быть...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не… це не мало статися…"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0004",
+            "en": "Because she screwed it up!",
+            "ru_native": "Потому что она все испортила!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що вона все зіпсувала!"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0005",
+            "en": "[reciting] “—between the thumb, and the ring, and the hearth and Luna, is—”",
+            "ru_native": "«...между большим и безымянным, между сердцем и Луной, лежит...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[декламує] «…між великим і підмізинним пальцями, між вогнищем і Місяцем…»"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0006",
+            "en": "Wait.",
+            "ru_native": "Погоди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривайте."
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0007",
+            "en": "There’s—there’s someone… here.",
+            "ru_native": "Там... там что-то есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там… там хтось є…"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0008",
+            "en": "Our antenna! It’s — it looks destroyed! Is it broken? This isn’t —",
+            "ru_native": "Наша антенна! Она сломалась! Или ее сломали? Это не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Антена! Вона… пошкоджена! Вона зламана? Це не…"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0009",
+            "en": "Who are you? What did you do?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кто ты такой? Что ты сделал?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0010",
+            "en": "No! No!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет! Нет!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0011",
+            "en": "No – no no no – No! God – I can’t believe this!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет - нет нет нет - Нет! Боже - я не могу в это поверить!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні–ні, ні, ні–ні! Господи, я не можу в це повірити!"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0012",
+            "en": "The portal – something’s wrong with it! Erghggh – I was almost there!",
+            "ru_native": "The портал – что-то не так with it! Erghggh – I was почти получилось!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Портал — щось із ним не так! Г-р-р-р… Мені майже вдалося!"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0013",
+            "en": "She did something! She – whatever she did fried our antenna!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она что-то сделала! Она - что бы она ни сделала - поджарила нашу антенну!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона щось зробила! Вона… щоби вона не зробила, це підсмажило нашу антену!"
+        },
+        {
+            "tag": "A1S5.SWITCH_OLIVIA_0014",
+            "en": "They – they – they warned me about –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они - они - они предупреждали меня о...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони… вони… вони попереджали мене про…"
+        },
+        {
+            "tag": "A1S5.SWITCH_RILEY_0000",
+            "en": "Who are—",
+            "ru_native": "Кто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто…"
+        },
+        {
+            "tag": "A1S5.SWITCH_RILEY_0001",
+            "en": "What the hell is—",
+            "ru_native": "Что за...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… що за чортівня…"
+        },
+        {
+            "tag": "A1S5.SWITCH_RILEY_0002",
+            "en": "Huh? Who—",
+            "ru_native": "А? Кто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га? Хто…"
+        },
+        {
+            "tag": "A1S5.SWITCH_RILEY_0003",
+            "en": "Wait—I’m—I’m doing this?",
+            "ru_native": "Стойте... Я... я испортила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекайте… Я… це я зіпсувала?"
+        },
+        {
+            "tag": "A1S5.SWITCH_RILEY_0004",
+            "en": "What are you talking a—?",
+            "ru_native": "О чем ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви про що?"
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0000",
+            "en": "Where are we?",
+            "ru_native": "Где мы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де це ми?"
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0001",
+            "en": "Olivia?",
+            "ru_native": "Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє?"
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0002",
+            "en": "Why do we keep jumping?",
+            "ru_native": "Почему мы все еще прыгаем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ми досі стрибаємо?"
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0003",
+            "en": "Olivia? Is this supposed to work like this?",
+            "ru_native": "Оливия? Так и должно быть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє? Чи так воно має бути?"
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0004",
+            "en": "Can we fix it?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Можем ли мы это исправить?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0005",
+            "en": "Why did it break?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Почему он сломался?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0006",
+            "en": "What is that beam hitting the portal?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что это за луч, бьющий в портал?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0007",
+            "en": "The antenna... it's--",
+            "ru_native": "",
+            "ru_machine": "DEEPL Антенна... это...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0008",
+            "en": "Why is this happening?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Почему это происходит?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0009",
+            "en": "Why is this--",
+            "ru_native": "",
+            "ru_machine": "DEEPL Почему это...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0010",
+            "en": "What is that touching it? Is it lightning?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что это прикасается к нему? Это молния?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це його торкається? Це блискавка?"
+        },
+        {
+            "tag": "A1S5.SWITCH_VIOLET_0011",
+            "en": "Who is she?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кто она такая?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто вона?"
+        }
+    ]
+}

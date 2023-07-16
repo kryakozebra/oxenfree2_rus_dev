@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S4.BARWIR",
+    "entries": [
+        {
+            "tag": "A1S4.BARWIR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.BARWIR_CHOICE_0000_OPTION_0000",
+            "en": "Never would!",
+            "ru_native": "Ни за что!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нізащо!"
+        },
+        {
+            "tag": "A1S4.BARWIR_CHOICE_0000_OPTION_0001",
+            "en": "What the Hell's MRSA?",
+            "ru_native": "Что еще за МРЗС?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що за чортівня цей стафілокок?"
+        },
+        {
+            "tag": "A1S4.BARWIR_JACOB_0000",
+            "en": "Don't forget about MRSA.",
+            "ru_native": "Или МРЗС.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не забувай і про стафілокок."
+        },
+        {
+            "tag": "A1S4.BARWIR_JACOB_0001",
+            "en": "Uh, it's just a—just another… infection, another kind of infection.",
+            "ru_native": "А, просто... еще один вид инфекции.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це просто… інфекція, ще один вид інфекції."
+        },
+        {
+            "tag": "A1S4.BARWIR_RILEY_0000",
+            "en": "I'd rather avoid tetanus, so no climbing this one.",
+            "ru_native": "Я туда не полезу, не хочу подхватить столбняк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я туди не полізу, ще правцем заражуся."
+        },
+        {
+            "tag": "A1S4.BARWIR_RILEY_0001",
+            "en": "Heh, Never would!",
+            "ru_native": "Ни за что!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нізащо!"
+        },
+        {
+            "tag": "A1S4.BARWIR_RILEY_0002",
+            "en": "Uh, what the Hell is MRSA?",
+            "ru_native": "А? Что еще за МРЗС?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, що… що за чортівня цей стафілокок?"
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2C6",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2C6_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2C6_CHOICE_0000_OPTION_0000",
+            "en": "Can you hear me, Evelyn?",
+            "ru_native": "Ты меня слышишь, Эвелин?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене чуєш, Евелін?"
+        },
+        {
+            "tag": "EVWT.EVA2C6_EVELYN_0000",
+            "en": "[static]",
+            "ru_native": "[ID-1]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум]"
+        },
+        {
+            "tag": "EVWT.EVA2C6_RILEY_0000",
+            "en": "Hey, Evelyn? Can you hear me? I’m… pretty far off the grid, so. Just checking. Over?",
+            "ru_native": "Эй, Эвелин? Ты меня слышишь? Я как-то далеко забралась. Проверка связи. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін? Ти мене чуєш? Я зайшла досить далеко. Перевірка зв’язку. Прийом?"
+        },
+        {
+            "tag": "EVWT.EVA2C6_RILEY_0001",
+            "en": "[to herself] Ugh, okay, guess you’re crapping.",
+            "ru_native": "Видимо, со связью глухо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[До себе] Мабуть, зв’язок поганий."
+        }
+    ]
+}

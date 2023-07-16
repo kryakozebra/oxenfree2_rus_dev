@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.TUNCHP",
+    "entries": [
+        {
+            "tag": "A2W4.TUNCHP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.TUNCHP_CHOICE_0000_OPTION_0000",
+            "en": "It might help him!",
+            "ru_native": "Может помочь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це може допомогти!"
+        },
+        {
+            "tag": "A2W4.TUNCHP_CHOICE_0000_OPTION_0001",
+            "en": "Oh man, this is bad.",
+            "ru_native": "Блин, это плохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, погано це."
+        },
+        {
+            "tag": "A2W4.TUNCHP_CHOICE_0000_OPTION_0002",
+            "en": "Hang in there, kid!",
+            "ru_native": "Держись, парень!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тримайся, малий!"
+        },
+        {
+            "tag": "A2W4.TUNCHP_JACOB_0000",
+            "en": "Jesus!",
+            "ru_native": "Господи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи!"
+        },
+        {
+            "tag": "A2W4.TUNCHP_JACOB_0001",
+            "en": "Are we sure about this?",
+            "ru_native": "Мы уверены?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ми впевнені в цьому?"
+        },
+        {
+            "tag": "A2W4.TUNCHP_RILEY_0000",
+            "en": "It might—it might help him! I don’t know!",
+            "ru_native": "Это может помочь! Я не знаю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це може… може допомогти йому! Напевно, не знаю!"
+        },
+        {
+            "tag": "A2W4.TUNCHP_RILEY_0001",
+            "en": "Oh man, this is… not good, I know.",
+            "ru_native": "Блин, это... не есть хорошо, знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой-йой, це… не до добра, це точно."
+        },
+        {
+            "tag": "A2W4.TUNCHP_RILEY_0002",
+            "en": "Hold on, kid! I’m—this might help?",
+            "ru_native": "Парень, держись! Вдруг поможет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тримайся, хлопче! Я… це може допомогти?"
+        }
+    ]
+}

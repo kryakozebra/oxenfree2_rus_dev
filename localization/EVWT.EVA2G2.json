@@ -1,0 +1,132 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2G2",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2G2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2G2_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? I’m in Garland.",
+            "ru_native": "Эвелин? Я в Гарленде.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Я в Гарленді."
+        },
+        {
+            "tag": "EVWT.EVA2G2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2G2_CHOICE_0001_OPTION_0000",
+            "en": "It’s Riley!",
+            "ru_native": "Это Райли!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Райлі!"
+        },
+        {
+            "tag": "EVWT.EVA2G2_CHOICE_0001_OPTION_0001",
+            "en": "I know you’re at work!",
+            "ru_native": "Я знаю, что ты на работе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ти на роботі!"
+        },
+        {
+            "tag": "EVWT.EVA2G2_EVELYN_0000",
+            "en": "[staticky] Yeah, this is Evelyn. I’m at work. Who’s this?",
+            "ru_native": "Да, это Эвелин. Я на работе. Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Так, це Евелін. Я на роботі. Хто це?"
+        },
+        {
+            "tag": "EVWT.EVA2G2_EVELYN_0001",
+            "en": "[staticky] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2G2_EVELYN_0002",
+            "en": "[staticky] Yeah, sorry, I don’t know a Riley, Riley.",
+            "ru_native": "Простите, Райли, но я не знаю никаких Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Так, вибачте. Я не знаю жодних Райлі, Райлі."
+        },
+        {
+            "tag": "EVWT.EVA2G2_EVELYN_0003",
+            "en": "[staticky] And don’t call Maritime Emergency Dispatch unless you have a real emergency.",
+            "ru_native": "Прошу не занимать канал службы экстренной помощи, если у вас не ЧП.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Прошу не займати канал служби<br>екстреної допомоги на морі, якщо у вас не надзвичайна ситуація."
+        },
+        {
+            "tag": "EVWT.EVA2G2_EVELYN_0004",
+            "en": "[staticky] Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2G2_EVELYN_0005",
+            "en": "[staticky] I don’t have time for cranks, ma’am.",
+            "ru_native": "Девушка, у меня нет времени на розыгрыши.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Голос переривають перешкоди] Мадам, у мене немає часу на жарти."
+        },
+        {
+            "tag": "EVWT.EVA2G2_RILEY_0000",
+            "en": "Hey, uh, Evelyn? I’m in Garland. Can you hear me? Over.",
+            "ru_native": "Эй, Эвелин? Я в Гарленде. Слышишь меня? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін? Я в Гарленді. Ти мене чуєш? Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2G2_RILEY_0001",
+            "en": "Uh, this is Riley. I’ve been talking to you all night. Over.",
+            "ru_native": "Это Райли. Мы с тобой всю ночь говорим. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Райлі. Я розмовляю з тобою всю ніч. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2G2_RILEY_0002",
+            "en": "Uh, I know you’re at work, Evelyn? I’m not calling for a date. Over.",
+            "ru_native": "Эвелин, я знаю, где ты. Я не на свиданку тебя зову. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ти на роботі, Евелін. Я не на побачення тебе кличу. Прийом."
+        }
+    ]
+}

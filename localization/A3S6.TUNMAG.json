@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S6.TUNMAG",
+    "entries": [
+        {
+            "tag": "A3S6.TUNMAG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.TUNMAG_CHOICE_0000_OPTION_0000",
+            "en": "Keep tuning!",
+            "ru_native": "Крути дальше!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжуй налаштовувати!"
+        },
+        {
+            "tag": "A3S6.TUNMAG_CHOICE_0000_OPTION_0001",
+            "en": "It’s reacting!",
+            "ru_native": "Есть реакция!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є реакція!"
+        },
+        {
+            "tag": "A3S6.TUNMAG_MAGGIE_0000",
+            "en": "Ah! Guys! I think—I think it’s doing, uh, something, but it’s incredibly hard to see you!",
+            "ru_native": "А! Ребята! Кажется, заработало, но я вас почти не вижу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Братва! Здається, це працює. Але я вас майже не бачу!"
+        },
+        {
+            "tag": "A3S6.TUNMAG_MAGGIE_0001",
+            "en": "Is it—is it doing it?",
+            "ru_native": "Ну как... работает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну як… працює?"
+        },
+        {
+            "tag": "A3S6.TUNMAG_MAGGIE_0002",
+            "en": "What’s happening?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        },
+        {
+            "tag": "A3S6.TUNMAG_RILEY_0000",
+            "en": "No no no, keep tuning! Keep tuning, it’s doing something!",
+            "ru_native": "Нет-нет-нет, крути дальше! Крути, работает!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ні, ні, продовжуй налаштовувати! Продовжуй налаштовувати! Щось виходить!"
+        },
+        {
+            "tag": "A3S6.TUNMAG_RILEY_0001",
+            "en": "Yes, Maggie, it’s reacting! Just keep on it!",
+            "ru_native": "Да, Мэгги, есть реакция! Продолжай крутить!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Меггі, воно реагує! Продовжуй крутити!"
+        }
+    ]
+}

@@ -1,0 +1,465 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.GENSTO",
+    "entries": [
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0000_OPTION_0000",
+            "en": "Thanks for the help.",
+            "ru_native": "Спасибо за помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за допомогу."
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0000_OPTION_0001",
+            "en": "Great, hurry.",
+            "ru_native": "Поторопись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, поспіши."
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0001_OPTION_0000",
+            "en": "Don’t worry about it.",
+            "ru_native": "Не переживай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся за це."
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0001_OPTION_0001",
+            "en": "We’ll be fine.",
+            "ru_native": "Мы справимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із нами все буде гаразд."
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0002_OPTION_0000",
+            "en": "Do it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сделай это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай."
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0002_OPTION_0001",
+            "en": "Don’t you dare.",
+            "ru_native": "Разве нет dare.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не смій."
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0002_OPTION_0002",
+            "en": "Grab me a pack, too.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Захвати и мне пачку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І мені візьми теж."
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0003_OPTION_0000",
+            "en": "Did we just commit a crime?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Неужели мы только что совершили преступление?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Невже ми щойно вчинили злочин?"
+        },
+        {
+            "tag": "A1PO.GENSTO_CHOICE_0003_OPTION_0001",
+            "en": "Should we leave a note?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может, оставить записку?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи маємо ми залишити записку?"
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0000",
+            "en": "Ah-ha! Great.",
+            "ru_native": "Ага! Блеск.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ах-ха! Клас."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0001",
+            "en": "Still has the key. One minute.",
+            "ru_native": "Ключ на месте. Минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ключ іще тут. Хвилинку."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0002",
+            "en": "Hey, this part’s easy.",
+            "ru_native": "Это была легкая часть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, це ще квіточки."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0003",
+            "en": "Yeah yeah, just one second.",
+            "ru_native": "Да-да, секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так, секунду."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0004",
+            "en": "Here you go! This was left on the office counter.",
+            "ru_native": "Держи! Лежало на столе в офисе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тримай! Це лишили на столі в офісі."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0005",
+            "en": "Looks like a climbing rope, clasps… everything we’ll need.",
+            "ru_native": "Тут трос, карабины... В общем, все что нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на альпіністський трос, карабіни… усе, що нам потрібно."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0006",
+            "en": "Which… yeah, I’m not really looking forward to that part.",
+            "ru_native": "Хотя... Использовать их я желанием не горю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… мені не дуже хочеться переходити до наступної частини."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0007",
+            "en": "Trying not to think about it, though.",
+            "ru_native": "Но стараюсь об этом не думать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча намагаюся не думати про це."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0008",
+            "en": "<i>Ugh.</i>",
+            "ru_native": "Бр-р.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0009",
+            "en": "Easy for some people.",
+            "ru_native": "Для кого как.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Легко для когось."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0010",
+            "en": "A few more transmitters. And…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Еще несколько передатчиков. И...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще кілька радіопередавачів. І…"
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0011",
+            "en": "Alright the door's unlocked, come on in.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, дверь не заперта, заходи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0012",
+            "en": "Okay, key should be right under the mat. Real high-tech security, ya know?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так, ключ должен быть прямо под ковриком. Настоящая высокотехнологичная безопасность, понимаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ключ має бути під килимком. Сучасна високотехнологічна безпека, розумієш?"
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0013",
+            "en": "I’m stealing gum.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я ворую жвачку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я поцуплю жуйку."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0014",
+            "en": "It’s happening.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это происходит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уже це роблю."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0015",
+            "en": "Hmm, but which one?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм, но какой именно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, а яку саме?"
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0016",
+            "en": "Wintermint. No, cinnamon.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зимняя мята. Нет, корица.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зимова свіжість. Ні, кориця."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0017",
+            "en": "Ooo, cinnamon wintermint.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ооо, зимняя мята с корицей.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ммм, зимова свіжість."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0018",
+            "en": "Eh, I’m all talk.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эх, я весь в разговорах.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та я жартую."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0019",
+            "en": "Besides the amount of fake sugar in these things? I don’t need to grow an eyeball on my foot.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кроме того, сколько в этих штуках искусственного сахара? Мне не нужно выращивать глазное яблоко на ноге.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Окрім того, ти знаєш скільки штучного цукру в них?<br>Мені не потрібно нове око на стопі."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0020",
+            "en": "There’s the gear. Let’s go.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вот и снаряжение. Поехали.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось спорядження. Ходімо."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0021",
+            "en": "Eh–depends on who you ask.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эх, зависит от того, кого ты спросишь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е. Залежить від точки зору."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0022",
+            "en": "So…we just won’t ask anyone!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так что... мы просто не будем никого спрашивать!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… ми ні в кого не питатимемо!"
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0023",
+            "en": "And what would this note say?  “Universe possibly collapsing, had to technically rob you. Hugs and kisses, Jake and Ri.”",
+            "ru_native": "",
+            "ru_machine": "DEEPL И что было бы написано в этой записке? \"Вселенная, возможно, рушится, пришлось технично ограбить тебя. Обнимаю и целую, Джейк и Ри\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І про що б йшлося в цій записці? «Ймовірно всесвіт незабаром зруйнується,<br>тож довелося вас пограбувати. Обіймаємо, цілуємо, Джейк і Рай»."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0024",
+            "en": "Fred’s in his late 80s. He won’t notice. Or care.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Фреду уже за восемьдесят. Он этого не заметит. Или будет переживать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фреду вже за 80. Він не помітить. Чи йому буде байдуже."
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0025",
+            "en": "Mind if I take a look at the gear?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не возражаешь, если я взгляну на передачу?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не проти, якщо я роздивлюся спорядження?"
+        },
+        {
+            "tag": "A1PO.GENSTO_JACOB_0026",
+            "en": "A few more transmitters. And…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Еще несколько передатчиков. И...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще кілька радіопередавачів. І…"
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0000",
+            "en": "[sigh] Cool. Thanks for the help.",
+            "ru_native": "Круто. Спасибо за помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Круто. Дякую за допомогу."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0001",
+            "en": "Cool. Hurry, please.",
+            "ru_native": "Круто. Давай быстрее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто. Прошу, поспіши."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0002",
+            "en": "Don’t worry about the climbing part.",
+            "ru_native": "За лазание по скалам не переживай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся за те, що доведеться видиратися нагору."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0003",
+            "en": "With the rope, it’s pretty easy, honestly.",
+            "ru_native": "С веревкой это проще простого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З мотузкою це буде просто. Чесно."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0004",
+            "en": "We’ll be fine, Jacob.",
+            "ru_native": "Мы справимся, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із нами все буде гаразд, Джейкобе."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0005",
+            "en": "I’ll take fresh breath to good karma anyday.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я приму свежее дыхание за хорошую карму в любой день.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я будь-коли зможу покращити карму."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0006",
+            "en": "Do it to it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сделай это с ним.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До роботи."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0007",
+            "en": "Dude, no. We’re not thirteen years old.",
+            "ru_native": "Dude, no. Не ладим тринадцать years old.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Нам уже не по тринадцять років."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0008",
+            "en": "Buy your candy like a goddamn grown-up.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Покупай свои конфеты как чертовски взрослый человек.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Купи собі цукерки, як доросла людина."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0009",
+            "en": "Hell yes. And grab me a pack.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, черт возьми. И захвати мне пачку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, чорт забирай. І мені візьми пачку."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0010",
+            "en": "Screw it, grab me two.",
+            "ru_native": "",
+            "ru_machine": "DEEPL К черту, возьми мне две.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До біса, візьми мені дві."
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0011",
+            "en": "That’s technically B&E right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это ведь технически B&E?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Технічно це злом і проникнення, чи не так?"
+        },
+        {
+            "tag": "A1PO.GENSTO_RILEY_0012",
+            "en": "Should we leave like–a note or something?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может, оставить записку или что-то в этом роде?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може залишимо якусь записку чи щось таке?"
+        }
+    ]
+}

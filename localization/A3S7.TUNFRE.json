@@ -1,0 +1,213 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S7.TUNFRE",
+    "entries": [
+        {
+            "tag": "A3S7.TUNFRE_ALEX_0000",
+            "en": "Why do you think we ran around to see everyone?",
+            "ru_native": "А почему мы носимся, чтобы всех увидеть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ми бігаємо, щоби побачити всіх?"
+        },
+        {
+            "tag": "A3S7.TUNFRE_ALEX_0001",
+            "en": "It’s not up to me.",
+            "ru_native": "Я ничего не решаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не моя справа."
+        },
+        {
+            "tag": "A3S7.TUNFRE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.TUNFRE_CHOICE_0000_OPTION_0000",
+            "en": "Yeah. Creepy.",
+            "ru_native": "Да, крипово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Моторошно."
+        },
+        {
+            "tag": "A3S7.TUNFRE_CHOICE_0000_OPTION_0001",
+            "en": "It’s nothing, Rex.",
+            "ru_native": "Не забивай голову.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це нічого, Рексе."
+        },
+        {
+            "tag": "A3S7.TUNFRE_OLIVIA_0000",
+            "en": "Why should—why do you get to decide!",
+            "ru_native": "Почему... Почему ты за нас решаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому… чому це ти вирішуєш?"
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0000",
+            "en": "Aw— [laughs] —you made me think you weren’t gonna do it!",
+            "ru_native": "Я уж было подумал, что ты мне запретишь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой… [сміється]… я вже думав, що ви не зробите цього!"
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0001",
+            "en": "Oh—oh, wait… you—it’s here, I think…",
+            "ru_native": "Погоди, вот... Здесь, кажется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, це… здається, тут."
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0002",
+            "en": "Whoa. Creepy, right?",
+            "ru_native": "Ого. Крипота, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Овва. Лячно, правда?"
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0003",
+            "en": "I guess you can hear different people saying… things or whatever—depending on what time it is?",
+            "ru_native": "Видимо, в разное время можно услышать разговоры разных людей?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, у різний час можна почути розмови різних людей…"
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0004",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0005",
+            "en": "It’s weird, though, right?",
+            "ru_native": "Но все равно странно, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та все одно дивно, чи не так?"
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0006",
+            "en": "They say they don’t understand what it means.",
+            "ru_native": "Ребята говорили, что ничего не поняли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони кажуть, що нічого не розуміють."
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0007",
+            "en": "They say nobody can.",
+            "ru_native": "Никто не понимает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажуть, що ніхто не розуміє."
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0008",
+            "en": "That they’re, like, investigating it.",
+            "ru_native": "Эту штуку хотят исследовать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони збираються провести розслідування."
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0009",
+            "en": "Kids have said that it’s, uh, memories of people from an experimental, uh, thing.",
+            "ru_native": "Ходят слухи, что это воспоминания участников какого-то эксперимента.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Діти казали, що це спогади учасників експерименту."
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0010",
+            "en": "Like… thoughts people have had beamed from a telepathic machine.",
+            "ru_native": "Типа мыслей, пропущенных через аппарат для телепатии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу… думок, які пропустили крізь апарат для телепатії."
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0011",
+            "en": "But… I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Не знаю."
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0012",
+            "en": "To be honest… it was less cool than they sold it as, but, you know, whatever.",
+            "ru_native": "Если честно, вышло не так круто, как мне обещали. Такое себе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно кажучи… було не так круто, як про це говорили."
+        },
+        {
+            "tag": "A3S7.TUNFRE_REX_0013",
+            "en": "Yeah…",
+            "ru_native": "Да...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага…"
+        },
+        {
+            "tag": "A3S7.TUNFRE_RILEY_0000",
+            "en": "[quietly] Yeah… yeah. It’s, uh, creepy.",
+            "ru_native": "Да... Да, крипово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихо] Так… так. Це лячно."
+        },
+        {
+            "tag": "A3S7.TUNFRE_RILEY_0001",
+            "en": "This… it’s nothing, Rex.",
+            "ru_native": "Не забивай голову, Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це нічого, Рексе."
+        },
+        {
+            "tag": "A3S7.TUNFRE_RILEY_0002",
+            "en": "Signals bouncing off of air waves. We get weirder stuff on our kitchen transmitter.",
+            "ru_native": "Сигналы, прыгающие по волнам. У нас на кухне и похуже штуки поймать можно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сигнали, що стрибають хвиляма. На нашій кухні можна піймати ще дивніші речі."
+        }
+    ]
+}

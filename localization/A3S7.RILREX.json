@@ -1,0 +1,1023 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S7.RILREX",
+    "entries": [
+        {
+            "tag": "A3S7.RILREX_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0000_OPTION_0000",
+            "en": "He always says that.",
+            "ru_native": "Он всегда так говорит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він завжди каже це."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0000_OPTION_0001",
+            "en": "You’re good?",
+            "ru_native": "Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти?"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0000_OPTION_0002",
+            "en": "Next time, I’ll get gum.",
+            "ru_native": "Куплю жвачку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наступного разу куплю жуйку."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0001_OPTION_0000",
+            "en": "Further up the trail.",
+            "ru_native": "Дальше по тропе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи далі, як іти стежиною."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0001_OPTION_0001",
+            "en": "That was eons ago.",
+            "ru_native": "Это было сто лет назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було вічність тому."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0001_OPTION_0002",
+            "en": "Today’s about us.",
+            "ru_native": "Сегодня наш день.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогоднішній день повністю присвятімо собі."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0002_OPTION_0000",
+            "en": "Sure, it’s up to you!",
+            "ru_native": "Как скажешь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно, вибір за тобою."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0002_OPTION_0001",
+            "en": "What is it?",
+            "ru_native": "Что за штука?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це?"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0003_OPTION_0000",
+            "en": "Always be prepared!",
+            "ru_native": "Всегда будь готов!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завжди будь готовий."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0003_OPTION_0001",
+            "en": "Who said swim?",
+            "ru_native": "Зачем плавать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А хто каже про плавання?"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0003_OPTION_0002",
+            "en": "Oh well, next time.",
+            "ru_native": "В следующий раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, добре, наступного разу."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0004_OPTION_0000",
+            "en": "No radios.",
+            "ru_native": "Никакого радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жодного радіо."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0004_OPTION_0001",
+            "en": "Okay, I’m intrigued.",
+            "ru_native": "Я заинтригована.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ти мене заінтригував."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0004_OPTION_0002",
+            "en": "Who told you about this?",
+            "ru_native": "Кто тебе про это сказал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто тобі про це розповів?"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0005_OPTION_0000",
+            "en": "Slow down, Rex!",
+            "ru_native": "Рекс, притормози!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не так швидко, Рексе!"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0005_OPTION_0001",
+            "en": "Okay, okay!",
+            "ru_native": "Ладно, ладно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд!"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0006_OPTION_0000",
+            "en": "Yeah, it’s great.",
+            "ru_native": "Да, хорошая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вона чудова!"
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0006_OPTION_0001",
+            "en": "No, never did.",
+            "ru_native": "Нет, ни разу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ніколи."
+        },
+        {
+            "tag": "A3S7.RILREX_CHOICE_0006_OPTION_0002",
+            "en": "Yeah, in school.",
+            "ru_native": "Да, в школе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, у школі."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0000",
+            "en": "Mom?",
+            "ru_native": "Мам?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мамо?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0001",
+            "en": "Okay, so, the guy at the General Store let me go this time but next time he said—",
+            "ru_native": "Сегодня парень в магазине меня пустил, но пригрозил, что в следующий раз...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопець з універмагу пустив мене цього разу, але сказав, що наступного разу…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0002",
+            "en": "—I’d have to buy something if I want to use the bathroom.",
+            "ru_native": "Придется что-то купить, чтобы сходить в туалет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…доведеться щось купити, щоби він мене пустив до туалету."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0003",
+            "en": "He seemed kind of annoyed.",
+            "ru_native": "Он был явно недоволен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він виглядав роздратованим."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0004",
+            "en": "But it’s fine.",
+            "ru_native": "Ну да ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але все гаразд."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0005",
+            "en": "I went. All clear.",
+            "ru_native": "Я сходил. Дело сделано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сходив. Справу зроблено."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0006",
+            "en": "Oh. [chuckles] Okay.",
+            "ru_native": "Ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой. [сміється] Гаразд."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0007",
+            "en": "Okay, gross, but yes. There’s nothing left.",
+            "ru_native": "Фу! Но да. Ничего не осталось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, це огидно, але так. Нічого не залишилося."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0008",
+            "en": "Yeah I can understand why! It’s like winning the game on a penalty kick.",
+            "ru_native": "И его можно понять! Это как выиграть матч во время пенальти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, можу зрозуміти, чому! Це наче виграти матч у серії пенальті."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0009",
+            "en": "I saw a novelty sign—license plate thing you could buy… Tootega Falls?",
+            "ru_native": "Я заметил новинку на витрине: номерной знак с Тутега Фолз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачив знак «Новинка» — номерний знак, з водоспадів Тутега?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0010",
+            "en": "This is that place you told me about, right?",
+            "ru_native": "Это то место, про которое ты рассказывала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це те місце, про яке ти мені розповідала?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0011",
+            "en": "Is it… here where you helped that guy?",
+            "ru_native": "Это здесь ты помогла тому парню?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… тут ти допомогла тому хлопцю?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0012",
+            "en": "[chuckles] Is this where you tried to blow off that guy?",
+            "ru_native": "Это здесь ты пыталась отшить того парня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Це тут ти намагалася відшити того хлопця?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0013",
+            "en": "Was that guy trying to fix his car around here?",
+            "ru_native": "Это здесь тот парень пытался починить машину?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Десь тут цей хлопець намагався полагодити своє авто?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0014",
+            "en": "With the dog?",
+            "ru_native": "С собакой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із собакою?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0015",
+            "en": "Jake?",
+            "ru_native": "Джейк?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейку?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0016",
+            "en": "Oh. Okay.",
+            "ru_native": "Понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, гаразд."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0017",
+            "en": "I think you said that happened around here…",
+            "ru_native": "Ты вроде про это место рассказывала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ти казала, що це сталося десь тут…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0018",
+            "en": "So… okay, I don’t wanna skip the hike… don’t worry, I do want to wander around the woods…",
+            "ru_native": "Слушай, я не отмазываюсь от похода. Я правда пипец как хочу бродить по лесу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я не хочу пропускати похід… не хвилюйся,<br>мені просто кортить блукати лісами…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0019",
+            "en": "…and look at… frogs, and old candy wrappers stuck in bushes, but…",
+            "ru_native": "Смотреть на... лягушек и застрявшие в кустах фантики, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і дивитися на… жаб і фантики від цукерок, що застрягли в кущах, але…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0020",
+            "en": "I heard you could do this trick.",
+            "ru_native": "Я слышал об одной штуке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я чув, ти вмієш робити один трюк."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0021",
+            "en": "It’s this thing, apparently, you can do on the bridge that heads to the church…",
+            "ru_native": "Говорят, ее можно сделать на мосту, что ведет к церкви.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно, це можна зробити на мосту, що веде до церкви…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0022",
+            "en": "Can we take a little detour and try it out first?",
+            "ru_native": "Можно сначала туда заглянуть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи можемо троху зійти зі шляху та спершу спробувати це?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0023",
+            "en": "It should only take like five minutes.",
+            "ru_native": "Займет не больше пяти минут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На це піде лише п’ять хвилин."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0024",
+            "en": "I think.",
+            "ru_native": "Наверно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думаю."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0025",
+            "en": "[laughing] I would have dressed differently if I knew swimming was on the table.",
+            "ru_native": "Если бы знал, что смогу искупаться, оделся бы иначе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Якби я знав, що в програмі буде купання, одягнув би щось інше."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0026",
+            "en": "I don’t even have my trunks!",
+            "ru_native": "У меня даже плавок нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене навіть плавок не має!"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0027",
+            "en": "Actually… I don't even know where my trunks are.",
+            "ru_native": "Кстати... Где они вообще у меня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та я навіть не знаю, де мої плавки."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0028",
+            "en": "I think they’re still under the bed.",
+            "ru_native": "Наверно, все еще под кроватью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, досі десь під ліжком."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0029",
+            "en": "[smiling] I… will remember that.",
+            "ru_native": "Я это запомню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[посміхається] Гаразд, запам’ятаю це."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0030",
+            "en": "Oh, [laughs] yeah, that—okay. That makes more sense.",
+            "ru_native": "Ясно, понятно. Это логичнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, [сміється] гаразд. Це має більше сенсу."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0031",
+            "en": "And yeah, we can totally do that, but… just let me try this thing, first.",
+            "ru_native": "И да, я с удовольствием. Но можно сначала попробовать ту штуку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І так, із задоволенням, але… може, спочатку спробуємо цю штуку."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0032",
+            "en": "It’s just something you can do if you… if you, like, stand in the right spot…",
+            "ru_native": "Просто кое-что произойдет, если встать в подходящем месте...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто щось може статися, якщо стати в потрібному місці…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0033",
+            "en": "It’s like an echo of something you can hear…",
+            "ru_native": "Услышишь эхо или что-то типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Почуєш відлуння чи щось типу того…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0034",
+            "en": "I think…",
+            "ru_native": "Кажется...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0035",
+            "en": "I haven’t done it yet!",
+            "ru_native": "Я сам еще не пробовал!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сам ще не робив!"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0036",
+            "en": "But everyone says it’s really cool.",
+            "ru_native": "Но все говорят, что это круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але всі кажуть, що це дійсно класно."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0037",
+            "en": "Uhhhh we’ll get to that part when we get to that part.",
+            "ru_native": "Это обсудим, когда подойдем ближе к делу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обговоримо це, коли дійдемо ближче до суті."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0038",
+            "en": "A bunch of kids at lunch, they were all talking about it. Jeremy, I think, did it—Amanda, too.",
+            "ru_native": "Ребята в столовке обсуждали. Джереми, кажется, и Аманда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У шкільній їдальні діти про це пащекували. Здається, Джеремі й Аманда також."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0039",
+            "en": "I mean, maybe it’ll suck, I don’t know. But… we’re here, right?",
+            "ru_native": "Может, там туфта полная, не знаю. Но мы все равно здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, може я й застрягну, але… ми ж усе одно тут."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0040",
+            "en": "I think the bridge is over here. Come on!",
+            "ru_native": "Думаю, мост вон там. Идем!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, міст он там. Пішли-но!"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0041",
+            "en": "I don’t think you were ever my age, Mom…",
+            "ru_native": "Сомневаюсь, что ты была так молода, мам...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що ти взагалі була в моєму віці, мамо…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0042",
+            "en": "[laughs a little] God, you can take forever.",
+            "ru_native": "Ну ты и черепаха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[стримано сміється] Господи, ти ледве повзеш."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0043",
+            "en": "Hey, did you ever read this book called Black Beauty?",
+            "ru_native": "Ты читала книгу «Черный красавчик»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти коли-небудь читала книгу під назвою «Чорна краса»?"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0044",
+            "en": "We just got assigned it in English yesterday.",
+            "ru_native": "Нам ее вчера на литре дали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам задали її на англійській учора."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0045",
+            "en": "And I’m supposed to read chapter one this weekend.",
+            "ru_native": "На выходных нужно прочитать первую главу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цими вихідними нам задали прочитати першу главу."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0046",
+            "en": "Which is like the worst homework.",
+            "ru_native": "Самый отвратный вид домашки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це найгірша домашка."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0047",
+            "en": "[over her] Of the horse, yeah. I didn’t know that. Or… I didn’t know that before.",
+            "ru_native": "Коня, да. Я этого не знал. Точнее, тогда не знал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перебиваючи її] кінь, так. Я не знав цього. Або… не знав раніше."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0048",
+            "en": "Okay. Yeah, I was just wondering.",
+            "ru_native": "Вот. Я просто так спросил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Мені лише стало цікаво."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0049",
+            "en": "[thinks] Huh. Okay. I was just, uh, just wondering.",
+            "ru_native": "Ясно. Я просто так спросил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[задумливо] Гм, гаразд. Мені лише стало цікаво."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0050",
+            "en": "I, uh, I never heard of that one.",
+            "ru_native": "Впервые о такой слышу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, про так уперше чую."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0051",
+            "en": "I’m really liking it so far. We—the class voted for which book to read.",
+            "ru_native": "Мне пока что нравится. Наш класс выбирал книгу голосованием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки що дуже подобається. Ми голосуємо класом за те, яку книжку читати."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0052",
+            "en": "[chuckles] And, like, everyone groaned and complained when the horse book was announced.",
+            "ru_native": "Все так вздыхали и жаловались, когда получили книгу про лошадь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Як же всі стогнали й нарікали, коли оголосили книжку про коня."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0053",
+            "en": "I really wanted Johnny Got His Gun. But…",
+            "ru_native": "Я хотел «Джонни взял ружье», но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені дуже хотілося, щоби задали «Джону дали зброю», але…"
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0054",
+            "en": "I think some parents said they didn’t want a book about war.",
+            "ru_native": "Некоторые родители были против книг о войне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, деякі батьки були проти того, щоби ми читали книжку про війну."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0055",
+            "en": "But you know… whatever.",
+            "ru_native": "Но знаешь... Пофиг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але знаєш… то таке."
+        },
+        {
+            "tag": "A3S7.RILREX_REX_0056",
+            "en": "Okay, the spot is just… it’s just over here… I think.",
+            "ru_native": "Это место почти... Да, почти пришли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, це місце… он там… гадаю"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0000",
+            "en": "[breathes out a sigh]",
+            "ru_native": "[ID-0]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[голосно зітхає]"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0001",
+            "en": "Yeah, he, uh, he always says that. But… It's alright.",
+            "ru_native": "Да, он всегда так говорит. Не парься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, він завжди каже це. Але… не зважай."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0002",
+            "en": "But you’re good? You’re drained?",
+            "ru_native": "Ну как? Опорожнился?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе в порядку? Спорожнився?"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0003",
+            "en": "Yeah, next time I’ll just get the gum. Even though… I think that honestly annoys him more.",
+            "ru_native": "В следующий раз куплю жвачку. Хотя... Уверена, это его еще больше разозлит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, наступного разу куплю жуйку. Хоча… гадаю, це роздратує його ще більше."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0004",
+            "en": "Uh, that was… further up the trail a bit. Not here. Exactly.",
+            "ru_native": "Это было чуть дальше по тропе. Не здесь. Не совсем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, це було… трохи далі, як іти стежиною. Точно не тут."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0005",
+            "en": "But… I don’t think he’s around anymore.",
+            "ru_native": "Но... Думаю, он тут уже не живет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… гадаю, його тут більше немає."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0006",
+            "en": "Oh— [chuckles] Yeah. That was… eons ago. Several lifetimes.",
+            "ru_native": "Да. Это было сто лет назад. Пару жизней назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О… [сміється] так. Це було… вічність тому. Кілька життів."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0007",
+            "en": "I… I don’t think he’s around anymore.",
+            "ru_native": "Думаю, он тут уже не живет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не думаю, що він досі тут."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0008",
+            "en": "Eh, that guy’s… he’s not around anymore, I don’t think.",
+            "ru_native": "Тот парень... Думаю, он тут уже не живет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, цей хлопець… не думаю, що він досі тут."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0009",
+            "en": "[quick sigh] Today’s about us, kiddo. Whatever you wanna do.",
+            "ru_native": "Сегодня наш день, приятель. Чем займемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[коротко зітхає] Сьогодні повністю присвятімо собі, друже.<br>Робитимемо все, що тобі заманеться."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0010",
+            "en": "Yeah, of course! It’s our day, today, we can do whatever we want.",
+            "ru_native": "Конечно! Сегодня наш день, мы можем делать что угодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно! Сьогодні наш день і можемо робити, що заманеться."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0011",
+            "en": "We can skip the hike entirely and go to the beach if you want. How does that sound?",
+            "ru_native": "Можно вообще забить на поход и отправиться прямиком на пляж. Как тебе идея?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можемо взагалі забити на похід і піти на пляж. Як тобі таке?"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0012",
+            "en": "Well let this be a lesson to always be ready for anything.",
+            "ru_native": "Тебе урок, что нужно всегда быть готовым ко всему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, це стане тобі уроком, що потрібно бути завжди готовим до всього."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0013",
+            "en": "Even surprise getting-your-butt-wet plans.",
+            "ru_native": "Даже к возможности намочить задницу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть до можливості намочити сідниці."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0014",
+            "en": "Um, I was thinking more walking on the beach, you know—sticking to the sand parts…",
+            "ru_native": "Я рассчитывала на простую прогулку вдоль берега. Ну, знаешь, по суше...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, я більше розраховувала на прогулянку пляжем… ну, може, покопирсатися в піску…"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0015",
+            "en": "Alright, well, next time.",
+            "ru_native": "Ничего, в следующий раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, тоді наступного разу."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0016",
+            "en": "Yeah, we can, but… what is it? What’s the trick?",
+            "ru_native": "Да, конечно, но о чем речь? Что за штука?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно, але… про що йдеться? Що не так?"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0017",
+            "en": "Alright. But if any radios are involved…",
+            "ru_native": "Ладно. Но если для этого нужно радио...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Але якщо для цього потрібно радіо…"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0018",
+            "en": "No radios are involved, are they?",
+            "ru_native": "Радио ведь не нужно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіо не потрібне, так?"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0019",
+            "en": "Okay, yeah, let’s check it out. I’m intrigued, you’ve hooked me.",
+            "ru_native": "Да, давай заценим. Ты меня заинтриговал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, перевірмо. Ти мене заінтригував."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0020",
+            "en": "So you heard at school… that there’s some cool thing you can do on the bridge?",
+            "ru_native": "Ты в школе услышал, что на мосту можно сделать крутую штуку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож ти чув у школі… що на мосту можна зробити одну класну річ?"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0021",
+            "en": "Who told you this?",
+            "ru_native": "И кто это сказал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це тобі сказав?"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0022",
+            "en": "Rex! Slow down, I’m not as… spry as I used to be. When I was your age.",
+            "ru_native": "Рекс! Притормози, я уже не такая прыткая, как в твоем возрасте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рексе! Пригальмуй, я вже не така спритна, як була у твоєму віці."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0023",
+            "en": "[laughs] Okay! Okay, I’m—I’m a comin’, just gimme a sec here.",
+            "ru_native": "Ладно! Ладно, иду, подожди секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Гаразд! Гаразд, я йду, зажди секунду."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0024",
+            "en": "Yeah, Black Beauty, that’s, uh, that’s a good one.",
+            "ru_native": "Да, «Черный красавчик»... Неплохая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, «Чорна краса» досить цікава книжка."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0025",
+            "en": "It’s from the perspective of the—",
+            "ru_native": "Повествование от лица...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Головною дієвою особою в ній є…"
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0026",
+            "en": "No no, I, uh, I never did get around to reading that one.",
+            "ru_native": "Нет, я так ни разу ее и не открыла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, раніше не випадала можливість прочитати її."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0027",
+            "en": "I think I avoided all reading in school. To my extreme detriment later in life.",
+            "ru_native": "Избегала я школьного чтения. Что мне потом нехило аукнулось в жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У школі я, здається, уникала читати всі книжки. Про що сильно шкодувала згодом."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0028",
+            "en": "Yeah, I think I read that one in school. Or… was made to.",
+            "ru_native": "Да, вроде читала в школе. Точнее, меня заставили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гадаю, читала в школі. Або… мене змусили."
+        },
+        {
+            "tag": "A3S7.RILREX_SOCIALRILEY_0029",
+            "en": "But I could be mistaking it with National Velvet. It’s another horse book.",
+            "ru_native": "Но я могу путать ее с «Национальным бархатом». Там тоже про лошадь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я можу плутати з «Національним оксамитом». Це ще одна книжка про коней."
+        }
+    ]
+}

@@ -1,0 +1,510 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT05.FIRCON",
+    "entries": [
+        {
+            "tag": "WT05.FIRCON_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0000_OPTION_0000",
+            "en": "Can I get some advice?",
+            "ru_native": "Можете дать совет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можете дати пораду?"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0001_OPTION_0000",
+            "en": "General Life Coaching",
+            "ru_native": "Жизненные советы",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Життєві поради"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0001_OPTION_0001",
+            "en": "What the Hell is going on?",
+            "ru_native": "Какого черта происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що за чортівня?"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0001_OPTION_0002",
+            "en": "Are you real?",
+            "ru_native": "Вы настоящая?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви справжня людина?"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0002_OPTION_0000",
+            "en": "General Life Coaching",
+            "ru_native": "Жизненные советы",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Життєві поради"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0002_OPTION_0001",
+            "en": "Should I have come here?",
+            "ru_native": "Стоило мне приезжать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені варто було сюди приїздити?"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0003_OPTION_0000",
+            "en": "General Life Coaching",
+            "ru_native": "Жизненные советы",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Життєві поради"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0003_OPTION_0001",
+            "en": "Will I be good at this job?",
+            "ru_native": "Пойдет работа?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене вдасться?"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0004_OPTION_0000",
+            "en": "General Life Coaching",
+            "ru_native": "Жизненные советы",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Життєві поради"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0004_OPTION_0001",
+            "en": "Is this guy cool?",
+            "ru_native": "Этот парень ничего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цей хлопець нічого?"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0004_OPTION_0002",
+            "en": "Will I be good at this job?",
+            "ru_native": "Пойдет работа?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене вдасться?"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0005_OPTION_0000",
+            "en": "General Life Coaching",
+            "ru_native": "Жизненные советы",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Життєві поради"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0005_OPTION_0002",
+            "en": "Will I be good at this job?",
+            "ru_native": "Пойдет работа?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене вдасться?"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0006_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло?"
+        },
+        {
+            "tag": "WT05.FIRCON_CHOICE_0006_OPTION_0001",
+            "en": "Anyone here?",
+            "ru_native": "Есть там кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут хтось є?"
+        },
+        {
+            "tag": "WT05.FIRCON_JACOB_0000",
+            "en": "I can hear you.",
+            "ru_native": "Я все слышу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я все чую."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0000",
+            "en": "[laughing] Hey, hi—uh, yeah, what, uh, what do you want?",
+            "ru_native": "Да-да, здравствуйте. Что вам нужно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Так, вітаю. Що вам потрібно?"
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0001",
+            "en": "Just general life coaching or, uh, something more specific?",
+            "ru_native": "Просто жизненный совет, или что-то конкретное?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто життєву пораду чи щось конкретне?"
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0002",
+            "en": "Great—this is a great question. What the Hell is going on?",
+            "ru_native": "Прекрасный вопрос. Какого черта происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудове питання. Що тут у біса коїться?"
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0003",
+            "en": "Um, I don’t really have an answer for you, as I’m not privy to what’s going on in your life, specifically.",
+            "ru_native": "Ответа для вас у меня нет, поскольку я не особо пристально слежу за вашей жизнью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відповіді для вас у мене немає, так як я не стежу за вашим життям."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0004",
+            "en": "Sorry, I just dropped my headphones. Um, I think you wanted to know a good veal restaurant?",
+            "ru_native": "Простите, уронила наушники. Кажется, вы спросили про место с настоящим мясом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, впустила навушники. Здається, ви запитували де тут хороша свинина?"
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0005",
+            "en": "I have no idea. I’m a vegetarian. You sicko.",
+            "ru_native": "Понятия не имею. Я вегетарианка. Мерзость.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я й гадки не маю. Я вегетаріанка. Гидота."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0006",
+            "en": "Hellooooooo? Okay. Over and out, dingus.",
+            "ru_native": "Алло-о-о? Ясно. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло-о-о? Ясно. Кінець зв’язку."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0007",
+            "en": "Um… I’m going to say… no, but I think that’s just because you sound so miserable.",
+            "ru_native": "Я скажу... нет, но это только потому, что вы звучите крайне жалко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я скажу… ні, але лише тому, що мені вас шкода."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0008",
+            "en": "Um… yes? I mean… I don’t personally know you, but… yeah. I think so.",
+            "ru_native": "Да?.. Я вас лично не знаю, но... Думаю да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так?.. Я вас особисто не знаю, але… Думаю, що так."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0009",
+            "en": "Um… I’m going to say… no.",
+            "ru_native": "Я скажу... нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я скажу… ні."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0010",
+            "en": "Mostly cause you have to ask, not because I actually know who you’re talking about.",
+            "ru_native": "Лишь потому, что вы вообще спрашиваете. Этого человека я не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки тому, що ви питаєте. Я цю людину взагалі не знаю."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0011",
+            "en": "Yes. I don’t know what you’re talking about, but yes. You should have. He needed help with a dog!",
+            "ru_native": "Да. Не знаю, о чем вы, но да. Стоило. Ему нужно было найти собаку!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Не знаю, про що ви, але так. Варто було. Йому була потрібна допомога!"
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0012",
+            "en": "Uh… general life stuff? I don’t know. Wash your hands after going to the movies.",
+            "ru_native": "Просто жизненный совет? Ну, не знаю. Мойте руки после похода в кинотеатр.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто життєву пораду? Ну, не знаю. Мийте руки після відвідування кінотеатру."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0013",
+            "en": "Here’s some real advice, though… if you see three teenagers at the docks, tonight…",
+            "ru_native": "Хотя вот настоящий совет... Если увидите у доков трех подростков...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча ось вам справжня порада… Якщо побачите в доках трьох підлітків…"
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0014",
+            "en": "—running around with radios, wearing masks… tell them Maria thinks they’re assholes.",
+            "ru_native": "С радио и в масках... Передайте, что Мария считает их засранцами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З радіо й у масках… Передайте, що Марія вважає їх засранцями."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0015",
+            "en": "Also call back if you want to talk about anything. Like… anything at all.",
+            "ru_native": "Также выходите на связь, если захотите поболтать. О чем угодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Також виходьте на зв’язок, якщо захочете потеревенити. Про що завгодно."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0016",
+            "en": "You’re the first fresh caller in a week. Okay, I gotta go—bye—please call—",
+            "ru_native": "Вы – первый новый человек за неделю. Ладно, мне пора. Обращайтесь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви — перша нова людина за тиждень. Гаразд, мені вже час. Звертайтеся…"
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0017",
+            "en": "Hi. This is a pre-recorded message.",
+            "ru_native": "Привет. Это сообщение было записано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. Це повідомлення було записано."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0018",
+            "en": "You’ve reached the Camena High School Radio Advice Line.",
+            "ru_native": "Вы попали на «Линию советов» радиостанции школы Камены.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви потрапили на лінію порад радіостанції школи Камени."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0019",
+            "en": "If you’d like to get some advice, please call again when the line is open.",
+            "ru_native": "Если хотите получить совет, обратитесь позже, когда «Линия» откроется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо хочете отримати пораду, зверніться пізніше, коли лінія буде працювати."
+        },
+        {
+            "tag": "WT05.FIRCON_MARIA_0020",
+            "en": "Listen to 88.1 to tune in and find out when to call. Thank you, have an okay day.",
+            "ru_native": "Настройтесь на 88.1 и узнайте время работы «Линии». Спасибо, желаем обычного дня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Налаштуйтеся на 88.1 й дізнайтеся години роботи лінії. Дякуємо, хорошого дня."
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0000",
+            "en": "Hey, uh, is this the Camena High School Radio Station?",
+            "ru_native": "Это радиостанция школы Камены?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це радіостанція школи Камени?"
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0001",
+            "en": "This is Riley, first-time caller, first-time listener. Can I get some advice? Over.",
+            "ru_native": "Это Райли, впервые вас слушаю и впервые звоню. Можете дать совет? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Райлі, я вперше вас слухаю і вперше звертаюся. Можете дати пораду? Прийом."
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0002",
+            "en": "Uh, what the Hell is going on?",
+            "ru_native": "Какого черта происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що за чортівня?"
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0003",
+            "en": "Um, don’t take this the wrong way, but… are you a real person?",
+            "ru_native": "Не поймите неправильно, но... вы настоящий человек?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не сприймайте неправильно, але… ви справжня людина?"
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0004",
+            "en": "Or, like, a spectral time-being. Or something.",
+            "ru_native": "Или спектральная сущность? Или еще чего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи спектральна істота? Чи ще щось?"
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0005",
+            "en": "Be honest. Should I have come here?",
+            "ru_native": "Только честно. Стоило мне приезжать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки чесно. Мені варто було сюди приїздити?"
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0006",
+            "en": "Will I be good at this? Am I gonna finally be actually good at something?",
+            "ru_native": "У меня получится? У меня наконец получится хоть что-то в жизни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене вдасться? У мене нарешті вдасться хоч щось у цьому житті?"
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0007",
+            "en": "Uh, is this guy I’m with cool?",
+            "ru_native": "Парень, что со мной, он ничего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Той хлопець, що зі мною, він нічого?"
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0008",
+            "en": "Should I have helped that guy at the truck find his dog?",
+            "ru_native": "Мне стоило помочь тому парню найти собаку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені варто було допомагати тому хлопцю знайти собаку?"
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0009",
+            "en": "Uh, hit me with the general life stuff.",
+            "ru_native": "Подкинь жизненный совет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дайте життєву пораду."
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0010",
+            "en": "Uh, hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло?"
+        },
+        {
+            "tag": "WT05.FIRCON_RILEY_0011",
+            "en": "Um, is—is anyone here? Over.",
+            "ru_native": "Есть там кто? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, є хтось, гм, на зв’язку? Прийом."
+        }
+    ]
+}

@@ -1,0 +1,186 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "GLOB.LIGHTP",
+    "entries": [
+        {
+            "tag": "GLOB.LIGHTP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.LIGHTP_CHOICE_0000_OPTION_0000",
+            "en": "Why the lighthouse?",
+            "ru_native": "Почему маяк?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо на маяк?"
+        },
+        {
+            "tag": "GLOB.LIGHTP_CHOICE_0000_OPTION_0001",
+            "en": "The lighthouse was crap.",
+            "ru_native": "Маяк – хреновая затея.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На маяку було лайново."
+        },
+        {
+            "tag": "GLOB.LIGHTP_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.LIGHTP_CHOICE_0001_OPTION_0000",
+            "en": "You’re forgiven.",
+            "ru_native": "Я тебя прощаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробачаємо."
+        },
+        {
+            "tag": "GLOB.LIGHTP_CHOICE_0001_OPTION_0001",
+            "en": "Get with the times.",
+            "ru_native": "Годы-то идут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не відставати від прогресу."
+        },
+        {
+            "tag": "GLOB.LIGHTP_EVELYN_0000",
+            "en": "Uh—okay, so, I really hope you’re asking this while hauling ass to the transmitter...",
+            "ru_native": "Очень надеюсь, что ты спрашиваешь это, параллельно неся свою задницу к передатчику.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Я дуже сподіваюся, що ти запитуєш про це,<br>доки несеш свою дупу до радіопередавача…"
+        },
+        {
+            "tag": "GLOB.LIGHTP_EVELYN_0001",
+            "en": "The lighthouse was a listed location on the in-case-of-emergency protocol sheet.",
+            "ru_native": "Маяк был в списке из протокола на случай экстренных ситуаций.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маяк був зазначений у протоколі дій на випадок надзвичайної ситуації."
+        },
+        {
+            "tag": "GLOB.LIGHTP_EVELYN_0002",
+            "en": "But uh—to be fair, this office is ancient. They still use a percolator. An old one.",
+            "ru_native": "Но да, у них устаревший офис. Там до сих пор используют кофейник с ситечком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, чесно кажучи, порядки в цьому офісі древні.<br>Вони все ще використовують крапельну кавомашину. Стару."
+        },
+        {
+            "tag": "GLOB.LIGHTP_EVELYN_0003",
+            "en": "So, uh, my bad!",
+            "ru_native": "Виновна!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя лажа!"
+        },
+        {
+            "tag": "GLOB.LIGHTP_EVELYN_0004",
+            "en": "Or—our bad!",
+            "ru_native": "Точнее, мы виновны!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або наша!"
+        },
+        {
+            "tag": "GLOB.LIGHTP_EVELYN_0005",
+            "en": "Someone’s bad!",
+            "ru_native": "Кто-то виновен!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чиясь лажа!"
+        },
+        {
+            "tag": "GLOB.LIGHTP_EVELYN_0006",
+            "en": "Officially scratching off the lighthouse as a suggestion…",
+            "ru_native": "Официально вычеркиваю маяк из предложений...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Офіційно викреслюю маяк як припущення…"
+        },
+        {
+            "tag": "GLOB.LIGHTP_EVELYN_0007",
+            "en": "And...scratched. Thanks again and sorry again!",
+            "ru_native": "Готово. Еще раз спасибо и извини!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… викреслено. Знову дякую і знову перепрошую!"
+        },
+        {
+            "tag": "GLOB.LIGHTP_EVELYN_0008",
+            "en": "Now get to the transmitter! Pronto!",
+            "ru_native": "А теперь двигай к передатчику! Бегом!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер — до радіопередавача! Негайно!"
+        },
+        {
+            "tag": "GLOB.LIGHTP_RILEY_0000",
+            "en": "Hey Evelyn, why did you send us to the lighthouse? The thing’s falling apart.",
+            "ru_native": "Эвелин, почему ты отправила нас на маяк? Он на куски разваливается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, навіщо ти послала нас на маяк? Він же руйнується."
+        },
+        {
+            "tag": "GLOB.LIGHTP_RILEY_0001",
+            "en": "Hey Evelyn, why the hell did you send us to the lighthouse?",
+            "ru_native": "Эвелин, какого хрена ты послала нас на маяк?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, якого дідька ти послала нас на маяк?"
+        },
+        {
+            "tag": "GLOB.LIGHTP_RILEY_0002",
+            "en": "I’ve seen nicer condemned sewers.",
+            "ru_native": "Канализацию получше найти можно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачив і гарніші покинуті каналізаційні системи."
+        },
+        {
+            "tag": "GLOB.LIGHTP_RILEY_0003",
+            "en": "Don’t sweat it, just curious.",
+            "ru_native": "Расслабься, просто любопытно было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не партеся, просто запитую."
+        },
+        {
+            "tag": "GLOB.LIGHTP_RILEY_0004",
+            "en": "Modernize. Please.",
+            "ru_native": "Прошу, обновите его.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Модернізувати. Будь ласка."
+        }
+    ]
+}

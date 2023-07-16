@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.DADPEN",
+    "entries": [
+        {
+            "tag": "A2C6.DADPEN_DAD_0000",
+            "en": "The coin you got for change for the soda.",
+            "ru_native": "Тебе дали сдачу, когда ты брала попить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ту монетку, що отримала як решту, коли купувала газовану воду."
+        },
+        {
+            "tag": "A2C6.DADPEN_DAD_0001",
+            "en": "Just take it out for a second.",
+            "ru_native": "Достань монетку на секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто дістань її на хвильку."
+        },
+        {
+            "tag": "A2C6.DADPEN_DAD_0002",
+            "en": "I have something to show you.",
+            "ru_native": "Я кое-что тебе покажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу тобі дещо показати."
+        },
+        {
+            "tag": "A2C6.DADPEN_DAD_0003",
+            "en": "It’s <i>not</i> a trick.",
+            "ru_native": "Это не фокус.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не фокус."
+        }
+    ]
+}

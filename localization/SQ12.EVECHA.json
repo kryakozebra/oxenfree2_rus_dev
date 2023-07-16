@@ -1,0 +1,267 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ12.EVECHA",
+    "entries": [
+        {
+            "tag": "SQ12.EVECHA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ12.EVECHA_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn, hey.",
+            "ru_native": "Эвелин, привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Евелін."
+        },
+        {
+            "tag": "SQ12.EVECHA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ12.EVECHA_CHOICE_0001_OPTION_0000",
+            "en": "Uh, no?",
+            "ru_native": "Эм, нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні?"
+        },
+        {
+            "tag": "SQ12.EVECHA_CHOICE_0001_OPTION_0001",
+            "en": "Sure, okay.",
+            "ru_native": "Да, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звісно."
+        },
+        {
+            "tag": "SQ12.EVECHA_CHOICE_0001_OPTION_0002",
+            "en": "Yeah, we should.",
+            "ru_native": "Да, надо бы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, треба."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0000",
+            "en": "[WT] Riley! Hey, thanks for answering—I know you’re busy—but, uh, look…",
+            "ru_native": "Райли! Спасибо, что ответила. Я знаю, ты занята, но... слушай...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Дякую, що відповіла. Я знаю, ти зайнята, але… Слухай…"
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0001",
+            "en": "[WT] I picked up a weird emergency call from someone named… Gracie?",
+            "ru_native": "Я получила странный вызов от кого-то по имени… Грейси?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я отримала дивний дзвінок від когось на ім’я… Грейсі?"
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0002",
+            "en": "[WT] She called the police, claiming that there’s a… strange void—",
+            "ru_native": "Она позвонила в полицию и сказала, что видела странную.. пустоту...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона зателефонувала в поліцію і сказала, що бачила… якийсь портал…"
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0003",
+            "en": "[WT] —in her backyard, and that an impostor has taken the place of her son.",
+            "ru_native": "...на заднем дворе, и что место ее сына занял какой-то самозванец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…на задньому дворі, і що замість її сина в неї вдома якийсь самозванець."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0004",
+            "en": "[WT] She’s on channel 2. Wanna maybe call her…",
+            "ru_native": "Она на втором канале. Не хочешь с ней связаться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона на другому каналі. Не хочеш із нею зв’язатися?"
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0005",
+            "en": "[WT] Check it out?",
+            "ru_native": "Проверить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевірити?"
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0006",
+            "en": "[WT] It sounds like something that’s kind of tied into all this.",
+            "ru_native": "Похоже, это как-то связано с тем, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, це якось пов’язано з тим, що відбувається."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0007",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0008",
+            "en": "[WT] Oh, uh, okay… um. Mm.",
+            "ru_native": "Оу, ну, ладно... М-м-м.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, ну… Гаразд. Мгм."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0009",
+            "en": "[WT] Well, if you, uh, change your mind, she’s on channel 2 on your walkie.",
+            "ru_native": "Ну, если вдруг передумаешь, она на втором канале рации.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, якщо раптом передумаєш, то вона на другому каналі рації."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0010",
+            "en": "[WT] She sounds like she could really use some, uh, some help.",
+            "ru_native": "Мне показалось по ее голосу, что ей очень нужна помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здалося по її голосу, що їй дійсно потрібна допомога."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0011",
+            "en": "[WT] Okay, I’ll talk to you later. Good luck out there. Over and out.",
+            "ru_native": "Ладно, потом поговорим. Удачи. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, поговоримо пізніше. Хай щастить. Кінець зв’язку."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0012",
+            "en": "[WT] Yeah, sorry. But this one sounded just odd enough to warrant some intervention.",
+            "ru_native": "Да, прости. Но это слишком странный вызов, чтобы его проигнорировать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вибач. Але це занадто дивний виклик, щоби його ігнорувати."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0013",
+            "en": "[WT] Thanks for checking up on her. Gracie, channel 2. Talk to you later. Over and out.",
+            "ru_native": "Спасибо, что не отказала. Грейси, второй канал. Поговорим позже. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що не відмовила. Грейсі, другий канал. Поговоримо пізніше. Кінець зв’язку."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0014",
+            "en": "[WT] Of course! It’s kinda my job at this point.",
+            "ru_native": "Не за что! Это моя работа как бы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка! Це ж моя робота."
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0015",
+            "en": "[WT] Riley? Riley, are you there?",
+            "ru_native": "Райли? Райли, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Райлі, ти там?"
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0016",
+            "en": "[WT] Well, if you can hear me, please call the woman. Gracie. Channel 2. Void. Imposter kid!",
+            "ru_native": "Если ты меня слышишь, свяжись с женщиной по имени Грейси. Второй канал. Бездна. Подложный ребенок!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти мене чуєш, зв’яжися з жінкою на ім’я Грейсі.<br>Другий канал. Портал. Дитина-самозванець!"
+        },
+        {
+            "tag": "SQ12.EVECHA_EVELYN_0017",
+            "en": "[WT] Okay. Thanks. Bye! Over and out.",
+            "ru_native": "Ладно, спасибо. Пока! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, дякую. Бувай! Кінець зв’язку."
+        },
+        {
+            "tag": "SQ12.EVECHA_RILEY_0000",
+            "en": "Hey, Evelyn. I’m here. Over.",
+            "ru_native": "Эй, Эвелин. Я тут. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Евелін. Я тут. Прийом."
+        },
+        {
+            "tag": "SQ12.EVECHA_RILEY_0001",
+            "en": "Uh… not… really? Evelyn, I honestly don’t know what this has to do with us.",
+            "ru_native": "Эм... не очень? Эвелин, я честно не понимаю, какое отношение это имеет к нам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю… Евелін, я дійсно не розумію, яким боком нас це стосується."
+        },
+        {
+            "tag": "SQ12.EVECHA_RILEY_0002",
+            "en": "Even if it’s portal-related, let her deal with her own problem. Over.",
+            "ru_native": "Даже если это как-то связано с порталом, это ее проблемы. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть якщо це якось пов’язано з порталом, це її проблеми. Прийом."
+        },
+        {
+            "tag": "SQ12.EVECHA_RILEY_0003",
+            "en": "Uh, sure. I guess. Ugh. Always another thing. Over.",
+            "ru_native": "Да, конечно. Пожалуй. Фух. Опять отвлекаться. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звісно. Ага. Хух. Знову відволікатися. Прийом."
+        },
+        {
+            "tag": "SQ12.EVECHA_RILEY_0004",
+            "en": "[sighs] Yeah, that does sound like something. Okay. Thanks for letting me know.",
+            "ru_native": "Да, это любопытно. Хорошо. Спасибо, что сообщила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це звучить цікаво. Гаразд. Дякую, що повідомила."
+        }
+    ]
+}

@@ -1,0 +1,1464 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S2.BOATJA",
+    "entries": [
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0000_OPTION_0000",
+            "en": "No way.",
+            "ru_native": "Ни за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нізащо."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0000_OPTION_0001",
+            "en": "Why do you say that?",
+            "ru_native": "Почему ты это сказал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти так кажеш?"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0000_OPTION_0002",
+            "en": "I hope so.",
+            "ru_native": "Надеюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0001_OPTION_0000",
+            "en": "You’re here, too.",
+            "ru_native": "Ты тоже здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти також тут."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0001_OPTION_0001",
+            "en": "Someone had to.",
+            "ru_native": "Кто-то должен был.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось мав."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0001_OPTION_0002",
+            "en": "Chinese sounds good.",
+            "ru_native": "Китайская звучит неплохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Китайська звучить добре."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0002_OPTION_0000",
+            "en": "She tried her best.",
+            "ru_native": "Она пыталась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона намагалася."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0002_OPTION_0001",
+            "en": "You couldn’t be more wrong.",
+            "ru_native": "Ты совершенно неправ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти абсолютно не маєш рації."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0002_OPTION_0002",
+            "en": "Maybe you’re right.",
+            "ru_native": "Может, ты и прав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, ти маєш рацію."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0003_OPTION_0000",
+            "en": "You don’t know that.",
+            "ru_native": "Ты этого не знаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти цього не знаєш."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0003_OPTION_0001",
+            "en": "Peak existence.",
+            "ru_native": "Вершина бытия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вершина буття."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0003_OPTION_0002",
+            "en": "Me neither.",
+            "ru_native": "Для меня тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0004_OPTION_0000",
+            "en": "It’s noble.",
+            "ru_native": "Это благородно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це благородно."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0004_OPTION_0001",
+            "en": "Sounds sad.",
+            "ru_native": "Звучит грустно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумно."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0004_OPTION_0002",
+            "en": "Do something else.",
+            "ru_native": "Займись другим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Займись чимось іншим."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0005_OPTION_0000",
+            "en": "That’s not selfish.",
+            "ru_native": "Это не эгоистично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не егоїстично."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0005_OPTION_0001",
+            "en": "Creation is overrated.",
+            "ru_native": "Творчество переоценено.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Творчість переоцінена."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0005_OPTION_0002",
+            "en": "Stop feeling sorry for yourself.",
+            "ru_native": "Хватит себя жалеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Припини жаліти себе."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0006_OPTION_0000",
+            "en": "[Spit]",
+            "ru_native": "[Плюнуть]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Спльовує]"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0006_OPTION_0001",
+            "en": "Get a new ritual.",
+            "ru_native": "Нужен новый ритуал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібен новий ритуал."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0007_OPTION_0000",
+            "en": "I believe in you.",
+            "ru_native": "Я в тебя верю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я в тебе вірю."
+        },
+        {
+            "tag": "A3S2.BOATJA_CHOICE_0007_OPTION_0001",
+            "en": "You done?",
+            "ru_native": "Закончил?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Закінчив?"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0000",
+            "en": "Hey—just wanted to say, been meaning to say—for whatever it’s worth…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет - просто хотел сказать, давно хотел сказать - чего бы это ни стоило...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0001",
+            "en": "I think you’re gonna be a really good mom.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я думаю, что ты будешь очень хорошей мамой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0002",
+            "en": "Like a really good one.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Например, очень хороший.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0003",
+            "en": "I really think so.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я действительно так думаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0004",
+            "en": "Not blowing smoke.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не нагнетая дым.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0005",
+            "en": "Not even a little. Not even at all.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Даже не немного. Даже совсем нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0006",
+            "en": "Hope no more, it’s guaranteed.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Больше не надейся, это гарантировано.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0007",
+            "en": "You ever heard of “Sturgeon’s Law?” It says “90% of everything is crap.” He was talking about books, but it works universally.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты когда-нибудь слышал о \"законе Стерджона\"? Он гласит: \"90% всего - дерьмо\". Он говорил о книгах, но работает универсально.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0008",
+            "en": "I almost completely agree with it. Only I’d bump that number up to, oh, let’s say 97%. No no no, 98.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я почти полностью с этим согласен. Только я бы увеличил это число, скажем, до 97%. Нет-нет-нет, 98.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0009",
+            "en": "I'm certain that 98% of people given the circumstances you were put in tonight would’ve gone home and ordered Chinese.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я уверен, что 98% людей, учитывая обстоятельства, в которые ты был поставлен сегодня вечером, пошли бы домой и заказали китайскую еду.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0010",
+            "en": "But here you are. Free of egg rolls.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но вот ты здесь. Свободен от яичных рулетов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0011",
+            "en": "That’s something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это уже кое-что.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0012",
+            "en": "That’s everything.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вот и всё.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0013",
+            "en": "This isn’t about me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Речь идет не обо мне.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0014",
+            "en": "Yeah, someone did, and that someone was you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, кто-то сделал это, и этим кем-то был ты.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0015",
+            "en": "No, ma’am, you’re not wiggling your way out of this compliment.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, мэм, от этого комплимента ты не увильнёшь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0016",
+            "en": "You’ll be like—the best kind of mom.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты будешь похожа на самую лучшую маму.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0017",
+            "en": "And like, trust me, I had the uh… the not best kind.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И, поверь мне, у меня был... не самый лучший вид.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0018",
+            "en": "She wasn’t like—she didn’t hit me or anything remotely close to that, don’t worry. Just—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она не была похожа на... она не ударила меня или что-то отдаленно похожее на это, не волнуйся. Просто...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0019",
+            "en": "I was her responsibility. And she met that responsibility, and I’m grateful for that. Genuinely.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я был её ответственностью. И она выполнила эту ответственность, и я благодарен ей за это. Подлинно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0020",
+            "en": "But like— [stops himself]",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но как... [останавливает себя].",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0021",
+            "en": "Your phone bill is a responsibility. Ya know?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Твой телефонный счет - это ответственность. Понимаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0022",
+            "en": "I dunno, I don’t get that energy off you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не знаю, я не получаю от тебя такой энергии.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0023",
+            "en": "As hippie woo-woo as that may sound.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как бы хиппи-ву-ву это ни звучало.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0024",
+            "en": "I still don’t.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я до сих пор не понимаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0025",
+            "en": "She absolutely did, I would never say otherwise.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она абсолютно точно сделала это, я бы никогда не сказал иначе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0026",
+            "en": "But hey, no deflecting.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, эй, не отклоняйся.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0027",
+            "en": "I would say the same back to you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я бы сказал тебе то же самое в ответ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0028",
+            "en": "You see? Humble.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Видишь? Смиренно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0029",
+            "en": "I’m right as rain.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я прав как дождь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0030",
+            "en": "Just saying, 98% of everything sucks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто говорю, что 98% всего - отстой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0031",
+            "en": "And you don’t. And I’m happy for myself and for Camena that that’s true.",
+            "ru_native": "",
+            "ru_machine": "DEEPL А ты не хочешь. И я счастлив за себя и за Камену, что это так.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0032",
+            "en": "But I’m especially happy for—ya know—little Riley Jr. there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но особенно я рад за - ну, ты понимаешь - маленького Райли-младшего.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0033",
+            "en": "And now we shall deflate your ego, and continue sailing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL А теперь мы сдуем твое эго и продолжим плавание.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0034",
+            "en": "So… sail on, sailor.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так что... плыви дальше, моряк.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0035",
+            "en": "Actually—I think we’re almost there. In that case…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вообще-то я думаю, что мы почти у цели. В таком случае...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0036",
+            "en": "This is probably like—the greatest thing I’m gonna do in my life.",
+            "ru_native": "Наверное, это самое крутое, что я сделаю в своей жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, це найкрутіша річ, яку я робитиму в житті."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0037",
+            "en": "Helping you—fix all this.",
+            "ru_native": "Помогу тебе... все исправить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Допоможу тобі все виправити."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0038",
+            "en": "There’s no topping that.",
+            "ru_native": "Круче быть не может.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще не буває."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0039",
+            "en": "Like what would?",
+            "ru_native": "Или может?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи може?"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0040",
+            "en": "Running an ultra-marathon?",
+            "ru_native": "Пробежать супермарафон?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Участь в ультрамарафоні?"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0041",
+            "en": "My asthma would never allow such a thing.",
+            "ru_native": "С моей астмой этому не бывать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З моєю астмою це неможливо."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0042",
+            "en": "No, I don’t know. But gun to my head? I’d bet it all on red, so to speak.",
+            "ru_native": "Сомневаюсь. Под дулом пистолета я бы поставил все на красное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не знаю. Але під дулом пістолета я поставив би все на червоне, так би мовити."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0043",
+            "en": "Sure, it’s impressive, but…",
+            "ru_native": "Да, впечатляет, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж вражає, але…"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0044",
+            "en": "Ah, but how much of something. That’s the tricky bit.",
+            "ru_native": "Но насколько большое это «что-то»? В том и загвоздка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розуміємо наскільки? От у чому загадка."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0045",
+            "en": "It gets old being a fix-it man.",
+            "ru_native": "Надоело быть ремонтником.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Набридло бути ремонтником."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0046",
+            "en": "Your job is to look at something broken.",
+            "ru_native": "Весь день смотришь на что-то сломанное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лагодити поламане."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0047",
+            "en": "Just—a lifetime of staring at failure.",
+            "ru_native": "Целая жизнь за любованием провалами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе життя спостерігаю за невдачами."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0048",
+            "en": "And hopefully fixing it.",
+            "ru_native": "И надеждой все починить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І сподіваюся полагодити."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0049",
+            "en": "But often not.",
+            "ru_native": "Получается редко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Часто не вдається."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0050",
+            "en": "I’m not saying it’s not.",
+            "ru_native": "Я не говорю обратного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не стверджую, що це не так."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0051",
+            "en": "I’m saying it’s… complicated.",
+            "ru_native": "Просто... это сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… це складно."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0052",
+            "en": "I mean—it’s a good job and I’m good at it, I’m… lucky that way.",
+            "ru_native": "Это хорошая работа, и она у меня получается. Тут мне повезло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це гарна робота, я в ній тямлю. У цьому мені пощастило."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0053",
+            "en": "But ya know… maybe not lucky in every way.",
+            "ru_native": "Но... Повезло не во всех аспектах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але знаєш… Щастить не завжди."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0054",
+            "en": "You think I haven’t tried?",
+            "ru_native": "Думаешь, я не пробовал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, я не пробував?"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0055",
+            "en": "That—came off sharper than it should have. Sorry.",
+            "ru_native": "Резковато прозвучало, извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи різка відповідь, вибач."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0056",
+            "en": "It’s just—this is gonna be it. This is the apex of my accomplishment.",
+            "ru_native": "Просто... вот оно. Вершина моих достижений.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто це вершина моїх талантів."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0057",
+            "en": "Another fix-it job. A bigger job, a more important job, sure, but a fix-it job still.",
+            "ru_native": "Очередная починка. Большая, суперважная, но все равно починка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще одне полагодження. Більша робота, важливіша робота, а все-таки полагодження."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0058",
+            "en": "Dunno. Just would’ve been nice if the number one spot was taken by something I created.",
+            "ru_native": "Не знаю. Было бы приятнее, если б первое место заняло что-то творческое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Було б гарно, якби на першому місці було те, що я створив сам."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0059",
+            "en": "Maybe that’s selfish.",
+            "ru_native": "Может, это эгоистично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, це егоїстично."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0060",
+            "en": "Dunno.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0061",
+            "en": "Still true.",
+            "ru_native": "Но это правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це правда."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0062",
+            "en": "If we’re remembered at all.",
+            "ru_native": "Если вообще помнили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо взагалі пам’ятатимуть."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0063",
+            "en": "Well, good for the universe. Doesn’t mean I agree, but… you’re kind to say otherwise.",
+            "ru_native": "Рад за вселенную. Я с подобным не согласен, но... спасибо, что утверждаешь обратное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радий за всесвіт. Не погоджуся, але… дякую, що стверджуєш інакше."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0064",
+            "en": "Oh, I am well aware, and usually I manage it all better, but…",
+            "ru_native": "Я прекрасно это понимаю, и обычно справляюсь, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я добре це розумію й зазвичай справляюся, але…"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0065",
+            "en": "Good days and bad.",
+            "ru_native": "Бывают и плохие дни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувають і погані дні."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0066",
+            "en": "Maybe this is the night it all turns around.",
+            "ru_native": "Может, этой ночью все изменится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, цієї ночі все зміниться."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0067",
+            "en": "As he sailed away from the silent city, socks still uncomfortably damp, Jacob Summers decided he had fixed enough.",
+            "ru_native": "Отплывая от затихшего города и страдая от все еще влажных<br>носков, Джейкоб Саммерс решил, что починил достаточно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відпливаючи від міста, що стихло, і страждаючи<br>від вологих носків, Джейкоб Саммерс вирішив, що полагодив достатньо."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0068",
+            "en": "After tonight the only thing he would try to fix… is himself.",
+            "ru_native": "С завтрашнего дня он будет чинить только одно: свою жизнь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після цього вечора єдине, що він намагатиметься полагодити, це… він сам."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0069",
+            "en": "Heh… how stupid does that sound, right?",
+            "ru_native": "Звучит довольно глупо, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ех… як тупо це звучить, еге ж?"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0070",
+            "en": "Almost there. But, first…",
+            "ru_native": "Почти на месте. Но сначала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Майже на місці. Але спочатку…"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0071",
+            "en": "For luck.",
+            "ru_native": "На удачу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На удачу."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0072",
+            "en": "It’s like when we crossed the bridge, ya know?",
+            "ru_native": "Как когда мы перешли мост, помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це як коли ми перейшли міст, пам’ятаєш?"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0073",
+            "en": "A boat’s kinda like a bridge if you uh…",
+            "ru_native": "Лодка тоже своего рода мост...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Човен це теж свого роду міст…"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0074",
+            "en": "If you don’t think about it too hard. Or at all.",
+            "ru_native": "Если не сильно думать. Или вообще не думать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо не надто думати. Або взагалі не думати."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0075",
+            "en": "Old dogs.",
+            "ru_native": "Старая привычка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Старі звички."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0076",
+            "en": "Okay, fine it doesn’t exactly hold up as a—metaphor—whatever—we’re almost there.",
+            "ru_native": "Ладно, не самая моя лучшая метафора. Проехали. Мы почти на месте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, не найкраща моя метафора. Хай там як. Ми майже на місці."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0077",
+            "en": "Heh… yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хех… ага."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0078",
+            "en": "It’s… stupid.",
+            "ru_native": "Глуповато.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… тупо."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0079",
+            "en": "Heh. Thanks, Riley.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хех. Спасибо, Райли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0080",
+            "en": "He said, with a smile.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Он сказал, улыбнувшись.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0081",
+            "en": "Uh… yeah. Yeah, sure. All done.",
+            "ru_native": "Да. Все. Закончил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, так. Звичайно. Усе готово."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0082",
+            "en": "Sorry, the waves, ya know. They take you places.",
+            "ru_native": "Прости, это все волны. Они уносят с собой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, ці хвилі. Збивають зі шляху."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0083",
+            "en": "In more ways than one...",
+            "ru_native": "",
+            "ru_machine": "DEEPL В нескольких вариантах...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0084",
+            "en": "I used to, um, pride myself on owning the very first issue of TV Guide.",
+            "ru_native": "Раньше я гордился тем, что заполучил самый первый выпуск «ТВ-гида».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше я пишався тим, що отримав найперший випуск «ТВ-гіда»."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0085",
+            "en": "It has, uh, the I Love Lucy baby on the cover. For months, it was my only goal to get it.",
+            "ru_native": "На обложке была девочка Люси. Я несколько месяцев потратил на поиски.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На обгортці була дитина з «Я люблю Люсі». Я місяці витратив на пошуки того номера."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0086",
+            "en": "I’m mentioning this because…",
+            "ru_native": "Я это говорю, потому что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розповідаю про це, тому що…"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0087",
+            "en": "[quiet, but sincere] Thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихо, але щиро] Дякую."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0088",
+            "en": "I’m sure you have… other things on your mind. Besides all this.",
+            "ru_native": "Уверен, у тебя сейчас другое на уме. Помимо всего этого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе точно є інші речі, про які ти думаєш. Окрім цього."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0089",
+            "en": "Anyways…",
+            "ru_native": "Так вот...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як…"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0090",
+            "en": "[half to himself] It’s funny — I never actually <i>saw</i> Rex… you know? The kid you told me about.",
+            "ru_native": "Забавно... Я никогда не <i>видел</i> Рекса. Ребенка, о котором ты говорила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[наполовину до себе] Мені ніколи не доводилося <i>бачити</i><br>Рекса. Пам’ятаєш? Дитину, про яку йшла мова."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0091",
+            "en": "He probably looks completely different from what I’d been imagining.",
+            "ru_native": "Наверное, он выглядит совсем иначе, чем я представляю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, у нього зовсім інший вигляд, ніж у моїй уяві."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0092",
+            "en": "And I don’t know why I just thought of that… [chuckles] <i>Anyways</i>…",
+            "ru_native": "(усмехается) Не знаю, почему я об этом подумал... Ха. <i>Так вот</i>...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, чому мені подумалося про це… [хихикає] <i>Хай там як</i>…"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0093",
+            "en": "I’m sure you have… other things on your mind. Besides all this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я уверен, что у тебя на уме... другие вещи. Помимо всего этого.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе точно є інші речі, про які ти думаєш. Окрім цього."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0094",
+            "en": "Anyways…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Короче...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як…"
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0095",
+            "en": "It’s funny — I never actually saw Rex… you know? The kid you told me about.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Забавно - на самом деле я никогда не видел Рекса... ну, знаешь? Парня, о котором ты мне рассказывал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені ніколи не доводилося бачити Рекса… Пам’ятаєш? Дитину, про яку йшла мова."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0096",
+            "en": "He probably looks completely different from what I’d been imagining.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вероятно, он выглядит совсем не так, как я себе представлял.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, у нього зовсім інший вигляд, ніж у моїй уяві."
+        },
+        {
+            "tag": "A3S2.BOATJA_JACOB_0097",
+            "en": "And I don’t know why I just thought of that… [chuckles] Anyways…",
+            "ru_native": "",
+            "ru_machine": "DEEPL И я не знаю, почему я только что подумал об этом... [смеется] Короче...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, чому мені подумалося про це… [хихикає] Хай там як…"
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0000",
+            "en": "Yeah, it is late, huh?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, уже поздно, да?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0001",
+            "en": "Because I’m exhausted, and I’m sure you are, too, since you’re talking complete garbage.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Потому что я выдохся, и уверен, что ты тоже, так как говоришь полный мусор.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0002",
+            "en": "I wanna say thank you, but curiosity is getting the better of me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я хочу сказать тебе спасибо, но любопытство берет верх.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0003",
+            "en": "What on earth makes you think that?",
+            "ru_native": "",
+            "ru_machine": "DEEPL С какой стати ты так думаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0004",
+            "en": "I mean—more than anything I hope for, I do hope for that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я имею в виду - больше, чем на что-либо другое, я надеюсь на это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0005",
+            "en": "Hey, you’re helping so—ya know—share the back pats.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, ты помогаешь так-сяк - делишься похлопываниями по спине.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0006",
+            "en": "Someone had to do something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кто-то должен был что-то сделать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0007",
+            "en": "Oh man, how good does some General Tso’s sound right now?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Блин, как хорошо сейчас звучит немного General Tso's.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0008",
+            "en": "I’m sure she tried her best.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я уверен, что она старалась изо всех сил.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0009",
+            "en": "You have no idea just how wrong you are.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты даже не представляешь, насколько ты ошибаешься.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0010",
+            "en": "You might be right. But like, I’m not supposed to admit that. That’s—tacky.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Возможно, ты прав. Но, вроде как, я не должен это признавать. Это же тактично.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0011",
+            "en": "C’mon, you don’t know that for sure.",
+            "ru_native": "Перестань, ты не знаешь наверняка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі. Ти ж не знаєш напевно."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0012",
+            "en": "You might invent a new kind of—I don’t know… chair?",
+            "ru_native": "Вдруг ты изобретешь новый... стул?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А раптом ти винайдеш новий… стілець?"
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0013",
+            "en": "Yeah, you’re probably right. But like—this is pretty impressive stuff.",
+            "ru_native": "Да, ты наверное прав. Но происходящее реально впечатляет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Мабуть, ти маєш рацію. Але те, що відбувається, вражає."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0014",
+            "en": "Yeah, me neither, dude.",
+            "ru_native": "Да, для меня тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, для мене також."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0015",
+            "en": "But hey, at least we’re aware of it. That’s… something.",
+            "ru_native": "По крайней мере, мы это понимаем. Хоть что-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні ми це розуміємо. Це… щось."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0016",
+            "en": "I actually think it’s a very noble profession.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На самом деле я считаю, что это очень благородная профессия.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0017",
+            "en": "Sounds kind of… or more than kind of… sad.",
+            "ru_native": "Звучит немного... или много... грустно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається трохи… чи не трохи сумно."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0018",
+            "en": "Why don’t you do something else then?",
+            "ru_native": "Почему ты не займешься чем-то другим?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти не займешся чимось іншим?"
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0019",
+            "en": "Naw, that’s not selfish, that makes sense.",
+            "ru_native": "Это не эгоистично, это логично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не егоїстично, а логічно."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0020",
+            "en": "I think we’d all like to be remembered for something more than “She loved to laugh” or some crap like that.",
+            "ru_native": "Думаю, все мы хотим, чтобы нас помнили за что-то<br>большее, чем «она любила смеяться» или что похуже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що нам хотілося б, щоби нас пам’ятали не за те, що ми любимо сміятися, тощо."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0021",
+            "en": "Take it from me, creating something ain’t exactly glamarama.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пойми меня правильно, создавать что-то - это не совсем гламурно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0022",
+            "en": "When the chips are down and the toilet’s busted, I’m a hell of a lot happier to see a plumber than a—ya know—a still life painter or whatever.",
+            "ru_native": "Когда расслабило, а туалет забит, я гораздо больше<br>обрадуюсь сантехнику, чем... мастеру натюрмортов или еще кому.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли терміново потрібно в туалет, а він забитий,<br>то я скоріше зрадію сантехникові, ніж художнику тощо."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0023",
+            "en": "And I’ll bet the universe would agree.",
+            "ru_native": "И вселенная со мной согласится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Присягаюся, що всесвіт погодиться."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0024",
+            "en": "Don’t take this the wrong way, but you need to stop feeling sorry for yourself. Immediately.",
+            "ru_native": "Не пойми неправильно, но тебе нужно перестать жалеть себя. Прямо сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не сприймай неправильно, але тобі слід припинити жаліти себе. Негайно."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0025",
+            "en": "It’s not doing you any favors. It’s doing you the exact opposite of a favor.",
+            "ru_native": "Этим ты себе не поможешь. Точнее наоборот, только усугубишь ситуацию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі це не допоможе. Навпаки, зробить гірше."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0026",
+            "en": "For luck.",
+            "ru_native": "На удачу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На удачу."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0027",
+            "en": "There’s gotta be a better way to ask the universe for luck.",
+            "ru_native": "Должен быть способ получше, чтобы просить удачи у вселенной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Має бути спосіб краще, щоби просити всесвіт про удачу."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0028",
+            "en": "In an authentic and genuinely not sarcastic or smoke-blowing way, the beautiful, mysterious, well-dressed, and modest Riley Poverly told him…",
+            "ru_native": "Естественно и без малейшей нотки сарказма прекрасная,<br>загадочная, хорошо одетая и скромная Райли Поверли сказала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Природно й без жодного натяку на сарказм прекрасна,<br>загадкова, стильно вдягнена й скромна Райлі Поверлі сказала…"
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0029",
+            "en": "“I believe in you, Jacob Summers.”",
+            "ru_native": "«Я верю в тебя, Джейкоб Саммерс».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Я вірю в тебе, Джейкобе Саммерс»."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0030",
+            "en": "You done there?",
+            "ru_native": "Ты закончил?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тут закінчив?"
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0031",
+            "en": "There’s honor in fixing things for people. You could say that’s a noble profession.",
+            "ru_native": "Есть что-то благородное в том, чтобы чинить вещи. Это достойная профессия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є щось благородне в тому, щоби лагодити речі людей.<br>Можна сказати, це благородна професія."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0032",
+            "en": "Creation is overrated, Jacob.",
+            "ru_native": "Творчество переоценено, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Творчість переоцінена, Джейкобе."
+        },
+        {
+            "tag": "A3S2.BOATJA_RILEY_0033",
+            "en": "Cause we still have the same problem. And I know I’m gonna need you.",
+            "ru_native": "Проблема все та же. И я знаю, что мне понадобится твоя помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже в нас та сама проблема. Я знаю, що мені буде потрібна твоя допомога."
+        }
+    ]
+}

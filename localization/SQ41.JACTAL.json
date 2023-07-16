@@ -1,0 +1,285 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ41.JACTAL",
+    "entries": [
+        {
+            "tag": "SQ41.JACTAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ41.JACTAL_CHOICE_0000_OPTION_0000",
+            "en": "This is Riley. Who’s this?",
+            "ru_native": "Я Райли. Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я Райлі. Хто це?"
+        },
+        {
+            "tag": "SQ41.JACTAL_CHOICE_0000_OPTION_0001",
+            "en": "Anyone there?",
+            "ru_native": "Кто-нибудь есть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене хтось чує?"
+        },
+        {
+            "tag": "SQ41.JACTAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ41.JACTAL_CHOICE_0001_OPTION_0000",
+            "en": "Hello.",
+            "ru_native": "Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт."
+        },
+        {
+            "tag": "SQ41.JACTAL_CHOICE_0001_OPTION_0001",
+            "en": "Who is this?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "SQ41.JACTAL_CHOICE_0001_OPTION_0002",
+            "en": "Keep the channel clear, please.",
+            "ru_native": "Не засоряй канал, пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не займай канал, будь ласка."
+        },
+        {
+            "tag": "SQ41.JACTAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ41.JACTAL_CHOICE_0002_OPTION_0000",
+            "en": "Weird kid.",
+            "ru_native": "Странный ребенок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивна дитина."
+        },
+        {
+            "tag": "SQ41.JACTAL_FEMALEVOICE_0000",
+            "en": "Jakey! What did I say?",
+            "ru_native": "Джеки! Я что сказала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джекі! Що я казала?"
+        },
+        {
+            "tag": "SQ41.JACTAL_FEMALEVOICE_0001",
+            "en": "What did I say? No walkie-talkie before dinner, now your brother is—",
+            "ru_native": "Что я сказала? Никакой рации до ужина, теперь твой брат...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що я казала? Ніякої рації до вечері, тепер твій брат…"
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0000",
+            "en": "Oh wow! Hi! [laughs]",
+            "ru_native": "Ой, ух ты! Привет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ого! Привіт! [сміється]"
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0001",
+            "en": "Uh. Over.",
+            "ru_native": "Эм. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Прийом."
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0002",
+            "en": "Hi. I have a—a question, actually.",
+            "ru_native": "Привет. У меня... у меня вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. У мене… є питання."
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0003",
+            "en": "Uhh… my Mom says I shouldn’t give my name over the air.",
+            "ru_native": "Эм... мама говорит не называть свое имя незнакомцам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… мама каже не називати своє ім’я незнайомцям."
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0004",
+            "en": "But I have a question, though.",
+            "ru_native": "Но у меня есть вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але в мене є питання."
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0005",
+            "en": "Uhh… okay. I guess?",
+            "ru_native": "М-м-м... ну ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… ну гаразд?"
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0006",
+            "en": "Well, wait. I have a quick question, actually.",
+            "ru_native": "Нет, погоди. Короткий вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, стривай. У мене є питаннячко."
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0007",
+            "en": "Hellooo?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло-о-о?"
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0008",
+            "en": "If you’re still—if you’re still there, I have a quick question.",
+            "ru_native": "Если... если ты еще там, короткий вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти… якщо ти там, то в мене є питаннячко."
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0009",
+            "en": "Are you near the, uh, the lighthouse?",
+            "ru_native": "Ты рядом с маяком?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти поруч із маяком?"
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0010",
+            "en": "Can you… can you ask them to turn it on? I—",
+            "ru_native": "Можешь... можешь попросить его включить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш… можеш попросити ввімкнути його?"
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0011",
+            "en": "I’m talking to someone! I got someone!",
+            "ru_native": "Я с кем-то говорю! Там кто-то есть!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я з кимось говорю! Там хтось є!"
+        },
+        {
+            "tag": "SQ41.JACTAL_KID_0012",
+            "en": "[static; hangs up]",
+            "ru_native": "(помехи, отключается)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум; кінець зв’язку]"
+        },
+        {
+            "tag": "SQ41.JACTAL_RILEY_0000",
+            "en": "Hey, uh, is anyone using this channel. This is Riley. Over.",
+            "ru_native": "Эй, на этом канале кто-то есть? Это Райли. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, є хтось на цьому каналі? Це Райлі. Прийом."
+        },
+        {
+            "tag": "SQ41.JACTAL_RILEY_0001",
+            "en": "Hey, uh, is anyone there? Over.",
+            "ru_native": "Эй, так кто-нибудь есть? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, є там хтось? Прийом."
+        },
+        {
+            "tag": "SQ41.JACTAL_RILEY_0002",
+            "en": "Uh. Hi. Over.",
+            "ru_native": "Эм. Привет. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, привіт. Прийом."
+        },
+        {
+            "tag": "SQ41.JACTAL_RILEY_0003",
+            "en": "Uh, who is this? Over.",
+            "ru_native": "Кто это? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це? Прийом."
+        },
+        {
+            "tag": "SQ41.JACTAL_RILEY_0004",
+            "en": "Uh, sorry, but can you keep the channels clear, please.",
+            "ru_native": "Извини, но можешь не засорять канал, пожалуйста?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але ти можеш не займати канал, будь ласка?"
+        },
+        {
+            "tag": "SQ41.JACTAL_RILEY_0005",
+            "en": "We’re having a bit of an issue. It might not be safe. Over.",
+            "ru_native": "У нас тут кое-какие проблемы. Это может быть небезопасно. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас тут деякі проблеми. Це може бути небезпечно. Прийом."
+        },
+        {
+            "tag": "SQ41.JACTAL_RILEY_0006",
+            "en": "Huh. Weird kid.",
+            "ru_native": "Хм. Странный ребенок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, дивна дитина."
+        }
+    ]
+}

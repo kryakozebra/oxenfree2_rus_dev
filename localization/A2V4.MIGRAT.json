@@ -1,0 +1,2022 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V4.MIGRAT",
+    "entries": [
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0000_OPTION_0000",
+            "en": "You and me both.",
+            "ru_native": "Я тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0000_OPTION_0001",
+            "en": "It can still be about trucks.",
+            "ru_native": "Речь все еще о грузовиках?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мова ще й досі про вантажівки?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0000_OPTION_0002",
+            "en": "You sound disappointed.",
+            "ru_native": "Ты расстроен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти засмучений?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0001_OPTION_0000",
+            "en": "I’m pregnant.",
+            "ru_native": "Я беременна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вагітна."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0002_OPTION_0000",
+            "en": "I’m pregnant.",
+            "ru_native": "Я беременна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вагітна."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0002_OPTION_0001",
+            "en": "You heard what I said.",
+            "ru_native": "Ты все слышал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти все почув."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0003_OPTION_0000",
+            "en": "No balloons.",
+            "ru_native": "Без шариков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без кульок."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0003_OPTION_0001",
+            "en": "Sure, balloons.",
+            "ru_native": "Да, для шариков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, для кульок."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0004_OPTION_0000",
+            "en": "I just needed to say it.",
+            "ru_native": "Нужно было озвучить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені просто треба було це сказати."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0004_OPTION_0001",
+            "en": "It doesn’t matter anyway.",
+            "ru_native": "Это не имеет значения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не має значення."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0004_OPTION_0002",
+            "en": "Ask whatever you want.",
+            "ru_native": "Спрашивай что хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запитуй, що хочеш."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0005_OPTION_0000",
+            "en": "I’d prefer a girl.",
+            "ru_native": "Девочку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б хотіла дівчинку."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0005_OPTION_0001",
+            "en": "I know it’s a boy.",
+            "ru_native": "Я знаю, что это мальчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що це хлопчик."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0005_OPTION_0002",
+            "en": "Human.",
+            "ru_native": "Человека.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Людину."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0006_OPTION_0000",
+            "en": "Rex.",
+            "ru_native": "Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рекс."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0006_OPTION_0001",
+            "en": "Jacob.",
+            "ru_native": "Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0006_OPTION_0002",
+            "en": "No idea.",
+            "ru_native": "Без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0007_OPTION_0000",
+            "en": "Dinosaurs.",
+            "ru_native": "Динозавры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Динозаври."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0007_OPTION_0001",
+            "en": "I feel like it.",
+            "ru_native": "Нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подобається."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0007_OPTION_0002",
+            "en": "It is their name.",
+            "ru_native": "Это имя ребенка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ім’я дитини."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0008_OPTION_0000",
+            "en": "Deal.",
+            "ru_native": "По рукам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0008_OPTION_0001",
+            "en": "No promises.",
+            "ru_native": "Обещать не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу обіцяти."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0008_OPTION_0002",
+            "en": "I’m not naming them Jacob.",
+            "ru_native": "Никаких Джейкобов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не буду називати Джейкобом."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0009",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0009_OPTION_0000",
+            "en": "Terrified.",
+            "ru_native": "Я в ужасе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я налякана."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0009_OPTION_0001",
+            "en": "Hopeful.",
+            "ru_native": "Полна надежды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сповнена надії."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0009_OPTION_0002",
+            "en": "Sorry for the kid.",
+            "ru_native": "Жаль ребенка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шкода дитину."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0010",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0010_OPTION_0000",
+            "en": "You’re welcome.",
+            "ru_native": "Не за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0010_OPTION_0001",
+            "en": "Only a little.",
+            "ru_native": "Чуть-чуть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0010_OPTION_0002",
+            "en": "Don’t treat me differently.",
+            "ru_native": "Не носись со мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не панькайся зі мною."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0011",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0011_OPTION_0000",
+            "en": "Sure, why not.",
+            "ru_native": "Почему нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чом би й ні."
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0011_OPTION_0001",
+            "en": "We’re not done yet. ",
+            "ru_native": "Мы еще не закончили. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ще не закінчили. "
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0012",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0012_OPTION_0000",
+            "en": "By the way, I’m pregnant. ",
+            "ru_native": "Кстати, я беременна. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До речі, я вагітна. "
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0013",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0013_OPTION_0000",
+            "en": "Good idea. ",
+            "ru_native": "Хорошая мысль. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хороша ідея. "
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0013_OPTION_0001",
+            "en": "We’re not done yet. ",
+            "ru_native": "Мы еще не закончили. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ще не закінчили. "
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0014_OPTION_0000",
+            "en": "Good idea. ",
+            "ru_native": "Хорошая мысль. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хороша ідея. "
+        },
+        {
+            "tag": "A2V4.MIGRAT_CHOICE_0014_OPTION_0001",
+            "en": "We’re not done yet. ",
+            "ru_native": "Мы еще не закончили. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ще не закінчили. "
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0000",
+            "en": "You know… I really thought—I genuinely believed that my night would be just so much more about trucks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Знаешь... Я действительно думал... искренне верил, что моя ночь будет посвящена только грузовикам.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0001",
+            "en": "I really did.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я действительно это сделал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0002",
+            "en": "No, not complaining, just pointing it out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, не жалуюсь, просто указываю на это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0003",
+            "en": "Don’t, uh, give them ideas.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не надо, хм, давать им идеи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0004",
+            "en": "You know, Parentage reminded me of another group like them—The Migration?",
+            "ru_native": "Знаешь, «Наследие» напоминает мне о другой такой группе... «Миграция»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, «Парентаж» нагадує мені іншу таку групу… «Міграція»."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0005",
+            "en": "I remember when they were pitching tents in the nineties, but the actual act—the natural act—",
+            "ru_native": "Помню, как они расставляли тут палатки в 90-е.<br>Зато настоящее явление, которое природное...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пам’ятаю, як вони ставили тут намети в 90-ті.<br>Але як справжнє явище, ну, природнє…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0006",
+            "en": "Migration, pretty interesting. How baby birds do it, instinctively?",
+            "ru_native": "Миграция – интересная штука. Как птенцы это делают? Инстинктивно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Міграція — цікава штука. Як пташенята це роблять? Інстинктивно?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0007",
+            "en": "And then there’s something called—stop me if this gets boring—there’s something called reverse migration.",
+            "ru_native": "",
+            "ru_machine": "DEEPL А потом есть нечто, что называется - останови меня, если это станет скучным, - это нечто, что называется обратной миграцией.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0008",
+            "en": "So sometimes programming—like bird programming—has a glitch—",
+            "ru_native": "Порой природа ошибается при программировании...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інколи природа помиляється при програмуванні…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0009",
+            "en": "— and birds will actually fly north, you know, instead of south.",
+            "ru_native": "И птицы летят не на юг, а на север.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І птахи летять не на південь, а на північ."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0010",
+            "en": "Just something that goes wrong in the genes.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто что-то идет не так в генах.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0011",
+            "en": "Now you’d think this would lead to, uh, many dead birds, and it does, but some actually make it work.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Можно подумать, что это приведет к множеству мертвых птиц, и так оно и есть, но у некоторых это действительно получается.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0012",
+            "en": "Some survive.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Некоторые выживают.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0013",
+            "en": "And the ones that do they, uh—you know—they hook up—",
+            "ru_native": "Там они, как ты понимаешь, завязывают отношения и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там вони, ну... ти знаєш... знаходять собі пару і…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0014",
+            "en": "—and suddenly we have a whole new generation of birds going the wrong way.",
+            "ru_native": "Внезапно у нас целое поколение птиц, летящих в другую сторону.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді в нас з’являється ціле покоління птахів, що летять у неправильному напрямку."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0015",
+            "en": "And you know I wonder about the other birds—the ones flying the natural way.",
+            "ru_native": "Вот интересно, что чувствуют другие птицы, которые летят куда надо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво, що відчувають інші птахи, які летять, куди потрібно?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0016",
+            "en": "When they see birds going in the opposite direction.",
+            "ru_native": "Когда видят собратьев, летящих обратно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли бачать птахів, що летять у інший бік."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0017",
+            "en": "And I just wonder how many of them change their mind… turn around…",
+            "ru_native": "Интересно, сколько из них передумали и развернулись...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво, скільки з них передумали й розвернулися…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0018",
+            "en": "I wonder how many of them find a different way.",
+            "ru_native": "Интересно, сколько из них находят другой путь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво, скільки з них знаходять інший шлях."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0019",
+            "en": "Uh… [long pause] beg pardon?",
+            "ru_native": "Что, прости?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е... Перепрошую?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0020",
+            "en": "Uh…",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0021",
+            "en": "Come again?",
+            "ru_native": "Повтори?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повтори?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0022",
+            "en": "Then I do have… 20/20 hearing or—yeah.",
+            "ru_native": "Значит, у меня со слухом все хорошо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді в мене зі слухом усе гаразд…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0023",
+            "en": "That it is.",
+            "ru_native": "Ну да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0024",
+            "en": "You’re—uh—wow, okay.",
+            "ru_native": "Ты... Ничего себе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… Нічого собі."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0025",
+            "en": "Uh… [long pause] Congratulations?",
+            "ru_native": "Эм... Поздравляю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Вітаю?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0026",
+            "en": "I’m sorry, is this a… balloons and yay type of a thing, or…",
+            "ru_native": "Прости, это событие для шариков и радости или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, це… подія для кульок і радощів чи…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0027",
+            "en": "Let me uh—",
+            "ru_native": "Дай...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0028",
+            "en": "Yeah, let me know there.",
+            "ru_native": "Дай знать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки скажи."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0029",
+            "en": "Copy that.",
+            "ru_native": "Понял.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозумів."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0030",
+            "en": "So I’m gonna just take one colossal, uh—metaphorical step back and let you drive our uh—our little chat here.",
+            "ru_native": "Я сейчас сделаю один гигантский... метафорический<br>шаг назад и дам тебе возможность вести разговор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зараз зроблю один гігантський… метафоричний<br>крок назад і дам тобі можливість вести розмову."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0031",
+            "en": "Starting…",
+            "ru_native": "Прямо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0032",
+            "en": "…now.",
+            "ru_native": "...сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…зараз."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0033",
+            "en": "Step…",
+            "ru_native": "Шаг...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Крок…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0034",
+            "en": "Taken.",
+            "ru_native": "Сделан.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зроблено."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0035",
+            "en": "It’s worth.",
+            "ru_native": "Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось і все."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0036",
+            "en": "And, uh… consider it tabled. Officially.",
+            "ru_native": "Считай, что факт официально учтен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вважай, що… я взяв до уваги. Офіційно."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0037",
+            "en": "Oh, are we, uh, done talking about it?",
+            "ru_native": "Все, мы закончили... разговор?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… закінчили розмову?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0038",
+            "en": "Okay. That’s cool, too.",
+            "ru_native": "Если да, то ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо так, то гаразд."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0039",
+            "en": "Uh, if you don’t already know… which one would you prefer? A boy or a girl?",
+            "ru_native": "Если еще не известно... Ты бы кого хотела? Мальчика или девочку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ще не відомо… Кого б ти хотіла? Хлопчика чи дівчинку?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0040",
+            "en": "I have no idea when you can uh—ya know...identify.",
+            "ru_native": "Понятия не имею, когда можно... узнавать пол.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто гадки не маю, коли можна… дізнатися стать."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0041",
+            "en": "Actually — you know what?",
+            "ru_native": "Вообще... Знаешь что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі… знаєш що?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0042",
+            "en": "I just — really didn’t expect this and I know I will wind up with both feet and half a shin in my mouth if I don’t pipe down.",
+            "ru_native": "Просто... Такого я не ожидал, и подозреваю, что лишусь<br>не только языка, но и всех зубов, если не заткнусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… я такого не очікував, і, здається, що ти мені<br>не лише язика вирвеш, а й усі зуби, якщо я не замовкну."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0043",
+            "en": "So… piping.",
+            "ru_native": "Так что затыкаюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… замовкаю."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0044",
+            "en": "And… any names?",
+            "ru_native": "Думала над именами?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибрала ім’я?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0045",
+            "en": "And if I’m prying, please say so.",
+            "ru_native": "Если я лезу не туда, так и скажи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це не моя справа, просто скажи."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0046",
+            "en": "I’ll just immediately stop talking.",
+            "ru_native": "Я сразу закрою рот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я одразу ж замовкну."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0047",
+            "en": "I’m prying. I’m—sorry.",
+            "ru_native": "Лезу не туда. Прости...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не моя справа, вибач…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0048",
+            "en": "A girl named Rex?",
+            "ru_native": "Девчонка по имени Рекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дівчинка на ім’я Рекс?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0049",
+            "en": "Sounds great — it’ll look awesome on a Little League sheet.",
+            "ru_native": "Звучит круто. Будет смотреться в списках детской лиги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить круто… буде гарно виглядати в списках дитячої ліги."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0050",
+            "en": "A little boy named Rex?",
+            "ru_native": "Пацан по имени Рекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопчик на ім’я Рекс?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0051",
+            "en": "Why that one?",
+            "ru_native": "Почему именно оно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому так?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0052",
+            "en": "I mean — don’t get me wrong — cool name. Super cool.",
+            "ru_native": "Не пойми неправильно, крутое имя. Даже очень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… нічого не подумай, ім’я круте. Справді."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0053",
+            "en": "But also super uncommon.",
+            "ru_native": "Просто довольно редкое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто доволі рідкісне."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0054",
+            "en": "Well it’ll definitely stand out.",
+            "ru_native": "Явно будет выделяться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно буде вирізнятися."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0055",
+            "en": "I can count on… no hands how many Rex’s I’ve ever met.",
+            "ru_native": "Я всего... Хотя я вообще ни одного Рекса не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не знаю жодного Рекса."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0056",
+            "en": "Guess you don’t need a capital R reason.",
+            "ru_native": "Наверно, для этого причина не нужна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, для цього причина не потрібна."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0057",
+            "en": "It’s a good name, though. I dig it.",
+            "ru_native": "Хорошее имя, мне нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарне ім’я. Мені подобається."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0058",
+            "en": "A girl named Jacob? I can see it.",
+            "ru_native": "Девчонка Джейкоб? Звучит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дівчинка на ім’я Джейкоб? Звучить."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0059",
+            "en": "Just make sure you spell it with a C.",
+            "ru_native": "Главное, чтобы не Якоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Головне, щоби не Яків."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0060",
+            "en": "Those Jakob-With-A-K’s out there just think they’re so much better.",
+            "ru_native": "Все эти Якобы считают, что они гораздо лучше других.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо всі ці Якови вважають, що вони кращі за інших."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0061",
+            "en": "They’re the worst.",
+            "ru_native": "Ужасные люди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жахливі люди."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0062",
+            "en": "Trust me.",
+            "ru_native": "Уж поверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повір мені."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0063",
+            "en": "Hey, it’s a good backup plan! But only with a C.",
+            "ru_native": "Это хороший запасной план! Главное – не Якоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це хороший запасний план! Головне, щоби не Яків."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0064",
+            "en": "Yeah, you probably don’t wanna paint yourself into a name corner, ya know?",
+            "ru_native": "Да, пожалуй, не стоит загонять себя в именной угол, знаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, гадаю, не варто поки що про це думати, так?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0065",
+            "en": "So—uh—bird’s eye. How do you uh — ya know...",
+            "ru_native": "Так... Общий вопрос. Как ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Загальне питання. Як ти…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0066",
+            "en": "Feel? Overall?",
+            "ru_native": "Себя чувствуешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Почуваєшся?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0067",
+            "en": "About it.",
+            "ru_native": "В связи с...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У зв’язку з…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0068",
+            "en": "About uh—them.",
+            "ru_native": "В связи с пополнением.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У зв’язку з вагітністю."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0069",
+            "en": "Yeah, sure, but, hey—how often are things as scary as we think they’re gonna be, ya know?",
+            "ru_native": "Ну да, но... Как часто вещи оказываются такими же страшными, как мы представляли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але… Як часто речі виявляються такими ж страшними, як ми уявляли?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0070",
+            "en": "I mean, tonight is… a bad example, but still.",
+            "ru_native": "Сегодня – плохой пример, но все же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні… поганий приклад, та все ж таки."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0071",
+            "en": "It should stay that way.",
+            "ru_native": "Пусть оно так и остается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай так і залишається."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0072",
+            "en": "Don’t we all.",
+            "ru_native": "Как и всем нам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як і всіх нас."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0073",
+            "en": "Ya know what? We’ve reached the end of what should be considered my business. But I should say...",
+            "ru_native": "Знаешь, думаю, мы достигли границ того, что может считаться моим делом. Но я хочу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, ми вже дійшли до межі того, що може вважатися «моєю справою». Але я хочу…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0074",
+            "en": "Uh, well, maybe this is weird, but uh—thanks for telling me.",
+            "ru_native": "Может, это странно, но... Спасибо, что рассказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, це дивно, але… Дякую, що розповіла."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0075",
+            "en": "I appreciate it.",
+            "ru_native": "Я это ценю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я це ціную."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0076",
+            "en": "Is that weird?",
+            "ru_native": "Это странно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дивно?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0077",
+            "en": "It’s weird.",
+            "ru_native": "Это странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дивно."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0078",
+            "en": "Or is it?",
+            "ru_native": "Или нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи ні?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0079",
+            "en": "Lucky me.",
+            "ru_native": "Мне повезло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені пощастило."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0080",
+            "en": "I’ll take it.",
+            "ru_native": "Согласен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Згоден."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0081",
+            "en": "Not even at all, promise.",
+            "ru_native": "Совсем не буду, обещаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зовсім не буду, обіцяю."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0082",
+            "en": "Boy, night of surprises.",
+            "ru_native": "Ночь сюрпризов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, якась ніч сюрпризів."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0083",
+            "en": "But it’s nice to have one that’s...different. In the good way.",
+            "ru_native": "Приятно, что хоть один из них... выгодно отличается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але добре, що хоч один із них… приємний."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0084",
+            "en": "C’mon, one last transmitter. I think I know a good spot.",
+            "ru_native": "Остался последний передатчик. Я знаю отличное место.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишився останній радіопередавач. Я знаю чудове місце."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0085",
+            "en": "Heh, sorry, I uh--",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хех, извини, я...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0086",
+            "en": "I prattle, my mom always said so. I’m usually all alone, ya know?",
+            "ru_native": "Я балабол, мама всегда говорила. Обычно я совсем один.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — базікало, мама завжди це казала. Зазвичай я наодинці із собою, розумієш?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0087",
+            "en": "You get these thoughts and they kinda—yeah.",
+            "ru_native": "В голову лезут всякие мысли и... Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У голові лізуть усілякі думки… Так."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0088",
+            "en": "Let’s uh—let’s find a place for that transmitter.",
+            "ru_native": "Ладно, давай искать место для передатчика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ходімо шукати місце для радіопередавача."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0089",
+            "en": "Maybe after that we can uh--...focus on trucks again.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, после этого мы сможем... э-э... снова сосредоточиться на грузовиках.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0090",
+            "en": "C’mon.",
+            "ru_native": "Идем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0091",
+            "en": "Wow, night of surprises.",
+            "ru_native": "Ночь сюрпризов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, якась ніч сюрпризів."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0092",
+            "en": "Just when you think, ya know?",
+            "ru_native": "Хотя казалось бы, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто б міг подумати?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0093",
+            "en": "Ah, could we —? Sorry, but could just take a breather for a second, here?",
+            "ru_native": "Мы можем?.. Прости, давай передохнем секундочку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми можемо… Вибач, може відпочинемо трошки?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0094",
+            "en": "Cause that was a lot.",
+            "ru_native": "Я уже не вывожу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вже не можу."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0095",
+            "en": "And we’re pretty good on time.",
+            "ru_native": "Да и время еще есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та й час ще є."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0096",
+            "en": "One transmitter to go.",
+            "ru_native": "Один передатчик остался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишився один радіопередавач."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0097",
+            "en": "Olivia’s friends are against her.",
+            "ru_native": "Друзья Оливии ее бросили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Друзі Олівії її кинули."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0098",
+            "en": "Just a quick minute.",
+            "ru_native": "Всего минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усього хвилинку."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0099",
+            "en": "Thanks, yeah.",
+            "ru_native": "Да, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дякую."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0100",
+            "en": "No, I know, I just… want a minute, here.",
+            "ru_native": "Я знаю, да... Всего минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, так… Усього хвилинку."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0101",
+            "en": "So… Parentage is just… moon gazing and yoga mats.",
+            "ru_native": "«Наследие» – лишь любование луной и маты для йоги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Парентаж» — це лише милування місяцем і килимки для йоги."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0102",
+            "en": "That’s good to know, I guess. They actually remind me of another group like them — The Migration?",
+            "ru_native": "Рад это слышать. Они мне напоминают о другой такой группе... «Миграция»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радий це чути. Вони нагадують мені іншу групу… «Міграція»."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0103",
+            "en": "Okay, we don’t have a ton of time, but…",
+            "ru_native": "У нас не так много времени, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0104",
+            "en": "I just wanna get my back aligned after all of, uh, that.",
+            "ru_native": "Мне бы просто спину в человеческое положение вернуть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0105",
+            "en": "Ah, thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0106",
+            "en": "Ah, okay, thanks. That helped. Let’s keep moving.",
+            "ru_native": "Да, спасибо. Помогло. Идем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0107",
+            "en": "[sigh] You know, this reminds me of that story I told you?",
+            "ru_native": "Мне это напомнило о той истории.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Знаєш, це мені нагадує ту історію, що я тобі розповідав."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0108",
+            "en": "The kids that sailed off to a faraway island, got caught…",
+            "ru_native": "Дети отправились на далекий остров, попали в ловушку...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Діти попливли на далекий острів, потрапили в пастку…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0109",
+            "en": "… and then tricked other kids into replacing them. And it was a cycle, forever.",
+            "ru_native": "И обманом махнулись местами с другими детьми. Этот цикл был бесконечным.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Й обманом помінялися місцями з іншими дітьми. Цей цикл тривав вічно."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0110",
+            "en": "I used to think it was just a metaphor for… adulthood, or… arrested adolescence, I don’t know.",
+            "ru_native": "Раньше я думал, что это метафора... взросления или задержки развития.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше я думав, що це метафора… дорослішання чи затримки розвитку."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0111",
+            "en": "But… maybe it’s real. Maybe… everything’s already happened. I don’t know.",
+            "ru_native": "Но... может, это правда? Может, все уже происходило? Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… може це правда? Можливо, це вже відбувалося? Не знаю."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0112",
+            "en": "[to himself] Okay, whatever, sorry —",
+            "ru_native": "Ладно, проехали. Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, облиш. Вибач…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0113",
+            "en": "[sigh] You know, this reminds me of that story I told you?",
+            "ru_native": "Мне это напомнило о той истории.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Знаєш, це мені нагадує ту історію, що я тобі розповідав."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0114",
+            "en": "The kids that sailed off to a faraway island, got caught…",
+            "ru_native": "Дети отправились на далекий остров, попали в ловушку...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Діти попливли на далекий острів, потрапили в пастку…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0115",
+            "en": "… and then tricked other kids into replacing them. And it was a cycle, forever.",
+            "ru_native": "И обманом махнулись местами с другими детьми. Этот цикл был бесконечным.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Й обманом помінялися місцями з іншими дітьми. Цей цикл тривав вічно."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0116",
+            "en": "I used to think it was just a metaphor for… adulthood, or… arrested adolescence, I don’t know.",
+            "ru_native": "Раньше я думал, что это метафора... взросления или задержки развития.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше я думав, що це метафора… дорослішання чи затримки розвитку."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0117",
+            "en": "But… maybe it’s real. Maybe… everything’s already happened. I don’t know.",
+            "ru_native": "Но... может, это правда? Может, все уже происходило? Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… може це правда? Можливо, це вже відбувалося? Не знаю."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0118",
+            "en": "[to himself] Okay, whatever, sorry —",
+            "ru_native": "Ладно, проехали. Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, облиш. Вибач…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0119",
+            "en": "No, I know, I just… want a minute, here.",
+            "ru_native": "Я знаю, да... Всего минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, так… Усього хвилинку."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0120",
+            "en": "Okay, not opportune I know, but like–I gotta take a second.",
+            "ru_native": "Ладно, не самый подходящий момент, но... дай мне секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, може це не кращий момент, але… мені треба відпочити."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0121",
+            "en": "We should take a second.",
+            "ru_native": "Надо передохнуть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зупинимося на хвилинку?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0122",
+            "en": "That was just–a lot.",
+            "ru_native": "Это было... слишком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені просто… важко."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0123",
+            "en": "Brains, lungs, knees, the works.",
+            "ru_native": "Мозги, легкие, колени, в общем, все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, не тільки мізки, а й легені, коліна і все інше."
+        },
+        {
+            "tag": "A2V4.MIGRAT_JACOB_0124",
+            "en": "No, I know, I just… want a minute, here.",
+            "ru_native": "Я знаю, да... Всего минутку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, так… Усього хвилинку."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0000",
+            "en": "Yeah, me too. So to speak.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, я тоже. Так сказать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0001",
+            "en": "Hey, it can still be about trucks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, это все еще может быть связано с грузовиками.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0002",
+            "en": "I mean, at this point I wouldn’t be surprised if trucks just started falling out of the sky.",
+            "ru_native": "",
+            "ru_machine": "DEEPL То есть на данный момент я не удивлюсь, если грузовики просто начнут падать с неба.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0003",
+            "en": "You almost sound, disappointed.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты почти говоришь, разочарован.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0004",
+            "en": "I’m pregnant.",
+            "ru_native": "Я беременна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вагітна."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0005",
+            "en": "I found out before I took the job. I’m two months.",
+            "ru_native": "Узнала до приема на работу. Уже два месяца.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я дізналася до прийому на роботу. Уже два місяці."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0006",
+            "en": "And your hearing is fine.",
+            "ru_native": "И слышишь ты отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І в тебе все гаразд зі слухом."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0007",
+            "en": "No balloons.",
+            "ru_native": "Без шариков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без кульок."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0008",
+            "en": "Uh—sure—yeah, balloons. Balloons. Thanks. Thank you.",
+            "ru_native": "Да, конечно. Шарики. Куча шариков. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно. Кульки. Купа кульок. Дякую."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0009",
+            "en": "Look, Jacob… I just needed to say it out loud. I haven’t told anyone, yet.",
+            "ru_native": "Джейкоб... Мне просто нужно было это озвучить. Никто еще не знает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе… Мені просто треба було це сказати. Ніхто ще не знає."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0010",
+            "en": "You’re technically not \"supposed\" to before three months, but…",
+            "ru_native": "Строго говоря, «нельзя» говорить раньше трех месяцев, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі, «не можна» говорити раніше трьох місяців, але…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0011",
+            "en": "Whatever.",
+            "ru_native": "Пофиг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0012",
+            "en": "No, I don’t want the night to become… about this. It’s not about this.",
+            "ru_native": "Нет, я не хочу, чтобы это стало... главной темой дня. Не нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я не хочу, щоби це стало… головною темою дня. Не треба."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0013",
+            "en": "But I wanted you to know. For whatever it’s worth.",
+            "ru_native": "Просто хотела, чтоб ты знал. Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто хотіла, щоби ти знав. Ось і все."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0014",
+            "en": "You can—look, just ask whatever you want.",
+            "ru_native": "Можешь... спрашивать что хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш… запитувати, що хочеш."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0015",
+            "en": "It’s fine.",
+            "ru_native": "Все ок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0016",
+            "en": "Speaking honestly, I’d prefer a girl.",
+            "ru_native": "Честно говоря, я бы хотела девочку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо чесно, я б хотіла дівчинку."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0017",
+            "en": "But something tells me I’m going to be disappointed in that department.",
+            "ru_native": "Но что-то мне подсказывает, что мое желание не исполнится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але щось мені підказує, що моє бажання не збудеться."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0018",
+            "en": "I know it’s a boy.",
+            "ru_native": "Я знаю, что это мальчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що це хлопчик."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0019",
+            "en": "Look, if it’s human, I’m happy.",
+            "ru_native": "Слушай, я буду рада человеку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я буду рада, якщо це людина."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0020",
+            "en": "Fate can sort the rest of it.",
+            "ru_native": "Остальное – как карта ляжет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А все інше вирішить доля."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0021",
+            "en": "I was actually thinking Rex.",
+            "ru_native": "Вообще я думала об имени Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі, я думала про ім’я Рекс."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0022",
+            "en": "Dinosaurs. It’s probably the closest I’ll ever get to having one.",
+            "ru_native": "Динозавры. Это мой единственный шанс заполучить одного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Динозаври. Це мій єдиний шанс отримати одного."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0023",
+            "en": "I just feel like it — I can’t really explain it.",
+            "ru_native": "Оно мне нравится... Не знаю, почему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воно мені подобається… Не знаю, чому."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0024",
+            "en": "It is their name. Rex. I guess I’ll never know how I came up with it...",
+            "ru_native": "Такое вот имя. Рекс. Наверно, я никогда не узнаю, почему его выбрала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ім’я дитини. Рекс. Мабуть, я ніколи не дізнаюся, чому його вибрала…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0025",
+            "en": "I was thinking maybe...Jacob?",
+            "ru_native": "Я думала... Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думала… Джейкоб?"
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0026",
+            "en": "Sure, you got it.",
+            "ru_native": "Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0027",
+            "en": "Sorry, but… no promises.",
+            "ru_native": "Прости, но... обещать не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але… без обіцянок."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0028",
+            "en": "You know I’m lying right? I’m not naming my kid Jacob.",
+            "ru_native": "Шучу. Я не буду называть ребенка Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я жартую. Я не буду називати свою дитину Джейкобом."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0029",
+            "en": "Absolutely no idea.",
+            "ru_native": "Ни малейшего понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0030",
+            "en": "Petrified. In just—every way possible. And more ways to be invented, I’m sure.",
+            "ru_native": "Я в ужасе. Во всех возможных смыслах. И еще в паре пока не возможных.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я налякана. У всіх можливих сенсах. І ще в декількох неможливих."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0031",
+            "en": "I’m… hopeful. I am.",
+            "ru_native": "Я... полна надежды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… сповнена надії."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0032",
+            "en": "I should probably be worried—and ya know—part of me is — very worried, incredibly worried — but…",
+            "ru_native": "Наверное, мне нужно волноваться. И часть меня очень волнуется, жутко волнуется, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, я маю хвилюватися. І частинка мене дуже хвилюється, але…"
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0033",
+            "en": "Hope is still winning.",
+            "ru_native": "Надежда побеждает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Надія перемагає."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0034",
+            "en": "I feel like I’ll be apologizing to this kid my entire life.",
+            "ru_native": "Кажется, что я буду всю жизнь извиняться перед ребенком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, я все життя буду вибачатися перед дитиною."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0035",
+            "en": "I know what they’re inheriting. Being mine… they’re gonna have an uphill climb.",
+            "ru_native": "Наследственность так себе. Быть мной... Ему предстоит долгий путь наверх.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю свої гени. Бути мною… її чекає довгий шлях нагору."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0036",
+            "en": "Heh, you’re welcome.",
+            "ru_native": "Не за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0037",
+            "en": "Not many know.",
+            "ru_native": "Мало кто знает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мало хто знає."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0038",
+            "en": "Just a little weird, but I’ve seen weirder.",
+            "ru_native": "Немного странно, но бывает хуже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трошки дивно, але буває й гірше."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0039",
+            "en": "Look, I don’t want to be treated differently. Not even a little.",
+            "ru_native": "Слушай, я не хочу, чтобы со мной носились. Даже немного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я не хочу, щоби зі мною панькалися. Навіть трохи."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0040",
+            "en": "Uh, sure? I mean… yeah, we earned it, I guess. Two minutes.",
+            "ru_native": "Точно? Ну ладно, мы заслужили. Две минуты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно? Гаразд, ми заслужили. Дві хвилини."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0041",
+            "en": "Eh, we’re not done, yet.",
+            "ru_native": "Мы еще не закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ще не закінчили."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0042",
+            "en": "I think the reason people count eggs and not chickens is precisely for scenarios exactly like this.",
+            "ru_native": "Полагаю, цыплят считают по осени именно из-за подобных случаев.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, люди не кажуть гоп, доки не перескочать саме через такі ситуації."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0043",
+            "en": "Eh, we’re not done, yet.",
+            "ru_native": "Эй, мы еще не закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ще не закінчили."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0044",
+            "en": "I think the reason people count eggs and not chickens is precisely for scenarios exactly like this.",
+            "ru_native": "Полагаю, цыплят считают по осени именно из-за подобных случаев.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, люди не кажуть гоп, доки не перескочать саме через такі ситуації."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0045",
+            "en": "Yeah, that’s a good idea.",
+            "ru_native": "Да, хорошая идея.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, чудова ідея."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0046",
+            "en": "Our brains will thank us someday.",
+            "ru_native": "Наши мозги нам потом спасибо скажут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наші мізки колись нам подякують."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0047",
+            "en": "Eh, we’re not done, yet.",
+            "ru_native": "Эй, мы еще не закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ще не закінчили."
+        },
+        {
+            "tag": "A2V4.MIGRAT_RILEY_0048",
+            "en": "I think the reason people count eggs and not chickens is precisely for scenarios exactly like this.",
+            "ru_native": "Полагаю, цыплят считают по осени именно из-за подобных случаев.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, люди не кажуть гоп, доки не перескочать саме через такі ситуації."
+        }
+    ]
+}

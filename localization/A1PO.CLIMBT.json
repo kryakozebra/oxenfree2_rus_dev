@@ -1,0 +1,330 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1PO.CLIMBT",
+    "entries": [
+        {
+            "tag": "A1PO.CLIMBT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.CLIMBT_CHOICE_0000_OPTION_0000",
+            "en": "Focus.",
+            "ru_native": "Соберись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередься."
+        },
+        {
+            "tag": "A1PO.CLIMBT_CHOICE_0000_OPTION_0001",
+            "en": "She’ll be okay.",
+            "ru_native": "С ней все будет хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із нею все буде добре."
+        },
+        {
+            "tag": "A1PO.CLIMBT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.CLIMBT_CHOICE_0001_OPTION_0000",
+            "en": "Tell me a nice story about her.",
+            "ru_native": "Расскажи что-нибудь о ней.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розкажи мені цікаву історію про неї."
+        },
+        {
+            "tag": "A1PO.CLIMBT_CHOICE_0001_OPTION_0001",
+            "en": "Be brave for her.",
+            "ru_native": "Будь храбрым за нее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь хороброю для неї."
+        },
+        {
+            "tag": "A1PO.CLIMBT_CHOICE_0001_OPTION_0002",
+            "en": "Do you need to go home?",
+            "ru_native": "Хочешь вернуться домой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі хіба не потрібно додому?"
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0000",
+            "en": "I have no words for how worried I am about Athena.",
+            "ru_native": "Я так переживаю за Будду, слов нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу передати, як я хвилююся за Афіну."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0001",
+            "en": "Uh, and when I say Athena I mean the animal whose poops I scoop.",
+            "ru_native": "Да, и под Буддой я имею в виду зверя, за которым убираю какашки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю на увазі тварину, за якою я прибираю какульки."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0002",
+            "en": "Not—ya know—Athena Athena.",
+            "ru_native": "Ну, в смысле, не который бог.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не ту Афіну."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0003",
+            "en": "[sigh] I mean my dog.",
+            "ru_native": "Я про свою собаку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Я маю на увазі свою собаку."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0004",
+            "en": "[quiet] I just hope she’s not-...scared.",
+            "ru_native": "Надеюсь, ей не страшно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихо] Сподіваюся, вона не налякана."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0005",
+            "en": "[quiet] That’s…",
+            "ru_native": "Вот...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихо] Це ж…"
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0006",
+            "en": "[sighs] That’s all.",
+            "ru_native": "Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихо] Це все."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0007",
+            "en": "She uh—[light laugh]—she barks at the coffee pot every morning. Angrily.",
+            "ru_native": "Она... она по утрам лает на кофейник. Очень злобно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… [весело сміється] щоранку гавкає на кавоварку. Сердито."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0008",
+            "en": "I think she’s just jealous ‘cause it’s the only thing in the house that gets more attention than she does.",
+            "ru_native": "Думаю, она просто ревнует, потому что эта единственная вещь в доме,<br>которой я уделяю больше внимания, чем ей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я гадаю, від ревнощів. Адже це єдина річ у будинку,<br>що отримує більше уваги, ніж вона."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0009",
+            "en": "I...am brave.",
+            "ru_native": "Я... не боюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… хоробра."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0010",
+            "en": "For—yeah...for Athena.",
+            "ru_native": "Ради... да, ради Будды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заради Афіни."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0011",
+            "en": "I am brave.",
+            "ru_native": "Я не боюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хоробра."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0012",
+            "en": "No, I—don’t. She’s—ya know—she’s my dog, dude!",
+            "ru_native": "Нет, не хочу. Она... она моя собака, блин!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не потрібно. Це ж моя собака!"
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0013",
+            "en": "I worry! People worry. Especially people with dogs.",
+            "ru_native": "Я волнуюсь! Это нормально – переживать за питомцев.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хвилююся! Люди хвилюються. Особливо люди із собаками."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0014",
+            "en": "[ID-24] [deep breath]",
+            "ru_native": "Уфф...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Глибоко вдихає]"
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0015",
+            "en": "Okay, I’m—I’ll be okay. Or—okay enough.",
+            "ru_native": "Ладно, я... в порядке. Я справлюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Я впораюсь. Принаймні, сподіваюсь."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0016",
+            "en": "Thanks for—uh—grounding me there.",
+            "ru_native": "Спасибо, что спустила меня на землю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що підтримав."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0017",
+            "en": "Let’s get to the summit.",
+            "ru_native": "Пошли на вершину.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піднімімося на вершину."
+        },
+        {
+            "tag": "A1PO.CLIMBT_JACOB_0018",
+            "en": "I’ll—get over it. Let’s...get to the summit.",
+            "ru_native": "Я справлюсь. Давай... поднимемся на вершину.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я впораюся. Піднімімося на вершину."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0000",
+            "en": "Focus up. Sorry, but—just do it.",
+            "ru_native": "Соберись. Прости, но сейчас не время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередься. Вибач, але… просто зроби це."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0001",
+            "en": "I know, easier said, but we have work to do.",
+            "ru_native": "Я знаю, легко сказать, но у нас есть дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю. Це нелегко, але в нас є справа."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0002",
+            "en": "Hey, c’mon, positive thinking.",
+            "ru_native": "Эй, ну же, выше нос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, годі, треба мислити позитивно."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0003",
+            "en": "She’ll be fine.",
+            "ru_native": "Все обойдется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із нею все буде гаразд."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0004",
+            "en": "Tell me something nice about her.",
+            "ru_native": "Расскажи мне что-нибудь о ней.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розкажи мені щось цікаве про неї."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0005",
+            "en": "A funny story or—something.",
+            "ru_native": "Какой-то забавный случай или типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якусь смішну історію."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0006",
+            "en": "If she’s scared, then you’re gonna have to be brave for her.",
+            "ru_native": "Если ей страшно, тогда ты должен быть храбрым за нее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо їй страшно, треба бути сміливим заради неї."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0007",
+            "en": "So—ya know—do that. For Athena.",
+            "ru_native": "Так что... сделай это. Ради Будды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже… зробімо це. Заради Афіни."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0008",
+            "en": "Say it til you believe it: I am brave.",
+            "ru_native": "Повторяй, пока не поверишь: я не боюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажи, доки не повіриш у свої слова: «Я смілива»."
+        },
+        {
+            "tag": "A1PO.CLIMBT_RILEY_0009",
+            "en": "Do you like—need to go home or something?",
+            "ru_native": "Ты это к чему, хочешь вернуться домой или как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі хіба… не потрібно додому?"
+        }
+    ]
+}

@@ -1,0 +1,114 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.REATRA",
+    "entries": [
+        {
+            "tag": "A2V3.REATRA_CHARLIE_0000",
+            "en": "Damn it!",
+            "ru_native": "Проклятье.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт!"
+        },
+        {
+            "tag": "A2V3.REATRA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.REATRA_CHOICE_0000_OPTION_0000",
+            "en": "Huh? This room…",
+            "ru_native": "Эта комната...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га? Ця кімната…"
+        },
+        {
+            "tag": "A2V3.REATRA_CHOICE_0000_OPTION_0001",
+            "en": "Where’s the radio?",
+            "ru_native": "Где радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де радіо?"
+        },
+        {
+            "tag": "A2V3.REATRA_JACOB_0000",
+            "en": "God! [groans]",
+            "ru_native": "Боже!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже!"
+        },
+        {
+            "tag": "A2V3.REATRA_OLIVIA_0000",
+            "en": "Ah, there you—",
+            "ru_native": "Вот ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось ти…"
+        },
+        {
+            "tag": "A2V3.REATRA_OLIVIA_0001",
+            "en": "<i>Whoa!</i>",
+            "ru_native": "Ого!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого!"
+        },
+        {
+            "tag": "A2V3.REATRA_RILEY_0000",
+            "en": "There! Ha!",
+            "ru_native": "Есть! Ха!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є! Ха!"
+        },
+        {
+            "tag": "A2V3.REATRA_RILEY_0001",
+            "en": "<i>Ah!</i>",
+            "ru_native": "А!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А!"
+        },
+        {
+            "tag": "A2V3.REATRA_RILEY_0002",
+            "en": "Wait, this—this room—this was my room… in, like, eighth grade—what?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди, эта комната была моей комнатой... в восьмом классе... Что?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.REATRA_RILEY_0003",
+            "en": "Jacob! You see the radio?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб! Ты видишь радио?!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.REATRA_VIOLET_0000",
+            "en": "[ergh!]",
+            "ru_native": "[ID-2]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ех!]"
+        }
+    ]
+}

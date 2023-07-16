@@ -1,0 +1,141 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1S4.IGOCLI",
+    "entries": [
+        {
+            "tag": "A1S4.IGOCLI_CHOICE_0000_OPTION_0000",
+            "en": "Give it a try!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Попробуй!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуй!"
+        },
+        {
+            "tag": "A1S4.IGOCLI_CHOICE_0000_OPTION_0001",
+            "en": "See you soon!",
+            "ru_native": "",
+            "ru_machine": "DEEPL До скорой встречи!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоро побачимося."
+        },
+        {
+            "tag": "A1S4.IGOCLI_CHOICE_0000_OPTION_0002",
+            "en": "I can just do the job.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я могу просто выполнять работу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто я можу зробити все, що треба."
+        },
+        {
+            "tag": "A1S4.IGOCLI_JACOB_0000",
+            "en": "Ah, you, uh – you don’t wanna at least try the gate?",
+            "ru_native": "",
+            "ru_machine": "DEEPL А, ты, эээ - ты не хочешь хотя бы попробовать ворота?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти… ти не хочеш принаймні спробувати через ворота?"
+        },
+        {
+            "tag": "A1S4.IGOCLI_JACOB_0001",
+            "en": "Oh wait… it’s locked. Nevermind. [sigh]",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, подожди... он заблокирован. Nevermind. [sigh].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай… тут замкнено. Не зважай. [зітхає]"
+        },
+        {
+            "tag": "A1S4.IGOCLI_JACOB_0002",
+            "en": "I’ll just wait here until you come back and unlock it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто подожду здесь, пока ты не вернешься и не разблокируешь его.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто зачекаю тут, поки ти не повернешся й не відчиниш їх."
+        },
+        {
+            "tag": "A1S4.IGOCLI_JACOB_0003",
+            "en": "Watch your step, though.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Однако смотри под ноги.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивися під ноги, обережно."
+        },
+        {
+            "tag": "A1S4.IGOCLI_JACOB_0004",
+            "en": "Uh, please.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, пожалуйста.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, будь ласка."
+        },
+        {
+            "tag": "A1S4.IGOCLI_JACOB_0005",
+            "en": "Just for my sake.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Только ради меня.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто заради себе."
+        },
+        {
+            "tag": "A1S4.IGOCLI_JACOB_0006",
+            "en": "You and I have very different definitions of the word fun.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У нас с тобой очень разные определения слова \"веселье\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас із тобою дуже різні визначення слова «весело»."
+        },
+        {
+            "tag": "A1S4.IGOCLI_JACOB_0007",
+            "en": "No, that’s okay, we should really stick together in case something goes wrong.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, все в порядке, нам действительно стоит держаться вместе на случай, если что-то пойдет не так.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, усе гаразд, нам потрібно триматися одне за одного, якщо щось піде не так."
+        },
+        {
+            "tag": "A1S4.IGOCLI_JACOB_0008",
+            "en": "I’ve used transmitters before, and they can be kind of… finicky.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я уже использовал передатчики, и они могут быть... привередливыми.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше я мав справу з радіопередавачами, і вони можуть бути… вибагливими."
+        },
+        {
+            "tag": "A1S4.IGOCLI_RILEY_0000",
+            "en": "Oh c’mon, Summers, give it a try. It’s a pretty fun challenge.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да ладно, Саммерс, попробуй. Это довольно забавный вызов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай, Саммерс, спробуй. Це досить весело."
+        },
+        {
+            "tag": "A1S4.IGOCLI_RILEY_0001",
+            "en": "Okay, sounds good. See you in a bit!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, звучит неплохо. Увидимся через некоторое время!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд. Побачимося за хвилину!"
+        },
+        {
+            "tag": "A1S4.IGOCLI_RILEY_0002",
+            "en": "I think I can probably just do the whole thing – the transmitter part, too – if you want?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я думаю, что я, наверное, могу просто сделать все это - и передаточную часть тоже - если хочешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здається, що я, напевно, зможу зробити все, що треба…<br>тобто і з радіопередавачем також, якщо хочеш."
+        }
+    ]
+}

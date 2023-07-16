@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2G4",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2G4_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2G4_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? You there?",
+            "ru_native": "Эвелин? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ти мене чуєш?"
+        },
+        {
+            "tag": "EVWT.EVA2G4_RILEY_0000",
+            "en": "Evelyn? Come in, Evelyn. Just… please. Over.",
+            "ru_native": "Эвелин? Эвелин, ответь. Прошу. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Відповідай, Евелін. Прошу… Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2G4_RILEY_0001",
+            "en": "[quietly to herself] God damnit.",
+            "ru_native": "Твою мать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Тихо до себе] Дідько."
+        }
+    ]
+}

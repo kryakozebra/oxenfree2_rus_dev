@@ -1,0 +1,177 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2W2",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2W2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2W2_CHOICE_0000_OPTION_0000",
+            "en": "Experience any time loops?",
+            "ru_native": "Бывала в петле времени?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Була в петлі часу?"
+        },
+        {
+            "tag": "EVWT.EVA2W2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2W2_CHOICE_0001_OPTION_0000",
+            "en": "Yeah, sometimes.",
+            "ru_native": "Да, иногда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іноді так."
+        },
+        {
+            "tag": "EVWT.EVA2W2_CHOICE_0001_OPTION_0001",
+            "en": "Don’t worry about it.",
+            "ru_native": "Не забивай голову.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не переймайся."
+        },
+        {
+            "tag": "EVWT.EVA2W2_EVELYN_0000",
+            "en": "Hey, Riley. Um… no. Not—not really.",
+            "ru_native": "Привет, Райли. Нет... Не думаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Райлі. Ем… ні. Не бувало."
+        },
+        {
+            "tag": "EVWT.EVA2W2_EVELYN_0001",
+            "en": "We’ve been experiencing a lot of technical hiccups… but not a lot of whatever you’re describing.",
+            "ru_native": "У нас тут уйма технических странностей, но к твоему описанию ничего не подходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас тут багато технічних збоїв… але нічого схожого на те, що ти описала."
+        },
+        {
+            "tag": "EVWT.EVA2W2_EVELYN_0002",
+            "en": "I assume you are, though?",
+            "ru_native": "А ты сталкивалась с таким?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А з тобою бувало. Еге ж?"
+        },
+        {
+            "tag": "EVWT.EVA2W2_EVELYN_0003",
+            "en": "Or else… you probably wouldn’t be asking.",
+            "ru_native": "Хотя иначе ты бы не спрашивала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інакше… ти не питала б."
+        },
+        {
+            "tag": "EVWT.EVA2W2_EVELYN_0004",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2W2_EVELYN_0005",
+            "en": "Okay, Riley. Ring me if you need anything.",
+            "ru_native": "Ладно, Райли. Обращайся, если что нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Райлі. Виклич мене, якщо буде щось потрібно."
+        },
+        {
+            "tag": "EVWT.EVA2W2_EVELYN_0006",
+            "en": "Sorry I couldn’t help you with this.",
+            "ru_native": "Прости, что тут не смогла помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, що не змогла тобі допомогти."
+        },
+        {
+            "tag": "EVWT.EVA2W2_EVELYN_0007",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2W2_EVELYN_0008",
+            "en": "[ID-15] [ALIAS] Ah, I might have lost you, but ring me if you need anything else!",
+            "ru_native": "Я тебя потеряла. Обращайся потом, если что будет нужно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, я тебе втратила. Поклич мене, якщо буде потрібно щось іще!"
+        },
+        {
+            "tag": "EVWT.EVA2W2_RILEY_0000",
+            "en": "Hey, uh, Evelyn, have you been experiencing… something like—",
+            "ru_native": "Эвелин, ты когда-нибудь сталкивалась с таким, что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Евелін, з тобою бувало колись таке…"
+        },
+        {
+            "tag": "EVWT.EVA2W2_RILEY_0001",
+            "en": "—it’s like I’m redoing the previous couple of minutes a few times? Like déjà vu but worse? Over.",
+            "ru_native": "Ты будто вновь и вновь переживаешь несколько последних минут?<br>Вроде дежавю, но хуже? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…наче кілька останніх хвилин увесь час повторюються?<br>Ніби дежавю, але гірше? Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2W2_RILEY_0002",
+            "en": "Yeah, sometimes. But… if you don’t have any other information or anything, it’s, uh… you know.",
+            "ru_native": "Да, иногда. Но раз ты про это ничего не знаешь, я как-нибудь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, іноді. Але… якщо в тебе немає жодної інформації тощо, т… ти знаєш."
+        },
+        {
+            "tag": "EVWT.EVA2W2_RILEY_0003",
+            "en": "I’ll just deal with it. Over.",
+            "ru_native": "Сама разберусь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сама розберуся. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2W2_RILEY_0004",
+            "en": "Eh, don’t worry about it. Just… asking to ask. Over.",
+            "ru_native": "Не забивай голову. Я просто так спросила. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не переймайся. Я просто так запитала. Прийом."
+        }
+    ]
+}

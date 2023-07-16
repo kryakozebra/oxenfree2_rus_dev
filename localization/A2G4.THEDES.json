@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G4.THEDES",
+    "entries": [
+        {
+            "tag": "A2G4.THEDES_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.THEDES_CHOICE_0000_OPTION_0000",
+            "en": "Be right there, Jacob.",
+            "ru_native": "Я скоро, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вже скоро, Джейкобе."
+        },
+        {
+            "tag": "A2G4.THEDES_CHOICE_0000_OPTION_0001",
+            "en": "How tall is this place?",
+            "ru_native": "Сколько тут метров?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скільки тут метрів?"
+        },
+        {
+            "tag": "A2G4.THEDES_RILEY_0000",
+            "en": "I’m almost there, Jacob. Just… just hold on.",
+            "ru_native": "Я почти на месте, Джейкоб. Просто... держись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вже близько, Джейкобе. Просто… тримайся."
+        },
+        {
+            "tag": "A2G4.THEDES_RILEY_0001",
+            "en": "Jesus, how tall is this place?",
+            "ru_native": "Господи, сколько тут метров?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, скільки ж тут метрів?"
+        }
+    ]
+}

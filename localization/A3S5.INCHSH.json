@@ -1,0 +1,24 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.INCHSH",
+    "entries": [
+        {
+            "tag": "A3S5.INCHSH_RILEY_0000",
+            "en": "[to herself] There’s a note here about -- whatever a Mukden cable is…",
+            "ru_native": "Тут записка о... каком-то кабеле Мукдена...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Тут є примітка про… якийсь кабель Мукден…"
+        },
+        {
+            "tag": "A3S5.INCHSH_RILEY_0001",
+            "en": "[to herself] I don’t know what any of this equipment is -- it’s all so out of date.",
+            "ru_native": "Не узнаю ни один из этих приборов... Все такое устаревшее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Я не знаю, що це за обладнання… воно все дуже застаріле."
+        }
+    ]
+}

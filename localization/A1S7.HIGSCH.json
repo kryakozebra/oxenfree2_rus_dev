@@ -1,0 +1,618 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S7.HIGSCH",
+    "entries": [
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0000_OPTION_0000",
+            "en": "I remember your face…",
+            "ru_native": "Твое лицо мне знакомо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоє обличчя мені знайоме…"
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0000_OPTION_0001",
+            "en": "Oh yeah! Jacob!",
+            "ru_native": "Да-да! Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так! Джейкоб!"
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0000_OPTION_0002",
+            "en": "So what?",
+            "ru_native": "Ну и что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та й що?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0001_OPTION_0000",
+            "en": "Okay.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0001_OPTION_0001",
+            "en": "Good to see you.",
+            "ru_native": "Рада тебя видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рада тебе бачити."
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0002_OPTION_0000",
+            "en": "Thanks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Спасибо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0002_OPTION_0001",
+            "en": "I’m nervous about this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я нервничаю по этому поводу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я нервую з цього приводу."
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0002_OPTION_0002",
+            "en": "Ready?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Готов?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Готовий?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0003_OPTION_0000",
+            "en": "No, this just sucks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, это просто отстой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це просто відстій."
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0003_OPTION_0001",
+            "en": "I’d like to believe that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне бы хотелось в это верить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хотілося б у це вірити."
+        },
+        {
+            "tag": "A1S7.HIGSCH_CHOICE_0003_OPTION_0002",
+            "en": "We’ll figure it out. ",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы разберемся с этим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми все розрулимо. "
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0000",
+            "en": "Hey, when I heard your name—Riley—I… well—do you remember Junior year?",
+            "ru_native": "Знаешь, когда я услышал твое имя – Райли – я... Помнишь одиннадцатый класс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, коли я почув твоє ім’я — Райлі, я… Пам’ятаєш одинадцятий клас?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0001",
+            "en": "You’re… Riley, right? Riley Poverly? Do you remember Junior Year? Camena South?",
+            "ru_native": "Ты... Райли, верно? Райли Поверли? Помнишь выпускной класс? Южная Камена?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ж… Райлі, так? Райлі Поверлі? Пам’ятаєш одинадцятий клас? Південна Камена?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0002",
+            "en": "Mrs. Ellsmore’s English class? And, uh. P.E. fifth period?",
+            "ru_native": "Английский у миссис Эллсмор? И физкультура, пятый урок?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Англійська в місіс Елсмор? І, ем, фізкультура на п’ятому уроці?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0003",
+            "en": "We went to high school together. I dated your friend… uh, Patty. Peanut Butter Patty.",
+            "ru_native": "Мы вместе учились в школе. Я встречался с твоей подругой... По прозвищу «Пышка».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми разом навчалися в школі. Я зустрічався з твоєю подругою… Патті. Патті-Пампушка."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0004",
+            "en": "But—sorry, I was just saying that we actually went to high school together.",
+            "ru_native": "Прости, я просто хотел сказать, что мы вместе учились в старшей школе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я просто хотів сказати, що ми разом навчалися в школі."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0005",
+            "en": "Cause of the, uh, she always had it for lunch—",
+            "ru_native": "Потому что она постоянно их жевала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що вона постійно їх їла на обід…"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0006",
+            "en": "Is this, uh, ringing any bells, by chance?",
+            "ru_native": "Ну что, никаких ассоциаций?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що, жодного спогаду?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0007",
+            "en": "We hung out once or twice.",
+            "ru_native": "Мы тусили пару раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тусили декілька разів разом."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0008",
+            "en": "Maybe a couple times at the park.",
+            "ru_native": "Может, в парк ходили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу, у парк ходили."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0009",
+            "en": "I dated a friend of yours?",
+            "ru_native": "Я встречался с твоей подругой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зустрічався з твоєю подругою."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0010",
+            "en": "Remember? Maybe?",
+            "ru_native": "Не помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не пам’ятаєш?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0011",
+            "en": "Yeah, much thicker. Grew it out so I wouldn’t get carded buying cigarettes.",
+            "ru_native": "Ага, я отрастил бороду, чтобы проще было покупать сигареты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, більша ніж зараз. Я відростив бороду, щоби легше було купувати сигарети."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0012",
+            "en": "Yeah, yes. Jacob Summers. That’s me.",
+            "ru_native": "Точно. Джейкоб Саммерс. Это я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж, так. Джейкоб Саммерс. Це я."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0013",
+            "en": "[chuckling] \"Prison\"—yeah…",
+            "ru_native": "«Тюрьму», точно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[усміхається] «В’язниці», точно…"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0014",
+            "en": "We ran in different circles, but…",
+            "ru_native": "Мы вращались в разных кругах, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тусувалися в різних компаніях, але…"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0015",
+            "en": "Uh, I just wanted you to know that I knew we knew each other…",
+            "ru_native": "Я просто хотел сказать, что я знал, что мы знакомы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хотів сказати, що я знав, що ми знайомі…"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0016",
+            "en": "That’s all.",
+            "ru_native": "Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От і все."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0017",
+            "en": "No biggie.",
+            "ru_native": "Ничего больше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого більше."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0018",
+            "en": "[clears throat]",
+            "ru_native": "Экх-кх-кхм!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Прочищає горло]"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0019",
+            "en": "Yeah. You too.",
+            "ru_native": "Ага. Взаимно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж. Взаємно."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0020",
+            "en": "Yeah yeah, sure—",
+            "ru_native": "Да-да, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… звичайно."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0021",
+            "en": "[clears throat]",
+            "ru_native": "Экх-кх-кхм!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Прочищає горло]"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0022",
+            "en": "Here. Another walkie for you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вот. Еще одна рация для тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось. Ще одна рація."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0023",
+            "en": "Here. The walkie I had near the transmitter died, so… I assume yours did, too.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вот. Рация, которая была у меня рядом с передатчиком, умерла, так что... полагаю, что и твоя тоже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось. Рація, яка була в мене біля радіопередавача,<br>не працює, тож… я припускаю, що і твоя теж."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0024",
+            "en": "Man.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Человек.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0025",
+            "en": "What a night.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что за ночь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оце так вечір."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0026",
+            "en": "Look… I know this really sucks, what we’re about to do, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Слушай... Я знаю, что это очень хреново, то, что мы собираемся сделать, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай… Я знаю, що це справді погано, те, що ми збираємося зробити, але…"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0027",
+            "en": "I don’t know what’s going on. But… it seems extremely… bad, is all I can muster right now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не знаю, что происходит. Но... это выглядит крайне... плохо, - это все, что я могу сейчас сказать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, що відбувається. Але… це здається надзвичайно…<br>поганим, це все, що я можу сказати зараз."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0028",
+            "en": "And we’re the only ones out here that knows anything about it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И мы здесь единственные, кто хоть что-то об этом знает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ми єдині тут, хто щось про це знає."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0029",
+            "en": "So… I feel like sometimes people are put in positions where they can… most matter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так что... Мне кажется, что иногда людей ставят в такие положения, когда они могут... иметь наибольшее значение.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… Мені здається, що іноді людей ставлять у положення,<br>коли вони можуть… зробити щось значне."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0030",
+            "en": "And this feels like it matters.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И это ощущение имеет значение.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І здається, що це щось значне."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0031",
+            "en": "Right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Правильно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0032",
+            "en": "So… if it’s up to us to do this, then…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так что... если это зависит от нас, то...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… якщо це залежить від нас, то…"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0033",
+            "en": "Let’s, uh, let’s get to doing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай, что ли, займемся делом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давайте, е-е, почнемо роботу."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0034",
+            "en": "Well… you should! If only for the next hour or so. It helps, trust me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну... ты должен! Хотя бы на ближайший час или около того. Это помогает, поверь мне.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… ти повинна! Хоча б протягом наступної години або типу того.<br>Це допомагає, повір мені."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0035",
+            "en": "Yeah, I, uh, I believe you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, я, эм, я тебе верю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм, я тобі вірю."
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0036",
+            "en": "Hey, uh, this is a really stupid time to bring this up, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, сейчас очень глупо поднимать эту тему, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, зараз дуже незручний час для цього, але…"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0037",
+            "en": "I feel like if I don’t bring it up, it’s going to get weirder and weirder when I do… or you do…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне кажется, что если я не буду поднимать эту тему, то она будет становиться все более и более странной, когда я это сделаю... или ты сделаешь...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вважаю, що якщо зараз не поговорити про це,<br>далі буде ставати все незручніше й незручніше…"
+        },
+        {
+            "tag": "A1S7.HIGSCH_JACOB_0038",
+            "en": "But – when I heard your name — Riley — I… well — do you remember Junior year?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но - когда я услышал твое имя - Райли - я... ну - ты помнишь младший курс?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але знаєш, коли я почув твоє ім’я — Райлі, я… Пам’ятаєш одинадцятий клас?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0000",
+            "en": "Um… I kind of… remember your… face—did you—you had a… a beard, right?",
+            "ru_native": "Хм... по-моему... припоминаю... ты носил бороду, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… здається… пригадую… у тебе була борода, ні?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0001",
+            "en": "Oh yeah. Jacob. Jacob… Summers? Right?",
+            "ru_native": "Ну конечно. Джейкоб. Джейкоб... Саммерс? Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну звичайно. Джейкоб. Джейкоб… Саммерс? Так?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0002",
+            "en": "Uh, okay. We went to the same prison. So what.",
+            "ru_native": "Хм, понятно. Мы ходили в одну тюрьму. И что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, зрозуміло. Ми ходили до однієї в’язниці. І що?"
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0003",
+            "en": "Okay. We knew each other.",
+            "ru_native": "Хорошо. Мы были знакомы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Ми були знайомі."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0004",
+            "en": "Yeah, yeah, no—of course, g-good to see you.",
+            "ru_native": "Нет, конечно, я рада тебя видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж, добре, звичайно, я рада тебе бачити."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0005",
+            "en": "Well now that we have that sorted, back to what’s happening right now—",
+            "ru_native": "Ладно, с этим разобрались, перейдем к насущным вопросам...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щож, із цим розібралися, перейдемо до нагальних питань."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0006",
+            "en": "Uh… thanks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э-э... спасибо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… дякую."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0007",
+            "en": "I have to say, Jacob, I don’t have a good feeling about this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Должен сказать, Джейкоб, что у меня не очень хорошие предчувствия по этому поводу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маю сказати, Джейкобе, у мене недобрі передчуття щодо цього."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0008",
+            "en": "Okay. Ready? Cause… I’m not sure I am.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Готов? А то... я не уверен, что готов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Готовий? Бо… Не впевнена, що я готова."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0009",
+            "en": "No, Jacob. You should have stopped at, “I know this really sucks.”",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, Джейкоб. Ты должен был остановиться на фразе: \"Я знаю, что это действительно отстой\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Джейкобе. Ти повинен був зупинитися на: «Я знаю, що це справді погано»."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0010",
+            "en": "There is no greater plan for us.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Для нас нет более великого плана.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кращого плану немає."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0011",
+            "en": "There’s just atoms bouncing off other atoms until the universe dies.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Есть просто атомы, отскакивающие от других атомов, пока Вселенная не погибнет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є просто атоми, які відскакують від інших атомів, доки всесвіт не згине."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0012",
+            "en": "But, you know, whatever… sometimes those atoms have jobs they need to finish.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, знаешь, неважно... Иногда у этих атомов есть работа, которую им нужно закончить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, знаєш, як би там не було…<br>іноді ці атоми мають завдання, яке вони повинні виконати."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0013",
+            "en": "Man, Jacob… I’d really love to believe that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Блин, Джейкоб... Я бы очень хотел в это поверить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт, Джейкобе… Я б дуже хотіла в це вірити."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0014",
+            "en": "Well… maybe that’s true, maybe it’s not, but… I know we can figure it out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну... может, это правда, а может, и нет, но... я знаю, что мы сможем это выяснить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… можливо, це правда, можливо, ні, але… я знаю, що ми зможемо розібратися з цим."
+        },
+        {
+            "tag": "A1S7.HIGSCH_RILEY_0015",
+            "en": "I mean, you I don’t know, but I know<i> I </i>can figure it out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL То есть, тебя я не знаю, но знаю, что<i>я </i>могу разобраться в этом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто, за тебе я не знаю, але знаю,<i> що я </i>зможу з цим розібратися."
+        }
+    ]
+}

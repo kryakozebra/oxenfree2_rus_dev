@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.PARBAN",
+    "entries": [
+        {
+            "tag": "A2V3.PARBAN_CHARLIE_0000",
+            "en": "<i>Ah!</i>",
+            "ru_native": "А!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А!"
+        },
+        {
+            "tag": "A2V3.PARBAN_JACOB_0000",
+            "en": "<i>agh</i>",
+            "ru_native": "[ID-0]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[гр-р-р]"
+        },
+        {
+            "tag": "A2V3.PARBAN_JACOB_0001",
+            "en": "Get the thing, Riley!",
+            "ru_native": "Хватай эту штуку, Райли!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хапай його, Райлі!"
+        },
+        {
+            "tag": "A2V3.PARBAN_OLIVIA_0000",
+            "en": "Crap!",
+            "ru_native": "Дерьмо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько!"
+        },
+        {
+            "tag": "A2V3.PARBAN_OLIVIA_0001",
+            "en": "[rage yelling]",
+            "ru_native": "[ID-4]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[розгнівано кричить]"
+        },
+        {
+            "tag": "A2V3.PARBAN_VIOLET_0000",
+            "en": "<i>Whoa!</i>",
+            "ru_native": "Ого!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого!"
+        }
+    ]
+}

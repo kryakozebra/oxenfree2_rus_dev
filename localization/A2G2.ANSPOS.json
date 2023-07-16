@@ -1,0 +1,906 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.ANSPOS",
+    "entries": [
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0000_OPTION_0000",
+            "en": "Uh, human here.",
+            "ru_native": "О, человек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, тут людина."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0000_OPTION_0001",
+            "en": "No, I’m a turtle.",
+            "ru_native": "Нет, я черепаха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я черепаха."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0000_OPTION_0002",
+            "en": "Is this your stuff?",
+            "ru_native": "Это твое добро?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це твої речі?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0001_OPTION_0000",
+            "en": "I don’t think so.",
+            "ru_native": "Не думаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що ні."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0001_OPTION_0001",
+            "en": "Who is this?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0001_OPTION_0002",
+            "en": "What’s this stuff for?",
+            "ru_native": "Для чего это нужно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для чого ці речі?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0002_OPTION_0000",
+            "en": "That’s rude.",
+            "ru_native": "Это грубо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це грубо."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0002_OPTION_0001",
+            "en": "Are you a creep?",
+            "ru_native": "Ты ненормальный?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти псих?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0002_OPTION_0002",
+            "en": "Lucky you.",
+            "ru_native": "Повезло тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пощастило тобі."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0003_OPTION_0000",
+            "en": "You ever catch anything?",
+            "ru_native": "Поймал что-нибудь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піймав що-небудь?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0003_OPTION_0001",
+            "en": "Garland’s definitely haunted.",
+            "ru_native": "В Гарленде точно живут призраки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У Гарленді точно живуть привиди."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0003_OPTION_0002",
+            "en": "So you’re unemployed.",
+            "ru_native": "Значит, ты безработный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, ти безробітний."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0004_OPTION_0000",
+            "en": "We noticed.",
+            "ru_native": "Мы заметили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми помітили."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0004_OPTION_0001",
+            "en": "You don’t say.",
+            "ru_native": "Не говори так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ти що."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0004_OPTION_0002",
+            "en": "What do you want?",
+            "ru_native": "Чего ты хочешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого тобі треба?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0006_OPTION_0001",
+            "en": "Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0006_OPTION_0002",
+            "en": "What’s in it for me?",
+            "ru_native": "А мне это зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А мені що з того?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0006_OPTION_0003",
+            "en": "We’re busy.",
+            "ru_native": "У нас дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зайняті."
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0007_OPTION_0001",
+            "en": "Could this help us?",
+            "ru_native": "Это могло бы нам помочь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це може нам допомогти?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_CHOICE_0007_OPTION_0002",
+            "en": "Yeah, okay.",
+            "ru_native": "Ну ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0000",
+            "en": "Yeah of course you are.",
+            "ru_native": "Ну конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0001",
+            "en": "At least tell me you didn’t break my equipment.",
+            "ru_native": "Надеюсь, вы не сломали мое оборудование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ви не поламали моє обладнання."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0002",
+            "en": "One of ‘em is outright not responding. I’m assuming the worst.",
+            "ru_native": "Один из них никак не хочет отвечать. Предполагаю худшее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Один із них ніяк не хоче відповідати. Я припускаю найгірше."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0003",
+            "en": "Did you break my equipment.",
+            "ru_native": "Вы сломали мое оборудование?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви поламали моє обладнання?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0004",
+            "en": "Yeah it’s my “stuff.”",
+            "ru_native": "Да, это мое «добро».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мої «речі»."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0005",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0006",
+            "en": "Okay. Okay, phew.",
+            "ru_native": "Фух, хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, добре."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0007",
+            "en": "Name’s Hank Chapman, and I just took your picture.",
+            "ru_native": "Я Хэнк Чапман, и я только что тебя сфотографировал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене звуть Хенк Чапман, я щойно зробив твоє фото."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0008",
+            "en": "Assuming you were facing the camera.",
+            "ru_native": "Надеюсь, ты смотрела в камеру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ти дивилася в камеру."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0009",
+            "en": "Otherwise, it’ll be the wall.",
+            "ru_native": "Иначе получится фото стены.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інакше буде знімок стіни."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0010",
+            "en": "Well I’m not looking to get pictures of most folks.",
+            "ru_native": "Ну, я не фотографирую обычных людей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не фотографую звичайних людей."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0011",
+            "en": "The picture’s there, keep it if you want.",
+            "ru_native": "Фото готово, можешь забрать себе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фото готове, можеш забрати собі, якщо хочеш."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0012",
+            "en": "Not a creep, just curious.",
+            "ru_native": "Не псих, просто любопытный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не псих, просто цікавий."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0013",
+            "en": "That flash wasn’t meant for you.",
+            "ru_native": "Эта вспышка была не тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Той спалах був не для тебе."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0014",
+            "en": "Look, don’t worry, odds are I’ll be destroying that picture.",
+            "ru_native": "Слушай, не переживай, скорее всего, я уничтожу это фото.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, не переймайся. Може, я знищу те фото."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0015",
+            "en": "Listen, I’m an amateur, hobbyist investigator of the inexplicable.",
+            "ru_native": "Слушай, это мое хобби – исследовать необъяснимое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай. Я аматор, моє захоплення — досліджувати неосяжне."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0016",
+            "en": "The non-responder is near the old schoolhouse. Say a few words in its honor if you happen upon it I suppose…",
+            "ru_native": "Тот, что не отвечает, находится у старой школы.<br>Помяните его добрым словом, если найдете...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Той, хто не відповідає, перебуває біля будівлі старої школи.<br>Пом’яніть його добрим словом, якщо зустрінете…"
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0017",
+            "en": "As for those still functioning, just tinker with the dials and make sure they’re working proper.",
+            "ru_native": "У тех, что еще работают, просто покрутите ручки и проверьте, все ли в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тих, які ще працюють, покрутіть ручки й переконайтеся, що вони працюють належно."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0018",
+            "en": "Now, there’s a generator in the post office with you that powers the boosters.",
+            "ru_native": "Теперь у вас на почте есть генератор, который питает ускорители.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У поштовому відділенні є генератор, який живить підсилювачі."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0019",
+            "en": "There’s one right off what used to be Main Street, one near the mine entrance...",
+            "ru_native": "Один сразу за бывшей главной улицей, один у входа в шахту...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є один поруч із тим, що раніше було Мейн-стріт, поруч зі входом у шахту…"
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0028",
+            "en": "…and I don’t know if you’ve noticed, but tonight has been… the professionals would likely call it unusual.",
+            "ru_native": "...не знаю, заметила ты или нет, но этой ночью<br>случилось… то, что профессионалы назвали бы «необычным».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Не знаю, чи ти помітила, але сьогодні… професіонали назвали б таке незвичайним."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0029",
+            "en": "Very unusual.",
+            "ru_native": "Крайне необычным.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже незвичайним."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0030",
+            "en": "I dare say.",
+            "ru_native": "Я бы сказал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я би сказав."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0031",
+            "en": "They say sarcasm is the lowest form of wit, but the highest form of intelligence.",
+            "ru_native": "Говорят, сарказм – это низшая форма остроумия, но высшая форма интеллекта.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажуть, сарказм найнижча форма дотепності, але найвища форма інтелекту."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0032",
+            "en": "But I say you’re just being a prick.",
+            "ru_native": "А я скажу, что ты просто придуриваешься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я скажу, що ти поводишся як придурок."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0033",
+            "en": "And so I’m explaining to you…",
+            "ru_native": "Итак, объясняю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже я пояснюю тобі…"
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0034",
+            "en": "Unusual nights yield unusual rewards.",
+            "ru_native": "Необычные ночи сулят необычные награды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Незвичайні ночі обіцяють незвичайні винагороди."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0035",
+            "en": "Around town I’ve set up a series of EMF boosters, equipment I use to capture—let’s call it evidence of the unusual.",
+            "ru_native": "Я расставил по всему городу усилители ЭМП, чтобы<br>поймать, скажем так, доказательства необычного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розставив по всьому місту підсилювачі електромагнітних полів — обладнання,<br>за допомогою якого я вловлюю… скажімо так… свідчення незвичайного."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0036",
+            "en": "Something’s been screwing with them so I need them checked.",
+            "ru_native": "С ними что-то не так, надо бы проверить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З ним щось не так, я маю перевірити його."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0037",
+            "en": "Can you help me out?",
+            "ru_native": "Можешь помочь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш допомогти?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0051",
+            "en": " It’s a good deed for messing up the picture—think of it as karma.",
+            "ru_native": "Хороший поступок в обмен на испорченное фото – считай это кармой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарний вчинок взамін поганого фото — вважай це кармою."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0053",
+            "en": "So am I! And you owe for the ruined picture, okay?",
+            "ru_native": "И у меня! А еще ты мне должна за испорченное фото!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене теж! І ще ти винна мені зіпсоване фото, ясно?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0054",
+            "en": "Crack away.",
+            "ru_native": "Дерзай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуй."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0055",
+            "en": "[WT] Now, there’s a booster there in the post office with you, another right off what used to be Main Street, one near the mine entrance...",
+            "ru_native": "Итак, один усилитель – в почтовом отделении, другой – на бывшей главной улице, третий – у входа в шахту...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0056",
+            "en": "And one in the graveyard. Cliche, but I couldn’t resist.",
+            "ru_native": "И четвертый на кладбище. Клише, но я не мог удержаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Й один на кладовищі. Банально, але я не втримався."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0057",
+            "en": "Just tinker with the dials and make sure they’re working.",
+            "ru_native": "Просто покрутите ручки и проверьте, что они работают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто покрутіть ручки й перевірте, чи вони працюють."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0061",
+            "en": "[WT] Look, I know, it’s not an exact science, in fact it’s quite inexact. But in a perfect world...",
+            "ru_native": "Слушайте, знаю, это не точная наука. Скорее, совсем не точная. Но в идеальном мире...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0062",
+            "en": "Think of the EMF boosters like a safe. You put in the right code...you get to see what’s inside.",
+            "ru_native": "Считайте, что усилитель ЭМП – это как сейф.<br>Если ввести верный код... увидишь, что внутри.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вважайте, що підсилювач ЕМП ніби сейф. Набираєш правильний код —<br>і бачиш, що всередині."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0063",
+            "en": "[WT] Hopefully it's the next major advancement in humankind’s consciousness.",
+            "ru_native": "Надеюсь, это следующий крупный прорыв в эволюции человечества.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0064",
+            "en": "[WT] But only one way to find out…",
+            "ru_native": "Но единственный способ проверить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0065",
+            "en": "If you spot anything, maybe snap a picture? If you can? I’ll make it worth your while...",
+            "ru_native": "Если заметите что-то, можете сфотографировать? Если получится. Я отблагодарю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо побачите щось, можете сфотографувати? Будь ласка. Я віддячу."
+        },
+        {
+            "tag": "A2G2.ANSPOS_HANK_0066",
+            "en": "Call if you have any trouble. See you in the obits. Over and out.",
+            "ru_native": "Будут проблемы, зовите. До встречи в некрологах. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будуть проблеми — гукайте. До зустрічі в некрологах. Кінець зв’язку."
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0000",
+            "en": "Uh, yeah, we’re human, dude!",
+            "ru_native": "Да, мы люди, чувак!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ми люди, друже!"
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0001",
+            "en": "Uh, your \"equipment\" is still all in one piece, buddy. Over.",
+            "ru_native": "Твое «оборудование» в целости и сохранности. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоє «обладнання» ціле-цілісіньке, друже. Прийом."
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0002",
+            "en": "And then some.",
+            "ru_native": "И еще кое-что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ще дещо."
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0004",
+            "en": "Uh, sure? Right? Why not?",
+            "ru_native": "Точно? Почему нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно? Правильно? Чому б і ні?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0005",
+            "en": "Always wanted to take a crack at one of those.",
+            "ru_native": "Всегда хотел попробовать себя в чем-то таком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завжди хотів спробувати себе в чомусь такому."
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0006",
+            "en": "I think he’s talking about… this thing?",
+            "ru_native": "Кажется, он говорит про... эту штуку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, він говорить про… ту штуку."
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0007",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0008",
+            "en": "It says EMF on the side, here.",
+            "ru_native": "Тут сбоку написано «ЭМП».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ту збоку написано ЕМП."
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0011",
+            "en": "Maybe, actually. This stuff is really just pretty advanced radio frequency tools.",
+            "ru_native": "Возможно. По факту это просто довольно продвинутое радиочастотное оборудование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо. Насправді це просто новітні радіочастотні прилади."
+        },
+        {
+            "tag": "A2G2.ANSPOS_JACOB_0012",
+            "en": "But don’t carve that in stone.",
+            "ru_native": "Но это не точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але не викарбовуй це в камені."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0000",
+            "en": "Uh, hi, y-yes, I’m-I'm… a human.",
+            "ru_native": "Ох, привет, да, я... человек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. Т-так, я… людина."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0001",
+            "en": "No, pal, I’m a turtle, sorry to disappoint you.",
+            "ru_native": "Нет, приятель, я черепаха. Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, друже, я черепаха. Вибач, що розчарувала."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0002",
+            "en": "Is this your stuff in here? Who is this?",
+            "ru_native": "Это твое добро? Кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це твої речі тут? Хто це?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0003",
+            "en": "I, uh, don’t think we broke anything.",
+            "ru_native": "Хм, не думаю, что мы что-то сломали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, нічого ми не ламали."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0004",
+            "en": "Just… wait. Slow down. First, who is this? Over.",
+            "ru_native": "Погоди-ка. Во-первых, кто ты. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай. Не так швидко. По-перше, хто це? Прийом."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0005",
+            "en": "Uh, no, wait, w-what’s all this stuff for, exactly? Over.",
+            "ru_native": "Эй, постой, а для чего все это? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, стривай. Для чого всі ці речі? Прийом."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0006",
+            "en": "Uh, kinda rude, right?",
+            "ru_native": "Грубовато, нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Грубовато, правда?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0007",
+            "en": "Most folks prefer some degree of permission. Over.",
+            "ru_native": "На такое обычно люди разрешение спрашивают. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зазвичай для цього просять дозвіл. Прийом."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0008",
+            "en": "Jesus, you’re not a creep are you?",
+            "ru_native": "Боже, ты же не псих?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, ти ж не псих?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0009",
+            "en": "Tell me this isn’t a creep thing. Over.",
+            "ru_native": "Скажи мне, что ты не псих. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажи мені, що ти не псих. Прийом."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0010",
+            "en": "Well aren’t you the lucky one. I usually charge for headshots. Over.",
+            "ru_native": "Считай, тебе повезло. Я обычно за такое деньги беру. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вважай, що тобі пощастило. Зазвичай я за таке беру плату. Прийом."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0014",
+            "en": "Uh—yeah, we’ve noticed.",
+            "ru_native": "О да, мы заметили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О так, ми помітили."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0015",
+            "en": "No kidding. Hadn’t noticed.",
+            "ru_native": "Без шуток. Не заметила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Без жартів. Не помітила."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0016",
+            "en": "“And so I’m asking you to…”",
+            "ru_native": "«Итак, я прошу...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Отже, я прошу…»"
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0018",
+            "en": "Sure, you got it.",
+            "ru_native": "Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0019",
+            "en": "This sounds like it would really help you.",
+            "ru_native": "Похоже, это тебе и правда поможет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, це і справді допоможе тобі."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0020",
+            "en": "But I don’t know how it would really help me.",
+            "ru_native": "Но я не понимаю, как это поможет мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я не знаю, як це мені допоможе."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0021",
+            "en": "Yeah, uh, we’re sort of busy with other things, buddy.",
+            "ru_native": "Слушай, друг, у нас и так куча дел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, друже, у нас тут купа справ."
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0023",
+            "en": "You think this could help us?",
+            "ru_native": "Думаешь, это нам поможет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, це нам допоможе?"
+        },
+        {
+            "tag": "A2G2.ANSPOS_RILEY_0024",
+            "en": "[sigh] Okay. Let’s check it out.",
+            "ru_native": "Ладно. Посмотрим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Перевірмо."
+        }
+    ]
+}

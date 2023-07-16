@@ -1,0 +1,447 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.CONVO1",
+    "entries": [
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0000_OPTION_0000",
+            "en": "Noted.",
+            "ru_native": "Запомню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийнято до уваги."
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0000_OPTION_0001",
+            "en": "I won’t be coming back.",
+            "ru_native": "Я не вернусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не повернуся."
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0001_OPTION_0000",
+            "en": "Sounds tasty.",
+            "ru_native": "Звучит вкусно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається смачним."
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0001_OPTION_0001",
+            "en": "I did know that.",
+            "ru_native": "Знала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені про це невідомо."
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0001_OPTION_0002",
+            "en": "How blue?",
+            "ru_native": "Насколько синий?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Який саме блакитний?"
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0002_OPTION_0000",
+            "en": "They should be jealous of us.",
+            "ru_native": "Это они должны завидовать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це їм слід ревнувати до нас."
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0002_OPTION_0001",
+            "en": "Let’s go to Mars.",
+            "ru_native": "Полетели на Марс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирушаймо на Марс."
+        },
+        {
+            "tag": "GLOB.CONVO1_CHOICE_0002_OPTION_0002",
+            "en": "How about sunsets on Uranus?",
+            "ru_native": "А на Уране закаты радужные?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як щодо заходів сонця на Урані?"
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0000",
+            "en": "When we’re done with all of this—you should come back here.",
+            "ru_native": "Когда все закончится, ты обязана сюда вернуться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли покінчимо із цим усім, тобі слід повернутися сюди."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0001",
+            "en": "Like—this area. Best sunset view in town.",
+            "ru_native": "Здесь лучший вид на закат в городе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наприклад, це місце. Найкращий вид на захід сонця в місті."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0002",
+            "en": "Five crisp dollar bills in your pocket you find a better one.",
+            "ru_native": "Если найдешь лучше, дам пять баксов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "П’ять хрустких доларових купюр у твоїй кишені, якщо знайдеш краще."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0003",
+            "en": "But you won’t.",
+            "ru_native": "Ты, конечно, не найдешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ти не знайдеш."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0004",
+            "en": "But still.",
+            "ru_native": "Но сделка в силе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але все ж."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0005",
+            "en": "Five hundred pennies, you have my word.",
+            "ru_native": "Пять сотен пенни, слово джентльмена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "П’ять сотень пенні, присягаюся."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0006",
+            "en": "Fair enough, slash, your loss.",
+            "ru_native": "Многое теряешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справедливо, змінимо тему, твій програш."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0007",
+            "en": "Sunsets on Mars are blue.",
+            "ru_native": "Закаты на Марсе синие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заходи сонця на Марсі блакитні."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0008",
+            "en": "Did you know that? Something about the uh—the dust in the atmosphere.",
+            "ru_native": "Ты знала? Как-то связано с частицами в атмосфере.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі це відомо? Це від пилу в атмосфері."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0009",
+            "en": "Blue Martian sunset.",
+            "ru_native": "Синий марсианский рассвет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Блакитний захід сонця на Марсі."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0010",
+            "en": "Saw it on a nature show.",
+            "ru_native": "В передаче про природу увидел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Показували в передачі про природу."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0011",
+            "en": "Because—ya know—technically outer space is part of nature.",
+            "ru_native": "Потому что технически космос – часть природы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оскільки технічно космічний простір є частиною природи."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0012",
+            "en": "Ha—yeah, it does have a wacky flavor of ice cream flair to it, huh?",
+            "ru_native": "Да, реально. Есть какой-то чудной привкус мороженого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, є дивний присмак морозива, еге ж?"
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0013",
+            "en": "Right, of course, how could I forget?",
+            "ru_native": "Ах да, как же я мог забыть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж, як я могла забути?"
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0014",
+            "en": "Eh—more of a darky cobalty blue i—you know what that is?",
+            "ru_native": "Скорее как кобальтовый синий... Видела когда-нибудь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більше схоже на кобальтовий синій. Розумієш?"
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0015",
+            "en": "Like uh—uh—a faded metallic blue.",
+            "ru_native": "Такой выцветший синий металлик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вицвілий синій металік."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0016",
+            "en": "I’m kinda jealous, ya know?",
+            "ru_native": "Знаешь, я немного завидую.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш, є трохи ревнощів."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0017",
+            "en": "I mean, I'm totally down with uh—Earthlian sunsets. No complaints.",
+            "ru_native": "Конечно, я полностью доволен земными закатами. Жалоб не имею.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто із заходами сонця на Землі покінчено. Без скарг."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0018",
+            "en": "But I dunno. Makes you wonder what else is out there…",
+            "ru_native": "Но как-то... Заставляет задуматься, что еще там есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я не знаю. Замислюєшся про те, що існує за обрієм."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0019",
+            "en": "…and how much of it we’ll never get to see.",
+            "ru_native": "И как много мы никогда не увидим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І скільки з того ми ніколи не побачимо."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0020",
+            "en": "Maybe that’s just me.",
+            "ru_native": "Наверно, один я такой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, то просто мені здається."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0021",
+            "en": "But maybe it ain’t.",
+            "ru_native": "А может и нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А може й ні."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0022",
+            "en": "Yeah, we do good work, it’s true. Great work even.",
+            "ru_native": "Мы и впрямь молодцы, это да. Большие молодцы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ми робимо гарну роботу. Навіть, величну."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0023",
+            "en": "But who knows. Maybe it’s better to be blue…",
+            "ru_native": "Но кто знает, может, синий и лучше...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але хто знає. Може, хай краще блакитний…"
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0024",
+            "en": "Ha! You can pick the tunes.",
+            "ru_native": "Ты можешь подобрать музыку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха! Можеш обирати мелодію."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0025",
+            "en": "The second the “s” in Mars slipped my lips I freakin’ knew that joke or something in that joke’s orbit was coming.",
+            "ru_native": "А я вот знал, что будут всякие цветовые шуточки на грани.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щойно я вимовив слово «Марс», зрозумів, що буде жарт або щось схоже на нього."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0026",
+            "en": "And to that I say: bravo, maestro.",
+            "ru_native": "И на это я отвечу: браво, маэстро.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На це я відповім: «Браво, маестро»."
+        },
+        {
+            "tag": "GLOB.CONVO1_JACOB_0027",
+            "en": "Or… maybe it is. So be it.",
+            "ru_native": "Или... да. Что ж.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи… може, так і є. Так тому й бути."
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0000",
+            "en": "So noted. And I intend to collect, Summers, if it ain’t up to snuff.",
+            "ru_native": "Запомню. И приду за деньгами, Саммерс, если ты обманул.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийнято до уваги. І я прийду за ними, Саммерс, якщо побачу місце краще."
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0001",
+            "en": "Yeah, that probably won’t be happening. I won’t politely lie otherwise.",
+            "ru_native": "Это вряд ли случится. Врать из вежливости я не буду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мабуть, цього не буде. Я не брехатиму з ввічливості."
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0002",
+            "en": "That sounds delicious.",
+            "ru_native": "Звучит вкусно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить привабливо."
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0003",
+            "en": "I totally knew that. It’s my home planet after all.",
+            "ru_native": "Разумеется знала. Я же оттуда прилетела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я так і знав. Це ж усе-таки моя рідна планета."
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0004",
+            "en": "Like—sky blue? Or—uh—blue M&M blue?",
+            "ru_native": "Синий как небо? Или как синий M&Mс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Блакитний, як небо? Чи як драже M&M?"
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0005",
+            "en": "Don’t be jealous, our sunsets kick the crap outta theirs.",
+            "ru_native": "Не завидуй, наши закаты надерут зад любым другим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не ревнуй: наші заходи сонця дадуть фору їхнім."
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0006",
+            "en": "Blue schmue. We’re the belle of the celestial ball.",
+            "ru_native": "Синий, пфф. Мы – главная красотка на балу вселенной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Блакитний відтінок. Ми — найгарніші на небесному балу."
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0007",
+            "en": "Envy no more, my man, we’re going to Mars.",
+            "ru_native": "Не грусти, дружище! Мы летим на Марс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відставити заздрощі, друже, ми вирушаємо на Марс."
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0008",
+            "en": "You, me, Athena. Pack some snacks.",
+            "ru_native": "Ты, я, Будда. Возьмем вкусненького.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти, я, Афіна. Захопимо щось перекусити."
+        },
+        {
+            "tag": "GLOB.CONVO1_RILEY_0009",
+            "en": "What color is the sunset on Uranus?",
+            "ru_native": "А на Уране закаты радужные?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якого кольору захід сонця на Урані?"
+        }
+    ]
+}

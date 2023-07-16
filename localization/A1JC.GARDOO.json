@@ -1,0 +1,105 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1JC.GARDOO",
+    "entries": [
+        {
+            "tag": "A1JC.GARDOO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.GARDOO_CHOICE_0000_OPTION_0000",
+            "en": "Can we enter from here?",
+            "ru_native": "Тут можно войти?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми можемо увійти звідси?"
+        },
+        {
+            "tag": "A1JC.GARDOO_CHOICE_0000_OPTION_0001",
+            "en": "Where’s your opener?",
+            "ru_native": "Есть пульт от двери?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де твій пульт?"
+        },
+        {
+            "tag": "A1JC.GARDOO_JACOB_0000",
+            "en": "Absolutely!",
+            "ru_native": "Разумеется!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно!"
+        },
+        {
+            "tag": "A1JC.GARDOO_JACOB_0001",
+            "en": "<i>If</i> my truck was here with the garage door opener.",
+            "ru_native": "Будь тут моя машина с пультом от двери.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якби тільки мій автомобіль був тут, бо в ньому пульт від дверей гаража."
+        },
+        {
+            "tag": "A1JC.GARDOO_JACOB_0002",
+            "en": "Believe it or not, not a usual pocket suspect.",
+            "ru_native": "Представь себе, такое в карманах не ношу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не повіриш, зазвичай не ношу його в кишені."
+        },
+        {
+            "tag": "A1JC.GARDOO_JACOB_0003",
+            "en": "Garage door opener’s in my truck because of course it is.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Устройство для открывания гаражных дверей стоит в моем грузовике, потому что оно, конечно, есть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1JC.GARDOO_JACOB_0004",
+            "en": "Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "A1JC.GARDOO_JACOB_0005",
+            "en": "I would say we could walk back to my truck for the garage door opener, but I’m not 100% sure it’s even there.",
+            "ru_native": "Я бы предложил прогуляться обратно до грузовика,<br>но не уверен на 100%, что пульт от двери там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б сказав, що ми можемо пройти до мого автомобіля по пульт від дверей гаража.<br>Але я не впевнений, що він там є."
+        },
+        {
+            "tag": "A1JC.GARDOO_RILEY_0000",
+            "en": "Hey, can we just get in from here?",
+            "ru_native": "Отсюда можно попасть в дом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, а ми можемо увійти звідси?"
+        },
+        {
+            "tag": "A1JC.GARDOO_RILEY_0001",
+            "en": "Long shot, but do you got your garage door opener on you?",
+            "ru_native": "Может, у тебя с собой пульт от гаражной двери?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лише припущеня, але... можливо в тебе є пульт від дверей гаража?"
+        }
+    ]
+}

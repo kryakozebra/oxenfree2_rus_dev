@@ -1,0 +1,267 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S1.PADLOC",
+    "entries": [
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0000_OPTION_0000",
+            "en": "7-1-1",
+            "ru_native": "7-1-1",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "7-1-1"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0000_OPTION_0001",
+            "en": "3-1-5",
+            "ru_native": "3-1-5",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "3-1-5"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0000_OPTION_0002",
+            "en": "1-2-3",
+            "ru_native": "1-2-3",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "1-2-3"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0001_OPTION_0000",
+            "en": "3-2-1",
+            "ru_native": "3-2-1",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "3-2-1"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0001_OPTION_0001",
+            "en": "5-5-5",
+            "ru_native": "5-5-5",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "5-5-5"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0001_OPTION_0002",
+            "en": "2-2-2",
+            "ru_native": "2-2-2",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "2-2-2"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0002_OPTION_0000",
+            "en": "7-1-1",
+            "ru_native": "7-1-1",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "7-1-1"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0002_OPTION_0001",
+            "en": "3-2-1",
+            "ru_native": "3-2-1",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "3-2-1"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0002_OPTION_0002",
+            "en": "5-5-5",
+            "ru_native": "5-5-5",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "5-5-5"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0003_OPTION_0000",
+            "en": "3-1-5",
+            "ru_native": "3-1-5",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "3-1-5"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0003_OPTION_0001",
+            "en": "3-2-1",
+            "ru_native": "3-2-1",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "3-2-1"
+        },
+        {
+            "tag": "A3S1.PADLOC_CHOICE_0003_OPTION_0002",
+            "en": "5-5-5",
+            "ru_native": "5-5-5",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "5-5-5"
+        },
+        {
+            "tag": "A3S1.PADLOC_JACOB_0000",
+            "en": "Think you know the code?",
+            "ru_native": "Думаешь, знаешь код?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, ти знаєш код?"
+        },
+        {
+            "tag": "A3S1.PADLOC_JACOB_0001",
+            "en": "Hey, nice work.",
+            "ru_native": "А ты молодец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, гарно вийшло."
+        },
+        {
+            "tag": "A3S1.PADLOC_JACOB_0002",
+            "en": "Do we know enough to even guess?",
+            "ru_native": "Мы вслепую подбирать будем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба ми знаємо достатньо, щоби робити припущення?"
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0000",
+            "en": "[to herself] Seven… one… one.",
+            "ru_native": "Семь... один... один.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Сім… один… один…"
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0001",
+            "en": "Tada.",
+            "ru_native": "Та-да!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та-да-а!"
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0002",
+            "en": "[to herself] Three… one… five.",
+            "ru_native": "Три... один... пять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Три… один… п’ять."
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0003",
+            "en": "Mm. Not that one.",
+            "ru_native": "Хм. Не подходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мм. Ні, не це."
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0004",
+            "en": "[to herself] One… two… three.",
+            "ru_native": "Один... два... три.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Один… два… три."
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0005",
+            "en": "Guess she’s not that dumb.",
+            "ru_native": "Она не настолько глупая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, вона не така вже й тупа."
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0006",
+            "en": "[to herself] Three… two… one.",
+            "ru_native": "Три... два... один.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Три… два… один."
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0007",
+            "en": "Not that one.",
+            "ru_native": "Не подходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не це."
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0008",
+            "en": "[to herself] Five… five… five.",
+            "ru_native": "Пять... пять... пять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] П’ять… п’ять.… п’ять.."
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0009",
+            "en": "Ugh, it’s not that.",
+            "ru_native": "Нет, не то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ех, не це."
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0010",
+            "en": "[to herself] Two… two… two.",
+            "ru_native": "Два... два... два.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Два… два… два."
+        },
+        {
+            "tag": "A3S1.PADLOC_RILEY_0011",
+            "en": "Mph. Nope.",
+            "ru_native": "Хм. Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пф, аж ніяк."
+        }
+    ]
+}

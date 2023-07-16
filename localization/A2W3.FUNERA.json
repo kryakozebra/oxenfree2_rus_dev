@@ -1,0 +1,654 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.FUNERA",
+    "entries": [
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0000_OPTION_0000",
+            "en": "Huh?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0000_OPTION_0001",
+            "en": "Where...",
+            "ru_native": "Где...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де…"
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0001_OPTION_0000",
+            "en": "Share a memory of Louis.",
+            "ru_native": "Поделись воспоминаниями о Луисе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поділися згадками про Луїса."
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0001_OPTION_0001",
+            "en": "Cry if you want to?",
+            "ru_native": "Поплачь, если хочешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поплач, якщо хочеш."
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0001_OPTION_0002",
+            "en": "Be happy you knew him.",
+            "ru_native": "Порадуйся, что знал его.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Порадій, що знав його."
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0002_OPTION_0000",
+            "en": "I had forgotten about that.",
+            "ru_native": "А я и забыла об этом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я й забула про це."
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0002_OPTION_0001",
+            "en": "I didn’t like those sandals anyway.",
+            "ru_native": "Мне они все равно не нравились.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені однаково не подобалися ті сандалі."
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0002_OPTION_0002",
+            "en": "I was gonna disown you.",
+            "ru_native": "Я хотела отказаться от тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотіла позбутися тебе."
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0003_OPTION_0000",
+            "en": "I’m okay.",
+            "ru_native": "Я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0003_OPTION_0001",
+            "en": "I won’t miss him that much.",
+            "ru_native": "Я не буду по нему так скучать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не буду за ним так сумувати."
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0003_OPTION_0002",
+            "en": "What would Lou want?",
+            "ru_native": "Чего бы Лу хотел?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого б Лу хотів?"
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0004_OPTION_0000",
+            "en": "We’ll have a party, then.",
+            "ru_native": "Тогда давай праздновать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді нумо святкувати."
+        },
+        {
+            "tag": "A2W3.FUNERA_CHOICE_0004_OPTION_0001",
+            "en": "What would Lou want?",
+            "ru_native": "Чего бы Лу хотел?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого б Лу хотів?"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0000",
+            "en": "I’ll miss feeding you. I’ll miss when you sat on my lap.",
+            "ru_native": "Я буду скучать по тому, как ты сидел у меня на коленях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я буду сумувати за тим, як я тебе годував. Як ти сидів у мене на колінах."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0001",
+            "en": "I’ll miss when you would run up to me on the floor.",
+            "ru_native": "Буду скучать по тому, как ты бегал по полу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я буду сумувати за тим, як ти біг до мене по підлозі."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0002",
+            "en": "When Mom would put you on my bed.",
+            "ru_native": "Когда мама положила тебя мне на кровать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як мама поклала тебе мені в ліжко."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0003",
+            "en": "I’ll miss the feel of your weird skin.",
+            "ru_native": "Буду скучать по твоей странной коже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я буду сумувати за твоєю дивною шкірою."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0004",
+            "en": "And most of all I’ll… just miss you being around.",
+            "ru_native": "Но больше всего я буду... просто скучать по тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але найбільше я буду… сумувати за тобою."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0005",
+            "en": "Goodbye, Louis. You’ll always be my favorite gecko in the world.",
+            "ru_native": "Прощай, Луис. Ты всегда будешь моим самым любимым гекконом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прощавай, Луїсе. Ти завжди будеш моїм найулюбленішим геконом."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0006",
+            "en": "I’ve… I… uh, I dunno what to do next.",
+            "ru_native": "Я... я не знаю, что дальше делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я не знаю, що робити далі."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0007",
+            "en": "I, uh, I just don’t know what we’re supposed to do now.",
+            "ru_native": "Я, уф, не знаю, что нам дальше делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я, гм, я не знаю, що тепер треба робити."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0008",
+            "en": "What happens next at a funeral…",
+            "ru_native": "Что дальше бывает на похоронах...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як проходить похорон…"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0009",
+            "en": "I… don’t know.",
+            "ru_native": "Я... не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не знаю."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0010",
+            "en": "What happens next at a funeral?",
+            "ru_native": "Что дальше бывает на похоронах?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як проходить похорон?"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0011",
+            "en": "I’ve never been to one.",
+            "ru_native": "Я ни на одних не был.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ніколи не був на них."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0012",
+            "en": "My friend told me they put dirt inside her grandma’s grave at her funeral.",
+            "ru_native": "Моя подруга говорила, что на похоронах бабушки они кидали в могилу землю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мій друг казав, що на похороні його бабусі вони кидали землю в могилу."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0013",
+            "en": "But I don’t think we can uh—do that.",
+            "ru_native": "Но не думаю, что у нас... получится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але не думаю, що в нас… вийде."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0014",
+            "en": "So I guess we just watch him float away?",
+            "ru_native": "Наверное, просто посмотрим, как он уплывает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, просто подивимося, як він відпливає?"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0015",
+            "en": "Well… I think my favorite memory is when you threw up on Mom’s sandals.",
+            "ru_native": "Ну... Наверное, мое любимое воспоминание – как тебя вырвало на мамины сандалии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… мабуть, мій найулюбленіший спогад, коли тебе знудило на мамині сандалі."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0016",
+            "en": "That was pretty funny.",
+            "ru_native": "Это было очень смешно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було смішно."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0017",
+            "en": "You’d just gone to the store—",
+            "ru_native": "Ты только ушла в магазин...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тільки пішла до магазину…"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0018",
+            "en": "“These cost me 45 bucks!”",
+            "ru_native": "«Это обойдется мне в 45 баксов»!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Це коштувало мені 45 баксів!»"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0019",
+            "en": "[chuckling]",
+            "ru_native": "[ID-23]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється]"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0020",
+            "en": "I hadn’t.",
+            "ru_native": "А я нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я — ні."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0021",
+            "en": "That’s not what you said when it happened…",
+            "ru_native": "Но тогда ты совсем другое говорила...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але тоді ти так не казала…"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0022",
+            "en": "Disown me? I let him out of his pen for a second. God.",
+            "ru_native": "Отказаться? Я его всего на секунду из клетки выпустил. Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Позбутися? Я його випустив із клітки всього на секунду. Господи."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0023",
+            "en": "I don’t—it’s fine. You can cry if you want.",
+            "ru_native": "Я не... все нормально. Сама поплачь, если хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не… усе гаразд. Сама поплач, якщо хочеш."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0024",
+            "en": "I know you liked him too.",
+            "ru_native": "Знаю, тебе он тоже нравился.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ти його теж любила."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0025",
+            "en": "Maybe not as much as me.",
+            "ru_native": "Может, не настолько, как мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, не настільки, як я."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0026",
+            "en": "But still.",
+            "ru_native": "Но все же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але все ж."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0027",
+            "en": "If you need to, I still have that napkin in my pocket from the burger place.",
+            "ru_native": "Если нужно, у меня в кармане есть салфетка из закусочной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо треба, у мене в кишені є серветка з бургерної."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0028",
+            "en": "Well... I’m going to miss him a lot.",
+            "ru_native": "Ну... я буду по нему скучать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… я буду за ним сумувати."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0029",
+            "en": "No. Louis would want... I don’t know what Louis would want.",
+            "ru_native": "Нет. Луис бы хотел... Я не знаю, чего бы он хотел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Луїс хотів би… Я не знаю, чого б він хотів."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0030",
+            "en": "He’d want—a beetle to eat and a twig to sit on. And sunshine. And a rock. For shade.",
+            "ru_native": "Он бы хотел съесть жука и посидеть на ветке. И солнышко. И камень. Для тени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він… хотів би з’їсти жука й посидіти на гілочці. Хотів би сонця. Каменя. Для тіні."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0031",
+            "en": "That’s nice. I like that—or the idea.",
+            "ru_native": "Мило. Эта идея мне нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мило. Мені… мені подобається ця ідея."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0032",
+            "en": "Why doesn’t everyone do that?",
+            "ru_native": "Почему все так не делают?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому всі так не роблять?"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0033",
+            "en": "Sounds way more fun.",
+            "ru_native": "Звучит куда веселее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить значно веселіше."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0034",
+            "en": "Maybe. [chuckles] Uh, maybe…",
+            "ru_native": "Может быть. Хм, может быть...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо. [сміється] Гм, можливо…"
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0035",
+            "en": "Louis would want… I don’t know what Louis would want.",
+            "ru_native": "Нет. Луис бы хотел... Я не знаю, чего бы он хотел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Луїс хотів би… Я не знаю, чого б він хотів."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0036",
+            "en": "I’m going to miss him so much.",
+            "ru_native": "Я буду по нему очень скучать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я буду дуже за ним сумувати."
+        },
+        {
+            "tag": "A2W3.FUNERA_REX_0037",
+            "en": "I’m really gonna miss him.",
+            "ru_native": "Я буду по нему скучать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я буду за ним сумувати."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0000",
+            "en": "Uh.. huh?",
+            "ru_native": "А... что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А… що?"
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0001",
+            "en": "Uh… wait—where…",
+            "ru_native": "Эм... погоди... где...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… стривай… Де…"
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0002",
+            "en": "Well, everybody is different, but usually you say some nice words.",
+            "ru_native": "Ну, бывает по-разному, но обычно говорят какие-то хорошие слова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, буває по-різному, але зазвичай кажуть якісь хороші слова."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0003",
+            "en": "Funny stories. Favorite memories. Any you want to tell Louis?",
+            "ru_native": "Забавные истории. Воспоминания. Все, что ты хотел бы сказать Луису?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кумедні історії. Спогади. Усе, що ти хочеш сказати Луїсу."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0004",
+            "en": "Yeah, count your lucky stars—I seriously considered disowning you that day—both of you.",
+            "ru_native": "Да, считай, тебе повезло... Я всерьез подумывала в тот день отказаться от вас обоих.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вважай, що тобі пощастило… Я хотіла того дня позбутися вас обох."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0005",
+            "en": "Eh, they were too small for my gorilla feet anyway—little green guy did me a favor.",
+            "ru_native": "Ну, они мне все равно ужасно жали – твой зеленый дружок, считай, меня выручил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, однаково вони були замалі для мене. Твій зелений друзяка мене виручив."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0006",
+            "en": "Yeah, I’d actually forgotten about that. Blissfully forgotten.",
+            "ru_native": "Да, а я и забыла об этом. К счастью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я й забула про це. На щастя."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0007",
+            "en": "There aren’t any rules, don’t worry. You can’t… be wrong at a funeral. Well you can, but…",
+            "ru_native": "Не волнуйся. никаких правил нет. Ты не можешь...<br>Ошибиться на похоронах. То есть можешь, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, немає жодних правил. Ти не можеш…<br>помилитися на похороні. Ну, можеш, але…"
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0008",
+            "en": "You can cry if you want? I can give you a minute—",
+            "ru_native": "Поплачь, если хочешь? Я дам тебе время...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поплач, якщо хочеш. Я дам тобі час…"
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0009",
+            "en": "I’m okay. But thank you.",
+            "ru_native": "Я в порядке. Но спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд. Але дякую."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0010",
+            "en": "Yeah, I, uh, I won’t miss him that much.",
+            "ru_native": "Я не буду по нему так сильно скучать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не буду за ним так сильно сумувати."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0011",
+            "en": "What do you think Louis would want? Would he want us to be sad?",
+            "ru_native": "Как думаешь, чего бы хотел Луис? Он хотел бы, чтобы мы грустили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як думаєш, чого б хотів Луїс? Він хотів би, щоби ми сумували?"
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0012",
+            "en": "You can be happy you knew him? Some people—funerals—for them, it’s a…",
+            "ru_native": "Ты мог бы порадоваться, что знал его? для некоторых похороны – это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти міг би порадіти, що знав його? Для декого похорони — це…"
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0013",
+            "en": "It’s like a party. It’s a really big party to celebrate the deceased’s life.",
+            "ru_native": "Это как праздник. Большой такой праздник в честь умершего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як свято. Велике свято на честь померлого."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0014",
+            "en": "Let’s throw a party, then. When we get home. We’ll have a big cricket cake, in honor of Louis.",
+            "ru_native": "Тогда давай праздновать. Вернемся домой и съедим огромный торт в честь Луиса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді нумо святкувати. Повернемося додому і з’їмо величезний торт на честь Луїса."
+        },
+        {
+            "tag": "A2W3.FUNERA_SOCIALRILEY_0015",
+            "en": "Well… what would Louis want? Would he want us to have a party in his honor?",
+            "ru_native": "Ну... чего бы хотел Луис? Он хотел бы, чтобы мы устроили праздник в его честь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… чого б Луїс хотів? Він хотів би, щоби ми влаштували свято на його честь?"
+        }
+    ]
+}

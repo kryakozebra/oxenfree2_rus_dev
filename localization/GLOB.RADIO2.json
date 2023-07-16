@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.RADIO2",
+    "entries": [
+        {
+            "tag": "GLOB.RADIO2_JACOB_0000",
+            "en": "I’m telling you, it’s hopeless.",
+            "ru_native": "Говорю же, это бесполезно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажу ж тобі, це безнадійно."
+        },
+        {
+            "tag": "GLOB.RADIO2_JACOB_0001",
+            "en": "But hey, it’s a free cave.",
+            "ru_native": "Ладно, мы в свободной пещере.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ж це вільна печера."
+        }
+    ]
+}

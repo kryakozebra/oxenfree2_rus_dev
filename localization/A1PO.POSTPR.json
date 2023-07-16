@@ -1,0 +1,132 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1PO.POSTPR",
+    "entries": [
+        {
+            "tag": "A1PO.POSTPR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.POSTPR_CHOICE_0000_OPTION_0000",
+            "en": "Agreed.",
+            "ru_native": "Точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Згода."
+        },
+        {
+            "tag": "A1PO.POSTPR_CHOICE_0000_OPTION_0001",
+            "en": "What was that?",
+            "ru_native": "Что это было?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це було?"
+        },
+        {
+            "tag": "A1PO.POSTPR_JACOB_0000",
+            "en": "Okay um—we gotta, not be here.",
+            "ru_native": "Ладно, нам тут лучше не стоять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Нам… не слід бути тут."
+        },
+        {
+            "tag": "A1PO.POSTPR_JACOB_0001",
+            "en": "I just–when you’re in a car wreck you get away from the car cause you know–potential gas leak, explosion, etc.",
+            "ru_native": "Это как при аварии – ты отбегаешь подальше от машины,<br>потому что боишься, что она взорвется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У разі автомобільної аварії слід вибратися з автомобіля.<br>Тому що можливе протікання бензину, вибух тощо."
+        },
+        {
+            "tag": "A1PO.POSTPR_JACOB_0002",
+            "en": "Just–we have to get out of this immediate area.",
+            "ru_native": "Просто... надо уйти в другое место.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам лише потрібно вибратися безпосередньо із цієї зони."
+        },
+        {
+            "tag": "A1PO.POSTPR_JACOB_0003",
+            "en": "I don’t care where, just not here.",
+            "ru_native": "Неважно куда, главное – отсюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже куди, лише не залишатися тут."
+        },
+        {
+            "tag": "A1PO.POSTPR_JACOB_0004",
+            "en": "Like–now.",
+            "ru_native": "И живо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто зараз."
+        },
+        {
+            "tag": "A1PO.POSTPR_JACOB_0005",
+            "en": "Like right now.",
+            "ru_native": "Прямо сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто просто зараз."
+        },
+        {
+            "tag": "A1PO.POSTPR_JACOB_0006",
+            "en": "Yeah, now.",
+            "ru_native": "Да, сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, зараз."
+        },
+        {
+            "tag": "A1PO.POSTPR_JACOB_0007",
+            "en": "Something bad? Like really bad? Best I got for you.",
+            "ru_native": "Что-то плохое? Очень плохое? Лучше не объяснить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось погане? Насправді погане? Краще пояснити не можу."
+        },
+        {
+            "tag": "A1PO.POSTPR_JACOB_0008",
+            "en": "C’mon.",
+            "ru_native": "Ну же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі."
+        },
+        {
+            "tag": "A1PO.POSTPR_RILEY_0000",
+            "en": "Yeah, now.",
+            "ru_native": "Да, сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, зараз."
+        },
+        {
+            "tag": "A1PO.POSTPR_RILEY_0001",
+            "en": "What the hell was that?",
+            "ru_native": "Какого черта это было?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що то за чортівня була?"
+        }
+    ]
+}

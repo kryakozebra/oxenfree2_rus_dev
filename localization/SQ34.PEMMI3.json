@@ -1,0 +1,105 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "SQ34.PEMMI3",
+    "entries": [
+        {
+            "tag": "SQ34.PEMMI3_CHOICE_0000_OPTION_0000",
+            "en": "Let’s talk to her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай поговорим с ней.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговоримо."
+        },
+        {
+            "tag": "SQ34.PEMMI3_CHOICE_0000_OPTION_0001",
+            "en": "Forget it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Забудь об этом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі вже."
+        },
+        {
+            "tag": "SQ34.PEMMI3_JACOB_0000",
+            "en": "This thing looks pretty unstable. I think it’s either we talk to her now or--ya know--maybe never.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эта штука выглядит довольно нестабильной. Я думаю, что либо мы поговорим с ней сейчас, либо... ну, знаешь... может быть, никогда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ситуація така: або ми йдемо до неї зараз, або ніколи."
+        },
+        {
+            "tag": "SQ34.PEMMI3_JACOB_0001",
+            "en": "Let’s just talk to her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай просто поговорим с ней.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну давай просто заговоримо з нею."
+        },
+        {
+            "tag": "SQ34.PEMMI3_JACOB_0002",
+            "en": "C’mon, we gotta, I’m too curious.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай, надо, я слишком любопытен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми повинні, мені занадто цікаво."
+        },
+        {
+            "tag": "SQ34.PEMMI3_JACOB_0003",
+            "en": "Cool.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Круто.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто."
+        },
+        {
+            "tag": "SQ34.PEMMI3_JACOB_0004",
+            "en": "Uh--okay. I mean--okay, I won’t argue. Though I am a little confused…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э-э... ладно. То есть - ладно, не буду спорить. Хотя я немного озадачен...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд-гаразд, більше ні слова. Шкода, звичайно…"
+        },
+        {
+            "tag": "SQ34.PEMMI3_JACOB_0005",
+            "en": "But--okay, that’s that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но... ладно, это все.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Як скажеш."
+        },
+        {
+            "tag": "SQ34.PEMMI3_JACOB_0006",
+            "en": "You know what, we’re goin’ for it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Знаешь что, мы пойдем на это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш що? Ми йдемо."
+        },
+        {
+            "tag": "SQ34.PEMMI3_RILEY_0000",
+            "en": "Yeah, let’s talk to her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, давай поговорим с ней.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну давай, поговоримо з нею."
+        },
+        {
+            "tag": "SQ34.PEMMI3_RILEY_0001",
+            "en": "Yeah, you know what, I’m done with this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, знаешь что, с меня хватит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ти задовбав."
+        }
+    ]
+}

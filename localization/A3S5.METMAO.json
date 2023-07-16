@@ -1,0 +1,627 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.METMAO",
+    "entries": [
+        {
+            "tag": "A3S5.METMAO_CHOICE_0000_OPTION_0000",
+            "en": "I need help.",
+            "ru_native": "Простите, но кто вы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібна допомога."
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0000_OPTION_0001",
+            "en": "Are you Maggie?",
+            "ru_native": "А вы Maggie?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ви Меггі?"
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0000_OPTION_0002",
+            "en": "I’m lost in time.",
+            "ru_native": "Творится какое-то безумие...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я загубилася в часі."
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0001_OPTION_0000",
+            "en": "What do you mean?",
+            "ru_native": "О чем ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це означає?"
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0001_OPTION_0001",
+            "en": "Maggie Adler?",
+            "ru_native": "Мэгги Adler?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Меггі Адлер?"
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0001_OPTION_0002",
+            "en": "This isn’t over yet.",
+            "ru_native": "Я путешествую во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ще не кінець."
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0002_OPTION_0000",
+            "en": "What do you mean?",
+            "ru_native": "О чем ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це означає?"
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0002_OPTION_0001",
+            "en": "Who are you, then?",
+            "ru_native": "Кто... ты, then?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто ви?"
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0002_OPTION_0002",
+            "en": "This isn’t over yet.",
+            "ru_native": "Я путешествую во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ще не кінець."
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0003_OPTION_0000",
+            "en": "What do you mean?",
+            "ru_native": "О чем ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це означає?"
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0003_OPTION_0001",
+            "en": "Maggie Adler?",
+            "ru_native": "Мэгги Adler?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Меггі Адлер?"
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0003_OPTION_0002",
+            "en": "This isn’t over yet.",
+            "ru_native": "Вы верите в привидения?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ще не кінець."
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0004_OPTION_0000",
+            "en": "You’re wrong.",
+            "ru_native": "Я путешествую во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не правда."
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0004_OPTION_0001",
+            "en": "Not yet I’m not!",
+            "ru_native": "Пока нет Не буду!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще ні, я ні!"
+        },
+        {
+            "tag": "A3S5.METMAO_CHOICE_0004_OPTION_0002",
+            "en": "Can’t you help me?",
+            "ru_native": "Вы верите в привидения?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можете мені допомогти?"
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0000",
+            "en": "[flat] I’m on my lunch break.",
+            "ru_native": "Алло? Вам… помочь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[без емоцій] Я на обідній перерві."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0001",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0002",
+            "en": "Talk to Col. Sheer if this is important.",
+            "ru_native": "Вы одна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговори з полковником Широм, якщо це важливо."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0003",
+            "en": "You?",
+            "ru_native": "У вас есть пропуск?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти?"
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0004",
+            "en": "You’re beyond help.",
+            "ru_native": "В общем, если у вас нет пропуска, вы должны уйти. Простите.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі вже неможливо допомогти."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0005",
+            "en": "Riley…",
+            "ru_native": "Райли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі…"
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0006",
+            "en": "You’re an overturned ship a million miles at sea.",
+            "ru_native": "Сегодня во время учений разбился самолет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти корабель, що перекинувся за мільйон миль в морі."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0007",
+            "en": "We all are.",
+            "ru_native": "И я тут немного занята, пытаюсь связать пятьдесят членов экипажа с их командирами...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як і всі ми."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0008",
+            "en": "On a long enough timeline, anyway.",
+            "ru_native": "Так что... если ваше дело может подождать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, на досить довгій часовій лінії."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0009",
+            "en": "I don’t know. You don’t know, so… I don’t know.",
+            "ru_native": "лучше... потом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю. Ти не знаєш, тож… Я не знаю."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0010",
+            "en": "But something’s eating you. Inside out.",
+            "ru_native": "Ладно, мисс Поверли, если вы не по официальному делу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але тебе щось гризе. Зсередини."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0011",
+            "en": "Something like that.",
+            "ru_native": "Интересно like that.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу того."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0012",
+            "en": "But it’s what? Look at where you are.",
+            "ru_native": "Ладно, это неважно, если только у вас нет ко мне никакого дела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але що це? Подивися, де ти знаходишся."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0013",
+            "en": "Fort Milner? No…",
+            "ru_native": "Так? Если у вас нет тут никаких дел...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Форт Мілнера? Ні…"
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0014",
+            "en": "I don’t believe you are.",
+            "ru_native": "Ладно. Вам нужна именно я или... просто кто-то из отдела связи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я так не думаю."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0015",
+            "en": "I don’t believe I’m the Maggie Adler my mother once knew.",
+            "ru_native": "Вам нужна именно я? Зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не думаю, що я Меггі Адлер, яку колись знала моя мати."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0016",
+            "en": "But don’t worry. You’ll be gone soon, anyway.",
+            "ru_native": "Что ж, тогда подойдите к станции 3С и спросите полковника Шира.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але не хвилюйся. Ти все одно скоро зникнеш."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0017",
+            "en": "Just like me.",
+            "ru_native": "По крайней мере, он свяжет вас с нужным отделом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зовсім як я."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0018",
+            "en": "Like we all are.",
+            "ru_native": "Ладно. Творится какое-то безумие. Вот что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ми всі."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0019",
+            "en": "A figment. A comic strip thought balloon – a particle of someone you think you know.",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вигадка. Надумана повітряна кулька з коміксів…<br>частинка людини, яку ви, як вам здається, знаєте."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0020",
+            "en": "By ghosts? Taken over by ghosts?",
+            "ru_native": "Я... Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Через привидів? Під контролем привидів?"
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0021",
+            "en": "That sounds… implausible. Or maybe it just did yesterday.",
+            "ru_native": "Мэм?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це видається… неправдоподібно. А може, так було тільки вчора."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0022",
+            "en": "You, though… you have no tomorrows.",
+            "ru_native": "Ладно, хорошего дня. До свидания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ти… у тебе немає завтрашнього дня."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0023",
+            "en": "At least you can cling to that notion.",
+            "ru_native": "... Дойдите до северных ворот...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні можна чіплятися за цю думку."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0024",
+            "en": "Comfort in your defeat.",
+            "ru_native": "...Это километр к западу от того места, где мы сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для мене розрада у твоїй поразці."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0025",
+            "en": "You’re dead, Riley. You’re as dead as I am.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты мертв, Райли. Ты так же мертв, как и я.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0026",
+            "en": "And not just you – your father, your son. Jacob.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И не только ты - твой отец, твой сын. Джейкоб.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0027",
+            "en": "If a caterpillar is a butterfly unblossomed…",
+            "ru_native": "Мое радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо гусениця — це метелик нерозквітлий…"
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0028",
+            "en": "…you are a corpse not yet cold.",
+            "ru_native": "Говорите, вы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ти — труп, що ще не охолов."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0029",
+            "en": "But you’re getting there.",
+            "ru_native": "Зачем... вы хотите, чтобы я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це не надовго."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0030",
+            "en": "You’re getting there.",
+            "ru_native": "Зачем... вы просите меня...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти дістанешся туди."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0031",
+            "en": "Like how I fought? Against the eclipse? Against death?",
+            "ru_native": "Да. Да, сэр.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як я боролася? Проти затемнення? Проти смерті?"
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0032",
+            "en": "Nothing fights like time, child. And the Sunken are as time itself.",
+            "ru_native": "Х... Хорошо. Да, сэр.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніщо так не бореться, як час, дитино. А Втоплені такі ж, як сам час."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0033",
+            "en": "Stop fighting.",
+            "ru_native": "Серьезно, кто вы такая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Припини боротьбу."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0034",
+            "en": "You’re grist. For souls who’ll use your sunburnt skin like wallpaper.",
+            "ru_native": "Почему вы сказали, что путешествуете во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти маса. Для душ, які використовуватимуть твою засмаглу шкіру як шпалери."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0035",
+            "en": "Oh. It’s you.",
+            "ru_native": "Что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох. Це ти."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0036",
+            "en": "The dead don’t change. They can’t. Just like you and me.",
+            "ru_native": "Почему вы говорите про радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мертві не змінюються. Вони не можуть. Так само, як і ми з тобою."
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0037",
+            "en": "I’ll always be here. And you’ll always be in your little apartment…",
+            "ru_native": "Почему вы говорите про привидений.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я завжди буду тут. І ти завжди будеш у своїй маленькій квартирці…"
+        },
+        {
+            "tag": "A3S5.METMAO_MAGGIE_0038",
+            "en": "…wishing things were different.",
+            "ru_native": "Ладно, если вы не можете объяснить, почему вы здесь, тогда... вам пора.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…бажаючи, щоби все було інакше."
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0000",
+            "en": "I’m – I’m sorry, but, I… think I need help.",
+            "ru_native": "Я... извините, что вмешиваюсь, но... Я должна спросить... а вы кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені… вибачте, але я… гадаю, що мені потрібна допомога."
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0001",
+            "en": "I –",
+            "ru_native": "Я… Райли. Райли Поверли, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я…"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0002",
+            "en": "What are you talking about? Where am I?",
+            "ru_native": "О чем ты говоришь? Where am I?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти про що? Де я?"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0003",
+            "en": "Are you… Maggie Adler?",
+            "ru_native": "А вы… Мэгги Адлер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ви… Меггі Адлер?"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0004",
+            "en": "This isn’t over – I know what it looks like, but it’s not –",
+            "ru_native": "Я буквально прошла сквозь время... чтобы попасть сюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ще не кінець. Я знаю, як це виглядає, але це не…"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0005",
+            "en": "I’m - I’m sorry, but are you… Maggie Adler? This is… am I in Fort Milner?",
+            "ru_native": "И кое-кто... заставил меня поверить, что вы могли бы мне помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Перепрошую, але ви… Меггі Адлер? Це… це… я у форті Мілнера?"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0006",
+            "en": "If you’re not Maggie… who are you, then?",
+            "ru_native": "Я... Мне кажется, вы можете помочь мне в одном важном деле.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ви не Меггі… то хто ви тоді?"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0007",
+            "en": "I’m – I’m sorry, I’m – I think I’m lost in time, or… I’m being taken over by –",
+            "ru_native": "Я... Думаю, именно вы. Наверное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Перепрошую, я… Мені здається, я загубилася в часі, або… мене контролює…"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0008",
+            "en": "You’re wrong.",
+            "ru_native": "Эм... может, и кто-то другой подойдет? Дело вот в чем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не правда."
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0009",
+            "en": "I – I know I can get back – I can fight them – fight this – I can fight it!",
+            "ru_native": "Дело в том, что... Я путешественник во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я знаю, що зможу повернутися… я можу боротися з ними…<br>боротися з цим… я можу боротися з цим!"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0010",
+            "en": "Not yet – I’m not dead yet!",
+            "ru_native": "Пока нет – Не буду dead yet!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще ні, я ще не труп!"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0011",
+            "en": "There’s still time – I still have time to fight them off!",
+            "ru_native": "... Что-то, что звучит абсолютно безумно. И я считаю, что вы с этим связаны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще є час… я ще маю час подолати їх!"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0012",
+            "en": "I know there’s still –",
+            "ru_native": "Дело в том, что... Я путешественник во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упевнена, там ще…"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0013",
+            "en": "Can’t you help me? Maggie, c’mon – together, we can fight them off!",
+            "ru_native": "Мне... надо, чтобы вы настроили свое радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можете мені допомогти? Меггі, годі, разом ми зможемо їх подолати!"
+        },
+        {
+            "tag": "A3S5.METMAO_RILEY_0014",
+            "en": "There’s still time – I still have time to fight them off!",
+            "ru_native": "Это еще не безумие, но... часть чего-то безумного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще є час… я ще маю час подолати їх!"
+        }
+    ]
+}

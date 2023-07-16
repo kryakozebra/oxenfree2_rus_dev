@@ -1,0 +1,429 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.OUTTRA",
+    "entries": [
+        {
+            "tag": "A2T1.OUTTRA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.OUTTRA_CHOICE_0000_OPTION_0000",
+            "en": "I hate this backpack…",
+            "ru_native": "Ненавижу этот рюкзак...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу цей рюкзак."
+        },
+        {
+            "tag": "A2T1.OUTTRA_CHOICE_0000_OPTION_0001",
+            "en": "Oh no!",
+            "ru_native": "О нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ні!"
+        },
+        {
+            "tag": "A2T1.OUTTRA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.OUTTRA_CHOICE_0001_OPTION_0000",
+            "en": "Are you a collector?",
+            "ru_native": "Ты их собираешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти що, колекціонер?"
+        },
+        {
+            "tag": "A2T1.OUTTRA_CHOICE_0001_OPTION_0001",
+            "en": "Why not mention this before?",
+            "ru_native": "Почему раньше не сказал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А не міг раніше сказати?"
+        },
+        {
+            "tag": "A2T1.OUTTRA_CHOICE_0001_OPTION_0002",
+            "en": "That's weird.",
+            "ru_native": "Это странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дивно."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0000",
+            "en": "Might take a bit of time to get to the next spot.",
+            "ru_native": "До следующего места путь неблизкий.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До наступного місця шлях не близький."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0001",
+            "en": "Uh… [chuckles] know any jokes?",
+            "ru_native": "Анекдоты знаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Хихикає] Анекдоти знаєш?"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0002",
+            "en": "Oh crap, was that—",
+            "ru_native": "Черт, что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт, що…"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0003",
+            "en": "Was that a transmitter that fell out?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это был передатчик, который выпал?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0004",
+            "en": "Ugh, it looks…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ух, как это выглядит...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0005",
+            "en": "Man, it looks broken.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Блин, он выглядит сломанным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0006",
+            "en": "Well wait. I… think I… might have a spare transmitter at home.",
+            "ru_native": "Погоди. Кажется, у меня есть один передатчик дома.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай. Здається… у мене є один радіопередавач удома."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0007",
+            "en": "Not as fancy pants as yours, but it should hit the same frequencies.",
+            "ru_native": "Он не такой изысканный, но должен работать на тех же частотах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він не такий вишуканий, але має працювати на тих самих частотах."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0008",
+            "en": "Should work in a pinch.",
+            "ru_native": "На крайняк покатит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні мусить працювати."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0009",
+            "en": "Like the one we’re in.",
+            "ru_native": "Для нас в самый раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам згодиться."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0010",
+            "en": "I think at least.",
+            "ru_native": "Надеюсь, покатит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, згодиться."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0011",
+            "en": "No, it’s not like that.",
+            "ru_native": "Нет, не совсем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не зовсім."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0012",
+            "en": "I mean, sure, but it’s not so random.",
+            "ru_native": "Да, но тому есть объяснение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, тобто в мене є пояснення."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0013",
+            "en": "I can see that you’re thinking…",
+            "ru_native": "У тебя все на лице написано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ти думаєш…"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0014",
+            "en": "\"Now, why would Jacob have a random piece of specialized equipment in his backyard?\"",
+            "ru_native": "«Откуда у Джейкоба в загашнике нарисовалось специализированное оборудование?»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Звідки в Джейкоба спеціалізоване обладнання на задньому дворі?»"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0015",
+            "en": "Be careful, that rope doesn’t look particularly trustworth—",
+            "ru_native": "Осторожно, эта веревка не внушает мне доверия...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь обережна, ця мотузка не викликає відчуття впевненості…"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0016",
+            "en": "Oh. That’s a bad sound.",
+            "ru_native": "Ой. Плохой звук.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оу. Це поганий звук."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0017",
+            "en": "That’s a “something expensive just broke” sound…",
+            "ru_native": "Как будто разбилось что-то ценное...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це звук, на кшталт «щось дороге щойно зламалося»…"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0018",
+            "en": "That was the transmitter wasn’t it?",
+            "ru_native": "Передатчик, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це був радіопередавач, чи не так?"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0019",
+            "en": "That… definitely didn’t sound like the paint chipping.",
+            "ru_native": "Это... точно не краска отлетела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… точно не схоже просто на подряпину."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0020",
+            "en": "Well wait…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну погоди...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0021",
+            "en": "Yeah, your face is… easily read right now.",
+            "ru_native": "Да, у тебя на лице все написано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, зараз у тебе на чолі все написано…"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0022",
+            "en": "Okay, so, broken transmitter. Would be an evening-ender but…",
+            "ru_native": "Итак, передатчик сломан. Тут бы и сказочке конец, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, тож радіопередавач зламався. Це був би кінець, але…"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0023",
+            "en": "I… think I… might have a spare transmitter at home.",
+            "ru_native": "По-моему, у меня дома есть запасной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… гадаю, що в мене… є вдома ще один радіопередавач."
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0024",
+            "en": "Oh geez, you okay? You look okay!",
+            "ru_native": "О боже, ты в порядке? Ты в порядке!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, з тобою все гаразд? Ти виглядаєш наче добре!"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0025",
+            "en": "Did the–did the transmitters break? And–hopefully not your…femur?",
+            "ru_native": "Это же... передатчик сломался? А не твое бедро, надеюсь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, що це зламався радіопередавач, а не… твоя стегнова кістка?"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0026",
+            "en": "I don’t know why I’m embarrassed to admit this but…",
+            "ru_native": "Не знаю, почему мне стыдно в этом признаться, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, чому мені соромно це визнавати, але…"
+        },
+        {
+            "tag": "A2T1.OUTTRA_JACOB_0027",
+            "en": "Homemade! It was a side project that–actually kinda worked for once.",
+            "ru_native": "Самоделка! Это был побочный проект, который на этот раз и правда сработал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Саморобний! Це був підробіток, справді, на один раз."
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0000",
+            "en": "Errgh, I can’t believe this—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эррх, я не могу поверить в это...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0001",
+            "en": "Actually, I can believe this since this backpack’s zipper hasn’t been able to stay closed since the 90’s.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На самом деле, я могу в это поверить, так как молния этого рюкзака не может оставаться закрытой с 90-х годов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0002",
+            "en": "Agh! God damnit. This was like our only plan.",
+            "ru_native": "Твою мать! Единственный план псу под хвост.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт забирай! Єдиний план, і той пішов прахом."
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0003",
+            "en": "Aughhh, are you serious? I only have the three, it’s not like I have spares.",
+            "ru_native": "Ты издеваешься? У меня всего три передатчика, запасных не завезли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0004",
+            "en": "I don’t know what we can really do now…",
+            "ru_native": "И что нам теперь делать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що нам тепер робити…"
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0005",
+            "en": "Oh. Do you like—collect them?",
+            "ru_native": "Ты их что, собираешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти їх що, колекціонуєш?"
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0006",
+            "en": "Oh. Why… didn’t you mention this earlier?",
+            "ru_native": "Почему ты об этом раньше не сказал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти про це раніше не казав?"
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0007",
+            "en": "Is this a job you do, too?",
+            "ru_native": "Тоже работаешь с радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теж працюєш із радіо?"
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0008",
+            "en": "That’s a pretty weird thing to have just gathering dust.",
+            "ru_native": "Странный выбор пылесборника, должна признаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це досить дивна річ — просто збирати бруд."
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0009",
+            "en": "Stupid, fragile piece of crap.",
+            "ru_native": "Дурацкий, хрупки кусок дерьма.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дурний, крихкий шматок лайна."
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0010",
+            "en": "Yup, broken!",
+            "ru_native": "Ага, сломался!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, зламався!"
+        },
+        {
+            "tag": "A2T1.OUTTRA_RILEY_0011",
+            "en": "I don’t know what we can really do now…",
+            "ru_native": "И что нам теперь делать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, що нам тепер робити…"
+        }
+    ]
+}

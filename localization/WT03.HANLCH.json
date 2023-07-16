@@ -1,0 +1,474 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT03.HANLCH",
+    "entries": [
+        {
+            "tag": "WT03.HANLCH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0000_OPTION_0000",
+            "en": "Happy now?",
+            "ru_native": "Теперь доволен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер задоволений?"
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0000_OPTION_0001",
+            "en": "Mission accomplished.",
+            "ru_native": "Миссия выполнена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Місія виконана."
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0001_OPTION_0000",
+            "en": "Of course you are.",
+            "ru_native": "Еще бы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0001_OPTION_0001",
+            "en": "You helped us, too.",
+            "ru_native": "Ты нам тоже помог.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти теж нам допоміг."
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0001_OPTION_0002",
+            "en": "Any time!",
+            "ru_native": "Не за что!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка!"
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0002_OPTION_0000",
+            "en": "You’re married?!",
+            "ru_native": "Ты женат?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти одружений?!"
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0002_OPTION_0001",
+            "en": "Nice to meet you, too.",
+            "ru_native": "Мне тоже приятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теж була рада познайомитися."
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0002_OPTION_0002",
+            "en": "Sorry, go back to sleep.",
+            "ru_native": "Простите, идите спать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, йди спати."
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0003_OPTION_0000",
+            "en": "Of course you are.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Конечно же, это так.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "WT03.HANLCH_CHOICE_0003_OPTION_0001",
+            "en": "Any time!",
+            "ru_native": "",
+            "ru_machine": "DEEPL В любое время!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка!"
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0000",
+            "en": "Joseph needs a clean bottle.",
+            "ru_native": "Джозефу нужна чистая бутылочка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джозефу потрібна чиста пляшечка."
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0001",
+            "en": "Hi. Nice to meet you. You like dead things like my husband?",
+            "ru_native": "Здравствуйте. Приятно познакомиться. Вы тоже увлекаетесь мертвыми, как и мой муж?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. Приємно познайомитися. Ви теж захоплюєтеся мерцями, як і мій чоловік?"
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0002",
+            "en": "Or is he paying you from our child’s college fund?",
+            "ru_native": "Или он платит вам из тех денег, что мы отложили сыну на колледж?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи він платить вам із тих грошей, що ми відклали синові на коледж?"
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0003",
+            "en": "I’m not seeing the bottle.",
+            "ru_native": "Я не вижу бутылку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не бачу пляшечки."
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0004",
+            "en": "It’s probably his sunny demeanor.",
+            "ru_native": "Ну он же такой душка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, він же такий пупсик."
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0005",
+            "en": "Mm-hm.",
+            "ru_native": "М-м-м.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "М-м-м."
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0006",
+            "en": "Okay.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре."
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0007",
+            "en": "Yes, well, someone has to tend to our littlest ghost hunter before he realizes he’s hungry.",
+            "ru_native": "Да, кто-то должен позаботиться о нашем маленьком<br>охотнике за привидениями, пока он не умер с голоду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, хтось має подбати про нашого маленького мисливця за привидами,<br>поки він сам не зрозумів, що зголоднів."
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0008",
+            "en": "Yeah, that’s more the fault of our littlest ghost hunter.",
+            "ru_native": "Да, это скорее вина нашего маленького охотника за привидениями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це скоріше вина нашого маленького мисливця за привидами."
+        },
+        {
+            "tag": "WT03.HANLCH_CYNTHIA_0009",
+            "en": "Who I actually need to feed before he realizes he’s hungry.",
+            "ru_native": "Которого мне надо покормить до того, как он поймет, что голоден.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якого мені треба нагодувати до того, як він сам зрозуміє, що зголоднів."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0000",
+            "en": "I’ll let you know once I get the test object back to my equipment.",
+            "ru_native": "Скажу, как только верну тестовый объект в свое оборудование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажу, як тільки отримаю тестовий об’єкт."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0001",
+            "en": "I… can’t say how excited I am for this discovery, honestly.",
+            "ru_native": "Я, честно, не могу даже описать, как я рад этому открытию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно, не можу навіть описати, наскільки радий цьому відкриттю."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0002",
+            "en": "I obviously haven’t sampled the test object but the findings I expect will be, um, just incredible.",
+            "ru_native": "Я еще не брал образцы тестового объекта, но<br>думаю, результаты будут просто невероятные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще не взяв зразки з тестового об’єкта, але гадаю,<br>що результати будуть просто вражаючі."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0003",
+            "en": "I’m… very grateful you stumbled into my experiments tonight, Riley.",
+            "ru_native": "Я... очень рад, что ты этой ночью наткнулась на мои эксперименты, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… дуже вдячний, що ти цієї ночі допомогла з моїми експериментами, Райлі."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0004",
+            "en": "You’ve played a major role in the dawn of a new existential understanding…",
+            "ru_native": "Ты сыграла важную роль на заре нового экзистенциального понимания...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти зіграла важливу роль на зорі нового екзистенційного розуміння…"
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0005",
+            "en": "…of what it means to be alive.",
+            "ru_native": "...того, что значит быть живым.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…того, що означає бути живим."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0006",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0007",
+            "en": "I’m sure someone as… resourceful as you would’ve managed.",
+            "ru_native": "Уверен, кто-то такой же находчивый, как ты, сумел бы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упевнений, хтось… настільки ж винахідливий, впорався би."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0008",
+            "en": "Hey, Honey? Are you up? Come here for a second.",
+            "ru_native": "Дорогая? Ты встала? Подойди на секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дорогенька? Не спиш? Підійди на секунду."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0009",
+            "en": "There’s—there’s one in the pantry—come here for a second.",
+            "ru_native": "В кладовой есть одна... подойди на секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У коморі є одна… підійди на секунду."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0010",
+            "en": "This is the woman I was telling you about.",
+            "ru_native": "Это та женщина, о которой я рассказывал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це та жінка, про яку я розповідав."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0011",
+            "en": "Riley—she’s the co-researcher of my spectral anthropologist tome.",
+            "ru_native": "Райли... она помогает мне с исследованиями антропологии призраков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі… вона допомагає мені з дослідженнями з антропології привидів."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0012",
+            "en": "No, she’s—this was total luck.",
+            "ru_native": "Нет, она... это чистое везение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, вона… просто випадково."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0013",
+            "en": "It’s in the—in the back, there.",
+            "ru_native": "Она... она там, сзади.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… вона там, позаду."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0014",
+            "en": "Oh c’mon, I can be extremely sunny when the time and place is appropriate.",
+            "ru_native": "Да ладно, я могу быть очень даже душкой, если время и место подходящее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, годі, я можу бути пупсиком, якщо для цього є час і місце."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0015",
+            "en": "I’m coming to bed in a minute, okay.",
+            "ru_native": "Я пойду спать через минуту, хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я піду спати за хвилину, добре?"
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0016",
+            "en": "Alright, thanks again, Riley. I should help my wife with the pump.",
+            "ru_native": "Хорошо, еще раз спасибо, Райли. Мне надо помочь жене с молокоотсосом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, ще раз дякую, Райлі. Мені треба допомогти дружині з молоковідсмоктувачем."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0017",
+            "en": "If you need anything else, don’t hesitate to call. I’ll be on most of the night.",
+            "ru_native": "Если что будет нужно, сразу звони. Я не буду спать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо щось буде потрібно, одразу викликай. Я не буду спати."
+        },
+        {
+            "tag": "WT03.HANLCH_HANK_0018",
+            "en": "Over and out!",
+            "ru_native": "Конец связи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку!"
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0000",
+            "en": "How happy are you, Hank, on a scale of one to famous ghost explorer? Over.",
+            "ru_native": "Хэнк, насколько ты рад по шкале от одного до<br>известного исследователя призраков. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, наскільки ти задоволений за шкалою від одного<br>до відомого дослідника привидів? Прийом."
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0001",
+            "en": "Mission accomplished, the shoe is delivered. Okay? You’re welcome. Over.",
+            "ru_native": "Миссия выполнена, ботинок доставлен. Всегда пожалуйста. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Місія виконана, черевик доставлений. Гаразд? Будь ласка. Прийом."
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0002",
+            "en": "Yeah, well, I’d expect you to be quite pleased I tripped over your wires.",
+            "ru_native": "Да, представляю, насколько ты рад, что я споткнулась о твои провода.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, уявляю, наскільки ти радий, що я спіткнулася об твої дроти."
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0003",
+            "en": "Worked out pretty well for you.",
+            "ru_native": "Повезло тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пощастило тобі."
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0004",
+            "en": "Hey, you helped us, too, Hank.",
+            "ru_native": "Эй, ты тоже нас выручил, Хэнк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ти теж нам допоміг, Хенку."
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0005",
+            "en": "We couldn’t have gotten through the Garland mine without your boosters. Over.",
+            "ru_native": "Мы бы не прошли через шахты Гарленда без твоих усилителей. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми б не пройшли через шахти Гарленда без твоїх підсилювачів. Прийом."
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0006",
+            "en": "Hey, any time, Hank. Glad to be of service.",
+            "ru_native": "Обращайся, Хэнк. Рады были помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, Хенку. Завжди рада допомогти."
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0007",
+            "en": "Um, forgive me, and don’t take this the wrong way, but I did not picture you as the family man type. Over.",
+            "ru_native": "Хм, извини, не пойми неправильно, но я не думала, что у тебя есть семья. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, вибач, не зрозумій неправильно, але я не думала, що в тебе сім’я. Прийом."
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0008",
+            "en": "Oh, well, nice to meet you, too. What an unexpected guest star. Over.",
+            "ru_native": "О, мне тоже приятно познакомиться. Какая неожиданность. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, мені теж приємно познайомитися. Це було неочікувано. Прийом."
+        },
+        {
+            "tag": "WT03.HANLCH_RILEY_0009",
+            "en": "Oh, sorry! You sound, uh, freshly woken.",
+            "ru_native": "Ой, простите! Похоже, вы только проснулись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибач! Схоже, ти щойно прокинувся."
+        }
+    ]
+}

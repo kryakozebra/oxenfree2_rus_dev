@@ -1,0 +1,159 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2LA.APPLAT",
+    "entries": [
+        {
+            "tag": "A2LA.APPLAT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.APPLAT_CHOICE_0000_OPTION_0000",
+            "en": "Fingers crossed.",
+            "ru_native": "Надеюсь, сработает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіватимемося."
+        },
+        {
+            "tag": "A2LA.APPLAT_CHOICE_0000_OPTION_0001",
+            "en": "I’ll believe it when I see it.",
+            "ru_native": "Не поверю, пока не увижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не повірю, доки не побачу."
+        },
+        {
+            "tag": "A2LA.APPLAT_CHOICE_0000_OPTION_0002",
+            "en": "I’m quitting the job.",
+            "ru_native": "Я ухожу с работы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я йду з роботи."
+        },
+        {
+            "tag": "A2LA.APPLAT_JACOB_0000",
+            "en": "Okay, just up there.",
+            "ru_native": "Ладно, наверх.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, нагору."
+        },
+        {
+            "tag": "A2LA.APPLAT_JACOB_0001",
+            "en": "And after the transmitter’s planted, that… should be it. Right?",
+            "ru_native": "Передатчик установлен, так что... все. Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після того, як ми встановимо радіопередавач, це… все. Так?"
+        },
+        {
+            "tag": "A2LA.APPLAT_JACOB_0002",
+            "en": "The portal should close? ",
+            "ru_native": "Портал должен закрыться? ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Портал має зачинитися? "
+        },
+        {
+            "tag": "A2LA.APPLAT_JACOB_0003",
+            "en": "With any luck, at least.",
+            "ru_native": "Если повезет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо пощастить."
+        },
+        {
+            "tag": "A2LA.APPLAT_JACOB_0004",
+            "en": "I’d say we’re due some.",
+            "ru_native": "Я бы сказал, нам причитается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б сказав, що фортуна в нас у боргу."
+        },
+        {
+            "tag": "A2LA.APPLAT_JACOB_0005",
+            "en": "Well. After you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну. После тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2LA.APPLAT_JACOB_0006",
+            "en": "I think after tonight I’m going to officially not rely on hope anymore.",
+            "ru_native": "Думаю, после этой ночи, я официально зарекусь полагаться на надежды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що після сьогоднішнього вечора я більше не буду покладатися на надію."
+        },
+        {
+            "tag": "A2LA.APPLAT_JACOB_0007",
+            "en": "Y-yeah.",
+            "ru_native": "Ага.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Т-так."
+        },
+        {
+            "tag": "A2LA.APPLAT_JACOB_0008",
+            "en": "After tonight, waiting on miserable families sounds downright refreshing.",
+            "ru_native": "После этой ночи обслуживать всяких грубиянов прям за радость.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після сьогоднішнього вечора очікування жалюгідних сімей просто надихає."
+        },
+        {
+            "tag": "A2LA.APPLAT_RILEY_0000",
+            "en": "Yeah. Here’s hoping.",
+            "ru_native": "Да. Надеюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Сподіваюсь."
+        },
+        {
+            "tag": "A2LA.APPLAT_RILEY_0001",
+            "en": "I’ll believe it when I stop smelling death everywhere.",
+            "ru_native": "Я поверю, когда повсюду перестанет пахнуть смертью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я повірю, коли скрізь перестане тхнути смертю."
+        },
+        {
+            "tag": "A2LA.APPLAT_RILEY_0002",
+            "en": "I’m quitting, by the way. First and last day, that’s today.",
+            "ru_native": "Кстати, я увольняюсь. Сегодня мой первый и последний день.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До речі, я звільняюся. Сьогодні мій перший та останній день."
+        },
+        {
+            "tag": "A2LA.APPLAT_RILEY_0003",
+            "en": "I never thought I’d miss the service industry.",
+            "ru_native": "Никогда не думала, что буду скучать по сфере услуг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи не думала, що сумуватиму за сферою послуг."
+        }
+    ]
+}

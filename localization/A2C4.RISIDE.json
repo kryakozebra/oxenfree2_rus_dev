@@ -1,0 +1,204 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2C4.RISIDE",
+    "entries": [
+        {
+            "tag": "A2C4.RISIDE_CHOICE_0000_OPTION_0000",
+            "en": "Nothing.",
+            "ru_native": "Ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого."
+        },
+        {
+            "tag": "A2C4.RISIDE_CHOICE_0000_OPTION_0001",
+            "en": "[LIE] Your house is on fire.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [LIE] Твой дом горит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[БРЕХНЯ] Твоя хата горить."
+        },
+        {
+            "tag": "A2C4.RISIDE_CHOICE_0001_OPTION_0000",
+            "en": "I’m hilarious.",
+            "ru_native": "I’m очень смешно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це кумедно."
+        },
+        {
+            "tag": "A2C4.RISIDE_CHOICE_0001_OPTION_0001",
+            "en": "I’m serious, it’s on fire.",
+            "ru_native": "Я не шучу, it’s on жарко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не шуткую, вона горить."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0000",
+            "en": "You see anything over there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты видишь что-нибудь там?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось бачиш там?"
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0001",
+            "en": "Like uh–I dunno.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Например, я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу… я не знаю."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0002",
+            "en": "Like a bear?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Например, медведя?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу ведмедя?"
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0003",
+            "en": "That’s probably good. We’ve seen plenty of something tonight.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Наверное, это хорошо. Сегодня мы видели много чего.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це, напевно, добре. Сьогодні ми вже бачили багато чого."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0004",
+            "en": "Nothing? It’s mostly nothing out here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ничего? В основном здесь ничего нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого? Майже нічого там."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0005",
+            "en": "And tonight? I like nothing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL А сегодня вечером? Мне ничего не нравится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А сьогодні? Мені подобається, що там нічого."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0006",
+            "en": "What?!",
+            "ru_native": "Что?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?!"
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0007",
+            "en": "[panic then realization] That’s–not–the truth. You can’t see my house from there. Funny.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [Это неправда. Оттуда не видно моего дома. Смешно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[паніка, потім усвідомлення] Це неправда.<br>Ти не можеш побачити мій будинок звідси. Кумедно."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0008",
+            "en": "Devil woman.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Женщина-дьявол.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жінка-диявол."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0009",
+            "en": "Riley the Wretched.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли Убогий.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі Жахлива."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0010",
+            "en": "You’re gonna feel like fried dog crap if it is on fire right now…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты будешь чувствовать себя как жареное собачье дерьмо, если оно сейчас горит...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти почуватимешся мерзенно, якщо вона зараз насправді горить…"
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0011",
+            "en": "Man, now I’m hoping it is out of sheer spite. I have insurance, bring it on.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Блин, теперь я надеюсь, что это из чистой злобы. У меня есть страховка, давай.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько, тепер я сподіваюся, що це не через чисту злобу.<br>У мене є страховка, якщо що."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0012",
+            "en": "Uh-huh, yup, she’s a real chuckle factory, folks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Угу, да, она настоящая фабрика смеха, друзья.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, так, чуєте, вона справжня стендаперка."
+        },
+        {
+            "tag": "A2C4.RISIDE_JACOB_0013",
+            "en": "Don’t fall, ‘cause now I’m not catching you if you do!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не падай, потому что теперь я тебя не поймаю, если ты упадешь!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не впади, бо тепер я не ловитиму тебе, якщо ти впадеш!"
+        },
+        {
+            "tag": "A2C4.RISIDE_RILEY_0000",
+            "en": "Nothing, and plenty of it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ничего, и много.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого, і ще трішки."
+        },
+        {
+            "tag": "A2C4.RISIDE_RILEY_0001",
+            "en": "Uh–I think your house is on fire?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ух, кажется, твой дом горит?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, твоя хата горить."
+        },
+        {
+            "tag": "A2C4.RISIDE_RILEY_0002",
+            "en": "God, I’m hilarious.",
+            "ru_native": "God, I’m очень смешно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, яка ж я кумедна."
+        },
+        {
+            "tag": "A2C4.RISIDE_RILEY_0003",
+            "en": "No, dude, I mean it, it’s burning down.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, чувак, я серьезно, он горит дотла.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, чуєш, я серйозно, вона горить."
+        }
+    ]
+}

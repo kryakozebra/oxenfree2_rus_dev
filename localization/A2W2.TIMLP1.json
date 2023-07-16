@@ -1,0 +1,204 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.TIMLP1",
+    "entries": [
+        {
+            "tag": "A2W2.TIMLP1_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TIMLP1_CHOICE_0000_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_CHOICE_0000_OPTION_0001",
+            "en": "Who is this.",
+            "ru_native": "Кто это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_CHOICE_0000_OPTION_0002",
+            "en": "Park Ranger?",
+            "ru_native": "Рейнджер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наглядачка?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TIMLP1_CHOICE_0001_OPTION_0000",
+            "en": "Huh?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_CHOICE_0001_OPTION_0001",
+            "en": "What warranty?",
+            "ru_native": "Какая гарантия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якої гарантії?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_CHOICE_0001_OPTION_0002",
+            "en": "[Hang up]",
+            "ru_native": "[Повесить трубку]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Покласти слухавку]"
+        },
+        {
+            "tag": "A2W2.TIMLP1_PHONE_0000",
+            "en": "[soft breathing]",
+            "ru_native": "[ID-0]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихе дихання]"
+        },
+        {
+            "tag": "A2W2.TIMLP1_RILEY_0000",
+            "en": "Um. Hello?",
+            "ru_native": "Эм. Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, алло?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_RILEY_0001",
+            "en": "Who is this?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_RILEY_0002",
+            "en": "Uh, is this the Park Ranger?",
+            "ru_native": "Эм, это рейнджер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це наглядачка?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_RILEY_0003",
+            "en": "Huh? You either have the wrong number or you’re spamming a Ranger desk.",
+            "ru_native": "Что? Вы или ошиблись номером, или просто достаете рейнджера.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Ви або помилилися номером, або просто дістаєте наглядачів."
+        },
+        {
+            "tag": "A2W2.TIMLP1_RILEY_0004",
+            "en": "Uh, what warranty? What are you talking about—who is this?",
+            "ru_native": "Какая еще гарантия? О чем вы? Кто это говорит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яка ще гарантія? Про що ви? Хто це?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_RILEY_0005",
+            "en": "It’s spam. Some robot.",
+            "ru_native": "Это спам. Какой-то робот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це спам. Якийсь робот."
+        },
+        {
+            "tag": "A2W2.TIMLP1_VOICE_0000",
+            "en": "Hello. We are calling to talk to you about your extended warranty, which is expiring soon.",
+            "ru_native": "Здравствуйте. Мы звоним, чтобы напомнить, что<br>срок вашей продленной гарантии скоро истечет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добий день. Ми телефонуємо, щоби нагадати,<br>що термін вашої подовженої гарантії добігає кінця."
+        },
+        {
+            "tag": "A2W2.TIMLP1_VOICE_0001",
+            "en": "You should have received something in the mail. Please consider this a final courtesy call.",
+            "ru_native": "Вы должны были получить письмо на почту. Считайте это последним предупреждением.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви мали отримати листа на пошту. Це останнє попередження."
+        },
+        {
+            "tag": "A2W2.TIMLP1_VOICE_0002",
+            "en": "Do you have a moment to discuss this?",
+            "ru_native": "У вас есть время, чтобы это обсудить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У вас є час, щоби поговорити про це?"
+        },
+        {
+            "tag": "A2W2.TIMLP1_VOICE_0003",
+            "en": "[distorted] It is extremely time-sensitive.",
+            "ru_native": "Это очень срочно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це дуже терміново."
+        },
+        {
+            "tag": "A2W2.TIMLP1_VOICE_0004",
+            "en": "[distorted] This is not a wrong number.",
+            "ru_native": "Никакой ошибки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не помилка."
+        },
+        {
+            "tag": "A2W2.TIMLP1_VOICE_0005",
+            "en": "[distorted] We are calling about your warranty.",
+            "ru_native": "Мы звоним по поводу вашей гарантии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми телефонуємо щодо вашої гарантії."
+        },
+        {
+            "tag": "A2W2.TIMLP1_VOICE_0006",
+            "en": "[ominous voice] Riley. <i>You</i> are expiring soon. Consider this a courtesy.",
+            "ru_native": "Райли. Твой срок истекает. Считай это предупреждением.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі. Твій час добігає кінця. Це попередження."
+        }
+    ]
+}

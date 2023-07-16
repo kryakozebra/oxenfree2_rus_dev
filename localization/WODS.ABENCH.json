@@ -1,0 +1,528 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WODS.ABENCH",
+    "entries": [
+        {
+            "tag": "WODS.ABENCH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0000_OPTION_0000",
+            "en": "My Dad and I hiked these woods.",
+            "ru_native": "Мы с папой ходили в походы по этому лесу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з татом ходили в походи в цьому лісі."
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0000_OPTION_0001",
+            "en": "Yeah, it is.",
+            "ru_native": "Да, верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так."
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0001_OPTION_0000",
+            "en": "A sign of what?",
+            "ru_native": "Знак чего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знак щодо чого?"
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0001_OPTION_0001",
+            "en": "Oregon doesn't get tornadoes.",
+            "ru_native": "В Орегоне не бывает ураганов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "В Орегоні не буває торнадо."
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0001_OPTION_0002",
+            "en": "Let's get moving.",
+            "ru_native": "Пошли дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пішли."
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0002_OPTION_0000",
+            "en": "We misheard each other.",
+            "ru_native": "Мы друг друга не поняли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми неправильно почули один одного."
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0002_OPTION_0001",
+            "en": "I was just joking.",
+            "ru_native": "Я просто пошутила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто пожартувала."
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0003_OPTION_0000",
+            "en": "What does that mean?",
+            "ru_native": "Что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це означає?"
+        },
+        {
+            "tag": "WODS.ABENCH_CHOICE_0003_OPTION_0001",
+            "en": "Yeah, no kidding.",
+            "ru_native": "Да, без шуток.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, без жартів."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0000",
+            "en": "It turned out to be a really nice night.",
+            "ru_native": "Приятная ночка выдалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Видався насправді гарний вечір."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0001",
+            "en": "[clears throat]",
+            "ru_native": "(откашливается)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[прочищає горло]"
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0002",
+            "en": "[sigh of relief]",
+            "ru_native": "(облегченно вздыхает)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[видихає з полегшенням]"
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0003",
+            "en": "Weather guy didn't say it was gonna be this nice.",
+            "ru_native": "Парень из прогноза погоды не обещал, что будет так хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Синоптик не казав, що буде настільки добре."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0004",
+            "en": "But Carl is usually wrong. So.",
+            "ru_native": "Но Карл частенько ошибается. Так что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але Карл, як правило, помиляється. Тож…"
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0005",
+            "en": "Feels honestly a little like tornado weather.",
+            "ru_native": "Честно говоря, немного похоже на ураган.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно кажучи, трохи нагадує погоду, наче під час торнадо."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0006",
+            "en": "Which… they don't really happen in Oregon, you know?",
+            "ru_native": "А их обычно в Орегоне не бывает, ты в курсе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яких… насправді не буває в Орегоні, розумієш?"
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0007",
+            "en": "Maybe it's a sign.",
+            "ru_native": "Может, это знак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, це знак."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0008",
+            "en": "Yeah. That… or something else.",
+            "ru_native": "Да. Или чего-то еще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Щодо цього… чи чогось іншого."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0009",
+            "en": "Yeah, but… when they come… watch out.",
+            "ru_native": "Да, но когда они идут... берегись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але… коли трапляється… бережися."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0010",
+            "en": "Yeah. Sorry.",
+            "ru_native": "Да, прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вибач."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0011",
+            "en": "Oh? I thought this was your first time to the area, though?",
+            "ru_native": "Да? Я думал, ты тут первый раз?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оу? Але я думав, що ти вперше тут?.."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0012",
+            "en": "Right?",
+            "ru_native": "Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж?"
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0013",
+            "en": "Or am I misremembering?",
+            "ru_native": "Или я путаю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи я щось переплутав?.."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0014",
+            "en": "Oh… Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, гаразд."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0015",
+            "en": "It's okay, I shouldn't pry, I'm not trying to… trip you up or anything.",
+            "ru_native": "Все нормально, прости, что лезу не в свое дело.<br>Я не пытаюсь тебя подловить или еще чего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, мені не варто лізти в це, я не намагаюся… зачепити тебе чи щось таке."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0016",
+            "en": "You've been here, you haven't been here… I don't need to know.",
+            "ru_native": "Была ты тут раньше или не была... Мне это знать не нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи була ти тут, чи не була… Мені не варто перейматися через це."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0017",
+            "en": "It'd be weird if I did.",
+            "ru_native": "Иначе было бы странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було б дивно, якби я переймався."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0018",
+            "en": "These woods will kill you if you let them.",
+            "ru_native": "Этот лес убьет тебя, если ты ему позволишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цей ліс може вбити, якщо бути необачним."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0019",
+            "en": "[sniffs]",
+            "ru_native": "(сопит)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[принюхується]"
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0020",
+            "en": "Oh… you know.",
+            "ru_native": "О... сама понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох… ну, ти розумієш."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0021",
+            "en": "We have a pretty big black bear population. So. That and other stuff.",
+            "ru_native": "У нас тут водится много черных медведей. Вот. И не только.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас досить велика популяція чорних ведмедів. Так. Це та таке інше."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0022",
+            "en": "Yeah. That… and other stuff.",
+            "ru_native": "Да. Это... и не только.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Це… та таке інше."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0023",
+            "en": "Alright! Thanks for the stop. Helped me catch my breath.",
+            "ru_native": "Спасибо за привал. Хотя бы отдышался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що перепочили. Це допомогло мені перевести подих."
+        },
+        {
+            "tag": "WODS.ABENCH_JACOB_0024",
+            "en": "Let's get you to the summit. See if that dumb dog's around.",
+            "ru_native": "Дойдем до вершины. Вдруг эта глупая собака там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пішли, доправимо тебе на вершину. Перевіримо, чи та нерозумна собака там."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0000",
+            "en": "Yeah, it, uh… it is.",
+            "ru_native": "Да... верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ем… так."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0001",
+            "en": "Uh, a sign of what? A tornado?",
+            "ru_native": "Знак чего? Урагана?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знак щодо чого? Щодо торнадо?"
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0002",
+            "en": "Oregon only gets a tornado like once every twenty years.",
+            "ru_native": "В Орегоне ураганы бывают раз в двадцать лет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "В Орегоні торнадо трапляється лише раз на двадцять років."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0003",
+            "en": "C'mon. Let's get going.",
+            "ru_native": "Ладно, пошли дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нумо. Пішли."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0004",
+            "en": "My, uh, dad and I walked these woods before.",
+            "ru_native": "Мы с отцом раньше ходили по этим лесам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з татом гуляли раніше цим лісом."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0005",
+            "en": "Oh, no, I, uh, I have been here before.",
+            "ru_native": "А, нет, я раньше тут была.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ні, я бувала тут раніше."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0006",
+            "en": "I'm sorry—I just didn't understand the question.",
+            "ru_native": "Прости, я просто не поняла вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач… я просто не зрозуміла питання."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0007",
+            "en": "I've been here, just not, like, for this… job.",
+            "ru_native": "Я тут была, просто не по работе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вже бувала тут, просто… не через цю роботу."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0008",
+            "en": "But, uh—",
+            "ru_native": "Но, хм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0009",
+            "en": "Oh, no, sorry. I was just… joking.",
+            "ru_native": "Ой, прости. Я... пошутила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ні, вибач. Я просто… пожартувала."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0010",
+            "en": "Yeah, but, uh, anyways—",
+            "ru_native": "Так, о чем я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але все одно…"
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0011",
+            "en": "I was… five or six, and we were coming up to the entrance to the, uh, the park?",
+            "ru_native": "Мне было... пять или шесть, и мы подходили ко входу в, эм, парк?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені було… п’ять чи шість, і ми підійшли до входу в парк…"
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0012",
+            "en": "And… I saw something. Off in the woods, something that—I just remember it made me slip—",
+            "ru_native": "И... я кое-что увидела. В лесу, что-то, что...<br>Только помню, я из-за этого поскользнулась...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… Я щось побачила. Щось дивне в лісі… Я тільки пам’ятаю, як я послизнулася…"
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0013",
+            "en": "—and fall a little. And my dad, he pulled me back so I wouldn't go off the ledge.",
+            "ru_native": "...и чуть не упала. А отец дернул меня назад, чтобы я не свалилась с уступа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і майже впала. А мій тато відтягнув мене назад, щоби я не злетіла вниз."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0014",
+            "en": "He hurt my shoulder, and… I had to go to the hospital.",
+            "ru_native": "Он повредил мне плечо, и... пришлось идти в больницу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він пошкодив мені плече, і… мені довелося їхати в лікарню."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0015",
+            "en": "I've actually… I've actually always hated these woods.",
+            "ru_native": "На самом деле я всегда ненавидела этот лес.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я насправді… Насправді я завжди ненавиділа цей ліс."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0016",
+            "en": "I didn't even remember that I hated them until now.",
+            "ru_native": "Но только сейчас вспомнила почему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я навіть не пам’ятала, що ненавиджу його до цього часу."
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0017",
+            "en": "These woods'll kill you? What does that mean?",
+            "ru_native": "Лес, убьет? В каком смысле?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цей ліс може вбити? Ти про що?"
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0018",
+            "en": "Yeah, I mean… you trip, you fall, you get a tick in your boot, a rattlesnake in your hat…",
+            "ru_native": "Да, я имею в виду... ты можешь споткнуться, упасть, к тебе<br>может залезть клещ в ботинок или гремучая змея с шапку...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, тобто… спіткнешся, впадеш, і в тебе вже кліщ у чоботі, гримуча змія в капелюсі…"
+        },
+        {
+            "tag": "WODS.ABENCH_RILEY_0019",
+            "en": "The existential dangers start to add up.",
+            "ru_native": "Экзистенциальные опасности начинают складываться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Суцільні небезпеки починають оточувати тебе."
+        }
+    ]
+}

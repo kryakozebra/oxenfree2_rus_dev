@@ -1,0 +1,312 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "GLOB.WAYSPO",
+    "entries": [
+        {
+            "tag": "GLOB.WAYSPO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.WAYSPO_CHOICE_0000_OPTION_0000",
+            "en": "Always room for more strikes.",
+            "ru_native": "Неудачи могут продолжиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може бути й більше нещасть."
+        },
+        {
+            "tag": "GLOB.WAYSPO_CHOICE_0000_OPTION_0001",
+            "en": "Be more grateful.",
+            "ru_native": "Радуйся тому, что есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більше вдячності."
+        },
+        {
+            "tag": "GLOB.WAYSPO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.WAYSPO_CHOICE_0001_OPTION_0000",
+            "en": "Creepy.",
+            "ru_native": "Жуть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моторошно."
+        },
+        {
+            "tag": "GLOB.WAYSPO_CHOICE_0001_OPTION_0001",
+            "en": "Dreams are meaningless.",
+            "ru_native": "Сны бессмысленны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сни нічого не означають."
+        },
+        {
+            "tag": "GLOB.WAYSPO_CHOICE_0001_OPTION_0002",
+            "en": "Focus.",
+            "ru_native": "Сконцентрируйся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередься."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0000",
+            "en": "Man, total strike-out tonight in terms of luck.",
+            "ru_native": "Сегодня какая-то череда неудач.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт, цієї ночі нас переслідують нещастя."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0001",
+            "en": "Broken truck, lost dog…",
+            "ru_native": "Грузовик сломался, собака потерялась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Автомобіль поламався, собака загубилася…"
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0002",
+            "en": "And now uh–this…situation.",
+            "ru_native": "А теперь эта... ситуация.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер іще й оця ситуація."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0003",
+            "en": "However you’d classify it.",
+            "ru_native": "Как ее хоть назвать-то?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як її не назви."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0004",
+            "en": "Cause I–have no idea.",
+            "ru_native": "Лично я без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже я гадки не маю."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0005",
+            "en": "And hey there’s strike four!",
+            "ru_native": "А вот и четвертая неудача!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А от і нещастя «чотири»."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0006",
+            "en": "But self-pity is just so much easier. But yeah yeah, you’re right.",
+            "ru_native": "Жалеть себя гораздо проще. Но да, ты права.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але жаліти себе набагато легше. Проте ти маєш рацію."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0007",
+            "en": "Last night I had a dream. I was taking a walk and someone was approaching.",
+            "ru_native": "Прошлой ночью приснилось, как я гулял, и ко мне подошел человек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Минулої ночі мені наснився сон. Коли я прогулювався, до мене хтось підійшов."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0008",
+            "en": "Turned out it was–me. And like, not a mirror, it was another me.",
+            "ru_native": "Оказалось, что это был я. Не отражение, а другая версия меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я обернувся — то був я. Ніби в дзеркалі, інший я."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0009",
+            "en": "Only…he didn’t have a face. And then I reached up to see if I did but…",
+            "ru_native": "Только у него не было лица. И я потянулся проверить свое лицо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки… у нього не було обличчя. Я простягнув руку,<br>щоби перевірити, чи моє обличчя на місці, але…"
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0010",
+            "en": "Athena barked me awake before I could find out.",
+            "ru_native": "Но не успел, Будда залаяла и разбудила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Афіна загавкала, і я прокинувся, перш ніж зміг з’ясувати."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0011",
+            "en": "[snapping back to reality] Uh–sorry, that just came to me right now.",
+            "ru_native": "Прости, почему-то вспомнилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Повертається до реальності] Вибач, це спало на думку просто зараз."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0012",
+            "en": "Just–popped out of nowhere.",
+            "ru_native": "Всплыло из ниоткуда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто нізвідки."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0013",
+            "en": "Sorry.",
+            "ru_native": "Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0014",
+            "en": "Yeah, it stuck with me for most of the morning.",
+            "ru_native": "Да, все утро не мог отделаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думаю про це увесь ранок."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0015",
+            "en": "[quietly, half to self] Dunno…didn’t–ya know–didn’t feel like nonsense.",
+            "ru_native": "Не знаю... На чушь не было похоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Тихо, вполовину до себе] Не знаю… Це не здавалося дурнею."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0016",
+            "en": "[shaking it off] Yeah, totally, sorry that one just jumped in front of me.",
+            "ru_native": "Да, верно, прости. Просто вспомнилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Відволікається] Так, авжеж, вибач. Це просто насіло на мене."
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0017",
+            "en": "Anyway, shake it off, Summers, right?",
+            "ru_native": "Так, Саммерс, выброси чушь из головы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У будь-якому випадку, слід відволіктися, Саммерс. Розумієш?"
+        },
+        {
+            "tag": "GLOB.WAYSPO_JACOB_0018",
+            "en": "[to self] Heh…right.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[До себе] Хе… розумію."
+        },
+        {
+            "tag": "GLOB.WAYSPO_RILEY_0000",
+            "en": "Hey never say never. Strikes don’t necessarily have to stop at three.",
+            "ru_native": "Не зарекайся. Череда не обязательно заканчивается на трех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи не кажи «ніколи». Нещастя можуть і не обмежитися числом «три»."
+        },
+        {
+            "tag": "GLOB.WAYSPO_RILEY_0001",
+            "en": "There’s always room for more.",
+            "ru_native": "Всегда есть еще место.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може бути й більше."
+        },
+        {
+            "tag": "GLOB.WAYSPO_RILEY_0002",
+            "en": "C’mon, don’t give in to self-pity. You can walk, there’s still–ya know–oxygen in the atmosphere.",
+            "ru_native": "Не поддавайся жалости к себе. Ты можешь ходить, в атмосфере все еще есть кислород.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не піддавайся жалості до себе. Можна ходити, в атмосфері ще є повітря."
+        },
+        {
+            "tag": "GLOB.WAYSPO_RILEY_0003",
+            "en": "Positive thinking, it ain’t just a fad, it’s brain science.",
+            "ru_native": "Позитивное мышление – не фигня, а доказанный факт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Позитивне мислення — не просто фантазія, це наука для мозку."
+        },
+        {
+            "tag": "GLOB.WAYSPO_RILEY_0004",
+            "en": "Super creepy.",
+            "ru_native": "Жуть какая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Супермоторошно."
+        },
+        {
+            "tag": "GLOB.WAYSPO_RILEY_0005",
+            "en": "Dreams are complete nonsense. It’s just your brain–ya know–sweeping up.",
+            "ru_native": "Сны – полная чушь. Просто твой мозг пытается почистить сам себя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сни — повна дурня. Так мозок людини розвантажується."
+        },
+        {
+            "tag": "GLOB.WAYSPO_RILEY_0006",
+            "en": "Don’t read too much into it. Or at all.",
+            "ru_native": "Не придавай особого значения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не замислюйся надто. Або взагалі не замислюйся."
+        },
+        {
+            "tag": "GLOB.WAYSPO_RILEY_0007",
+            "en": "Put it in a journal, dude, we gotta focus.",
+            "ru_native": "Чувак, запиши сон в тетрадку, у нас есть дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запиши це, друже. Нам потрібно зосередитися."
+        }
+    ]
+}

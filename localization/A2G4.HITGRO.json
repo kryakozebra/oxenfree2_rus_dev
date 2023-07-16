@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G4.HITGRO",
+    "entries": [
+        {
+            "tag": "A2G4.HITGRO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.HITGRO_CHOICE_0000_OPTION_0000",
+            "en": "Where’s Jacob?",
+            "ru_native": "Где Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Джейкоб?"
+        },
+        {
+            "tag": "A2G4.HITGRO_CHOICE_0000_OPTION_0001",
+            "en": "It’s so dark.",
+            "ru_native": "Так темно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут так темно."
+        },
+        {
+            "tag": "A2G4.HITGRO_RILEY_0000",
+            "en": "Jacob! Where are you?",
+            "ru_native": "Джейкоб! Где ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Де ти?"
+        },
+        {
+            "tag": "A2G4.HITGRO_RILEY_0001",
+            "en": "God, I… I can’t see anything.",
+            "ru_native": "Боже, я... Я ничего не вижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, я… Я нічого не бачу."
+        }
+    ]
+}

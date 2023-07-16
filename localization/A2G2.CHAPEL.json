@@ -1,0 +1,402 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.CHAPEL",
+    "entries": [
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0000_OPTION_0000",
+            "en": "They’re harmless.",
+            "ru_native": "Они безобидные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони безпечні."
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0000_OPTION_0001",
+            "en": "This one is creepy.",
+            "ru_native": "Эта – жуткая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця моторошна."
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0000_OPTION_0002",
+            "en": "It’s a mixed bag.",
+            "ru_native": "Не все однозначно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не все однозначно."
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0001_OPTION_0000",
+            "en": "What about the church tower?",
+            "ru_native": "Что насчет колокольни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як щодо вежі церкви?"
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0001_OPTION_0001",
+            "en": "Why go up there?",
+            "ru_native": "Может, поднимемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для чого підійматися туди?"
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0001_OPTION_0002",
+            "en": "Sure.",
+            "ru_native": "Окей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0002_OPTION_0000",
+            "en": "Let's try the church.",
+            "ru_native": "Давай попробуем церковь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуймо церкву."
+        },
+        {
+            "tag": "A2G2.CHAPEL_CHOICE_0002_OPTION_0001",
+            "en": "Mines it is, then.",
+            "ru_native": "Я за шахты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, вирішено: у шахти."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0000",
+            "en": "All churches—chapels—are… creepy to me.",
+            "ru_native": "Все церкви и соборы, как по мне, жуткие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі церкви й каплиці… моторошні для мене."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0001",
+            "en": "I grew up Jewish, so these places always felt \"not for me\".",
+            "ru_native": "Я же еврей, так что в таких местах я всегда «лишний».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ж єврей. Тому в цих місцях мені завжди не по собі."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0002",
+            "en": "Always gave them a certain… je ne sais creep.",
+            "ru_native": "Они на меня всегда жуть нагоняли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони й на мене наганяли певний жах."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0003",
+            "en": "It happens.",
+            "ru_native": "Бывает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буває."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0004",
+            "en": "Well I do approve of both of those.",
+            "ru_native": "Что ж, я «за» по обоим пунктам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я схвалюю обидва пункти."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0005",
+            "en": "Good woodworking, though, I’ll give them that.",
+            "ru_native": "Надо признать, с деревом тут поработали на славу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вправна робота по дереву. Віддаю належне."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0006",
+            "en": "I mean—I didn’t exactly love our temple either, but…",
+            "ru_native": "Я к тому, что мне наш храм тоже не особо нравился, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто мені наш храм також не подобається, але…"
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0007",
+            "en": "…that’s what happens when you’re sitting through Rosh Hashanah services for the ten billionth time—",
+            "ru_native": "...вот что бывает, когда сидишь на службе в честь Рош ха-Шана в миллиардный раз...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…таке буває, коли сидиш на службі на честь Рош ха-Шана в мільярдний раз…"
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0008",
+            "en": "—knowing you have video games waiting for you at home.",
+            "ru_native": "...и знаешь, что дома тебя ждет приставка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…а на тебе вдома чекають відеоігри."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0009",
+            "en": "I think the roof is our best bet for the transmitter.",
+            "ru_native": "Думаю, передатчик лучше всего поставить на крыше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0010",
+            "en": "Let’s go inside—find the stairs.",
+            "ru_native": "Пошли внутрь, искать лестницу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0011",
+            "en": "Oh hey, see that?",
+            "ru_native": "Ого, видишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ти бачиш це?"
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0012",
+            "en": "Not the church, but the—behind the church.",
+            "ru_native": "Не церковь, а... то, что за ней.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не церкву, а позаду церкви."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0013",
+            "en": "That’s part of the old mine system. We could probably get up there, if we find the other end of the tunnel.",
+            "ru_native": "Это часть старой системы шахт. Мы могли бы<br>подняться туда, если бы нашли другой конец туннеля.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це стара система шахт. Мабуть, ми можемо потрапити туди,<br>якщо знайдемо інший вихід із тунелю."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0014",
+            "en": "Which, you know. Big if.",
+            "ru_native": "Но есть одно большое «но».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але є одне «але»."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0015",
+            "en": "Right, sorry. Got ahead of myself a little.",
+            "ru_native": "Извини. Сам себя опередил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно, вибач. Сам себе випередив."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0016",
+            "en": "What I mean is that the ledge up there seems like the best spot to drop a transmitter. To me.",
+            "ru_native": "Я к тому, что вон тот выступ – идеальное место для передатчика. Как по мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю на увазі, що той виступ — ідеальне місце<br>для встановлення радіопередавача. Як на мене."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0017",
+            "en": "But, full transparency, I honestly just wanted to suggest a plan A before it became, \"Let's climb the rickety church tower.\"",
+            "ru_native": "Но, честно говоря, я просто хотел предложить план А, пока он<br>не превратился в «давай поднимемся на шаткую колокольню».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, чесно кажучи, я хотів запропонувати план А, перш ніж він стане<br>«підіймімося на хитку вежу церкви»."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0018",
+            "en": "Maybe you have other ideas.",
+            "ru_native": "Может, у тебя есть другие идеи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, у тебе є інші ідеї."
+        },
+        {
+            "tag": "A2G2.CHAPEL_JACOB_0019",
+            "en": "Hey, you're the one with the transmitters.",
+            "ru_native": "Ну, передатчики-то у тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіопередавачі ж у тебе."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0000",
+            "en": "Cute and creepy. Not your usual flavor pairing.",
+            "ru_native": "Мило и жутко. Необычное сочетание.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мило й лячно. Незвичайне поєднання."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0001",
+            "en": "Eh, they’re harmless.",
+            "ru_native": "Они безобидные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони безпечні."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0002",
+            "en": "Well, not all of them, but… small ones like this? Usually just some benches and a bathroom.",
+            "ru_native": "Ну, не все, но... вот такие, маленькие. Где пара скамеек и уборная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… не всі, але… невеликі, як ця? Зазвичай у них лише кілька лав і туалет."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0003",
+            "en": "No, this one is legit creepy.",
+            "ru_native": "Нет, эта реально жуткая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ця точно моторошна."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0004",
+            "en": "I don’t blame you.",
+            "ru_native": "Я тебя не виню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тебе розумію."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0005",
+            "en": "Eh… some are awful, some aren’t.",
+            "ru_native": "Ну... есть ужасные, есть нормальные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… деякі жахливі, деякі ні."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0006",
+            "en": "Like people. Like everything.",
+            "ru_native": "Как люди. Как все на свете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як і люди. Як і все."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0007",
+            "en": "Um, sorry—am I missing something?",
+            "ru_native": "Прости... не поняла?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, не зрозуміла."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0008",
+            "en": "I mean—hey who doesn’t love claustrophobia and centipedes but…",
+            "ru_native": "Ну, кто не любит пауков и замкнутые пространства, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, хто не любить замкнений простір і стоног, але…"
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0009",
+            "en": "How does that help what we're doing?",
+            "ru_native": "Какое это имеет отношение к нам?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як це допоможе нашій справі?"
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0010",
+            "en": "I feel like you literally pointed past a more obvious choice.",
+            "ru_native": "По-моему, ты сейчас довольно очевидно указал на другой вариант.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ти буквально вказав на більш очевидний варіант."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0011",
+            "en": "Yep, I'm on board. Let's find the other end.",
+            "ru_native": "Да, я в деле. Давай поищем другой конец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, згода. Знайдімо інший кінець."
+        },
+        {
+            "tag": "A2G2.CHAPEL_RILEY_0012",
+            "en": "Let's not rule out the church just yet.",
+            "ru_native": "Не будем пока исключать церковь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не будемо поки виключати церкву."
+        }
+    ]
+}

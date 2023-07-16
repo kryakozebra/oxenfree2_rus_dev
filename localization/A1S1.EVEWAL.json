@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.EVEWAL",
+    "entries": [
+        {
+            "tag": "A1S1.EVEWAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.EVEWAL_CHOICE_0000_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Ау?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A1S1.EVEWAL_CHOICE_0000_OPTION_0001",
+            "en": "Anyone there?",
+            "ru_native": "Есть там кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене хтось чує?"
+        },
+        {
+            "tag": "A1S1.EVEWAL_EVELYN_0000",
+            "en": "Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.EVEWAL_EVELYN_0001",
+            "en": "Are you there? Over.",
+            "ru_native": "Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.EVEWAL_EVELYN_0002",
+            "en": "Riley? Use your—when you get to the—[static] pull out your radio and—[static]",
+            "ru_native": "Райли? Используй... когда дойдешь до... вытащи радио и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.EVEWAL_RILEY_0000",
+            "en": "Hello? I can — I think I hear you…",
+            "ru_native": "Да? Я вроде тебя слышу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.EVEWAL_RILEY_0001",
+            "en": "Uh, anyone there?",
+            "ru_native": "Есть там кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

@@ -1,0 +1,663 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.PANOCH",
+    "entries": [
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0000_OPTION_0000",
+            "en": "Hank? You there?",
+            "ru_native": "Хэнк? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти там?"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0000_OPTION_0001",
+            "en": "Come in Hank.",
+            "ru_native": "Хэнк, ответь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, говори."
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0001_OPTION_0000",
+            "en": "Any cave ghost stories?",
+            "ru_native": "Истории о привидениях?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Історії про привидів із печер?"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0001_OPTION_0001",
+            "en": "Any miner incidents?",
+            "ru_native": "Несчастные случаи в шахте?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інциденти в шахті?"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0001_OPTION_0002",
+            "en": "How’s it going?",
+            "ru_native": "Как дела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як справи?"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0002_OPTION_0000",
+            "en": "What’s that?",
+            "ru_native": "Ты о чем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А що там?"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0002_OPTION_0001",
+            "en": "Uh… yeah.",
+            "ru_native": "Ну... да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… так."
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0003_OPTION_0000",
+            "en": "Got it, thanks.",
+            "ru_native": "Ясно, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, дякую."
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0003_OPTION_0001",
+            "en": "Creepy stuff.",
+            "ru_native": "Жуть какая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Страхи, та й годі."
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0003_OPTION_0002",
+            "en": "We’ve seen somebody…",
+            "ru_native": "Мы кого-то видели...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми когось бачили…"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0004_OPTION_0000",
+            "en": "Oh shut up.",
+            "ru_native": "Ой, отстань.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, мовчи вже."
+        },
+        {
+            "tag": "A2C4.PANOCH_CHOICE_0004_OPTION_0001",
+            "en": "Tell interesting stories.",
+            "ru_native": "У тебя скучные истории.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти зануда."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0000",
+            "en": "Riley? Yeah, I'm here. Over.",
+            "ru_native": "Райли? Да, я здесь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Так, я тут. Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0001",
+            "en": "Riley? Hey, what’s going on. Over.",
+            "ru_native": "Райли? Что происходит? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Що відбувається? Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0002",
+            "en": "Uh, Riley, do you need something? Over.",
+            "ru_native": "Райли, тебе что-то нужно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, тобі щось потрібно? Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0003",
+            "en": "Come in Riley… I think you beeped me?",
+            "ru_native": "Райли, ответь. Ты меня вызывала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом, Райлі… Ти викликала мене?"
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0004",
+            "en": "Oh, \"ghost stories\", ghost stories—like they’re trading cards to be collected—",
+            "ru_native": "«Есть истории о привидениях»... Как будто речь о коллекционных карточках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Історії про привидів»… Ти так сказала, наче це якісь колекційні картки…"
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0005",
+            "en": "Yeah, I have some relevant information related to the existential tragedy of deaths untimely in accordance—",
+            "ru_native": "Да, у меня есть информация об экзистенциальной<br>трагедии, что привела к преждевременным смертям.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але так, у мене є певна інформація про екзистенціальну катастрофу,<br>що призвела до передчасних смертей…"
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0006",
+            "en": "—with the mining industry’s total lack of safety protocols around the turn of the last century.",
+            "ru_native": "А все из-за полного отсутствия мер<br>безопасности в горной промышленности на рубеже веков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А причиною тому — нехтування заходами безпеки в гірничій справі на зламі століть."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0007",
+            "en": "I’m neck-deep in EMF radiation over here, Riley, so now’s not a great time to chit-chat.",
+            "ru_native": "Райли, я тут по уши в ЭМП радиации, так что сейчас не лучшее время для болтовни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тут по самі вуха в електромагнітному випромінюванні,<br>Райлі, якось не до балачок."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0008",
+            "en": "But thanks for the check-in. I’ll ring if I need anything and you do the same.",
+            "ru_native": "Но спасибо. Я сообщу, если что-то понадобится. Ты тоже обращайся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але дякую. Якщо мені щось знадобиться, я повідомлю. І ти не соромся."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0009",
+            "en": "Talk to you later. Over and out.",
+            "ru_native": "До скорого. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговоримо пізніше. Кінець зв’язку."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0010",
+            "en": "Sorry, Riley, but I don’t have time to sit on the horn.",
+            "ru_native": "Прости, Райли, нет времени сидеть на проводе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, пробач, але ти не вчасно."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0011",
+            "en": "Lemme know if you need anything later. Over and out.",
+            "ru_native": "Дай знать, если что-нибудь понадобится. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повідом, якщо тобі щось знадобиться, пізніше. Кінець зв’язку."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0012",
+            "en": "You mean other than the Collapse of 1899, right?",
+            "ru_native": "Ты про обвал в 1899-м?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маєш на увазі, інциденти окрім обвалу 1899-го?"
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0013",
+            "en": "Cause that should have been taught to you in school.",
+            "ru_native": "Про него должны были в школе рассказывать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо про нього кожний школяр знає."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0014",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0015",
+            "en": "Uh, quite a few things happened in 1899—Pennsylvania’s South Fork Dam’s implosion killed twenty-two hundred people, for one thing.",
+            "ru_native": "В 1899-м много чего произошло. Например, крушение дамбы Саут<br>Форк в Пенсильвании, которое унесло жизни 22 сотен человек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, 1899-ий був багатий на події…<br>Наприклад, аварія на дамбі Саут-Форк у Пенсильванії, що забрала життя 2200 людей."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0016",
+            "en": "But the Garland mine accident is definitely another.",
+            "ru_native": "И происшествие в шахте Гарленда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або цей інцидент на шахті в Гарленді."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0017",
+            "en": "Okay, I’ll just go over it. Even though you should really know about this, already.",
+            "ru_native": "Ладно, расскажу вкратце. Хотя ты и сама должна о нем знать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну гаразд, я розкажу. Хоч ти й мала б про це вже знати."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0018",
+            "en": "As probably an Uncle or distant relative was involved that you don’t even know.",
+            "ru_native": "Наверняка твой дядя или еще кто из дальних родственников был затронут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Найімовірніше, що твій дядько чи якийсь далекий<br>родич був до цього залучений, а ти навіть і не знала."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0019",
+            "en": "I’ll take it by your silence you have no idea what I’m talking about. Okay...",
+            "ru_native": "Судя по тишине, ты понятия не имеешь, о чем я. Ладно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Судячи з мовчання, ти й гадки про це не маєш. Ну гаразд…"
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0020",
+            "en": "That cave system collapsed when an explosion of a still-unknown origin killed 14 workers.",
+            "ru_native": "Пещеры обрушились в результате так и не объясненного взрыва, убившего 14 работников.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Система печер обвалилася через вибух невідомого<br>походження, що забрав життя 14 працівників."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0021",
+            "en": "Happened in September, 1899.",
+            "ru_native": "Дело было в сентябре 1899-го.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було це у вересні 1899-го року."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0022",
+            "en": "Journals from that era make the foreman’s psychotic son who perished in the blast the prime suspect.",
+            "ru_native": "Журналисты тогда повесили вину на душевнобольного сына бригадира.<br>Парень тоже погиб во взрыве.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Журналісти зробили винним хворого сина бригадира, який сам там і загинув."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0023",
+            "en": "And some people have reported seeing visions and dark figures in the shafts ever since.",
+            "ru_native": "С тех пор люди постоянно видели в шахтах тени и темные фигуры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із того часу люди повідомляють, що бачили примар і темні силуети в шахтах."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0024",
+            "en": "Uh, hello? If you guys are in the caves, yeah—an explosion in 1899 killed 14 miners.",
+            "ru_native": "Меня слышно? Ребята, если вы в пещерах... Взрыв в 1899-м убил 14 шахтеров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене чути? Народ, якщо ви в печерах… вибухом у 1899-му вбило 14 шахтарів."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0025",
+            "en": "The foreman’s son was the prime suspect, but he died in the blast.",
+            "ru_native": "Подозревали сына бригадира, но он тоже погиб во взрыве.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Головний підозрюваний — син бригадира, але він і сам загинув від вибуху."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0026",
+            "en": "Okay, sorry guys, I gotta hop off. Over and out.",
+            "ru_native": "Простите, ребятки, мне пора. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачайте, народ, маю вас покинути. Кінець зв’язку."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0027",
+            "en": "Until the mine itself closed in 1910.",
+            "ru_native": "Пока шахта не закрылась в 1910-м.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки шахту не закрили у 1910 році."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0028",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0029",
+            "en": "Ghosts abound.",
+            "ru_native": "Призраков хватает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привидів аж кишить."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0030",
+            "en": "Stroll down there with caution.",
+            "ru_native": "Гуляйте там осторожно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прогулюйтеся там обережніше."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0031",
+            "en": "Okay, ring if you need anything. Over and out.",
+            "ru_native": "Обращайся, если что. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звертайтеся, якщо знадоблюсь. Кінець зв’язку."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0032",
+            "en": "Tread carefully, unless you want to go insane…",
+            "ru_native": "Будьте осторожны, если не хотите сойти с ума.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будьте обережні, якщо не хочете збожеволіти."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0033",
+            "en": "…like Fred Willoubough in 1964, who got lost in the caves and never found his way out.",
+            "ru_native": "Как Фред Уиллоубо в 1964-м. Он потерялся в пещерах и так и не нашел путь назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…як Фред Віллоубо у 1964 році, який пішов у печери й не повернувся."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0034",
+            "en": "Okay, I gotta hop off. But ring if you need anything. Over and out.",
+            "ru_native": "Ладно, мне пора. Обращайся, если что. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну все, маю йти. Звертайтеся, якщо знадоблюсь. Кінець зв’язку."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0035",
+            "en": "It’s not a shadow playing a trick, Riley.",
+            "ru_native": "Это не игра теней, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не тінь, Райлі."
+        },
+        {
+            "tag": "A2C4.PANOCH_HANK_0036",
+            "en": "It’s the corporeal form of an intangible creature—a spirit—a spectre—unlocked from time’s closet.",
+            "ru_native": "Это телесная форма нематериального существа,<br>призрака или духа, выпущенного из клетки времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це втілення істоти нематеріального світу — привиду, що визволився з пастки часу."
+        },
+        {
+            "tag": "A2C4.PANOCH_JACOB_0000",
+            "en": "Oh, you want \"story-time\" when it’s Hank doing the talking—",
+            "ru_native": "Значит, когда Хэнк рассказывает истории, ты только за...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, то тобі подобаються історії. Тільки коли їх розповідає Хенк…"
+        },
+        {
+            "tag": "A2C4.PANOCH_JACOB_0001",
+            "en": "But if I want to talk about anything, it’s—",
+            "ru_native": "Но когда я хочу поговорить, то сразу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А якщо поговорити хочу я, то…"
+        },
+        {
+            "tag": "A2C4.PANOCH_JACOB_0002",
+            "en": "\"I’m trying to focus now, Jacob.\"",
+            "ru_native": "«Джейкоб, мне надо сосредоточиться».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Мені треба зосередитись, Джейкобе»."
+        },
+        {
+            "tag": "A2C4.PANOCH_JACOB_0003",
+            "en": "I see how it is.",
+            "ru_native": "Все понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло все."
+        },
+        {
+            "tag": "A2C4.PANOCH_JACOB_0004",
+            "en": "Ouch! Christ, you go for the jugular. Attacking a man’s ability to craft a narrative, boy.",
+            "ru_native": "Никакой пощады! Грубое нападение на способность товарища излагать свои мысли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, ріжеш без ножа! Постраждала моя здатність<br>вести оповідання. У саме серденько!"
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0000",
+            "en": "Hey, Hank? You there, pal? Over.",
+            "ru_native": "Эй! Хэнк? Дружище, ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти там, приятелю? Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0001",
+            "en": "Hey, Hank? Come in, Hank. Over.",
+            "ru_native": "Хэнк? Хэнк, ответь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Говори, Хенку. Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0002",
+            "en": "I’m just curious—we’re in the cave system, here, under Charity Point…",
+            "ru_native": "Мне стало любопытно... Мы сейчас в пещерах под Черити Поинт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені просто цікаво… ми тут у системі печер під Черіті-Пойнт…"
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0003",
+            "en": "Do you have any ghost stories about this place? Over.",
+            "ru_native": "У тебя есть истории о местных привидениях? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе є якісь місцеві історії про привидів? Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0004",
+            "en": "Uh, just checking in. How’s it going? Over.",
+            "ru_native": "Просто решила узнать, как дела. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто вирішила перевірити, як ти там. Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0005",
+            "en": "Do you know of any… mining incidents you think we should be aware of? Over.",
+            "ru_native": "В шахте не происходило несчастных случаев, о которых нам стоит знать? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми маємо знати про які-небудь… інциденти в шахті? Кінець зв’язку."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0006",
+            "en": "Wait—What? Something happened in 1899? Over.",
+            "ru_native": "Ты о чем? Что-то произошло в 1899-м? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зажди, що? Який обвал 1899-го? Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0007",
+            "en": "Um… yeah.",
+            "ru_native": "Ну... да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… мгм."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0008",
+            "en": "Okay, thanks Hank. We’ll, uh, keep that in mind. Over.",
+            "ru_native": "Хорошо, спасибо, Хэнк. Будем иметь в виду. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Хенку, дякуємо. Ми зрозуміли. Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0009",
+            "en": "Yikes. Creepy stuff.",
+            "ru_native": "Жуть какая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оце так. Страхи й годі."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0010",
+            "en": "We’ve, uh, seen something down here with us, but it’s, uh, hard to tell if it’s just shadows playing tricks. Over.",
+            "ru_native": "Мы кого-то видели, но... Сложно сказать, может это просто игра теней. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми щось бачили тут унизу, але важко сказати, що саме. Може просто тінь. Прийом."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0011",
+            "en": "Oh shut up.",
+            "ru_native": "Ой, отстань.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, мовчи вже."
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0012",
+            "en": "He knew a good story! That’s the difference—",
+            "ru_native": "Он знает классные истории! В этом разница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нього цікаві історії! От і вся різниця…"
+        },
+        {
+            "tag": "A2C4.PANOCH_RILEY_0013",
+            "en": "If you had cooler stuff to stay, I’d be more inclined to listen.",
+            "ru_native": "Будь твои истории поинтереснее, я бы их тоже слушала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо б ти знав щось цікавеньке, я би слухала тебе."
+        }
+    ]
+}

@@ -1,0 +1,177 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.FISHAP",
+    "entries": [
+        {
+            "tag": "A2C3.FISHAP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.FISHAP_CHOICE_0000_OPTION_0000",
+            "en": "Sure, will do.",
+            "ru_native": "Да, обязательно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, авжеж."
+        },
+        {
+            "tag": "A2C3.FISHAP_CHOICE_0000_OPTION_0001",
+            "en": "Uh, we’ll see.",
+            "ru_native": "Посмотрим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивимося."
+        },
+        {
+            "tag": "A2C3.FISHAP_CHOICE_0000_OPTION_0002",
+            "en": "You’re welcome. Bye.",
+            "ru_native": "Не за что. Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нема за що. Бувайте."
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0000",
+            "en": "Ah, okay. Good. I thought maybe I did bring it but that the stupid thing fell overboard.",
+            "ru_native": "А, хорошо. Я подумал, может, я его забрал, но он упал в воду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, гаразд. Думав, може я його брав із собою, але та штука випала за борт."
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0001",
+            "en": "Uh, look, this is an emergency-line for boaters only...",
+            "ru_native": "Послушай, это экстренный канал только для лодочников...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, ця лінія для екстрених викликів, лише для човнярів…"
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0002",
+            "en": "But I'll be out all night on a tuna run? And it gets pretty boring?",
+            "ru_native": "Но я собираюсь всю ночь ловить тунца. И это довольно скучно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я буду всю ніч ганятися за тунцем. І це доволі нудно."
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0003",
+            "en": "So, lemme tell ya, if you ever need any fishing advice — or even just info on Camena…",
+            "ru_native": "Так что, если нужен будет какой совет по рыбалке – или что-то про Камену...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, якщо потрібна буде порада з риболовлі… чи просто інформація про Камену…"
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0004",
+            "en": "Or Edwards Island? I’ve been all up and down the coastline.",
+            "ru_native": "Или остров Эдвардса? Я побережье вдоль и поперек знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи про острів Едвардса… Я тут усе узбережжя знаю."
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0005",
+            "en": "Just gimme a holler.",
+            "ru_native": "Просто дай знать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки дайте знати."
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0006",
+            "en": "Anytime, I’ll be up all night.",
+            "ru_native": "Я тут всю ночь буду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відповім одразу, я тут буду всю ніч."
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0007",
+            "en": "Okay. Thanks for the help, again. Over and Out.",
+            "ru_native": "Ладно. Еще раз спасибо за помощь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за допомогу, ще раз. Кінець зв’язку."
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0008",
+            "en": "Alright, nice talking to you. Over and out.",
+            "ru_native": "Ладно, приятно было поболтать. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну гаразд, приємно було потеревеніти. Кінець зв’язку."
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0009",
+            "en": "I’m… retired, now, but I was sort of an amateur explorer? Never charted anything, but…",
+            "ru_native": "Я... сейчас на пенсии, но я раньше занимался исследованиям, для себя.<br>Карт не чертил, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… пенсіонер уже, але в минулому дослідник-аматор.<br>Про мене майже ніхто не чув, але…"
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0010",
+            "en": "I’m all over Camena. So if you need any info about the area…?",
+            "ru_native": "Я всю Камену исколесил. Так что если нужна какая информация...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я все знаю про Камену. Тож, якщо потрібна буде якась інформація про місцевість…"
+        },
+        {
+            "tag": "A2C3.FISHAP_FISHERMAN_0011",
+            "en": "Agh, damn probably brought it along and the stupid thing fell overboard. But I still appreciate the effort.",
+            "ru_native": "А, проклятье, я, наверное, рюкзак с собой взял, и он за борт выпал.<br>Но все равно спасибо за помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ех, скоріш за все клята штука випала за борт. Усе одно дякую."
+        },
+        {
+            "tag": "A2C3.FISHAP_RILEY_0000",
+            "en": "Sure, I just might. Over.",
+            "ru_native": "Конечно, непременно. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, дякуємо. Прийом."
+        },
+        {
+            "tag": "A2C3.FISHAP_RILEY_0001",
+            "en": "Uh, yeah, maybe. Over.",
+            "ru_native": "Хорошо, возможно. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… ну так. Прийом."
+        },
+        {
+            "tag": "A2C3.FISHAP_RILEY_0002",
+            "en": "You’re welcome for looking into the backpack for you. Over and Out.",
+            "ru_native": "Пожалуйста, была рада помочь тебе с рюкзаком. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рада була допомогти з рюкзаком. Кінець зв’язку."
+        }
+    ]
+}

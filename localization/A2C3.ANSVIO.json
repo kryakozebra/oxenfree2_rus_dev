@@ -1,0 +1,213 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.ANSVIO",
+    "entries": [
+        {
+            "tag": "A2C3.ANSVIO_JACOB_0000",
+            "en": "I think you lost her.",
+            "ru_native": "Кажется, связь потеряна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_RILEY_0000",
+            "en": "Uh, Hello? Your line’s not secure, don’t know if you know that. Over.",
+            "ru_native": "Эм, алло? Это не защищенная линия, если ты не в курсе. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_RILEY_0001",
+            "en": "Uh, Hi. We’re by Charity Point if you need, um, assistance. Over.",
+            "ru_native": "О, привет. Если нужна помощь, мы у Черити Поинт. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_RILEY_0002",
+            "en": "Uh, kid, just go back the way you came. You walked there, right? Over.",
+            "ru_native": "Просто иди той же дорогой, которой пришла. Ты же туда пришла? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_RILEY_0003",
+            "en": "Yeah, sorry, but we don’t know how to describe it, really. Over.",
+            "ru_native": "Прости, но мы не знаем, как это объяснить, правда. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_RILEY_0004",
+            "en": "Hold tight. We’re headed there anyway, so we can point you in the right direction, at least.",
+            "ru_native": "Держись. Мы все равно направляемся туда, так что сможем хотя бы показать, куда идти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_RILEY_0005",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_RILEY_0006",
+            "en": "Damn. The signal got too weak.",
+            "ru_native": "Черт. Сигнал слишком слабый.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_RILEY_0007",
+            "en": "Ah. Oh well. Lost the signal.",
+            "ru_native": "Ну отлично. Сигнал пропал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0000",
+            "en": "Sorry, I know it’s not… secure, I’m—I just need to find a way out?",
+            "ru_native": "Прости, я знаю, что она не защищенная. Мне... просто надо выбраться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0001",
+            "en": "Hi! Yes—sorry—I—yeah, I do need assistance—I need to find a way out.",
+            "ru_native": "Привет! Да, мне нужна помощь. Я не могу выбраться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0002",
+            "en": "There’s no markers or signs anywhere.",
+            "ru_native": "Тут нет никаких знаков или указателей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0003",
+            "en": "Do you know how to get to the—the Docks from the Cliffs?",
+            "ru_native": "Ты знаешь, как добраться до доков со скал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0004",
+            "en": "I’m so turned around.",
+            "ru_native": "Я заблудилась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0005",
+            "en": "I… I’m not sure what’s been happening.",
+            "ru_native": "Я... не понимаю, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0006",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0007",
+            "en": "Oh, uh, over.",
+            "ru_native": "Ой, да, прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0008",
+            "en": "No, I—I didn’t walk here.",
+            "ru_native": "Нет, я... я сюда не пришла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0009",
+            "en": "I… I don’t even know how I— [garbled fuzz] —and then— [fuzz]",
+            "ru_native": "Я... даже не знаю, как я... ...а потом...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0010",
+            "en": "Do you—do you have a map? Or a working phone?",
+            "ru_native": "У вас... у вас есть карта? Или телефон?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0011",
+            "en": "Hello? Did you—are you saying you’re coming here, or—?",
+            "ru_native": "Алло? Вы сказали... вы сказали, что идете сюда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0012",
+            "en": "[ID-19] [fuzz]",
+            "ru_native": "[ID-19] (помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.ANSVIO_VIOLET_0013",
+            "en": "[ID-20] [fuzz]",
+            "ru_native": "[ID-20] (помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

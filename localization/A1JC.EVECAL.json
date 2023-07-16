@@ -1,0 +1,312 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1JC.EVECAL",
+    "entries": [
+        {
+            "tag": "A1JC.EVECAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.EVECAL_CHOICE_0000_OPTION_0000",
+            "en": "Hey, Evelyn?",
+            "ru_native": "Эвелин?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін?"
+        },
+        {
+            "tag": "A1JC.EVECAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.EVECAL_CHOICE_0001_OPTION_0000",
+            "en": "Turn off the transmitter?",
+            "ru_native": "Выключить передатчик?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вимкнути передавач?"
+        },
+        {
+            "tag": "A1JC.EVECAL_CHOICE_0001_OPTION_0001",
+            "en": "Okay, got it!",
+            "ru_native": "Поняла!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, зрозуміло!"
+        },
+        {
+            "tag": "A1JC.EVECAL_CHOICE_0001_OPTION_0002",
+            "en": "Wait, something crazy happened!",
+            "ru_native": "Что-то странное творится!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай, сталося щось божевільне!"
+        },
+        {
+            "tag": "A1JC.EVECAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.EVECAL_CHOICE_0002_OPTION_0000",
+            "en": "What could be the problem?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У чому проблема?"
+        },
+        {
+            "tag": "A1JC.EVECAL_CHOICE_0002_OPTION_0001",
+            "en": "Ugh.",
+            "ru_native": "М-да уж.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ех."
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0000",
+            "en": "Riley! Okay, listen to me—whatever you’re doing right now, you have to go back to the transmitter—",
+            "ru_native": "Райли! Послушай меня! Бросай все – чем бы ни<br>занималась – и возвращайся к передатчику...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Гаразд, слухай сюди.<br>Кидай усе, що робиш, і повертайся до радіопередавача…"
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0001",
+            "en": "—you planted at the summit. You have to turn it off, do you understand me?",
+            "ru_native": "...на вершине. Ты должна его выключить! Слышишь меня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Рація]…ти встановила на вищому рівні.<br>Тобі потрібно вимкнути його, ти мене розумієш?"
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0002",
+            "en": "It’s going to fry its instruments if it stays on any longer and could do some real damage to the ecosystem—",
+            "ru_native": "Еще немного, и он поджарит все оборудование! Он даже может навредить экосистеме...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він може спалити прилади, якщо залишиться ввімкненим,<br>і завдати серйозної шкоди екосистемі…"
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0003",
+            "en": "—including blowing up a small portion of it.",
+            "ru_native": "В том числе взорваться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…у тому числі вибухнути."
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0004",
+            "en": "Riley? Did you get all that?",
+            "ru_native": "Райли? Ты все услышала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти все зрозуміла?"
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0005",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0006",
+            "en": "Yes! Yes, and do it as soon as humanly possible, okay? Like—run.",
+            "ru_native": "Да! Да, причем максимально быстро, поняла? Беги!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Так, і якомога швидше, ясно? Бігом!"
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0007",
+            "en": "Tell me when you’re there! Over and out!",
+            "ru_native": "Сообщи, как доберешься! Конец связи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажеш, коли будеш там! Кінець зв’язку!"
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0008",
+            "en": "[WT; over] Riley! Riley, I’m sorry, but you need to listen to me!",
+            "ru_native": "Райли! Райли, прошу, послушай меня!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Прийом] Райлі! Райлі, вибач, але ти МАЄШ слухати мене!"
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0009",
+            "en": "Turn off the transmitter! Just—just get back to the summit as soon as you can, and turn it off.",
+            "ru_native": "Выключи передатчик! Просто... Вернись на вершину и отключи передатчик, скорее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вимкни передавач! Негайно йди до вершини й вимкни його."
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0010",
+            "en": "And then you can tell me all about your findings up to this point, but go and turn it off right now.",
+            "ru_native": "Потом расскажешь, что ты там видела. Но сейчас вернись и отключи его.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А потім зможеш розповісти мені все про свої відкриття. А зараз іди й вимкни його."
+        },
+        {
+            "tag": "A1JC.EVECAL_EVELYN_0011",
+            "en": "[to someone else]  I don’t know if she can hear me—",
+            "ru_native": "Не знаю, слышит ли она меня...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[говорить комусь іншому] Не знаю, чи чує вона мене…"
+        },
+        {
+            "tag": "A1JC.EVECAL_JACOB_0000",
+            "en": "Oh man, okay—let’s—let’s just go!",
+            "ru_native": "Ничего себе... Ладно, погнали!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт. Гаразд. Ходімо вже!"
+        },
+        {
+            "tag": "A1JC.EVECAL_JACOB_0001",
+            "en": "These things aren’t usually this volatile, but she sounded pretty stressed.",
+            "ru_native": "Передатчики обычно не взрываются, но Эвелин казалась напуганной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ці штуки зазвичай не вибухають, але схоже, вона досить знервована."
+        },
+        {
+            "tag": "A1JC.EVECAL_JACOB_0002",
+            "en": "And… everything else that’s going on tonight—I mean—I don’t know.",
+            "ru_native": "Да и учитывая все, что сегодня происходит... Короче, даже не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… усе інше, що відбувається сьогодні… Я не знаю."
+        },
+        {
+            "tag": "A1JC.EVECAL_JACOB_0003",
+            "en": "Yeah. She sounded stressed.",
+            "ru_native": "Да. Она сильно напугана.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага. Здається, вона пригнічена."
+        },
+        {
+            "tag": "A1JC.EVECAL_RILEY_0000",
+            "en": "Hey, uh, Evelyn? It’s Riley. Something… really strange happened when I planted the transmitter.",
+            "ru_native": "Эй, Эвелин? Это Райли. Когда я поставила<br>передатчик, произошло что-то... очень странное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ем… Евелін? Це Райлі. Щось… справді дивне<br>сталося, коли я встановила радіопередавач."
+        },
+        {
+            "tag": "A1JC.EVECAL_RILEY_0001",
+            "en": "Are you there? Over.",
+            "ru_native": "Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти там? Прийом."
+        },
+        {
+            "tag": "A1JC.EVECAL_RILEY_0002",
+            "en": "Wait wait, sorry—Evelyn, what? You want me to turn off the transmitter at the summit? Over.",
+            "ru_native": "Нет, стой... Эвелин, погоди. Ты просишь меня отключить передатчик на вершине? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій, стій, вибач… Евелін, що? Ти хочеш,<br>щоб я вимкнула радіопередавач на вершині? Прийом."
+        },
+        {
+            "tag": "A1JC.EVECAL_RILEY_0003",
+            "en": "Oh—okay! Got it. Turning off the transmitter. Over.",
+            "ru_native": "Хорошо! Выключаю передатчик. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд! Зрозуміло. Вимкнути передавач. Прийом."
+        },
+        {
+            "tag": "A1JC.EVECAL_RILEY_0004",
+            "en": "Wait, Evelyn, something insane is happening right now.",
+            "ru_native": "Эвелин, постой, тут что-то странное творится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай, Евелін. Прямо зараз відбувається щось божевільне."
+        },
+        {
+            "tag": "A1JC.EVECAL_RILEY_0005",
+            "en": "I planted the transmitter, and—and it… shot, like, some sort of energy into the air and—and it—",
+            "ru_native": "Я установила передатчик, и из него... вырвалась какая-то... энергия? И она...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я встановила передавач, і він… він<br>вистрілив у повітря ніби якусь енергію… а потім…"
+        },
+        {
+            "tag": "A1JC.EVECAL_RILEY_0006",
+            "en": "What could be the problem with this thing? Is it really that dangerous?",
+            "ru_native": "Что происходит с этой штуковиной? Она и впрямь опасна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що із цим може бути не так? Це справді небезпечно?"
+        },
+        {
+            "tag": "A1JC.EVECAL_RILEY_0007",
+            "en": "I thought there’d just be, like, uh, I don’t know—little computer parts in it, not, like, a nuclear bomb.",
+            "ru_native": "Я думала, внутри просто... Ну, не знаю.<br>Маленькие компьютерные детали, а не атомная бомба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, тут мають бути… невеликі комп’ютерні деталі, а не атомна бомба."
+        },
+        {
+            "tag": "A1JC.EVECAL_RILEY_0008",
+            "en": "Ugh. Man, this sucks.",
+            "ru_native": "М-да уж. Хреново.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ех. Це некльово."
+        }
+    ]
+}

@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ12.LETCAL",
+    "entries": [
+        {
+            "tag": "SQ12.LETCAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ12.LETCAL_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, let’s do it.",
+            "ru_native": "Да, давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, зробімо це."
+        },
+        {
+            "tag": "SQ12.LETCAL_CHOICE_0000_OPTION_0001",
+            "en": "Maybe in a bit.",
+            "ru_native": "Может, чуть позже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, трохи пізніше."
+        },
+        {
+            "tag": "SQ12.LETCAL_JACOB_0000",
+            "en": "Huh. Okay, between this… and the Stucko’s store sign…",
+            "ru_native": "Хм. Хорошо, учитывая это... и вывеску «Стако»...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, враховуючи це… і вивіску «Стако»…"
+        },
+        {
+            "tag": "SQ12.LETCAL_JACOB_0001",
+            "en": "We should probably call Gracie again.",
+            "ru_native": "Пожалуй, стоит еще раз набрать Грейси.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, нам слід набрати Грейсі ще раз."
+        },
+        {
+            "tag": "SQ12.LETCAL_JACOB_0002",
+            "en": "We can give her some info.",
+            "ru_native": "Можем дать ей кое-какую информацию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можемо дати їй деяку інформацію."
+        },
+        {
+            "tag": "SQ12.LETCAL_JACOB_0003",
+            "en": "You know?",
+            "ru_native": "Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш?"
+        },
+        {
+            "tag": "SQ12.LETCAL_RILEY_0000",
+            "en": "Yeah… you’re right. We should touch base with her, let her know what we’ve found out.",
+            "ru_native": "Да... ты прав. Надо связаться с ней и рассказать, что мы узнали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, твоя правда. Треба зв’язатися з нею й розповісти, що ми дізналися."
+        },
+        {
+            "tag": "SQ12.LETCAL_RILEY_0001",
+            "en": "Eh, maybe in a bit. When we’re not doing something more important.",
+            "ru_native": "Да, чуть позже. Когда закончим более важные дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, трохи пізніше. Коли закінчимо більш важливі справи."
+        }
+    ]
+}

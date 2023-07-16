@@ -1,0 +1,1914 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.METMAJ",
+    "entries": [
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0000_OPTION_0000",
+            "en": "Sorry, but who are you?",
+            "ru_native": "Простите, но кто вы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, але хто ви?"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0000_OPTION_0001",
+            "en": "I think we need your help.",
+            "ru_native": "Кажется, нам нужна ваша помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, нам потрібна ваша допомога."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0000_OPTION_0002",
+            "en": "Something crazy is happening…",
+            "ru_native": "Творится какое-то безумие...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відбувається якесь божевілля…"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0001_OPTION_0000",
+            "en": "Riley and Jacob.",
+            "ru_native": "Райли и Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі та Джейкоб."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0001_OPTION_0001",
+            "en": "It doesn’t matter.",
+            "ru_native": "Это неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не важливо."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0001_OPTION_0002",
+            "en": "We’re time travelers.",
+            "ru_native": "Мы путешественники во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми мандрівники в часі."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0002_OPTION_0000",
+            "en": "I think I need you.",
+            "ru_native": "Думаю, именно вы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що саме ви."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0002_OPTION_0001",
+            "en": "Uh, maybe anyone?",
+            "ru_native": "Может, кто угодно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, хтось інший?"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0002_OPTION_0002",
+            "en": "I’m a time traveler.",
+            "ru_native": "Я путешествую во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я мандрівник у часі."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0003_OPTION_0000",
+            "en": "I’m a Time Traveler.",
+            "ru_native": "Я путешествую во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я мандрівник у часі."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0003_OPTION_0001",
+            "en": "I need you to tune your radio.",
+            "ru_native": "Мне... надо, чтобы вы настроили свое радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібно, щоби ви налаштували своє радіо."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0003_OPTION_0002",
+            "en": "Do you believe in ghosts?",
+            "ru_native": "Вы верите в привидения?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви вірите в привидів?"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0004_OPTION_0000",
+            "en": "I’m a Time Traveler.",
+            "ru_native": "Я путешествую во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я мандрівник у часі."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0004_OPTION_0001",
+            "en": "I need you to tune your radio.",
+            "ru_native": "Мне... надо, чтобы вы настроили свое радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібно, щоби ви налаштували своє радіо."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0004_OPTION_0002",
+            "en": "Do you believe in ghosts?",
+            "ru_native": "Вы верите в привидения?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви вірите в привидів?"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0005_OPTION_0000",
+            "en": "We’re telling the truth.",
+            "ru_native": "Мы говорим правду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми говоримо правду."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0005_OPTION_0001",
+            "en": "We need your help.",
+            "ru_native": "Нам нужна ваша помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам потрібна ваша допомога."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0005_OPTION_0002",
+            "en": "Take it, Jacob.",
+            "ru_native": "Держи, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Допомагай, Джейкобе."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0006_OPTION_0000",
+            "en": "This is really important.",
+            "ru_native": "Это очень важно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це насправді дуже важливо."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0006_OPTION_0001",
+            "en": "I’m from the future.",
+            "ru_native": "Я из будущего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я з майбутнього."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0006_OPTION_0002",
+            "en": "Take it, Jacob.",
+            "ru_native": "Держи, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Допомагай, Джейкобе."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0007_OPTION_0000",
+            "en": "Ghosts are real.",
+            "ru_native": "Привидения существуют.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привиди існують."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0007_OPTION_0001",
+            "en": "I’m from the future.",
+            "ru_native": "Я из будущего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я з майбутнього."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0007_OPTION_0002",
+            "en": "Take it, Jacob.",
+            "ru_native": "Держи, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Допомагай, Джейкобе."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0008_OPTION_0000",
+            "en": "We’re trying to help somebody.",
+            "ru_native": "Мы пытаемся кое-кому помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми намагаємося декому допомогти."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0008_OPTION_0001",
+            "en": "Time and space will collapse.",
+            "ru_native": "Время и пространство рухнут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час і простір зірвуться з рейок."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0008_OPTION_0002",
+            "en": "It’s a direct order.",
+            "ru_native": "Это прямой приказ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це прямий наказ."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0009",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0009_OPTION_0000",
+            "en": "People got trapped between time.",
+            "ru_native": "Люди застряли во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люди застрягли в часовому просторі."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0009_OPTION_0001",
+            "en": "You wouldn’t understand.",
+            "ru_native": "Вы не поймете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви не зрозумієте."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0010",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0010_OPTION_0000",
+            "en": "I don’t know the science!",
+            "ru_native": "Я не ученый!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не тямлю в науці!"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0010_OPTION_0001",
+            "en": "Some teenagers opened a portal.",
+            "ru_native": "Группа подростков открыла портал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Група підлітків відкрила портал."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0010_OPTION_0002",
+            "en": "People got trapped between time.",
+            "ru_native": "Люди застряли во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люди застрягли в часовому просторі."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0011",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0011_OPTION_0000",
+            "en": "I don’t remember.",
+            "ru_native": "Я не помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не пам’ятаю."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0011_OPTION_0001",
+            "en": "Col. Doodie Face.",
+            "ru_native": "Полковник Как-его-там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Полковник Містер Генкі."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0011_OPTION_0002",
+            "en": "I don’t have to tell you.",
+            "ru_native": "Вам это знать не нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не повинна роз’яснювати."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0012",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0012_OPTION_0000",
+            "en": "Thank you so much!",
+            "ru_native": "Спасибо вам большое!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щиро дякую вам!"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0012_OPTION_0001",
+            "en": "Great, you’re awesome.",
+            "ru_native": "Супер, вы прелесть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Супер, ви — надзвичайні."
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0013",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0013_OPTION_0000",
+            "en": "What is it?",
+            "ru_native": "Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яка умова?"
+        },
+        {
+            "tag": "A3S5.METMAJ_CHOICE_0013_OPTION_0001",
+            "en": "Just do it!",
+            "ru_native": "Просто делай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто зроби це!"
+        },
+        {
+            "tag": "A3S5.METMAJ_COMMSRADIO_0000",
+            "en": "Adler? Come in, Adler, are you there? Maggie?",
+            "ru_native": "Адлер? Ответьте, Адлер, вы там? Мэгги?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адлер? Дайте відповідь, Адлер, ви там? Меггі?"
+        },
+        {
+            "tag": "A3S5.METMAJ_COMMSRADIO_0001",
+            "en": "Let the hospital know the power should be back on in ten minutes.",
+            "ru_native": "Сообщите в больницу, что электричество дадут через десять минут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повідомте лікарню, що електрику дадуть за десять хвилин."
+        },
+        {
+            "tag": "A3S5.METMAJ_COMMSRADIO_0002",
+            "en": "Adler? You there? Adler, come in, please.",
+            "ru_native": "Адлер? Вы там? Адлер, пожалуйста, ответьте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адлер? Ви там? Адлер, будь ласка, дайте відповідь."
+        },
+        {
+            "tag": "A3S5.METMAJ_COMMSRADIO_0003",
+            "en": "Ad— [gets cut off]",
+            "ru_native": "Ад...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адлер… [зв’язок обривається]"
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0000",
+            "en": "Um, sorry, but we need you to, uh, do something for us.",
+            "ru_native": "Простите, но нам нужно, чтобы вы для нас кое-что сделали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, але нам потрібно, щоби ви для нас дещо зробили."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0001",
+            "en": "Uh, we’re time travelers.",
+            "ru_native": "Эм, мы путешественники во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, ми мандрівники в часі."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0002",
+            "en": "Um… probably?",
+            "ru_native": "Эм... возможно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… скоріш за все?"
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0003",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0004",
+            "en": "Just believe us when we say it’s important that in like two minutes you tune your equipment to 87.7.",
+            "ru_native": "Просто поверьте нам и примерно через две минуты настройтесь на частоту 87.7.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто повірте, це важливо, приблизно за дві хвилини налаштуйтеся на частоту 87.7."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0005",
+            "en": "Um… we just… really need you to tune your radio to, uh, 87.7. In like… a minute.",
+            "ru_native": "Эм... нам просто... очень нужно, чтобы вы<br>настроились на частоту 87.7. Примерно... через минуту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… нам просто… дуже потрібно, щоби ви налаштувалися на частоту 87.7.<br>Приблизно… за хвилину."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0006",
+            "en": "Wait wait wait, I know—you—wait, your—your favorite movie is To Be Or Not To Be. Right?",
+            "ru_native": "Стойте-стойте, я знаю... погодите... ваш любимый фильм «Быть или не быть». Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стійте, стривайте, я знаю… зачекайте… ваша улюблена вистава «Бути чи не бути». Так?"
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0007",
+            "en": "You saw it in a matinee in an empty theater and you went back five more times.",
+            "ru_native": "Вы смотрели его на дневном сеансе в пустом зале и ходили потом еще пять раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви дивилися її на денному показі в порожній залі й потім ходили ще п’ять разів."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0008",
+            "en": "And every time it was just like you and two other people who loved it. Right?",
+            "ru_native": "И каждый раз в зале были только вы и еще пара фанатов. Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І щоразу в залі були тільки ви та ще пара фанатів. Так?"
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0009",
+            "en": "Look, we know things. And we need you to tune this equipment to 87.7. Believe us, please.",
+            "ru_native": "Послушайте, мы все знаем. И нам надо, чтобы вы<br>настроились на 87.7. Доверьтесь нам, прошу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, ми все знаємо. І нам треба, щоби ви налаштувалися на 87.7.<br>Довіртеся нам, прошу."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0010",
+            "en": "That’s all you have to do.",
+            "ru_native": "Это все, что нужно сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все, що потрібно зробити."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0011",
+            "en": "Yes.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0012",
+            "en": "Yeah, exactly, so—",
+            "ru_native": "Да, точно, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… ось."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0013",
+            "en": "Yeah, Miss Adler, please, just, uh, just trust us, here.",
+            "ru_native": "Да, миссис Адлер, пожалуйста, просто поверьте нам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, міс Адлер, будь ласка, просто повірте нам."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0014",
+            "en": "Thank you.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0015",
+            "en": "Wait, Mrs. Adler—",
+            "ru_native": "Постойте, мисс Адлер...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривайте, місіс Адлер…"
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0016",
+            "en": "Hi.",
+            "ru_native": "Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вітаю."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0017",
+            "en": "Like… really important, seriously.",
+            "ru_native": "Это очень важно, правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… дуже важливо, серйозно."
+        },
+        {
+            "tag": "A3S5.METMAJ_JACOB_0018",
+            "en": "Wait, uh, Miss Adler?",
+            "ru_native": "Постойте, мисс Адлер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекайте, е, міс Адлер?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0000",
+            "en": "Hello? May I… help you?",
+            "ru_native": "Алло? Вам… помочь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов? Я… Вам допомогти?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0001",
+            "en": "You know civilians aren’t allowed in this area.",
+            "ru_native": "Вы знаете, гражданским запрещено здесь находиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви знаєте, цивільним заборонено тут перебувати."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0002",
+            "en": "Are you with somebody?",
+            "ru_native": "Вы одна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви одна?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0003",
+            "en": "Do you have a pass from Check-In?",
+            "ru_native": "У вас есть пропуск?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У вас є перепустка?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0004",
+            "en": "I’m Comms Officer Margaret Adler, to whom am I speaking?",
+            "ru_native": "Офицер связи Маргарет Адлер, а с кем я говорю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Офіцер зв’язку Маргарет Адлер, а з ким я розмовляю?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0005",
+            "en": "A plane crashed during a training exercise, today.",
+            "ru_native": "Сегодня во время учений разбился самолет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні під час навчань розбився літак."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0006",
+            "en": "And I’m a little busy trying to be the liaison between fifty crewmen and their superior officers—",
+            "ru_native": "И я тут немного занята, пытаюсь связать пятьдесят членов экипажа с их командирами...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я тут трохи зайнята, намагаюся встановити зв’язок між п’ятдесятьма членами екіпажу<br>та їхніми командирами."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0007",
+            "en": "—so… if your issue can wait—",
+            "ru_native": "Так что... если ваше дело может подождать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… якщо ваша справа може зачекати…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0008",
+            "en": "—that’d be… preferred.",
+            "ru_native": "лучше... потом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…краще розберемося потім."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0009",
+            "en": "Okay, Miss Poverly, Mr. Summers, unless you have some official business here—",
+            "ru_native": "Ладно, мисс Поверли, мистер Саммерс, если вы не по официальному делу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, міс Поверлі, містере Саммерс, якщо ви не з офіційним завданням…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0010",
+            "en": "I’m going to have to ask you two to leave the station—",
+            "ru_native": "Вынуждена попросить вас покинуть станцию...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вимушена попросити вас залишити станцію."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0011",
+            "en": "Okay, well if it doesn’t really matter, unless you have some official business with me here—",
+            "ru_native": "Ладно, это неважно, если только у вас нет ко мне никакого дела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, якщо це не має значення й у вас немає для мене жодного завдання…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0012",
+            "en": "Alright? So unless you have some official business here—",
+            "ru_native": "Так? Если у вас нет тут никаких дел...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре? Якщо у вас немає офіційного завдання…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0013",
+            "en": "Okay. You need my help or just… anyone from the Communications Office?",
+            "ru_native": "Ладно. Вам нужна именно я или... просто кто-то из отдела связи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Вам потрібна саме я чи… просто хтось із відділу зв’язку?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0014",
+            "en": "You need me, personally? What is this about?",
+            "ru_native": "Вам нужна именно я? Зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вам потрібна саме я? Навіщо?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0015",
+            "en": "Okay, if it’s anyone, please proceed to Station 3C and ask for Col. Sheer.",
+            "ru_native": "Что ж, тогда подойдите к станции 3С и спросите полковника Шира.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, тоді підійдіть до станції 3С і спитайте полковника Шира."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0016",
+            "en": "He’ll get you in contact with the right office. For now, though…",
+            "ru_native": "По крайней мере, он свяжет вас с нужным отделом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні він зв’яже вас із відповідним відділом."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0017",
+            "en": "Okay. Something crazy is happening. What is it?",
+            "ru_native": "Ладно. Творится какое-то безумие. Вот что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Відбувається якесь божевілля. Що саме?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0018",
+            "en": "Huh?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0019",
+            "en": "Do… I—",
+            "ru_native": "Я... Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0020",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0021",
+            "en": "Okay, have a nice day. Please see yourselves out.",
+            "ru_native": "Ладно, хорошего дня. На выход.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гарного дня. Прошу — на вихід."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0022",
+            "en": "—take a short walk to the North Gate—",
+            "ru_native": "... Дойдите до северных ворот...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…пройдіть до північних воріт…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0023",
+            "en": "—it’s one click west of where we are now.",
+            "ru_native": "...Это километр к западу от того места, где мы сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…це за кілометр на захід від того місця, де ми зараз."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0024",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0025",
+            "en": "Thank you.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0026",
+            "en": "My radio?",
+            "ru_native": "Мое радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моє радіо?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0027",
+            "en": "Um, okay? What’s the problem?",
+            "ru_native": "Ну ладно? В чем дело?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, добре. У чому справа?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0028",
+            "en": "You’re saying you’re—",
+            "ru_native": "Говорите, вы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви кажете, що ви…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0029",
+            "en": "Why… would you want me to—",
+            "ru_native": "Зачем... вы хотите, чтобы я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо… нащо вам це?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0030",
+            "en": "Why… would you ask me if—",
+            "ru_native": "Зачем... вы просите меня...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо… чому ви просите мене…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0031",
+            "en": "Yes—yes, sir—",
+            "ru_native": "Да. Да, сэр.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Так, сер."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0032",
+            "en": "O—okay—yes, sir.",
+            "ru_native": "Х... Хорошо. Да, сэр.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Так, сер."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0033",
+            "en": "Who are you two, really?",
+            "ru_native": "Серьезно, кто вы такие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно, хто ви такі?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0034",
+            "en": "Why did you say you were time travelers?",
+            "ru_native": "Почему вы сказали, что путешествуете во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ви сказали, що ви мандрівники в часі?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0035",
+            "en": "What’s really going on?",
+            "ru_native": "Что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що насправді відбувається?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0036",
+            "en": "Why are you talking about radios?",
+            "ru_native": "Почему вы говорите про радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ви кажете про радіо?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0037",
+            "en": "Why are you talking about ghosts?",
+            "ru_native": "Почему вы говорите про привидений.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ви кажете про привидів?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0038",
+            "en": "Neither of you can explain to me what—okay, time to go.",
+            "ru_native": "Никто из вас не может мне объяснить, что... ладно, мне пора.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніхто з вас не може нормально мені пояснити, що… гаразд, мені час."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0039",
+            "en": "Okay. This is a neat trick. It is. You got me.",
+            "ru_native": "Ладно. Это было ловко. Вы меня подловили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Це було несподівано. Ви мене зацікавили."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0040",
+            "en": "I’ll play along. Why is tuning to 87.7 so important?",
+            "ru_native": "Я подыграю. Почему настроиться на 87.7 так важно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я підіграю. Чому так важливо налаштуватися на 87.7?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0041",
+            "en": "Are you kidding? You’re not kidding? You’re not kidding.",
+            "ru_native": "Вы шутите? Вы не шутите? Вы не шутите.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви жартуєте? Чи ви не жартуєте? Ні, ви не жартуєте."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0042",
+            "en": "You’re—you’re telling me—you need me to tune my radio to 87.7.",
+            "ru_native": "Вы... говорите... что мне надо настроить радио на частоту 87.7.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви… кажете… що мені треба налаштувати радіо на частоту 87.7."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0043",
+            "en": "And you’re time travelers. Huh.",
+            "ru_native": "И что вы путешественники во времени. Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що ви мандрівники в часі. Гм."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0044",
+            "en": "And this is about… ghosts. Huh.",
+            "ru_native": "И что это ради... привидений. Ха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що це заради… привидів. Гм."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0045",
+            "en": "And it’s apparently very important that I do so.",
+            "ru_native": "И, видимо, сделать это очень важно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І, мабуть, зробити це дуже важливо."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0046",
+            "en": "Listen, I… want to believe you.",
+            "ru_native": "Слушайте, я… хочу вам верить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, я хочу вам повірити…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0047",
+            "en": "I’m maybe the only person alive that could ever believe you.",
+            "ru_native": "Возможно, я единственная, кто вам поверит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, я єдина, хто зможе вам повірити."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0048",
+            "en": "But I don’t like being made a fool of. And I need a reason.",
+            "ru_native": "Но я не хочу оказаться в дураках. Мне надо знать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я не хочу опинитися в божевільні. Мені треба знати, навіщо це все."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0049",
+            "en": "Why do you want me to do this?",
+            "ru_native": "Почему вы хотите, чтобы я это сделала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ви хочете, щоби я це зробила."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0050",
+            "en": "Okay, well, if you two have nothing more to say, then I think that’s it.",
+            "ru_native": "Ладно, если вам двоим больше нечего сказать, думаю, на этом все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, якщо вам двом більше нічого сказати, гадаю, на цьому все."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0051",
+            "en": "You’re trying to help somebody?",
+            "ru_native": "Вы пытаетесь кому-то помочь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви намагаєтесь декому допомогти?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0052",
+            "en": "How will me tuning this ARC-5 into a commercial FM signal accomplish that?",
+            "ru_native": "Как кому-то поможет, если я настрою этот ARC-5 на коммерческую FM-частоту?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як комусь допоможе те, що я налаштую цей ARC-5 на комерційну частоту FM?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0053",
+            "en": "Because, to be honest…",
+            "ru_native": "Честно говоря...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно кажучи…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0054",
+            "en": "I’m a little lost.",
+            "ru_native": "Я не понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я трохи розгублена."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0055",
+            "en": "Uh, no thanks. This whole encounter has been strange and bewildering, I have to say.",
+            "ru_native": "Нет уж, спасибо. Должна признать, вся эта беседа была довольно странной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, дякую. Маю визнати, уся ця розмова була досить дивною."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0056",
+            "en": "And I think I’ve had my fill of it.",
+            "ru_native": "Пожалуй, с меня хватит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, вистачить із мене."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0057",
+            "en": "Time and—what? Explain that to me, please.",
+            "ru_native": "Время и... что? Объясните, пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час і що? Поясніть, будь ласка."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0058",
+            "en": "How does this have anything to do with time and space?",
+            "ru_native": "Какие отношение это имеет в пространству и времени?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яке відношення це має до простору та часу?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0059",
+            "en": "Because that sounds pretty big.",
+            "ru_native": "Потому что это просто общие слова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що це звучить занадто."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0060",
+            "en": "Too big for me to do anything about it.",
+            "ru_native": "Слишком общие, чтобы что-то делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Занадто для того, щоби щось робити."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0061",
+            "en": "Okay, if you can’t explain why you’re here, then… it’s time to go.",
+            "ru_native": "Ладно, если вы не можете объяснить, почему вы здесь, тогда... вам пора.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, якщо ви не можете пояснити, чому ви тут, тоді… вам час піти."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0062",
+            "en": "Please leave the station. Don’t skip check-out.",
+            "ru_native": "Прошу вас покинуть станцию. И сдайте пропуск.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прошу покинути станцію. І здайте перепустку."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0063",
+            "en": "On the level? Okay. Who’s my CO?",
+            "ru_native": "Достоверная? Ладно. Как зовут моего командира?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Достовірна? Гаразд. Як звати мого командира?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0064",
+            "en": "Am I happy this conversation is over? Yes.",
+            "ru_native": "Довольна ли я, что наш разговор окончен? О да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи задоволена я, що наша розмова закінчена? О, так."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0065",
+            "en": "Well as soon as I actually get an order, I’ll be sure to hop to it, soldier.",
+            "ru_native": "Что ж, как только я получу настоящий приказ, я тут же его выполню, солдат.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, як тільки я отримаю справжній наказ, я одразу його виконаю, солдате."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0066",
+            "en": "Please leave now, thank you.",
+            "ru_native": "А теперь уходите, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер йдіть, дякую."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0067",
+            "en": "“Radio waves… can travel across time, perpendicular to time itself.”",
+            "ru_native": "«Радиоволны... могут перемещаться во времени перпендикулярно самому времени».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Радіохвилі… можуть пересуватися в часі перпендикулярно самому часу»."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0068",
+            "en": "I wrote that in a memo I’ve sent to three different people—",
+            "ru_native": "Я написала это в записке и отправила трем разным людям...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я написала це в записці та відправила трьом різним людям."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0069",
+            "en": "—two of them said to never mention my theory to anyone else.",
+            "ru_native": "Двое ответили, что никому никогда не говорили о моей теории.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двоє відповіли, що нікому ніколи не говорили про мою теорію."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0070",
+            "en": "And one of them, I’m going to be… trying something with her, tonight. Actually.",
+            "ru_native": "А третья... Вообще-то мы с ней этой ночью хотели кое-что попробовать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А третя… Насправді, ми з нею цієї ночі хотіли дещо спробувати."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0071",
+            "en": "I have a million questions, but… something tells me that you can’t stay long.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У меня миллион вопросов, но... что-то мне подсказывает, что ты не сможешь задержаться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0072",
+            "en": "So I’ll just say I’ll help you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Поэтому я просто скажу, что помогу тебе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0073",
+            "en": "I will.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, зроблю."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0074",
+            "en": "87.7.",
+            "ru_native": "87.7",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "87.7."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0075",
+            "en": "I’ll be there.",
+            "ru_native": "Я буду там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я налаштую."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0076",
+            "en": "No, I’m sure you didn’t.",
+            "ru_native": "Да уж, не сомневаюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, не сумніваюся."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0077",
+            "en": "87.7. Listen for me.",
+            "ru_native": "87.7. Слушайте меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "87.7. Чекайте на повідомлення."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0078",
+            "en": "The door is behind you. Thanks.",
+            "ru_native": "Дверь сзади вас. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двері позаду. Дякую."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0079",
+            "en": "I will… do what you ask. I’ll tune to that station, but on one condition.",
+            "ru_native": "Я сделаю, что вы просите. Настроюсь на станцию, но при одном условии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… зроблю те, що ви просите. Я налаштуюся на цю станцію, але за однієї умови."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0080",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0081",
+            "en": "Come back… and tell me if it worked.",
+            "ru_native": "Вернись и скажи, сработало ли это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поверніться… і скажіть, чи спрацювало."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0082",
+            "en": "Okay okay, but… look… if I do this…",
+            "ru_native": "Хорошо! Но если я это сделаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, гаразд, але… якщо я зроблю це…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0083",
+            "en": "—you better come back here when it’s done and tell me if it worked.",
+            "ru_native": "Ты должна будешь вернуться и рассказать, сработало ли это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…краще поверніться, коли все скінчиться, і скажіть, чи спрацювало."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0084",
+            "en": "So if I do this—I tune into the station and everything… just…",
+            "ru_native": "Если я соглашусь, настроюсь на станцию и все такое...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, якщо я зроблю це… я налаштуюся на станцію і все… тоді просто…"
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0085",
+            "en": "Come back… and tell me if it worked.",
+            "ru_native": "Вернись и скажи, сработало ли это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поверніться… і скажіть, чи спрацювало."
+        },
+        {
+            "tag": "A3S5.METMAJ_MAGGIE_0086",
+            "en": "Alright? I’ll help.",
+            "ru_native": "Хорошо? Я помогу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре? Я допоможу."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0000",
+            "en": "We’re… sorry for barging in on you like this, but… I have to ask… who are you?",
+            "ru_native": "Мы... извините, что вмешиваюсь, но... Я должна спросить... а вы кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… вибачте, що відволікаємо, але… Я маю запитати… ви хто?"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0001",
+            "en": "I’m… Riley. Uh, Riley Poverly, and this is Jacob Summers—",
+            "ru_native": "Я… Райли. Райли Поверли, а это Джейкоб Саммерс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Райлі. Райлі Поверлі, а це Джейкоб Саммерс."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0002",
+            "en": "We’re… actually, you know what? It doesn’t really matter, but we—",
+            "ru_native": "Мы... Знаете что? Это, конечно, неважно, но мы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… Знаєте що? Це, звичайно, не має значення, але ми…"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0003",
+            "en": "Look, Miss Adler… We’re time travelers. Okay? Tell her Jacob.",
+            "ru_native": "Слушайте, мисс Адлер... Мы путешественники во времени. Скажи ей, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, міс Адлер… Ми мандрівники в часі. Гаразд? Скажи їй, Джейкобе."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0004",
+            "en": "I literally traveled through time… to get here.",
+            "ru_native": "Я буквально прошла сквозь время... чтобы попасть сюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я буквально пройшла через часовий простір… щоби потрапити сюди."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0005",
+            "en": "And somebody has… led me to believe that you would be, uh, conducive to helping out someone like me.",
+            "ru_native": "И кое-кто... заставил меня поверить, что вы могли бы мне помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І дехто… змусив мене повірити, що ви могли б допомогти."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0006",
+            "en": "I’m… I… think we need your help with something important.",
+            "ru_native": "Я... Мне кажется, вы можете помочь нам в одном важном деле.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Мені здається, що ви можете допомогти нам в одній важливій справі."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0007",
+            "en": "I’m… I think—we think we need you. Actually. Maybe?",
+            "ru_native": "Я... Думаю, нам нужны именно вы. Наверное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Гадаю, що нам потрібні саме ви. Мабуть."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0008",
+            "en": "Uh… maybe it could be anyone? Um, the—the thing of it is—",
+            "ru_native": "Эм... может, и кто-то другой подойдет? Дело вот в чем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… може, і хтось інший підійде? Справа ось у чому…"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0009",
+            "en": "Look, here’s the… we’re time travelers. Okay? Tell her Jacob.",
+            "ru_native": "Слушайте... Мы путешественники во времени. Скажи ей, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте… Ми мандрівники в часі. Гаразд? Скажи їй, Джейкобе."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0010",
+            "en": "Uh… something… is happening right now—something absolutely insane—",
+            "ru_native": "Хм... Прямо сейчас кое-что происходит... Что-то абсолютно безумное...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… Саме зараз дещо відбувається… Щось абсолютно божевільне…"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0011",
+            "en": "—something that sounds absolutely insane, anyway. And you, I think, are a part of it.",
+            "ru_native": "... Что-то, что звучит абсолютно безумно. И я считаю, что вы с этим связаны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…щось, що звучить абсолютно божевільно. І я вважаю, що ви із цим пов’язані."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0012",
+            "en": "We… need you to tune your radio.",
+            "ru_native": "Мне... надо, чтобы вы настроили свое радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені… потрібно, щоби ви налаштували своє радіо."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0013",
+            "en": "That’s not the crazy part, but it’s a… part of the something crazy.",
+            "ru_native": "Это еще не безумие, но... часть чего-то безумного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ще не божевілля, але… частина чогось божевільного."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0014",
+            "en": "Look, uh, do you—do you believe in ghosts?",
+            "ru_native": "Слушайте, вы... Верите в привидения?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, ви… Вірите в привидів?"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0015",
+            "en": "I’m sorry, it’s just… what do you think about ghosts? It’s important right now.",
+            "ru_native": "Простите... Как вы относитесь к привидениям? Это важно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте… Що ви думаєте про привидів? Це дуже важливо."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0016",
+            "en": "I’m sorry, it’s just… it’s important right now.",
+            "ru_native": "Простите, но... это важно сделать именно сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте… Це дуже важливо."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0017",
+            "en": "We’re telling the truth, Miss—Miss Adler. We’re from the future.",
+            "ru_native": "Мы говорим правду, мисс... Мисс Адлер. Мы из будущего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми говоримо правду, міс… Міс Адлер. Ми з майбутнього."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0018",
+            "en": "And we just need you to tune your radio to 87.7 in, like, two minutes.",
+            "ru_native": "И нам очень нужно, чтобы вы настроились на частоту 87.7 примерно через две минуты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І нам дуже потрібно, щоби ви налаштувалися на частоту 87.7 приблизно за дві хвилини."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0019",
+            "en": "I—we need your help, Miss—Miss Adler. It’s… vital. To many people.",
+            "ru_native": "Нам нужна ваша помощь, мисс Адлер. Это вопрос жизни и смерти. Для многих.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам потрібна ваша допомога, міс Адлер. Це питання життя та смерті. Для багатьох."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0020",
+            "en": "I’m… look, time isn’t on our side right now, but your life is in danger. Okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... послушай, время сейчас не на нашей стороне, но твоя жизнь в опасности. Понятно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0021",
+            "en": "Look, Miss—Miss Adler, this is really, really important. Too important to really even convey properly.",
+            "ru_native": "Слушайте, мисс Адлер. Это очень-очень важно. Нет времени объяснять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, міс Адлер. Це дуже важливо. Немає часу пояснювати."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0022",
+            "en": "Look… Miss Adler? The truth is we’re from the future? Okay. I’m literally from the future.",
+            "ru_native": "Слушайте, мисс Адлер. Правда в том, что мы из будущего. Ясно? В буквальном смысле.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, міс Адлер. Це правда, ми з майбутнього. Гаразд? У буквальному сенсі."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0023",
+            "en": "And we’re here because we need your help.",
+            "ru_native": "И мы здесь, потому что нам нужна ваша помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ми тут, бо нам потрібна ваша допомога."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0024",
+            "en": "Look… Miss Adler? Ghosts? They’re a real thing. It’s just not how most people think of them.",
+            "ru_native": "Слушайте, мисс Адлер. Привидения существуют.<br>Просто они не такие, какими их представляют.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, міс Адлер. Привиди існують. Просто вони не такі, як їх уявляють."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0025",
+            "en": "And we can help a few of them… if you can just help me.",
+            "ru_native": "И мы можем некоторым из них помочь... если вы поможете мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ми можемо деяким із них допомогти… якщо ви допоможете мені."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0026",
+            "en": "We’re… trying to help somebody. Some… people, really.",
+            "ru_native": "Мы... пытаемся кое-кому помочь. Одним... людям.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… намагаємося декому допомогти. Деяким… людям."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0027",
+            "en": "People… I don’t even know how to explain this, but… some people got trapped… between time.",
+            "ru_native": "Люди... не знаю, как объяснить, но... люди застряли... во времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люди… не знаю, як пояснити, але… деякі люди застрягли… у часовому просторі."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0028",
+            "en": "And… now we think that using radio waves, we can kind of… unstick them.",
+            "ru_native": "И... мы думаем, что с помощью радиоволн их можно как бы... отклеить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… ми вважаємо, що за допомогою радіохвиль їх можна… витягти звідти."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0029",
+            "en": "Yeah, look, I don’t understand it, you’re not gonna understand it, let’s just…",
+            "ru_native": "Слушайте, я сама этого не понимаю, и вы вряд ли поймете, давайте просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, я сама цього не розумію, і ви навряд чи зрозумієте, просто давайте…"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0030",
+            "en": "You just gotta go with us here, a little. It’s not a big deal. Just tune the radio.",
+            "ru_native": "Просто сделайте, что мы говорим. Ничего сложного. Просто настройте радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто зробіть те, що ми просимо. Нічого складного. Просто налаштуйте радіо."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0031",
+            "en": "The reason is that time and space are getting massively messed with right now.",
+            "ru_native": "Причина в том, что время и пространство сейчас сильно запутываются.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Причина в тому, що час і простір зараз сплуталися."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0032",
+            "en": "It’s the only reason we’re here, frankly—the only reason we can be here.",
+            "ru_native": "Честно говоря, только поэтому мы и здесь... поэтому мы можем быть здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно кажучи, тільки тому ми тут… тому ми можемо бути тут."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0033",
+            "en": "Oh Jesus Christ, I don’t know the damn science! We can’t explain the reasoning behind it—",
+            "ru_native": "О господи, я не смыслю в науке! Мы не можем объяснить глубинные причины...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, я не тямлю в бісовій науці! Ми не можемо пояснити глибинні причини…"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0034",
+            "en": "Just things are falling apart because of mathematical laws that are beyond us all.",
+            "ru_native": "Просто все разваливается из-за математических законов, которые выше нашего понимания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто все розвалюється через математичні закони, які вищі за наше розуміння."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0035",
+            "en": "Uh, well, some teenagers opened a… portal that connects timelines and alternate dimensions.",
+            "ru_native": "В общем, группа подростков открыла… портал, который<br>объединяет линии времени и альтернативные измерения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Загалом, група підлітків відкрила портал… який поєднує лінії часу та<br>альтернативні виміри."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0036",
+            "en": "It’s… hard to explain, but… please. Just trust us.",
+            "ru_native": "Это… сложно объяснить, но... пожалуйста. Просто поверьте нам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… важко пояснити, але… будь ласка. Просто повірте нам."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0037",
+            "en": "Miss Adler, this is a direct order from your commanding officer. Okay?",
+            "ru_native": "Мисс Адлер, это прямой приказ от вашего командира. Ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Міс Адлер, це прямий наказ вашого командира. Гаразд?"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0038",
+            "en": "We’re in our civvies because we got called in from a training detail, but this is on the level.",
+            "ru_native": "Мы в штатском, потому что нас вызвали с учений, но это достоверная информация.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми в цивільному, бо нас викликали з навчань, але це достовірна інформація."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0039",
+            "en": "Oh Jesus Christ, Adler, you know how many officers are on this base?",
+            "ru_native": "О господи, Адлер, вы представляете, сколько на этой базе офицеров?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, Адлер, ви уявляєте, скільки на цій базі офіцерів?"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0040",
+            "en": "I don’t remember the guy’s name. Just trust me, here.",
+            "ru_native": "Не помню я, как его зовут. Просто поверьте мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не пам’ятаю, як його звуть. Просто повірте мені."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0041",
+            "en": "Oh Jesus Christ, Maggie, it’s Col. Doodie Face, alright? Happy?",
+            "ru_native": "О господи, Мэгги, полковник Как-его-там? Довольна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, Меггі, полковник Містер Генкі? Задоволені?"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0042",
+            "en": "Watch your tone, soldier. And don’t question orders.",
+            "ru_native": "Полегче, солдат. Не ставьте под сомнение приказы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Легше, солдате. Не ставте під сумнів накази."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0043",
+            "en": "Oh my God, Maggie—Miss Adler, sorry—but… thank you so much.",
+            "ru_native": "О боже, Мэгги... Простите, мисс Адлер... Спасибо вам огромное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, Меггі… Вибачте, міс Адлер… Дуже дякую вам."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0044",
+            "en": "I… really didn’t know what to expect from this.",
+            "ru_native": "Я… правда не знала, что из этого выйдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… насправді, не знала, що із цього вийде."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0045",
+            "en": "Oh man, Maggie, you’re awesome, you’re just—this is such a huge lifesaver.",
+            "ru_native": "О боже, Мэгги, вы прелесть, вы просто... самая настоящая спасительница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, Меггі, ви — надзвичайні, ви просто… справжнісінька рятівниця."
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0046",
+            "en": "Uh, Jacob… you might know better how to, uh…",
+            "ru_native": "Джейкоб, думаю, ты лучше знаешь, как...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, Джейкобе… ти, можливо, краще знаєш, як…"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0047",
+            "en": "Okay. What is it?",
+            "ru_native": "Ладно. Что за условие?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Яка умова?"
+        },
+        {
+            "tag": "A3S5.METMAJ_RILEY_0048",
+            "en": "Oh c’mon, Maggie, just do it! It’s not hard and it—it will—",
+            "ru_native": "Мэгги, прошу, просто подключитесь! Это же не сложно, и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нумо, Меггі, просто зробіть це! Це не важко, і це…"
+        }
+    ]
+}

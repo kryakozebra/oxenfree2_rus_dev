@@ -1,0 +1,780 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V2.BEFENT",
+    "entries": [
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0000_OPTION_0000",
+            "en": "Why do you ask?",
+            "ru_native": "Почему спрашиваешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А чому ти питаєш?"
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0000_OPTION_0001",
+            "en": "Not my kind of town.",
+            "ru_native": "Этот город не для меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це місто не для мене."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0000_OPTION_0002",
+            "en": "I liked it here.",
+            "ru_native": "Мне тут нравилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені тут подобалося."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0001_OPTION_0000",
+            "en": "I needed a change.",
+            "ru_native": "Я хотела перемен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотіла щось змінити."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0001_OPTION_0001",
+            "en": "I didn’t like the people.",
+            "ru_native": "Мне не нравились люди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені не подобалися люди тут."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0001_OPTION_0002",
+            "en": "I don’t know why I left.",
+            "ru_native": "Не знаю, почему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю чому я поїхала."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0002_OPTION_0000",
+            "en": "Bigger buildings.",
+            "ru_native": "Здания выше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вищі будинки."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0002_OPTION_0001",
+            "en": "Anywhere else.",
+            "ru_native": "В любом другом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У будь-якому іншому місті краще."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0002_OPTION_0002",
+            "en": "Better weather.",
+            "ru_native": "Погода приятнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Місто, де погода приємніша."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0003_OPTION_0000",
+            "en": "Didn’t want to get stuck.",
+            "ru_native": "Не хотела тут застрять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не хотіла тут застрягти."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0003_OPTION_0001",
+            "en": "Wanted to see new places.",
+            "ru_native": "Хотела увидеть новое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотіла побачити інші місця."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0003_OPTION_0002",
+            "en": "I don’t know why.",
+            "ru_native": "Не знаю, почему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю чому."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0004_OPTION_0000",
+            "en": "I do.",
+            "ru_native": "Я вижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачу."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0004_OPTION_0001",
+            "en": "Me neither.",
+            "ru_native": "Я тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0005_OPTION_0000",
+            "en": "Yeah, I’m fine.",
+            "ru_native": "Да, я в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, у мене все гаразд."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0005_OPTION_0001",
+            "en": "Sorry, just quiet.",
+            "ru_native": "Просто притихла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач, просто не хочу розмовляти."
+        },
+        {
+            "tag": "A2V2.BEFENT_CHOICE_0005_OPTION_0002",
+            "en": "I’m working.",
+            "ru_native": "Я работаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я працюю."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0000",
+            "en": "Do you ever… miss Camena?",
+            "ru_native": "Ты скучаешь по Камене?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сумуєш за… Каменою?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0001",
+            "en": "Uh, but anyways, I was asking if you ever, uh, miss Camena…?",
+            "ru_native": "Я хотел спросить, ты не скучаешь по Камене?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Я хотів запитати, чи ти не сумуєш за… Каменою?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0002",
+            "en": "Sorry, I was just—just wondering, though, if you ever do miss the town?",
+            "ru_native": "Прости, просто захотел узнать, скучаешь ли ты по городу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач, просто захотів дізнатися, чи сумуєш ти за містом?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0003",
+            "en": "I was… just curious.",
+            "ru_native": "Интересно стало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто цікаво."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0004",
+            "en": "You’ve been gone a while.",
+            "ru_native": "Тебя давно не было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тебе давно не було."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0005",
+            "en": "Camena?",
+            "ru_native": "По Камене?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За Каменою?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0006",
+            "en": "Oh—I, uh, I just assumed you left cause it was, uh, I don’t know… lacking.",
+            "ru_native": "Я решил, что ты уехала, потому что тебе... чего-то здесь не хватало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вирішив, що ти поїхала, бо тобі… чогось тут бракувало, щось типу того."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0007",
+            "en": "Anyways, I was—I was surprised that you liked it here.",
+            "ru_native": "Я удивлен, что тебе здесь нравилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я здивований, що тобі воно подобалося."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0008",
+            "en": "I just thought, uh, you thought the town was missing something…",
+            "ru_native": "Я думал, что тебе чего-то не хватало в городе...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав, що тобі чогось бракувало в місті…"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0009",
+            "en": "Which is a weird way to put something, I’m… just realizing.",
+            "ru_native": "Что звучит довольно странно, признаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що звучить досить дивно… визнаю."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0010",
+            "en": "But you know what I mean.",
+            "ru_native": "Ты меня поняла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене зрозуміла."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0011",
+            "en": "But…",
+            "ru_native": "Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але…"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0012",
+            "en": "Maybe that’s just the vibe I was getting.",
+            "ru_native": "Может, просто так со стороны казалось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо просто так здавалося зі сторони."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0013",
+            "en": "Oh, no offense taken.",
+            "ru_native": "Я не обижаюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не ображаюся."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0014",
+            "en": "It’s not like this is some kind of, uh, you know—I don’t even know what—",
+            "ru_native": "Не то, чтобы это было какое-то... Я даже не знаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не те щоби це було якесь… Я навіть не знаю…"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0015",
+            "en": "But, uh, what were you hoping to get to?",
+            "ru_native": "Чего ты хотела от жизни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого ти хотіла досягти?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0016",
+            "en": "Anyways, I was just asking what were you hoping for in a new place?",
+            "ru_native": "Я хотел спросить, чего ты ждала от жизни на новом месте?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотів спитати, чого ти намагалася досягти на новому місці?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0017",
+            "en": "Just for—I’m just curious.",
+            "ru_native": "Просто любопытно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… просто цікаво."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0018",
+            "en": "What kind of town is your kind of town.",
+            "ru_native": "В каком городе тебе комфортнее?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А яке воно, місто, що підходить для тебе?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0019",
+            "en": "You know…",
+            "ru_native": "Чем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш…"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0020",
+            "en": "That wasn’t Camena?",
+            "ru_native": "Чем в Камене?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому Камена не підходить?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0021",
+            "en": "Uh, I don’t know, actually.",
+            "ru_native": "Вообще не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, взагалі, не знаю."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0022",
+            "en": "I think maybe I’m just curious why you left?",
+            "ru_native": "Наверно, мне интересно, почему ты уехала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно, мені просто цікаво, чому ти поїхала?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0023",
+            "en": "Sorry, I was just asking why you left town?",
+            "ru_native": "Я хотел спросить, почему ты уехала из города?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотів спитати, чому ти поїхала з міста?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0024",
+            "en": "Not that… you needed a strong reason.",
+            "ru_native": "Не обязательно должна быть причина.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не обов’язково має бути вагома причина…"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0025",
+            "en": "I was just curious, I guess.",
+            "ru_native": "Просто стало интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені, мабуть, просто цікаво."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0026",
+            "en": "Camena?",
+            "ru_native": "Из Камены?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із Камени?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0027",
+            "en": "Well… you’re definitely your own person, now.",
+            "ru_native": "Что ж... Теперь ты точно самобытная единица.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже… Тепер ти точно індивідуальність."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0028",
+            "en": "I mean… I remember the guy. I hardly see the resemblance.",
+            "ru_native": "Я твоего отца помню, и почти не вижу сходства.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… Я пам’ятаю твого батька, і майже не бачу подібності."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0029",
+            "en": "You doing okay?",
+            "ru_native": "Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти як?"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0030",
+            "en": "Just… want to check in…",
+            "ru_native": "Хотел убедиться...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… Хотів пересвідчитись…"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0031",
+            "en": "Yeah, sorry, no problem.",
+            "ru_native": "Хорошо, извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, без проблем…"
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0032",
+            "en": "Okay, let’s just get this over with.",
+            "ru_native": "Ладно, давай покончим с этим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, покінчимо із цим."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0033",
+            "en": "Alright — [phew] I… think we might have gotten here, first. Seems pretty quiet.",
+            "ru_native": "Все... Кажется, мы добрались первыми. Тут довольно тихо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе… [фух] Здається, ми дісталися сюди першими. Тут дуже тихо."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0034",
+            "en": "Just, uh, follow me, it’s right here.",
+            "ru_native": "За мной, нам сюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто пішли, нам сюди."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0035",
+            "en": "Man, the weather this month.",
+            "ru_native": "Ну и погодка в этом месяце.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну й погода цього місяця."
+        },
+        {
+            "tag": "A2V2.BEFENT_JACOB_0036",
+            "en": "It’s usually unpredictable but the temperature’s been crazy cold for weeks..",
+            "ru_native": "Ее и так сложно предсказать, но в последнее время холодрыга жуткая...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І так складно прогнозувати, але останніми тижнями дуже холодно…"
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0000",
+            "en": "Uh… why do you ask?",
+            "ru_native": "Ммм... Почему спрашиваешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е… А чому ти питаєш?"
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0001",
+            "en": "Uh… sorry, but no. It’s just… not my kind of town, I guess.",
+            "ru_native": "Прости, но нет. Этот город явно не для меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач, але ні. Це місто, мабуть, не для мене."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0002",
+            "en": "Uh… yeah, actually. I liked it here.",
+            "ru_native": "Вообще да. Мне тут нравилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі так. Мені тут подобалося."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0003",
+            "en": "I got sad when I realized I wouldn’t talk to the old guy who owned the video rental place ever again.",
+            "ru_native": "Я расстроилась, когда поняла, что больше не поболтаю со старичком из видеопроката.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я засмутилася, коли зрозуміла, що більше не поговорю зі стариком із відеопрокату."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0004",
+            "en": "I… didn’t want to get stuck.",
+            "ru_native": "Я не хотела тут застрять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не хотіла тут застрягти."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0005",
+            "en": "Dad never left—or never will leave, I guess I should say.",
+            "ru_native": "Отец так и не уехал, и не уедет, если уж на то пошло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Батько так і не поїхав, і не поїде, якщо вже на те пішло."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0006",
+            "en": "And I just didn’t want to be like him. At least not in that way.",
+            "ru_native": "А я не хотела быть похожей на него. Не таким образом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я не хотіла бути схожою на нього. Чи не таким чином."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0007",
+            "en": "To be honest, Jacob, present company obviously excluded…",
+            "ru_native": "Если по-чесноку, Джейкоб, за вычетом текущей компании...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо відверто, Джейкобе, за виключенням цієї компанії…"
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0008",
+            "en": "—but I was never the biggest cheerleader for the people here.",
+            "ru_native": "К людям здесь я не питала глубокой симпатии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…люди тут мене не дуже сприймали."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0009",
+            "en": "They’re just very \"Burn the witches\" around here. That small town paranoia. My Dad was like that.",
+            "ru_native": "Эта вечная охота на ведьм и паранойя маленького городка... Отец был таким.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це одвічне «полювання на відьом» і параноя маленького містечка…<br>Батько був таким самим."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0010",
+            "en": "Uh… you know… I don’t really know why.",
+            "ru_native": "Знаешь... Я и сама не могу сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Знаєш… Я й сама не можу сказати, чому."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0011",
+            "en": "Probably some… mid-tier rebellion waged against my Dad.",
+            "ru_native": "Вероятно, это был своего рода бунт против отца.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ймовірно… це був своєрідний бунт проти батька."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0012",
+            "en": "I just didn’t want him to think that I couldn’t leave. That I needed him around.",
+            "ru_native": "Не хотела, чтобы ему казалось, что я не смогу уехать. Что он мне нужен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хотіла, щоби йому здавалося, що я не зможу поїхати. Що він мені потрібний."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0013",
+            "en": "I’m more of a city-city person. Buildings with a fortieth floor. Cabs. That kind of thing.",
+            "ru_native": "Мне по душе мегаполисы. Небоскребы за сорок этажей, тучи такси и все в таком духе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені до вподоби мегаполіси. Хмарочоси за сорок поверхів. Де є таксі й таке інше."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0014",
+            "en": "My Dad liked the rain and the beach. It’s the only reason we were here.",
+            "ru_native": "Отец любил дожди и пляжи. Только поэтому мы здесь и жили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Батько любив дощ і пляжі. Тільки тому ми тут жили."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0015",
+            "en": "Really anywhere else. Just didn’t rub off on me.",
+            "ru_native": "В любом другом городе. Главное – не здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь-яке інше місто. Головне — не тут."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0016",
+            "en": "A town with better weather.",
+            "ru_native": "Там, где погода поприятнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Місто, де погода приємніша."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0017",
+            "en": "The clouds are great, but I need 75 and sunny more than two months out of the year.",
+            "ru_native": "Облака – это хорошо, но мне нужно солнце и тепло больше, чем два месяца в году.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хмари — це добре, але мені потрібне сонце й тепло більше, ніж два місяці на рік."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0018",
+            "en": "I… wanted to see new places on the map, I think.",
+            "ru_native": "Я хотела повидать другие места на карте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотіла побачити інші місця, мабуть."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0019",
+            "en": "Uh, other than where his rank put him, my Dad never really traveled.",
+            "ru_native": "Отец никогда не путешествовал, только переезжал по службе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Батько ніколи не подорожував, тільки переїжджав по службі."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0020",
+            "en": "Well. I do.",
+            "ru_native": "А я вижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… А я бачу."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0021",
+            "en": "Yeah. Me neither.",
+            "ru_native": "Да, я тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я також."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0022",
+            "en": "Yeah — no, Jacob, I’m fine. Really. Just… thinking.",
+            "ru_native": "Да, Джейкоб, все в порядке. Просто задумалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Джейкобе, усе гаразд. Просто… замислилась."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0023",
+            "en": "Oh, uh, sorry Jacob, I’m just not in the most talkative mood right now.",
+            "ru_native": "Прости, Джейкоб, я сейчас не особо разговорчивая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, вибач, Джейкобе, я зараз не дуже налаштована балакати."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0024",
+            "en": "Jacob, seriously, nothing against you, but I’m kind of working right now.",
+            "ru_native": "Джейкоб, ты не обижайся, но я вообще-то работаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, ти не ображайся, але я, типу, працюю тут."
+        },
+        {
+            "tag": "A2V2.BEFENT_RILEY_0025",
+            "en": "I just want to get this over with and go home, you know what mean?",
+            "ru_native": "Я хочу покончить со всем этим и пойти домой, понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу покінчити з усім цим і піти додому, розумієш?"
+        }
+    ]
+}

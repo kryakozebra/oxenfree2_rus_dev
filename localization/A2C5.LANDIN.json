@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C5.LANDIN",
+    "entries": [
+        {
+            "tag": "A2C5.LANDIN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.LANDIN_CHOICE_0000_OPTION_0000",
+            "en": "Ugh.",
+            "ru_native": "Черт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух."
+        },
+        {
+            "tag": "A2C5.LANDIN_CHOICE_0000_OPTION_0001",
+            "en": "Ouch.",
+            "ru_native": "Ай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай."
+        },
+        {
+            "tag": "A2C5.LANDIN_CHOICE_0000_OPTION_0002",
+            "en": "What was that?",
+            "ru_native": "Что это было?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це було?"
+        },
+        {
+            "tag": "A2C5.LANDIN_RILEY_0000",
+            "en": "[painful sigh]",
+            "ru_native": "О-о-ох...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сичить від болю]"
+        },
+        {
+            "tag": "A2C5.LANDIN_RILEY_0001",
+            "en": "Ugh. That… hurt.",
+            "ru_native": "Черт. Больно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай. Боляче…"
+        },
+        {
+            "tag": "A2C5.LANDIN_RILEY_0002",
+            "en": "Ouch.",
+            "ru_native": "Ай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай."
+        },
+        {
+            "tag": "A2C5.LANDIN_RILEY_0003",
+            "en": "What the hell was that?",
+            "ru_native": "Какого хрена?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що то за чортівня була?"
+        }
+    ]
+}

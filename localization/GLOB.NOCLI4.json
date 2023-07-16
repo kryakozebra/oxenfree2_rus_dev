@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.NOCLI4",
+    "entries": [
+        {
+            "tag": "GLOB.NOCLI4_JACOB_0000",
+            "en": "Once we get your stuff at the General Store on the Docks we should be all set for climbing.",
+            "ru_native": "Когда заберем твое снаряжение в магазине в доках, сможем лазать по скалам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як тільки в нас буде спорядження з універмагу в<br>доках, ми будемо готові підійматися."
+        },
+        {
+            "tag": "GLOB.NOCLI4_RILEY_0000",
+            "en": "[to herself] Looks like there’s a climbing anchor up there…",
+            "ru_native": "Кажется, наверху альпинистский якорь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[До себе] Схоже, тут є альпіністський карабін…"
+        },
+        {
+            "tag": "GLOB.NOCLI4_RILEY_0001",
+            "en": "[to herself] If I had rope… maybe?",
+            "ru_native": "Будь у меня веревка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[До себе] Можливо, якби в мене була мотузка?"
+        }
+    ]
+}

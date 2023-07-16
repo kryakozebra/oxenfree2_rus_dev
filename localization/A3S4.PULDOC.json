@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S4.PULDOC",
+    "entries": [
+        {
+            "tag": "A3S4.PULDOC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.PULDOC_CHOICE_0000_OPTION_0000",
+            "en": "Where’s Olivia?",
+            "ru_native": "Где Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Олівія?"
+        },
+        {
+            "tag": "A3S4.PULDOC_CHOICE_0000_OPTION_0001",
+            "en": "No other boats...",
+            "ru_native": "Лодок нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жодних човнів…"
+        },
+        {
+            "tag": "A3S4.PULDOC_JACOB_0000",
+            "en": "Huh, I don’t see Olivia’s boat.",
+            "ru_native": "Что-то не вижу лодку Оливии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось не бачу човна Олівії."
+        },
+        {
+            "tag": "A3S4.PULDOC_JACOB_0001",
+            "en": "Actually—yeah, why am I surprised by that?",
+            "ru_native": "Хотя... чему я вообще удивляюсь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому я не дивуюся?"
+        },
+        {
+            "tag": "A3S4.PULDOC_JACOB_0002",
+            "en": "She probably just ran the thing aground somewhere and hobbled out.",
+            "ru_native": "Она наверное села на мель и дальше пошла на своих двоих.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона, мабуть, сіла десь на мілину, а далі попрямувала пішки."
+        },
+        {
+            "tag": "A3S4.PULDOC_JACOB_0003",
+            "en": "[to himself] Poor boat.",
+            "ru_native": "Бедная лодка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Шкода човна."
+        },
+        {
+            "tag": "A3S4.PULDOC_JACOB_0004",
+            "en": "Maybe we’ll have time to catch up to her. C’mon.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, у нас будет время догнать ее. C'mon.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми знайдемо її пізніше. Ходімо."
+        },
+        {
+            "tag": "A3S4.PULDOC_RILEY_0000",
+            "en": "Where did Olivia dock?",
+            "ru_native": "Где причалила Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де причалила Олівія?"
+        },
+        {
+            "tag": "A3S4.PULDOC_RILEY_0001",
+            "en": "Actually—knowing that girl I doubt she gave much thought to it all.",
+            "ru_native": "Хотя, зная эту девчонку... Вряд ли она думала о возвращении.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча знаючи її… Вона навряд чи думала про таке."
+        },
+        {
+            "tag": "A3S4.PULDOC_RILEY_0002",
+            "en": "Probably just ran the thing aground and walked away.",
+            "ru_native": "Наверно села на мель и дальше пошла пешком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, сіла на мілину й попрямувала пішки."
+        },
+        {
+            "tag": "A3S4.PULDOC_RILEY_0003",
+            "en": "I don’t see… any other boats. Including Olivia’s.",
+            "ru_native": "Тут больше ни одной лодки. Даже Оливии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не бачу човнів узагалі. І човна Олівії також."
+        },
+        {
+            "tag": "A3S4.PULDOC_RILEY_0004",
+            "en": "I hope I still have time.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Надеюсь, у меня еще есть время.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, час ще є."
+        }
+    ]
+}

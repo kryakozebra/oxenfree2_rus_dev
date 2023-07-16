@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.REBOAT",
+    "entries": [
+        {
+            "tag": "GLOB.REBOAT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.REBOAT_CHOICE_0000_OPTION_0000",
+            "en": "I’m ready to go.",
+            "ru_native": "Я готова ехать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я готова вирушати."
+        },
+        {
+            "tag": "GLOB.REBOAT_JACOB_0000",
+            "en": "Cool, let’s.",
+            "ru_native": "Погнали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто, уперед."
+        },
+        {
+            "tag": "GLOB.REBOAT_RILEY_0000",
+            "en": "I’m ready, let’s go.",
+            "ru_native": "Я готова, погнали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я готова! До справи!"
+        }
+    ]
+}

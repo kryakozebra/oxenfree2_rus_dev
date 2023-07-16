@@ -1,0 +1,753 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.OLDJAC",
+    "entries": [
+        {
+            "tag": "A3S5.OLDJAC_ALEX_0000",
+            "en": "He’s right. I think I—got it, I think. C’mon.",
+            "ru_native": "Он прав. Кажется, я поняла. Давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Його правда. Здається, я зрозуміла. Пішли."
+        },
+        {
+            "tag": "A3S5.OLDJAC_ALEX_0001",
+            "en": "We’re ready. Follow me.",
+            "ru_native": "Мы готовы. За мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми готові. За мною."
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0000_OPTION_0000",
+            "en": "This is the weirdest thing yet.",
+            "ru_native": "Это пока что самое странное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це поки що найдивніше."
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0000_OPTION_0001",
+            "en": "Don’t talk to each other!",
+            "ru_native": "Не разговаривайте друг с другом!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не розмовляйте одне з одним!"
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0001_OPTION_0000",
+            "en": "She’s cute.",
+            "ru_native": "Она милая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона мила."
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0001_OPTION_0001",
+            "en": "Who’s that?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0002_OPTION_0000",
+            "en": "Don’t answer that.",
+            "ru_native": "Не отвечай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не відповідай."
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0002_OPTION_0001",
+            "en": "Are you sure you want to know?",
+            "ru_native": "Ты уверен, что хочешь это знать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти впевнений, що хочеш це знати?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0002_OPTION_0002",
+            "en": "Yeah, what does happen?",
+            "ru_native": "Да, что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так що трапиться?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0003_OPTION_0000",
+            "en": "She’s mean.",
+            "ru_native": "Она ужасна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона зла."
+        },
+        {
+            "tag": "A3S5.OLDJAC_CHOICE_0003_OPTION_0001",
+            "en": "She doesn’t like us.",
+            "ru_native": "Мы ей не нравимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми їй не подобаємося."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0000",
+            "en": "Uhhhh… huh.",
+            "ru_native": "Э-э-эм... хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-ем… Гм."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0001",
+            "en": "I would say that’s probably true, yes.",
+            "ru_native": "Я бы сказал, что да, скорее всего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я би сказав, що так, швидше за все."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0002",
+            "en": "Um, you’re positive?",
+            "ru_native": "Эм, ты уверена?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, це перевірений факт?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0003",
+            "en": "So. We decide not to shave, then.",
+            "ru_native": "Значит, мы решаем не бриться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, ми вирішили не голитися."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0004",
+            "en": "Border collies really are the greatest.",
+            "ru_native": "Бордер-колли действительно лучшие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бордер-коллі, справді найкраща порода."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0005",
+            "en": "What… happens to us?",
+            "ru_native": "Что... с нами происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, що з нами сталося?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0006",
+            "en": "Meaning—you and me… me.",
+            "ru_native": "В смысле... с тобой и мной... мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… з тобою та мною… і мною."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0007",
+            "en": "I… think I’m sure.",
+            "ru_native": "Думаю, уверен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю… впевнений."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0008",
+            "en": "I don’t wanna say.",
+            "ru_native": "Я не хочу говорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хочу відповідати."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0009",
+            "en": "I’m happy you're healthy.",
+            "ru_native": "Я рад, что ты здоров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я радий, що ти здоровий."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0010",
+            "en": "We’re healthy. Healthy-looking, anyway.",
+            "ru_native": "Мы здоровы. По крайней мере, с виду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми — здорові. Принаймні, на вигляд."
+        },
+        {
+            "tag": "A3S5.OLDJAC_JACOB_0011",
+            "en": "Okay, uh—bye… me.",
+            "ru_native": "Ладно, пока...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, бувай… інший я."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0000",
+            "en": "Hey, Riley! Hey, uh… me.",
+            "ru_native": "Эй, Райли! Эй... я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Райлі! Гей… я…"
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0001",
+            "en": "Hey, guys. [chuckling] Hey, buddy.",
+            "ru_native": "Эй, народ. Эй, приятель.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, народ. [хихикає] Гей, друже."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0002",
+            "en": "This is probably weirder for you than it is for me.",
+            "ru_native": "Должно быть, для тебя это страннее, чем для меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, тобі це здається дивнішим, ніж мені."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0003",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже так?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0004",
+            "en": "Well, I know I’m right.",
+            "ru_native": "Что ж, я знаю, что прав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, я знаю, що моя правда."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0005",
+            "en": "Cause I remember the feeling.",
+            "ru_native": "Потому что я помню это чувство.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що я пам’ятаю це відчуття."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0006",
+            "en": "But you’ll see.",
+            "ru_native": "Но ты увидишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось побачиш."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0007",
+            "en": "Don’t worry, that, uh, this doesn’t work like that.",
+            "ru_native": "Не волнуйся, это так не работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, це не так працює."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0008",
+            "en": "Hey, I’ve already done your part of this play, remember?",
+            "ru_native": "Эй, я уже сыграл твою роль в этой пьесе, помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, я вже зіграв твою роль у цій п’єсі, розумієш?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0009",
+            "en": "Universe is still here. So.",
+            "ru_native": "Вселенная все еще здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Всесвіт і досі тут."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0010",
+            "en": "If it works it works.",
+            "ru_native": "Что хорошо, то хорошо всегда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що зроблено, те зроблено."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0011",
+            "en": "I thought—heh—yeah, I thought this was happening tonight.",
+            "ru_native": "Я подумал... Хм, да, я думал, что это случилось этой ночью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я подумав… Гм, так, я гадав, що це сталося цієї ночі."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0012",
+            "en": "Waited to take the little lady here out for her walk just in case.",
+            "ru_native": "На всякий случай ждал, чтобы вывести маленькую леди на прогулку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про всяк випадок чекав, щоби вивести маленьку леді на прогулянку."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0013",
+            "en": "Easy girl.",
+            "ru_native": "Тише, девочка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Легше, дівчинко."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0014",
+            "en": "You know that handsome devil.",
+            "ru_native": "Ты знаешь этого милого дьявола.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш цього спокусливого диявола."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0015",
+            "en": "Settle.",
+            "ru_native": "Тише.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тихіше."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0016",
+            "en": "Don’t let the fur fool you. Rosalind here is a nightmare.",
+            "ru_native": "Не смотри, что она такой пушистик. Розалинда настоящая фурия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не дивись, що вона така пухнаста. Розалінд — справжня фурія."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0017",
+            "en": "Rosalind. And she’s a nightmare.",
+            "ru_native": "Розалинда. И она просто фурия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розалінд. І вона просто фурія."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0018",
+            "en": "They are. Rosalind is a bit… or a lot… of a nightmare, though.",
+            "ru_native": "О да. Хотя Розалинда немного... та еще фурия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, так. Хоча Розалінд… та ще фурія."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0019",
+            "en": "They can’t all be Athena. She was the best of the best.",
+            "ru_native": "Не всем быть Буддой. Она была лучшей из лучших.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не всі можуть бути як Афіна. Вона була найкращою з найкращих."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0020",
+            "en": "Anyway, you guys aren’t supposed to be here. But you already know that.",
+            "ru_native": "В общем, вас, ребята, здесь быть не должно. Но вы это уже знаете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Загалом, вас тут не повинно бути. Але ви вже це знаєте."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0021",
+            "en": "Go ahead, Jake. Go ahead and ask, I know you want to.",
+            "ru_native": "Давай, Джейк. Давай, спроси, я знаю, ты хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай, Джейк. Давай, спитай, я знаю, ти хочеш."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0022",
+            "en": "Oh, Riley, c’mon, don’t sweat it. I answered it last time and nothing exploded.",
+            "ru_native": "Да ладно, Райли, не парься. Я ответил в прошлый раз, и ничего не случилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та гаразд, Райлі, не переймайся. Я відповів минулого разу, і нічого не сталося."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0023",
+            "en": "He’s sure.",
+            "ru_native": "Он уверен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він впевнений."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0024",
+            "en": "You’re sure, it’s okay.",
+            "ru_native": "Ты уверен, все ок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти впевнений, що так можна?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0025",
+            "en": "Well, let me ask you this… What do you think happens?",
+            "ru_native": "Что ж, можно спросить… Что, по-твоему, происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, можна спитати… Що, на твою думку, буде далі?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0026",
+            "en": "C’mon. What do you think?",
+            "ru_native": "Да ладно. Что думаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та годі. Як ти вважаєш?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0027",
+            "en": "Look, Jacob… not traveling the world, not… getting married, not having children.",
+            "ru_native": "Слушай, Джейкоб... никаких путешествий по миру, ни… жены, ни детей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Джейкобе… ніяких подорожей світом, ні… дружини, ні дітей."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0028",
+            "en": "Not becoming some extravagant… something… Not everyone’s fated for that.",
+            "ru_native": "Ничего сумасбродного... что... Не всем это дано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого навіженого… подібного… Не всім це дано."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0029",
+            "en": "You’re a quiet sculptor who lives in the woods.",
+            "ru_native": "Ты тихий скульптор, живущий в лесу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти — тихий митець, що живе в лісі."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0030",
+            "en": "And you’ll be that… probably until the day you die—I don’t know—I haven’t gotten that far yet.",
+            "ru_native": "И ты будешь им… наверное, до самой смерти – не знаю, я так далеко еще не добрался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ти будеш таким… мабуть, до самої смерті, не знаю, я так далеко ще не дістався."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0031",
+            "en": "It’s not a lot. But it’s something.",
+            "ru_native": "Немного. Но кое-что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це небагато. Але вже дещо."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0032",
+            "en": "Jesus, relax.",
+            "ru_native": "Боже, успокойся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, заспокойся."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0033",
+            "en": "This mutt, I swear.",
+            "ru_native": "Дворняга, клянусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, уж це щеня."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0034",
+            "en": "She just doesn’t like… strangers. Too much of me during the day, I think.",
+            "ru_native": "Она просто не любит... незнакомцев. Наверное, слишком много времени со мной проводит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона просто не любить… незнайомців. Напевно, дуже багато часу зі мною проводить."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0035",
+            "en": "Give Athena a hug and a biscuit for me. Tell her I miss her.",
+            "ru_native": "Обними за меня Будду и угости печенькой. Скажи, я скучаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обійми за мене Афіну й почастуй смаколиком. Скажи, що я сумую за нею."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0036",
+            "en": "She really doesn’t like anybody.",
+            "ru_native": "Ей никто не нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їй ніхто не подобається."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0037",
+            "en": "You… guys should be going.",
+            "ru_native": "Вам, ребята, надо идти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вам… треба йти."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0038",
+            "en": "It was nice to uh—to see you. Takes me back… so to speak.",
+            "ru_native": "Было приятно повидаться. Вспомнить прошлое... так сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було приємно побачитись. Згадати минуле… так би мовити."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0039",
+            "en": "This is the best day of your life, Jacob. Savor what’s left of it.",
+            "ru_native": "Это лучший день в твоей жизни, Джейкоб. Наслаждайся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це найкращий день у твоєму житті, Джейкобе. Насолоджуйся."
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0040",
+            "en": "Yeah yeah, I heard you…",
+            "ru_native": "Да-да, я слышу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так, я чую…"
+        },
+        {
+            "tag": "A3S5.OLDJAC_OLDERJACOB_0041",
+            "en": "See you in the mirror, kid.",
+            "ru_native": "Увидимся в зеркале, парень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Побачимося в дзеркалі, малий."
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0000",
+            "en": "Okay, yeah, we’ve uh… we’ve seen some sights tonight.",
+            "ru_native": "Ладно, да, мы... мы видели этой ночью кое-какие знаки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, так, ми… ми відвідали цієї ночі деякі місця."
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0001",
+            "en": "But this is probably up there, yeah.",
+            "ru_native": "Но это, наверное, там наверху, да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це, мабуть, там нагорі, так."
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0002",
+            "en": "No, don’t—don’t talk to each other!",
+            "ru_native": "Нет, не... не разговаривайте друг с другом!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не… не розмовляйте одне з одним!"
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0003",
+            "en": "We don’t want to unmake the universe or—whatever.",
+            "ru_native": "Мы же не хотим разрушить вселенную или... что-то еще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ж не хочемо зруйнувати всесвіт чи… ще щось."
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0004",
+            "en": "Cute pup.",
+            "ru_native": "Милый песик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарна цюця."
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0005",
+            "en": "Who’s your friend?",
+            "ru_native": "Кто твой друг?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто твій друг?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0006",
+            "en": "Okay, that he really shouldn’t answer.",
+            "ru_native": "Ладно, он правда не должен отвечать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, він, насправді, не повинен відповідати."
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0007",
+            "en": "Uh, are you sure you want to know that?",
+            "ru_native": "Хм, ты уверен, что хочешь это знать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, ти впевнений, що хочеш це знати?"
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0008",
+            "en": "Yeah, I’m… curious, too.",
+            "ru_native": "Да, мне... тоже интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мені… теж цікаво."
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0009",
+            "en": "Uh, Jacob, your new dog is kind of a jerk.",
+            "ru_native": "Мда, Джейкоб, твоя новая собака та еще заноза.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мда, Джейкобе, твоя нова собака та ще звірюга."
+        },
+        {
+            "tag": "A3S5.OLDJAC_RILEY_0010",
+            "en": "Wow, she really doesn’t like us.",
+            "ru_native": "Ух ты, мы ей определенно не нравимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воу, ми їй точно не подобаємося."
+        },
+        {
+            "tag": "A3S5.OLDJAC_SFX_0000",
+            "en": "[bark]",
+            "ru_native": "Гав-гав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[гавкіт]"
+        },
+        {
+            "tag": "A3S5.OLDJAC_SFX_0001",
+            "en": "[angry bark]",
+            "ru_native": "Злой собачий лай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[злий гавкіт]"
+        },
+        {
+            "tag": "A3S5.OLDJAC_SFX_0002",
+            "en": "[angry bark]",
+            "ru_native": "Злой собачий лай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[злий гавкіт]"
+        }
+    ]
+}

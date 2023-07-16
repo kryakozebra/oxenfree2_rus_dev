@@ -1,0 +1,33 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.INTIMA",
+    "entries": [
+        {
+            "tag": "A3S5.INTIMA_JACOB_0000",
+            "en": "Oh, wow. She must have been… wait, what does that mean?",
+            "ru_native": "Нифига. Она наверно... Постой, что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух ти. Вона, мабуть, була… зачекай, що це означає?"
+        },
+        {
+            "tag": "A3S5.INTIMA_RILEY_0000",
+            "en": "[to herself] Oh, this is -- it’s one of the machines I’ve been using to get out of time loops…",
+            "ru_native": "Это же... Аппарат, который помогал выбраться из временных петель.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] О, це одна з машин, які я використовувала, щоби вибратися з петель часу…"
+        },
+        {
+            "tag": "A3S5.INTIMA_RILEY_0001",
+            "en": "[to herself] I guess I can… figure out how this makes any sense later.",
+            "ru_native": "Наверное, я смогу понять, что к чему, позже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Я гадаю, що я можу… зрозуміти, що це все таке пізніше."
+        }
+    ]
+}

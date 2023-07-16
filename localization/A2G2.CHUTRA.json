@@ -1,0 +1,492 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.CHUTRA",
+    "entries": [
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0000_OPTION_0000",
+            "en": "Never gets old.",
+            "ru_native": "Классика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи не старіє."
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0000_OPTION_0001",
+            "en": "Still super weird.",
+            "ru_native": "Все равно суперстранно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досі надзвичайно дивно."
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0000_OPTION_0002",
+            "en": "Take that, portal!",
+            "ru_native": "Выкуси, портал!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, от тобі, портале!"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0001_OPTION_0000",
+            "en": "Who cares.",
+            "ru_native": "Какая разница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто зважає."
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0001_OPTION_0001",
+            "en": "We’ll deal with her later.",
+            "ru_native": "Мы с ней потом разберемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розберемося з нею пізніше."
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0001_OPTION_0002",
+            "en": "We’re not done yet.",
+            "ru_native": "Мы еще не закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ще не закінчили."
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0002_OPTION_0000",
+            "en": "Wasn’t me.",
+            "ru_native": "Это не я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не я."
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0002_OPTION_0001",
+            "en": "Trees?",
+            "ru_native": "Деревья?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дерева?"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0002_OPTION_0002",
+            "en": "No, what?",
+            "ru_native": "Нет. Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, що?"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0003_OPTION_0000",
+            "en": "Jacob!",
+            "ru_native": "Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе!"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0003_OPTION_0001",
+            "en": "Are you okay?",
+            "ru_native": "Ты в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти в порядку?"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0004_OPTION_0000",
+            "en": "Jacob! Can you hear me?!",
+            "ru_native": "Джейкоб? Меня слышно?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Ти мене чуєш?!"
+        },
+        {
+            "tag": "A2G2.CHUTRA_CHOICE_0004_OPTION_0001",
+            "en": "Are you still alive?!",
+            "ru_native": "Ты там живой?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ще живий?"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0000",
+            "en": "Whoa.",
+            "ru_native": "Ой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого!"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0001",
+            "en": "So crazy…",
+            "ru_native": "Как дико...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так божевільно…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0002",
+            "en": "Olivia’s gonna be pissed.",
+            "ru_native": "Оливия будет в ярости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія оскаженіє."
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0003",
+            "en": "Wherever she is…",
+            "ru_native": "Где бы она ни была...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де б вона не була…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0004",
+            "en": "I’m sure she could see.",
+            "ru_native": "Уверен, она увидит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упевнений, вона бачить."
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0005",
+            "en": "Oh, ugh, sorry—[sniffs] Do you smell that?",
+            "ru_native": "Ой, прости... Чувствуешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, вибач [принюхується] Чуєш цей запах?"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0006",
+            "en": "[sniffs]",
+            "ru_native": "[ID-13]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[принюхується]"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0007",
+            "en": "Uh…",
+            "ru_native": "Ох...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0008",
+            "en": "No—not—",
+            "ru_native": "Нет-нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ні…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0009",
+            "en": "I didn’t smell it before but…",
+            "ru_native": "Незнакомый запах, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не чув такого запаху раніше, але…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0010",
+            "en": "That’s rot. That’s—whewf—that’s bad wood rot.",
+            "ru_native": "Это гниль. Так пахнет гнилое дерево.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це гниль. Фу! Так пахне гниле дерево."
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0011",
+            "en": "Let's keep going, it stinks.",
+            "ru_native": "Фу, пошли дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо далі, воняє."
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0012",
+            "en": "Ah!",
+            "ru_native": "Ай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А!"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0013",
+            "en": "Sweet. Well, let’s hop on down and—uh—get outta town.",
+            "ru_native": "Класс. Давай просто спрыгнем и свалим отсюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мило. Стрибаймо вниз і валимо з міста."
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0014",
+            "en": "I think we can just—drop off the side of the roof.",
+            "ru_native": "Думаю, мы можем просто... спрыгнуть с крыши.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ми можемо просто зістрибнути з даху."
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0015",
+            "en": "The ground looks soft enough. [to self mostly] He hoped out loud…",
+            "ru_native": "Земля кажется мягкой. Успокоил себя он…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, земля достатньо м’яка. [Більше до себе] Він заспокоїв себе…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0016",
+            "en": "It… should — it definitely should.",
+            "ru_native": "Должно, точно должно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Має… Однозначно має."
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0017",
+            "en": "Yep.",
+            "ru_native": "Ага.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага."
+        },
+        {
+            "tag": "A2G2.CHUTRA_JACOB_0018",
+            "en": "Hurry up and stick the transmitter so we can –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скорее втыкай передатчик, чтобы мы могли -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поспішай і встроми вже той радіопередавач, щоби ми могли…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0000",
+            "en": "Ah. There it goes.",
+            "ru_native": "Ага. Вот так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага. Отак."
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0001",
+            "en": "Man, that never gets old.",
+            "ru_native": "Нестареющая классика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Класика, що не старіє."
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0002",
+            "en": "God, this is still so weird…",
+            "ru_native": "Боже, это все равно странно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, тут досі так дивно…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0003",
+            "en": "A-ha, take that, portal!",
+            "ru_native": "Ага, выкуси, портал!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, от тобі, портал!"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0004",
+            "en": "Eh, who—",
+            "ru_native": "Ну и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та хто"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0005",
+            "en": "Eh, Jacob, honestly, we’ll just deal with her—",
+            "ru_native": "Джейкоб, честно, мы с ней потом...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, чесно, розберемося з нею…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0006",
+            "en": "She has more time, we’re not—",
+            "ru_native": "У нее есть время, мы еще...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У неї більше часу, у нас — ні."
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0007",
+            "en": "Hey, I didn’t do it.",
+            "ru_native": "Эй, это не я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, це не я."
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0008",
+            "en": "Uh, you mean the trees?",
+            "ru_native": "А, ты про деревья?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти про дерева?"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0009",
+            "en": "Can’t say that I do… ?",
+            "ru_native": "Ммм... нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не скажу, що я…"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0010",
+            "en": "Jacob!",
+            "ru_native": "Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе!"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0011",
+            "en": "God.",
+            "ru_native": "Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи."
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0012",
+            "en": "Jacob! Are you okay?!",
+            "ru_native": "Джейкоб! Ты как?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Ти як?"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0013",
+            "en": "Jacob! Can you—can you hear me?",
+            "ru_native": "Джейкоб! Ты... ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Ти… ти мене чуєш?"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0014",
+            "en": "Jacob! Are you still alive? Can you move?",
+            "ru_native": "Джейкоб! Ты жив? Можешь пошевелиться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб! Ти ще живий? Рухатися можеш?"
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0015",
+            "en": "Okay… we did the first one by accident. Let’s see if the second works just like that.",
+            "ru_native": "Ладно... первый раз случайно получилось. Посмотрим, сработает ли во второй.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… Із першим вдалося випадково. подивимося, чи буде так само з другим."
+        },
+        {
+            "tag": "A2G2.CHUTRA_RILEY_0016",
+            "en": "Alright, after this… just one more.",
+            "ru_native": "Ладно, а потом... еще разок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, після цього… ще один раз."
+        }
+    ]
+}

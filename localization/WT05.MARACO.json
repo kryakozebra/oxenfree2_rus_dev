@@ -1,0 +1,276 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT05.MARACO",
+    "entries": [
+        {
+            "tag": "WT05.MARACO_CHARLIE_0000",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло?"
+        },
+        {
+            "tag": "WT05.MARACO_CHARLIE_0001",
+            "en": "Maria, hey.",
+            "ru_native": "Мария, привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє, привіт."
+        },
+        {
+            "tag": "WT05.MARACO_CHARLIE_0002",
+            "en": "Okay…",
+            "ru_native": "Так…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд…"
+        },
+        {
+            "tag": "WT05.MARACO_CHARLIE_0003",
+            "en": "Wait, really? Why did you do that?",
+            "ru_native": "Стоп, серьезно? Зачем ты это сделала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стоп, серйозно? Навіщо ти це зробила?"
+        },
+        {
+            "tag": "WT05.MARACO_CHARLIE_0004",
+            "en": "Oh. Uh… oh. Oh man. Really?",
+            "ru_native": "Оу. О господи. Серьезно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О. Ого. Господи. Серйозно?"
+        },
+        {
+            "tag": "WT05.MARACO_CHARLIE_0005",
+            "en": "I… think—this is—that’s really nice of you, to ask me, Maria, but…",
+            "ru_native": "Спасибо, конечно, что спросила. Это очень мило, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, звісно, що запитала, Маріє, але…"
+        },
+        {
+            "tag": "WT05.MARACO_CHARLIE_0006",
+            "en": "I’m kind of interested in somebody—",
+            "ru_native": "Мне как бы кое-кто нравится...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені дехто подобається…"
+        },
+        {
+            "tag": "WT05.MARACO_CHARLIE_0007",
+            "en": "Wait, am I—is this going out? Are we on the radio right now?",
+            "ru_native": "Погоди, мы что... эфир? Мы сейчас на радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, ми що… в етері? Ми зараз на радіо?"
+        },
+        {
+            "tag": "WT05.MARACO_CHARLIE_0008",
+            "en": "Sort of? It’s a binary question.",
+            "ru_native": "Что значит «типа»? Тут или да, или нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Типу»? Так чи ні?"
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0000",
+            "en": "Charlie? I hope your ringer’s on…",
+            "ru_native": "Чарли? Надеюсь, ты слышишь звонок...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі? Сподіваюся, ти чуєш дзвінок…"
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0001",
+            "en": "Maria? It’s Charlie. I mean—no, Charlie—it’s Maria—I’m Maria.",
+            "ru_native": "Мария? Это Чарли. То есть наоборот. Чарли, это Мария. Я Мария.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Це Чарлі. Тобто навпаки. Чарлі, це Марія. Я Марія."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0002",
+            "en": "Yeah, hey.",
+            "ru_native": "Да, привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, привіт."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0003",
+            "en": "Charlie, look—you know that poem in third grade I had to stand up and read for Poetry Week?",
+            "ru_native": "Чарли, слушай. Помнишь, я в третьем классе читала стихотворение на недели поэзии?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, слухай… Пам’ятаєш, я в третьому класі розказувала вірш на тижні поезії?"
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0004",
+            "en": "That wasn’t about you. I just want you to be aware of that fact.",
+            "ru_native": "Так вот, оно было не про тебя. Просто чтобы ты знал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От, він був не про тебе. Просто щоби ти знав."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0005",
+            "en": "And I, in fact, am doing just perfectly—",
+            "ru_native": "И у меня, на самом деле, все отлично...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І в мене, насправді, усе чудово…"
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0006",
+            "en": "Charlie, look—I asked you to study with me for a geography test in 7th grade, remember?",
+            "ru_native": "Чарли, помнишь, я в седьмом классе попросила тебя<br>подтянуть меня по географии перед контрольной?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, слухай… пам’ятаєш я в сьомому класі попросила допомогти<br>мені підготуватися до контрольної з географії?"
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0007",
+            "en": "And I just want you to know… I purposefully tanked my grades just to talk to you.",
+            "ru_native": "Просто хочу сказать… Я специально делала ошибки, чтобы болтать с тобой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто хочу сказати… Я навмисно робила помилки, щоби поговорити з тобою."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0008",
+            "en": "I’m actually much smarter than that.",
+            "ru_native": "На самом деле я гораздо умнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді я набагато розумніша."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0009",
+            "en": "Why’d I do that? Um… because I—",
+            "ru_native": "Зачем я это сделала? Эм... потому что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо я це зробила? Ну… бо…"
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0010",
+            "en": "Look… do you want to go out with me?",
+            "ru_native": "Слушай… хочешь пойти со мной на свидание?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай… хочеш піти зі мною на побачення?"
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0011",
+            "en": "Yeah. Really, dude, c’mon—we can go to a movie or dinner or—or something.",
+            "ru_native": "Да. Серьезно, чувак, давай сходим в кино или в кафе, или... еще куда-нибудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, серйозно, ходімо в кафе чи кіно… чи ще кудись."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0012",
+            "en": "Uh… sort of.",
+            "ru_native": "Ну… типа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… типу."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0013",
+            "en": "Then yes, we are on the radio.",
+            "ru_native": "Ну да, мы на радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ми на радіо."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0014",
+            "en": "Charlie? Char—I think… I… yep, we lost him. Okay.",
+            "ru_native": "Чарли? Чар... Кажется... да, отключился. Ну ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі? Чар… Здається… Так, від’єднався. Ясно."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0015",
+            "en": "Thanks for listening, Riley.",
+            "ru_native": "Спасибо, что выслушала, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що вислухала, Райлі."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0016",
+            "en": "Don’t quit your dayjob, whatever that is. I just hope it’s not a lovelife coach.",
+            "ru_native": "Не бросай свою работу, какой бы она не была. Если только ты не пикап-тренер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не кидай свою роботу, якою б вона не була. Якщо ти не тренер із пікапу, звичайно."
+        },
+        {
+            "tag": "WT05.MARACO_MARIA_0017",
+            "en": "This advice line is closed, pending reconsideration of entire life up until this point.",
+            "ru_native": "Эта линия доверия закрыта. Нужно пересмотреть всю свою жизнь до этого момента.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лінія порад не працює. Треба переосмислити все своє життя до цього моменту."
+        },
+        {
+            "tag": "WT05.MARACO_RADIO_0000",
+            "en": "[ID-1] [SFX] [Ringing phone]",
+            "ru_native": "[ID-1]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT05.MARACO_RADIO_0001",
+            "en": "[SFX] Click. He hung up.",
+            "ru_native": "Щелк. Он повесил трубку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT05.MARACO_RADIO_0002",
+            "en": "[ID-29] [FUZZ]",
+            "ru_native": "[ID-29]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

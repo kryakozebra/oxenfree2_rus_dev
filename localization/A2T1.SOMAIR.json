@@ -1,0 +1,339 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.SOMAIR",
+    "entries": [
+        {
+            "tag": "A2T1.SOMAIR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.SOMAIR_CHOICE_0000_OPTION_0000",
+            "en": "I just check my phone.",
+            "ru_native": "Я проверяю телефон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я перевіряю в телефоні."
+        },
+        {
+            "tag": "A2T1.SOMAIR_CHOICE_0000_OPTION_0001",
+            "en": "Yeah, that feeling.",
+            "ru_native": "Есть такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є таке."
+        },
+        {
+            "tag": "A2T1.SOMAIR_CHOICE_0000_OPTION_0002",
+            "en": "No clue.",
+            "ru_native": "Без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "A2T1.SOMAIR_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.SOMAIR_CHOICE_0001_OPTION_0000",
+            "en": "Thanks for explaining.",
+            "ru_native": "Спасибо, что объяснил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що пояснив."
+        },
+        {
+            "tag": "A2T1.SOMAIR_CHOICE_0001_OPTION_0001",
+            "en": "Did anything happen?",
+            "ru_native": "Что-нибудь произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І щось далі сталося?"
+        },
+        {
+            "tag": "A2T1.SOMAIR_CHOICE_0001_OPTION_0002",
+            "en": "Ever think about just moving?",
+            "ru_native": "Думал о переезде?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не спадало на думку переїхати звідси?"
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0000",
+            "en": "We should get going, but uh…",
+            "ru_native": "Нужно выдвигаться, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно вирушати, але…"
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0001",
+            "en": "You know how you can tell when it’s about to rain? And I don’t mean—ya know—clouds.",
+            "ru_native": "Знаешь, как порой можно предчувствовать, что начнется дождь? Я не про тучи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, як часом можна відчути, що зараз піде дощ? Я не про хмари."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0002",
+            "en": "Just the moment before. When you realize the birds have stopped singing.",
+            "ru_native": "Именно за секунду до. Когда понимаешь, что птицы перестали петь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Саме за секунду до першої краплі. Коли розумієш, що птахи перестали співати."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0003",
+            "en": "There’s that… crackling… on your fingers—in your hair.",
+            "ru_native": "Это... потрескивание на кончиках пальцев, в волосах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… відчуття на кінчиках пальців, у волоссі."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0004",
+            "en": "You know what I’m talking about?",
+            "ru_native": "Понимаешь, о чем я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш про що я?"
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0005",
+            "en": "All I’m saying is…",
+            "ru_native": "Это я к тому, что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це я до того, що…"
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0006",
+            "en": "Yeah, exactly. Exactly, thank you.",
+            "ru_native": "Да! Точно, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Точно, дякую."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0007",
+            "en": "No no seriously, I’m trying to explain.",
+            "ru_native": "Нет, я пытаюсь объяснить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, серйозно, я намагаюсь пояснити."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0008",
+            "en": "I’ll take that as an “I’m listening, go on.”",
+            "ru_native": "Молчание – знак внимания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буду вважати, що ти сказала: «я слухаю, продовжуй»."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0009",
+            "en": "It’s just that… Camena… it feels sometimes like that’s all there is.",
+            "ru_native": "Просто... Порой кажется, что за пределами Камены ничего нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… Іноді здається, що у Камені нічого звичайного немає."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0010",
+            "en": "It’s just that feeling, everywhere, and I think most folks can ignore it. Or choose to.",
+            "ru_native": "И это ощущение повсюду. Видимо, местные могут его игнорировать. Или пытаются.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І це відчуття переслідує. Вочевидь, місцеві можуть його ігнорувати.<br>Або намагаються змиритися."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0011",
+            "en": "But… there’s been something going on here for a long time. And I just couldn’t ignore it.",
+            "ru_native": "Но здесь уже долгое время что-то происходит. И я это что-то игнорировать не мог.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але тут уже довгий час щось трапляється. І це «щось» я вже не можу ігнорувати."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0012",
+            "en": "And so part of my not ignoring it is getting a transmitter or two and… seeing what happened.",
+            "ru_native": "Частью моего плана было заполучить парочку передатчиков и... посмотреть, что будет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Частиною мого плану з «непримирення» було зібрати декілька радіопередавачів і…<br>подивитися, що буде далі."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0013",
+            "en": "So… yeah.",
+            "ru_native": "Вот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… ось."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0014",
+            "en": "There ya go.",
+            "ru_native": "Такая история.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Така історія."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0015",
+            "en": "It’s… why I have anything, really.",
+            "ru_native": "У меня так вся жизнь проходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому в мене багато всього іншого."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0016",
+            "en": "Does tonight count?",
+            "ru_native": "Сегодня считается?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А сьогодні рахується?"
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0017",
+            "en": "Some days. Most days.",
+            "ru_native": "Иногда. Почти всегда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іноді. Майже щодня."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0018",
+            "en": "But I know it’ll just… it’ll just stay stuck in my head like a song you never liked to begin with.",
+            "ru_native": "Но я знаю, что... Это место останется в голове,<br>как приставучий мотив ненавистной песенки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я знаю, просто… Це місце не йде з голови, як якась набридлива пісенька."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0019",
+            "en": "It’s an itch—ya know? An annoying itch. [chuckles] It’s hard for me to finish a book.",
+            "ru_native": "Зуд, который не можешь почесать. Мне даже книгу дочитать тяжело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це як… сверблячка, розумієш? Сверблячка, яку не можеш почухати. [хихикає]<br>Так, книжку мені не закінчити."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0020",
+            "en": "So… uh… anyway… yeah. Glad the dumb thing has a purpose, now.",
+            "ru_native": "В общем, вот. Хорошо, что этой железке нашлось применение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У будь-якому випадку… ось. Добре, що цій штукенції знайшлося застосування."
+        },
+        {
+            "tag": "A2T1.SOMAIR_JACOB_0021",
+            "en": "And this town kind of has a way of, uh, getting its claws into you.",
+            "ru_native": "Этот город умеет вонзить в тебя когти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І це місто тепер, е-е, може запустити свої пазурі в тебе."
+        },
+        {
+            "tag": "A2T1.SOMAIR_RILEY_0000",
+            "en": "Or you can just check your phone. It’s usually pretty accurate.",
+            "ru_native": "Или можно проверить телефон. Обычно он не врет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або можна перевірити в телефоні. Зазвичай він не бреше."
+        },
+        {
+            "tag": "A2T1.SOMAIR_RILEY_0001",
+            "en": "Yeah, it’s, uh… yeah, I know what you’re talking about. The, uh,  “unnameables.”",
+            "ru_native": "Да... Да, я знаю, о чем ты. Этакое «шестое чувство».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… Так, я знаю, про що ти. Таке собі «недовідоме відчуття»."
+        },
+        {
+            "tag": "A2T1.SOMAIR_RILEY_0002",
+            "en": "Uh, I’m gonna be honest, I have no clue what you’re talking about Jacob.",
+            "ru_native": "Буду откровенна: я понятия не имею, о чем ты говоришь, Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буду відверта, я гадки не маю, про що ти говориш, Джейкобе."
+        },
+        {
+            "tag": "A2T1.SOMAIR_RILEY_0003",
+            "en": "It rains here like six hundred days out of the year—it’s always \"just about to rain.\"",
+            "ru_native": "Тут дождь идет шесть сотен дней в году. Постоянно «вот-вот ливанет».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут дощ іде шість сотень днів на рік. Постійно «ось-ось накрапає»."
+        },
+        {
+            "tag": "A2T1.SOMAIR_RILEY_0004",
+            "en": "Well… thanks for explaining why you have a transmitter.",
+            "ru_native": "Спасибо, что объяснил, откуда у тебя передатчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Дякую, що пояснив, звідки в тебе радіопередавач."
+        },
+        {
+            "tag": "A2T1.SOMAIR_RILEY_0005",
+            "en": "Uh, did anything happen?",
+            "ru_native": "И как, что-то случилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, і щось далі сталося?"
+        },
+        {
+            "tag": "A2T1.SOMAIR_RILEY_0006",
+            "en": "You ever think about moving?",
+            "ru_native": "Думал о том, чтобы переехать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не спадало на думку кудись переїхати?"
+        }
+    ]
+}

@@ -1,0 +1,222 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "GLOB.FIOBSK",
+    "entries": [
+        {
+            "tag": "GLOB.FIOBSK_CHOICE_0000_OPTION_0000",
+            "en": "Smells nice.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Приятно пахнет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пахне чудово."
+        },
+        {
+            "tag": "GLOB.FIOBSK_CHOICE_0000_OPTION_0001",
+            "en": "I hate incense.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я ненавижу благовония.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу ладан."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0000",
+            "en": "[small sniff] Someone’s been here recently…ish.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [Кто-то был здесь недавно... ишшо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[принюхується] Хтось нещодавно був тут."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0001",
+            "en": "Caves don’t naturally smell like incense.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пещеры от природы не пахнут ладаном.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Печери зазвичай не пахнуть ладаном."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0002",
+            "en": "[ID-2] [sniffs again]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [ID-2] (снова нюхает).",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[принюхується знову]"
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0003",
+            "en": "Definitely burned within the past two weeks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Определенно, сгорел в течение последних двух недель.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Минуло точно не більше двох тижнів."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0004",
+            "en": "They all smell the same to me. Which is rancid.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Для меня они все пахнут одинаково. А это прогорклость.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для мене вони всі однаково пахнуть. Бридко."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0005",
+            "en": "Amen. Sorry your philosophy major didn’t work out, buddy.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Амен. Жаль, что твоя философская специальность не сработала, приятель.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Амінь. Вибач, що твоя спеціальність із філософії не спрацювала."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0006",
+            "en": "Camena doesn’t have an observatory...",
+            "ru_native": "",
+            "ru_machine": "DEEPL У Камены нет обсерватории...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У Камені немає обсерваторії…"
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0007",
+            "en": "I really wish it did though. I’d totally be its janitor.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хотя мне бы очень хотелось, чтобы это было так. Я бы точно стал его уборщиком.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було б гарно, якби була. Я б там був прибиральником."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0008",
+            "en": "That’s what that one room in the community center was called, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Именно так называлась та единственная комната в общественном центре, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так називали цю кімнату в громадському центрі, так?"
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0009",
+            "en": "Five crisp dollar bills that’ll get us in.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пять хрустящих долларовых купюр, на которые мы попадём.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "П’ять хрустких доларових купюр допоможуть нам потрапити всередину."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0010",
+            "en": "That…isn’t how you spell observatory, whoever wrote that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... не то, как пишется observatory, кто бы это ни написал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… «обсерваторія» пишеться не так, хто б це не написав."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0011",
+            "en": "But it’s close.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но это уже близко.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але дуже схоже."
+        },
+        {
+            "tag": "GLOB.FIOBSK_JACOB_0012",
+            "en": "Hope it doesn’t also smell like incense…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Надеюсь, он также не будет пахнуть ладаном...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, там не пахне ладаном…"
+        },
+        {
+            "tag": "GLOB.FIOBSK_RILEY_0000",
+            "en": "At least they used good incense.",
+            "ru_native": "",
+            "ru_machine": "DEEPL По крайней мере, они использовали хорошие благовония.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні вони використовували хороший ладан."
+        },
+        {
+            "tag": "GLOB.FIOBSK_RILEY_0001",
+            "en": "Barf. Always hated incense.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Барф. Всегда ненавидел благовония.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фу. Ненавиджу ладан."
+        },
+        {
+            "tag": "GLOB.FIOBSK_RILEY_0002",
+            "en": "Light a candle, this isn’t the 17th century.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зажги свечу, сейчас не XVII век.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запали свічку, це ж не 17 століття."
+        },
+        {
+            "tag": "GLOB.FIOBSK_RILEY_0003",
+            "en": "There’s a key here. Someone wrote “Observatory” on it",
+            "ru_native": "",
+            "ru_machine": "DEEPL Здесь лежит ключ. Кто-то написал на нем \"Обсерватория\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут є ключ. Хтось написав на ньому «Обсерваторія»."
+        },
+        {
+            "tag": "GLOB.FIOBSK_RILEY_0004",
+            "en": "It’s misspelled but definitely attempting “Observatory.”",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она написана неправильно, но определенно пытается \"Обсерваторию\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Написано з помилками, але точно малася на увазі «Обсерваторія»."
+        },
+        {
+            "tag": "GLOB.FIOBSK_RILEY_0005",
+            "en": "Door says “Observatory.”",
+            "ru_native": "",
+            "ru_machine": "DEEPL На двери написано \"Обсерватория\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На дверях написано «Обсерваторія»."
+        },
+        {
+            "tag": "GLOB.FIOBSK_RILEY_0006",
+            "en": "But it should say “Locked observatory.”",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но там должно быть написано \"Запертая обсерватория\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там мало б бути «Зачинена обсерваторія»."
+        },
+        {
+            "tag": "GLOB.FIOBSK_RILEY_0007",
+            "en": "Door says “Observatory.” Like that key we found.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На двери написано \"Обсерватория\". Как на том ключе, который мы нашли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На дверях написано «Обсерваторія». Як і на ключі, що ми знайшли."
+        },
+        {
+            "tag": "GLOB.FIOBSK_RILEY_0008",
+            "en": "Okay, we walked all that way and back, that key better freaking work here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, мы прошли весь этот путь и обратно, лучше бы этот ключ, черт возьми, работал здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми пройшли такий довгий шлях. Цей бісів ключ просто мусить підійти."
+        }
+    ]
+}

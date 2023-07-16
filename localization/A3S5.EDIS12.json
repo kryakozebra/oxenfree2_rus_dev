@@ -1,0 +1,132 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.EDIS12",
+    "entries": [
+        {
+            "tag": "A3S5.EDIS12_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.EDIS12_CHOICE_0000_OPTION_0000",
+            "en": "Olivia?",
+            "ru_native": "Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє?"
+        },
+        {
+            "tag": "A3S5.EDIS12_CHOICE_0000_OPTION_0001",
+            "en": "What’s happening?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        },
+        {
+            "tag": "A3S5.EDIS12_CHOICE_0000_OPTION_0002",
+            "en": "This isn’t right…",
+            "ru_native": "Это неправильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось не те…"
+        },
+        {
+            "tag": "A3S5.EDIS12_CYAN_0000",
+            "en": "I would like a daughter, yes.",
+            "ru_native": "Я бы хотел себе дочку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотів би доньку."
+        },
+        {
+            "tag": "A3S5.EDIS12_CYAN_0001",
+            "en": "When I grow up.",
+            "ru_native": "Когда вырасту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли виросту."
+        },
+        {
+            "tag": "A3S5.EDIS12_MARIGOLD_0000",
+            "en": "Mary, Mary… quite contrary.",
+            "ru_native": "Мэри, Мэри... Ни в коей мере.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мері, Мері… Ні в якому разі."
+        },
+        {
+            "tag": "A3S5.EDIS12_MARIGOLD_0001",
+            "en": "My mother used to sing that to me.",
+            "ru_native": "Мама часто мне это пела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мама часто мені це співала."
+        },
+        {
+            "tag": "A3S5.EDIS12_OLIVIA_0000",
+            "en": "Mom? Mom, can you hear me?",
+            "ru_native": "Мама? Мама, ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мама? Мамо, ти мене чуєш?"
+        },
+        {
+            "tag": "A3S5.EDIS12_OLIVIA_0001",
+            "en": "Mom!",
+            "ru_native": "Мама!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мамо!"
+        },
+        {
+            "tag": "A3S5.EDIS12_OLIVIA_0002",
+            "en": "Dad, I’m right here!",
+            "ru_native": "Папа, я здесь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тату, я тут!"
+        },
+        {
+            "tag": "A3S5.EDIS12_RILEY_0000",
+            "en": "Wait, Ol—Olivia?",
+            "ru_native": "Стоп, Ол... Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зажди, Ол… Олівіє?"
+        },
+        {
+            "tag": "A3S5.EDIS12_RILEY_0001",
+            "en": "Wait, what’s—what’s this? What’s happening?",
+            "ru_native": "Что это такое? Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекай…. Що… що це? Що відбувається?"
+        },
+        {
+            "tag": "A3S5.EDIS12_RILEY_0002",
+            "en": "Wait wait, this isn’t right.",
+            "ru_native": "Нет, стой, это неправильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, стій, щось не так."
+        }
+    ]
+}

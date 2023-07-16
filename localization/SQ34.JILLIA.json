@@ -1,0 +1,708 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ34.JILLIA",
+    "entries": [
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0000_OPTION_0000",
+            "en": "Is Jillian there?",
+            "ru_native": "Джиллиан там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джилліан тут?"
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0001_OPTION_0000",
+            "en": "I don’t think so?",
+            "ru_native": "Не думаю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю?"
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0001_OPTION_0001",
+            "en": "Why?",
+            "ru_native": "Почему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому?"
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0001_OPTION_0002",
+            "en": "Are you?",
+            "ru_native": "А вы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ви?"
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0002_OPTION_0000",
+            "en": "I want cheap donuts.",
+            "ru_native": "Я хочу дешевые пончики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу дешеві пончики."
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0002_OPTION_0001",
+            "en": "Your grandma sounds cool.",
+            "ru_native": "Ваша бабушка была крутой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ваша бабуся була крутою."
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0003_OPTION_0000",
+            "en": "Sounds good.",
+            "ru_native": "Хорошая мысль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарна думка."
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0003_OPTION_0001",
+            "en": "Nope, forget it.",
+            "ru_native": "Не-а, забудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніт, забудь."
+        },
+        {
+            "tag": "SQ34.JILLIA_CHOICE_0003_OPTION_0002",
+            "en": "All the way in your truck?",
+            "ru_native": "Идти обратно до грузовика?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іти назад до вантажівки?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0000",
+            "en": "Huh.",
+            "ru_native": "Ха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0001",
+            "en": "I didn’t know this part of town history.",
+            "ru_native": "Я не знал эту часть истории города.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знав цю частину історії міста."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0002",
+            "en": "I mean—I’m into it. I majored in cultural anthropology at Jacob’s Fantasy University.",
+            "ru_native": "В смысле, это мое хобби. Я изучал культурную<br>антропологию в Фантастическом университете Джейкоба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, це моє хоббі. Я вивчав культурну антропологію в Уявному університеті Джейкоба."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0003",
+            "en": "And I have a—a camera in the truck, if you don’t mind swinging by with me?",
+            "ru_native": "И у меня есть камера в грузовике, если ты не против со мной прогуляться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І в мене є камера у вантажівці… Ти не проти зі мною прогулятися?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0004",
+            "en": "And if we find any graffiti I’ll grab a picture.",
+            "ru_native": "И если найдем граффити, я сделаю фото.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І якщо знайдемо графіті, я зроблю фото."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0005",
+            "en": "Right?",
+            "ru_native": "Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0006",
+            "en": "Could be a nice diversion.",
+            "ru_native": "Могли бы немного отвлечься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Могли б трошки відволіктися."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0007",
+            "en": "[over her] No, no, definitely not.",
+            "ru_native": "Нет-нет, конечно, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, звісно, ні."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0008",
+            "en": "Just if we catch sight of any.",
+            "ru_native": "Если только по дороге увидим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лише якщо по дорозі побачимо."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0009",
+            "en": "Let’s go to my truck so I can get the camera.",
+            "ru_native": "Давай вернемся к грузовику, и я заберу камеру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай повернемося до вантажівки, і я заберу камеру."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0010",
+            "en": "Jesus. Okay. Sorry, Jillian.",
+            "ru_native": "Боже. Ладно. Прости, Джиллиан.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже. Гаразд. Вибач, Джилліан."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0011",
+            "en": "I know, but… c’mon, it’ll take two minutes.",
+            "ru_native": "Знаю, но... это всего пару минут займет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, але… це справа кількох хвилин."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0012",
+            "en": "I consider this a part of the bigger problem… weird time stuff is going on.",
+            "ru_native": "Мне кажется, это часть более крупной проблемы… творятся странные дела со временем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я гадаю, це частина більшої проблеми… коїться щось дивне із часом."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0013",
+            "en": "If we keep an eye out, we might be able to fix the—whatever this is.",
+            "ru_native": "Если будем смотреть в оба, может быть, сможем это исправить... как-нибудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо будемо пильними, можливо, зможемо це виправити… хоч якось."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0014",
+            "en": "Like I said at Garland, there’s a camera in my truck.",
+            "ru_native": "Как я говорил в Гарленде, у меня в грузовике есть камера.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ж казав у Гарленді, що в мене є камера у вантажівці."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0015",
+            "en": "Let’s swing by and get it. We’re a lot closer now.",
+            "ru_native": "Давай заскочим и заберем ее. Теперь недалеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай заскочимо та заберемо її. Звідси недалеко."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0016",
+            "en": "I wanna see the five masterpieces.",
+            "ru_native": "Я хочу увидеть пять шедевров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу побачити п’ять шедеврів."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0017",
+            "en": "And hey, we already got the camera, what’s stopping us?",
+            "ru_native": "К тому же, камера у нас с собой, что нам мешает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До того ж, камера в нас із собою, що нам заважає?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0018",
+            "en": "I’m really curious.",
+            "ru_native": "Мне правда любопытно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені дійсно цікаво."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0019",
+            "en": "And I like art. You can’t spell great without art.",
+            "ru_native": "И я люблю искусство. Без него никуда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я люблю мистецтво. Без нього нікуди."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0020",
+            "en": "Yeah, totally. I’m not wasting film, they barely make it anymore.",
+            "ru_native": "Разумеется. Я не собираюсь зря тратить пленку, ее и так не достать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Я не збираюся витрачати марно плівку, її так важко дістати."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0021",
+            "en": "I mean—fair, but like—if we happen upon one, how long will it take for me to press a button?",
+            "ru_native": "Справедливо. Но если нам что-то по пути<br>попадется, сколько времени надо, чтобы нажать кнопку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справедливо, але… Якщо нам щось трапиться<br>по дорозі, скільки треба часу натиснути кнопку?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0022",
+            "en": "One second? Maybe three? You can time me.",
+            "ru_native": "Секунда? Три? Можешь засечь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Секунда? Три? Можеш засікти."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0023",
+            "en": "Let’s just keep an eye out, no harm there.",
+            "ru_native": "Просто будем смотреть по сторонам, и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто будемо пильними, ось і все."
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0024",
+            "en": "Let’s just keep an eye out, okay?",
+            "ru_native": "Просто будем смотреть по сторонам, ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто будемо пильними, добре?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JACOB_0025",
+            "en": "Five major works, if they’re so major, we’ll know ‘em when we see ‘em.",
+            "ru_native": "Пять крупных работ. Если они такие крупные, мы их сразу увидим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "П’ять значних робіт. Якщо вони настільки великі, ми їх упізнаємо з першого погляду."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0000",
+            "en": "[WT] Hey, she is. Tell me, are you dead?",
+            "ru_native": "Привет, да. Скажи, ты мертвец?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, так. Скажи, ти мертва?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0001",
+            "en": "[WT] Not a trick question.",
+            "ru_native": "Вопрос без подвоха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я серйозно."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0002",
+            "en": "[WT] Are you now or have you ever been a corpse?",
+            "ru_native": "Ты сейчас или когда-нибудь была трупом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти зараз чи коли-небудь була трупом?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0003",
+            "en": "[WT] I’ll take it. And yeah weird question, but…",
+            "ru_native": "Принято. Да, странный вопрос, но…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Дивне питання, але…"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0004",
+            "en": "[WT] Well…",
+            "ru_native": "Ну…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну…"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0005",
+            "en": "[WT] After tonight? It’s a possibility…",
+            "ru_native": "После этой ночи? Возможно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після цієї ночі? Можливо…"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0006",
+            "en": "[WT] Within the last half hour I’ve gotten calls from Camena’s former mayor—",
+            "ru_native": "За последние полчаса мне позвонил бывший мэр Камены...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За останні півгодини мені телефонували колишній мер Камени…"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0007",
+            "en": "[WT] —my 9th grade soccer coach, and the pizza guy who used to always hit on my mom.",
+            "ru_native": "...мой тренер по футболу в 9-м классе и доставщик пиццы, который вечно клеил мою маму.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…мій тренер із футболу в 9-му класі та кур’єр, який залицявся до моєї мами."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0008",
+            "en": "[WT] Now what do these people have in common? I attended all of their funerals.",
+            "ru_native": "Как думаешь, что между ними общего? Я у всех была на похоронах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як думаєш, що в них спільного? У всіх я була на похоронах."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0009",
+            "en": "[WT] Well… not the pizza guy. But…",
+            "ru_native": "Ладно... кроме доставщика. Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… окрім кур’єра. Але…"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0010",
+            "en": "[WT] You sound… modern enough for me. I assume you heard the radio broadcast?",
+            "ru_native": "Мне кажется...ты достаточно современная. Полагаю, ты слышала радиопередачу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здається… ти досить сучасна. Гадаю, ти чула радіопередачу?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0011",
+            "en": "[WT] About the pictures and everything?",
+            "ru_native": "Про картины и все такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про малюнки й таке інше?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0012",
+            "en": "[WT] And the donut coupon?",
+            "ru_native": "И купон на пончики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І купон на пончики?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0013",
+            "en": "[WT] Who wouldn’t? Unfortunately…",
+            "ru_native": "А кто не хочет? Увы…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А хто не хоче? На жаль…"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0014",
+            "en": "[WT] Oh, she was, for sure. But if you’re looking to help out…",
+            "ru_native": "О, без сомнения. Но если хотите помочь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звісно. Але якщо хочете допомогти…"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0015",
+            "en": "[WT] I recorded that episode—I mean, God—twenty years ago? At least?",
+            "ru_native": "Я записала тот выпуск, господи, лет двадцать назад? Как минимум?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я записала той випуск, боже, років із двадцять тому? Як мінімум?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0016",
+            "en": "[WT] So like—I do not have that donut coupon anymore. Let’s start there, I guess.",
+            "ru_native": "Так что у меня больше нет того купона на пончики. Начнем с этого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому в мене немає більше того купону на пончики. Почнемо із цього."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0017",
+            "en": "[WT] And, sadly, nobody had any pictures when I first asked for ‘em so…",
+            "ru_native": "И, к сожалению, никто тогда не прислал никаких фото...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І, на жаль, ніхто тоді не прислав ніяких фото…"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0018",
+            "en": "[WT] Look, things are weird right now. Very weird.",
+            "ru_native": "Слушайте, сейчас творятся странные дела. Очень странные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, зараз коїться щось дивне. Дуже дивне."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0019",
+            "en": "[WT] And… so tonight might open up… some possibilities.",
+            "ru_native": "И… сегодня ночью могут открыться… новые возможности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… сьогодні вночі можуть з’явитися… нові можливості."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0020",
+            "en": "[WT] So if you see some JB artwork… could you take a picture?",
+            "ru_native": "Так что если увидите что-то из работ Джей Би… можете снять?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож якщо побачите щось із робіт Джей Бі… можете сфотографувати?"
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0021",
+            "en": "[WT] She’s not uh—with us anymore, but, I dunno.",
+            "ru_native": "Ее больше, хм, нет с нами, но не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її більше, гм, немає з нами, але не знаю."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0022",
+            "en": "[WT] Just something to keep an eye out for. Thanks for, uh, for calling in, though.",
+            "ru_native": "Просто посматривайте по сторонам. И спасибо, что позвонили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто будьте уважні. І дякую, що набрали."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0023",
+            "en": "[WT] Really.",
+            "ru_native": "Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дійсно."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0024",
+            "en": "She did five major works she was super proud of. The rest were uh---not so memorable I guess.",
+            "ru_native": "Она написала пять крупных работ, которыми гордилась. Остальные были...<br>не такие значимые, пожалуй.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона написала п’ять великих робіт, якими гордилася. Решта були… не такі значні."
+        },
+        {
+            "tag": "SQ34.JILLIA_JILLIAN_0025",
+            "en": "We’d take walks around Pemmican and she’d tell me all about ‘em. Those were...good memories.<i>Better</i> memories.",
+            "ru_native": "Мы гуляли по Пеммикану, и она рассказывала мне про них.<br>Это... хорошие воспоминания. <i>Лучше</i>, чем другие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми гуляли біля початкової точки Пеммікан, вона мені розповідала різні історії.<br>Це… чудові спогади. <i>Найкращі</i> спогади."
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0000",
+            "en": "Hey, is, uh, is Jillian there?",
+            "ru_native": "Привет, Джиллиан, вы там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Джилліан, ви там?"
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0001",
+            "en": "I’m at least… 85% sure I’m not dead. No promises, though.",
+            "ru_native": "Я минимум на... 85% уверена, что не труп. Но обещать не могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я мінімум на… 85% впевнена, що я не труп. Але обіцяти не можу."
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0002",
+            "en": "Why… would you ask that?",
+            "ru_native": "Почему вы спрашиваете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому… ви питаєте?"
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0003",
+            "en": "I mean—no. Are you?",
+            "ru_native": "В смысле, нет. А вы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, а ви?"
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0004",
+            "en": "We heard and we want donut discounts.",
+            "ru_native": "Да, мы слышали и хотим скидку на пончики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ми чули й хочемо купон на пончики."
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0005",
+            "en": "Your grandmother sounds like a total badass.",
+            "ru_native": "Похоже, ваша бабушка была крутой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ваша бабуся була крутою."
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0006",
+            "en": "Yeah, sure, why not.",
+            "ru_native": "Да, почему бы и нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звісно, чому б ні."
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0007",
+            "en": "I like—ya know—paint. As long as it doesn’t get in the way of—",
+            "ru_native": "Я вообще люблю живопись. И если это не помешает...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, я люблю живопис. І якщо це не завадить…"
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0008",
+            "en": "No, we’re not going to your truck for your camera, are you kidding?",
+            "ru_native": "Да не пойдем мы к твоему грузовику за камерой, смеешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та не будемо ми йти до твоєї вантажівки за камерою. Знущаєшся?"
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0009",
+            "en": "We’ve already lost too much time just talking about this. Let’s go.",
+            "ru_native": "Мы уже на разговоры об этом потеряли кучу времени. Пошли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми лише на балачки про це витратили купу часу. Ходімо."
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0010",
+            "en": "Aw, c’mon. The camera’s all the way back in your truck? We’re, like, on the road here.",
+            "ru_native": "Да ладно. Иди до самого грузовика за камерой? Мы в пути вообще-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі. Іти аж до вантажівки по камеру? Ми тут типу йдемо кудись."
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0011",
+            "en": "Sure, if we see some, sure.",
+            "ru_native": "Конечно, если увидим по дороге, то да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно, якщо побачимо по дорозі, то так."
+        },
+        {
+            "tag": "SQ34.JILLIA_RILEY_0012",
+            "en": "I’m not sure if we have time for this.",
+            "ru_native": "Сомневаюсь, что у нас есть на это время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумніваюся, що в нас є на це час."
+        }
+    ]
+}

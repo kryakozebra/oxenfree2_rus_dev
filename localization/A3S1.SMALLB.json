@@ -1,0 +1,294 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S1.SMALLB",
+    "entries": [
+        {
+            "tag": "A3S1.SMALLB_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.SMALLB_CHOICE_0000_OPTION_0000",
+            "en": "I feel kinda bad.",
+            "ru_native": "Как-то стыдно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якось соромно."
+        },
+        {
+            "tag": "A3S1.SMALLB_CHOICE_0000_OPTION_0001",
+            "en": "Thievery! Exciting.",
+            "ru_native": "Кража! Кайф.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Крадіжка! Клас."
+        },
+        {
+            "tag": "A3S1.SMALLB_CHOICE_0000_OPTION_0002",
+            "en": "Almost done with this night.",
+            "ru_native": "Конец уже близко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець уже близько."
+        },
+        {
+            "tag": "A3S1.SMALLB_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.SMALLB_CHOICE_0001_OPTION_0000",
+            "en": "She was flirting.",
+            "ru_native": "Она флиртовала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона фліртувала."
+        },
+        {
+            "tag": "A3S1.SMALLB_CHOICE_0001_OPTION_0001",
+            "en": "What a rebel-rouser!",
+            "ru_native": "Какой смутьян!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От бунтар який!"
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0000",
+            "en": "Yeah, here to there is all we need.",
+            "ru_native": "Да, нам только туда и обратно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, нам лише туди й назад."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0001",
+            "en": "It’s Eva’s. She runs the baitshop.",
+            "ru_native": "Это лодка Евы из рыболовного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це човен Єви з риболовного."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0002",
+            "en": "She always tries to get me to go with her to “field test” new products.",
+            "ru_native": "Она вечно пытается уломать меня на «полевую проверку» новой наживки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона постійно намагається вмовити мене перевірити новий товар «у польових умовах»."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0003",
+            "en": "I guess so she can feel less guilty about fishing on the clock.",
+            "ru_native": "Думаю, она так прикрывает рыбалку в рабочее время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, так вона виправдовує риболовлю в робочий час."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0004",
+            "en": "I mean—I guess it’s important work.",
+            "ru_native": "Наверно, это важно для работы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Певно, це важливо для роботи."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0005",
+            "en": "Given her uh—field.",
+            "ru_native": "Учитывая ее специфику.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ураховуючи специфіку роботи."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0006",
+            "en": "“Hey Jake, let’s go skewer some worms.”",
+            "ru_native": "«Эй, Джейк, хочешь подавить червей?»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Гей, Джейку, хочеш понасаджувати черв’яків?»"
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0007",
+            "en": "That’s when I knew we were meant to be.",
+            "ru_native": "В тот момент я понял, что это судьба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У цей момент я зрозумів, що це — доля."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0008",
+            "en": "Live slow, die old. That’s the Camena way.",
+            "ru_native": "Живи медленно, умри старым. Вот наш девиз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Живи повільно, помри старим — от девіз жителів Камени."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0009",
+            "en": "It’s padlocked to the dock. And we need the key to start the thing.",
+            "ru_native": "Лодка на замке. Еще и ключ нужен, чтобы завести.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Човен припнутий. І ще нам потрібен ключ, щоби завести двигун."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0010",
+            "en": "But I’d bet all the coins in my pocket that the key’s in the shop.",
+            "ru_native": "Хотя готов поспорить, что ключ в магазине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча готовий битися об заклад, що ключ — у магазині."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0011",
+            "en": "And knowing Eva, the door’s probably unlocked.",
+            "ru_native": "Зная Еву, уверен, что дверь открыта.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаючи Єву… двері, імовірно, незамкнені."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0012",
+            "en": "No one’s exactly itching to steal leeches and mealworms, so…",
+            "ru_native": "Кому в голову придет воровать пиявок и червей...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кому в голову прийде красти черв’яків і личинок."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0013",
+            "en": "Okay, so we need a code for the lock and a key for the boat.",
+            "ru_native": "Так, нам нужен код для замка и ключ для лодки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, нам потрібен код для замка і ключ до човна."
+        },
+        {
+            "tag": "A3S1.SMALLB_JACOB_0014",
+            "en": "And hopefully some calm water after that. C’mon.",
+            "ru_native": "И, желательно, спокойная вода. Идем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І, бажано, спокійна вода. Гайда."
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0000",
+            "en": "This looks… fine.",
+            "ru_native": "Вот она подходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цей… підходить."
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0001",
+            "en": "Yeah… now that I’m standing here, I feel kinda bad.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да... Сейчас, когда я стою здесь, мне как-то не по себе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0002",
+            "en": "Like, who owns this?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Например, кому это принадлежит?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0003",
+            "en": "It’s been a while since I’ve… you know… redefined the laws for my own personal use.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давненько я не... ну, знаешь... не перекраивал законы для своего личного пользования.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0004",
+            "en": "Do you know who owns it?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты знаешь, кому он принадлежит?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0005",
+            "en": "Almost done. I mean… I thought maybe we were done when we planted that last transmitter, but—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Почти готово. Я имею в виду... Я думал, может быть, мы закончили, когда посадили тот последний излучатель, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0006",
+            "en": "Now we’re almost done.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Теперь мы почти закончили.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0007",
+            "en": "Dude, she was totally flirting with you.",
+            "ru_native": "Чувак, да она с тобой флиртует.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чуваче, та вона з тобою фліртує."
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0008",
+            "en": "I mean—clearly she had tee-ball level game, but still, that’s a proper flirt.",
+            "ru_native": "В этом деле она далеко не профессионал, но флирт зачетный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У цій справі вона не професіонал, але флірт що треба."
+        },
+        {
+            "tag": "A3S1.SMALLB_RILEY_0009",
+            "en": "Wow, Camena is just thrill-a-minute, huh?",
+            "ru_native": "Вижу, Камена – город острых впечатлений!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, Камена — місто гострих відчуттів, еге?"
+        }
+    ]
+}

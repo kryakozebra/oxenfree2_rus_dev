@@ -1,0 +1,987 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.BACKTO",
+    "entries": [
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0000_OPTION_0000",
+            "en": "I’m okay.",
+            "ru_native": "Я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0000_OPTION_0001",
+            "en": "I saw a kid…",
+            "ru_native": "Я видела ребенка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила дитину…"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0000_OPTION_0002",
+            "en": "Where’s Charlie?",
+            "ru_native": "Где Чарли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Чарлі?"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0001_OPTION_0000",
+            "en": "Should’ve kept going.",
+            "ru_native": "Надо было бежать дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба було бігти за ним."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0001_OPTION_0001",
+            "en": "Thanks for trying.",
+            "ru_native": "Спасибо за попытку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за спробу."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0002_OPTION_0000",
+            "en": "I’m okay.",
+            "ru_native": "Я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0002_OPTION_0001",
+            "en": "I saw a kid…",
+            "ru_native": "Я видела ребенка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила дитину…"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0002_OPTION_0002",
+            "en": "You’re alive!",
+            "ru_native": "Ты жив!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти живий!"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0003_OPTION_0000",
+            "en": "I’m in.",
+            "ru_native": "Я за.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я згодна."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0003_OPTION_0001",
+            "en": "I’m going to bed.",
+            "ru_native": "Я в кровать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — спати."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0004_OPTION_0000",
+            "en": "I’m okay.",
+            "ru_native": "Я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0004_OPTION_0001",
+            "en": "I was with my son again…",
+            "ru_native": "Я снова была со своим сыном...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знову була зі своїм сином…"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0004_OPTION_0002",
+            "en": "Where’s Charlie?",
+            "ru_native": "Где Чарли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Чарлі?"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0005_OPTION_0000",
+            "en": "I’m okay.",
+            "ru_native": "Я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0005_OPTION_0001",
+            "en": "I was with my son again…",
+            "ru_native": "Я снова была со своим сыном...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знову була зі своїм сином…"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0005_OPTION_0002",
+            "en": "You’re alive!",
+            "ru_native": "Ты жив!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти живий!"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0006_OPTION_0000",
+            "en": "Sad.",
+            "ru_native": "Грустно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумно."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0006_OPTION_0001",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0006_OPTION_0002",
+            "en": "We were burying his pet.",
+            "ru_native": "Мы хоронили его питомца.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ховали його улюбленця."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0007_OPTION_0000",
+            "en": "I’m okay.",
+            "ru_native": "Я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0007_OPTION_0001",
+            "en": "Where’s Charlie?",
+            "ru_native": "Где Чарли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Чарлі?"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0008_OPTION_0000",
+            "en": "I’m okay.",
+            "ru_native": "Я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0008_OPTION_0001",
+            "en": "You're alive!",
+            "ru_native": "Ты жив!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти живий!"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0009",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0009_OPTION_0000",
+            "en": "I'm okay.",
+            "ru_native": "Я в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0009_OPTION_0001",
+            "en": "I was in another time...",
+            "ru_native": "Я была в другом времени...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я була в іншому часі…"
+        },
+        {
+            "tag": "A2W3.BACKTO_CHOICE_0009_OPTION_0002",
+            "en": "You're alive!",
+            "ru_native": "Ты жив!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти живий!"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0000",
+            "en": "Riley? Riley!",
+            "ru_native": "Райли? Райли!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Райлі!"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0001",
+            "en": "Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі?"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0002",
+            "en": "Is that a blink?",
+            "ru_native": "Ты моргнула?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти блимнула?"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0003",
+            "en": "Okay. That’s two blinks now.",
+            "ru_native": "Вот. Уже два раза.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, уже двічі."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0004",
+            "en": "You—back with us? You okay?",
+            "ru_native": "Ты... вернулась? Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… з нами? З тобою все гаразд?"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0005",
+            "en": "Okay, good. Phew.",
+            "ru_native": "Фух, слава богу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хух, слава богу."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0006",
+            "en": "You were just… staring out into the ocean. Didn’t blink for a solid minute.",
+            "ru_native": "Ты просто... целую минуту смотрела на океан и ни разу не моргнула.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти просто… витріщалася на океан. І десь хвилину не кліпала очима."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0007",
+            "en": "It was… impressive, I’ll say—you might want some eye drops, though, Jesus.",
+            "ru_native": "Это было... впечатляюще. Тебе, наверное, глаза бы закапать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було… разюче. Тобі, мабуть, варто скористатися краплями для очей."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0008",
+            "en": "I, uh, wish I had better news, though. Charlie—that kid—got away.",
+            "ru_native": "Боюсь, у меня плохие новости. Чарли, тот пацан, убежал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боюся, у мене для тебе погані новини. Чарлі, той хлопець утік."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0009",
+            "en": "Oh. Sorry.",
+            "ru_native": "Ой. Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибач."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0010",
+            "en": "Well… you’re here now, you’re back… I wish I had better news, but, uh…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну... теперь ты здесь, ты вернулся... Хотел бы я иметь лучшие новости, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0011",
+            "en": "Charlie got away.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чарли успел убежать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0012",
+            "en": "Yeah. But, he got away, actually.",
+            "ru_native": "Да. Но я его не догнал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але я його не наздогнав."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0013",
+            "en": "Oh! That’s another blink. I’m counting it.",
+            "ru_native": "Вот, снова моргнула. Я считаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, знову кліпнула. Я рахую."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0014",
+            "en": "He took off over the hill, and I thought I was already getting too ahead of myself.",
+            "ru_native": "Он оторвался на холме, и я подумал, что и так уже себя превзошел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він відірвався на пагорбі, а я подумав, що й так уже себе перевершив."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0015",
+            "en": "So. Came back.",
+            "ru_native": "И вернулся назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому й повернувся назад."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0016",
+            "en": "Should’ve brought my inhaler.",
+            "ru_native": "Надо было взять ингалятор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба було взяти із собою інгалятор."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0017",
+            "en": "Always forget it.",
+            "ru_native": "Вечно его забываю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Постійно його забуваю."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0018",
+            "en": "No, no, I really couldn’t. Those kids can do cardio like it’s their job.",
+            "ru_native": "Нет, я правда не смог бы. Эти дети носятся как заправские бегуны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, навряд чи. Ці діти бігають так, ніби вони — професійні спортсмени."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0019",
+            "en": "Trust me, my lungs do not.",
+            "ru_native": "Мне бы дыхалки не хватило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, скажи це моїм легеням."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0020",
+            "en": "The path he was on funnels back to Berenson Creek. That fishing spot by the waterfall?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тропинка, по которой он шел, воронкой возвращается к ручью Беренсон. То место для рыбалки у водопада?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0021",
+            "en": "We have to head over there anyway to plant the transmitter.",
+            "ru_native": "Нам все равно надо туда, чтобы поставить передатчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам однаково треба туди, щоби встановити радіопередавач."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0022",
+            "en": "So. Maybe we’ll get lucky, and he’ll still be there. C’mon. Let’s hit the road.",
+            "ru_native": "Вдруг нам повезет, и он все еще там. Пошли скорее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раптом нам пощастить, і він досі там. Ходімо швидше."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0023",
+            "en": "I went over the hill there to see up ahead—how far we were…",
+            "ru_native": "Я поднялся на холм, чтобы посмотреть, насколько мы были далеко...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я піднявся на пагорб, щоби подивитися, наскільки ми були далеко…"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0024",
+            "en": "Things I think are getting worse. But… it’ll be okay.",
+            "ru_native": "По-моему, дела все хуже. Но... мы справимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, справи кепські. Але… ми впораємося."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0025",
+            "en": "You’re here now, you’re back… and, I mean, good news—",
+            "ru_native": "Теперь ты тут, ты вернулась, и это хорошо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер ти тут, ти повернулася… і це добре…"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0026",
+            "en": "I did? I—I’m sorry, Riley, I don’t remember that.",
+            "ru_native": "Правда? Я... прости, Райли, я не помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно? Я… вибач, Райлі, я не пам’ятаю."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0027",
+            "en": "Berenson Creek’s just over yonder. That fishing spot by the waterfall?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Беренсон-Крик находится вон там. То место для рыбалки у водопада?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0028",
+            "en": "Let’s hurry and plant that transmitter, see if our theory holds up.",
+            "ru_native": "Давай скорее поставим передатчик и проверим нашу теорию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам треба хутчіше встановити радіопередавачі й перевірити нашу теорію."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0029",
+            "en": "We’re almost there, Riley.",
+            "ru_native": "Райли, мы почти у цели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми майже прийшли, Райлі."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0030",
+            "en": "Pancakes on me as soon as we’re done.",
+            "ru_native": "Как закончим, с меня блинчики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли закінчимо, з мене млинці."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0031",
+            "en": "I know a great diner.",
+            "ru_native": "Я знаю отличную закусочную.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю чудову закусочну."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0032",
+            "en": "I mean, it-it takes a fine effort to ruin pancakes but still.",
+            "ru_native": "Конечно, блины сложно испортить, но все-таки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно, млинці важко зіпсувати, але все одно."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0033",
+            "en": "And I’m getting two sides of bacon. They don’t give enough.",
+            "ru_native": "И я всегда прошу двойной бекон. Они мало кладут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я завжди прошу подвійний бекон. Вони зазвичай мало кладуть."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0034",
+            "en": "Go ahead and judge me, it’s happening.",
+            "ru_native": "Можешь осудить меня, но так и есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш осудити мене, але так воно і є."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0035",
+            "en": "Think it over. If you’re in, breakfast is on me.",
+            "ru_native": "Подумай. Если что, завтрак за мой счет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подумай. Якщо згодна, то сніданок за мій рахунок."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0036",
+            "en": "C’mon, creek’s not far.",
+            "ru_native": "Да ладно, ручей недалеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0037",
+            "en": "Oh. Wow. Uh… what was he like?",
+            "ru_native": "Ого. Ух ты. И... каким он был?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого собі. Гм… який він був?"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0038",
+            "en": "Why? What was happening? What was he like?",
+            "ru_native": "Что такое? Что случилось? Каким он был?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому? Що відбувалося? Який він?"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0039",
+            "en": "Oh no, it’s okay. But wow. Man.",
+            "ru_native": "Нет-нет, все в порядке. Ни ничего себе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, усе гаразд. Але нічого собі. Ого."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0040",
+            "en": "What’s, uh, what’s it like? What’s he like — or what was he like just now?",
+            "ru_native": "И как это было? Какой он? То есть каким он был сейчас?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як, гм, як це було? Який він… чи який він щойно був?"
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0041",
+            "en": "Okay. Geez. Well… Charlie got away. Sorry to say.",
+            "ru_native": "Ладно. Боже. В общем... Чарли ушел. Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Боже. Ну… Чарлі втік. Вибач."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0042",
+            "en": "Okay. Geez. Well… Charlie got away. Sorry to say.",
+            "ru_native": "Ладно. Боже. В общем... Чарли ушел. Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Боже. Ну… Чарлі втік. Вибач."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0043",
+            "en": "Okay. Geez. Well… Charlie got away. Sorry to say.",
+            "ru_native": "Ладно. Боже. В общем... Чарли ушел. Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Боже. Ну… Чарлі втік. Вибач."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0044",
+            "en": "You know what? It’s — this is your experience, sorry. I’m — sorry.",
+            "ru_native": "Знаешь что? Это... это твой опыт, прости. Мне... мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш що? Це… це твій досвід, вибач. Я… вибач."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0045",
+            "en": "In other news, Charlie got away. Sorry to say.",
+            "ru_native": "У меня тоже новость: Чарли ушел. Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене є й інші новини. Чарлі втік. Вибач."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0046",
+            "en": "The path he was on funnels back to Tootega Falls.",
+            "ru_native": "Он пошел по дороге обратно к Тутега Фолз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він біг по стежці, що веде до водоспадів Тутега."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0047",
+            "en": "You can get really high up there on the cliffside. Should be a good place for it.",
+            "ru_native": "Можно подняться довольно высоко вверх по скале. Хороший вариант.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там можна високо залізти на скелю. Має бути чудове місце для радіопередавача."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0048",
+            "en": "Tootega Falls is just over yonder.",
+            "ru_native": "Тутега Фолз прямо вон там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Водоспади Тутега ось там."
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0049",
+            "en": "You can get really high up there on the cliffside. Should be a good place for it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Там можно забраться очень высоко на склон скалы. Должно получиться неплохое место для этого.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W3.BACKTO_JACOB_0050",
+            "en": "Somewhere around the waterfall should be a good place for it.",
+            "ru_native": "Место где-нибудь у водопада должно подойти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Десь біля водоспаду можна знайти чудове місце для нього."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0000",
+            "en": "Yeah yeah, I’m—fine, I guess. I’m here. I’m… okay.",
+            "ru_native": "Да-да, я... в порядке, наверное. Я тут. Все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так-так, зі мною… усе добре. Я тут. Усе гаразд."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0001",
+            "en": "I was, uh… in another time. For a minute or two… it was… not a good one.",
+            "ru_native": "Я была... в другом времени. На минуту или две... это было... не очень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я була… в іншому часі. На хвилину чи дві… Це було… не дуже."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0002",
+            "en": "Wait, where’s Charlie? Didn’t you run after him?",
+            "ru_native": "Постой, где Чарли? Разве ты не за ним бежал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, де Чарлі? Хіба ти не за ним біг?"
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0003",
+            "en": "You should’ve kept after him—maybe you could’ve caught up.",
+            "ru_native": "Надо было бежать за ним. Вдруг бы ты его догнал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба було бігти за ним. Раптом ти б його наздогнав?"
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0004",
+            "en": "Thanks for trying, anyway. I appreciate the effort.",
+            "ru_native": "Все равно, спасибо за попытку. Я ценю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але дякую за спробу. Я ціную це."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0005",
+            "en": "Wait, Jacob? You’re—you’re okay? You vanished from here, like… just a minute ago…",
+            "ru_native": "Постой, Джейкоб? Ты... ты в порядке? Ты испарился, наверное, минуту назад...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, Джейкобе? З тобою… усе гаразд? Ти зник, мабуть, хвилину тому…"
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0006",
+            "en": "Hey, sounds great.",
+            "ru_native": "Звучит здорово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить непогано."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0007",
+            "en": "Yeah, no, I’m heading home after this. I’m exhausted. I’m gonna dream about sleeping.",
+            "ru_native": "Ой, нет, я домой. У меня сил нет. Я мечтаю о сне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, але я піду додому після цього. Я вже знесилена. Я просто мрію про сон."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0008",
+            "en": "I… was put in another time… I think. In the future. There… was a kid there.",
+            "ru_native": "Я... кажется, я попала в другое время. В будущее. Там был... мальчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я була… в іншому часі… здається. У майбутньому. Там… був хлопчик."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0009",
+            "en": "Kept calling me… his mom. His name’s Rex.",
+            "ru_native": "Он называл меня... мамой. Мальчик по имени Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він називав мене… своєю мамою. Його звали Рекс."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0010",
+            "en": "I had another… moment. I was with my son again. Rex.",
+            "ru_native": "У меня был еще... момент. Я снова видела моего сына, Рекса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене знову був… момент. Я була зі своїм сином. Рексом."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0011",
+            "en": "Sorry, this one was… well, none of them are great, but…",
+            "ru_native": "Прости, этот был... ну, они все не очень, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, цього разу… ну, усі рази були не дуже, але…"
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0012",
+            "en": "I’ve been… I haven’t said anything but I’ve been having these out of time moments—",
+            "ru_native": "Я не... Я ничего не сказала, но у меня был один из этих моментов вне времени...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Я нічого не сказала, але в мене трапляються позачасові моменти…"
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0013",
+            "en": "—with a little kid. He says he’s my son. Rex.",
+            "ru_native": "... с мальчиком по имени Рекс. Он сказал, что он мой сын.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…з хлопчиком. Він каже, що він мій син. Рекс."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0014",
+            "en": "I just — I had another one. They… throw me for a loop — sorry.",
+            "ru_native": "Я просто... Это опять повторилось. Они... закинули меня в петлю, прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… у мене щойно був ще один. Вони… заплутали мене… Вибач."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0015",
+            "en": "He was… sad, I guess. The memory, or — the time was sad, but… he was sad in a way that was bigger than the moment.",
+            "ru_native": "Пожалуй... грустным. Воспоминание – или время – было печальное,<br>но... но его грусть была еще сильнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він був… сумний чи що. Спогади чи…<br>часи були сумні, але… він був незрівнянно сумний."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0016",
+            "en": "It’s hard to explain. Nevermind, honestly. Let’s just — yeah, nevermind.",
+            "ru_native": "Сложно объяснить. Давай забудем. Просто... проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це важко пояснити. Чесно, забудь. Просто… Так, забудь."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0017",
+            "en": "It’s… I don’t know.",
+            "ru_native": "Это... не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… Не знаю."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0018",
+            "en": "It’s hard to explain. Nevermind, honestly. Let’s just — yeah, nevermind.",
+            "ru_native": "Сложно объяснить. Давай забудем. Просто... проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це важко пояснити. Чесно, забудь. Просто… Так, забудь."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0019",
+            "en": "We were… having a little funeral by the sea for his pet lizard or something.",
+            "ru_native": "Мы... хоронили его ручную ящерицу или типа того, отпускали ее в море.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Був… похорон його тваринки на узбережжі моря. Ящірки наче."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0020",
+            "en": "He seemed… distraught. I couldn’t help him.",
+            "ru_native": "Он словно... обезумел от горя. Я не могла ему помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він був… спантеличений. Я нічого не могла із цим зробити."
+        },
+        {
+            "tag": "A2W3.BACKTO_RILEY_0021",
+            "en": "It’s hard to explain. Nevermind, honestly. Let’s just — yeah, nevermind.",
+            "ru_native": "Сложно объяснить. Давай забудем. Просто... проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це важко пояснити. Чесно, забудь. Просто… Так, забудь."
+        }
+    ]
+}

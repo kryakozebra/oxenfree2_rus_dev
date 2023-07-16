@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.TIMTEA",
+    "entries": [
+        {
+            "tag": "A1S1.TIMTEA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.TIMTEA_CHOICE_0000_OPTION_0000",
+            "en": "What the Hell…",
+            "ru_native": "Какого?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що за чортівня…"
+        },
+        {
+            "tag": "A1S1.TIMTEA_CHOICE_0000_OPTION_0001",
+            "en": "What is this thing?",
+            "ru_native": "Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за штука?"
+        },
+        {
+            "tag": "A1S1.TIMTEA_RILEY_0000",
+            "en": "What… the hell is…",
+            "ru_native": "Какого хрена?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… що за чортівня…"
+        },
+        {
+            "tag": "A1S1.TIMTEA_RILEY_0001",
+            "en": "What… is this thing?",
+            "ru_native": "Что это такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це… за штука?"
+        }
+    ]
+}

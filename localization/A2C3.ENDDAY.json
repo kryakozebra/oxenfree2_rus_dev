@@ -1,0 +1,105 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.ENDDAY",
+    "entries": [
+        {
+            "tag": "A2C3.ENDDAY_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.ENDDAY_CHOICE_0000_OPTION_0000",
+            "en": "Yeah.",
+            "ru_native": "Ага.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага."
+        },
+        {
+            "tag": "A2C3.ENDDAY_CHOICE_0000_OPTION_0001",
+            "en": "Huh.",
+            "ru_native": "Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм."
+        },
+        {
+            "tag": "A2C3.ENDDAY_CHOICE_0000_OPTION_0002",
+            "en": "Let’s keep on.",
+            "ru_native": "Пойдем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба йти далі."
+        },
+        {
+            "tag": "A2C3.ENDDAY_JACOB_0000",
+            "en": "…huh.",
+            "ru_native": "Ага...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…гм."
+        },
+        {
+            "tag": "A2C3.ENDDAY_JACOB_0001",
+            "en": "That was… weird.",
+            "ru_native": "Это было... странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було… дивно."
+        },
+        {
+            "tag": "A2C3.ENDDAY_JACOB_0002",
+            "en": "Uniquely weird, you know?",
+            "ru_native": "Определенно странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Безсумнівно дивно, згодна?"
+        },
+        {
+            "tag": "A2C3.ENDDAY_JACOB_0003",
+            "en": "That’s what, uh, Miss Adler would probably call a ship-to-shore anomaly.",
+            "ru_native": "Мисс Адлер, вероятно, назвала бы это аномалией «корабль на берегу».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це міс Адлер назвала б «береговою аномалією»."
+        },
+        {
+            "tag": "A2C3.ENDDAY_RILEY_0000",
+            "en": "Uh… yeah.",
+            "ru_native": "Ну... да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох… ага."
+        },
+        {
+            "tag": "A2C3.ENDDAY_RILEY_0001",
+            "en": "Huh.",
+            "ru_native": "Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм."
+        },
+        {
+            "tag": "A2C3.ENDDAY_RILEY_0002",
+            "en": "Let’s just… keep on.",
+            "ru_native": "Просто... идем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… ідемо далі."
+        }
+    ]
+}

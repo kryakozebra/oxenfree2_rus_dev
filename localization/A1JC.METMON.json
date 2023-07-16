@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1JC.METMON",
+    "entries": [
+        {
+            "tag": "A1JC.METMON_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.METMON_CHOICE_0000_OPTION_0000",
+            "en": "Scary.",
+            "ru_native": "Жуть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моторошно."
+        },
+        {
+            "tag": "A1JC.METMON_CHOICE_0000_OPTION_0001",
+            "en": "He’s good at this.",
+            "ru_native": "У него талант.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йому це добре вдається."
+        },
+        {
+            "tag": "A1JC.METMON_CHOICE_0000_OPTION_0002",
+            "en": "What a weirdo.",
+            "ru_native": "Ненормальный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну й дивак."
+        },
+        {
+            "tag": "A1JC.METMON_RILEY_0000",
+            "en": "Yikes.",
+            "ru_native": "Жуть какая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жах."
+        },
+        {
+            "tag": "A1JC.METMON_RILEY_0001",
+            "en": "He’s actually pretty good at this.",
+            "ru_native": "Признаться, у него талант.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі-то йому це добре вдається."
+        },
+        {
+            "tag": "A1JC.METMON_RILEY_0002",
+            "en": "Scrap metal artists are definitely a type.",
+            "ru_native": "Для такого искусства нужны отклонения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Витвори мистецтва з металобрухту — це точно унікально."
+        }
+    ]
+}

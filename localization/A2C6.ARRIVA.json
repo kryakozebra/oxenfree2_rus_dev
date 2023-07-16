@@ -1,0 +1,564 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.ARRIVA",
+    "entries": [
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0000_OPTION_0000",
+            "en": "You see Violet?",
+            "ru_native": "Видишь Вайолет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бачиш Вайолет?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0000_OPTION_0001",
+            "en": "Finally.",
+            "ru_native": "Наконец-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нарешті."
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0000_OPTION_0002",
+            "en": "How are you holding up?",
+            "ru_native": "Как ты, держишься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти? Тримаєшся?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0001_OPTION_0000",
+            "en": "We’re not that lucky.",
+            "ru_native": "Везение – не наш конек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам так не щастить."
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0001_OPTION_0001",
+            "en": "Maybe…",
+            "ru_native": "Может быть...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо…"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0001_OPTION_0002",
+            "en": "Or this is a trap.",
+            "ru_native": "Или это ловушка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи це пастка."
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0002_OPTION_0000",
+            "en": "Almost done...",
+            "ru_native": "Почти готово...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Майже готово…"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0002_OPTION_0001",
+            "en": "Finally.",
+            "ru_native": "Наконец-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нарешті."
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0002_OPTION_0002",
+            "en": "How are you holding up?",
+            "ru_native": "Как ты, держишься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти? Тримаєшся?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0003_OPTION_0000",
+            "en": "You think they won’t???",
+            "ru_native": "Думаешь, не получится?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, не вийде?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0003_OPTION_0001",
+            "en": "They have to.",
+            "ru_native": "Они должны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мають спрацювати."
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0003_OPTION_0002",
+            "en": "This was your idea!",
+            "ru_native": "Это твоя идея!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це була твоя ідея!"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.ARRIVA_CHOICE_0004_OPTION_0000",
+            "en": "So… the transmitters...",
+            "ru_native": "Передатчики...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже… радіопередавачі…"
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0000",
+            "en": "Alright. Just a little hike and we can plant that transmitter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Небольшой поход, и мы сможем посадить этот передатчик.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0001",
+            "en": "Charity Point’s just up this way.",
+            "ru_native": "Черити Поинт прямо по курсу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Черіті-Пойнт там."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0002",
+            "en": "That, uh, cave detour took things a bit longer…",
+            "ru_native": "Прогулки по пещерам заняли больше времени...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прогулянки печерами тривали довше…"
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0003",
+            "en": "Or, uh, made things take a bit longer —",
+            "ru_native": "Точнее, заставили потратить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точніше, зайняли трохи довше…"
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0004",
+            "en": "I don’t know why they came out all mealy-mouthed.",
+            "ru_native": "Не знаю, почему прозвучало так неестественно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чому прозвучало так неприродньо."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0005",
+            "en": "Yeah. Almost there.",
+            "ru_native": "Да, почти на месте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Майже готово."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0006",
+            "en": "Well, I just went back in time to use an elevator from the turn of the century, so…",
+            "ru_native": "Я только что вернулся в прошлое, чтобы использовать подъемник конца прошлого века...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я щойно повернувся в минуле, щоби використати підйомник із минулого сторіччя."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0007",
+            "en": "I’m doing alright, all things considered.",
+            "ru_native": "Все не так плохо, как могло бы быть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, зважаючи на ситуацію."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0008",
+            "en": "No, not, uh, not yet. That doesn’t mean she’s not here… but…",
+            "ru_native": "Пока нет. Это не значит, что ее здесь нет, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки що ні. Це не означає, що її тут немає… але…"
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0009",
+            "en": "Maybe we lucked out and she found a way home.",
+            "ru_native": "Может, нам повезло, и она нашла путь домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, їй пощастило і вона знайшла шлях додому."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0010",
+            "en": "But, uh, no — I don’t see Violet anywhere.",
+            "ru_native": "Нет. Вайолет нигде не видно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, ні… не бачу Вайолет ніде."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0011",
+            "en": "So, maybe she went home?",
+            "ru_native": "Может, она ушла домой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може вона пішла додому?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0012",
+            "en": "It could happen.",
+            "ru_native": "Всякое может быть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може статися."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0013",
+            "en": "Or could’ve.",
+            "ru_native": "Могло бы быть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи могло б статися."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0014",
+            "en": "Right?",
+            "ru_native": "Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0015",
+            "en": "It’s possible?",
+            "ru_native": "Это возможно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це можливо?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0016",
+            "en": "I won’t jinx it.",
+            "ru_native": "Ладно, сплюну.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, не врочитиму."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0017",
+            "en": "No… that’s… that just wouldn’t be very nice. So.",
+            "ru_native": "Нет... Это было бы очень неприятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це буде не дуже мило."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0018",
+            "en": "C’mon.",
+            "ru_native": "Идем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0019",
+            "en": "Yeah. If the transmitters work.",
+            "ru_native": "Да. Если передатчики сработают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Якщо спрацює радіопередавач."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0020",
+            "en": "Not saying they won’t… but…",
+            "ru_native": "Я не утверждаю обратного, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не стверджую інше… але…"
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0021",
+            "en": "We haven’t seen it complete, yet.",
+            "ru_native": "Еще не все готово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іще не все готове."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0022",
+            "en": "So just trying not to jinx us.",
+            "ru_native": "Пытаюсь не сглазить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отож намагаюся не наврочити."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0023",
+            "en": "No, I know, I’m just — I’m just pointing out that we don’t 100% know it will work.",
+            "ru_native": "Я знаю, просто... Мы не знаем на 100%, что все получится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю. Просто… ми не знаємо на 100 %, що все вдасться."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0024",
+            "en": "That’s — that’s all. I’m sure they will. We just haven’t seen it. Yet.",
+            "ru_native": "Вот и все. Уверен, они сработают. Просто мы еще не проверили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю. Вони спрацюють. Просто ми ще не перевірили. Поки що."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0025",
+            "en": "Not that I can think of, no.",
+            "ru_native": "Ничего на ум не приходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ні."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0026",
+            "en": "They’ll work, they’ll work. Like you said… they have to.",
+            "ru_native": "Да сработают они, сработают. Должны, ты права.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони спрацюють, спрацюють. Як ти і казала… мають спрацювати."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0027",
+            "en": "No, I’m just — I’m just pointing out that we don’t 100% know it will work.",
+            "ru_native": "Нет, просто... Я отметил, что мы не можем на 100% быть уверены в успехе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Просто… ми не знаємо на 100 %, що все вдасться."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0028",
+            "en": "I think—yeah, this is near the top.",
+            "ru_native": "Думаю... да, это рядом с вершиной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю… це поруч із вершиною."
+        },
+        {
+            "tag": "A2C6.ARRIVA_JACOB_0029",
+            "en": "Gotta be a good transmitter spot somewhere around here.",
+            "ru_native": "Где-то тут должно быть хорошее место для передатчика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут поруч має бути гарне місце для встановлення радіопередавача."
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0000",
+            "en": "Phew. Finally.",
+            "ru_native": "Фух. Наконец-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фух. Нарешті."
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0001",
+            "en": "How are you, uh, holding up?",
+            "ru_native": "Как ты, держишься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти? Тримаєшся?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0002",
+            "en": "You, uh, see Violet anywhere? She kept saying she was at Charity Point…",
+            "ru_native": "Видишь где-нибудь Вайолет? Она все твердила, что в Черити Поинт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бачиш де-небудь Вайолет? Весь час говорила, що вона в Черіті-Пойнт…"
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0003",
+            "en": "Yeah, no, we’re not that lucky, if tonight’s anything to go by.",
+            "ru_native": "Сомневаюсь. Судя по происходящему, везение – не наш конек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумніваюся. Нам не щастить, судячи з цієї ночі."
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0004",
+            "en": "Yeah… maybe.",
+            "ru_native": "Может...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага… може."
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0005",
+            "en": "Or this is a trap… set by Olivia. Or one of, uh, one of… them.",
+            "ru_native": "Либо же это ловушка Оливии или кого-то из ее друзей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи це пастка, яку влаштувала Олівія. Чи одна з них."
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0006",
+            "en": "Yeah… almost done.",
+            "ru_native": "Да... почти готово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… Майже готово."
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0007",
+            "en": "Um, you think there’s even a slight chance they won’t?",
+            "ru_native": "Думаешь, есть вероятность, что они не сработают?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, є хоч якийсь шанс, що вони не зможуть?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0008",
+            "en": "We’ve been seeing them work the whole damn night! They weaken the storm — you can tell —",
+            "ru_native": "Мы всю ночь наблюдаем за их работой! Они ослабили грозу, ты же видишь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми всю ніч спостерігаємо за їхньою роботою! Вони послабили грозу, ти ж бачиш…"
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0009",
+            "en": "Well, they have to since we don’t have any other ideas.",
+            "ru_native": "Должны, потому что других идей у нас нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мають спрацювати, адже інших ідей у нас немає."
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0010",
+            "en": "Did Maggie Adler give you any other lessons in radio manipulation?",
+            "ru_native": "Мэгги Адлер научила тебя еще каким-нибудь манипуляциям с радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Меггі Адлер навчила тебе ще яким-небудь маніпуляціям із радіо?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0011",
+            "en": "Jacob. This was your idea! What are you talking about? If they work?",
+            "ru_native": "Джейкоб. Это была твоя идея! Ты что несешь? «Если сработают»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе. Це була твоя ідея! Про що ти? Якщо вони спрацюють?"
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0012",
+            "en": "Uh, you said something about the transmitters maybe not working?",
+            "ru_native": "Ты сказал, что передатчики могут не сработать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сказав, що радіопередавачі можуть не спрацювати."
+        },
+        {
+            "tag": "A2C6.ARRIVA_RILEY_0013",
+            "en": "To be clear — do you really think there’s even the slightest chance that they won’t?",
+            "ru_native": "Хочу уточнить: ты правда думаешь, есть вероятность, что они не сработают?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уточню: ти справді вважаєш, що є імовірність, що вони не спрацюють?"
+        }
+    ]
+}

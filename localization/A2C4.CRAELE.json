@@ -1,0 +1,105 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.CRAELE",
+    "entries": [
+        {
+            "tag": "A2C4.CRAELE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.CRAELE_CHOICE_0000_OPTION_0000",
+            "en": "That’s true.",
+            "ru_native": "Это верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це так."
+        },
+        {
+            "tag": "A2C4.CRAELE_CHOICE_0000_OPTION_0001",
+            "en": "That necessary?",
+            "ru_native": "Мог промолчать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було обов’язково?"
+        },
+        {
+            "tag": "A2C4.CRAELE_JACOB_0000",
+            "en": "Doesn’t mean it was empty when it crashed.",
+            "ru_native": "Не факт, что изначально внутри было пусто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не доводить, що тут не було людей під час аварії."
+        },
+        {
+            "tag": "A2C4.CRAELE_JACOB_0001",
+            "en": "Just saying.",
+            "ru_native": "Так, к слову.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто так кажу."
+        },
+        {
+            "tag": "A2C4.CRAELE_JACOB_0002",
+            "en": "Someone did.",
+            "ru_native": "Ну правда же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A2C4.CRAELE_JACOB_0003",
+            "en": "What? It doesn’t.",
+            "ru_native": "Что? Правда же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що? Це ж правда."
+        },
+        {
+            "tag": "A2C4.CRAELE_RILEY_0000",
+            "en": "It’s kind of sad seeing this thing so broken.",
+            "ru_native": "Немного грустно видеть такие руины.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть якось шкода, що все тут таке занедбане."
+        },
+        {
+            "tag": "A2C4.CRAELE_RILEY_0001",
+            "en": "At least there’s no skeletal remains, I guess.",
+            "ru_native": "Хорошо хоть скелетов нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоч скелети всюди не лежать."
+        },
+        {
+            "tag": "A2C4.CRAELE_RILEY_0002",
+            "en": "True.",
+            "ru_native": "Верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя правда."
+        },
+        {
+            "tag": "A2C4.CRAELE_RILEY_0003",
+            "en": "You really need to say that?",
+            "ru_native": "Промолчать нельзя было?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі от обов’язково треба було це сказати?"
+        }
+    ]
+}

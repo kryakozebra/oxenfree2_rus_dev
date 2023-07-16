@@ -1,0 +1,114 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.POSEMF",
+    "entries": [
+        {
+            "tag": "A2G2.POSEMF_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.POSEMF_CHOICE_0000_OPTION_0000",
+            "en": "Haven’t you had enough?",
+            "ru_native": "Тебе мало?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба тобі мало?"
+        },
+        {
+            "tag": "A2G2.POSEMF_CHOICE_0000_OPTION_0001",
+            "en": "I’ll take basic.",
+            "ru_native": "Я за классику.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я консерватор."
+        },
+        {
+            "tag": "A2G2.POSEMF_JACOB_0000",
+            "en": "Huh, more analog than I expected.",
+            "ru_native": "Хм, я ожидал чего-то поинтереснее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хм, я очікував чогось більш цікавого."
+        },
+        {
+            "tag": "A2G2.POSEMF_JACOB_0001",
+            "en": "Pretty basic input. Man, I was wanting, I dunno, something weird.",
+            "ru_native": "Довольно простой ввод. Я думал, будет что-то более странное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить простий вхід. Я гадав, буде щось більш дивне."
+        },
+        {
+            "tag": "A2G2.POSEMF_JACOB_0002",
+            "en": "Not like—Byzantine but…",
+            "ru_native": "Не византийский, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не візантійський, але…"
+        },
+        {
+            "tag": "A2G2.POSEMF_JACOB_0003",
+            "en": "I dunno. A little weirder.",
+            "ru_native": "Не знаю. Что-то постраннее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Трохи більш дивний."
+        },
+        {
+            "tag": "A2G2.POSEMF_JACOB_0004",
+            "en": "That—you know, you’re right, that’s—I don’t know what I’m saying.",
+            "ru_native": "Да, ты права. Не знаю, зачем я это сказал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти маєш рацію. Не знаю, навіщо я це говорю."
+        },
+        {
+            "tag": "A2G2.POSEMF_JACOB_0005",
+            "en": "Fair enough.",
+            "ru_native": "Справедливо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справедливо."
+        },
+        {
+            "tag": "A2G2.POSEMF_JACOB_0006",
+            "en": "At least it looks weird.",
+            "ru_native": "Вид, по крайней мере, странный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, це має дивний вигляд."
+        },
+        {
+            "tag": "A2G2.POSEMF_RILEY_0000",
+            "en": "Haven’t we had enough weird for one night?",
+            "ru_native": "Тебе странностей мало?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба мало дивного для однієї ночі?"
+        },
+        {
+            "tag": "A2G2.POSEMF_RILEY_0001",
+            "en": "Call me basic, but I’ll take basic. You want a challenge, learn Pig Latin on your own time.",
+            "ru_native": "Я предпочитаю классику. Хочешь трудностей, поучи на досуге латынь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я консерватор. Хочеш долати труднощі, вивчи «поросячу латинь» у вільний час."
+        }
+    ]
+}

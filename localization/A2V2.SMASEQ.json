@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V2.SMASEQ",
+    "entries": [
+        {
+            "tag": "A2V2.SMASEQ_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.SMASEQ_CHOICE_0000_OPTION_0000",
+            "en": "That felt good.",
+            "ru_native": "Было приятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було приємно."
+        },
+        {
+            "tag": "A2V2.SMASEQ_CHOICE_0000_OPTION_0001",
+            "en": "Let’s get out of here.",
+            "ru_native": "Давай убираться отсюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забираймося звідси."
+        },
+        {
+            "tag": "A2V2.SMASEQ_JACOB_0000",
+            "en": "Whoops!",
+            "ru_native": "Упс!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой!"
+        },
+        {
+            "tag": "A2V2.SMASEQ_JACOB_0001",
+            "en": "Guess the cult members will need to get their traffic updates from some other source, now.",
+            "ru_native": "Видимо, членам секты придется узнавать о пробках из другого источника.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, членам секти доведеться дізнаватись про затори з іншого джерела."
+        },
+        {
+            "tag": "A2V2.SMASEQ_JACOB_0002",
+            "en": "Too bad.",
+            "ru_native": "Какая жалость.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яка прикрість."
+        },
+        {
+            "tag": "A2V2.SMASEQ_RILEY_0000",
+            "en": "Lemme tell you. That felt a little good. I lied—a lot good.",
+            "ru_native": "Вынуждена признаться, было неплохо. Нет, было потрясающе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вимушена зізнатися, було непогано. Ні, брешу, це було чудово!"
+        },
+        {
+            "tag": "A2V2.SMASEQ_RILEY_0001",
+            "en": "Okay, that’s done. Let’s—",
+            "ru_native": "С этим покончено. Давай...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, із цим покінчено. Нумо…"
+        }
+    ]
+}

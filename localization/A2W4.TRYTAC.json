@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.TRYTAC",
+    "entries": [
+        {
+            "tag": "A2W4.TRYTAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.TRYTAC_CHOICE_0000_OPTION_0000",
+            "en": "Hey! Wake up!",
+            "ru_native": "Очнись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прокидайся!"
+        },
+        {
+            "tag": "A2W4.TRYTAC_CHOICE_0000_OPTION_0001",
+            "en": "Are you okay, pal?",
+            "ru_native": "Ты в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, друже?"
+        },
+        {
+            "tag": "A2W4.TRYTAC_JACOB_0000",
+            "en": "Don’t think he can hear you…",
+            "ru_native": "Думаю, он тебя не слышит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що він тебе чує."
+        },
+        {
+            "tag": "A2W4.TRYTAC_JACOB_0001",
+            "en": "Guess… not.",
+            "ru_native": "Видимо нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що ні."
+        },
+        {
+            "tag": "A2W4.TRYTAC_RILEY_0000",
+            "en": "Hey! Kid! Snap out of it!",
+            "ru_native": "Пацан! Очнись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Малий! Прокинься!"
+        },
+        {
+            "tag": "A2W4.TRYTAC_RILEY_0001",
+            "en": "Uh, are you okay? Buddy?",
+            "ru_native": "Парень, ты в порядке?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із тобою все гаразд? Друже?"
+        }
+    ]
+}

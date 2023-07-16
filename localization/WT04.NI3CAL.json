@@ -1,0 +1,285 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT04.NI3CAL",
+    "entries": [
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0000_OPTION_0000",
+            "en": "Sail back home!",
+            "ru_native": "Возвращайтесь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повертайтеся!"
+        },
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0000_OPTION_0001",
+            "en": "Are you insane?!",
+            "ru_native": "С ума сошли?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З глузду з’їхали?!"
+        },
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0000_OPTION_0002",
+            "en": "Having fun?",
+            "ru_native": "Веселитесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розважаєтеся?"
+        },
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0001_OPTION_0000",
+            "en": "You’re going to die!",
+            "ru_native": "Вы умрете!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви помрете!"
+        },
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0001_OPTION_0001",
+            "en": "Focus on sailing!",
+            "ru_native": "Возьмитесь за руль!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пливіть назад!"
+        },
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0002_OPTION_0000",
+            "en": "Hope he’s okay.",
+            "ru_native": "Надеюсь, он жив.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, з ним усе гаразд."
+        },
+        {
+            "tag": "WT04.NI3CAL_CHOICE_0002_OPTION_0001",
+            "en": "What an idiot.",
+            "ru_native": "Что за идиот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну й бовдур."
+        },
+        {
+            "tag": "WT04.NI3CAL_JACOB_0000",
+            "en": "That… doesn’t sound great.",
+            "ru_native": "Не нравится мне это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені це не подобається."
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0000",
+            "en": "Riley! I’m here! Hanging by half a thread but I’m here!",
+            "ru_native": "Райли! Я здесь! Держусь на соломинке, но держусь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Я тут! Тримаюся за соломинку, але тримаюся!"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0001",
+            "en": "[massively distorted] You hearing me?!",
+            "ru_native": "Меня слышно?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[дуже спотворено] Мене чути?!"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0002",
+            "en": "[distorted] Riley?!",
+            "ru_native": "Райли?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спотворено] Райлі?!"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0003",
+            "en": "I know, isn’t it great?!",
+            "ru_native": "Знаю, здорово!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, чудово!"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0004",
+            "en": "Maybe!",
+            "ru_native": "Возможно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо!"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0005",
+            "en": "How could you tell?!",
+            "ru_native": "Как ты догадалась?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти здогадалася?!"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0006",
+            "en": "The sky, Riley! Can you see it where you are?",
+            "ru_native": "Небо, Райли! Видишь его у себя?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Небо, Райлі! Бачиш його в себе?"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0007",
+            "en": "[excited] It’s—it’s like it’s alive! Pulsing and—fighting and pissed off!",
+            "ru_native": "Оно будто живое! Пульсирует, и злится, и дерется!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воно ніби живе! Пульсує, і сердиться, і бореться!"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0008",
+            "en": "[crackling with distortion] Just look at it!",
+            "ru_native": "Посмотри!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивися!"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0009",
+            "en": "Can you see it?",
+            "ru_native": "Видишь это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бачиш?"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0010",
+            "en": "[crackling with distortion] Don’t you see, Riley?!",
+            "ru_native": "Райли, ты не видишь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, ти не бачиш?!"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0011",
+            "en": " [crackling with distortion] I’m—",
+            "ru_native": "Я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я…"
+        },
+        {
+            "tag": "WT04.NI3CAL_NICK_0012",
+            "en": "[ID-17] [Massive distortion]",
+            "ru_native": "[ID-17]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди]"
+        },
+        {
+            "tag": "WT04.NI3CAL_RILEY_0000",
+            "en": "Turn around right now! It’s not safe out there!",
+            "ru_native": "Возвращайтесь немедленно! Там опасно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повертайтеся негайно! Там небезпечно!"
+        },
+        {
+            "tag": "WT04.NI3CAL_RILEY_0001",
+            "en": "Nick! It sounds horrible out there—have you lost your mind?!",
+            "ru_native": "Ник! У вас там завывает как в аду, вы с ума сошли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку! У вас там такі моторошні звуки, ви з глузду з’їхали?!"
+        },
+        {
+            "tag": "WT04.NI3CAL_RILEY_0002",
+            "en": "Uh, you having fun out there?",
+            "ru_native": "Вам там весело?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вам там весело?"
+        },
+        {
+            "tag": "WT04.NI3CAL_RILEY_0003",
+            "en": "Nick, you're gonna die out there, do you understand me?!",
+            "ru_native": "Ник, вы там умрете, вы это понимаете?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку, ви там помрете, ви це розумієте?!"
+        },
+        {
+            "tag": "WT04.NI3CAL_RILEY_0004",
+            "en": "Get off the radio and focus!",
+            "ru_native": "Соберитесь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забудьте за радіо і зберіться!"
+        },
+        {
+            "tag": "WT04.NI3CAL_RILEY_0005",
+            "en": "Yeah. I just hope he’s smart enough to turn around.",
+            "ru_native": "Да. Надеюсь, ему хватит мозгов вернуться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, сподіваюся, йому вистачить мізків повернутися."
+        },
+        {
+            "tag": "WT04.NI3CAL_RILEY_0006",
+            "en": "[sigh] What a complete idiot. Why be out here unless… unless you’re us?",
+            "ru_native": "Что за идиот. Зачем соваться сюда, если... У нас-то выбора нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Ну й бовдур. Навіщо сунутися сюди, якщо… У нас вибору немає."
+        }
+    ]
+}

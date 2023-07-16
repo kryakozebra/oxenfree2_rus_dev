@@ -1,0 +1,393 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ31.BBCAL2",
+    "entries": [
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0000_OPTION_0000",
+            "en": "Who’s Tobias?",
+            "ru_native": "Кто такой Тобиас?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто такий Тобіас?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0000_OPTION_0001",
+            "en": "Why are you screaming?",
+            "ru_native": "Почему вы кричите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ви кричите?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0001_OPTION_0000",
+            "en": "Last known location?",
+            "ru_native": "Где вы видели его в последний раз?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ви його бачили востаннє?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0001_OPTION_0001",
+            "en": "Why did you call me earlier?",
+            "ru_native": "Зачем вы мне до этого звонили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо ви мене набирали?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0001_OPTION_0002",
+            "en": "I hope you find him.",
+            "ru_native": "Надеюсь, вы его найдете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ви його знайдете."
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0002_OPTION_0000",
+            "en": "This is a diversion.",
+            "ru_native": "Мы отклонимся от цели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми відхилимося від цілі."
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0002_OPTION_0001",
+            "en": "If it’s on the way.",
+            "ru_native": "Если это по пути.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це по дорозі."
+        },
+        {
+            "tag": "SQ31.BBCAL2_CHOICE_0002_OPTION_0002",
+            "en": "Yeah, let’s help.",
+            "ru_native": "Да, давай поможем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд."
+        },
+        {
+            "tag": "SQ31.BBCAL2_JACOB_0000",
+            "en": "Hey, ask her how she knew we’d be at Charity Point.",
+            "ru_native": "Эй, спроси, как она узнала, что мы в Черити Поинт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Запитай, як вона дізналася, що ми в Черіті-Пойнт."
+        },
+        {
+            "tag": "SQ31.BBCAL2_JACOB_0001",
+            "en": "The uh—ferry isn’t running this late.",
+            "ru_native": "Хм, паром так поздно не ходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, пором так пізно не ходить."
+        },
+        {
+            "tag": "SQ31.BBCAL2_JACOB_0002",
+            "en": "But… maybe it’s good we didn’t say that. If you want, we could swing by the docks?",
+            "ru_native": "Но... может, хорошо, что мы ей этого не сказали. Если ты не против, заглянем в доки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… можливо, добре, що ми їй цього не сказали. Якщо ти не проти, може сходимо?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_JACOB_0003",
+            "en": "Yeah. Well, up to you. I’ll follow your lead with, uh, with this stuff.",
+            "ru_native": "Да. Ну, решай сама. Я сделаю так, как ты скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, вирішувати тобі. Я зроблю так, як скажеш."
+        },
+        {
+            "tag": "SQ31.BBCAL2_JACOB_0004",
+            "en": "Yeah, good call. I mean… we’re out here. So.",
+            "ru_native": "Да, верно. То есть... мы уже здесь. Так что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дійсно. Ну… ми однаково вже тут. Тож…"
+        },
+        {
+            "tag": "SQ31.BBCAL2_RILEY_0000",
+            "en": "Uh, hey there, Sadiya. Who—exactly is Tobias?",
+            "ru_native": "Ой, здравствуйте, Садия. А кто такой Тобиас?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вітаю, Садіє. А хто такий Тобіас?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_RILEY_0001",
+            "en": "Woman, take a breath.  Why are you—screaming?",
+            "ru_native": "Женщина, выдохните. Почему вы кричите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жіночко, заспокойтеся. Чому ви… кричите?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_RILEY_0002",
+            "en": "Uh—well, where did you last see him? And then—uh—not see him?",
+            "ru_native": "Где вы в последний раз его видели? А потом, хм, не видели?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ви бачили його останнього разу? А потім, гм, не бачили?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_RILEY_0003",
+            "en": "Uh, earlier you called me and said he was okay. Did—something change?",
+            "ru_native": "Эм, вы до этого звонили мне и сказали, что с ним все в порядке. Что-то изменилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, ви до цього набирали й казали мені, що з ним усе гаразд. Щось змінилося?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_RILEY_0004",
+            "en": "Well, I hope he uh—returns.",
+            "ru_native": "Что ж, надеюсь, он вернется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, сподіваюся, він… повернеться."
+        },
+        {
+            "tag": "SQ31.BBCAL2_RILEY_0005",
+            "en": "This feels like a diversion, Jacob. But… I dunno.",
+            "ru_native": "Мы так отклоняемся от цели, Джейкоб. Но… не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми відхиляємося від нашої цілі, Джейкобе. Але… не знаю."
+        },
+        {
+            "tag": "SQ31.BBCAL2_RILEY_0006",
+            "en": "If it’s on the way, yeah, sure.",
+            "ru_native": "Если это по пути, то давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це по дорозі, то гаразд."
+        },
+        {
+            "tag": "SQ31.BBCAL2_RILEY_0007",
+            "en": "Yeah… we should probably help. She just sounds so frantic.",
+            "ru_native": "Да... пожалуй, надо ей помочь. Она была не в себе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… гадаю, треба їй допомогти. Вона була сама не своя."
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0000",
+            "en": "I already told you, it’s the kid I’m babysitting!",
+            "ru_native": "Я же говорила, это мальчик, которого я нянчу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ж казала, це хлопчик, з яким я нянчуся!"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0001",
+            "en": "The kid who literally disappeared.",
+            "ru_native": "Мальчик, который в буквальном смысле исчез.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопчик, який буквально розчинився в повітрі."
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0002",
+            "en": "I think you would be too if the kid you were babysitting literally disappeared!",
+            "ru_native": "Ты бы тоже кричала, если бы ребенок, которого ты нянчишь, растворился в воздухе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти б теж кричала, якби дитина, з якою ти нянчишся, розчинилася в повітрі!"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0003",
+            "en": "[WT] And I mean like—disappeared. Like I turned around and the kid was gone.",
+            "ru_native": "Он именно что исчез. Я отвернулась, а его уже нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він дійсно зник. Я відвернулася, а його вже немає."
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0004",
+            "en": "[WT] Vanished. He didn’t run off to chase a leaf or something.",
+            "ru_native": "Испарился. И он не за листочком погнался или еще чего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розчинився. І він не за листочком побіг чи ще за чимось."
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0005",
+            "en": "[WT] At least—that’s what it felt like!",
+            "ru_native": "По крайней мере, было похоже на то!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні… так я це відчула!"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0006",
+            "en": "[WT] Okay, breathe, Sadiya.",
+            "ru_native": "Ладно, Садия, дышите.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Садіє, дихайте."
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0007",
+            "en": "[ID-9] [WT] [a shaky but stabilizing breath]",
+            "ru_native": "[ID-9]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тремтить, але відновлює дихання]"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0008",
+            "en": "[WT] Outside the ferry building, the kid loves watching seagulls wage war over hot dog buns.",
+            "ru_native": "У здания переправы. Ему нравится смотреть, как чайки дерутся за кусок булки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Біля порому. Хлопчику подобається дивитися, як чайки б’ються за шматок булки."
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0009",
+            "en": "[WT] He had been good all night so I said what the heck, but once we got there—gone!",
+            "ru_native": "Он себя хорошо вел весь вечер, так что я подумала,<br>почему бы и нет. Но как только мы туда пришли, он исчез!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він добре поводився ввечері, тому я подумала,<br>чом би й ні. Але він зник, щойно ми туди прийшли!"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0010",
+            "en": "[WT] Uh—no? Meaning, no I didn’t. Why would I do that?",
+            "ru_native": "Эм, нет? В смысле, я не звонила. С чего вдруг?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Тобто, я не набирала. Чому б це?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0011",
+            "en": "[WT] The kid’s missing, Riley! That is not okay!",
+            "ru_native": "Райли, ребенок пропал! Это не порядок!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, дитина зникла! Це не нормально!"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0012",
+            "en": "[WT] Well, hope in one hand, and—",
+            "ru_native": "Ну, надежда умирает последней.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, надія вмирає останньою…"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0013",
+            "en": "[WT] Actually, that’s a gross phrase and I won’t finish it.",
+            "ru_native": "Тьфу-тьфу-тьфу, чтоб не сглазить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тьху-тьху-тьху, щоби не наврочити."
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0014",
+            "en": "[WT] You’re at Charity Point?",
+            "ru_native": "Вы в Черити Поинт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви в Черіті-Пойнт?"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0015",
+            "en": "[WT] Look, when I think about it—I think Tobias snuck onto a ferry, sailed over to Camena—",
+            "ru_native": "Слушайте, я тут подумала... Наверное, Тобиас пробрался на паром до Камены...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, я тут подумала… Мабуть, Тобіас проник на пором до Камени…"
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0016",
+            "en": "[WT] —and is probably just staring at the waves.",
+            "ru_native": "...и сейчас просто смотрит на волны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і зараз просто дивиться на хвилі."
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0017",
+            "en": "[WT] Or—rather—I’m very much hoping that’s what happened. So—go to the docks, if you don’t mind.",
+            "ru_native": "Или... Нет, надеюсь, все так, как я сказала. Так что сходите в доки, пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… Ні, сподіваюся, усе так, як я і сказала.<br>Тому сходіть до доків, будь ласка."
+        },
+        {
+            "tag": "SQ31.BBCAL2_SADIYA_0018",
+            "en": "[WT] Please! I’m—I really need this from you guys.",
+            "ru_native": "Прошу! Мне очень нужна ваша помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прошу! Мені дуже потрібна ваша допомога."
+        }
+    ]
+}

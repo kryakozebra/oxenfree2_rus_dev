@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.HINTS1",
+    "entries": [
+        {
+            "tag": "A2G2.HINTS1_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.HINTS1_CHOICE_0000_OPTION_0000",
+            "en": "How should I know?",
+            "ru_native": "Откуда я знаю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки я знаю?"
+        },
+        {
+            "tag": "A2G2.HINTS1_CHOICE_0000_OPTION_0001",
+            "en": "Probably.",
+            "ru_native": "Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може бути."
+        },
+        {
+            "tag": "A2G2.HINTS1_JACOB_0000",
+            "en": "I think if we just keep looking around like this, we'll definitely find something.",
+            "ru_native": "Думаю, если будем и дальше искать, непременно что-нибудь найдем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, якщо ми продовжимо пошуки, то точно знайдемо щось."
+        },
+        {
+            "tag": "A2G2.HINTS1_JACOB_0001",
+            "en": "I have a good feeling.",
+            "ru_native": "У меня хорошее предчувствие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене добре передчуття."
+        },
+        {
+            "tag": "A2G2.HINTS1_JACOB_0002",
+            "en": "Anywhere we haven't investigated yet?",
+            "ru_native": "Что мы еще не осмотрели?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є ще місце, яке ми не дослідили?"
+        },
+        {
+            "tag": "A2G2.HINTS1_JACOB_0003",
+            "en": "Leave no stone unturned, and all that.",
+            "ru_native": "Перевернем каждый камень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе обшукаємо тощо."
+        },
+        {
+            "tag": "A2G2.HINTS1_JACOB_0004",
+            "en": "Soon! I know we'll find something soon.",
+            "ru_native": "Скоро! Уверен, мы скоро что-то найдем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоро! Я знаю, ми скоро що-небудь знайдемо."
+        },
+        {
+            "tag": "A2G2.HINTS1_JACOB_0005",
+            "en": "I have a strong feeling that our tenacity will be rewarded.",
+            "ru_native": "Чувствую, наше упорство будет вознаграждено.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене сильне передчуття, що нашу наполегливість буде винагороджено."
+        },
+        {
+            "tag": "A2G2.HINTS1_JACOB_0006",
+            "en": "If we just keep exploring!",
+            "ru_native": "Надо искать дальше!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ми просто продовжимо пошуки?"
+        },
+        {
+            "tag": "A2G2.HINTS1_JACOB_0007",
+            "en": "…I'm struggling to believe me, too, you're not alone.",
+            "ru_native": "...Ты не одинока, я тоже изо всех сил пытаюсь поверить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Я й сам собі не вірю, не тільки ти."
+        },
+        {
+            "tag": "A2G2.HINTS1_RILEY_0000",
+            "en": "No clue, I'm afraid.",
+            "ru_native": "Боюсь, никаких зацепок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боюся, жодних ідей немає."
+        },
+        {
+            "tag": "A2G2.HINTS1_RILEY_0001",
+            "en": "In this whole town? Odds are, lots of places.",
+            "ru_native": "Во всем городе? Скорее всего, мест куча.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У всьому цьому місті? Скоріше за все, багато місць."
+        }
+    ]
+}

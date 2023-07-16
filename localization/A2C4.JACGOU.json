@@ -1,0 +1,330 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.JACGOU",
+    "entries": [
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0000_OPTION_0000",
+            "en": "So far…",
+            "ru_native": "Пока да...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки…"
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0000_OPTION_0001",
+            "en": "Be careful!",
+            "ru_native": "Осторожно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обережно!"
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0000_OPTION_0002",
+            "en": "Don’t leave me here.",
+            "ru_native": "Не бросай меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не залишай мене."
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0001_OPTION_0000",
+            "en": "I’ll figure something out.",
+            "ru_native": "Что-нибудь придумаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось придумаю."
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0001_OPTION_0001",
+            "en": "There’s no lever up there?",
+            "ru_native": "Нет никакого рычага?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жодного важеля?"
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0001_OPTION_0002",
+            "en": "Ugh. This sucks.",
+            "ru_native": "Вот дерьмо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох. Паршиво це."
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0002_OPTION_0000",
+            "en": "The mine is collapsing!",
+            "ru_native": "Шахта рушится!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шахта руйнується!"
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0002_OPTION_0001",
+            "en": "Ah! What do I do?!",
+            "ru_native": "Что делать?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ах! Що робити?!"
+        },
+        {
+            "tag": "A2C4.JACGOU_CHOICE_0002_OPTION_0002",
+            "en": "Get out, Jacob!",
+            "ru_native": "Джейкоб, беги!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, вимітайся звідти!"
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0000",
+            "en": "Man. I can’t believe this thing is working.",
+            "ru_native": "Не верится, что эта штука работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не віриться, що ця штука працює."
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0001",
+            "en": "This whole night is just…",
+            "ru_native": "Ну и вечерок...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Від усіх цих пригод…"
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0002",
+            "en": "…melting my brain.",
+            "ru_native": "Аж мозги плавятся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…уже дах їде."
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0003",
+            "en": "I’m careful, I’m being careful.",
+            "ru_native": "Да осторожен я, расслабься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я обережний, я дуже обережний."
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0004",
+            "en": "I can’t believe you’d even think to say anything—of course I’m not going to leave. Jesus.",
+            "ru_native": "Да как тебе в голову такое пришло? Конечно я тебя не брошу. Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти могла взагалі таке подумати! Звичайно, я тебе не полишу, ти що."
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0005",
+            "en": "Phew. Okay. It’s a little… rickety, but… uh…",
+            "ru_native": "Фух! Вот-вот развалится, но ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фух. Тримається на чесному слові, та… ух…"
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0006",
+            "en": "Actually… yeah. Shoot. How are you gonna get up?",
+            "ru_native": "Вообще... Твою мать. И как ты поднимешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А як ти… Щоби його, як ти піднімешся?"
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0007",
+            "en": "I thought I’d see another way once I was here, but…",
+            "ru_native": "Думал, увижу отсюда другой путь, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав, звідсіля буде видно, як пройти, але…"
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0008",
+            "en": "This is a conundrum.",
+            "ru_native": "М-да, задачка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба подумати."
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0009",
+            "en": "Uh-oh. That—that doesn’t seem good.",
+            "ru_native": "Ой-ей. Это не к добру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой-йой, не до добра це."
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0010",
+            "en": "Climb up! Fast!",
+            "ru_native": "Залезай! Живо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забирайся! Хутчіш!"
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0011",
+            "en": "I think this place is having a minor meltdown!",
+            "ru_native": "Видимо, пещера решила проявить характер!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, що починається обвал!"
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0012",
+            "en": "I don’t know, I don’t know!",
+            "ru_native": "Я не знаю! Не знаю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю! Не знаю!"
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0013",
+            "en": "No! Riley, c’mon, you can do this!",
+            "ru_native": "Нет! Райли, давай, ты можешь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Райлі, нуж бо, ти зможеш!"
+        },
+        {
+            "tag": "A2C4.JACGOU_JACOB_0014",
+            "en": "Riley! Hurry up!",
+            "ru_native": "Райли! Быстрее!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поквапся, Райлі!"
+        },
+        {
+            "tag": "A2C4.JACGOU_RILEY_0000",
+            "en": "Yeah, working so far…",
+            "ru_native": "Пока работает...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, поки тримається."
+        },
+        {
+            "tag": "A2C4.JACGOU_RILEY_0001",
+            "en": "Hey, be careful. I’m not dragging a corpse to the surface, sorry, I don’t care where you want your ashes spread.",
+            "ru_native": "Осторожнее там. Я не потащу твой хладный труп обратно,<br>и мне плевать, где ты мечтаешь рассеять свой прах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йо, ти там обережніше. Я не потягну твій труп догори, ти вже вибач.<br>І мені начхати, де б ти хотів розвіяти свій прах."
+        },
+        {
+            "tag": "A2C4.JACGOU_RILEY_0002",
+            "en": "Hey, don’t leave me here. I’m serious.",
+            "ru_native": "Не бросай меня тут. Я не шучу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, не залишай мене тут, це не смішно."
+        },
+        {
+            "tag": "A2C4.JACGOU_RILEY_0003",
+            "en": "I’ll, uh—",
+            "ru_native": "Я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я, ем…"
+        },
+        {
+            "tag": "A2C4.JACGOU_RILEY_0004",
+            "en": "Wait, so you’re telling me that there’s no—",
+            "ru_native": "Погоди, хочешь сказать, что там...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зажди, хочеш сказати, там нема…"
+        },
+        {
+            "tag": "A2C4.JACGOU_RILEY_0005",
+            "en": "Ugh, this—",
+            "ru_native": "Черт, вот...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, це…"
+        },
+        {
+            "tag": "A2C4.JACGOU_RILEY_0006",
+            "en": "God-damnit, the mine is collapsing. I don’t have much time.",
+            "ru_native": "Проклятье, шахта рушится. Времени нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт забирай, шахта розвалюється. У мене обмаль часу."
+        },
+        {
+            "tag": "A2C4.JACGOU_RILEY_0007",
+            "en": "God-damnit, ah, what do I do?",
+            "ru_native": "Проклятье! Что делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько! Що ж робити?"
+        },
+        {
+            "tag": "A2C4.JACGOU_RILEY_0008",
+            "en": "Jacob, just—take the time tear out, get yourself safe!",
+            "ru_native": "Джейкоб, лезь во временной разрыв, спасайся!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, рятуйся, стрибай у розрив!"
+        }
+    ]
+}

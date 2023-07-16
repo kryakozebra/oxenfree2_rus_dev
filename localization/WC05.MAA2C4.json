@@ -1,0 +1,240 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC05.MAA2C4",
+    "entries": [
+        {
+            "tag": "WC05.MAA2C4_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAA2C4_CHOICE_0000_OPTION_0000",
+            "en": "Hey, Maria? Come in.",
+            "ru_native": "Эй, Мария? Ответь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Маріє? Озвися."
+        },
+        {
+            "tag": "WC05.MAA2C4_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAA2C4_CHOICE_0001_OPTION_0000",
+            "en": "Know anything about Violet?",
+            "ru_native": "Знаешь что-нибудь о Вайолет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти знаєш про Вайолет?"
+        },
+        {
+            "tag": "WC05.MAA2C4_CHOICE_0001_OPTION_0001",
+            "en": "Nevermind. Bye.",
+            "ru_native": "Проехали. Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай. Бувай."
+        },
+        {
+            "tag": "WC05.MAA2C4_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAA2C4_CHOICE_0002_OPTION_0000",
+            "en": "These caves are crazy.",
+            "ru_native": "Безумные пещеры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ці печери ненормальні."
+        },
+        {
+            "tag": "WC05.MAA2C4_CHOICE_0002_OPTION_0001",
+            "en": "Nevermind. Bye.",
+            "ru_native": "Проехали. Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай. Бувай."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0000",
+            "en": "[staticky] Hey? Riley? You’re going in and out but I’m here.",
+            "ru_native": "Да? Райли? Связь прерывается, но я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Агов? Райлі? Якісь перебої зі зв’язком. Але я тут…"
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0001",
+            "en": "[static]",
+            "ru_native": "(помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум]"
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0003",
+            "en": "[staticky] Useful? Oh, I don’t know. Violet’s just… she’s Violet, it’s hard to think of anything specific.",
+            "ru_native": "Полезное? Даже не знаю. Вайолет просто... Вайолет. Сложно сказать что-то конкретное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Корисне? Ой, не знаю. Вайолет просто… Вайолет,<br>важко нагадати щось особливе."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0004",
+            "en": "[staticky] She’s an only child, no siblings, parents are divorced. She bitches about her mom constantly.",
+            "ru_native": "Единственный ребенок, родители в разводе. Постоянно жалуется на свою мать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Вона єдина дитина, ні братів, ні сестер, батьки розлучені.<br>Вона постійно скаржиться на маму."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0005",
+            "en": "[staticky] I think she wants to live with her dad, but, you know, I want a million dollars.",
+            "ru_native": "Думаю, она хочет жить с отцом, но как бы... я хочу миллион долларов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Гадаю, що вона хоче жити зі своїм татом,<br>але, знаєш, усі чогось хочуть."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0006",
+            "en": "[staticky] She likes to overdo it at parties and then corner poor saps who haven’t heard her sob story yet.",
+            "ru_native": "Она часто перебирает на вечеринках и зажимает по углам<br>бедолаг, рассказывая свою слезливую историю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Вона полюбляє перебрати на вечірці, а потім<br>розповідати свою сумну історію бідолахам, які ще її не чули."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0007",
+            "en": "[staticky] But, uh… I don’t know. Other than that? Plays collectible card games. Watches old sitcoms.",
+            "ru_native": "Но... не знаю. Что еще? Играет в коллекционные карточные игры. Смотрит старые ситкомы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Але… не знаю. Щось ще? Грає в колекційні карткові ігри.<br>Дивиться старі ситкоми."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0008",
+            "en": "[static]",
+            "ru_native": "(помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум]"
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0009",
+            "en": "[staticky] Oh, did you say the caves?",
+            "ru_native": "Пещеры, говоришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Ой, ти сказала, печери?"
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0010",
+            "en": "[staticky] It’s hard to hear but kids get lost in them all the time.",
+            "ru_native": "Плохо слышно. В пещерах постоянно теряются дети.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Прикро, але діти постійно губляться в них."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0011",
+            "en": "[staticky] Well, not all the time, but it’s happened once or twice.",
+            "ru_native": "Ну, не постоянно, но пару раз точно было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Ну, не постійно, але таке траплялося раз чи двічі."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0012",
+            "en": "[staticky] Watch your ass, especially in the mines.",
+            "ru_native": "Береги свою задницу, особенно в шахтах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Бережи себе, особливо в шахтах."
+        },
+        {
+            "tag": "WC05.MAA2C4_MARIA_0013",
+            "en": "I— [static] —hear me? [static]",
+            "ru_native": "Я... (помехи) ...слышно меня? (помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум] …чуєш? [шум]"
+        },
+        {
+            "tag": "WC05.MAA2C4_RILEY_0000",
+            "en": "Hey, uh, Maria? Come in if you’re there, please. Over.",
+            "ru_native": "Эй, Мария? Если ты там, ответь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Маріє? Озвися, будь ласка, якщо ти там. Прийом."
+        },
+        {
+            "tag": "WC05.MAA2C4_RILEY_0001",
+            "en": "Hey, uh, what do you know about Violet? Anything specific? Or, uh, useful? Over.",
+            "ru_native": "Слушай, что ты знаешь о Вайолет? Что-нибудь необычное или полезное? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, що ти знаєш про Вайолет? Може, щось особливе? Або корисне? Прийом."
+        },
+        {
+            "tag": "WC05.MAA2C4_RILEY_0002",
+            "en": "Ugh, I can barely hear you. Nevermind. Over and out.",
+            "ru_native": "Я тебя почти не слышу. Проехали. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, я тебе ледве чую. Не зважай. Кінець зв’язку."
+        },
+        {
+            "tag": "WC05.MAA2C4_RILEY_0003",
+            "en": "I had to take a detour into the caves. It’s… intimidating—I’m not sure I know how to get out. Over.",
+            "ru_native": "Пришлось идти через пещеры. Страшно тут...<br>Я слабо представляю, как отсюда выбраться. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Довелося обійти всі печери. Це… лякає… не впевнена, що знаю, як вибратися. Прийом."
+        }
+    ]
+}

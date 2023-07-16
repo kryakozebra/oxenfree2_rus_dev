@@ -1,0 +1,564 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T2.SUNSHI",
+    "entries": [
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0000_OPTION_0000",
+            "en": "Jacob, you there?",
+            "ru_native": "Джейкоб, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, ти тут?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0000_OPTION_0001",
+            "en": "Great.",
+            "ru_native": "Отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0000_OPTION_0002",
+            "en": "Too bright.",
+            "ru_native": "Слишком ярко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Занадто яскраво."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0001_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Есть кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0001_OPTION_0001",
+            "en": "Olivia?",
+            "ru_native": "Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0001_OPTION_0002",
+            "en": "Where are we?",
+            "ru_native": "Где мы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де це ми?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0002_OPTION_0000",
+            "en": "Can you hear me?",
+            "ru_native": "Ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене хтось чує?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0002_OPTION_0001",
+            "en": "Slow down!",
+            "ru_native": "Сбавь скорость!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пригальмуй!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0002_OPTION_0002",
+            "en": "Who are you?",
+            "ru_native": "Кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви хто?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0003_OPTION_0000",
+            "en": "Olivia!",
+            "ru_native": "Оливия!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0003_OPTION_0001",
+            "en": "Who are they!?",
+            "ru_native": "Кто они?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто вони?!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0004_OPTION_0000",
+            "en": "Can you hear me?",
+            "ru_native": "Ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене хтось чує?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CHOICE_0004_OPTION_0001",
+            "en": "Who are you?",
+            "ru_native": "Кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви хто?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0000",
+            "en": "Hey. Olive branch. Are your shoes tied?",
+            "ru_native": "Эй, мадам Оливье. Шнурки завязаны?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, мала Олівіє. Шнурки зав'язані?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0001",
+            "en": "Tight?",
+            "ru_native": "Крепко?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Міцно?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0002",
+            "en": "Hey, it’s cause I need you to pay attention.",
+            "ru_native": "Никогда про них не забывай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи про них не забувай."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0003",
+            "en": "Show me.",
+            "ru_native": "Покажи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Покажи."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0004",
+            "en": "Okay.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0005",
+            "en": "The worst thing you can do to someone is waste their time.",
+            "ru_native": "Худшее, что можно с кем-то сделать – потратить его время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Найгірше, що можна з кимось зробити — це згаяти його час."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0006",
+            "en": "And killing someone’s basically wasting all their time at once.",
+            "ru_native": "Убийство суть трата всего времени существа за секунду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А вбити когось — це витратити весь час жертви одразу."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0007",
+            "en": "And now that spider that lived in our drain is no longer with us, is it?",
+            "ru_native": "Паук, который так долго жил в трубе, больше не с нами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І тепер павук, котрий так довго жив у трубі, більше не з нами."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0008",
+            "en": "Animals wax and wane, too, you know.",
+            "ru_native": "Животные тоже растут и слабеют.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тварини теж ростуть і старіють, знаєш?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0009",
+            "en": "Planetshine isn’t just for members of Parentage.",
+            "ru_native": "Сияние планет не только для членов «Наследия».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сяйво Місяця не тільки для членів «Парентажу»."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0010",
+            "en": "Well… maybe two sips.",
+            "ru_native": "Ладно, два глотка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, два ковтки."
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0011",
+            "en": "Well, what I’m trying to say—",
+            "ru_native": "Я хотел сказать, что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, я просто намагаюся сказати, що…"
+        },
+        {
+            "tag": "A2T2.SUNSHI_CYAN_0012",
+            "en": "I just want her to learn—",
+            "ru_native": "Я хочу, чтоб она научилась...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу, щоб вона навчилася…"
+        },
+        {
+            "tag": "A2T2.SUNSHI_MARIGOLD_0000",
+            "en": "So you can have a sip of coffee later but not the whole mug like last time.",
+            "ru_native": "Потом разрешаю глоточек кофе, но не всю чашку, как в прошлый раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш зробити ковток кави потім, але не всю чашку, як минулого разу."
+        },
+        {
+            "tag": "A2T2.SUNSHI_MARIGOLD_0001",
+            "en": "And do you understand why?",
+            "ru_native": "Понимаешь, почему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш, чому?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_MARIGOLD_0002",
+            "en": "Is that Olivia for “no?”",
+            "ru_native": "Это «нет» на языке Оливии?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це «ні» мовою Олівії?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_MARIGOLD_0003",
+            "en": "Why don’t we just let her enjoy the walk?",
+            "ru_native": "Дай ребенку просто погулять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може дамо їй просто погуляти?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_MARIGOLD_0004",
+            "en": "And she will learn. Now… what do you want to do today?",
+            "ru_native": "И она научится. Ну что, чем сегодня займемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І вона навчиться. Ну що, чим сьогодні займемося?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0000",
+            "en": "They’re tied.",
+            "ru_native": "Завязаны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зав'язані."
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0001",
+            "en": "It’s tied!",
+            "ru_native": "Завязаны!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зав'язані!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0002",
+            "en": "It’s tied!",
+            "ru_native": "Завязаны!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зав'язані!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0003",
+            "en": "…hang on. Look. See?",
+            "ru_native": "Подожди. Вот, видишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…почекай. От, бачиш?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0004",
+            "en": "It was a spider! I didn’t know it was in the drain!",
+            "ru_native": "Паук! Я не знала, что он был в трубе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це був павук! Я не знала, що він у трубі!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0005",
+            "en": "Oh, c’mon!",
+            "ru_native": "Ну вот!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, та годі!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0006",
+            "en": "I think so.",
+            "ru_native": "Думаю да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та начебто."
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0007",
+            "en": "Maybe.",
+            "ru_native": "Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо."
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0008",
+            "en": "Yes!",
+            "ru_native": "Да!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0009",
+            "en": "That’s Olivia for “yes.”",
+            "ru_native": "Это «да» на языке Оливии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це «так» мовою Олівії."
+        },
+        {
+            "tag": "A2T2.SUNSHI_OLIVIA_0010",
+            "en": "I want to do everything!",
+            "ru_native": "Всем на свете!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усім й одразу!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0000",
+            "en": "[echoing] Jacob?! Where are you?!",
+            "ru_native": "Джейкоб?! Где ты?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Де ти?!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0001",
+            "en": "[echoing] Fabulous.",
+            "ru_native": "Великолепно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Неймовірно."
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0002",
+            "en": "[echoing] Agh, too bright, way too bright.",
+            "ru_native": "Очень ярко, слишком ярко!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А-а, дуже яскраво, занадто яскраво!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0003",
+            "en": "[echoing] Hello?",
+            "ru_native": "Есть кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0004",
+            "en": "[echoing] Oh, wait, I—why do I sound weird—?",
+            "ru_native": "Почему я так странно звучу?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, стривай, я… чому я так дивно звучу?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0005",
+            "en": "[echoing] Olivia?",
+            "ru_native": "Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0006",
+            "en": "[echoing] Where are we? Guys?",
+            "ru_native": "Где мы? Ребята?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ми? Народе?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0007",
+            "en": "[echoing] Hey—uh—hello? Can you hear me?",
+            "ru_native": "Эй? Ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, агов? Мене хтось чує?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0008",
+            "en": "Hey can you—agh—can you slow down?",
+            "ru_native": "Можешь сбавить скорость?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш… е-е… пригальмувати?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0009",
+            "en": "[echoing] Olivia! Hey!",
+            "ru_native": "Оливия! Стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє! Гей!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0010",
+            "en": "[echoing] Who are you talking to?!",
+            "ru_native": "С кем ты говоришь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До кого ти говориш?!"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0011",
+            "en": "[echoing] Oh… great.",
+            "ru_native": "О... супер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, супер."
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0012",
+            "en": "[echoing] Where are we? Guys?",
+            "ru_native": "Где мы? Народ?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ми? Народе?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0013",
+            "en": "[echoing] Hey—uh—hello? Can you hear me?",
+            "ru_native": "Эй... ау-у-у? Вы меня слышите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, агов? Мене хтось чує?"
+        },
+        {
+            "tag": "A2T2.SUNSHI_RILEY_0014",
+            "en": "[echoing] Who—who are you?",
+            "ru_native": "Кто... кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто… хто ви?"
+        }
+    ]
+}

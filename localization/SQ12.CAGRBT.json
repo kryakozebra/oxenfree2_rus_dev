@@ -1,0 +1,222 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ12.CAGRBT",
+    "entries": [
+        {
+            "tag": "SQ12.CAGRBT_BRADLEY_0000",
+            "en": "[WT] [over him] Yeah, Mom, where is it?!",
+            "ru_native": "Да, ма, где он?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мамо, де він?!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_BRADLEY_0001",
+            "en": "[WT] November 16th!",
+            "ru_native": "16 ноября!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шістнадцятого листопада!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_BRAD_0000",
+            "en": "[WT] Ma! Where’s the remote?!",
+            "ru_native": "Ма! Где пульт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мамо! Де пульт?!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_BRAD_0001",
+            "en": "[WT] Why is it on the dresser?!",
+            "ru_native": "Почему он на комоде?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому він там?"
+        },
+        {
+            "tag": "SQ12.CAGRBT_BRAD_0002",
+            "en": "[WT] April 6th!",
+            "ru_native": "6 апреля!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шостого квітня!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_BRAD_0003",
+            "en": "[WT] Hey, the dishwasher’s busted!",
+            "ru_native": "Посудомойка крякнула!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там посудомийка пищить!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ12.CAGRBT_CHOICE_0000_OPTION_0000",
+            "en": "Gracie? You there?",
+            "ru_native": "Грейси? Вы там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Грейсі? Ви там?"
+        },
+        {
+            "tag": "SQ12.CAGRBT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ12.CAGRBT_CHOICE_0001_OPTION_0000",
+            "en": "Nothing yet.",
+            "ru_native": "Пока ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки що ні."
+        },
+        {
+            "tag": "SQ12.CAGRBT_CHOICE_0001_OPTION_0001",
+            "en": "Nope, just checking in.",
+            "ru_native": "Нет, просто проверка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто перевірка зв’язку."
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0000",
+            "en": "[WT] Hi—yes—do you—did you find out anything?",
+            "ru_native": "Привет, да. Удалось что-нибудь узнать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, так. Вам вдалося щось з’ясувати?"
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0001",
+            "en": "[WT] I keep telling you two it’s on the dresser!",
+            "ru_native": "Говорю же, на комоде!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вам обом казала, що він на комоді!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0002",
+            "en": "[WT] Because that’s where your father left it!",
+            "ru_native": "Потому что его туда отец положил!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо туди його поклав ваш батько!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0003",
+            "en": "[WT] Well then why are you calling me back for?",
+            "ru_native": "Ну и зачем тогда меня вызывать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну й навіщо тоді мене викликати?"
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0004",
+            "en": "[WT] Yes we’re still alive, what do you think we’re doing over here?!",
+            "ru_native": "Да, мы еще живы. Чем, по-вашему, мы тут занимаемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ми ще живі. Чим, по-вашому, ми тут займаємося?!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0005",
+            "en": "[WT] Please… just find some tangible proof of something.",
+            "ru_native": "Прошу... Найдите хоть какие-то доказательства.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прошу… Знайдіть хоч якісь докази."
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0006",
+            "en": "[WT] [whispering] I keep asking them questions but… nothing.",
+            "ru_native": "Я продолжаю задавать им вопросы, но... ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шепоче] Я й далі ставлю їм питання, але… нічого."
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0007",
+            "en": "[WT] What’s your dear Uncle Mortimer’s birthday?!",
+            "ru_native": "Когда у вашего дяди Мортимера день рождения?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли день народження у вашого дядька Мортимера?"
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0008",
+            "en": "[WT] It’s in March you little hoodlums! And after everything Mortimer’s done for this family!",
+            "ru_native": "Он в марте, негодники! И это после всего, что Мортимер сделал для нас!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він у березні, халамидники! І це після всього, що Мортимер зробив для нас!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_GRACIE_0009",
+            "en": "[WT] Use the—use the, you know, the thing!",
+            "ru_native": "Возьми... ту штуку!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Візьми… ту штуку!"
+        },
+        {
+            "tag": "SQ12.CAGRBT_RILEY_0000",
+            "en": "Hey, uh, Gracie? You there? Over.",
+            "ru_native": "Эм, Грейси? Вы там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, Грейсі? Ви там? Прийом."
+        },
+        {
+            "tag": "SQ12.CAGRBT_RILEY_0001",
+            "en": "Nothing yet. Over.",
+            "ru_native": "Пока ничего. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки що ні. Прийом."
+        },
+        {
+            "tag": "SQ12.CAGRBT_RILEY_0002",
+            "en": "Nope! Just, uh, just checking to make sure you’re all still, like, alive.",
+            "ru_native": "Нет! Просто хотела проверить, что вы все еще... живы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Просто хотіла перевірити, чи ви ще… живі."
+        }
+    ]
+}

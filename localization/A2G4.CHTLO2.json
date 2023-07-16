@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G4.CHTLO2",
+    "entries": [
+        {
+            "tag": "A2G4.CHTLO2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.CHTLO2_CHOICE_0000_OPTION_0000",
+            "en": "Ugh, not again.",
+            "ru_native": "Нет, опять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, тільки не знову."
+        },
+        {
+            "tag": "A2G4.CHTLO2_RILEY_0000",
+            "en": "[to herself] Ugh, Jesus, not again.",
+            "ru_native": "О боже, только не снова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] О, Господи, тільки не знову."
+        }
+    ]
+}

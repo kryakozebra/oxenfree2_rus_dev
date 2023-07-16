@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.RADIO1",
+    "entries": [
+        {
+            "tag": "GLOB.RADIO1_JACOB_0000",
+            "en": "There is no way that’s gonna work down here.",
+            "ru_native": "Оно тут не будет работать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут це в жодному разі не спрацює."
+        },
+        {
+            "tag": "GLOB.RADIO1_JACOB_0001",
+            "en": "We’re just gonna have to talk to each other.",
+            "ru_native": "Придется разговаривать друг с другом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам слід лише поговорити один з одним."
+        }
+    ]
+}

@@ -1,0 +1,330 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S4.ONTHBE",
+    "entries": [
+        {
+            "tag": "A3S4.ONTHBE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.ONTHBE_CHOICE_0000_OPTION_0000",
+            "en": "Uh, Hi?",
+            "ru_native": "Привет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, здоров!"
+        },
+        {
+            "tag": "A3S4.ONTHBE_CHOICE_0000_OPTION_0001",
+            "en": "Do they know we’re here?",
+            "ru_native": "Они знают, что мы здесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони знають, що ми тут?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_CHOICE_0000_OPTION_0002",
+            "en": "Don’t get near them…",
+            "ru_native": "Не подходи к ним...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не підходь до них…"
+        },
+        {
+            "tag": "A3S4.ONTHBE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.ONTHBE_CHOICE_0001_OPTION_0000",
+            "en": "Uh, Hi?",
+            "ru_native": "Привет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_CHOICE_0001_OPTION_0001",
+            "en": "Can you see me?",
+            "ru_native": "Видите меня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви мене бачите?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_CHOICE_0001_OPTION_0002",
+            "en": "I don’t understand…",
+            "ru_native": "Я не понимаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не розумію…"
+        },
+        {
+            "tag": "A3S4.ONTHBE_CLARISSA_0000",
+            "en": "Anyhoo, yeah, Maggie or Margaret or whatever Adler died Wednesday.",
+            "ru_native": "Короче, Мэгги, или Маргарет, или как ее там, Адлер умерла в среду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, Меггі, чи Маргарет, чи як там її, Адлер померла в середу."
+        },
+        {
+            "tag": "A3S4.ONTHBE_CLARISSA_0001",
+            "en": "[laughs]",
+            "ru_native": "(смеется)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється]"
+        },
+        {
+            "tag": "A3S4.ONTHBE_CLARISSA_0002",
+            "en": "And to answer your previous question, Jonas—",
+            "ru_native": "И насчет твоего вопроса, Джонас...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У відповідь на твоє попереднє запитання, Джонасе…"
+        },
+        {
+            "tag": "A3S4.ONTHBE_GHOST_0000",
+            "en": "Where’s the bottle opener…",
+            "ru_native": "А где открывашка?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де відкривачка…"
+        },
+        {
+            "tag": "A3S4.ONTHBE_GHOST_0001",
+            "en": "Fire! Man’s great equalizer!",
+            "ru_native": "Костер! Уравнитель человечества!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вогнище! Природний засіб розвантажитися!"
+        },
+        {
+            "tag": "A3S4.ONTHBE_GHOST_0002",
+            "en": "So what’s the, uh, what’s the, like, thing to do here…",
+            "ru_native": "Так чем тут... вообще можно заняться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну так що… Чим займатимемося?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_GHOST_0003",
+            "en": "Yeah, I think it’s just whatever.",
+            "ru_native": "Да можно чем угодно заняться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годиться."
+        },
+        {
+            "tag": "A3S4.ONTHBE_GHOST_0004",
+            "en": "And to answer your previous question, Jonas, the \"thing to do\"  is lay on the beach and drink till you can't remember where you are.",
+            "ru_native": "И насчет твоего вопроса «чем бы заняться», Джонас...<br>Можно лечь на берегу и пить до потери памяти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відповідь на твоє запитання, Джонасе: ми лежатимемо на пляжі й питимемо до нестями."
+        },
+        {
+            "tag": "A3S4.ONTHBE_GHOST_0005",
+            "en": "The thing to do is lay on the beach and drink —",
+            "ru_native": "Можно лечь на берегу и пить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лежатимемо на пляжі й питимемо…"
+        },
+        {
+            "tag": "A3S4.ONTHBE_GHOST_0006",
+            "en": "— until you can’t remember where you are.",
+            "ru_native": "...до потери памяти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…до нестями."
+        },
+        {
+            "tag": "A3S4.ONTHBE_JACOB_0000",
+            "en": "Olivia? Where…? Oh.",
+            "ru_native": "Оливия? Где?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія? Де? О!"
+        },
+        {
+            "tag": "A3S4.ONTHBE_JONAS_0000",
+            "en": "Other than obviously go skinny dipping and get murdered by Jason Krueger.",
+            "ru_native": "Кроме как пойти плавать голышом и помереть от рук Джейсона Крюгера.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Окрім купання голяка та згадування філмів жахів."
+        },
+        {
+            "tag": "A3S4.ONTHBE_JONAS_0001",
+            "en": "Hey, where does that old woman live?",
+            "ru_native": "Где живет та старушка?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А де живе ця стара жінка?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_JONAS_0002",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це точно."
+        },
+        {
+            "tag": "A3S4.ONTHBE_JONAS_0003",
+            "en": "[laughs]",
+            "ru_native": "(смеется)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється]"
+        },
+        {
+            "tag": "A3S4.ONTHBE_JONAS_0004",
+            "en": "I thought this was an adventure.",
+            "ru_native": "Я ожидал приключения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я гадав, що це була «пригода»."
+        },
+        {
+            "tag": "A3S4.ONTHBE_JONAS_0005",
+            "en": "It's, uh, not as cold as I thought it would be.",
+            "ru_native": "Тут не так холодно, как я представлял.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут не так холодно, як здавалося."
+        },
+        {
+            "tag": "A3S4.ONTHBE_JONAS_0006",
+            "en": "Yeah, I'm getting the picture now.",
+            "ru_native": "Да, теперь все ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, тепер мені зрозуміло."
+        },
+        {
+            "tag": "A3S4.ONTHBE_NONA_0000",
+            "en": "Oh... You mean Maggie Adler?",
+            "ru_native": "Ты про Мэгги Адлер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ее… Ти про Меггі Адлер?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_REN_0000",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_REN_0001",
+            "en": "You see, Jonas, normally this is like a 20-deep rager, but Pat had a party last weekend, and...",
+            "ru_native": "Понимаешь, Джонас, обычно тут дикие тусовки, но<br>у Пэт на прошлых выхах была вечеринка и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бачиш, Джонасе, це мала бути крута вечірка,<br>але…У Пет була туса минулого тижня…"
+        },
+        {
+            "tag": "A3S4.ONTHBE_REN_0002",
+            "en": "This is going to be amazing! Right?",
+            "ru_native": "Будет здорово! Согласитесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це буде чудово! Еге ж?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_REN_0003",
+            "en": "Hey, Alex. You brought the radio, right?",
+            "ru_native": "Эй, Алекс. Ты же взяла радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс, ти взяла радіо?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_RILEY_0000",
+            "en": "Um… hello? Who—which ones are you?",
+            "ru_native": "Привет? Кто... Вы кто именно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, агов? Хто ви такі?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_RILEY_0001",
+            "en": "I… don’t know if they can, like, see us… but…",
+            "ru_native": "Не уверена, видят ли они нас, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не впевнена, чи вони бачать нас, але…"
+        },
+        {
+            "tag": "A3S4.ONTHBE_RILEY_0002",
+            "en": "Jacob, uh, don’t—don’t get near them…",
+            "ru_native": "Джейкоб, не подходи к ним...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, не підходь до них…"
+        },
+        {
+            "tag": "A3S4.ONTHBE_RILEY_0003",
+            "en": "Can… can you, uh… see me?",
+            "ru_native": "Вы меня... видите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви… мене бачите?"
+        },
+        {
+            "tag": "A3S4.ONTHBE_RILEY_0004",
+            "en": "I… I’m sorry, but I can’t understand what you’re…",
+            "ru_native": "Простите, но я не понимаю, что вы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, але я не розумію, що ви…"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.TV1WRO",
+    "entries": [
+        {
+            "tag": "A3S5.TV1WRO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TV1WRO_CHOICE_0000_OPTION_0000",
+            "en": "It’s doing something…",
+            "ru_native": "Что-то происходит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воно щось робить…"
+        },
+        {
+            "tag": "A3S5.TV1WRO_CHOICE_0000_OPTION_0001",
+            "en": "Huh.",
+            "ru_native": "Ха.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм."
+        },
+        {
+            "tag": "A3S5.TV1WRO_JACOB_0000",
+            "en": "Oh, uh, that’s… doing something? Maybe not what we need, but…",
+            "ru_native": "Вроде что-то происходит. Не факт, что правильно, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, це… щось робить? Можливо, не те, що нам потрібно, але…"
+        },
+        {
+            "tag": "A3S5.TV1WRO_JACOB_0001",
+            "en": "Keep trying, I -- I think you’re onto something, though.",
+            "ru_native": "Продолжай, думаю, ты уже близко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуй ще раз, я… гадаю, ми на щось натрапили."
+        },
+        {
+            "tag": "A3S5.TV1WRO_RILEY_0000",
+            "en": "[to herself] Mm. The radio’s doing something, at least.",
+            "ru_native": "Хм-м. Радио что-то делает, уже хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Гм. Радіо, принаймні, щось робить."
+        },
+        {
+            "tag": "A3S5.TV1WRO_RILEY_0001",
+            "en": "[to herself] Huh. Okay. Not… quite, but… maybe…",
+            "ru_native": "Ха. Ладно. Не совсем то, но может...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Гм. Добре. Не дуже… але, можливо…"
+        }
+    ]
+}

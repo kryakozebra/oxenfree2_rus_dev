@@ -1,0 +1,33 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "WT02.ARPKNG",
+    "entries": [
+        {
+            "tag": "WT02.ARPKNG_JACOB_0000",
+            "en": "Hm. So either that’s a new species of bird we’re naming after me…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм. Значит, либо это новый вид птиц, который мы назовем в честь меня...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Тож або це новий вид птахів, який ми назвемо на мою честь…"
+        },
+        {
+            "tag": "WT02.ARPKNG_JACOB_0001",
+            "en": "…or that is a phone ringing. Uh–somewhere.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ...или это телефонный звонок. Где-то так.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…або це дзвонить телефон. Ем… десь."
+        },
+        {
+            "tag": "WT02.ARPKNG_JACOB_0002",
+            "en": "[half to self] Fingers crossed for the former.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [Скрестим пальцы в пользу первого.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[наче до себе] Схрестимо пальці за перший варіант."
+        }
+    ]
+}

@@ -1,0 +1,1023 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2LA.THLATR",
+    "entries": [
+        {
+            "tag": "A2LA.THLATR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0001_OPTION_0000",
+            "en": "Did we do it?",
+            "ru_native": "Мы справились?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми впоралися?"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0001_OPTION_0001",
+            "en": "Is it over?",
+            "ru_native": "Закончилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Закінчилось?"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0001_OPTION_0002",
+            "en": "Wait, I’m not sure…",
+            "ru_native": "Погоди, я не уверена...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, я не впевнена…"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0002_OPTION_0000",
+            "en": "Finally.",
+            "ru_native": "Наконец-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нарешті."
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0002_OPTION_0001",
+            "en": "Are the teens talking?",
+            "ru_native": "Это дети говорят?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це діти кажуть?"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0002_OPTION_0002",
+            "en": "I don’t believe it.",
+            "ru_native": "Я в это не верю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не вірю."
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0003_OPTION_0000",
+            "en": "I guess not.",
+            "ru_native": "По-моему, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ні."
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0003_OPTION_0001",
+            "en": "But maybe one’s coming!",
+            "ru_native": "Вдруг что-то случится!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раптом щось станеться!"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0003_OPTION_0002",
+            "en": "You’re too happy about this.",
+            "ru_native": "Не радуйся раньше времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти занадто радієш."
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0004_OPTION_0000",
+            "en": "Hotel it is!",
+            "ru_native": "В отель так в отель!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У готель так у готель!"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0004_OPTION_0001",
+            "en": "Thanks but no thanks.",
+            "ru_native": "Спасибо, но нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, але ні."
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0004_OPTION_0002",
+            "en": "I just want a couch.",
+            "ru_native": "Я просто хочу диван.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хочу впасти на диван."
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0005_OPTION_0000",
+            "en": "Nevermind.",
+            "ru_native": "Забей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай."
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0005_OPTION_0001",
+            "en": "Hotel it is!",
+            "ru_native": "В отель так в отель!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У готель так у готель!"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0006_OPTION_0000",
+            "en": "This better work.",
+            "ru_native": "Лучше бы сработало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, що ця штука працює."
+        },
+        {
+            "tag": "A2LA.THLATR_CHOICE_0006_OPTION_0001",
+            "en": "I'm impressed you built this. ",
+            "ru_native": "Я потрясена твоей работой. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вражена, що ти зробив це. "
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0000",
+            "en": "Whoa—jeez.",
+            "ru_native": "Уф... боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, Господи."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0001",
+            "en": "Ah! Riley, is this—is this—",
+            "ru_native": "О! Райли, это... это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0002",
+            "en": "Should this be doing this?",
+            "ru_native": "Это так и должно быть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0003",
+            "en": "I can’t tell!",
+            "ru_native": "Не знаю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0004",
+            "en": "Is… is that it?",
+            "ru_native": "Это... это оно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це все?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0005",
+            "en": "I… think so?",
+            "ru_native": "Наверное?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Начебто… так?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0006",
+            "en": "I think it… might be?",
+            "ru_native": "Ну... возможно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0007",
+            "en": "I think we did it.",
+            "ru_native": "Кажется, мы справились.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ми впоралися."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0008",
+            "en": "My walkie, it’s—listen.",
+            "ru_native": "Моя рация... послушай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя рація… послухай."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0009",
+            "en": "Oh sweet trucker nonsense! I’m getting CB’s again!",
+            "ru_native": "Чепуха какая-то! Опять любительские каналы!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, нарешті безглузді балачки водіїв вантажівок! Я знову ловлю ці канали!"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0010",
+            "en": "I think—I think we really did it!",
+            "ru_native": "Кажется... кажется, мы сделали это!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається… здається, ми це зробили!"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0011",
+            "en": "You can almost taste the difference.",
+            "ru_native": "Разница ощутима.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Різниця відчутна."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0012",
+            "en": "Air seems cleaner.",
+            "ru_native": "Воздух стал чище.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повітря стало чистішим."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0013",
+            "en": "God.",
+            "ru_native": "Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0014",
+            "en": "We are just… extraordinarily lucky this worked—if you hadn’t been here at the exact right time.",
+            "ru_native": "Нам просто... чертовски повезло, что все получилось.<br>Если бы ты не оказалась здесь в нужное время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам просто… страшенно пощастило, що все вийшло. Тобто, ти опинилася тут<br>у потрібний час."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0015",
+            "en": "At this exact right spot, with these exact right transmitters…",
+            "ru_native": "В нужном месте, с этими передатчиками...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У потрібному місці, із цими радіопередавачами…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0016",
+            "en": "I… don’t know what would have happened.",
+            "ru_native": "Я... не знаю, что бы произошло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не знаю, що сталося б."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0017",
+            "en": "I don’t… think so. Try on your walkie, but… their channel seems dead.",
+            "ru_native": "Не думаю. Попробуй рацию, но... их канал, похоже, умер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю… що це так. Увімкни свою рацію, але… їхній канал, схоже, сконав."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0018",
+            "en": "They didn’t \"roll over,\" we shut the door on their ghost asses.",
+            "ru_native": "Они и не «отступили», мы захлопнули дверь перед их призрачными носами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони й не «облишать», ми зачинили двері перед їхніми примарними носами."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0019",
+            "en": "Look at the sky! Do you see any portals?",
+            "ru_native": "Посмотри на небо! Ты видишь порталы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивись на небо! Бачиш портали?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0020",
+            "en": "Hear any weird voices?",
+            "ru_native": "Слышишь странные голоса?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чуєш дивні голоси?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0021",
+            "en": "Feel any time distortions?",
+            "ru_native": "Чувствуешь искажения времени?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчуваєш спотворення часу?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0022",
+            "en": "Cause I certainly don’t.",
+            "ru_native": "Я точно нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — точно ні."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0023",
+            "en": "Then take the W! We won! Let’s enjoy it.",
+            "ru_native": "Тогда признай! Мы победили! Отпразднуем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді визнай! Ми перемогли! Відсвяткуємо."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0024",
+            "en": "Well, we can’t know until… I guess enough time has passed that we’ll feel… okay about it.",
+            "ru_native": "Ну, мы не узнаем, пока не пройдет достаточно времени, чтобы сказать, что все порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ми не дізнаємося… поки не мине<br>достатньо часу, щоби впевнитися, що все гаразд."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0025",
+            "en": "But I’m taking the W, now, if you don’t mind—I want to enjoy this.",
+            "ru_native": "Но я буду считать это победой, если ты не против. Хочу насладиться триумфом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я вважатиму це перемогою, якщо ти не проти. Хочу насолодитися тріумфом."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0026",
+            "en": "Hey, I’m taking the W. We won! Let’s enjoy it!",
+            "ru_native": "Эй, я думаю, это победа. Отпразднуем!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, я гадаю, це — перемога. Відсвяткуємо!"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0027",
+            "en": "God, it’s probably like… four in the morning.",
+            "ru_native": "Боже, сейчас, наверное, четыре утра.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, зараз, мабуть, четверта ранку."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0028",
+            "en": "There’s a lot of stuff to sort through, like… what to do about… anything that’s happened, but…",
+            "ru_native": "Нужно еще во многом разобраться. Например, что делать с тем, что произошло, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно ще багато в чому розібратись.<br>Наприклад, що робити з тим, що сталося, але…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0029",
+            "en": "I don’t know about you—I think we earned the rest of the night off. I mean… the storm lifted. Right?",
+            "ru_native": "Не знаю, как ты, а я считаю, что мы заслужили отдых. Буря ведь прошла. Я прав?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, як ти, а я вважаю, що ми заслужили на відпочинок. Тобто…<br>Адже буря минула. Чи не так?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0030",
+            "en": "We should go to the docks, see about getting you to a hotel.",
+            "ru_native": "Нам надо в доки, попробуем доставить тебя в отель.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам треба до доків, спробуємо доставити тебе в готель."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0031",
+            "en": "I’d offer my own place, but… I don’t know.",
+            "ru_native": "Я бы предложил переночевать у меня, но... не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я запропонував би переночувати в мене, але… не знаю."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0032",
+            "en": "You saw it.",
+            "ru_native": "Ты сама видела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти бачила."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0033",
+            "en": "Not exactly pristine.",
+            "ru_native": "Там не прибрано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там не зовсім прибрано."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0034",
+            "en": "And… it just seems weird?",
+            "ru_native": "И... это было бы странно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… це було б дивно?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0035",
+            "en": "Maybe it’s just me.",
+            "ru_native": "Ну, или только для меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, чи це тільки для мене так?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0036",
+            "en": "Sounds good.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слушна думка."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0037",
+            "en": "No, totally. I get it. Me, too.",
+            "ru_native": "Да, конечно, понимаю. Мне тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звісно, розумію. Мені теж."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0038",
+            "en": "Hey, you can use mine. I just have to… I should clean the cover, though, first—",
+            "ru_native": "Можешь упасть на мой. Просто надо... Надо сперва его почистить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш упасти на мій. Просто треба… Треба спершу його прибрати…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0039",
+            "en": "I accidentally spilled gasoline on the, uh—",
+            "ru_native": "Я случайно пролил бензин на...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я випадково пролив бензин на…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0040",
+            "en": "The cushions?",
+            "ru_native": "Подушки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подушки?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0041",
+            "en": "And some citric acid from a project, but…",
+            "ru_native": "И немного лимонной кислоты, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І трохи лимонної кислоти від експерименту, але…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0042",
+            "en": "Shouldn’t be… too bad?",
+            "ru_native": "Это же... ничего?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж… нічого?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0043",
+            "en": "Sounds good.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слушна думка."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0044",
+            "en": "Now that I’m saying it all out loud, maybe… just stick to a hotel.",
+            "ru_native": "Теперь, когда я сказал все это вслух... может, лучше в отель?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер, коли я сказав усе це вголос… може, краще в готель?"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0045",
+            "en": "The town’s back this way. Let’s get rambling.",
+            "ru_native": "Город в ту сторону. Пошли, пройдемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Місто в той бік. Пішли, пройдемося."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0046",
+            "en": "Alright, just… be careful with it.",
+            "ru_native": "Ладно, просто... будь поаккуратней.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, просто… будь обережна."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0047",
+            "en": "I don’t think mine’s as sturdy as the factory made ones your job gave you.",
+            "ru_native": "Не думаю, что мой такой же крепкий, как те заводские, что тебе на работе выдали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не думаю, що мій такий же міцний, як ті, що виготовили на заводі,<br>і які вам видають на роботі."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0048",
+            "en": "But, anyways…",
+            "ru_native": "Но, в общем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, у будь якому випадку…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0049",
+            "en": "Man. Riley.",
+            "ru_native": "Боже. Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько. Райлі."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0050",
+            "en": "Alright, just… be careful with it.",
+            "ru_native": "Ладно, просто... будь поаккуратней.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, просто… будь обережна."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0051",
+            "en": "I don’t think mine’s as sturdy as the factory made ones your job gave you.",
+            "ru_native": "Не думаю, что мой такой же крепкий, как те заводские, что тебе на работе выдали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не думаю, що мій такий же міцний, як ті, що виготовили на заводі,<br>і які вам видають на роботі."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0052",
+            "en": "But, anyways…",
+            "ru_native": "Но, в общем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, у будь якому випадку…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0053",
+            "en": "Moment of truth…",
+            "ru_native": "Момент истины...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Момент істини…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0054",
+            "en": "It will, Poverly.",
+            "ru_native": "Заработает, Поверли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона працює, Поверлі."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0055",
+            "en": "He said, whispering a prayer under his breath…",
+            "ru_native": "Сказал он и начал шепотом молиться...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сказав він і прошепотів собі під ніс молитву…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0056",
+            "en": "Hey, thanks! I didn’t exactly smelt the plastic together but—",
+            "ru_native": "О, спасибо! Я пластиковые части не прямо намертво припаял, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, дякую! Я не зовсім розтопив пластик, але…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0057",
+            "en": "Ya know…I tinkered.",
+            "ru_native": "Вроде как... подцепил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш… Я витратив багато часу."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0058",
+            "en": "Here’s hoping I knew what I was doing.",
+            "ru_native": "Надеюсь, я знал, что делаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, я знав, що роблю."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0059",
+            "en": "We are just… extraordinarily lucky this worked—if you hadn’t been here at the exact right time.",
+            "ru_native": "Нам просто чертовски повезло, что он сработал.<br>Если бы ты не оказалась здесь в нужное время...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам просто… страшенно пощастило, що все вийшло. Тобто, ти опинилася тут<br>у потрібний час."
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0060",
+            "en": "At this exact right spot, with these exact right transmitters…",
+            "ru_native": "В нужном месте, с нужными передатчиками...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У потрібному місці, із цими радіопередавачами…"
+        },
+        {
+            "tag": "A2LA.THLATR_JACOB_0061",
+            "en": "I… don’t know what would have happened.",
+            "ru_native": "Я... не знаю, что бы произошло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не знаю, що сталося б."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0000",
+            "en": "Is it—is it working?!",
+            "ru_native": "Он... он работает?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0001",
+            "en": "What’s happening?! Is this good?!",
+            "ru_native": "Что происходит?! Это хорошо?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0002",
+            "en": "Did we—did we screw up or something?!",
+            "ru_native": "Мы... мы облажались или что?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0003",
+            "en": "Uh… did we do it?",
+            "ru_native": "Хм... мы справились?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… ми впоралися?"
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0004",
+            "en": "It seems… better? Right?",
+            "ru_native": "Так... лучше? Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так краще? Адже так?"
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0005",
+            "en": "Uh… [sigh] Is it over? The sky looks… cleared?",
+            "ru_native": "Ох… Это все? Небо, похоже, проясняется?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох… [зітхає] Це все? Здається, розвидняється?"
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0006",
+            "en": "Wait, wait, hold on… I’m not… sure this is… good, yet.",
+            "ru_native": "Постой... Я не уверена... что все в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, почекай, зажди… Я не впевнена… що вже все гаразд."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0007",
+            "en": "Finally.",
+            "ru_native": "Наконец-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нарешті."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0008",
+            "en": "Are the, uh, t-the kids talking about it. Olivia? Any of them?",
+            "ru_native": "Это же дети говорят. Оливия? Или кто-то из них?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж діти кажуть. Олівія? Чи хтось із них?"
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0009",
+            "en": "I just… I can’t believe it. Something about this just feels too easy.",
+            "ru_native": "Я просто не могу поверить. Как-то все слишком просто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не можу повірити. Якось усе дуже просто."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0010",
+            "en": "Why would Alex—why would she just… I don’t know.",
+            "ru_native": "Зачем Алекс... почему бы ей просто… не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо Алекс… чому їй просто… не знаю."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0011",
+            "en": "If we beat them, it’s not like they rolled over, but—",
+            "ru_native": "Если мы их победим, они не то чтобы отступят, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ми їх перемогли, це не означає, що вони облишать свою справу, але…"
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0012",
+            "en": "I guess not, no.",
+            "ru_native": "По-моему, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ні."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0013",
+            "en": "Yeah okay but maybe one’s coming down the pike in like three minutes.",
+            "ru_native": "Ладно, кто знает, вдруг через три минуты что-то случится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, хто знає, раптом за три хвилини щось трапиться."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0014",
+            "en": "These things are—they’re unpredictable—they’re inexplicable. How can we know?",
+            "ru_native": "Эти штуки такие... непредсказуемые и необъяснимые. Кто знает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ці штуки такі… непередбачувані й незрозумілі. Хтозна?"
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0015",
+            "en": "Okay, Jacob, you’re just a little too happy to have barely scraped by and only possibly succeeded in saving our past and future lives.",
+            "ru_native": "Ладно, Джейкоб, ты просто слишком счастлив, что чудом<br>ускользнул и, возможно, сумел спасти наши прошлые и будущие жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Джейкобе, ти занадто радієш, що ледве вцілів і, можливо, зміг врятувати<br>наші минулі й майбутні життя."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0016",
+            "en": "Yeah, I already got a hotel through the school—or my, uh, employer.",
+            "ru_native": "Да, я уже забронировала номер через школ... моего работодателя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я вже забронювала номер через школу… мого роботодавця."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0017",
+            "en": "If the walkie works, a phone might? I can call a ride.",
+            "ru_native": "Если рация работает, может, позвоним? Я закажу такси.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо рація працює, то, може, і телефон теж? Я замовлю таксі."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0018",
+            "en": "Eh, thanks but no thanks.",
+            "ru_native": "Эм, нет, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, ні, дякую."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0019",
+            "en": "I definitely could never have done this without you, but I think I need some genuine alone time for a bit.",
+            "ru_native": "Я бы без тебя ни за что не справилась, но<br>сейчас мне просто нужно побыть наедине с собой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я без тебе нізащо не впоралася б, але зараз мені просто треба побути наодинці."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0020",
+            "en": "Honestly, Jacob, I just need a damn couch.",
+            "ru_native": "Джейкоб, я просто хочу упасть на диван.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, чесно, я просто хочу впасти на диван."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0021",
+            "en": "Nevermind! Nevermind, that’s—that’s okay. I got a hotel through the school.",
+            "ru_native": "Да брось, все в порядке! Я получила номер от школы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай, усе гаразд! Школа замовила мені номер у готелі."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0022",
+            "en": "If the walkie works, the phone might? I can call a ride.",
+            "ru_native": "Если рация работает, может, позвоним? Я закажу такси.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо рація працює, то, може, і телефон теж? Я замовлю таксі."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0023",
+            "en": "Yeah okay well I already got a hotel through the school—or my, uh, employer.",
+            "ru_native": "Ну, в общем, я уже забронировала номер через школ... моего работодателя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі, я вже забронювала номер через школу… чи мого роботодавця."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0024",
+            "en": "This thing better work, Summers.",
+            "ru_native": "Молись, чтобы эта штука заработала, Саммерс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, що ця штука працює, Саммерс."
+        },
+        {
+            "tag": "A2LA.THLATR_RILEY_0025",
+            "en": "You know, it’s impressive you made this thing.",
+            "ru_native": "Знаешь, а это круто, что ты сумел сделать такую штуку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, я вражена, що ти зробив цю штуку."
+        },
+        {
+            "tag": "A2LA.THLATR_WALKIE_0000",
+            "en": "There are some teddy bears creeping up on a couple fat boys around yard stick 480.",
+            "ru_native": "Группа плюшевых медведей крадется к паре толстых мальчиков, около 480 метров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Група плюшевих ведмедів крадеться до пари товстих хлопчиків, десь за 480 ярдів."
+        },
+        {
+            "tag": "A2LA.THLATR_WALKIE_0001",
+            "en": "Get your ears on, it’s a total parking lot over there—come on back to me. Over.",
+            "ru_native": "Послушайте, там полная парковка, возвращайтесь ко мне. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Послухайте, там повна парковка, повертайтеся до мене. Прийом."
+        }
+    ]
+}

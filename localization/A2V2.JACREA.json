@@ -1,0 +1,492 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V2.JACREA",
+    "entries": [
+        {
+            "tag": "A2V2.JACREA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.JACREA_CHOICE_0000_OPTION_0000",
+            "en": "Did they copy these?",
+            "ru_native": "Они их скопировали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони їх скопіювали?"
+        },
+        {
+            "tag": "A2V2.JACREA_CHOICE_0000_OPTION_0001",
+            "en": "So?",
+            "ru_native": "И что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що з того?"
+        },
+        {
+            "tag": "A2V2.JACREA_CHOICE_0000_OPTION_0002",
+            "en": "Spooky.",
+            "ru_native": "Жутковато.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моторошно."
+        },
+        {
+            "tag": "A2V2.JACREA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.JACREA_CHOICE_0001_OPTION_0000",
+            "en": "Is this a trick?",
+            "ru_native": "Это розыгрыш?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це якийсь жарт?"
+        },
+        {
+            "tag": "A2V2.JACREA_CHOICE_0001_OPTION_0001",
+            "en": "We should leave.",
+            "ru_native": "Нужно уходить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам краще піти."
+        },
+        {
+            "tag": "A2V2.JACREA_CHOICE_0001_OPTION_0002",
+            "en": "Let's find that equipment, quick.",
+            "ru_native": "Ищем оборудование, быстрее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайдімо обладнання, поквапся."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0000",
+            "en": "Wait, I remember now… Those markings when we walked in? They looked so familiar.",
+            "ru_native": "Постой, я вспомнил. Те символы на входе? Они мне показались знакомыми.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, я згадав… Ті символи на вході. Вони мені здалися знайомими."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0001",
+            "en": "Olivia. They'd written them in the sand on the beach.",
+            "ru_native": "Оливия. Они начертили их на песке на пляже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0002",
+            "en": "It’s how Olivia and them communicate.",
+            "ru_native": "Так Оливия с ними общается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так Олівія спілкується з ними."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0003",
+            "en": "It looks like the same family of icons.",
+            "ru_native": "Похоже, знаки из одного языка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на букви з однієї мови."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0004",
+            "en": "Right?",
+            "ru_native": "Или нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже так?"
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0005",
+            "en": "It’s not just me…",
+            "ru_native": "Мне ведь не кажется?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи це тільки мені так здається…"
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0006",
+            "en": "Uh, maybe?",
+            "ru_native": "Наверно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть…"
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0007",
+            "en": "Uh, do they? I haven’t seen these really anywhere else.",
+            "ru_native": "Разве? Я таких раньше нигде не видел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба? Я таких ніде раніше не бачив."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0008",
+            "en": "Actually… Riley… now that I think about it…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вообще-то... Райли... теперь, когда я думаю об этом...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0009",
+            "en": "I don’t think Camena’s East Bay and park area even <i>have</i>a Community Center.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не думаю, что в Ист-Бэй и парковой зоне Камена даже <i>есть</i> общественный центр.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0010",
+            "en": "That’s not good.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это не очень хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0011",
+            "en": "I did! I did, but… maybe they weren’t the ones who called me back.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я сделал это! Я сделал, но... может быть, это не они мне перезвонили?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0012",
+            "en": "Let’s just go, this... doesn’t—this isn’t right.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай просто пойдем, это... не... это не правильно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0013",
+            "en": "Yeah.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0014",
+            "en": "I don’t know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0015",
+            "en": "Mm. I just wonder what any of this has to do with—",
+            "ru_native": "Хм. Интересно, связано ли это как-то с...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Цікаво, чи це пов’язано якось з…"
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0016",
+            "en": "Ugh, I hate when they do this.",
+            "ru_native": "Ненавижу, когда они так делают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу, коли так роблять."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0017",
+            "en": "Yes, yes, they are, we heard them—don’t let these things confuse us.",
+            "ru_native": "Да-да, мы их слышали. Не давай им сбить тебя с толку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так-так, ми їх чули. Не дай їм збити тебе з пантелику."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0018",
+            "en": "If we don’t destroy that Parentage equipment, then our plan won’t work.",
+            "ru_native": "Если не уничтожим оборудование «Наследия», наш план не сработает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо не знищимо обладнання «Парентажу», то наш план не спрацює."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0019",
+            "en": "Let’s, uh, let’s just find the station gear. Fast.",
+            "ru_native": "Давай искать аппаратуру станции, бегом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукаймо обладнання на станції, швидко."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0020",
+            "en": "Oh wait—no no no, we haven’t found whatever they’re going to use, yet.",
+            "ru_native": "Погоди! Нет, мы ведь еще не нашли их оборудование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай! Ні, адже ми ще не знайшли їхнє обладнання."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0021",
+            "en": "They’re—whatever they are, they’re just trying to scare us, to try and make us leave.",
+            "ru_native": "Кто бы это ни был, они лишь пытаются спугнуть нас, заставить сбежать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто б це не був, вони лише намагаються налякати нас, змусити втекти."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0022",
+            "en": "Let’s, uh, let’s just find the station gear. Fast.",
+            "ru_native": "Давай искать аппаратуру станции, бегом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукаймо обладнання на станції, швидко."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0023",
+            "en": "Yeah, good call.",
+            "ru_native": "Поддерживаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гарна думка."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0024",
+            "en": "Let’s, uh, let’s just find that station gear. Fast.",
+            "ru_native": "Давай искать аппаратуру станции, бегом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нуж-бо… знайдімо обладнання на станції, швидко."
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0025",
+            "en": "I’ve seen these around town. A lot. And they always looked kinda—ya know—amateurish?",
+            "ru_native": "Я видел ее по городу. Много. И она вся выглядела немного, ну, по-дилетантски.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачив таке в місті. Багато де. І це завжди виглядає якось, знаєш, дилетантським?"
+        },
+        {
+            "tag": "A2V2.JACREA_JACOB_0026",
+            "en": "Like young people made them. And with a purpose. And a sequence. And I think...",
+            "ru_native": "Как будто ее дети делали. С какой-то целью. И последовательностью. И мне кажется...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наче воно зроблене підлітками. З якоюсь метою та послідовністю. І, мабуть…"
+        },
+        {
+            "tag": "A2V2.JACREA_RADIO_0000",
+            "en": "I don’t think Camena has a Community Center—Center—centerrrrr—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не думаю, что в Камене есть общественный центр-центральный центр-центральный центр-центральный центр-центральный центр-центральный центр-центральный центр-центральный центр.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_RADIO_0001",
+            "en": "Yesterday evening, the world had its first glimpse of the far side of the moon—[audio fades]",
+            "ru_native": "Вчера вечером мир впервые увидел обратную сторону луны...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Учора ввечері світ уперше побачив зворотний бік Місяця…"
+        },
+        {
+            "tag": "A2V2.JACREA_RADIO_0002",
+            "en": "[distorted] Are you saying they copied these? Or… what?",
+            "ru_native": "Так что, они их скопировали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То ти хочеш сказати, що вони їх скопіювали?"
+        },
+        {
+            "tag": "A2V2.JACREA_RADIO_0003",
+            "en": "[distorted] Uh, so? Who cares. They look like pretty common, uh, astrological… things.",
+            "ru_native": "Выглядят как обычные астрологические... каракули.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони виглядають як звичайні астрологічні… каракулі."
+        },
+        {
+            "tag": "A2V2.JACREA_RADIO_0004",
+            "en": "So are we in the right place?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так находимся ли мы в правильном месте?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_RADIO_0005",
+            "en": "[distorted] [cackling laughter]",
+            "ru_native": "[ID-18]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Перекручений; спотворений звук] [хихикання]"
+        },
+        {
+            "tag": "A2V2.JACREA_RADIO_0006",
+            "en": "[distorted] [screeching noise]",
+            "ru_native": "[ID-19]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[скрипливий звук]"
+        },
+        {
+            "tag": "A2V2.JACREA_RADIO_0007",
+            "en": "[musical jingle] Hello, hello. Are we all shimmering, tonight?",
+            "ru_native": "Привет, привет! Сегодня померцаем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, привіт! Сьогодні будемо мерехтіти?"
+        },
+        {
+            "tag": "A2V2.JACREA_RADIO_0008",
+            "en": "[distorted] Their own secret language?",
+            "ru_native": "Свой собственный язык.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У них своя секретна мова."
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0000",
+            "en": "Are you saying they copied these? Or… what?",
+            "ru_native": "Так что, они их скопировали? Или как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То ти хочеш сказати, що вони їх скопіювали? Або що?"
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0001",
+            "en": "Uh, so? Who cares. They look like pretty common, uh, astrological… things.",
+            "ru_native": "Ну и? Они выглядят как обычные астрологические... каракули.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що? Вони виглядають як звичайні астрологічні… каракулі."
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0002",
+            "en": "So are we in the right place? This is the Community Center, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Итак, мы в правильном месте? Это ведь Общественный центр, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0003",
+            "en": "Is this a—was this a trick or something? Y-you did call the cops right?",
+            "ru_native": "Это какой-то розыгрыш? ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це якийсь розіграш? Ти ж подзвонив копам, так?"
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0004",
+            "en": "We should, uh… leave.",
+            "ru_native": "Нам нужно уходить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам треба… забиратися звідси."
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0005",
+            "en": "Uh, if this isn’t the Community Center… where are we?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, если это не Общественный центр... где мы?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0006",
+            "en": "Huh. It’s a little… spooky. Their own secret language?",
+            "ru_native": "Как-то это жутковато. Свой собственный язык.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якось це… моторошно. У них своя секретна мова?"
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0007",
+            "en": "They are going to come here and—",
+            "ru_native": "Они придут сюда и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони прийдуть сюди і…"
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0008",
+            "en": "Let’s just find that station equipment before anything, uh, happens.",
+            "ru_native": "Предлагаю найти оборудование станции прежде, чем что-то случится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пропоную знайти обладнання на станції, перш ніж щось трапиться."
+        },
+        {
+            "tag": "A2V2.JACREA_RILEY_0009",
+            "en": "Is this a — was this a trick or something?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это - это был трюк или что-то в этом роде?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це якийсь розіграш?"
+        }
+    ]
+}

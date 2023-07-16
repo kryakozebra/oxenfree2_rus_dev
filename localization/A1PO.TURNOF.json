@@ -1,0 +1,663 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.TURNOF",
+    "entries": [
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0000_OPTION_0000",
+            "en": "Thank God.",
+            "ru_native": "Слава богу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякувати Богу."
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0000_OPTION_0001",
+            "en": "What was that about?",
+            "ru_native": "Это что еще было?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це було?"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0000_OPTION_0002",
+            "en": "The island light show is still there…",
+            "ru_native": "Световое шоу еще на месте...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Світлове шоу все ще над островом…"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0001_OPTION_0000",
+            "en": "Uhhhh...",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О…"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0001_OPTION_0001",
+            "en": "I don’t know what it is.",
+            "ru_native": "Не знаю, что это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, що це."
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0002_OPTION_0000",
+            "en": "My radio?",
+            "ru_native": "Радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моє радіо?"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0002_OPTION_0001",
+            "en": "Gah, what is that?",
+            "ru_native": "Это еще что?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фу, що це?"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0003_OPTION_0000",
+            "en": "Really?",
+            "ru_native": "Серьезно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді?"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0003_OPTION_0001",
+            "en": "Let’s leave it alone.",
+            "ru_native": "Лучше не надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще не треба."
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0003_OPTION_0002",
+            "en": "This is SO weird.",
+            "ru_native": "Это так странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це так дивно."
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0004_OPTION_0000",
+            "en": "We shouldn’t turn it off.",
+            "ru_native": "Не надо его выключать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам не слід його вимикати."
+        },
+        {
+            "tag": "A1PO.TURNOF_CHOICE_0004_OPTION_0001",
+            "en": "I don’t know yet.",
+            "ru_native": "Пока не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки не знаю."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0000",
+            "en": "Okay.",
+            "ru_native": "Все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0001",
+            "en": "Okay, phew.",
+            "ru_native": "Уф.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0002",
+            "en": "I think… you did it. Let’s, uh… wanna call—",
+            "ru_native": "У тебя получилось. Хочешь связаться?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе вийшло. Хочеш зв’язатися…"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0003",
+            "en": "Wait… what is that… thing… there.",
+            "ru_native": "Погоди... Что это за штука? Над передатчиком?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай… Що то… за штука… там."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0004",
+            "en": "I thought we -- I thought you turned it off?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я думал, мы... Я думал, ты его выключил?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0005",
+            "en": "Is it making it?",
+            "ru_native": "Это оно делает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це воно робить?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0006",
+            "en": "I-I don’t… I don’t know what I’m looking at.",
+            "ru_native": "Не знаю. Понятия не имею, что это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Я гадки не маю, на що я дивлюся."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0007",
+            "en": "Is that your radio?",
+            "ru_native": "Это из-за радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це твоє радіо?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0008",
+            "en": "What is going on?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0009",
+            "en": "Hey, you know what?",
+            "ru_native": "Знаешь что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ти знаєш?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0010",
+            "en": "Oh, I think…",
+            "ru_native": "Думаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається…"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0011",
+            "en": "Maybe try to… tune into this thing… with your radio.",
+            "ru_native": "Попробуй... подключиться к ней через радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуй підключитися до тієї штуки за допомогою радіо."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0012",
+            "en": "Okay, I know what that sounds like, but…",
+            "ru_native": "Понимаю, как это звучит, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію, як це звучить, але…"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0013",
+            "en": "This might be part of what’s causing the interference in town.",
+            "ru_native": "Может, именно эти штуки и вызывают помехи в городе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, ці штуки спричиняють поміхи в місті."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0014",
+            "en": "I think this is all tied together.",
+            "ru_native": "Все это как-то связано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе це якось пов’язано."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0015",
+            "en": "Just… just humor me with this. Okay? I think it might affect it.",
+            "ru_native": "Просто попробуй, ладно? Что-то должно измениться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто спробуй. Добре? Гадаю, щось має змінитися."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0016",
+            "en": "Wait wait wait, no, let’s try it, seriously—I would, but I don’t have a portable radio on me.",
+            "ru_native": "Нет, подожди! Попробуй, пожалуйста. Я бы сам это сделал, но у меня нет радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, стривай. Спробуймо. Я б і сам спробував, але в мене немає радіо."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0017",
+            "en": "I mean, this is like the job, right? This is research—this is what you’re here for, to figure this stuff out.",
+            "ru_native": "Это же и есть твоя работа – исследование. Для этого ты здесь – выяснить, что к чему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0018",
+            "en": "Just imagine if, like—if—if—if, Darwin ran away from the first tortoise that crapped in his tent.",
+            "ru_native": "Это как если бы Дарвин убежал от первой же черепахи, нагадившей ему в палатке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0019",
+            "en": "It can’t hurt to try. Right?",
+            "ru_native": "Просто попробуй. Хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спроба не зашкодить, еге ж?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0020",
+            "en": "But… really, for me, can you… can we try to tune the radio into the triangle’s signal?",
+            "ru_native": "Ну... Ради меня, прошу... Давай настроим радио на сигнал треугольника.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… прошу… заради мене… Налаштуй радіо на сигнал трикутника."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0021",
+            "en": "I think… something might happen.",
+            "ru_native": "Что-то должно произойти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається… щось може статися."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0022",
+            "en": "Really, Riley, c’mon, let’s figure this out.",
+            "ru_native": "Райли, не ломайся, давай все выясним.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді, Райлі. З'ясуймо це."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0023",
+            "en": "Something’s going on here, and I know it’s tied to the radio stuff.",
+            "ru_native": "Тут что-то происходит, и оно точно связано с радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут щось відбувається. Я знаю, що це пов’язано з радіо."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0024",
+            "en": "Nothing—nothing crazy is going to happen, we stopped all that.",
+            "ru_native": "Ничего страшного не случится, мы ведь остановили передачу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого… нічого страшного не станеться, ми все зупинили."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0025",
+            "en": "Let’s try it out, though.",
+            "ru_native": "Давай все же попробуем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе таки спробуймо."
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0026",
+            "en": "Wait, really?",
+            "ru_native": "Стой, правда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що, справді?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0027",
+            "en": "I don’t know Riley, that—",
+            "ru_native": "Не знаю, Райли, это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, Райлі, що…"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0028",
+            "en": "And…?",
+            "ru_native": "И?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну і…?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0029",
+            "en": "…what is it?",
+            "ru_native": "...что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…що це?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0030",
+            "en": "Wait… what is that… thing… there. Above the transmitter.",
+            "ru_native": "Погоди... что это за штука... там. Над передатчиком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай… Що то… за штука… там? Над радіопередавачем?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0031",
+            "en": "Is it making it?",
+            "ru_native": "Это она делает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це воно робить?"
+        },
+        {
+            "tag": "A1PO.TURNOF_JACOB_0032",
+            "en": "I don’t know… I don’t know what I’m looking at.",
+            "ru_native": "Не знаю... Я не знаю, что это такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Я гадки не маю, на що я дивлюся."
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0000",
+            "en": "Alright, yeah, thank God that seemed to—",
+            "ru_native": "Да, слава богу, вроде все...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дякувати Богу. Здається…"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0001",
+            "en": "Alright. What the crap was that about?",
+            "ru_native": "Отлично. Это что еще за хрень была?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Що то, у біса, було?"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0002",
+            "en": "Uh, alright, that did… something? But the—the giant light thing is still above Edwards Island…",
+            "ru_native": "Что-то получилось? Но... Огромное световое нечто все еще над островом Эдвардса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, щось вийшло? Гігантська світлова штука все ще над островом Едвардса…"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0003",
+            "en": "I did turn it off! It’s off! See?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я действительно выключил его! Он выключен! Видишь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0004",
+            "en": "I… yeah, what is that?",
+            "ru_native": "Да... Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… так, що це?"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0005",
+            "en": "[to herself] God, is that—why is my radio going off?",
+            "ru_native": "Боже, неужели... Что с моим радио?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0006",
+            "en": "[to herself] Ugh, Christ, what <i>is</i> that?",
+            "ru_native": "Господи, что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[говорить до себе] О, Боже, що <i>то</i> таке?"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0007",
+            "en": "Um… really? That doesn’t seem very… logical, but…",
+            "ru_native": "Серьезно? Не скажу, что это... логичный вывод.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді? Це здається не дуже логічним, але…"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0008",
+            "en": "Let’s uh… I think we should just leave it alone, to be perfectly honest, Jacob.",
+            "ru_native": "Слушай, Джейкоб... Думаю, нам лучше не лезть и оставить все как есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Джейкобе. Гадаю, нам краще не втручатися."
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0009",
+            "en": "This is… very weird. I—I don’t think we should be—",
+            "ru_native": "Это очень странно. Не думаю, что нам стоит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це дивно. Гадаю, нам не варто…"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0010",
+            "en": "W-wait a second…",
+            "ru_native": "Секунду...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекай…"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0011",
+            "en": "When I first planted this… people in masks teleported in. It was all jumbled and chaotic but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Когда я впервые посадил это... люди в масках телепортировались внутрь. Все было беспорядочно и хаотично, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0012",
+            "en": "Those… people… that… glitched in or whatever… when we were teleporting around?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Те... люди... которые... глючили или как там... когда мы телепортировались?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0013",
+            "en": "They said this transmitter… “screwed everything up…”",
+            "ru_native": "Они сказали, этот передатчик... «все испортил»...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажуть, цей радіопередавач «усе зіпсував»…"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0014",
+            "en": "Like… this thing was keeping that giant hole in the sky… from doing something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как будто... эта штука не давала той гигантской дыре в небе... что-то сделать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0015",
+            "en": "I… Jacob I don’t know. I think Evelyn’s wrong. I think that turning this off will make things worse.",
+            "ru_native": "Я... Джейкоб, не знаю. Думаю, Эвелин неправа. По-моему, если мы его отключим,<br>будет только хуже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, я не знаю. Гадаю, Евелін неправа.<br>Здається, якщо ми вимкнемо цю штуку, то ще більше зашкодимо."
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0016",
+            "en": "Ummm… yeah… I…",
+            "ru_native": "М-м-м-м... да... я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еммм… так… я…"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0017",
+            "en": "When everything went… gray… there were… people. In masks.",
+            "ru_native": "Когда все стало... серым... я видела... людей. В масках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли все стало… сірим… там були люди. У масках."
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0018",
+            "en": "It was like they were being teleported in… or I was being teleported out…",
+            "ru_native": "Как будто они перенеслись сюда... или я перенеслась к ним...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніби їх телепортували сюди… або мене телепортували туди."
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0019",
+            "en": "Wait a second…",
+            "ru_native": "Секунду...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай…"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0020",
+            "en": "I… Jacob I don’t know. I don’t know yet. I don’t know if we should… mess with it.",
+            "ru_native": "Я... Джейкоб, я не знаю. Пока не знаю. Не знаю, нужно ли нам... в это лезть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Джейкобе, я не знаю. Поки що не знаю. Я не знаю, чи нам слід втручатися."
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0021",
+            "en": "I… yeah, what is that?",
+            "ru_native": "Я... да, что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… так, що це?"
+        },
+        {
+            "tag": "A1PO.TURNOF_RILEY_0022",
+            "en": "Wait, why is—why is that going off?",
+            "ru_native": "Стоп, почему... почему он отключается?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій, чому це… чому воно вимикається?"
+        }
+    ]
+}

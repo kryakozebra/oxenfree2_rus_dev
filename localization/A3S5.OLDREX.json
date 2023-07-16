@@ -1,0 +1,1851 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.OLDREX",
+    "entries": [
+        {
+            "tag": "A3S5.OLDREX_ALEX_0000",
+            "en": "Riley!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі!"
+        },
+        {
+            "tag": "A3S5.OLDREX_ALEX_0001",
+            "en": "Riley, can you hear me?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли, ты меня слышишь?!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, ти мене чуєш?!"
+        },
+        {
+            "tag": "A3S5.OLDREX_ALEX_0002",
+            "en": "Riley!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі!"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0000_OPTION_0000",
+            "en": "What bait is that?",
+            "ru_native": "Что это за наживка?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за наживка?"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0000_OPTION_0001",
+            "en": "Bad spot to fish.",
+            "ru_native": "Плохое место для рыбалки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погане місце для риболовлі."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0000_OPTION_0002",
+            "en": "What’s going on?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0001_OPTION_0000",
+            "en": "Hey, Rex.",
+            "ru_native": "Эй, Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Рексе."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0001_OPTION_0001",
+            "en": "Do you know who I am?",
+            "ru_native": "Ты знаешь, кто я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш хто я?"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0002_OPTION_0000",
+            "en": "It’s going terribly.",
+            "ru_native": "Ты вырос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе йде жахливо."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0002_OPTION_0001",
+            "en": "I think you can tell.",
+            "ru_native": "Рада тебя видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, усі погодяться."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0002_OPTION_0002",
+            "en": "Oh I’m great.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, я великолепен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, зі мною все чудово."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0003_OPTION_0000",
+            "en": "Sorry…",
+            "ru_native": "Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробач…"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0003_OPTION_0001",
+            "en": "I wasn’t talking about you.",
+            "ru_native": "Что бы она сказала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не говорила про тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0003_OPTION_0002",
+            "en": "I don’t even know you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я тебя даже не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тебе навіть не знаю."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0004_OPTION_0000",
+            "en": "How?!",
+            "ru_native": "Как?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як?!"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0004_OPTION_0001",
+            "en": "Easy for you to say!",
+            "ru_native": "Ты меня ненавидишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Легко говорити!"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0004_OPTION_0002",
+            "en": "What’s the point!",
+            "ru_native": "",
+            "ru_machine": "DEEPL В чем смысл!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заради чого!"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0005_OPTION_0000",
+            "en": "It’s been hard.",
+            "ru_native": "Скажи, что случилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було важко."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0005_OPTION_0001",
+            "en": "So what? It’s my life.",
+            "ru_native": "Пожалуйста, поговори со мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що? Це моє життя."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0005_OPTION_0002",
+            "en": "I’m trying to change for you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я пытаюсь измениться ради тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я намагаюся змінитися для тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0006_OPTION_0000",
+            "en": "I tried to be a good mom.",
+            "ru_native": "Зови меня «мама»!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я намагалася бути хорошою мамою."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0006_OPTION_0001",
+            "en": "And you turned out okay!",
+            "ru_native": "Почему ты зовешь меня по имени?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А в тебе добре вийшло!"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0006_OPTION_0002",
+            "en": "Don’t make fun.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не отшучивайся.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не глузуй."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0007_OPTION_0000",
+            "en": "How?",
+            "ru_native": "Как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як?"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0007_OPTION_0001",
+            "en": "I can’t.",
+            "ru_native": "Я люблю тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0007_OPTION_0002",
+            "en": "It’s too hard.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это слишком сложно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це занадто важко."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0008_OPTION_0000",
+            "en": "It’s not enough.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Этого недостаточно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цього не достатньо."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0008_OPTION_0001",
+            "en": "How is this going to work?",
+            "ru_native": "How это going to работай?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як це спрацює?"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0008_OPTION_0002",
+            "en": "And I’ll get out?",
+            "ru_native": "And I’ll пошла. вон?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я зможу вибратися?"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0009_OPTION_0000",
+            "en": "It’s not enough.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Этого недостаточно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цього не достатньо."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0009_OPTION_0001",
+            "en": "This is dumb.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это тупость.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це тупо."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0009_OPTION_0002",
+            "en": "I can do this, okay?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я могу это сделать, ясно?!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу це зробити, гаразд?!"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0010_OPTION_0000",
+            "en": "It’s not enough.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Этого недостаточно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цього не достатньо."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0010_OPTION_0001",
+            "en": "This is dumb.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это тупость.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це тупо."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0010_OPTION_0002",
+            "en": "No, I won’t.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, не буду.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не буду."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0011_OPTION_0000",
+            "en": "To do something.",
+            "ru_native": "To do интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Робити щось."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0011_OPTION_0001",
+            "en": "To see you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чтобы увидеть тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Побачити тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0011_OPTION_0002",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0012_OPTION_0000",
+            "en": "To do something. ",
+            "ru_native": "To do интересно. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Робити щось. "
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0012_OPTION_0001",
+            "en": "To see you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чтобы увидеть тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Побачити тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0012_OPTION_0002",
+            "en": "You tell me!",
+            "ru_native": "Ты мне скажи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ти мені скажи!"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0013_OPTION_0000",
+            "en": "Wait! Don’t go yet.",
+            "ru_native": "Погоди! Не ходите yet.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай! Не варто ще йти."
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0013_OPTION_0001",
+            "en": "Come with me!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пойдём со мной!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пішли зі мною!"
+        },
+        {
+            "tag": "A3S5.OLDREX_CHOICE_0013_OPTION_0002",
+            "en": "I love you.",
+            "ru_native": "Я люблю тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я кохаю тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_JACOB_0000",
+            "en": "Riley!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі!"
+        },
+        {
+            "tag": "A3S5.OLDREX_JACOB_0001",
+            "en": "Riley, can you hear me?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли, ты меня слышишь?!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, ти мене чуєш?!"
+        },
+        {
+            "tag": "A3S5.OLDREX_JACOB_0002",
+            "en": "Riley!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі!"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0000",
+            "en": "[lightly chuckles] Wouldn’t you know it. You show up, fish clear out.",
+            "ru_native": "[lightly chuckles] Тебе ли не знать. Всю рыбу распугала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[трохи сміється] Хіба ти цього не знала? Ти з’являєшся, риба не клює."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0001",
+            "en": "Not like you should expect this to go any better, I guess.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не то чтобы тебе стоило ожидать, что все пройдет лучше, я думаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, не слід очікувати, що все піде краще."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0002",
+            "en": "Or maybe I’m just bad luck.",
+            "ru_native": "Или мне просто не везет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або мені просто не щастить."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0003",
+            "en": "A worm and a prayer.",
+            "ru_native": "Червяк и молитва – вот моя наживка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хробак і молитва."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0004",
+            "en": "They didn’t have a bunch of… fiddly bits of plastic in the dark ages, so... why should I, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL В тёмные века у них не было кучи... хитрых кусочков пластика, так что... почему я должен, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У темні віки в них не було купи… непотрібних шматочків пластику,<br>тож навіщо воно мені, чи не так?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0005",
+            "en": "You said something like that once.",
+            "ru_native": "Ты когда-то так сказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Колись ти казала щось подібне."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0006",
+            "en": "Oh, don’t I know it.",
+            "ru_native": "Ох, а то я не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, хіба я не знаю."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0007",
+            "en": "We can smell our own, right?",
+            "ru_native": "Мы тоже не пальцем деланы, ага?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми теж не прості, як двері, га?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0008",
+            "en": "What’s what? Which part?",
+            "ru_native": "Ты о чем? О чем именно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що, про що? Ти про яку частину розмови?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0009",
+            "en": "You recognize me, right?",
+            "ru_native": "Ты меня узнаешь, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене впізнаєш, чи не так?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0010",
+            "en": "Yeah, I know.",
+            "ru_native": "Да, я знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я знаю."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0011",
+            "en": "I sure do. You’re the woman who thought it’d be a great idea to name me Rex.",
+            "ru_native": "Разумеется. Ты та женщина, которая решила, что назвать меня Рексом – хорошая идея.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно. Ти та жінка, котра вирішила, що назвати мене Рексом — гарна ідея."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0012",
+            "en": "Second grade was a real treat, lemme tell ya.",
+            "ru_native": "Все оценили, особенно во втором классе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі оцінили, особливо в другому класі."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0013",
+            "en": "Quiet game? That’s a first.",
+            "ru_native": "Молчанка? Это во-первых.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гра в мовчанку? Це — перший раунд."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0014",
+            "en": "You’re a long way from home, Riley.",
+            "ru_native": "Молчанка? Это во-первых.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти далеко від дому, Райлі."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0015",
+            "en": "You’ve been a long way from home, for a while now, to tell you the truth.",
+            "ru_native": "",
+            "ru_machine": "DEEPL По правде говоря, ты уже давно находишься далеко от дома.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правду кажучи, ти вже давно далеко від дому."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0016",
+            "en": "And I know you wanted to change some things when you heard I was coming…",
+            "ru_native": "",
+            "ru_machine": "DEEPL И я знаю, что ты хотел кое-что изменить, когда узнал, что я приеду...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я знаю, що ти хотіла щось змінити, коли дізналась, що я з'явлюся на світ…"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0017",
+            "en": "Get your life in order. You know – exercise five days a week, stuff like that.",
+            "ru_native": "В точку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навести порядок у своєму житті. Ти знаєш…<br>заняття спортом п’ять днів на тиждень, тощо."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0018",
+            "en": "How’s it going so far?",
+            "ru_native": "Как дела пока да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ся маєш?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0019",
+            "en": "Making your bed every day?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Заправляй свою кровать каждый день?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щодня застеляєш ліжко?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0020",
+            "en": "Cooking your own dinners?",
+            "ru_native": "Наслаждайся этим цветом волос, пока можешь. Мы мигом седеем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Самостійно готуєш обід?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0021",
+            "en": "Or… have recent events sorta gotten in the way of all that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Или... последние события как бы помешали всему этому.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… нещодавні події якось завадили всьому цьому."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0022",
+            "en": "“Like most things you try to do.” Yeah – here’s the thing about that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL \"Как и большинство вещей, которые ты пытаешься сделать\". Да - вот в чем дело.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Як і більшість речей, які ти намагаєшся робити». Так… ось у чому річ."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0023",
+            "en": "I’m one of those things.",
+            "ru_native": "I’m one of те... штуки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я одна з тих речей."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0024",
+            "en": "And I think I turned out pretty okay, alright?",
+            "ru_native": "",
+            "ru_machine": "DEEPL И я думаю, что я получился вполне нормальным, хорошо?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що я виріс досить непоганим, егеж?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0025",
+            "en": "I wash my clothes twice a month and everything.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я стираю свою одежду два раза в месяц и все такое.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я перу двічі на місяць і все таке."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0026",
+            "en": "But that’s me.",
+            "ru_native": "But это я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це ж я."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0027",
+            "en": "It’s true. I do have the slight advantage.",
+            "ru_native": "Но... она не ты. Пока что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це правда. У мене є невеличкі переваги."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0028",
+            "en": "Riley, I know you think you effed up here and that you failed and that the whole town is going to get eaten by ghosts, but…",
+            "ru_native": "Ничего приличного. Но я, наверное, сказал бы еще хуже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, я знаю, що ти думаєш, що ти програла й зазнала невдачі,<br>і що все місто збираються з’їсти привиди, але…"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0029",
+            "en": "You haven’t yet. They haven’t yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты еще не сделал этого. Они еще не сделали этого.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще ні. Вони ще не зробили цього."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0030",
+            "en": "But they will unless you snap the Hell out of it right now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но они будут, если ты не сорвешься с места прямо сейчас.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та вони це зроблять, якщо ти зараз не виберешся звідси."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0031",
+            "en": "For my sake.",
+            "ru_native": "Давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заради мене."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0032",
+            "en": "For your sake.",
+            "ru_native": "Не тормози.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заради себе."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0033",
+            "en": "For Jake’s, for Olivia’s.",
+            "ru_native": "Райли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заради Джейка, Олівії."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0034",
+            "en": "For everybody you hated in Camena.",
+            "ru_native": "[ID-47]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усіх, кого ти ненавиділа в Камені."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0035",
+            "en": "And everybody you forgot ever lived here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И все, кого ты забыл, когда-либо жили здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І всіх, про кого забула, що вони жили тут."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0036",
+            "en": "You’ve been stuck before. You’ve been stuck for years.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты уже застревал раньше. Ты застревал годами.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти застрягла раніше. Ти була тут роками."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0037",
+            "en": "And you think that makes this easier for me?",
+            "ru_native": "О, как тебе такое. Рыба клюет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І гадаєш, що мені легше від цього?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0038",
+            "en": "That… that what? That wasn’t exactly a life?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... это что? Это была не совсем жизнь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яке… яке що? Яке не зовсім життя?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0039",
+            "en": "Mom, I think you’ve let a lot of anger… keep you stapled to the carpet.",
+            "ru_native": "Просто скажи, когда подсекать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мамо, гадаю, ти дозволила гніву засліпити тебе… не відривайся від реальності."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0040",
+            "en": "I don’t know – you always said don’t be sorry for jerks – but was Grandad that bad?",
+            "ru_native": "И, мам...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю… ти завжди казала не зважати на придурків…<br>але хіба дідусь був настільки поганим?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0041",
+            "en": "I never knew him well enough, but from what you told me I don’t think he was.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я никогда не знал его достаточно хорошо, но из того, что ты мне рассказал, я не думаю, что он был таким.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знав його дуже добре, але судячи з того,<br>що ти мені розповідала, гадаю, що він був таким."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0042",
+            "en": "You used to say you can’t punch every problem, but hey – at least punching is trying something!",
+            "ru_native": "You used to say все проблемы кулаками не решить, хотя – at least punching is trying что-то там!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти казала, що не можна кожну проблему вирішувати силою, але ж… якщо застосовувати<br>силу, то це ж, принаймні, щось намагатися вирішити!"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0043",
+            "en": "You used to make me say I was sorry, even when I wasn’t – remember that?",
+            "ru_native": "А, черт, сорвалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше ти змушувала мене казати, що мені шкода,<br>навіть коли я не шкодував, пам’ятаєш?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0044",
+            "en": "Well it’s time for you to do something you’re not quite ready for, too.",
+            "ru_native": "Черт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, час зробити те, до чого ти ще не зовсім готова."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0045",
+            "en": "Look, the Sunken and Alex and all of her friends have been in a void.",
+            "ru_native": "Похоже, крупная была.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивись, Втоплені та Алекс, і всі її друзі опинилися в порожнечі."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0046",
+            "en": "Just like you. Unlike you, though – they want to get out of it!",
+            "ru_native": "Хм. Да. Я, наверное, мог бы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як і ти. Але на відміну від тебе, вони хочуть вибратися звідти!"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0047",
+            "en": "How many years did you drain away on the couch – in bars – doing nothing, wanting nothing.",
+            "ru_native": "Но... единожды солгавши.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скільки років ти пролежала на дивані, просиділа в барах,<br>нічого не роблячи, нічого не бажаючи."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0048",
+            "en": "Wanting to shrivel into dirt, crumble to dust –",
+            "ru_native": "Ну...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бажаючи перетворитися на бруд, розсипатися в порох…"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0049",
+            "en": "– and go out like you came in…",
+            "ru_native": "Придет день, узнаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і покинути все це так, як і потрапила сюди…"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0050",
+            "en": "Quietly, without a fuss.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Спокойно, без лишней суеты.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тихо, без шуму."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0051",
+            "en": "It’s hard for everyone. This stuff is hard.",
+            "ru_native": "Тебе ли не знать. Всю рыбу распугала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усім важко. Це важка річ."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0052",
+            "en": "It’s not your life anymore, Mom.",
+            "ru_native": "Это... нет, не пророчество. Все-таки ты мне сказала, а не древний свиток.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вже не твоє життя, мамо."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0053",
+            "en": "Yeah, Mom, you looked in the want ads and sublet your apartment, I know. You tell me. Often.",
+            "ru_native": "Но я всегда тебе верил. Видимо, это моя награда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мамо, я знаю, ти шукала в оголошеннях і здавала свою квартиру в суборенду.<br>Ти розповідаєш мені про це. Часто."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0054",
+            "en": "And don’t say – I know you like to be “stoic.”",
+            "ru_native": "Могла хоть сказать, что я ничего не поймаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І не кажи… я знаю, що тобі подобається «стоїцизм»."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0055",
+            "en": "In the grand scheme of everything, you know what – you do matter! This does matter.",
+            "ru_native": "Червяк и молитва – вот моя наживка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У великій схемі всесвіту, ти знаєш, що в тебе<br>важлива роль! Це має велике значення."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0056",
+            "en": "You shouldn’t just be grateful for… for the crumbs. You can have more – you should want more.",
+            "ru_native": "В давние времена не было этих веселеньких пластиковых штучек, так зачем они мне?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не варто просто дякувати за… за крихти.<br>Можна мати більше, потрібно бажати більше."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0057",
+            "en": "There isn’t any more time to kill.",
+            "ru_native": "Ты когда-то так сказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більше немає часу вбивати."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0058",
+            "en": "You’re not that young anymore, and today’s… today – it ain’t tomorrow.",
+            "ru_native": "Так что... Как подойдем к вопросу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти вже не така молода, а сьогодні… сьогодні — це не завтра."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0059",
+            "en": "Some of this is the opposite of what you’re going to try and teach me, by the way.",
+            "ru_native": "Ты о чем? О чем именно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До речі, дещо з цього є протилежним тому, чого ти збираєшся мене навчити."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0060",
+            "en": "But you’ll always have a saying for everything.",
+            "ru_native": "Ты мне вдолбила эту дату и время, как только я узнал про календари.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ти завжди знайдеш, що сказати."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0061",
+            "en": "Or at least it felt that way.",
+            "ru_native": "И вот я здесь. И ты здесь. А рыбы нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або, принаймні, так здавалося."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0062",
+            "en": "Everyone’s pretty much thrown into it. But you’re missing the point.",
+            "ru_native": "А ты подсохла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі в значній мірі варяться в цьому. Але ти втрачаєш суть."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0063",
+            "en": "I did! But you’re missing the point.",
+            "ru_native": "Уверен, что ты рада меня видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Але ти втрачаєш суть."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0064",
+            "en": "I’m not making fun of you, Mom. I’m trying to say…",
+            "ru_native": "Раньше ты думала, что увидеть меня – лучшее, что есть в мире.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не глузую з тебе, мамо. Я намагаюся сказати…"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0065",
+            "en": "[sigh] I’m fishing. See? Fishing. That’s because of you.",
+            "ru_native": "Но потом ты... можешь думать иначе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Я ловлю рибу. Бачиш? Риболовля. Це через тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0066",
+            "en": "I cook my eggs how I do because you cook your eggs that way –",
+            "ru_native": "Ладно, у нас есть дело. У меня своя роль, у тебя своя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я смажу собі яєчню саме так, тому що ти готувала її так…"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0067",
+            "en": "I wear jackets all the time, even when I’m dying of heat – I don’t… floss! I buy too many socks!",
+            "ru_native": "Как в старые времена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я весь час ношу куртку, навіть коли вмираю від спеки… я не…<br>користуюся зубною ниткою! Я купую занадто багато шкарпеток!"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0068",
+            "en": "All the… utterly horrible guidance made me who I am today. And I like who I am.",
+            "ru_native": "Давай покончим с ним, и я вернусь к неловле рыбы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі… надзвичайно жахливі вказівки зробили мене тим,<br>ким я є сьогодні. І я собі подобаюся."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0069",
+            "en": "But you just don’t take your own damn advice, Mom. You never do. You never did.",
+            "ru_native": "Тебе скоро возвращаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ти просто не прислухаєшся до своєї ж клятої поради, мамо.<br>Ти ніколи не будеш прислухатися. Ти ніколи не прислухалася."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0070",
+            "en": "So. I’m here now… to make you take your own advice.",
+            "ru_native": "Я зову тебя Райли только потому, что ты сама мне так велела!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому. Я зараз тут… щоби змусити тебе прислухатися до власної поради."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0071",
+            "en": "DO something.",
+            "ru_native": "DO что-то там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ЗРОБИ щось."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0072",
+            "en": "BE something.",
+            "ru_native": "BE вроде того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "БУДЬ чимось важливим."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0073",
+            "en": "Live. For the promise of tomorrow.",
+            "ru_native": "Райли. Я здесь, так ведь? Я пришел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Живи. Заради обіцяного завтрашнього дня."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0074",
+            "en": "Even if that tomorrow isn’t exactly what you might have wanted.",
+            "ru_native": "Мы квиты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть якщо це завтра не зовсім таке, якого ти би хотіла."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0075",
+            "en": "It’s easy.",
+            "ru_native": "Это все, что ты от меня получишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це просто."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0076",
+            "en": "Well… it’s not easy, but… it’s easy to start.",
+            "ru_native": "До скорого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… це непросто, але… почати не важко."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0077",
+            "en": "Admit to yourself, to me – to the void – that eternity doing nothing… isn’t for you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Признайся себе, мне - пустоте - что вечное ничегонеделание... не для тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зізнайся собі, мені… порожнечі… що вічність нічого не робити… це не для тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0078",
+            "en": "No, Riley –",
+            "ru_native": "No, Райли –",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Райлі…"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0079",
+            "en": "You can’t go quiet on me now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Теперь ты не сможешь спокойно заниматься со мной.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не зможеш промовчати зараз."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0080",
+            "en": "You have to say it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты должен это сказать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти повинна це сказати."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0081",
+            "en": "And mean it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Причем серьезно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І всерйоз."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0082",
+            "en": "C’mon.",
+            "ru_native": "Давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0083",
+            "en": "Riley, stop.",
+            "ru_native": "Райли, stop.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, зупинися."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0084",
+            "en": "Don’t be overconfident.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не будь слишком самоуверенным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не будь надто самовпевненою."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0085",
+            "en": "Riley, you have to talk to me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли, ты должен поговорить со мной.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, поговори зі мною."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0086",
+            "en": "You’ll never leave unless you break out of this!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты никогда не уйдешь, если не вырвешься из этого!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти нічого не зробиш, ти не виберешся звіздси!"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0087",
+            "en": "Now say it!",
+            "ru_native": "",
+            "ru_machine": "DEEPL А теперь скажи это!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер кажи!"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0088",
+            "en": "For yourself.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Для себя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заради себе."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0089",
+            "en": "No, this – you can’t just turn into driftwood.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, это - ты не можешь просто так превратиться в дрейфующую древесину.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це… ти не можеш просто перетворитися на плавник."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0090",
+            "en": "And what do you really want?",
+            "ru_native": "",
+            "ru_machine": "DEEPL А чего ты на самом деле хочешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А чого ти насправді хочеш?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0091",
+            "en": "Yes you do, Mom.",
+            "ru_native": "Да. Ты понимаешь, Mom.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Ти розумієш, мамо."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0092",
+            "en": "No, silence isn’t going to cut it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, молчанием дело не ограничится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, тиша не врятує тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0093",
+            "en": "Now – really and truly – what do you really want?",
+            "ru_native": "",
+            "ru_machine": "DEEPL А теперь - по-настоящему и искренне - чего ты действительно хочешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер… дійсно й насправді… чого ти хочеш?"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0094",
+            "en": "[sighs] I know you know, Mom, now just say it before they take everything you ever wanted.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздыхает] Я знаю, что ты знаешь, мама, теперь просто скажи это, пока они не отняли у тебя все, чего ты когда-либо хотела.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Я знаю, що ти знаєш, мамо, тепер просто скажи це,<br>перш ніж вони заберуть усе, що ти коли-небудь хотіла."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0095",
+            "en": "[sigh] Yes. Yes you do.",
+            "ru_native": "[вздыхает] Yes. Да. Ты понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Так. Це правда."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0096",
+            "en": "Oh, they don’t look too happy.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, они не выглядят слишком счастливыми.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, вони не виглядають надто щасливими."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0097",
+            "en": "But… I think this is my stop.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но... я думаю, что это моя остановка.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… гадаю, це моя зупинка."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0098",
+            "en": "I never did get used to goodbyes. But… this isn’t one. Not really.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я так и не смог привыкнуть к прощанию. Но... это не одно из них. Не совсем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я так і не звикла до прощань. Але… це не воно. Не зовсім воно."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0099",
+            "en": "And look, Mom… don’t be so “realistic.” Dream a little. Okay? It’s good for you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И смотри, мама... не будь такой \"реалисткой\". Помечтай немного. Хорошо? Это полезно для тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І слухай, мамо… не будь такою «реалісткою».<br>Помрій трохи. Добре? Це корисно для тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0100",
+            "en": "Don’t worry about tomorrow, Mom. Just worry about yourself. Right now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не беспокойся о завтрашнем дне, мама. Беспокойся только о себе. Прямо сейчас.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не турбуйся про завтра, мамо. Просто турбуйтеся про себе. Прямо зараз."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0101",
+            "en": "Oh, and I’ll see you at Christmas.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, и увидимся на Рождество.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, і побачимося на Різдво."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0102",
+            "en": "I pop out a little early.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я выскакиваю немного раньше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я з’явлюся трохи раніше."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0103",
+            "en": "Just make a choice! And stick with it!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто сделай выбор! И придерживайся его!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто зроби вибір! І дотримуйся його!"
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0104",
+            "en": "Even if that choice doesn’t take you exactly where you expected it to.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Даже если этот выбор приведет тебя не совсем туда, куда ты ожидал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть якщо цей вибір приведе тебе не туди, куди ти очікувала."
+        },
+        {
+            "tag": "A3S5.OLDREX_REX_0105",
+            "en": "“Someone’s knockin’ at the door. Somebody’s ringin’ the bell…”",
+            "ru_native": "",
+            "ru_machine": "DEEPL \"Кто-то стучится в дверь. Кто-то звонит в колокольчик...\"",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Хтось стукає у двері. Хтось дзвонить у дзвінок…»"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0000",
+            "en": "What, uh… what bait are you using?",
+            "ru_native": "Стой... Что у тебя за наживка?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яку, е… яку наживку ти використовуєш?"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0001",
+            "en": "Maybe it’s a bad spot? Fish can be temperamental.",
+            "ru_native": "Может, место плохое? Рыбы бывают привередливы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може місце погане? Риби бувають вибагливі."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0002",
+            "en": "What’s… what is this?",
+            "ru_native": "Что... что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… ти про що це?"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0003",
+            "en": "I know it’s you, Rex.",
+            "ru_native": "Я знаю, что это ты, Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що це ти, Рексе."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0004",
+            "en": "You—do you know who I...am?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты... ты знаешь, кто я... такой?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… ти знаєш, хто я?.."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0005",
+            "en": "Oh, it’s going exactly how I thought it would go. Just a pure… pile of smelly garbage.",
+            "ru_native": "Рада тебя видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, усе йде саме так, як я уявляла. Вийшла просто… велика купа смердючого сміття."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0006",
+            "en": "Like most things I try to do.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как и большинство вещей, которые я стараюсь делать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як і більшість речей, які я намагаюся робити."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0007",
+            "en": "Uh, I think you can tell how it’s going, Rex.",
+            "ru_native": "Да? Что бы она сказала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ти можеш розказати, як справи, Рексе."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0008",
+            "en": "I’m getting taken over by vengeful spirits just cause I answered an ad for a job.",
+            "ru_native": "Что случилось? Между мной и тобой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене намагаються захопити мстиві духи лише тому,<br>що я відповіла на оголошення про роботу."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0009",
+            "en": "It’s going to complete crap – like most things I try to do.",
+            "ru_native": "Что это? Ты меня... ненавидишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все лайно… як і більшість речей, які я намагаюся робити."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0010",
+            "en": "Oh, everything’s just peachy, Rex. This is exactly where I wanted to end up.",
+            "ru_native": "Эй, я задала вопрос...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, усе просто чудово, Рексе. Саме сюди я хотіла потрапити."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0011",
+            "en": "It’s like – it’s been like most things I try to do. It’s gone bad. Really bad. It’s just made things worse.",
+            "ru_native": "Просто скажи, что случилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… схоже на те, що я намагаюся зробити.<br>Все пішло шкереберть. Дуже погано. Ситуація лише погіршилася."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0012",
+            "en": "[big sigh] Sorry. I… I’m sorry.",
+            "ru_native": "[big Ох] Sorry. I… Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сильно зітхає] Шкода. Вибач, я…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0013",
+            "en": "[big sigh] I… wasn’t talking about you. So.",
+            "ru_native": "Да ладно, зови меня «мама». Я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сильно зітхає] Я… не говорила про тебе. Тож."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0014",
+            "en": "I… [sigh] I don’t even know you. You’re… I know what you mean to me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... [вздох] Я даже не знаю тебя. Ты... Я знаю, что ты для меня значишь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… [зітхає] Я навіть не знаю тебе. Ти… Я знаю, що ти для мене значиш."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0015",
+            "en": "I can feel what you mean, but… I don’t know you. Not really.",
+            "ru_native": "Ты зовешь меня Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію, що ти маєш на увазі, але… я тебе не знаю. Не зовсім знаю."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0016",
+            "en": "How?! You don’t think I’m trying! I’m stuck here!",
+            "ru_native": "Всегда можно... попробовать снова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як?! Ти думаєш, що я не намагаюся! Я тут застрягла!"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0017",
+            "en": "Yeah, that’s really easy for you to say! You’re a – a – a – I don’t even know what!",
+            "ru_native": "Я знаю, что я тебя не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дуже легко це сказати! Ти… ти… навіть не знаю хто!"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0018",
+            "en": "I don’t know where I am – I don’t… I don’t know what’s going on.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не знаю, где я нахожусь - я не... я не знаю, что происходит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю де… Я не… я не знаю, що відбувається."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0019",
+            "en": "Oh – what is the point, honestly. What am I fighting for, here?",
+            "ru_native": "Стой... Что у тебя за наживка?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, у чому сенс, чесно кажучи? За що я тут борюся?"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0020",
+            "en": "A town I moved away from, a kid I don’t know, a guy I just met – a life… that…",
+            "ru_native": "Что... что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Місто, з якого я переїхала, дитина, яку я не знаю,<br>хлопець, якого я щойно зустріла… життя… яке…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0021",
+            "en": "Yeah, it’s been – it’s been a little hard for me to, you know… get out there.",
+            "ru_native": "Ты вырос. Ты... взрослый.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це… трохи важко для мене, знаєш… вибратися туди."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0022",
+            "en": "Yeah? So what? So what if I’m not living up to your standards of an adventurous existence –",
+            "ru_native": "Не понимаю. Почему я не захочу видеть тебя?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? І що? Той що, що я не відповідаю твоїм стандартам авантюрного існування…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0023",
+            "en": "It’s my life to live, even if I wanted to flush it down the toilet.",
+            "ru_native": "Ты не хочешь поговорить? Что-нибудь сказать?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це моє життя, навіть якщо я захотіла змити його в унітаз."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0024",
+            "en": "You have no idea how hard I’ve tried to change for you!",
+            "ru_native": "Я сделала что-то не так? Сказала? Или сделала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не уявляєш, як я намагалася змінитися для тебе!"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0025",
+            "en": "The instant the little stick thing turned blue – the instant I know you were on your way –",
+            "ru_native": "Я – твоя мама. Вот кто я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У ту мить, коли маленька паличка стала синього кольору…<br>у ту мить, я вже знала, що коли ти з’явишся…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0026",
+            "en": "The second I knew I had to live up to – to you. To be something for you.",
+            "ru_native": "Но я знаю, что люблю тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У ту секунду я знала, що мушу жити… для тебе. Щоби бути чимось важливим для тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0027",
+            "en": "Okay, now – I tried to be a good mom in those… those moments with you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, сейчас - я старалась быть хорошей мамой в те... те моменты с тобой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я намагалася бути хорошою мамою в ті… ті моменти з тобою."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0028",
+            "en": "I tried, but… I was pretty much thrown into it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я пытался, но... меня практически бросили в это дело.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я намагалася, але… мене це дуже захопило."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0029",
+            "en": "Hey – you said yourself, you turned out okay. That’s – that must mean something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй - ты сам сказал, что у тебя все получилось. Это - должно что-то значить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ти сам сказав, що в тебе все гаразд. Це… це має щось означати."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0030",
+            "en": "Alright, Rex. C’mon… I’m already beaten, don’t make fun.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, Рекс. Давай... Я уже побежден, не смеши меня.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Рексе. Годі… мене вже відмутузили, не глузуй."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0031",
+            "en": "How, Rex? How exactly am I supposed to do that here?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как, Рекс? Как именно я должен это сделать здесь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як, Рексе? Як саме я маю це зробити?"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0032",
+            "en": "I can’t. Rex. I just can’t struggle like this anymore.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не могу. Рекс. Я просто не могу больше так бороться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу. Рексе. Я просто не можу більше боротися."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0033",
+            "en": "It’s… too hard, Rex. I can’t see a way out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... слишком тяжело, Рекс. Я не вижу выхода.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… надто важко, Рексе. Я не бачу виходу."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0034",
+            "en": "It’s… not what I want. It’s not enough.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... не то, чего я хочу. Этого недостаточно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… не те, що я хочу. Цього не достатньо."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0035",
+            "en": "Wait, stop, how is this going to really –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди, остановись, как это будет на самом деле -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекай, зупинися, як це насправді…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0036",
+            "en": "Wait, so I just say this and I –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди, так я просто говорю это и я -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекай, я просто кажу це і я…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0037",
+            "en": "Wait, stop, how is this going to really –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди, остановись, как это будет на самом деле -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекай, зупинися, як це насправді…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0038",
+            "en": "Rex, seriously, I can do this, okay – I just – I don’t need to –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Рекс, серьезно, я могу это сделать, хорошо - я просто - мне не нужно...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рексе, серйозно, я можу це зробити, гаразд… мені просто… мені не потрібно…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0039",
+            "en": "This is… this is dumb. I’m –",
+            "ru_native": "Это… это... dumb. I’m –",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це все тупо. Я…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0040",
+            "en": "No, Rex, I – I just don’t see how –…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, Рекс, я - я просто не понимаю, как...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Рексе, я… я просто не розумію, як…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0041",
+            "en": "I want… to just… live. For me. And for you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я хочу... просто... жить. Для себя. И для тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу… просто… жити. Для себе. І для тебе."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0042",
+            "en": "I want to be around. I need to be around for that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я хочу быть рядом. Для этого мне нужно быть рядом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу бути поруч. Для цього мені потрібно бути поруч."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0043",
+            "en": "I want- I- I want... to just... to see you. In real life.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я хочу... я... я хочу... просто... увидеть тебя. В реальной жизни.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу… просто… побачити тебе. Наочно."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0044",
+            "en": "I – I don’t know, Rex, I have no idea why –",
+            "ru_native": "I – Не знаю, Rex, Понятия не имею why –",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Я не знаю, Рексе, гадки не маю, чому…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0045",
+            "en": "You tell me, Rex. You tell me what I really –",
+            "ru_native": "Ты мне скажи, Rex. Ты мне скажи! что I really –",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ти мені скажи, Рексе. Це ти мені скажи, що насправді…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0046",
+            "en": "Wait, Rex –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди, Рекс -",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, Рексе…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0047",
+            "en": "Wait.. Wait, Rex! I –",
+            "ru_native": "Стоп. Рекс! I –",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, Рексе! Я…"
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0048",
+            "en": "I want… to just…do something. That matters.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я хочу... просто... сделать что-нибудь. Это имеет значение.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу… просто… робити щось. Щось, що має значення."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0049",
+            "en": "I need to do something that matters.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне нужно сделать что-то важное.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені необхідно робити те, що має значення."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0050",
+            "en": "I want… to just… to just see you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я хочу... просто... просто увидеть тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу… просто… бачитися з тобою."
+        },
+        {
+            "tag": "A3S5.OLDREX_RILEY_0051",
+            "en": "Even if it’s not going to be what I… hope it can be.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Даже если это не будет тем, чем я... надеюсь, что это может быть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть якщо це не буде те, що я… на що я сподіваюся."
+        }
+    ]
+}

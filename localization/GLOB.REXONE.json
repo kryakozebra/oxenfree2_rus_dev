@@ -1,0 +1,105 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.REXONE",
+    "entries": [
+        {
+            "tag": "GLOB.REXONE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.REXONE_CHOICE_0000_OPTION_0000",
+            "en": "Did you see a kid?",
+            "ru_native": "Ты видел ребенка?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти бачив дитину?"
+        },
+        {
+            "tag": "GLOB.REXONE_CHOICE_0000_OPTION_0001",
+            "en": "Are you okay?",
+            "ru_native": "Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти в порядку?"
+        },
+        {
+            "tag": "GLOB.REXONE_JACOB_0000",
+            "en": "[taking a breath] Oh, man, that was—brutal.",
+            "ru_native": "Вот это жесть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Переводить дух] О друже, то було жорстоко."
+        },
+        {
+            "tag": "GLOB.REXONE_JACOB_0001",
+            "en": "Uh… no? Pretty sure no?",
+            "ru_native": "Нет?.. Уверен, что нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні? упевнений, що ні?"
+        },
+        {
+            "tag": "GLOB.REXONE_JACOB_0002",
+            "en": "But I mean—it’s still pretty hazy? Maybe I did and I don’t remember? Sorry.",
+            "ru_native": "Но все как в тумане. Может, видел и не помню? Извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе ніби в тумані. Може й бачив, але не пам’ятаю. Вибач."
+        },
+        {
+            "tag": "GLOB.REXONE_JACOB_0003",
+            "en": "I am… processing.",
+            "ru_native": "Я... перевариваю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… обдумую."
+        },
+        {
+            "tag": "GLOB.REXONE_JACOB_0004",
+            "en": "Best I got for you.",
+            "ru_native": "Лучше не объяснить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще й не поясню."
+        },
+        {
+            "tag": "GLOB.REXONE_RILEY_0000",
+            "en": "Hey—uh—a minute ago there…",
+            "ru_native": "Слушай, минуту назад...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, хвилину тому…"
+        },
+        {
+            "tag": "GLOB.REXONE_RILEY_0001",
+            "en": "Did you see… a kid? Like 12? Maybe? Maybe younger?",
+            "ru_native": "Ты видел ребенка? Лет 12? Наверно. Или младше?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти бачив дитину? Років 12? Може… може молодше?"
+        },
+        {
+            "tag": "GLOB.REXONE_RILEY_0002",
+            "en": "Hey—uh—you okay?",
+            "ru_native": "Ты как, в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти?"
+        }
+    ]
+}

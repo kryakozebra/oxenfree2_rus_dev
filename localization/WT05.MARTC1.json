@@ -1,0 +1,411 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT05.MARTC1",
+    "entries": [
+        {
+            "tag": "WT05.MARTC1_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.MARTC1_CHOICE_0000_OPTION_0000",
+            "en": "Maria? You there?",
+            "ru_native": "Мария? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Ти там?"
+        },
+        {
+            "tag": "WT05.MARTC1_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.MARTC1_CHOICE_0001_OPTION_0000",
+            "en": "Any Olivia advice?",
+            "ru_native": "Есть совет по Оливии?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є поради щодо Олівії?"
+        },
+        {
+            "tag": "WT05.MARTC1_CHOICE_0001_OPTION_0001",
+            "en": "Thoughts on Parentage?",
+            "ru_native": "Что думаешь про «Наследие»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є думки щодо «Парентажу»?"
+        },
+        {
+            "tag": "WT05.MARTC1_CHOICE_0001_OPTION_0002",
+            "en": "Play some music.",
+            "ru_native": "Включи музыку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Увімкни музику."
+        },
+        {
+            "tag": "WT05.MARTC1_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT05.MARTC1_CHOICE_0002_OPTION_0000",
+            "en": "Don’t try at all.",
+            "ru_native": "Ничего не делай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого не роби."
+        },
+        {
+            "tag": "WT05.MARTC1_CHOICE_0002_OPTION_0001",
+            "en": "You’re better than him.",
+            "ru_native": "Он тебя не достоин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він тебе не гідний."
+        },
+        {
+            "tag": "WT05.MARTC1_CHOICE_0002_OPTION_0002",
+            "en": "Just ask him out.",
+            "ru_native": "Позови его на свидание.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поклич його на побачення."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0000",
+            "en": "Hey, hi, yes, I’m here. Hey. Sorry. I took some—Brad stopped by, and he had some…",
+            "ru_native": "Привет, да, я тут. Эй. Прости. Я немного... Брэд заходил и принес...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, так, я тут. Вибач. Я трохи… Бред заходив і приніс…"
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0001",
+            "en": "…some… vegetables. Some might call them herbs.",
+            "ru_native": "...немного… зелени. Точнее, травы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…трохи… зелені. Дехто називає це травою."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0002",
+            "en": "And so I’m going a little under the speed limit right now.",
+            "ru_native": "Так что я сейчас немного торможу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому я зараз трошки туплю."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0003",
+            "en": "But anyways, I’m here—how can I help you, Riley?",
+            "ru_native": "Но я все равно здесь... Чем могу помочь, Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я все одно тут… Чим можу допомогти, Райлі?"
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0004",
+            "en": "You always call at the perfect time.",
+            "ru_native": "Умеешь ты вовремя позвонить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Умієш ти вчасно набрати."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0005",
+            "en": "Right when I’m about to sit on the toilet.",
+            "ru_native": "Только я собралась присесть на унитаз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я якраз збиралася сісти на унітаз."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0006",
+            "en": "That is right when you decide to call.",
+            "ru_native": "И ты звонишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тут ти."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0007",
+            "en": "Thank you for that.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0008",
+            "en": "Oh that bitch? You just sobered me up with that one—great.",
+            "ru_native": "О, эта сука? Я прямо сразу протрезвела – отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, те стерво? Я аж протверезіла. Чудово."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0009",
+            "en": "Oh that thing? Praying to the moon died out in the Dark Ages, guys.",
+            "ru_native": "О, эта сука? Молиться на Луну – это ж Средневековье, народ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, те стверво? Молитися на Місяць — це ж Середньовіччя, народ."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0010",
+            "en": "It’s Olivia’s stupid—Violet and Charlie don’t believe in it at all.",
+            "ru_native": "Это Оливия дура, Вайолет и Чарли во все это не верят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця Олівія — дурепа. Вайолет і Чарлі в це все не вірять."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0011",
+            "en": "They deleted most of my playlists, okay?",
+            "ru_native": "Они удалили большую часть моих плейлистов, ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони видалили більшу частину моїх плейлистів, ясно?"
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0012",
+            "en": "It’s hard to find good pop songs not about screwing.",
+            "ru_native": "Трудно найти хорошую попсу не про трах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Важко знайти хорошу поп-музику не про перепихони."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0013",
+            "en": "I only started this cause of Charlie, anyway—",
+            "ru_native": "В любом случае, я это все затеяла из-за Чарли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі, я це все почала через Чарлі…"
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0014",
+            "en": "And thank you for this opportunity to rant, cause I have something on my mind.",
+            "ru_native": "И спасибо тебе за этот шанс выговориться, потому что у меня кое-что на уме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І дякую тобі за цей шанс поговорити, бо в мене є дещо на думці."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0015",
+            "en": "Can I be honest? Can I speak honestly?",
+            "ru_native": "Можно честно сказать, что я думаю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна чесно сказати? Можна?"
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0016",
+            "en": "Olivia sucks.",
+            "ru_native": "Оливия отстой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія — відстій."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0017",
+            "en": "Charlie has a thing for her—God knows why—and Violet will do anything she says.",
+            "ru_native": "Чарли любит ее – бог знает почему, а Вайолет сделает все, что она скажет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона подобається Чарлі — бозна чому — а Вайолет зробить усе, що вона скаже."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0018",
+            "en": "So, look, here’s… help me out—here’s my problem… Charlie is a great guy.",
+            "ru_native": "Так что слушай... выручай меня – проблема вот в чем... Чарли отличный парень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож слухай… Допоможи… Ось в чому проблема… Чарлі хороший хлопець."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0019",
+            "en": "How do I get him to stop looking at Olivia and start seeing me?",
+            "ru_native": "Как мне заставить его оторваться от Оливии и обратить внимание на меня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як мені змусити його забути Олівію та звернути увагу на мене?"
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0020",
+            "en": "This is a serious question.",
+            "ru_native": "Это серьезный вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це серйозне питання."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0021",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0022",
+            "en": "That’s… yeah. Don’t try at all. Minimalist. Thanks.",
+            "ru_native": "Это… да. Ничего не делай. Минимализм. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… так. Нічого не роби. Мінімалістично. Дякую."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0023",
+            "en": "I… that… yeah. Okay. I’m better. I like it. Good advice. Thanks.",
+            "ru_native": "Я... ага. Ладно. Он меня не достоин. Супер совет, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… ага. Гаразд. Він мене не гідний. Круто. Гарна порада. Дякую."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0024",
+            "en": "That’s… yeah. Ask him out. I forgot I’m talking to a fifty-year-old. Thanks.",
+            "ru_native": "Ага. Позвать на свидание. Я ж забыла, что тебе пятьдесят. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага. Покликати на побачення. Я ж забула, що говорю з п’ятидесятирічною. Дякую."
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0025",
+            "en": "Also… why is that red light on?",
+            "ru_native": "И еще... почему горит этот красный свет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ще… чому горить червоне світло?"
+        },
+        {
+            "tag": "WT05.MARTC1_MARIA_0026",
+            "en": "Ah! Crap—I’m on! Talk to you later, Rye!",
+            "ru_native": "Ах! Черт, иду! Поговорим позже, Рай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Дідько! Я в ефірі! Поговоримо пізніше, Рай!"
+        },
+        {
+            "tag": "WT05.MARTC1_RILEY_0000",
+            "en": "Hey, Maria? Are you there? Over.",
+            "ru_native": "Эй, Мария, ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Ти там? Прийом."
+        },
+        {
+            "tag": "WT05.MARTC1_RILEY_0001",
+            "en": "I need advice for how to deal with Olivia.",
+            "ru_native": "Мне нужен совет, что делать с Оливией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібна порада. Що робити з Олівією?"
+        },
+        {
+            "tag": "WT05.MARTC1_RILEY_0002",
+            "en": "What are your thoughts on Parentage?",
+            "ru_native": "Что думаешь про «Наследие»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є думки щодо «Парентажу»?"
+        },
+        {
+            "tag": "WT05.MARTC1_RILEY_0003",
+            "en": "Play some friggin’ music already. Over.",
+            "ru_native": "Включи уже чертову музыку. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Увімкни вже бісову музику. Прийом."
+        },
+        {
+            "tag": "WT05.MARTC1_RILEY_0004",
+            "en": "You want my advice? Don’t try at all. Really. Just… don’t do anything. Over.",
+            "ru_native": "Хочешь совет? Ничего не делать. Серьезно, вообще ничего. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш пораду? Нічого не роби. Серйозно, взагалі нічого. Прийом."
+        },
+        {
+            "tag": "WT05.MARTC1_RILEY_0005",
+            "en": "You want my advice? You’re better than him, Maria. You don’t need him. Just… know that. Over.",
+            "ru_native": "Хочешь совет? Он тебя не достоин, Мария. Он тебе не нужен. Просто… знай это. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш пораду? Він тебе не гідний, Маріє. Він тобі не потрібен. Просто знай. Прийом."
+        },
+        {
+            "tag": "WT05.MARTC1_RILEY_0006",
+            "en": "You want my advice? Just ask him out. If you want to try and make something out of it… start.",
+            "ru_native": "Хочешь совет? Позови его на свидание. Если хочешь<br>рискнуть и что-то начать... сделай первый шаг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш пораду? Поклич його на побачення. Якщо хочеш чогось… зроби перший крок."
+        },
+        {
+            "tag": "WT05.MARTC1_RILEY_0007",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        }
+    ]
+}

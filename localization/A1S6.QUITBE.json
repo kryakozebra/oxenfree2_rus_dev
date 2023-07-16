@@ -1,0 +1,114 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S6.QUITBE",
+    "entries": [
+        {
+            "tag": "A1S6.QUITBE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S6.QUITBE_CHOICE_0000_OPTION_0000",
+            "en": "Am I doing something wrong?",
+            "ru_native": "Я что-то делаю не так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба я роблю щось не так?"
+        },
+        {
+            "tag": "A1S6.QUITBE_CHOICE_0000_OPTION_0001",
+            "en": "Is this controlling… something?",
+            "ru_native": "Это что-то контролирует?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це щось… контролює?"
+        },
+        {
+            "tag": "A1S6.QUITBE_CHOICE_0000_OPTION_0002",
+            "en": "WORK!",
+            "ru_native": "РАБОТАЙ!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ПРАЦЮЙ!"
+        },
+        {
+            "tag": "A1S6.QUITBE_RILEY_0000",
+            "en": "Okay, I’m—I must be doing something wrong here.",
+            "ru_native": "Ладно, я... Я, наверное, делаю что-то не так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я… я роблю щось не так."
+        },
+        {
+            "tag": "A1S6.QUITBE_RILEY_0001",
+            "en": "I—think? Agh—this is too messed up.",
+            "ru_native": "Д-да? А-а-а. Все слишком запутано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю… А-а-а. Усе надто складно."
+        },
+        {
+            "tag": "A1S6.QUITBE_RILEY_0002",
+            "en": "Is this, like, controlling… some part of this?",
+            "ru_native": "Эта штука... частично управляет всем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця штука… типу, частково керує всім?"
+        },
+        {
+            "tag": "A1S6.QUITBE_RILEY_0003",
+            "en": "Gah, this is so frustrating.",
+            "ru_native": "Вот досада.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, це так засмучує."
+        },
+        {
+            "tag": "A1S6.QUITBE_RILEY_0004",
+            "en": "Just—work you stupid thing!",
+            "ru_native": "Работай, зараза!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Працюй, падлюко!"
+        },
+        {
+            "tag": "A1S6.QUITBE_RILEY_0005",
+            "en": "Just—do the thing—to work!",
+            "ru_native": "Работай, кому говорят!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Клята штукенція, до роботи!"
+        },
+        {
+            "tag": "A1S6.QUITBE_RILEY_0006",
+            "en": "Aghhhh, this is a nightmare!",
+            "ru_native": "А-а-а-, кошмар какой-то!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А-а-а, жах якийсь!"
+        },
+        {
+            "tag": "A1S6.QUITBE_RILEY_0007",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

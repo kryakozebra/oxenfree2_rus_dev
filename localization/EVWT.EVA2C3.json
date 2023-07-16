@@ -1,0 +1,159 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2C3",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2C3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2C3_CHOICE_0000_OPTION_0000",
+            "en": "Know anything about Charity Point?",
+            "ru_native": "Знаешь что-нибудь о Черити Поинт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі відомо що-небудь про Черіті-Пойнт?"
+        },
+        {
+            "tag": "EVWT.EVA2C3_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2C3_CHOICE_0001_OPTION_0000",
+            "en": "[JOKE] Get better at your job.",
+            "ru_native": "[Шутка] Работать надо лучше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ЖАРТ] Треба краще працювати."
+        },
+        {
+            "tag": "EVWT.EVA2C3_CHOICE_0001_OPTION_0001",
+            "en": "Okay, thanks anyway.",
+            "ru_native": "Ясно, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Усе одно дякую."
+        },
+        {
+            "tag": "EVWT.EVA2C3_EVELYN_0000",
+            "en": "Hi, Riley. I’m sorry, I don’t really know anything about Camena other than what we’ve been told.",
+            "ru_native": "Привет, Райли. Прости, о Камене я знаю только то, что мне рассказывали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Райлі. Шкода, я нічого не знаю про Камену окрім того, що нам уже розповіли."
+        },
+        {
+            "tag": "EVWT.EVA2C3_EVELYN_0001",
+            "en": "I’m not from around here.",
+            "ru_native": "Сама я не местная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не тутешня."
+        },
+        {
+            "tag": "EVWT.EVA2C3_EVELYN_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2C3_EVELYN_0003",
+            "en": "Hardy har har, okay, glad to see you’re still in such good spirits with everything going terrible tonight.",
+            "ru_native": "Ох ты ж! Рада, что ты все еще на позитиве после всего, что сегодня произошло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчуваю жарт. Приємно бачити, що ти перебуваєш у гарному гуморі,<br>зважаючи на те, що відбувається."
+        },
+        {
+            "tag": "EVWT.EVA2C3_EVELYN_0004",
+            "en": "Call me when you’ve placed the transmitter! Talk to you soon. Over and out.",
+            "ru_native": "Сообщи, как поставишь передатчик! До скорого! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повідом, коли встановиш радіопередавач! До зустрічі в ефірі! Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2C3_EVELYN_0005",
+            "en": "Gotta go, Riley, but call me when you get to the peak, Charity Point. Over and out.",
+            "ru_native": "Райли, мне пора. Сообщи, как доберешься до вершины Черити Поинт. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час іти, Райлі. Але повідом мені, коли<br>дістанешся вершини, Черіті-Пойнт. Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2C3_RILEY_0000",
+            "en": "Hey, uh, Evelyn? If you’re there, I’m wondering if you know anything about Charity Point?",
+            "ru_native": "Эй, Эвелин? Если ты там... Знаешь что-нибудь о Черити Поинт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін? Ти мене чуєш? Цікаво, тобі відомо що-небудь про Черіті-Пойнт?"
+        },
+        {
+            "tag": "EVWT.EVA2C3_RILEY_0001",
+            "en": "It’s where I’m headed next to place a transmitter. Over.",
+            "ru_native": "Я туда направляюсь, чтобы поставить передатчик. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я направляюся туди, щоби розмістити радіопередавач. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2C3_RILEY_0002",
+            "en": "You know what, Evelyn, I’m getting a little sick and tired of all these flubs.",
+            "ru_native": "Знаешь что, Эвелин. Мне начинает надоедать твой непрофессионализм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш що, Евелін. Мені вже набридли твої промахи."
+        },
+        {
+            "tag": "EVWT.EVA2C3_RILEY_0003",
+            "en": "Maybe with all this time nonsense happening you can go back to when you started and learn some crap first.",
+            "ru_native": "Советую воспользоваться временной аномалией, вернуться в прошлое и научиться работать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, тобі слід скористатися цим часовим безладом,<br>повернутися до початку й навчитися чому-небудь."
+        },
+        {
+            "tag": "EVWT.EVA2C3_RILEY_0004",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2C3_RILEY_0005",
+            "en": "Okay. [sigh] Thanks anyway. Over and out",
+            "ru_native": "Ясно. Все равно спасибо. Конец свези.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Усе одно дякую. Кінець зв’язку!"
+        }
+    ]
+}

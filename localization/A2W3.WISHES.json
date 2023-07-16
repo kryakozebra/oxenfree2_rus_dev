@@ -1,0 +1,609 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.WISHES",
+    "entries": [
+        {
+            "tag": "A2W3.WISHES_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0000_OPTION_0000",
+            "en": "Honey, it’s okay.",
+            "ru_native": "Милый, все нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Любий, усе гаразд."
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0000_OPTION_0001",
+            "en": "He’ll be okay now.",
+            "ru_native": "С ним все будет хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З ним усе буде добре."
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0000_OPTION_0002",
+            "en": "I know it’s hard now.",
+            "ru_native": "Понимаю, тебе тяжело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумію, тобі важко."
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0001_OPTION_0000",
+            "en": "Wouldn’t you miss me?",
+            "ru_native": "Разве ты не будешь по мне скучать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба ти не будеш за мною сумувати?"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0001_OPTION_0002",
+            "en": "You can’t be with him.",
+            "ru_native": "Ты не можешь быть с ним.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не можеш бути з ним."
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0002_OPTION_0000",
+            "en": "Stop!",
+            "ru_native": "Стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій!"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0002_OPTION_0001",
+            "en": "What are you doing?!",
+            "ru_native": "Что ты делаешь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти робиш?!"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0003_OPTION_0000",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0003_OPTION_0001",
+            "en": "Stay away from him!",
+            "ru_native": "Не подходи к нему!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не підходь до нього!"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0003_OPTION_0002",
+            "en": "This isn’t yours!",
+            "ru_native": "Это не твое!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не твоє!"
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0004_OPTION_0000",
+            "en": "Be strong.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Будь сильным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь сильним."
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0004_OPTION_0001",
+            "en": "Be realistic.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Будь реалистом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь реалістичним."
+        },
+        {
+            "tag": "A2W3.WISHES_CHOICE_0004_OPTION_0002",
+            "en": "Be here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Будь здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь тут."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0000",
+            "en": "I—I don’t like seeing him alone. I—can’t we—isn’t there a way to get him back?",
+            "ru_native": "Мне... мне не нравится, что он один. Мы можем как-нибудь его вернуть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені… не подобається, що він один. Ми… можемо його якось повернути?"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0001",
+            "en": "I don’t like seeing him out there.",
+            "ru_native": "Мне не нравится, что он там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені не подобається, що він там."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0002",
+            "en": "Maybe we… maybe I shouldn’t have done this.",
+            "ru_native": "Может... может, не стоило этого делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо… можливо, не варто було цього робити."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0003",
+            "en": "I don’t know, I don’t like it anymore.",
+            "ru_native": "Не знаю, мне это больше не нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, мені це більше не подобається."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0004",
+            "en": "No, I want to be with him.",
+            "ru_native": "Нет, я хочу быть с ним.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я хочу бути з ним."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0005",
+            "en": "I want to be with him.",
+            "ru_native": "Я хочу быть с ним.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу бути з ним."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0006",
+            "en": "I don’t want him to be alone.",
+            "ru_native": "Я не хочу оставлять его одного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хочу залишати його самого."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0007",
+            "en": "I wish I could go, too.",
+            "ru_native": "Я бы хотел к нему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б хотів піти з ним."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0008",
+            "en": "I wish I could be out there.",
+            "ru_native": "Вот бы мне к нему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б хотів піти з ним."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0009",
+            "en": "Damnit!",
+            "ru_native": "Черт!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько!"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0010",
+            "en": "*grunts of throwing efforts*",
+            "ru_native": "*натужно ворчит*",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "*невдоволено бурмоче*"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0011",
+            "en": "Damnit!",
+            "ru_native": "Черт!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько!"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0012",
+            "en": "I don’t want to see him! I don’t wanna—",
+            "ru_native": "Я не хочу его видеть! Я не хочу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хочу його бачити! Я не хочу…"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0013",
+            "en": "Mom!",
+            "ru_native": "Мама!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мамо!"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0014",
+            "en": "I—don’t want—",
+            "ru_native": "Я... не хочу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не хочу…"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0015",
+            "en": "I don’t want to see you. I want to… I want to… breathe again.",
+            "ru_native": "Я не хочу тебя видеть. Я хочу... хочу... снова дышать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хочу тебе бачити. Я хочу… хочу… знову дихати."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0016",
+            "en": "Just once. One more time. I want to breathe.",
+            "ru_native": "Всего раз. Еще раз. Я хочу дышать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усього разочок. Ще раз. Я хочу дихати."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0017",
+            "en": "We’ll burn it all... to live in what’s left.",
+            "ru_native": "Мы сожжем все... чтобы жить в том, что осталось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми спалимо все… щоби жити в тому, що лишилося."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0018",
+            "en": "Fair?",
+            "ru_native": "Честно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно?"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0019",
+            "en": "Agh, he’s moving so slowly.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Агх, он так медленно двигается.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, він так повільно рухається."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0020",
+            "en": "I’m not sorry I’m mad but…I wish I wasn’t, ya know–mad. He’s just going so slowly.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не извиняюсь за то, что злюсь, но... я хотел бы не быть, ну, знаешь, злым. Он просто идет так медленно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені не шкода, що я злюся, але… хотілося б, щоби, розумієш,<br>без люті. Він просто рухається так повільно."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0021",
+            "en": "I know I can’t punch every problem but…I really wish he was–going faster.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я знаю, что не могу пробить все проблемы, но... мне очень хочется, чтобы он был-быстрее.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що неможливо вирішити всі проблеми,<br>але… дуже хотілося, щоби він рухався швидше."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0022",
+            "en": "I’m sorry I’m getting mad, I’m–yeah, I’m sorry…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прости, что я начинаю злиться, я... да, прости...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода, що я злюся, я… так, мені шкода…"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0023",
+            "en": "I hope I die before you do. I don’t wanna see you like that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Надеюсь, я умру раньше тебя. Я не хочу видеть тебя в таком состоянии.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, я помру раніше за тебе. Я не хочу бачити тебе такою."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0024",
+            "en": "Please don’t die before I do.",
+            "ru_native": "Прошу не умереть before Я сделаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка не помирай раніше за мене."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0025",
+            "en": "Please just…",
+            "ru_native": "Пожалуйста just…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, просто…"
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0026",
+            "en": "Please don't.",
+            "ru_native": "Пожалуйста don't.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, не треба."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0027",
+            "en": "Or–don’t promise that, fine.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Или - не обещай этого, хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або не обіцяй, добре."
+        },
+        {
+            "tag": "A2W3.WISHES_REX_0028",
+            "en": "Hm. Okay…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм... Ладно...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0000",
+            "en": "Honey, it’s gonna be okay.",
+            "ru_native": "Милый, все будет в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Любий, усе буде гаразд."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0001",
+            "en": "He’s—Louis has everything he needs, now.",
+            "ru_native": "У него... у Луиса есть все, что нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нього… у Луїса є все, що йому потрібно."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0002",
+            "en": "Sweetheart, I know it’s hard right now, but—",
+            "ru_native": "Дорогой, понимаю, тебе тяжело, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сонце, я розумію, тобі важко, але…"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0003",
+            "en": "Hey, kiddo. C’mon. You want to be with him? Wouldn’t you miss me?",
+            "ru_native": "Эй, малыш. Ну ты чего. Хочешь к нему? А как же я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, малюче, ти чого? Хочеш до нього? А як же я?"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0004",
+            "en": "…Rex?",
+            "ru_native": "...Рекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Рексе?"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0005",
+            "en": "Hey, kiddo. C’mon. You want to go with Louis? Wouldn’t you miss our Sundays? Pancakes?",
+            "ru_native": "Эй, малыш. Ты чего. Хочешь к Луису? Не будешь скучать по нашим выходным? По блинчикам?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Малюче, ти чого? Хочеш до Луїса? Не будеш сумувати за нашими неділями? За млинцями?"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0006",
+            "en": "I’m sorry, but kiddo, c’mon. You can’t be with him. And that’s alright.",
+            "ru_native": "Прости, малыш. Ты не можешь быть с ним. И это нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, сонце, але ти не можеш бути з ним. І це нормально."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0007",
+            "en": "No! Stop that!",
+            "ru_native": "Нет! Прекрати!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Припини!"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0008",
+            "en": "Hey, what are you doing?!",
+            "ru_native": "Эй, что ты делаешь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти робиш?!"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0009",
+            "en": "What? What are you—",
+            "ru_native": "Что? Что ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Що ти…"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0010",
+            "en": "Get away from him!",
+            "ru_native": "Отойди от него!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди від нього!"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0011",
+            "en": "No! This isn’t yours to take!",
+            "ru_native": "Нет! Это не твое!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Це не твоє!"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0012",
+            "en": "Nobody talks about how scary funerals can be, huh?",
+            "ru_native": "Милый, все будет в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніхто не розповість про те, якими страшними можуть бути похорони, так?"
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0013",
+            "en": "This is nothing, kiddo. There’s gonna be much worse funerals. You gotta–get used to it.",
+            "ru_native": "У него... у Луиса есть все, что нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це нічого, дитинко. Будуть набагато гірші похорони. Треба звикати до цього."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0014",
+            "en": "Don’t look away.",
+            "ru_native": "Дорогой, понимаю, тебе тяжело, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не відвертайся."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0015",
+            "en": "Any other day, kiddo, I’d tell you you’re being foolish.",
+            "ru_native": "Эй, малыш. Ну ты чего. Хочешь к нему? А как же я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У будь-який інший день, дитинко, мені б видалося, що ти поводишся безглуздо."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0016",
+            "en": "But today I’m gonna tell you that you need to be more realistic.",
+            "ru_native": "...Рекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але сьогодні я скажу, що потрібно бути більш реалістичними."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0017",
+            "en": "I can’t make that kind of promise. No one can. No one will.",
+            "ru_native": "Эй, малыш. Ты чего. Хочешь к Луису? Не будешь скучать по нашим выходным? По блинчикам?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу дати такої обіцянки. Ніхто не може. Ніхто не дасть."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0018",
+            "en": "Get out of tomorrow.",
+            "ru_native": "Прости, малыш. Ты не можешь быть с ним. И это нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їдь звідси завтра."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0019",
+            "en": "Just be here, kiddo.",
+            "ru_native": "Нет! Прекрати!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто залишайся тут, дитинко."
+        },
+        {
+            "tag": "A2W3.WISHES_SOCIALRILEY_0020",
+            "en": "Just be here.",
+            "ru_native": "Эй, что ты делаешь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто залишайся."
+        }
+    ]
+}

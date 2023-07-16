@@ -1,0 +1,141 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.RILCAT",
+    "entries": [
+        {
+            "tag": "A2V3.RILCAT_CHARLIE_0000",
+            "en": "Ugh, what happened?",
+            "ru_native": "Что произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що сталося?"
+        },
+        {
+            "tag": "A2V3.RILCAT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.RILCAT_CHOICE_0000_OPTION_0000",
+            "en": "Never better.",
+            "ru_native": "Лучше всех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще не буває."
+        },
+        {
+            "tag": "A2V3.RILCAT_CHOICE_0000_OPTION_0001",
+            "en": "I feel worse than I look.",
+            "ru_native": "Хуже, чем выгляжу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Почуваюся гірше, ніж виглядаю."
+        },
+        {
+            "tag": "A2V3.RILCAT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.RILCAT_CHOICE_0001_OPTION_0000",
+            "en": "Never better.",
+            "ru_native": "Лучше всех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще не буває."
+        },
+        {
+            "tag": "A2V3.RILCAT_CHOICE_0001_OPTION_0001",
+            "en": "I… missed the first time.",
+            "ru_native": "Первый раз пропустила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… пропустила перший раз."
+        },
+        {
+            "tag": "A2V3.RILCAT_JACOB_0000",
+            "en": "Riley! You okay?",
+            "ru_native": "Райли! Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! З тобою все гаразд?"
+        },
+        {
+            "tag": "A2V3.RILCAT_JACOB_0001",
+            "en": "Ya, I’m taking that as a, \"I’m alive but I don’t want to talk about it!\"",
+            "ru_native": "Полагаю, это значит: «Я жива, но не хочу об этом говорить».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, це означає: «Я жива, просто не хочу говорити про це»."
+        },
+        {
+            "tag": "A2V3.RILCAT_RILEY_0000",
+            "en": "[grunts]",
+            "ru_native": "[ID-0]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ох]"
+        },
+        {
+            "tag": "A2V3.RILCAT_RILEY_0001",
+            "en": "Ugh, never better.",
+            "ru_native": "Лучше всех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, краще не буває."
+        },
+        {
+            "tag": "A2V3.RILCAT_RILEY_0002",
+            "en": "Ugh, I’m a little, uh, worse for the wear.",
+            "ru_native": "Немного потрепалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, я… трохи виснажена."
+        },
+        {
+            "tag": "A2V3.RILCAT_RILEY_0003",
+            "en": "Ah, my wrists aren’t happy with me, I can tell you that much.",
+            "ru_native": "Запястья явно не довольны хозяйкой, это уж точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мої руки точно мною не задоволені. Це все, що я можу сказати."
+        },
+        {
+            "tag": "A2V3.RILCAT_RILEY_0004",
+            "en": "I, uh, missed the first time… thank you, weird time crap.",
+            "ru_native": "Я первый раз пропустила. Дурацкая временная чушь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я, гм, пропустила перший раз… Бісова часова дурня."
+        },
+        {
+            "tag": "A2V3.RILCAT_VIOLET_0000",
+            "en": "We’re… sideways.",
+            "ru_native": "Мы... на боку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… на боці."
+        }
+    ]
+}

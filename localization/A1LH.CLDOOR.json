@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1LH.CLDOOR",
+    "entries": [
+        {
+            "tag": "A1LH.CLDOOR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.CLDOOR_CHOICE_0000_OPTION_0000",
+            "en": "Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "A1LH.CLDOOR_CHOICE_0000_OPTION_0001",
+            "en": "Not funny.",
+            "ru_native": "Не смешно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не смішно."
+        },
+        {
+            "tag": "A1LH.CLDOOR_JACOB_0000",
+            "en": "Thank you.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A1LH.CLDOOR_JACOB_0001",
+            "en": "Jesus!",
+            "ru_native": "Боже!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи!"
+        },
+        {
+            "tag": "A1LH.CLDOOR_JACOB_0002",
+            "en": "Not your fault.",
+            "ru_native": "Да ты не виновата.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не твоя провина."
+        },
+        {
+            "tag": "A1LH.CLDOOR_RILEY_0000",
+            "en": "That’s enough of that.",
+            "ru_native": "Все, хватит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить."
+        },
+        {
+            "tag": "A1LH.CLDOOR_RILEY_0001",
+            "en": "Uh, sorry.",
+            "ru_native": "Ой, прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… вибач."
+        },
+        {
+            "tag": "A1LH.CLDOOR_RILEY_0002",
+            "en": "Not funny, wind.",
+            "ru_native": "Ничего смешного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не смішно, вітер."
+        }
+    ]
+}

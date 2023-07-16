@@ -1,0 +1,852 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1JC.JACLOO",
+    "entries": [
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0000_OPTION_0000",
+            "en": "Brother’s a twin?",
+            "ru_native": "Вы близнецы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Брат — близнюк?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0000_OPTION_0001",
+            "en": "Do you only eat pizza?",
+            "ru_native": "Одной пиццей питаешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти їси лише піцу?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0000_OPTION_0003",
+            "en": "You got a phone call.",
+            "ru_native": "Тебе звонили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі телефонували."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0001_OPTION_0000",
+            "en": "I really couldn’t tell.",
+            "ru_native": "Сложно сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Важко сказати."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0001_OPTION_0001",
+            "en": "Something about being late?",
+            "ru_native": "Что-то про опоздание?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось про те, що вже пізно?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0001_OPTION_0002",
+            "en": "Kind of creepy, really.",
+            "ru_native": "Жутковато было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи моторошний, насправді."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0002_OPTION_0000",
+            "en": "Cool.",
+            "ru_native": "Круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0002_OPTION_0001",
+            "en": "Odd.",
+            "ru_native": "Странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0002_OPTION_0002",
+            "en": "Cool and odd.",
+            "ru_native": "Круто и странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто й дивно."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0003_OPTION_0000",
+            "en": "Brother’s a twin?",
+            "ru_native": "Вы близнецы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Брат — близнюк?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0003_OPTION_0001",
+            "en": "Do you only eat pizza?",
+            "ru_native": "Одной пиццей питаешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти їси лише піцу?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0003_OPTION_0002",
+            "en": "I got a weird phone call.",
+            "ru_native": "Странный звонок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі був дивний дзвінок."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0004_OPTION_0003",
+            "en": "You got a phone call.",
+            "ru_native": "Тебе звонили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі телефонували."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0004_OPTION_0004",
+            "en": "What are all these?",
+            "ru_native": "Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за речі?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0005_OPTION_0000",
+            "en": "Brother’s a twin?",
+            "ru_native": "Вы близнецы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Брат — близнюк?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0005_OPTION_0001",
+            "en": "You got a phone call.",
+            "ru_native": "Тебе звонили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі телефонували."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0005_OPTION_0003",
+            "en": "What are all these?",
+            "ru_native": "Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за речі?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0006_OPTION_0000",
+            "en": "Brother’s a twin?",
+            "ru_native": "Вы близнецы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Брат — близнюк?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0006_OPTION_0001",
+            "en": "I got a weird phone call.",
+            "ru_native": "Странный звонок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене був дивний телефонний дзвінок."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0006_OPTION_0002",
+            "en": "What are all these?",
+            "ru_native": "Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за речі?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0007_OPTION_0001",
+            "en": "Do you only eat pizza?",
+            "ru_native": "Одной пиццей питаешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти їси лише піцу?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0007_OPTION_0002",
+            "en": "I got a weird phone call.",
+            "ru_native": "Странный звонок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі був дивний дзвінок."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0007_OPTION_0004",
+            "en": "What are all these?",
+            "ru_native": "Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за речі?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0008_OPTION_0001",
+            "en": "Do you only eat pizza?",
+            "ru_native": "Одной пиццей питаешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти їси лише піцу?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0008_OPTION_0003",
+            "en": "You got a phone call.",
+            "ru_native": "Тебе звонили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі телефонували."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0008_OPTION_0004",
+            "en": "What are all these?",
+            "ru_native": "Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за речі?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0009",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0009_OPTION_0000",
+            "en": "Brother’s a twin?",
+            "ru_native": "Вы близнецы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Брат — близнюк?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0009_OPTION_0001",
+            "en": "Do you only eat pizza?",
+            "ru_native": "Одной пиццей питаешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти їси лише піцу?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0009_OPTION_0002",
+            "en": "I got a weird phone call.",
+            "ru_native": "Странный звонок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі був дивний дзвінок."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0009_OPTION_0003",
+            "en": "You got a phone call.",
+            "ru_native": "Тебе звонили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі телефонували."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0009_OPTION_0004",
+            "en": "What are all these?",
+            "ru_native": "Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за речі?"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0010",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0010_OPTION_0002",
+            "en": "I got a weird phone call.",
+            "ru_native": "Странный звонок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі був дивний дзвінок."
+        },
+        {
+            "tag": "A1JC.JACLOO_CHOICE_0010_OPTION_0004",
+            "en": "What are all these?",
+            "ru_native": "Что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це за речі?"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0000",
+            "en": "I know it’s in here.",
+            "ru_native": "Она где-то здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що це тут."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0001",
+            "en": "Just—h-hang on.",
+            "ru_native": "Подожди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто... почекай."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0002",
+            "en": "Yeah, Pete he’s uh—",
+            "ru_native": "Да, это Пит. Он...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, Піт, він…"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0003",
+            "en": "He’s in New York these days.",
+            "ru_native": "Он сейчас в Нью-Йорке. Городе, не штате.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він зараз у Нью-Йорку."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0004",
+            "en": "Well, okay, yes state, but you know what I mean.",
+            "ru_native": "Ну, технически и в штате, но ты меня поняла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, штаті. Але ти знаєш, що я маю на увазі."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0005",
+            "en": "He hated it out here. Dude was pure allergies. Headed east and never looked back.",
+            "ru_native": "Он ненавидел это место. У него букет аллергий был. Уехал на восток не задумываясь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йому тут зовсім не подобалося. Зненавидів усе. Подався на схід і так і не повернувся."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0006",
+            "en": "He has a family now, his wife sends cards.",
+            "ru_native": "У него там семья, жена открытки шлет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер у нього сім’я. Його дружина надсилає картки."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0007",
+            "en": "Um… n-no.",
+            "ru_native": "Эм... нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е… н-ні."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0008",
+            "en": "I really thought about lying there, but the evidence is pretty damning.",
+            "ru_native": "Я сейчас очень хотел соврать, но все улики против меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я подумав збрехати, але докази занадто очевидні."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0009",
+            "en": "Oh really? What’d they say?",
+            "ru_native": "Да? Что сказали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правда? І що сказали?"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0010",
+            "en": "Or was it just like a recording or something?",
+            "ru_native": "Или там была запись какая-то?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи то був запис, чи щось таке?"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0011",
+            "en": "You won a boat, just send us five thousand dollars! [laughs]",
+            "ru_native": "Вы выиграли яхту, с вас пять тысяч долларов!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви виграли човен. Щоб отримати його потрібно лише надіслати нам п’ять тисяч доларів! [сміється]"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0012",
+            "en": "Maybe a wrong number. A wrong drunk number.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, ошибся номером. Неправильный пьяный номер.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0013",
+            "en": "Huh—kinda late to get a call but okay.",
+            "ru_native": "Хм... Поздновато для звонков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи пізно для телефонних дзвінків, але нічого."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0014",
+            "en": "It’s been at least an allergy season since I cleared out my answering machine, so that one’s lost to the ages.",
+            "ru_native": "Я как минимум один сезон аллергий не чистил<br>автоответчик, так что этот звонок утерян навсегда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після видалення повідомлення з автовідповідача минув принаймні один сезон алергії.<br>Тож воно втрачено назавжди."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0015",
+            "en": "Uh, something to pass the time.",
+            "ru_native": "Да так, способ убить время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… просто треба чимось займатися."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0016",
+            "en": "Things pop into my head and I turn ‘em into the uh—the menagerie here.",
+            "ru_native": "В голову приходят всякие штуки, и я воплощаю их в эдаком... зверинце.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У моїй голові виникають різні ідеї, і я перетворюю їх на всяку всячину."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0017",
+            "en": "There’s no lack of abandoned junk in this town.",
+            "ru_native": "В городе полно всякого хлама.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У цьому місті повно покинутого мотлоху."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0018",
+            "en": "I lug it home and make it pretty.",
+            "ru_native": "Я из него делаю конфетку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я приношу його додому і створюю красу."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0019",
+            "en": "At least—<i>I</i> think they’re pretty.",
+            "ru_native": "Ну... Как мне кажется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, мені так здається."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0020",
+            "en": "Hey, thanks. It’s my knitting, ya know?",
+            "ru_native": "Спасибо. Мое вязание, так сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую. Я сам в’язав. Уявляєш?"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0021",
+            "en": "Only a little?",
+            "ru_native": "Всего чуток?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи?"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0022",
+            "en": "I think that’s part of the charm.",
+            "ru_native": "Полагаю, это часть очарования.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тому й весь сенс."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0023",
+            "en": "My two complimentary colors.",
+            "ru_native": "Идеальное сочетание.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дві мої характерні риси."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0024",
+            "en": "I dunno, some folks hit the gym, some folks knit, I weld.",
+            "ru_native": "Не знаю, кто-то качается, кто-то вяжет, я вот паяю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну не знаю. Хтось ходить у спортзал. Хтось в’яже. Я займаюся зваркою."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0025",
+            "en": "Works for me.",
+            "ru_native": "Мне нравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені подобається."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0026",
+            "en": "I—yeah—it’s weird, I know. But uh—",
+            "ru_native": "Я... я знаю, странно это. Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дивно. Я знаю. Проте…"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0027",
+            "en": "Oh, wait, hang on.",
+            "ru_native": "Точно, погоди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, слухай…"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0028",
+            "en": "Bingo.",
+            "ru_native": "Бинго.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У точку!"
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0029",
+            "en": "Working, that’s good, we don’t have five hundred years to find wherever I stored batteries.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Работает, это хорошо, у нас нет пятисот лет, чтобы найти, где бы я ни хранил батарейки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0030",
+            "en": "Here you go.",
+            "ru_native": "Держи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тримай."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0031",
+            "en": "Huh. Well. [quieter] Probably a wrong number.",
+            "ru_native": "Хм. Ну. (чуть тише) Наверное, номером ошиблись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Дивно. [Говорить тихіше] Мабуть, помилилися номером."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0032",
+            "en": "Making something tricks your brain, in a way, into thinking you’re capable of a lasting impression.",
+            "ru_native": "Когда что-то делаешь, возникает ложное ощущение, что можешь кого-то поразить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли щось робиш, мозок вважає, що ти можеш залишити тривале враження."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0033",
+            "en": "Alright, got one here… and… I think there’s… one more.",
+            "ru_native": "Ладно, одна есть... и... еще одна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, одна рація є… і… гадаю, ще одна."
+        },
+        {
+            "tag": "A1JC.JACLOO_JACOB_0034",
+            "en": "Yeah. Here. Perfect. Be thankful I didn’t have to find the batteries.",
+            "ru_native": "Да. Вот, супер. Скажи спасибо, что батарейки не пришлось искать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Ось. Супер. Добре, що не довелося шукати акумулятори."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0000",
+            "en": "Your, uh, brother’s a twin, right?",
+            "ru_native": "Так вы с братом близнецы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твій брат — близнюк, правильно?"
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0001",
+            "en": "I saw a picture of you and uh—another you.",
+            "ru_native": "Я видела фото тебя с... тобой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила фото тебе… і ще одного тебе."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0002",
+            "en": "So do you eat anything other than pizza?",
+            "ru_native": "Ты кроме пиццы что-нибудь ешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти їси що-небудь, окрім піци?"
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0003",
+            "en": "You got a really weird phone call a minute ago.",
+            "ru_native": "Тебе звонили. Кто-то очень странный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі надійшов справді дивний телефонний дзвінок хвилину тому."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0004",
+            "en": "If it was a prank, I definitely didn’t get the joke.",
+            "ru_native": "Если это розыгрыш, то шутки я не поняла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо то був жарт, я точно не зрозуміла його."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0005",
+            "en": "Couldn’t tell you. The voice was weird, the words were weirder.",
+            "ru_native": "Сложно сказать. Голос странный, а слова еще страннее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу сказати. Голос був дивним, а слова — ще більш дивними."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0006",
+            "en": "Didn’t really make sense.",
+            "ru_native": "Бессмыслица какая-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жодного сенсу."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0007",
+            "en": "They were worried about being late? I dunno, it was weird.",
+            "ru_native": "Они не хотели опаздывать? Не знаю, странно было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там хвилювалися про те, що вже пізно? Не знаю, дивно якось."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0008",
+            "en": "Eh, it was kind of… creepy, to be honest. It’s hard to even say why.",
+            "ru_native": "Было... жутковато, если честно. Даже не знаю, почему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, було моторошно, якщо чесно. Навіть важко сказати, чому."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0009",
+            "en": "You got a phone call as I was heading down here.",
+            "ru_native": "Тебе звонили, когда я спускалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли я йшла сюди, тобі зателефонували."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0010",
+            "en": "I didn’t answer.",
+            "ru_native": "Я не ответила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не відповіла."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0011",
+            "en": "So what exactly are all these uh—sculptures?",
+            "ru_native": "Что это за... скульптуры?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, що саме це за… скульптури?"
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0012",
+            "en": "They’re, uh, cool. And eco-friendly.",
+            "ru_native": "Они классные. И природе не вредят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони… ем… круті. Й екологічно чисті."
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0013",
+            "en": "Little weird, dont’cha think?",
+            "ru_native": "Чуток странно, не находишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи дивно, як гадаєш?"
+        },
+        {
+            "tag": "A1JC.JACLOO_RILEY_0014",
+            "en": "Very cool. And very weird.",
+            "ru_native": "Очень круто. И очень странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже круто. І дуже дивно."
+        }
+    ]
+}

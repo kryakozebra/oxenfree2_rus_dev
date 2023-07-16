@@ -1,0 +1,231 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1LH.INSKIT",
+    "entries": [
+        {
+            "tag": "A1LH.INSKIT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.INSKIT_CHOICE_0000_OPTION_0000",
+            "en": "What magazines do you read?",
+            "ru_native": "Что за журналы ты читаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Які журнали читаєш?"
+        },
+        {
+            "tag": "A1LH.INSKIT_CHOICE_0000_OPTION_0001",
+            "en": "Make some coffee.",
+            "ru_native": "Свари кофе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Приготуй каву."
+        },
+        {
+            "tag": "A1LH.INSKIT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.INSKIT_CHOICE_0001_OPTION_0000",
+            "en": "Perfect.",
+            "ru_native": "Идеально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово."
+        },
+        {
+            "tag": "A1LH.INSKIT_CHOICE_0001_OPTION_0001",
+            "en": "Hold the mold.",
+            "ru_native": "Без плесени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Плісняву не клади."
+        },
+        {
+            "tag": "A1LH.INSKIT_CHOICE_0001_OPTION_0002",
+            "en": "Extra mold, extra crickets.",
+            "ru_native": "Всего и побольше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Додаткову порцію плісняви, додаткову порцію коників."
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0000",
+            "en": "Well—depends on the magazine.",
+            "ru_native": "Зависит от журнала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… дивлячись, із якого журналу."
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0001",
+            "en": "To be fair.",
+            "ru_native": "Так-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правду кажучи."
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0002",
+            "en": "N-none? Just pointing out the fact.",
+            "ru_native": "Н-никакие? Просто констатировал факт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жодних. Просто вказую на факт."
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0003",
+            "en": "Do they even make magazines anymore?",
+            "ru_native": "Сейчас вообще еще выпускают журналы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз узагалі журнали випускають?"
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0004",
+            "en": "Just don’t breathe in too deep.",
+            "ru_native": "Старайся не дышать глубоко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки не вдихай надто глибоко."
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0005",
+            "en": "Oh yeah, sure, how do you take it? Mold and dead crickets?",
+            "ru_native": "Конечно. Ты какой любишь? С плесенью и сверчками?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звісно. Як саме? З плісняви й дохлих коників?"
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0006",
+            "en": "Light on the mold, heavy on the crickets—?",
+            "ru_native": "Плесени поменьше, сверчков побольше?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поменше плісняви, побільше коників?"
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0007",
+            "en": "‘Cause if so, gotcha covered.",
+            "ru_native": "Если да, то ты по адресу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо так, покладись на мене."
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0008",
+            "en": "Coming right up.",
+            "ru_native": "Сию минуту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буде готово за мить."
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0009",
+            "en": "[chuckles] I’m trying to cut back myself.",
+            "ru_native": "Понимаю, я тоже на диете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сам намагаюся класти менше."
+        },
+        {
+            "tag": "A1LH.INSKIT_JACOB_0010",
+            "en": "[laughing] Watch out for this wildcat.",
+            "ru_native": "А ты рисковая девушка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стережися цієї дикої кішки."
+        },
+        {
+            "tag": "A1LH.INSKIT_RILEY_0000",
+            "en": "Not exactly out of a magazine.",
+            "ru_native": "Явно не с обложки журнала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не схоже на фото з журналу."
+        },
+        {
+            "tag": "A1LH.INSKIT_RILEY_0001",
+            "en": "Uh—what magazines do you read?",
+            "ru_native": "Какие журналы ты читаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… які журнали читаєш?"
+        },
+        {
+            "tag": "A1LH.INSKIT_RILEY_0002",
+            "en": "Still got a coffee maker. Wanna make us a pot?",
+            "ru_native": "Кофеварка на месте. Сваришь по чашечке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є кавова машина. Хочеш, зварю?"
+        },
+        {
+            "tag": "A1LH.INSKIT_RILEY_0003",
+            "en": "Just how I like it.",
+            "ru_native": "Все как я люблю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Саме те, що я люблю."
+        },
+        {
+            "tag": "A1LH.INSKIT_RILEY_0004",
+            "en": "Actually, hold the mold if you don’t mind?",
+            "ru_native": "Вообще давай-ка без плесени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, краще без плісняви."
+        },
+        {
+            "tag": "A1LH.INSKIT_RILEY_0005",
+            "en": "Oh, let’s be bad.",
+            "ru_native": "Эх, была не была.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, гуляти — так гуляти."
+        },
+        {
+            "tag": "A1LH.INSKIT_RILEY_0006",
+            "en": "Double mold, double crickets.",
+            "ru_native": "Двойную порцию всего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подвійну порцію плісняви, подвійну порцію коників."
+        }
+    ]
+}

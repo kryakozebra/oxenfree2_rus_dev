@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.HIGARA",
+    "entries": [
+        {
+            "tag": "A2C4.HIGARA_JACOB_0000",
+            "en": "Lead the way.",
+            "ru_native": "Ты первая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я за тобою."
+        },
+        {
+            "tag": "A2C4.HIGARA_RILEY_0000",
+            "en": "Oh, hey, check it out. We can probably climb down this.",
+            "ru_native": "Смотри-ка. Мы можем тут спуститься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, глянь-но. Схоже, що тут можна спуститися."
+        },
+        {
+            "tag": "A2C4.HIGARA_RILEY_0001",
+            "en": "Ooh, didn’t see it at first.",
+            "ru_native": "Сначала не заметила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оу, а я й не помітила спочатку."
+        }
+    ]
+}

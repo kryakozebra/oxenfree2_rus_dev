@@ -1,0 +1,96 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G4.HEADDO",
+    "entries": [
+        {
+            "tag": "A2G4.HEADDO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G4.HEADDO_CHOICE_0000_OPTION_0000",
+            "en": "I’m coming down!",
+            "ru_native": "Спускаюсь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спускаюсь!"
+        },
+        {
+            "tag": "A2G4.HEADDO_CHOICE_0000_OPTION_0001",
+            "en": "Don’t be dead!",
+            "ru_native": "Не умирай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не вмирай!"
+        },
+        {
+            "tag": "A2G4.HEADDO_CHOICE_0000_OPTION_0002",
+            "en": "If this is a prank…",
+            "ru_native": "Если это розыгрыш...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це розіграш…"
+        },
+        {
+            "tag": "A2G4.HEADDO_RILEY_0000",
+            "en": "Jacob, I’m coming down, okay? Won’t take—won’t take two seconds.",
+            "ru_native": "Джейкоб, я спускаюсь, ладно? Буду через пару минут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, я спускаюся, гаразд? Скоро... скоро буду."
+        },
+        {
+            "tag": "A2G4.HEADDO_RILEY_0001",
+            "en": "Hey, d-don’t be dead, okay? Please?",
+            "ru_native": "Эй, не умирай там, ладно? Хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, не вмирай там, гаразд? Добре?"
+        },
+        {
+            "tag": "A2G4.HEADDO_RILEY_0002",
+            "en": "Please don’t be dead.",
+            "ru_native": "Пожалуйста, не умирай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, не вмирай там."
+        },
+        {
+            "tag": "A2G4.HEADDO_RILEY_0003",
+            "en": "Jacob Summers! I swear to God, if this is a prank…",
+            "ru_native": "Джейкоб Саммерс! Клянусь богом, если это шутка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе Саммерс! Клянуся Богом, якщо це жарт…"
+        },
+        {
+            "tag": "A2G4.HEADDO_RILEY_0004",
+            "en": "I’ll drag you back up here and drop you back in. So. Be aware of that.",
+            "ru_native": "Я затащу тебя наверх и сброшу. Не сомневайся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я затягну тебе нагору і скину. Не сумнівайся."
+        },
+        {
+            "tag": "A2G4.HEADDO_RILEY_0005",
+            "en": "You’ve been warned.",
+            "ru_native": "Я предупредила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я попередила."
+        }
+    ]
+}

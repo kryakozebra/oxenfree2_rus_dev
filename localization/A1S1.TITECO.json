@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.TITECO",
+    "entries": [
+        {
+            "tag": "A1S1.TITECO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.TITECO_CHOICE_0000_OPTION_0000",
+            "en": "What is happening…",
+            "ru_native": "Что происходит?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається…"
+        },
+        {
+            "tag": "A1S1.TITECO_CHOICE_0000_OPTION_0001",
+            "en": "Okay…",
+            "ru_native": "Ладно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд…"
+        },
+        {
+            "tag": "A1S1.TITECO_RILEY_0000",
+            "en": "Jesus, what is happening… what is this?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Господи, что происходит... что это такое?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.TITECO_RILEY_0001",
+            "en": "Uh, okay…?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э-э, хорошо...?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

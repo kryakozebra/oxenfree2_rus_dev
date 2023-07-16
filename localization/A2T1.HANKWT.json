@@ -1,0 +1,249 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.HANKWT",
+    "entries": [
+        {
+            "tag": "A2T1.HANKWT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.HANKWT_CHOICE_0000_OPTION_0000",
+            "en": "Hank? You around?",
+            "ru_native": "Хэнк? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, ти десь там?"
+        },
+        {
+            "tag": "A2T1.HANKWT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.HANKWT_CHOICE_0001_OPTION_0000",
+            "en": "Got any transmitters?",
+            "ru_native": "Есть передатчик?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маєш радіопередавач?"
+        },
+        {
+            "tag": "A2T1.HANKWT_CHOICE_0001_OPTION_0001",
+            "en": "Know how to fix a transmitter?",
+            "ru_native": "Умеешь чинить передатчики?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Умієш ремонтувати радіопередавачі?"
+        },
+        {
+            "tag": "A2T1.HANKWT_CHOICE_0001_OPTION_0002",
+            "en": "Just checking in!",
+            "ru_native": "Хотела поболтать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто перевірка зв’язку."
+        },
+        {
+            "tag": "A2T1.HANKWT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.HANKWT_CHOICE_0002_OPTION_0000",
+            "en": "Great.",
+            "ru_native": "Отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово."
+        },
+        {
+            "tag": "A2T1.HANKWT_CHOICE_0002_OPTION_0001",
+            "en": "Thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0000",
+            "en": "[WT] Yes. What is it?",
+            "ru_native": "Да. Что такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Що таке?"
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0001",
+            "en": "[WT] I’m a little preoccupied at the moment with other work.",
+            "ru_native": "Я сейчас слегка занят другим проектом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зараз трохи зайнятий іншою справою."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0002",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0003",
+            "en": "[WT] Oh, no, none at the moment. Those things are pretty fragile.",
+            "ru_native": "Нет, у меня пусто. Эти штуки очень ненадежные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, у мене зайвого немає. Ці штуки дуже крихкі."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0004",
+            "en": "[WT] Oh, no, they can’t really be fixed. They’re incredibly fragile.",
+            "ru_native": "Починить их никак нельзя. Они жутко хлипкие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ні, полагодити їх майже ніяк не можна. Вони дуже крихкі."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0005",
+            "en": "[WT] I’m an impossibly busy man, Riley. Please keep the chatter to our combined interests. Weird crap.",
+            "ru_native": "Райли, я жутко занятой человек. Прошу,<br>ограничься нашими общими интересами – странной хренью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, я дуже зайнята людина. Прошу обмежитись нашими спільними інтересами —<br>дивною фігнею."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0006",
+            "en": "[WT] The instruments inside are pretty much calibrated by humming birds—one wrong step and it’s bye-bye chipset.",
+            "ru_native": "Внутренности передатчиков собирали колибри, не иначе.<br>Одно неверное движение – и прощай чип.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Внутрішні деталі радіопередавачів збирали колібрі, не інакше.<br>Один неправильний рух — і прощавай чіп."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0007",
+            "en": "[WT] If you broke it, you broke it.",
+            "ru_native": "Если сломала, то насовсем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо щось одне там зламалося, то вже нічого не працюватиме."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0008",
+            "en": "[WT] Sorry.",
+            "ru_native": "Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0009",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0010",
+            "en": "[WT] Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A2T1.HANKWT_HANK_0011",
+            "en": "[WT] Ah, I have to sign off, Riley, for a minute. Call me later, if you want. Over and out.",
+            "ru_native": "Райли, мне пора бежать. Поговорим позже, если захочешь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, мені треба відключитися на хвилинку. Зв’яжися зі мною пізніше,<br>якщо захочеш. Кінець зв’язку."
+        },
+        {
+            "tag": "A2T1.HANKWT_RILEY_0000",
+            "en": "Hank? Are you around. Over.",
+            "ru_native": "Хэнк, ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, ти десь там? Прийом."
+        },
+        {
+            "tag": "A2T1.HANKWT_RILEY_0001",
+            "en": "Uh, got any spare transmitters? We just broke one and, uh, it’s kind of important.",
+            "ru_native": "Есть лишний передатчик? Мы один сломали, и очень нужна замена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маєш зайвий радіопередавач? Ми один зламали й нам дуже потрібна заміна."
+        },
+        {
+            "tag": "A2T1.HANKWT_RILEY_0002",
+            "en": "Uh, do you by chance know how to fix one of those transmitter things? Over.",
+            "ru_native": "Ты случайно не знаешь, как починить передатчик? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти, раптом, не знаєш, як полагодити радіопередавач? Прийом."
+        },
+        {
+            "tag": "A2T1.HANKWT_RILEY_0003",
+            "en": "Just checking in! Um, had any good, um, snacks… lately?",
+            "ru_native": "Хотела перекинуться парой слов! Что ты... ел?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто перевірка зв’зку! Чим… сьогодні обідав?"
+        },
+        {
+            "tag": "A2T1.HANKWT_RILEY_0004",
+            "en": "Well… crap. Over.",
+            "ru_native": "Вот дерьмо. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От… лайно. Прийом."
+        },
+        {
+            "tag": "A2T1.HANKWT_RILEY_0005",
+            "en": "Well… thanks.",
+            "ru_native": "Ясно... Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… дякую."
+        }
+    ]
+}

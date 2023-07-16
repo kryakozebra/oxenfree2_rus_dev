@@ -1,0 +1,573 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.FISHER",
+    "entries": [
+        {
+            "tag": "A2C3.FISHER_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0000_OPTION_0000",
+            "en": "Hi.",
+            "ru_native": "Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вітаю."
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0000_OPTION_0001",
+            "en": "Who is this?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0000_OPTION_0002",
+            "en": "You’re not the same guy.",
+            "ru_native": "Вы не тот парень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не з вами розмовляла."
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0001_OPTION_0000",
+            "en": "I didn’t call you.",
+            "ru_native": "Я тебя не вызывала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вас не викликала."
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0001_OPTION_0001",
+            "en": "Just leave me alone.",
+            "ru_native": "Оставь меня в покое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто дайте мені спокій."
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0001_OPTION_0002",
+            "en": "Wrong number, sorry.",
+            "ru_native": "Ошиблась номером.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Помилилася номером."
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0002_OPTION_0000",
+            "en": "Okay, sure.",
+            "ru_native": "Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, звичайно."
+        },
+        {
+            "tag": "A2C3.FISHER_CHOICE_0002_OPTION_0001",
+            "en": "Sorry, I’m busy.",
+            "ru_native": "Я занята.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, я зайнята."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0000",
+            "en": "Hello? Anyone there? Over.",
+            "ru_native": "Алло? Есть кто? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло? Мене хто-небудь чує? Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0001",
+            "en": "Hey! Are you there?",
+            "ru_native": "Эй! Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло! Ви там?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0002",
+            "en": "To the person who called me, hello? Over.",
+            "ru_native": "Кто меня вызывал, ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому, хто мене викликав: ви там? Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0003",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0004",
+            "en": "Helloooo?",
+            "ru_native": "Алло-о-о?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Аго-о-ов?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0005",
+            "en": "Hello…",
+            "ru_native": "Алло...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло…"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0006",
+            "en": "Hi yourself! Can you tell me why you’re on this frequency?",
+            "ru_native": "И тебе привет! А что ты делаешь на этой частоте?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навзаєм! Як ви опинилися на цій частоті?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0007",
+            "en": "You’re speaking with Nick Stuart, ma’am, now can you tell me why you’re on this frequency?",
+            "ru_native": "Вы разговариваете с Ником Куртцманом, мэм, а теперь скажите, почему вы на этой частоте?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви розмовляєте з Ніком Стюартом. Тепер ви скажете, що робите на цій частоті?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0008",
+            "en": "Were you speaking to someone else on this line? Why are you on this frequency?",
+            "ru_native": "Вы еще с кем-то говорили по этому каналу? Почему вы на этой частоте?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви на цій лінії розмовляли з кимось іще? Що ви тут взагалі робите?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0009",
+            "en": "Why are you on this frequency?",
+            "ru_native": "Почему вы на этой частоте?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ви опинились на цій частоті?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0010",
+            "en": "Okay, excuse me, ma’am, but why are you using this frequency?",
+            "ru_native": "Простите, мэм, но почему вы используете эту частоту?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перепрошую, мем, навіщо ви підключилися на цю частоту?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0011",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0012",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0013",
+            "en": "I’d appreciate an answer. Over.",
+            "ru_native": "Ответьте, пожалуйста. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, дайте відповідь. Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0014",
+            "en": "Over…",
+            "ru_native": "Прием...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом…"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0015",
+            "en": "You there?",
+            "ru_native": "Вы там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви там?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0016",
+            "en": "No, it was you—the reception was bad, but it was you.",
+            "ru_native": "Нет, это были вы – было плохо слышно, но это были вы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це були ви… зв’язок поганий, але це були точно ви."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0017",
+            "en": "Leave you alone? You called me!",
+            "ru_native": "Оставить в покое? Вы сами позвонили!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дати спокій? Це ви мене викликали!"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0018",
+            "en": "It’s fine, you can do me a favor.",
+            "ru_native": "Ничего, ты мне можешь помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого, можете якраз зробити мені послугу."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0019",
+            "en": "You sound pretty clear, which means you’re probably in Camena.",
+            "ru_native": "Тебя хорошо слышно, а значит ты наверняка в Камене.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вас добре чути, це може означати, що ви в Камені."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0020",
+            "en": "Right? Probably at the dock by Charity Point?",
+            "ru_native": "Верно? Где-то у дока в Черити Поинт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? У доці біля Черіті-Пойнт?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0021",
+            "en": "There’s an outpost for local fisherman near you—",
+            "ru_native": "Там рядом хижина местных рыбаков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поруч із вами має бути хижка місцевих рибалок…"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0022",
+            "en": "Can you take a minute and check if a blue backpack is in there?",
+            "ru_native": "Можешь проверить, лежит ли там синий рюкзак?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У вас буде хвилинка перевірити, чи не залишився там мій синій рюкзак?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0023",
+            "en": "But, uh, anyways can you take a minute and check if a blue backpack is in the cabin?",
+            "ru_native": "Слушай, ты не могла бы проверить, есть в хижине синий рюкзак?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, а у вас буде хвилинка перевірити,<br>чи не залишився в тій хатинці мій синій рюкзак?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0024",
+            "en": "The door’s open.",
+            "ru_native": "Там не заперто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там відчинено."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0025",
+            "en": "Not too many fisherman thieves around here.",
+            "ru_native": "Воров среди рыбаков у нас не водится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рибалок-злодюжок у нас наче нема."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0026",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0027",
+            "en": "It’s the outpost for local fisherman.",
+            "ru_native": "Это хижина для местных рыбаков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це хижка для місцевих рибалок."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0028",
+            "en": "I want to make sure it’s still there.",
+            "ru_native": "Хочу узнать, там ли он.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу переконатися, що він усе ще там."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0029",
+            "en": "The backpack.",
+            "ru_native": "Рюкзак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рюкзак."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0030",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0031",
+            "en": "Uh, fine.",
+            "ru_native": "Ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0032",
+            "en": "Alright, fine, forget it.",
+            "ru_native": "Ясно, забудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді облиш, нічого."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0033",
+            "en": "Yeah. Awesome, great. That’d be a big help.",
+            "ru_native": "Да. Шикарно. Ты меня очень выручишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Чудово. Ви мені дуже допоможете."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0034",
+            "en": "Just give me a ring if you see it. Thanks. Over and out.",
+            "ru_native": "Сообщи, когда найдешь его. Спасибо. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як побачите його, наберіть. Дякую. Кінець зв’язку."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0035",
+            "en": "Anyways, thanks for helping me trying to find that backpack.",
+            "ru_native": "Спасибо, что помогаешь найти рюкзак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що допомагаєте мені в пошуках того рюкзака."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0036",
+            "en": "Just call if you see it. Thanks.",
+            "ru_native": "Сообщи, когда его увидишь. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто повідомте, коли побачите його. Дякую."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0037",
+            "en": "Listen, this channel is reserved for maritime emergency-use only.",
+            "ru_native": "Девочка, это канал для сообщений о ЧС на море.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, ця лінія призначена лише для повідомлень про екстрені випадки на морі."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0038",
+            "en": "Understand? Okay—don’t call again. Over and out.",
+            "ru_native": "Ясно тебе? Хватит занимать канал. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уторопали? Усе, відключайтеся. Кінець зв’язку."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0039",
+            "en": "Listen, I got you on the horn here, so… can you do me a favor?",
+            "ru_native": "Слушайте, раз уж вы на связи... не поможете мне?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, якщо ви все одно мені вже попалися… ви не могли б мені допомогти?"
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0040",
+            "en": "You’re speaking with Nick Stuart, ma’am",
+            "ru_native": "Вы разговариваете с Ником Стюартом, мэм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви розмовляєте з Ніком Стюартом, мем."
+        },
+        {
+            "tag": "A2C3.FISHER_FISHERMAN_0041",
+            "en": "You’re speaking with Nick Stewart, ma’am, now can you tell me why you’re on this frequency?",
+            "ru_native": "Вы разговариваете с Ником Стюартом, мэм, а теперь скажите,<br>почему вы на этой частоте?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви розмовляєте з Ніком Стюартом, мем. Тепер ви скажете, що робите на цій частоті?"
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0000",
+            "en": "Uh—hi? Over.",
+            "ru_native": "Привет? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Доброго вечора? Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0001",
+            "en": "Yes? Who I am speaking with? Over.",
+            "ru_native": "Да? С кем я говорю? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? Із ким я розмовляю? Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0002",
+            "en": "Uh, hello? This is not the same person I was just speaking to. Over.",
+            "ru_native": "Алло? Вы не тот, с кем я до этого разговаривала. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, алло? Ви не той з ким я щойно розмовляла. Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0003",
+            "en": "I didn’t call you, buddy. Over.",
+            "ru_native": "Приятель, я тебя не вызывала. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дядьку, я вас не викликала. Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0004",
+            "en": "Look, pal, just leave me alone, alright? It’s been a long night. Over.",
+            "ru_native": "Слушай, друг, оставь меня в покое. У меня была долгая ночь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дядь, дайте мені спокій, гаразд? У мене була складна ніч. Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0005",
+            "en": "I… guess I hit the wrong number or something. Sorry. Over.",
+            "ru_native": "Я... наверное, я ошиблась номером. Извините. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може я… помилилася номером. Вибачте. Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0006",
+            "en": "Uh, sorry, but I’m pretty busy at the moment doing, uh, stuff that just can’t be put on the backburner.",
+            "ru_native": "Простите, но у меня на повестке есть другие крайне неотложные дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пробачте, але в мене купа справ, які я просто не можу пустити на самоплив."
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0007",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0008",
+            "en": "Yeah, I can’t. Hanging up now. Over and out.",
+            "ru_native": "Не могу. Отключаюсь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.FISHER_RILEY_0009",
+            "en": "Yeah, uh, sure. I’ll help out. A blue backpack?",
+            "ru_native": "Да, конечно, я помогу. Синий рюкзак?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буде, звичайно. Я допоможу. Синій рюкзак?"
+        }
+    ]
+}

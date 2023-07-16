@@ -1,0 +1,60 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S6.STOLAS",
+    "entries": [
+        {
+            "tag": "A3S6.STOLAS_ALEX_0000",
+            "en": "No no – keep it – keep it going!",
+            "ru_native": "Нет... Нет – оставить себе – [оставить себе] going!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні… облиш… нехай!"
+        },
+        {
+            "tag": "A3S6.STOLAS_ALEX_0001",
+            "en": "Don’t listen to them! Just tune into the portal!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не слушай их! Просто настройся на портал!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не слухай їх! Просто налаштуйтеся на портал!"
+        },
+        {
+            "tag": "A3S6.STOLAS_OLIVIA_0000",
+            "en": "[possessed] [breathing]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [одержимый] [дыхание].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[одержимий] [дихає]"
+        },
+        {
+            "tag": "A3S6.STOLAS_OLIVIA_0001",
+            "en": "[possessed] We are… tired, Riley.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [одержимый] Мы... устали, Райли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[одержимий] Ми… втомилися, Райлі."
+        },
+        {
+            "tag": "A3S6.STOLAS_OLIVIA_0002",
+            "en": "[possessed] Stop struggling. Fighting against… the water.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [одержимый] Перестань бороться. Бороться против... воды.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[одержимий] Припиніть опиратися. Боротися з… водою."
+        },
+        {
+            "tag": "A3S6.STOLAS_OLIVIA_0003",
+            "en": "[possessed] Everyone drowns down here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [одержимый] Здесь внизу все тонут.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[одержимий] Тут усі тонуть."
+        }
+    ]
+}

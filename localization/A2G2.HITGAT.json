@@ -1,0 +1,213 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2G2.HITGAT",
+    "entries": [
+        {
+            "tag": "A2G2.HITGAT_CHOICE_0000_OPTION_0000",
+            "en": "We should come back later.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы должны вернуться позже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повернемося пізніше."
+        },
+        {
+            "tag": "A2G2.HITGAT_CHOICE_0000_OPTION_0001",
+            "en": "We have other stuff to do.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У нас есть и другие дела.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас є інші справи."
+        },
+        {
+            "tag": "A2G2.HITGAT_JACOB_0000",
+            "en": "Mm. Uh… man, well… I don’t think we can get around.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мм. Эээ... чувак, ну... я не думаю, что мы сможем обойтись без этого.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… Не думаю, що в нас… вийде."
+        },
+        {
+            "tag": "A2G2.HITGAT_JACOB_0001",
+            "en": "It’ll be impossible to get in unless we find one of those radios.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Попасть внутрь будет невозможно, если мы не найдем одну из этих раций.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не пройдемо, поки не знайдемо хоч якесь радіо."
+        },
+        {
+            "tag": "A2G2.HITGAT_JACOB_0002",
+            "en": "Ugh.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф."
+        },
+        {
+            "tag": "A2G2.HITGAT_JACOB_0003",
+            "en": "[half to himself] Why is there always some kind of problem…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [наполовину про себя] Почему всегда возникают какие-то проблемы...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[напівпошепки] Одна проблема за іншою…"
+        },
+        {
+            "tag": "A2G2.HITGAT_JACOB_0004",
+            "en": "Yeah. Okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да. Хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд."
+        },
+        {
+            "tag": "A2G2.HITGAT_JACOB_0005",
+            "en": "And we still have no way to get through.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И у нас до сих пор нет возможности пробиться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І все ще нема ключа."
+        },
+        {
+            "tag": "A2G2.HITGAT_JACOB_0006",
+            "en": "[sigh] Let’s keep looking. Not, uh, here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Давай продолжим поиски. Только не здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Шукаймо далі. І не тут."
+        },
+        {
+            "tag": "A2G2.HITGAT_JACOB_0007",
+            "en": "Oh, great. We got lucky there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отлично. Нам там повезло.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оце пощастило."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0000",
+            "en": "Oh. There’s a… weird looking lock on the door.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О. На двери есть... странно выглядящий замок.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, тут на дверях… дивний замок."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0001",
+            "en": "Might be a radio lock. One of those things that needs a calibrated radio to tune open.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Возможно, это радиозамок. Одна из тех вещей, для открытия которых нужна калиброванная рация.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це, певно, радіозамок. Той самий, який відкривається,<br>якщо підлаштувати правильно радіо."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0002",
+            "en": "Let’s just… come back later.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай просто... вернемся позже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай… повернемося сюди пізніше."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0003",
+            "en": "If we find a better radio along the way, great.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Если по пути мы найдем лучшее радио - отлично.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо знайдемо краще радіо, то добре."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0004",
+            "en": "If not, maybe we’ll have come up with a workaround.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Если нет, то, возможно, мы придумаем обходной путь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А якщо ні, то доведеться щось вигадати."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0005",
+            "en": "C’mon. We should go.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай. Нам пора идти.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай, ходімо."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0006",
+            "en": "We still have other transmitters in other locations we can plant in the meantime.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У нас ещё есть другие передатчики в других местах, которые мы можем установить в это время.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас усе ще є інші радіопередавачі, які треба встановити в інших місцях."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0007",
+            "en": "So… this thing is still locked.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Итак... эта штука все еще заперта.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж… Усе ще закрито."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0008",
+            "en": "Oh, it’s another radio lock… I think.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, это еще один радиозамок... Кажется.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ще один радіозамок… Гадаю."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0009",
+            "en": "Looks newer than the one that Parentage was using.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выглядит новее, чем тот, который использовал Parentage.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виглядає не таким старим, як той, що був у Парентажа."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0010",
+            "en": "We should be able to pop it open, though – same way.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы должны быть в состоянии открыть его, хотя - тем же способом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але відкривається він так само."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0011",
+            "en": "Yeah, we should be able to open this lock now with our new fangled radio.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, теперь мы должны быть в состоянии открыть этот замок с помощью нашего новомодного радио.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, тепер ми зможемо відкрити цей замок із новим радіо."
+        },
+        {
+            "tag": "A2G2.HITGAT_RILEY_0012",
+            "en": "Just like we did with the one Parentage was using.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Точно так же, как мы поступили с тем, который использовал Parentage.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прямо як той замок Парентажа."
+        }
+    ]
+}

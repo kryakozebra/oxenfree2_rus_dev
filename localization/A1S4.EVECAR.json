@@ -1,0 +1,150 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1S4.EVECAR",
+    "entries": [
+        {
+            "tag": "A1S4.EVECAR_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? We did it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин? Мы сделали это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ми впоралися."
+        },
+        {
+            "tag": "A1S4.EVECAR_CHOICE_0001_OPTION_0000",
+            "en": "Red?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Красный цвет?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Червоний?"
+        },
+        {
+            "tag": "A1S4.EVECAR_CHOICE_0001_OPTION_0001",
+            "en": "Why?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Почему?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому?"
+        },
+        {
+            "tag": "A1S4.EVECAR_CHOICE_0001_OPTION_0002",
+            "en": "Something wrong?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что-то не так?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе добре?"
+        },
+        {
+            "tag": "A1S4.EVECAR_EVELYN_0000",
+            "en": "Hey, Riley! Yeah, the – the readings… are just… coming in now. There they are.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, Райли! Да, показания... только что... поступили. Вот они.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом, Райлі! Сигнал наче… так, іде… усе добре."
+        },
+        {
+            "tag": "A1S4.EVECAR_EVELYN_0001",
+            "en": "The signals’ clear. You guys did a great job.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сигналы понятны. Вы, ребята, проделали отличную работу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сигнал чіткий. Молодці."
+        },
+        {
+            "tag": "A1S4.EVECAR_EVELYN_0002",
+            "en": "Oh… uh… hold up. One… second. Okay. This is… a little weird.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О... э... подожди. Одну... секунду. Окей. Это... немного странно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой… е… стривай. Одну… секунду. Добре. Це… трохи дивно."
+        },
+        {
+            "tag": "A1S4.EVECAR_EVELYN_0003",
+            "en": "Uh, guys? Tell me… what color is the little light blinking?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, ребята? Скажите мне... каким цветом мигает маленькая лампочка?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е, народ? Скажіть мені… якого кольору блимає вогник?"
+        },
+        {
+            "tag": "A1S4.EVECAR_EVELYN_0004",
+            "en": "Cause…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Потому что...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто…"
+        },
+        {
+            "tag": "A1S4.EVECAR_EVELYN_0005",
+            "en": "[to someone else] No, I know, just let me find out, first.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [кому-то другому] Нет, я знаю, просто позволь мне сначала все выяснить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[комусь іншому] Ні, я розумію, просто дайте мені спочатку дізнатися."
+        },
+        {
+            "tag": "A1S4.EVECAR_EVELYN_0006",
+            "en": "You still there, Riley?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты все еще там, Райли?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло? Ти ще там?"
+        },
+        {
+            "tag": "A1S4.EVECAR_JACOB_0000",
+            "en": "Uh, it’s –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все…"
+        },
+        {
+            "tag": "A1S4.EVECAR_RILEY_0000",
+            "en": "Hey, uh, Evelyn? We did it – we planted the transmitter. Looks good on our end. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, эм, Эвелин? Мы сделали это - мы подбросили передатчик. Выглядит хорошо с нашей стороны. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, агов, Евелін? Ми впоралися. Ми встановили радіопередавач.<br>З нашого боку виглядає все добре. Прийом."
+        },
+        {
+            "tag": "A1S4.EVECAR_RILEY_0001",
+            "en": "Uh –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Uh -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е…"
+        },
+        {
+            "tag": "A1S4.EVECAR_RILEY_0002",
+            "en": "Uh, why do you –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Почему ты -",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е… А чому ти…"
+        },
+        {
+            "tag": "A1S4.EVECAR_RILEY_0003",
+            "en": "Uh, Evelyn, is something –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э, Эвелин, это что-то...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, усе гаразд?"
+        }
+    ]
+}

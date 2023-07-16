@@ -1,0 +1,42 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.TUN2TV",
+    "entries": [
+        {
+            "tag": "A3S5.TUN2TV_CHOICE_0000_OPTION_0000",
+            "en": "Enough of that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хватит об этом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить про це."
+        },
+        {
+            "tag": "A3S5.TUN2TV_CHOICE_0000_OPTION_0001",
+            "en": "Just gotta keep going.",
+            "ru_native": "Just gotta продолжай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто треба продовжувати."
+        },
+        {
+            "tag": "A3S5.TUN2TV_RILEY_0000",
+            "en": "Yeah, that’s enough of that.",
+            "ru_native": "Yeah, все, хватит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, досить."
+        },
+        {
+            "tag": "A3S5.TUN2TV_RILEY_0001",
+            "en": "[sigh] Just keep going, keep moving…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Просто продолжай, продолжай двигаться...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Просто продовжуй, продовжуй рухатися…"
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.HANKWT",
+    "entries": [
+        {
+            "tag": "A2C6.HANKWT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.HANKWT_CHOICE_0000_OPTION_0000",
+            "en": "Hank, are you around?",
+            "ru_native": "Хэнк, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, ти десь поблизу?"
+        },
+        {
+            "tag": "A2C6.HANKWT_RILEY_0000",
+            "en": "Hank… a-are you there? We could really use your help right now…",
+            "ru_native": "Хэнк, ты там? Нам бы сейчас не помешала твоя помощь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку… ти там? Нам потрібна твоя допомога просто зараз…"
+        },
+        {
+            "tag": "A2C6.HANKWT_RILEY_0001",
+            "en": "[to herself] Ugh, that’s… not what you want to hear.",
+            "ru_native": "Это не то, что хочешь услышать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Це не те, що ти хочеш почути."
+        }
+    ]
+}

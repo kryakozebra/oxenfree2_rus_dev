@@ -1,0 +1,114 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.JACWAL",
+    "entries": [
+        {
+            "tag": "A1PO.JACWAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.JACWAL_CHOICE_0000_OPTION_0000",
+            "en": "Jacob? I'm here!",
+            "ru_native": "Джейкоб? Я здесь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Я тут!"
+        },
+        {
+            "tag": "A1PO.JACWAL_CHOICE_0000_OPTION_0001",
+            "en": "Where are you?",
+            "ru_native": "Где ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ти?"
+        },
+        {
+            "tag": "A1PO.JACWAL_CHOICE_0000_OPTION_0002",
+            "en": "Our connection's awful.",
+            "ru_native": "Связь отвратная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут паршивий сигнал."
+        },
+        {
+            "tag": "A1PO.JACWAL_JACOB_0000",
+            "en": "Hey! Riley! Come in, Riley? Are you there? Come in!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Райли! Заходи, Райли? Ты там? Заходи!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.JACWAL_JACOB_0001",
+            "en": "Can you hear me?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты меня слышишь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.JACWAL_JACOB_0002",
+            "en": "Riley, are you there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли, ты там?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.JACWAL_JACOB_0003",
+            "en": "C-can you hear me?",
+            "ru_native": "",
+            "ru_machine": "DEEPL К-ты меня слышишь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.JACWAL_JACOB_0004",
+            "en": "Riley? Can you — are you —",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли? Ты можешь - ты...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.JACWAL_RILEY_0000",
+            "en": "Jacob? Jacob, can you hear me? I'm at the base of the—the summit—Jacob—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб? Джейкоб, ты меня слышишь? Я нахожусь у основания вершины - Джейкоб.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.JACWAL_RILEY_0001",
+            "en": "Where are you? I just got to the bottom of the summit, are you, like --",
+            "ru_native": "",
+            "ru_machine": "DEEPL Где ты находишься? Я только что добрался до подножия вершины, а ты, как...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.JACWAL_RILEY_0002",
+            "en": "God, our connection is terrible, are you... close by, or...?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Боже, у нас ужасная связь, ты... рядом, или...?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

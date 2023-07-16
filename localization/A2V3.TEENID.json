@@ -1,0 +1,672 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.TEENID",
+    "entries": [
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0000",
+            "en": "Okay, do you want us to look for stuff or do you want us to not touch anything?",
+            "ru_native": "Так ты хочешь, чтобы мы искали или чтобы ничего не трогали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так ти хочеш, щоби ми шукали чи щоби нічого не чіпали?"
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0001",
+            "en": "Cause one’s—",
+            "ru_native": "Потому что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що…"
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0002",
+            "en": "What is all this stuff?",
+            "ru_native": "Что это за хрень?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це все таке?"
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0003",
+            "en": "No. Just… what is it for?",
+            "ru_native": "Нет, просто... Для чего это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Просто… для чого це?"
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0004",
+            "en": "Yeah, what’s up there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, а что там наверху?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0005",
+            "en": "I think I found… no, nevermind.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кажется, я нашел... нет, неважно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0006",
+            "en": "Yeah, let’s go upstairs.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, давай поднимемся наверх.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0007",
+            "en": "Spread out, yup, yup, we got it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Распрощались, угу, угу, разобрались.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0008",
+            "en": "Yeah, what’s down there?",
+            "ru_native": "Да, что там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, що там?"
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0009",
+            "en": "Has anyone gotten online tonight?",
+            "ru_native": "Сегодня кто-нибудь выходил в сеть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось сьогодні був онлайн?"
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0010",
+            "en": "I asked Wolfmansgotnards a question on Camena Crypts and wanna see if they’ve responded.",
+            "ru_native": "Я задал ОборотнюСЯйцами вопрос про тайники<br>Камены и хотел посмотреть, не пришел ли ответ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я запитав у ОборотняЗЯйцями дещо на форумі<br>«Таємниці, жахи та секрети Камени». Хочу подивитися, чи мені відповіли."
+        },
+        {
+            "tag": "A2V3.TEENID_CHARLIE_0011",
+            "en": "Anyways, lemme know if anyone gets a signal. Okay?",
+            "ru_native": "В общем, дай знать, если кто-то получит сигнал. Лады?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дайте мені знати, якщо хтось зловить сигнал. Гаразд?"
+        },
+        {
+            "tag": "A2V3.TEENID_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.TEENID_CHOICE_0000_OPTION_0000",
+            "en": "We’re screwed…",
+            "ru_native": "Нам крышка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми в халепі…"
+        },
+        {
+            "tag": "A2V3.TEENID_CHOICE_0000_OPTION_0002",
+            "en": "Let’s go confront them.",
+            "ru_native": "Поговорим с ними.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговоримо з ними."
+        },
+        {
+            "tag": "A2V3.TEENID_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.TEENID_CHOICE_0001_OPTION_0000",
+            "en": "What!",
+            "ru_native": "Что!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?!"
+        },
+        {
+            "tag": "A2V3.TEENID_CHOICE_0001_OPTION_0001",
+            "en": "So it's your fault.",
+            "ru_native": "Так это ты виноват.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це твоя провина."
+        },
+        {
+            "tag": "A2V3.TEENID_CHOICE_0001_OPTION_0002",
+            "en": "Ugh, it's okay.",
+            "ru_native": "Ох, ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, гаразд."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0000",
+            "en": "Uh, yeah. There’s not a lot of places to really hide…",
+            "ru_native": "Да. Прятаться тут негде особо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, ховатися тут ніде…"
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0001",
+            "en": "Hey, your call. I’m fine just, uh, listening.",
+            "ru_native": "Решение за тобой. Я послушать не против.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скажеш. Я не проти послухати."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0002",
+            "en": "Uh… Wolfmansgotnards?",
+            "ru_native": "Эм... ОборотнюСЯйцами?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… ОборотеньЗЯйцями?"
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0003",
+            "en": "Crap. Riley… I think they’re talking about—[sighs]",
+            "ru_native": "Черт. Райли... Думаю, они говорят про...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько, Райлі… Здається, вони говорять про… [зітхає]"
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0004",
+            "en": "Okay, there is an internet forum called Camena Crypts and Creeps that I—frequent.",
+            "ru_native": "В общем, есть такой интернет-форум – «Тайники, кошмары и секреты Камены».<br>Я на нем частенько бываю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, існує інтернет-форум «Таємниці, жахи та секрети Камени», на якому я… буваю."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0005",
+            "en": "And I… posted some stuff about what Maggie had told me about radio waves.",
+            "ru_native": "И я... запостил там то, что Мэгги рассказала мне о радиоволнах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я… писав туди розповіді Меггі про радіохвилі."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0006",
+            "en": "I… think these kids might have taken that information to do… what they’re doing tonight…",
+            "ru_native": "Я... думаю, эти дети могли воспользоваться этой информацией для...<br>того, что они сейчас делают...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… гадаю, ці діти скористалися тією інформацією, щоб… зробити, що хочуть…"
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0007",
+            "en": "I know how it sounds!",
+            "ru_native": "Я знаю, как это звучит!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, як це звучить!"
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0008",
+            "en": "Ah God, this—this is insane.",
+            "ru_native": "О боже, это... это безумие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, це… божевілля."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0009",
+            "en": "I <i>really</i> didn’t mean for anything like this to happen.",
+            "ru_native": "Я правда не хотел, чтоб так вышло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я <i>справді</i> не хотів, щоби таке сталося."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0010",
+            "en": "Just… trust me on that.",
+            "ru_native": "Честно... честное слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… повір мені."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0011",
+            "en": "Unfortunately, no. God.",
+            "ru_native": "К сожалению, нет. Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На жаль, ні. Боже."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0012",
+            "en": "Look, I just — I wanted somebody else to know about this stuff.",
+            "ru_native": "Слушай, я просто... я хотел поделиться с кем-то еще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я просто… хотів, щоби ще хтось про це знав."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0013",
+            "en": "How was I supposed to know it was gonna be a bunch of… very determined kids?",
+            "ru_native": "Откуда мне было знать, что этими «кем-то» окажется кучка... очень упорных детей?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки ж я знав, що це прочитають… дуже наполегливі діти?"
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0014",
+            "en": "I know! I know — I know, but… I didn’t think anyone was gonna pay attention!",
+            "ru_native": "Знаю! Знаю, но... Я не думал, что на мой пост кто-то обратит внимание!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю! Знаю… Знаю, але… Я не очікував, що хтось зверне на них увагу!"
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0015",
+            "en": "Nobody was paying attention! That I… thought, anyway.",
+            "ru_native": "Никто и не обратил! Это... я так думал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніхто й не звертав! Принаймні… я так думав."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0016",
+            "en": "Look, I just — I wanted somebody else to know about this stuff.",
+            "ru_native": "Слушай, я просто... я хотел поделиться с кем-то еще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я просто… хотів, щоби ще хтось про це знав."
+        },
+        {
+            "tag": "A2V3.TEENID_JACOB_0017",
+            "en": "How was I supposed to know it was gonna be a bunch of… very determined kids?",
+            "ru_native": "Откуда мне было знать, что этими «кем-то» окажется кучка... очень упорных детей?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки ж я знав, що це прочитають… дуже наполегливі діти?"
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0000",
+            "en": "Spread out.",
+            "ru_native": "Осмотрите все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Огляньте все."
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0001",
+            "en": "And don’t touch anything.",
+            "ru_native": "И ничего не трогайте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але нічого не чіпайте."
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0002",
+            "en": "A lot of stuff’s been blessed by Earthshine and your grubby little fingerprints can ruin it.",
+            "ru_native": "Множество вещей благословлены светом земли, а ваши гадкие ручонки могут их испортить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Багато речей благословенні світлом Землі, а ваші бридкі руки можуть усе зіпсувати."
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0003",
+            "en": "Just be careful.",
+            "ru_native": "Просто... осторожнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто будьте обережні."
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0004",
+            "en": "We need to get what we need to get and go—it’s bad luck even being in here without a Steward.",
+            "ru_native": "Нужно все забрать и уходить... Даже находиться здесь без Хранителя – к несчастью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба все забрати і йти звідси… Навіть знаходитися тут без Хранителя — до біди."
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0005",
+            "en": "A small, gray toolbox!",
+            "ru_native": "Маленький серый ящик!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маленький сірий ящик!"
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0006",
+            "en": "Has a Smiley Face sticker on it…",
+            "ru_native": "На нем еще смайлик наклеен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На ньому ще наліпка зі смайликом."
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0007",
+            "en": "We just need it, believe me.",
+            "ru_native": "Он нам нужен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повірте, він нам потрібен."
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0008",
+            "en": "What stuff? Are you touching anything?",
+            "ru_native": "Какая хрень? Ты что-то потрогал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що саме? Ти щось чіпав?"
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0009",
+            "en": "It’s for a lot of very important things. Keep looking.",
+            "ru_native": "Для множества очень важных вещей. Ищи дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для багатьох дуже важливих речей. Шукай далі."
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0010",
+            "en": "Ugh, where could he have put… his damn tools…",
+            "ru_native": "Куда он мог засунуть свои дурацкие инструменты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди він міг подіти… свої інструменти…"
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0011",
+            "en": "What do you think?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что ты думаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0012",
+            "en": "Once we clear this floor, we’ll go up there, yeah.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как только мы очистим этот этаж, мы поднимемся туда, да.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0013",
+            "en": "Okay, fine, just a second…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, хорошо, секундочку...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0014",
+            "en": "Ugh, alright. Let’s see what’s upstairs.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф, ну ладно. Давай посмотрим, что находится наверху.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0015",
+            "en": "There’s one more floor over this one— it’s basically an attic.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Над этим этажом есть еще один - по сути, это чердак.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0016",
+            "en": "We need to do this fast, we’re losing too much night.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нам нужно сделать это быстро, мы теряем слишком много ночи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0017",
+            "en": "Spread—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Спред -",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0018",
+            "en": "The broadcast booth?",
+            "ru_native": "Будка радиовещания!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будка радіомовлення?"
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0019",
+            "en": "We have to go there, anyway, so let’s save that for last.",
+            "ru_native": "Нам туда все равно идти, оставьте на потом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам однаково туди йти, залиште на потім."
+        },
+        {
+            "tag": "A2V3.TEENID_OLIVIA_0020",
+            "en": "Just shut up and look.",
+            "ru_native": "Просто заткнись и смотри.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто замовкніть і дивіться."
+        },
+        {
+            "tag": "A2V3.TEENID_RILEY_0000",
+            "en": "Uh, I think we’re boned, here.",
+            "ru_native": "Боюсь, нам крышка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, нам гаплик."
+        },
+        {
+            "tag": "A2V3.TEENID_RILEY_0001",
+            "en": "Hey! Guys! We’re up here!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, ребята! Мы здесь, наверху!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_RILEY_0002",
+            "en": "We should just confront them and get it over with.",
+            "ru_native": "Надо поговорить с ними, и дело с концом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба з ними поговорити, от і все."
+        },
+        {
+            "tag": "A2V3.TEENID_RILEY_0003",
+            "en": "We know why they’re here, I don’t think eavesdropping will really help us…",
+            "ru_native": "Мы знаем, зачем они пришли. Сомневаюсь, что есть смысл подслушивать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми знаємо, навіщо вони прийшли. Сумніваюся, що є сенс підслуховувати їх…"
+        },
+        {
+            "tag": "A2V3.TEENID_RILEY_0004",
+            "en": "Hey! Guys! We’re down here!",
+            "ru_native": "Эй! Ребята! Мы внизу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Ми внизу!"
+        },
+        {
+            "tag": "A2V3.TEENID_RILEY_0005",
+            "en": "What! You’re joking.",
+            "ru_native": "Что?! Ты шутишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?! Ти жартуєш."
+        },
+        {
+            "tag": "A2V3.TEENID_RILEY_0006",
+            "en": "Oh. So all of this, then, is your fault.",
+            "ru_native": "Ого. Получается, это ты во всем виноват.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, так це все твоя провина, виходить?"
+        },
+        {
+            "tag": "A2V3.TEENID_RILEY_0007",
+            "en": "If you had just kept your fingers where they belong and not written about any of what Maggie Adler told you —",
+            "ru_native": "Если бы ты держал руки подальше от клавиатуры и не написал ничего из того,<br>о чем тебе говорила Мэгги Адлер...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якби ти тримав руки при собі й не писав про байки Меггі Адлер…"
+        },
+        {
+            "tag": "A2V3.TEENID_RILEY_0008",
+            "en": "Ugh. Wow, Jacob. Just… it’s fine. Forget it.",
+            "ru_native": "Ох. Ладно, Джейкоб. Ничего. Проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, Джейкобе. Просто… облиш. Усе гаразд."
+        },
+        {
+            "tag": "A2V3.TEENID_VIOLET_0000",
+            "en": "What are we looking for again?",
+            "ru_native": "Так что мы ищем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То що ми шукаємо?"
+        },
+        {
+            "tag": "A2V3.TEENID_VIOLET_0001",
+            "en": "What’s upstairs?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что находится наверху?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_VIOLET_0002",
+            "en": "Should we look up there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может, стоит заглянуть туда?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_VIOLET_0003",
+            "en": "I’m getting a lot of nothing down here, Olivia.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я получаю здесь много пустяков, Оливия.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.TEENID_VIOLET_0004",
+            "en": "What’s downstairs? Is there a basement?",
+            "ru_native": "Что там внизу? Подвал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що там знизу? Підвал?"
+        },
+        {
+            "tag": "A2V3.TEENID_VIOLET_0005",
+            "en": "Should we look down there?",
+            "ru_native": "Нам там тоже проверить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам там теж перевірити?"
+        },
+        {
+            "tag": "A2V3.TEENID_VIOLET_0006",
+            "en": "No.",
+            "ru_native": "Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні."
+        }
+    ]
+}

@@ -1,0 +1,294 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V2.DOORCL",
+    "entries": [
+        {
+            "tag": "A2V2.DOORCL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.DOORCL_CHOICE_0000_OPTION_0000",
+            "en": "You’re joking.",
+            "ru_native": "Издеваетесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знущаєтесь."
+        },
+        {
+            "tag": "A2V2.DOORCL_CHOICE_0000_OPTION_0001",
+            "en": "It’s the ghosts.",
+            "ru_native": "Это призраки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це привиди."
+        },
+        {
+            "tag": "A2V2.DOORCL_CHOICE_0000_OPTION_0002",
+            "en": "Yeah, just stuck…",
+            "ru_native": "Просто застряла...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, просто застрягла…"
+        },
+        {
+            "tag": "A2V2.DOORCL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.DOORCL_CHOICE_0001_OPTION_0000",
+            "en": "Practical died a while ago.",
+            "ru_native": "Практика давно умерла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді давно померла."
+        },
+        {
+            "tag": "A2V2.DOORCL_CHOICE_0001_OPTION_0001",
+            "en": "Just find a door.",
+            "ru_native": "Найди дверь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто знайди двері."
+        },
+        {
+            "tag": "A2V2.DOORCL_CHOICE_0001_OPTION_0002",
+            "en": "Don’t worry.",
+            "ru_native": "Не переживай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся."
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0000",
+            "en": "Ugh, really? Okay… well… this—oh! It’s just stuck.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф, правда? Ладно... ну... это-о-о! Оно просто застряло.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0001",
+            "en": "It’s just stuck and we’ll just find another way out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Он просто застрял, и мы просто найдем другой выход.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0002",
+            "en": "There’s a million other entrances in here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Здесь есть миллион других входов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0003",
+            "en": "Or at least there has to be.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Или, по крайней мере, должен быть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0004",
+            "en": "I mean, this place is huge.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я имею в виду, что это место просто огромное.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0005",
+            "en": "I know! I know, I’m just—I’m trying to stay practical.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я знаю! Я знаю, я просто... я пытаюсь оставаться практичным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0006",
+            "en": "Yes. Good, thank you. Let’s try and stay practical.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да. Отлично, спасибо. Давай попробуем оставаться практичными.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0007",
+            "en": "C’mon, let’s… seek our salvation. Quickly.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай, давай... искать свое спасение. Быстро.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0008",
+            "en": "Not everything has to be a—a—a huge thing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не всё должно быть а-а-а-абсолютно огромным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0009",
+            "en": "You know?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Понимаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0010",
+            "en": "Good God, alright, but do you have to put it so graphically?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Боже правый, хорошо, но обязательно ли выражать это так графически?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0011",
+            "en": "There has to be another exit somewhere.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Где-то должен быть другой выход.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0012",
+            "en": "Yes. Will do.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да. Будет делать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0013",
+            "en": "Uh… good point, actually. Thanks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм... хорошая мысль, на самом деле. Спасибо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_JACOB_0014",
+            "en": "Anyways, that’s just what I’ll be clinging to over here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В общем, это только то, за что я буду цепляться здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_RILEY_0000",
+            "en": "Um… we have a problem, here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм... у нас тут проблема.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_RILEY_0001",
+            "en": "Y-you’re kidding, right? Stuck? Did you hear the radio a second ago?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Т-ты ведь шутишь, да? Застрял? Ты слышал радио секунду назад?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_RILEY_0002",
+            "en": "It’s the ghost, Jacob. Or whatever they are. It-It’s them. C’mon.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это призрак, Джейкоб. Или кем бы они ни были. Это... это они. Давай.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_RILEY_0003",
+            "en": "Yeah… I’m sure the wind just, blew the door in and it’s just… stuck.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да... Я уверен, что ветер просто занес дверь, и она просто... застряла.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_RILEY_0004",
+            "en": "I think thinking practically drowned in its own blood about two hours ago.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я думаю, что мышление практически утонуло в собственной крови около двух часов назад.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_RILEY_0005",
+            "en": "Just help me find a door so we don’t get even more trapped.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто помоги мне найти дверь, чтобы мы не попали в еще большую ловушку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_RILEY_0006",
+            "en": "Don’t worry. If they could kill us, they would have, already.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не волнуйся. Если бы они могли нас убить, они бы это сделали, уже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_RILEY_0007",
+            "en": "That means they’re either scared of something… or need us for something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это значит, что они либо чего-то боятся... либо мы им зачем-то нужны.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.DOORCL_RILEY_0008",
+            "en": "Either way, don’t sweat it too hard and ruin your hat for nothing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В любом случае не стоит слишком сильно потеть и портить шляпу понапрасну.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

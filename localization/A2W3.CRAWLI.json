@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.CRAWLI",
+    "entries": [
+        {
+            "tag": "A2W3.CRAWLI_VOICE_0000",
+            "en": "Ladybird ladybird, fly away home—your children are under the grindle stone—",
+            "ru_native": "Божья коровка, полети на небо... там твои детки кушают конфетки...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сонечко, сонечко! Виглянь у віконечко,<br>бо татари йдуть, тебе заріжуть і діток заберуть…"
+        },
+        {
+            "tag": "A2W3.CRAWLI_VOICE_0001",
+            "en": "Come find me!",
+            "ru_native": "Найди меня!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайди мене!"
+        }
+    ]
+}

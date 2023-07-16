@@ -1,0 +1,204 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.TIMLOB",
+    "entries": [
+        {
+            "tag": "A2W2.TIMLOB_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TIMLOB_CHOICE_0000_OPTION_0000",
+            "en": "Something happened…",
+            "ru_native": "Что-то случилось...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось сталося…"
+        },
+        {
+            "tag": "A2W2.TIMLOB_CHOICE_0000_OPTION_0001",
+            "en": "Uh oh.",
+            "ru_native": "Ой-ей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой-йой."
+        },
+        {
+            "tag": "A2W2.TIMLOB_CHOICE_0000_OPTION_0002",
+            "en": "I think we’re stuck.",
+            "ru_native": "Кажется, мы опять застряли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ми застрягли."
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0000",
+            "en": "Awesome.",
+            "ru_native": "Чудно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово."
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0001",
+            "en": "That has to be for the gate.",
+            "ru_native": "Это, наверное, от ворот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, він від воріт."
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0002",
+            "en": "Well… it doesn’t have to be, but…",
+            "ru_native": "Ну... не обязательно, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… не обов’язково, але…"
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0003",
+            "en": "Y-you know, hopefully.",
+            "ru_native": "будем надеяться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…будемо сподіватися."
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0004",
+            "en": "Cool.",
+            "ru_native": "Круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0005",
+            "en": "Maybe it’s for a… desk here?",
+            "ru_native": "Может, это ключ от стола?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, це ключ від столу?"
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0006",
+            "en": "Or… something.",
+            "ru_native": "Или... от чего-то еще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи… ще від чогось."
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0007",
+            "en": "Is that the phone?",
+            "ru_native": "Это что, телефон?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це що, телефон?"
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0008",
+            "en": "Wanna pick that up? Or…",
+            "ru_native": "Хочешь ответить? Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш відповісти? Чи…"
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0009",
+            "en": "I don’t think they’re gonna quit.",
+            "ru_native": "Не думаю, что они перестанут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що вони перестануть."
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0010",
+            "en": "Whoever it is might help? Maybe?",
+            "ru_native": "Вдруг этот кто-то может нам помочь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раптом це допомога?"
+        },
+        {
+            "tag": "A2W2.TIMLOB_JACOB_0011",
+            "en": "I really don’t like talking on the phone or I’d just… uh… but whatever you wanna do.",
+            "ru_native": "Я не особо люблю разговаривать по телефону, просто... но делай как хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не дуже люблю розмовляти по телефону, просто… Але роби як хочеш."
+        },
+        {
+            "tag": "A2W2.TIMLOB_RILEY_0000",
+            "en": "Yeah, there’s no markings but a… pink… sticker—",
+            "ru_native": "Да, никаких отметок, только... розовая... наклейка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, жодних відміток, лише… рожева… наліпка…"
+        },
+        {
+            "tag": "A2W2.TIMLOB_RILEY_0001",
+            "en": "Wait, Jacob… something’s… happened…",
+            "ru_native": "Постой, Джейкоб... что-то… случилось...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зажди, Джейкобе… щось… сталося…"
+        },
+        {
+            "tag": "A2W2.TIMLOB_RILEY_0002",
+            "en": "Ummm… uh-oh.",
+            "ru_native": "Хм-м-м… ой-ей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… ой-йой."
+        },
+        {
+            "tag": "A2W2.TIMLOB_RILEY_0003",
+            "en": "Wait, Jacob… I think… we’re stuck again—it’s another one of those—",
+            "ru_native": "Постой, Джейкоб... Кажется, мы опять застряли... в очередной...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.TIMLOB_RILEY_0004",
+            "en": "Wait, Jacob… I think… we’re stuck — it’s another one of those —",
+            "ru_native": "Постой, Джейкоб... Кажется, мы застряли... в очередной...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, Джейкобе… Здається… ми застрягли… Це ще одна…"
+        },
+        {
+            "tag": "A2W2.TIMLOB_RILEY_0005",
+            "en": "Wait, Jacob… I think… we’re stuck — it’s another one of those —",
+            "ru_native": "Постой, Джейкоб... Кажется, мы застряли... в очередной...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, Джейкобе… Здається… ми застрягли… Це ще одна…"
+        }
+    ]
+}

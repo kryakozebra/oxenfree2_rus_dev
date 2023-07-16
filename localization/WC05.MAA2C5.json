@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC05.MAA2C5",
+    "entries": [
+        {
+            "tag": "WC05.MAA2C5_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAA2C5_CHOICE_0000_OPTION_0000",
+            "en": "Maria? Can you hear me?",
+            "ru_native": "Мария? Ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Ти мене чуєш?"
+        },
+        {
+            "tag": "WC05.MAA2C5_MARIA_0000",
+            "en": "[static]",
+            "ru_native": "(помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум]"
+        },
+        {
+            "tag": "WC05.MAA2C5_RILEY_0000",
+            "en": "Maria? Can you hear me? Come in if you can. Over.",
+            "ru_native": "Мария? Ты меня слышишь? Ответь, если можешь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Ти мене чуєш? Відповідай, якщо чуєш. Прийом."
+        }
+    ]
+}

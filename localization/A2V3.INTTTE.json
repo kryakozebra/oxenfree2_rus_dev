@@ -1,0 +1,249 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.INTTTE",
+    "entries": [
+        {
+            "tag": "A2V3.INTTTE_CHARLIE_0000",
+            "en": "Oh crap—",
+            "ru_native": "Вот дерьмо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От дідько…"
+        },
+        {
+            "tag": "A2V3.INTTTE_CHARLIE_0001",
+            "en": "Oh—whoa—",
+            "ru_native": "Ого...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой… ого…"
+        },
+        {
+            "tag": "A2V3.INTTTE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.INTTTE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.INTTTE_CHOICE_0001_OPTION_0000",
+            "en": "Let’s talk, okay?",
+            "ru_native": "Давай поговорим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто поговоримо, гаразд?"
+        },
+        {
+            "tag": "A2V3.INTTTE_CHOICE_0001_OPTION_0001",
+            "en": "We’re stopping this.",
+            "ru_native": "Мы положим этому конец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зупинимо це."
+        },
+        {
+            "tag": "A2V3.INTTTE_JACOB_0000",
+            "en": "Okay, let’s… take a breath.",
+            "ru_native": "Так... Давайте успокоимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… Заспокоїмося."
+        },
+        {
+            "tag": "A2V3.INTTTE_JACOB_0001",
+            "en": "Uh, well we thought it was a Community Center…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, мы думали, что это общественный центр...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.INTTTE_JACOB_0002",
+            "en": "Understand what? What are you even trying to do?",
+            "ru_native": "Понять что? Что ты вообще пытаешься сделать?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміти що? Що ти взагалі намагаєшся зробити?!"
+        },
+        {
+            "tag": "A2V3.INTTTE_JACOB_0003",
+            "en": "Done what? What are you even trying to do?",
+            "ru_native": "Успели что? Что ты вообще пытаешься сделать?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що не встигли? Що ти взагалі намагаєшся зробити?!"
+        },
+        {
+            "tag": "A2V3.INTTTE_JACOB_0004",
+            "en": "Help you do what! What are you even trying to do!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Помочь тебе сделать что! Что ты вообще пытаешься сделать!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.INTTTE_JACOB_0005",
+            "en": "Fifty miles of what space? What is so important about it?",
+            "ru_native": "Приближаться? Что такого важного в этом месте?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наближатися? Що такого важливого в цьому місці?"
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0000",
+            "en": "Riley! Are you in here?!",
+            "ru_native": "Райли! Ты здесь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Ти тут?!"
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0001",
+            "en": "Riley! What the hell are you doing in here!?",
+            "ru_native": "Райли! Какого хрена ты здесь делаешь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Якого біса ти тут?!"
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0002",
+            "en": "Take a breath? You’re standing in Time Devotional, you disgusting piece of garbage.",
+            "ru_native": "Успокоимся? Ты стоишь в Молитве Времени, кретин тупорылый!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заспокоїмося? Ти стоїш у Святині Часу, тупоголовий ти ідіот!"
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0003",
+            "en": "Do you have any idea where you are?",
+            "ru_native": "Ты хоть представляешь, где ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хоч уявляєш, де ти?"
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0004",
+            "en": "This building—these walls—are sacrosanct.",
+            "ru_native": "Это здание... эти стены... Они неприкосновенны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця будівля… ці стіни… Вони недоторканні."
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0005",
+            "en": "Infused with Planetshine.",
+            "ru_native": "Наполнены сиянием планет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сповнені Сяйвом Місяця."
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0006",
+            "en": "You don’t deserve to be within fifty miles of this space.",
+            "ru_native": "Вы не достойны даже приближаться к этому месту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви не достойні навіть наближатися до цього місця."
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0007",
+            "en": "Talk? I don’t talk to earthworms. Earthworms wouldn't be able to understand.",
+            "ru_native": "Поговорим? Я не говорю с червями. Черви не смогут понять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговоримо? Я не розмовляю із черв’яками. Черв’яки не зможуть зрозуміти."
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0008",
+            "en": "Too far? It hasn’t gone far enough! We’re not even—we haven’t even done it, yet!",
+            "ru_native": "Слишком далеко? Все только начинается! Мы даже... Мы даже не успели...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Занадто далеко? Усе тільки починається! Ми навіть… Ми не встигли…"
+        },
+        {
+            "tag": "A2V3.INTTTE_OLIVIA_0009",
+            "en": "Things? Those things actually want to help me—help us.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вещи? Эти вещи на самом деле хотят помочь мне - помочь нам.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.INTTTE_RILEY_0000",
+            "en": "Okay. I know you’re upset, Olivia. But let’s talk, okay? We’re here, let’s talk.",
+            "ru_native": "Так. Оливия, знаю, ты расстроена. Но давай поговорим? Раз уж все мы здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я знаю, що ти засмучена, Олівіє. Але давай поговоримо доки ми тут?"
+        },
+        {
+            "tag": "A2V3.INTTTE_RILEY_0001",
+            "en": "Alright, you know what, Olivia? We’re stopping this. This has gone… way too far.",
+            "ru_native": "Так, Оливия, знаешь что? Мы положим этому конец. Все зашло... слишком далеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, знаєш що? Ми зупинимо це. Усе зайшло… занадто далеко."
+        },
+        {
+            "tag": "A2V3.INTTTE_RILEY_0002",
+            "en": "Olivia, I have no idea where I am—we were tricked into coming here by the things you’re communicating with.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Оливия, я понятия не имею, где нахожусь - нас обманом заманили сюда те штуки, с которыми ты общаешься.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.INTTTE_VIOLET_0000",
+            "en": "Is—is that—?",
+            "ru_native": "Это... это?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це?.."
+        },
+        {
+            "tag": "A2V3.INTTTE_VIOLET_0001",
+            "en": "What was that?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что это было?!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це було?!"
+        }
+    ]
+}

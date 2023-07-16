@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2_DISRAS",
+    "entries": [
+        {
+            "tag": "A2W2_DISRAS_JACOB_0000",
+            "en": "Hey, they’re calling back! Hear that? Let’s get inside and catch ‘me before they hang up again!",
+            "ru_native": "Эй, они опять звонят! Слышишь? Давай заберемся внутрь.<br>Поймай меня, пока они не повесили трубку!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знову телефонують! Чуєш? Нам варто поквапитися,<br>доки вони знову не поклали слухавку!"
+        },
+        {
+            "tag": "A2W2_DISRAS_JACOB_0001",
+            "en": "That’s the Ranger Station, we made it.",
+            "ru_native": "Это станция рейнджеров, мы добрались.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це станція наглядачів, ми прийшли."
+        },
+        {
+            "tag": "A2W2_DISRAS_JACOB_0002",
+            "en": "Can’t tell if anybody’s home… but… cross your fingers.",
+            "ru_native": "Не видно, есть ли кто на месте... но… будем надеяться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не бачу, чи є хтось на місці… але… будемо сподіватися."
+        }
+    ]
+}

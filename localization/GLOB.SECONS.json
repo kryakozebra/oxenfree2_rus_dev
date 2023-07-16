@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.SECONS",
+    "entries": [
+        {
+            "tag": "GLOB.SECONS_JACOB_0000",
+            "en": "Hey, not dead again!",
+            "ru_native": "Мы все еще живы!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки не вимкнення знову!"
+        },
+        {
+            "tag": "GLOB.SECONS_JACOB_0001",
+            "en": "Two for two!",
+            "ru_native": "Два из двух!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Два на два!"
+        }
+    ]
+}

@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1JC.LIGSWI",
+    "entries": [
+        {
+            "tag": "A1JC.LIGSWI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1JC.LIGSWI_CHOICE_0000_OPTION_0000",
+            "en": "Oh.",
+            "ru_native": "Ах да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О."
+        },
+        {
+            "tag": "A1JC.LIGSWI_CHOICE_0000_OPTION_0001",
+            "en": "Of course.",
+            "ru_native": "Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно."
+        },
+        {
+            "tag": "A1JC.LIGSWI_JACOB_0000",
+            "en": "Hey, you there? Come let me in.",
+            "ru_native": "Ты внутри? Впусти меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ти там? Впусти мене."
+        },
+        {
+            "tag": "A1JC.LIGSWI_RILEY_0000",
+            "en": "Ah!",
+            "ru_native": "А!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай!"
+        },
+        {
+            "tag": "A1JC.LIGSWI_RILEY_0001",
+            "en": "Oh. Got it.",
+            "ru_native": "Ах да. Иду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О. Є."
+        },
+        {
+            "tag": "A1JC.LIGSWI_RILEY_0002",
+            "en": "Of course.",
+            "ru_native": "Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно."
+        }
+    ]
+}

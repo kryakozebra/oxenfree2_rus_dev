@@ -1,0 +1,159 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.POSTTL",
+    "entries": [
+        {
+            "tag": "A2C6.POSTTL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.POSTTL_CHOICE_0000_OPTION_0000",
+            "en": "I think that did it.",
+            "ru_native": "Думаю, получилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, вдалося."
+        },
+        {
+            "tag": "A2C6.POSTTL_CHOICE_0000_OPTION_0001",
+            "en": "That better have fixed it.",
+            "ru_native": "Надеюсь, это помогло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, якби вдалося."
+        },
+        {
+            "tag": "A2C6.POSTTL_CHOICE_0000_OPTION_0002",
+            "en": "What happened for you?",
+            "ru_native": "Что произошло с тобой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що з тобою трапилося?"
+        },
+        {
+            "tag": "A2C6.POSTTL_JACOB_0000",
+            "en": "Is it—over?",
+            "ru_native": "Закончилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це закінчилось?"
+        },
+        {
+            "tag": "A2C6.POSTTL_JACOB_0001",
+            "en": "Feels over.",
+            "ru_native": "Кажется да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, закінчилося."
+        },
+        {
+            "tag": "A2C6.POSTTL_JACOB_0002",
+            "en": "I think I was upside-down?",
+            "ru_native": "Я был вверх ногами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я був догори дриґом?"
+        },
+        {
+            "tag": "A2C6.POSTTL_JACOB_0003",
+            "en": "Or maybe everything else was upside-down and I wasn’t? Dunno, like remembering a dream.",
+            "ru_native": "Или все остальное было вверх ногами. Непонятно. Я будто вспоминаю сон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А може все інше було догори дриґом, а я ні? Не знаю, ніби пригадую сон."
+        },
+        {
+            "tag": "A2C6.POSTTL_JACOB_0004",
+            "en": "A nauseating dream.",
+            "ru_native": "Тошнотворный сон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нудотний сон."
+        },
+        {
+            "tag": "A2C6.POSTTL_JACOB_0005",
+            "en": "Let’s see if we can help the kid.",
+            "ru_native": "Идем спасать ребенка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуймо врятувати дитину."
+        },
+        {
+            "tag": "A2C6.POSTTL_JACOB_0006",
+            "en": "Let’s see a man about a transmitter.",
+            "ru_native": "Идем узнавать про передатчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Займімося радіопередавачем."
+        },
+        {
+            "tag": "A2C6.POSTTL_JACOB_0007",
+            "en": "You know what I mean. I think. I hope. Uh—let’s just go.",
+            "ru_native": "Ты поняла, о чем я. Надеюсь. Пошли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш, про що я. Гадаю. Сподіваюся. Ходімо."
+        },
+        {
+            "tag": "A2C6.POSTTL_RILEY_0000",
+            "en": "Okay, I think that’s—uh—sorted.",
+            "ru_native": "Думаю, все получилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, це владналося."
+        },
+        {
+            "tag": "A2C6.POSTTL_RILEY_0001",
+            "en": "Okay, that should be that.",
+            "ru_native": "Все, это помогло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, здається готово."
+        },
+        {
+            "tag": "A2C6.POSTTL_RILEY_0002",
+            "en": "That better have been… uh—that.",
+            "ru_native": "Надеюсь, что это помогло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, якщо готово."
+        },
+        {
+            "tag": "A2C6.POSTTL_RILEY_0003",
+            "en": "Go anywhere fun?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сходить куда-нибудь весело?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.POSTTL_RILEY_0004",
+            "en": "Did you… go anywhere… or?",
+            "ru_native": "Ты... куда-то ходил... или как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ходив… куди-небудь… або?"
+        }
+    ]
+}

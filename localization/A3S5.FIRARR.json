@@ -1,0 +1,186 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.FIRARR",
+    "entries": [
+        {
+            "tag": "A3S5.FIRARR_ALEX_0000",
+            "en": "[distant] Riley! Can you hear me!",
+            "ru_native": "[distant] Riley! Ты меня слышишь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[віддалено] Райлі! Ти мене чуєш?"
+        },
+        {
+            "tag": "A3S5.FIRARR_ALEX_0001",
+            "en": "[distant] Riley! You can still come back!",
+            "ru_native": "",
+            "ru_machine": "DEEPL [отдаляется] Райли! Ты ещё можешь вернуться!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[далекий звук] Райлі! Ти ще можеш повернутися!"
+        },
+        {
+            "tag": "A3S5.FIRARR_CHOICE_0000_OPTION_0000",
+            "en": "Where am I?",
+            "ru_native": "Где я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де я?"
+        },
+        {
+            "tag": "A3S5.FIRARR_CHOICE_0000_OPTION_0001",
+            "en": "Did I… lose?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... проиграл?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… програла?"
+        },
+        {
+            "tag": "A3S5.FIRARR_CHOICE_0000_OPTION_0002",
+            "en": "Alex?",
+            "ru_native": "Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс?"
+        },
+        {
+            "tag": "A3S5.FIRARR_CHOICE_0001_OPTION_0000",
+            "en": "I have to get out of here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я должен выбраться отсюда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені треба звідси вибратися."
+        },
+        {
+            "tag": "A3S5.FIRARR_CHOICE_0001_OPTION_0001",
+            "en": "How do I get out of here?",
+            "ru_native": "How do I уходите отсюда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як мені вибратися звідси?"
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0000",
+            "en": "[sigh] Ugh… man. Where am I?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Уф... блин. Где я?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] О-о-х… дідько. Де я?"
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0001",
+            "en": "Wait. I was just at the… Comm Tower?",
+            "ru_native": "Wait. Я только at Башня связи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай. Я щойно була… у радіовежі?"
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0002",
+            "en": "Did I… lose?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... проиграл?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… програла?"
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0003",
+            "en": "[calls out] Alex? Alex?",
+            "ru_native": "[calls out] Алекс? Алекс?!?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[кличе] Алекс? Алекс?"
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0004",
+            "en": "[to herself] I have to figure out how to get out of here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Я должен придумать, как выбраться отсюда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Мені потрібно придумати, як вибратися звідси."
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0005",
+            "en": "[to herself] I’m still… myself? Or… myself enough…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [Я все еще... сама? Или... достаточно себя...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Я все ще… я? Або… у певній мірі…"
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0006",
+            "en": "[to herself] [sigh] The forest is the town of the trees…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] (вздыхая) Лес - это город деревьев...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] [зітхає] Ліс — це для дерев місто…"
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0007",
+            "en": "[to herself] C’mon, it’s not over yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Да ладно, это еще не конец.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Стривай, це ще не кінець."
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0008",
+            "en": "[to herself] How do I… how do I get out of here?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Как мне... как мне выбраться отсюда?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Як мені… як мені вибратися звідси?"
+        },
+        {
+            "tag": "A3S5.FIRARR_RILEY_0009",
+            "en": "[to herself] I don’t even know if this is a place…? Or…?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Я даже не знаю, это место...? Или...?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Я навіть не знаю, чи це те місце?.. Або?.."
+        },
+        {
+            "tag": "A3S5.FIRARR_SUNKEN_0000",
+            "en": "Bobtail. Shave. Tail.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Бобтейл. Бритье. Хвост.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То, що з хвостиком. Поголив. Хвіст."
+        },
+        {
+            "tag": "A3S5.FIRARR_SUNKEN_0001",
+            "en": "Lose. Time.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Проиграй. Время.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Втрачав. Час."
+        },
+        {
+            "tag": "A3S5.FIRARR_SUNKEN_0002",
+            "en": "Time. Lost…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Время. Потеря...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час. Втрачений…"
+        }
+    ]
+}

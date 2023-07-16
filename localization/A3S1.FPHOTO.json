@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S1.FPHOTO",
+    "entries": [
+        {
+            "tag": "A3S1.FPHOTO_RILEY_0000",
+            "en": "Aw, “Happy birthday, Marco.” That is a lot of chocolate cake.",
+            "ru_native": "«С днем рождения, Марко». Вот это я понимаю торт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, «З днем народження, Марко». Величенький шоколадний торт."
+        },
+        {
+            "tag": "A3S1.FPHOTO_RILEY_0001",
+            "en": "Wait, “MB.” Marco’s birthday?",
+            "ru_native": "Погоди, «ДРМ». День рождения Марко?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, «ДНМ». День народження Марко?"
+        },
+        {
+            "tag": "A3S1.FPHOTO_RILEY_0002",
+            "en": "Maybe \"seven eleven\" is the lock code? Parents do stuff like that.",
+            "ru_native": "Может, 7/11 – код от замка? Родители часто так делают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.FPHOTO_RILEY_0003",
+            "en": "I think we got everything we need.",
+            "ru_native": "Думаю, у нас есть все, что нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.FPHOTO_SFX_0000",
+            "en": "[bark]",
+            "ru_native": "Гав-гав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[гавкіт]"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S7.THETRU",
+    "entries": [
+        {
+            "tag": "A1S7.THETRU_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.THETRU_CHOICE_0000_OPTION_0000",
+            "en": "Jacob? Are you in there?",
+            "ru_native": "Джейкоб? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Ти там?"
+        },
+        {
+            "tag": "A1S7.THETRU_CHOICE_0000_OPTION_0001",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A1S7.THETRU_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.THETRU_CHOICE_0001_OPTION_0000",
+            "en": "Truck guy? Are you there?",
+            "ru_native": "Парень? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопець із вантажівки? Ти там?"
+        },
+        {
+            "tag": "A1S7.THETRU_CHOICE_0001_OPTION_0001",
+            "en": "Hello?",
+            "ru_native": "Ау?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A1S7.THETRU_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.THETRU_CHOICE_0002_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Ау?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A1S7.THETRU_RILEY_0000",
+            "en": "Jacob? Are you in there? Answer, please, I don’t know what the hell is going on.",
+            "ru_native": "Джейкоб? Ты там? Пожалуйста, ответь, я ни черта не понимаю, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Ти там? Будь ласка, відповідай, трясця,<br>я нічого не розумію, що відбувається."
+        },
+        {
+            "tag": "A1S7.THETRU_RILEY_0001",
+            "en": "Okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.THETRU_RILEY_0002",
+            "en": "Hello? Is somebody in that truck?",
+            "ru_native": "Ау? Тут кто-нибудь есть?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов? Тут хтось є у вантажівці?"
+        },
+        {
+            "tag": "A1S7.THETRU_RILEY_0003",
+            "en": "No? Are you, uh, sure?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет? Ты, эм, уверен?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.THETRU_RILEY_0004",
+            "en": "Truck guy? Are you in there? Answer, please, I don’t know what the hell is going on.",
+            "ru_native": "Парень? Ты там? Пожалуйста, ответь, я ни черта не понимаю, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопець із вантажівки? Ти там? Будь ласка, відповідай, трясця,<br>я нічого не розумію, що відбувається."
+        }
+    ]
+}

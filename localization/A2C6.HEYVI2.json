@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.HEYVI2",
+    "entries": [
+        {
+            "tag": "A2C6.HEYVI2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.HEYVI2_CHOICE_0000_OPTION_0000",
+            "en": "Don’t fall this time!",
+            "ru_native": "Не упади опять!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не впади цього разу!"
+        },
+        {
+            "tag": "A2C6.HEYVI2_CHOICE_0000_OPTION_0001",
+            "en": "Stay with me, okay?",
+            "ru_native": "Продолжай говорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишайся зі мною. Добре?"
+        },
+        {
+            "tag": "A2C6.HEYVI2_CHOICE_0000_OPTION_0002",
+            "en": "Just shut up!",
+            "ru_native": "Заткнись уже!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стулися вже!"
+        },
+        {
+            "tag": "A2C6.HEYVI2_RILEY_0000",
+            "en": "Okay, don’t—don’t fall, okay?",
+            "ru_native": "Хорошо, постарайся не падать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, не впади, добре?"
+        },
+        {
+            "tag": "A2C6.HEYVI2_RILEY_0001",
+            "en": "Okay. Violet. Just—just stay with me. Okay?",
+            "ru_native": "Вайолет. Продолжай говорить, хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Вайолет. Залишайся зі мною. Добре?"
+        },
+        {
+            "tag": "A2C6.HEYVI2_RILEY_0002",
+            "en": "Oh my God, can you just shut up?",
+            "ru_native": "Боже мой, заткнись ты наконец!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О Боже, та стулися вже!"
+        }
+    ]
+}

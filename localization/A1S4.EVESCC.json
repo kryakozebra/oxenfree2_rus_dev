@@ -1,0 +1,132 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S4.EVESCC",
+    "entries": [
+        {
+            "tag": "A1S4.EVESCC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.EVESCC_CHOICE_0000_OPTION_0000",
+            "en": "Hey, Evelyn, I’m here.",
+            "ru_native": "Да, Эвелин, я тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, я вже тут."
+        },
+        {
+            "tag": "A1S4.EVESCC_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.EVESCC_CHOICE_0001_OPTION_0000",
+            "en": "Yeah, makes sense.",
+            "ru_native": "Да, ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, зрозуміло."
+        },
+        {
+            "tag": "A1S4.EVESCC_CHOICE_0001_OPTION_0001",
+            "en": "Uh, sure, whatever you say.",
+            "ru_native": "Конечно, как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, звісно, як скажеш."
+        },
+        {
+            "tag": "A1S4.EVESCC_EVELYN_0000",
+            "en": "Ah, perfect. So… when you plant the transmitter, you’ll need to adjust it manually a little.",
+            "ru_native": "Отлично. Итак... когда установишь передатчик,<br>нужно будет его немного отрегулировать вручную.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово. Отже… коли встановиш радіопередавач,<br>треба буде трохи налаштувати його вручну."
+        },
+        {
+            "tag": "A1S4.EVESCC_EVELYN_0001",
+            "en": "Just fiddle with the dish so it aligns with the signal. You’ll know it when it happens.",
+            "ru_native": "Просто крути тарелку, пока не поймаешь сигнал. Ты поймешь, когда получится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто крути тарілку, доки не спіймаєш сигнал. Ти зрозумієш, коли вийде."
+        },
+        {
+            "tag": "A1S4.EVESCC_EVELYN_0002",
+            "en": "Sounds good?",
+            "ru_native": "Хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре?"
+        },
+        {
+            "tag": "A1S4.EVESCC_EVELYN_0003",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S4.EVESCC_EVELYN_0004",
+            "en": "Okay, well, hope you heard that! Call me back if you get confused. Over and out.",
+            "ru_native": "Ладно, надеюсь. меня было слышно! Если запутаешься, обращайся. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, сподіваюся мене було чути! Якщо заплутаєшся, звертайся. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S4.EVESCC_EVELYN_0005",
+            "en": "Great! Call me back if you get confused or anything. Over and out.",
+            "ru_native": "Отлично! Если возникнут проблемы, дай знать. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово! Якщо виникнуть проблеми, дай знати. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S4.EVESCC_RILEY_0000",
+            "en": "Hey, uh, Evelyn, yeah I’m at the summit. Over.",
+            "ru_native": "Эвелин, я на вершине. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, я вже на вершині. Прийом."
+        },
+        {
+            "tag": "A1S4.EVESCC_RILEY_0001",
+            "en": "Yeah, yeah, makes sense. Got it.",
+            "ru_native": "Да-да, поняла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так, зрозуміла."
+        },
+        {
+            "tag": "A1S4.EVESCC_RILEY_0002",
+            "en": "Uh, sure, yeah, whatever you guys need.",
+            "ru_native": "Конечно, сделаю все, что надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, звісно, зроблю все, що потрібно."
+        }
+    ]
+}

@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.NOCLI2",
+    "entries": [
+        {
+            "tag": "GLOB.NOCLI2_JACOB_0000",
+            "en": "I think your coworker said the gear was at the General Store, right?",
+            "ru_native": "Кажется, твоя коллега сказала, что снаряжение в магазине?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, твій колега сказав, що спорядження є в універмазі, так?"
+        },
+        {
+            "tag": "GLOB.NOCLI2_JACOB_0001",
+            "en": "Once we get it we should be good.",
+            "ru_native": "Как заберем, станет проще.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як тільки воно буде в нас, ми будемо в порядку."
+        },
+        {
+            "tag": "GLOB.NOCLI2_RILEY_0000",
+            "en": "[to herself] Another anchor for climbing gear I don’t have…",
+            "ru_native": "Еще один якорь для снаряжения, которого нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[До себе] Іще один карабін для альпіністського<br>спорядження, якого в мене немає…"
+        },
+        {
+            "tag": "GLOB.NOCLI2_RILEY_0001",
+            "en": "[to herself] I can’t use this until I get some.",
+            "ru_native": "Без веревки использовать не смогу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[До себе] Не можу скористатися, доки в мене не буде."
+        }
+    ]
+}

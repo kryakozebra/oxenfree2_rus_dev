@@ -1,0 +1,2832 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.ONEWOR",
+    "entries": [
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0000_OPTION_0000",
+            "en": "“Upon...”",
+            "ru_native": "«Давным...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«На світі…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0000_OPTION_0001",
+            "en": "“Satan...”",
+            "ru_native": "«Сатана...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Сатана…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0000_OPTION_0002",
+            "en": "“Santa...”",
+            "ru_native": "«Санта...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Санта…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0001_OPTION_0000",
+            "en": "“Monster...”",
+            "ru_native": "«Монстр...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Монстр…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0001_OPTION_0001",
+            "en": "“Rabbit...”",
+            "ru_native": "«Кролик...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кролик…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0001_OPTION_0002",
+            "en": "“Guy named Jacob...”",
+            "ru_native": "«Парень по имени Джейкоб...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Чувак на ім’я Джейкоб…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0002_OPTION_0000",
+            "en": "“His…”",
+            "ru_native": "«Своего...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Його…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0002_OPTION_0001",
+            "en": "“Fourteen…”",
+            "ru_native": "«Четырнадцать...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Чотирнадцять…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0002_OPTION_0002",
+            "en": "“Jacob…”",
+            "ru_native": "«Джейкоба...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Джейкоба…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0003_OPTION_0000",
+            "en": "“His…”",
+            "ru_native": "«Своего...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Його…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0003_OPTION_0001",
+            "en": "“Fourteen…”",
+            "ru_native": "«Четырнадцать...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Чотирнадцять…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0003_OPTION_0002",
+            "en": "“Jacob…”",
+            "ru_native": "«Джейкоба...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Джейкоба…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0004_OPTION_0000",
+            "en": "“Olivia.”",
+            "ru_native": "«Оливия».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Олівія»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0004_OPTION_0001",
+            "en": "“Riley”",
+            "ru_native": "«Райли».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Райлі»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0004_OPTION_0002",
+            "en": "“Jacob”",
+            "ru_native": "«Джейкоб».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Джейкоб»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0005_OPTION_0000",
+            "en": "Wabbit.",
+            "ru_native": "«Жролик».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кволик."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0005_OPTION_0001",
+            "en": "Riley",
+            "ru_native": "«Райли».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0005_OPTION_0002",
+            "en": "Jacob.",
+            "ru_native": "«Джейкоб».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0006_OPTION_0000",
+            "en": "“Hated..”",
+            "ru_native": "«Ненавидели...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Ненавиділи»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0006_OPTION_0001",
+            "en": "“Ate…”",
+            "ru_native": "«Съели...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Гризли»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0006_OPTION_0002",
+            "en": "“Killed...”",
+            "ru_native": "«Убили...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Убивали»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0007_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0007_OPTION_0001",
+            "en": "“Loudly.”",
+            "ru_native": "«Причмокивая».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Прицямкуючи»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0008_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0008_OPTION_0001",
+            "en": "“Loudly.”",
+            "ru_native": "«Причмокивая».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Прицямкуючи»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0008_OPTION_0002",
+            "en": "Okay, I’ve had enough.",
+            "ru_native": "Мне надоело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну все, досить."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0009",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0009_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0009_OPTION_0001",
+            "en": "C’mon, one more word!",
+            "ru_native": "Еще одно слово!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну ще хоч одне!"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0010",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0010_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0010_OPTION_0001",
+            "en": "There you go.",
+            "ru_native": "Вот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0011",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0011_OPTION_0000",
+            "en": "“Loved.”",
+            "ru_native": "«Любили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Любили»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0011_OPTION_0001",
+            "en": "“Avoided”",
+            "ru_native": "«Избегали».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Уникали»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0011_OPTION_0002",
+            "en": "“Hated”",
+            "ru_native": "«Ненавидели».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Ненавиділи»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0012",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0012_OPTION_0000",
+            "en": "“Loved.”",
+            "ru_native": "«Любили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Любили»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0012_OPTION_0001",
+            "en": "“Avoided”",
+            "ru_native": "«Избегали».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Уникали»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0012_OPTION_0002",
+            "en": "“Hated”",
+            "ru_native": "«Ненавидели».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Ненавиділи»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0013",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0013_OPTION_0000",
+            "en": "“Loved.”",
+            "ru_native": "«Любили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Любили»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0013_OPTION_0001",
+            "en": "“Avoided”",
+            "ru_native": "«Избегали».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Уникали»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0013_OPTION_0002",
+            "en": "“Kicked”",
+            "ru_native": "«Пинали».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Пхали»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0014",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0014_OPTION_0000",
+            "en": "“Ate”",
+            "ru_native": "«Съели».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Гризли»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0014_OPTION_0001",
+            "en": "“Pet”",
+            "ru_native": "«Гладили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Пестили»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0014_OPTION_0002",
+            "en": "“Killed”",
+            "ru_native": "«Убили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Убивали»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0015",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0015_OPTION_0000",
+            "en": "“Ate”",
+            "ru_native": "«Съели».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Гризли»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0015_OPTION_0001",
+            "en": "“Pet”",
+            "ru_native": "«Гладили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Пестили»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0015_OPTION_0002",
+            "en": "“Killed”",
+            "ru_native": "«Убили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Убивали»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0016",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0016_OPTION_0000",
+            "en": "“Ate...”",
+            "ru_native": "«Съели...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Гризли»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0016_OPTION_0001",
+            "en": "“Pet...”",
+            "ru_native": "«Гладили...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Пестили»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0016_OPTION_0002",
+            "en": "“Killed...”",
+            "ru_native": "«Убили...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Убивали»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0017",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0017_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0017_OPTION_0001",
+            "en": "Did we win?",
+            "ru_native": "Мы победили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемога?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0018",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0018_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0018_OPTION_0001",
+            "en": "Did we win?",
+            "ru_native": "Мы победили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемога?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0019",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0019_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0019_OPTION_0001",
+            "en": "Did we win?",
+            "ru_native": "Мы победили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемога?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0020",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0020_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0020_OPTION_0001",
+            "en": "Do we win?",
+            "ru_native": "Это победа?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемога?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0021",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0021_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0021_OPTION_0001",
+            "en": "Did we win?",
+            "ru_native": "Мы победили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемога?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0022",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0022_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0022_OPTION_0001",
+            "en": "Did we win?",
+            "ru_native": "Мы победили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемога?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0023",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0023_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0023_OPTION_0001",
+            "en": "Did we win?",
+            "ru_native": "Мы победили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемога?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0024",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0024_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0024_OPTION_0001",
+            "en": "Did we win?",
+            "ru_native": "Мы победили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемога?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0025",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0025_OPTION_0000",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_CHOICE_0025_OPTION_0001",
+            "en": "Did we win?",
+            "ru_native": "Мы победили?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перемога?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0000",
+            "en": "I’ll start us off.",
+            "ru_native": "Я начну.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розпочну."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0001",
+            "en": "“Once.”",
+            "ru_native": "«Однажды».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0002",
+            "en": "But, uh, to start the game—the One Word Story—let’s go with “Once.”",
+            "ru_native": "Итак, игра «Слово за слово». Предлагаю начать с «однажды».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, гра «Сніжний ком», почнемо так: «жив-був»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0003",
+            "en": "So, anyways, to start the game, let’s go with “Once.”",
+            "ru_native": "Предлагаю начать игру со слова «однажды».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну добре, почнемо так: «жив-був…»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0004",
+            "en": "And, uh, let’s quit the game. I don’t think you’re really… interested.",
+            "ru_native": "И... Закончим игру. Видимо, тебе не особо интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай, усе, закінчили. Бачу, тобі не дуже цікаво."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0005",
+            "en": "Let’s just… focus on leaving.",
+            "ru_native": "Бросим силы на поиски выхода.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередьмося… на пошуках виходу."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0006",
+            "en": "Now you go.",
+            "ru_native": "Твоя очередь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер ти."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0007",
+            "en": "“Once.”",
+            "ru_native": "«Однажды».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0008",
+            "en": "Now it’s your turn.",
+            "ru_native": "Теперь ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер твоя черга."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0009",
+            "en": "“Once…” something…",
+            "ru_native": "«Однажды» что-то там...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був…», продовж…."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0010",
+            "en": "Your turn.",
+            "ru_native": "Твое слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя черга."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0011",
+            "en": "Oh, uh… giving up already?",
+            "ru_native": "Что, уже сдаешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, уже склала лапки?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0012",
+            "en": "I mean, I get it, it’s not for everyone.",
+            "ru_native": "Понимаю, игра не для всех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумію, це не всім заходить."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0013",
+            "en": "This always happens, I’ll skip ahead, it’s like playing through in golf.",
+            "ru_native": "Стандартное начало, предлагаю сразу пропустить пару ходов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Класична ситуація, я тоді пропускаю хід, а то гра в одні ворота виходить."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0014",
+            "en": "So… “Once upon a time there was a...”",
+            "ru_native": "«Однажды давным-давно жил-был...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… «Жив-був на світі такий собі…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0015",
+            "en": "Uh, I think you said, “Upon.” Right?",
+            "ru_native": "Ты сказала «давным», да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ж сказала «на світі», так?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0016",
+            "en": "So… “Once upon a time there was a …”",
+            "ru_native": "«Однажды давным-давно жил-был...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… «Жив-був на світі такий собі…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0017",
+            "en": "Okay, now you go.",
+            "ru_native": "Теперь ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, тепер ти."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0018",
+            "en": "“Once upon a time there was a…”",
+            "ru_native": "«Однажды давным-давно жил-был...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0019",
+            "en": "Oh, okay.",
+            "ru_native": "Неплохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О-о, ну гаразд."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0020",
+            "en": "Uh…”Ate”",
+            "ru_native": "«Съел».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… «Який з’їв»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0021",
+            "en": "Back to the game—you said, “Satan.”",
+            "ru_native": "Так, ты сказала «Сатана».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… ти наче казала «Сатана»…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0022",
+            "en": "“Satan ate…” what…?",
+            "ru_native": "«Сатана съел» что-то...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Сатана, який з’їв…» що?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0023",
+            "en": "“Once Satan ate…”",
+            "ru_native": "«Однажды Сатана съел...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Сатана, який з’їв…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0024",
+            "en": "Ha! Okay…",
+            "ru_native": "Ха! Ладно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха! Прийнято…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0025",
+            "en": "Uh…”Ate”",
+            "ru_native": "«Съел».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… «Який з’їв»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0026",
+            "en": "Back to the game, you said, “Santa…”",
+            "ru_native": "Так, ты сказала «Санта».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сказала «Санта…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0027",
+            "en": "I’m adding “Ate.”",
+            "ru_native": "Добавляю «съел».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я додаю: «який з’їв»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0028",
+            "en": "“Once Santa ate…”",
+            "ru_native": "«Однажды Санта съел...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Санта, який з’їв…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0029",
+            "en": "Oooo, spooky. Okay.",
+            "ru_native": "Страшилка! Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О-о-о, будуть жахи. Ну-ну."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0030",
+            "en": "Hmm. “Named.”",
+            "ru_native": "«По имени».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гмм. «На ім’я»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0031",
+            "en": "Back to the game. “A monster… named…”",
+            "ru_native": "Так, играем. «Монстр по имени...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… «Монстр… на ім’я…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0032",
+            "en": "What?",
+            "ru_native": "Твое слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Яке?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0033",
+            "en": "“Once upon a time there was a monster named…”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0034",
+            "en": "…something…",
+            "ru_native": "Что-то там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…яке ж?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0035",
+            "en": "Okey dokey, rabbit… hmmm.",
+            "ru_native": "Ладненько, кролик...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добренько, кролик так кролик… гм…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0036",
+            "en": "Okay, got it. “Named.”",
+            "ru_native": "Есть. «По имени».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийнято. «На ім’я»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0037",
+            "en": "Uh, but back to the game. You said rabbit. I’m adding “Named.”",
+            "ru_native": "Продолжим игру. Ты сказала «кролик». Добавляю «по имени».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжуємо. Ти обрала кролика. Я додаю «на ім’я»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0038",
+            "en": "“Rabbit named…”",
+            "ru_native": "«Кролик по имени...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кролик на ім’я…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0039",
+            "en": "“Once upon a time there was a rabbit named…”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0040",
+            "en": "...what…?",
+            "ru_native": "Твое слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…яке?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0041",
+            "en": "Okay, I’m going to let you slide since you’re a first timer, but that’s more than one word.",
+            "ru_native": "Так, на первый раз прощаю, но вообще-то это не одно слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну гаразд. Взагалі-то тут слів забагато, але оскільки це перша гра… най буде."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0042",
+            "en": "But fine. I’ll cheat, too. Uh… “Guy named Jacob who everyone…”",
+            "ru_native": "Ладно, тоже добавлю. «Парень по имени Джейкоб, которого все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До біса правила, я тоді так додам: «Чувак на ім’я Джейкоб, якого…»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0043",
+            "en": "But you said, uh, “Guy named Jacob.”",
+            "ru_native": "Ты сказала «парень по имени Джейкоб».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То ти сказала… «Чувак на ім’я Джейкоб…»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0044",
+            "en": "I’ll add, “A guy named Jacob who everyone…”",
+            "ru_native": "Тогда «парень по имени Джейкоб, которого все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я додам: «Чувак на ім’я Джейкоб, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0045",
+            "en": "...something…",
+            "ru_native": "Что-то там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…що?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0046",
+            "en": "So…",
+            "ru_native": "Итак...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0047",
+            "en": "“Once upon a time there was a guy named Jacob who everyone…”",
+            "ru_native": "«Однажды давным-давно жил-был парень по имени Джейкоб, которого все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі чувак на ім’я Джейкоб, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0048",
+            "en": "Then what?",
+            "ru_native": "Все что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що далі?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0049",
+            "en": "Hmmm… okay. “His…”",
+            "ru_native": "Так. «Своего»...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм-м-м… На гаразд, «його»…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0050",
+            "en": "“Mailman!”",
+            "ru_native": "«Почтальона»!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Листоношу!»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0051",
+            "en": "Okay, but, uh, you said, “His…”",
+            "ru_native": "Ты сказала «своего»...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, хвилинку, ти сказала «його»…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0052",
+            "en": "“His mailman…”",
+            "ru_native": "«Своего почтальона...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Його листоношу…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0053",
+            "en": "Now you go.",
+            "ru_native": "Твоя очередь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер ти."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0054",
+            "en": "I said Mailman too confidently.",
+            "ru_native": "Поспешил я с почтальоном.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І чому листоноша?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0055",
+            "en": "I’m regretting it now.",
+            "ru_native": "Теперь жалею.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я щось не подумав."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0056",
+            "en": "But, uh, then what?",
+            "ru_native": "И что потом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що буде далі?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0057",
+            "en": "Uh… I guess that can be the end of it?",
+            "ru_native": "На этом и закончим?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, гадаю, нічого додати?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0058",
+            "en": "Oooo good one. Uh….",
+            "ru_native": "Неплохо. Хм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О-о-о, чудово. Ем…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0059",
+            "en": "“Children.”",
+            "ru_native": "«Детей».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Дітей»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0060",
+            "en": "I don’t know why I said, “children.”",
+            "ru_native": "Не знаю, почему сказал «детей».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не питай, чому я сказав «дітей»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0061",
+            "en": "But let’s just go with it.",
+            "ru_native": "Но оставим так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто продовж."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0062",
+            "en": "Ha! Yeah, that’s me. Okay. Uhhh…",
+            "ru_native": "Ха! Это я. Так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха! Це я, так. Ну-у…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0063",
+            "en": "“The End?”",
+            "ru_native": "«Конец»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0064",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0065",
+            "en": "Or…?",
+            "ru_native": "Или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи…?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0066",
+            "en": "I’m going with it. “The End.”",
+            "ru_native": "Ну что ж. «Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж. «Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0067",
+            "en": "Ha! Okay.",
+            "ru_native": "Ха! Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха! Гаразд…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0068",
+            "en": "Uh… “Regrettably.”",
+            "ru_native": "«К сожалению».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… «На превеликий жаль»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0069",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0070",
+            "en": "Cause it’s a bad thing.",
+            "ru_native": "Потому что это грустно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо справді жаль."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0071",
+            "en": "What’s happening…?",
+            "ru_native": "Жаль парня...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Такий хлопець хороший був."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0072",
+            "en": "Okay, I’m calling it. Making it official...",
+            "ru_native": "Ладно, я скажу. Официальный финал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що ж… барабанний дріб…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0073",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0074",
+            "en": "Brilliant, great.",
+            "ru_native": "Восхитительно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прекрасно, чудово."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0075",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0076",
+            "en": "Good job, we did it. I’m proud of us.",
+            "ru_native": "Отлично получилось. Я нами горжусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудова робота, ми впоралися. Я нами пишаюся."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0077",
+            "en": "Yeah, agreed. “The End.”",
+            "ru_native": "Согласен. «Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Згоден. «Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0078",
+            "en": "Ha. Yes—that’s—good one.",
+            "ru_native": "Вполне неплохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хах, так. Непогано."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0079",
+            "en": "Hmmm. Okay… “Everyone.”",
+            "ru_native": "Так-с... «И все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм-м-м… Скажімо… «Якого»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0080",
+            "en": "But, uh, you said—for the game—“Olivia—”",
+            "ru_native": "Мы остановились на... «Оливия».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти там казала… «Олівія»…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0081",
+            "en": "So, uh, “Olivia everyone—”",
+            "ru_native": "«Оливия, и все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То… «Олівія, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0082",
+            "en": "“Once upon a time there was a monster named Olivia, everyone…”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Оливия, и все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Олівія, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0083",
+            "en": "…what's next?",
+            "ru_native": "Что дальше?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…що далі?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0084",
+            "en": "Hey, that’s you! Some self-referential humor, there.",
+            "ru_native": "Это же ты! Вижу, самоирония вам не чужда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, це ж ти! Самоіронія це добре."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0085",
+            "en": "Hmmm. Okay… “Everyone.”",
+            "ru_native": "Так-с... «И все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм-м-м… Скажімо… «Якого»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0086",
+            "en": "But, uh, for the game, you said, “Riley,” so I’ll add “Everyone.”",
+            "ru_native": "Ты предложила имя «Райли», а я добавлю «и все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти там казала… «Райлі»… і я тепер додаю: «Якого»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0087",
+            "en": "“Riley everyone—”",
+            "ru_native": "«Райли, и все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Райлі, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0088",
+            "en": "Something…",
+            "ru_native": "Что-то там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось там мали б робити…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0089",
+            "en": "“Once upon a time there was a monster named Riley, everyone…”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Райли, и все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Райлі, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0090",
+            "en": "…what’s next?",
+            "ru_native": "Что дальше?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…що далі?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0091",
+            "en": "Hey, that’s me! Oh, some referential humor, there, lovely.",
+            "ru_native": "Это же я! Смотрю, иронизируешь над друзьями?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, це ж я! М-м, самоіронія, обожнюю."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0092",
+            "en": "Hmmm. So—okay—“Everyone.”",
+            "ru_native": "Так-с... «И все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну добре. Тоді… «Якого»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0093",
+            "en": "But—back to the game—we’re at “Monster Jacob”",
+            "ru_native": "Мы остановились на «монстр Джейкоб».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зупинилися на «Монстрі на ім’я Джейкоб»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0094",
+            "en": "“Monster Jacob, everyone…”",
+            "ru_native": "«Монстр Джейкоб, которого все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Монстр Джейкоб, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0095",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0096",
+            "en": "“Once upon a time there was a monster named Jacob, everyone…”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Джейкоб, и все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Джейкоб, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0097",
+            "en": "What’s next?",
+            "ru_native": "Что дальше?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А далі?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0098",
+            "en": "I hope it’s something good!",
+            "ru_native": "Надеюсь, что-то хорошее!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, із ним усе буде гаразд!"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0099",
+            "en": "Uh—okay, not particularly creative, there, but… alright. “Wabbit.”",
+            "ru_native": "Как по мне, не особо оригинальное имя, ну да ладно. «Жролик».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Банальщина, але най буде. «Кволик», значить."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0100",
+            "en": "Hmmm. “Everyone.”",
+            "ru_native": "Хм-м. «И все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм-м-м… «Якого»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0101",
+            "en": "But—okay, for the game, you said, “Wabbit—”",
+            "ru_native": "Так, ты сказала «Жролик».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тоді сказала «Кволик»…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0102",
+            "en": "—and I’ll add “Everyone.”",
+            "ru_native": "Добавлю «и все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я додаю: «Якого»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0103",
+            "en": "“The Wabbit everyone... “ something.",
+            "ru_native": "«Жролик, и все» что-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кволик, якого…» що?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0104",
+            "en": "“Once upon a time there was a rabbit named Wabbit, everyone…”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Жролик, и все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Кволик, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0105",
+            "en": "What did everyone do to this critter?",
+            "ru_native": "Что все делали с парнем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що із сердешним робили?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0106",
+            "en": "Ah! I get it—it’s you—that’s your name.",
+            "ru_native": "Понял, это ты. Твое имя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Це ж ти! Твоє ім’я."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0107",
+            "en": "Hmmm. “Everyone.”",
+            "ru_native": "Хм-м. «И все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм-м-м… «Якого»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0108",
+            "en": "But, for the game, you said, “Riley,” and I’ll add, “Everyone.”",
+            "ru_native": "Ты предложила имя «Райли», а я добавлю «и все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти казала «Райлі», то я додаю: «Якого…»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0109",
+            "en": "“Riley the rabbit, everyone—” something…",
+            "ru_native": "«Кролик Райли, и все» что-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кролик Райлі, якого»… що?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0110",
+            "en": "“Once upon a time there was a rabbit named Riley, everyone…”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Райли, и все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Райлі, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0111",
+            "en": "...everyone what…?",
+            "ru_native": "Все что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…якого що?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0112",
+            "en": "Hmmm. So—okay—“Everyone.”",
+            "ru_native": "Так-с... «И все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну добре. Тоді… «Якого»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0113",
+            "en": "But, so—back to the One Word thing—you said “Jacob” and I’ll add “Everyone.”",
+            "ru_native": "Обратно к игре... Ты сказала «Джейкоб», а я добавлю «и все».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Минулим словом у нашому Сніжному комі був твій «Джейкоб». Я додаю: «Якого»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0114",
+            "en": "So—Jacob the Rabbit everyone… something…",
+            "ru_native": "«Кролик Джейкоб, и все» что-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виходить… Кролик Джейкоб, якого… щось…"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0115",
+            "en": "“Once upon a time there was a rabbit named Jacob, everyone…”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Джейкоб, и все...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Джейкоб, якого…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0116",
+            "en": "…who everyone what?",
+            "ru_native": "Все что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…якого що?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0117",
+            "en": "Aww.",
+            "ru_native": "О-о-о.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оу-у-у."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0118",
+            "en": "Loved… “him.”",
+            "ru_native": "Любили... «его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Любили… «усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0119",
+            "en": "But, back to the—uh, you said, “Loved.” And I’m adding, “Him.”",
+            "ru_native": "Так, ты сказала «любили». А я добавлю «его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжуємо. Ти сказала: «Любили». Я додаю: «Усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0120",
+            "en": "“Loved him.”",
+            "ru_native": "«Любили его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Любили всі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0121",
+            "en": "Anything else?",
+            "ru_native": "Еще слово?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще що-небудь?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0122",
+            "en": "“Loved him.”",
+            "ru_native": "«Любили его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Любили всі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0123",
+            "en": "Okay, good enough, I think—I’m calling it.",
+            "ru_native": "Думаю, этого хватит. Закругляемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, непогано вийшло, скажу я тобі."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0124",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0125",
+            "en": "Poor guy.",
+            "ru_native": "Бедняга.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бідолаха."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0126",
+            "en": "I guess… “him.” “Avoided him.”",
+            "ru_native": "Видимо... «его». «Избегали его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай буде… «Усі». «Уникали всі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0127",
+            "en": "So, for the game, you said, “Avoided.”",
+            "ru_native": "В игре ты сказала «Избегали».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти казала: «Уникали»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0128",
+            "en": "And I’ll add “Him.” Avoided him.",
+            "ru_native": "А я добавлю «его». Избегали его.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я додаю: «Усі». Уникали всі."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0129",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0130",
+            "en": "Ah! Uh, “him.”",
+            "ru_native": "«Его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0131",
+            "en": "But, uh, you said, “Kicked?”",
+            "ru_native": "Так, ты сказала «пинали»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сказала, ем, «пхали»?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0132",
+            "en": "So I’ll add “Him.” “Kicked him.” For the game.",
+            "ru_native": "Добавлю «его». «Пинали его». Я про игру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну тоді «всі». «Пхали всі». У грі, звичайно."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0133",
+            "en": "“Kicked him.”",
+            "ru_native": "«Пинали его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Пхали всі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0134",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0135",
+            "en": "I’m calling it.",
+            "ru_native": "Да, закругляемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Закругляємося."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0136",
+            "en": "“The End.”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0137",
+            "en": "“Her.”",
+            "ru_native": "«Ее».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0138",
+            "en": "So… you said, “Loved.” I’ll add “Her.”",
+            "ru_native": "Ты сказала «любили». Добавляю «ее».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сказала: «Любили». А я кажу: «Усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0139",
+            "en": "Oh, that’s sad. Uh, “her.”",
+            "ru_native": "Печально. «Ее».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, печаль. «Усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0140",
+            "en": "“Avoided her.”",
+            "ru_native": "«Избегали ее».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Уникали всі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0141",
+            "en": "Oof, geez. Uh… you left me with the only option, I guess. “Her.”",
+            "ru_native": "Нехило. Полагаю, у меня только один вариант. «Ее».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи. Ну не так багато варіантів залишилося. Хай будуть «Усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0142",
+            "en": "“Hated her…”",
+            "ru_native": "«Ненавидели ее».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Ненавиділи всі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0143",
+            "en": "Makes sense. Uh… “him.”",
+            "ru_native": "Логично. «Его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Логічно. «Усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0144",
+            "en": "“Ate him” They ate him?",
+            "ru_native": "«Съели его». Они его съели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Гризли всі». Усі гризли."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0145",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0146",
+            "en": "Aww. Pet… “him.”",
+            "ru_native": "Гладили... «его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оу-у-у. «Пестили»… «усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0147",
+            "en": "Everyone wanted to pet the rabbit.",
+            "ru_native": "Все хотят погладить кролика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі хотіли попестити кролика."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0148",
+            "en": "Oof. Killed… “him.”",
+            "ru_native": "Ой. Убили... «его».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Йой. «Убивали»… «усі»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0149",
+            "en": "The rabbit’s dead now.",
+            "ru_native": "Кролик мертв.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі вбивали-вбивали і врешті-решт забили того криля."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0150",
+            "en": "Great.",
+            "ru_native": "Отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0151",
+            "en": "Uh—sure, why not? We won the game.",
+            "ru_native": "Почему бы нет? Мы выиграли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е, звичайно, чому ні? Ми перемогли."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0152",
+            "en": "Okay, so let’s review…",
+            "ru_native": "Итак, у нас получилось...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, перевіряймо."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0153",
+            "en": "“Once Satan ate his mailman. The End.”",
+            "ru_native": "«Однажды Сатана съел своего почтальона. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Сатана, який з’їв свого листоношу. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0154",
+            "en": "“Once Satan ate Jacob. The End.”",
+            "ru_native": "«Однажды Сатана съел Джейкоба. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Сатана, який з’їв Джейкоба. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0155",
+            "en": "“Once Satan ate fourteen children. The End.”",
+            "ru_native": "«Однажды Сатана съел четырнадцать детей. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Сатана, який з’їв чотирнадцять дітей. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0156",
+            "en": "“Once Satan ate his mailman loudly. The End.”",
+            "ru_native": "«Однажды Сатана съел своего почтальона, причмокивая. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Сатана, який з’їв свого листоношу прицямкуючи. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0157",
+            "en": "“Once Satan ate Jacob, regrettably. The End.”",
+            "ru_native": "«Однажды Сатана съел Джейкоба, к сожалению. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Сатана, який з’їв Джейкоба, на превеликий жаль. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0158",
+            "en": "“Once Satan ate fourteen children loudly. The End.”",
+            "ru_native": "«Однажды Сатана съел четырнадцать детей, причмокивая. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Сатана, який з’їв чотирнадцять дітей прицямкуючи. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0159",
+            "en": "“Once Santa ate his mailman. The End.”",
+            "ru_native": "«Однажды Санта съел своего почтальона. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Санта, який з’їв свого листоношу. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0160",
+            "en": "“Once Santa ate Jacob. The End.”",
+            "ru_native": "«Однажды Санта съел Джейкоба. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Санта, який з’їв Джейкоба. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0161",
+            "en": "“Once Santa ate fourteen children. The End.”",
+            "ru_native": "«Однажды Санта съел четырнадцать детей. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Санта, який з’їв чотирнадцять дітей. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0162",
+            "en": "“Once Santa ate his mailman loudly. The End.”",
+            "ru_native": "«Однажды Санта съел своего почтальона, причмокивая. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Санта, який з’їв свого листоношу. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0163",
+            "en": "“Once Santa ate Jacob, regrettably. The End.”",
+            "ru_native": "«Однажды Санта съел Джейкоба, к сожалению. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Санта, який з’їв Джейкоба, на превеликий жаль. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0164",
+            "en": "“Once Santa ate fourteen children loudly. The End.”",
+            "ru_native": "«Однажды Санта съел четырнадцать детей, причмокивая. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був Санта, який з’їв чотирнадцять дітей прицямкуючи. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0165",
+            "en": "“Once upon a time there was a monster named Olivia, everyone loved him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Оливия, и все любили его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Олівія, якого всі любили. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0166",
+            "en": "“Once upon a time there was a monster named Riley, everyone loved her. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Райли, и все любили ее. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Райлі, якого всі любили. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0167",
+            "en": "“Once upon a time there was a monster named Jacob, everyone loved him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Джейкоб, и все любили его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Джейкоб, якого всі любили. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0168",
+            "en": "“Once upon a time there was a monster named Olivia, everyone avoided him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Оливия, и все избегали его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Олівія, якого всі уникали. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0169",
+            "en": "“Once upon a time there was a monster named Riley, everyone avoided her. The End.\"",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Райли, и все избегали ее. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Райлі, якого всі уникали. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0170",
+            "en": "“Once upon a time there was a monster named Jacob, everyone avoided him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Джейкоб, и все избегали его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Джейкоб, якого всі уникали. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0171",
+            "en": "“Once upon a time there was a monster named Olivia, everyone hated her. The End.\"",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Оливия, и все ненавидели его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Олівія, якого всі ненавиділи. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0172",
+            "en": "“Once upon a time there was a monster named Riley, everyone hated her. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Райли, и все ненавидели ее. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Райлі, якого всі ненавиділи. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0173",
+            "en": "“Once upon a time there was a monster named Jacob, everyone kicked him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был монстр по имени Джейкоб, и все пинали его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі монстр на ім’я Джейкоб, якого всі пхали. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0174",
+            "en": "“Once upon a time there was a rabbit named Wabbit, everyone pet him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Жролик, и все гладили его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Кволик, якого всі пестили. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0175",
+            "en": "“Once upon a time there was a rabbit named Riley, everyone pet him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Райли, и все ненавидели его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Райлі, якого всі пестили. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0176",
+            "en": "“Once upon a time there was a rabbit named Jacob, everyone pet him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Джейкоб, и все гладили его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Джейкоб, якого всі пестили. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0177",
+            "en": "“Once upon a time there was a rabbit named Wabbit, everyone ate him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Жролик, и все съели его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Кволик, якого всі гризли. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0178",
+            "en": "“Once upon a time there was a rabbit named Riley, everyone ate him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Райли, и все съели его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Райлі, якого всі гризли. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0179",
+            "en": "“Once upon a time there was a rabbit named Jacob, everyone ate him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Джейкоб, и все съели его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Джейкоб, якого всі гризли. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0180",
+            "en": "“Once upon a time there was a rabbit named Wabbit, everyone killed him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Жролик, и все убили его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Кволик, якого всі вбивали. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0181",
+            "en": "“Once upon a time there was a rabbit named Riley, everyone killed him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Райли, и все убили его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Райлі, якого всі вбивали. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0182",
+            "en": "“Once upon a time there was a rabbit named Jacob, everyone killed him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был кролик по имени Джейкоб, и все убили его. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі кролик на ім’я Джейкоб, якого всі вбивали. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0183",
+            "en": "“Once upon a time there was a guy named Jacob, everyone hated him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был парень по имени<br>Джейкоб, которого все ненавидели. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі чувак на ім’я Джейкоб, якого всі ненавиділи. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0184",
+            "en": "“Once upon a time there was a guy named Jacob, everyone ate him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был парень по имени Джейкоб, которого все съели. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі чувак на ім’я Джейкоб, якого всі гризли. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0185",
+            "en": "“Once upon a time there was a guy named Jacob, everyone killed him. The End.”",
+            "ru_native": "«Однажды давным-давно жил-был парень по имени Джейкоб, которого все убили. Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Жив-був на світі такий собі чувак на ім’я Джейкоб, якого всі вбивали. Кінець.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0186",
+            "en": "I’ll uh—I’ll… pipe down, now. [sighs]",
+            "ru_native": "Ладно, я умолкаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе, усе, мовчу… [зітхає]"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0187",
+            "en": "Lead on.",
+            "ru_native": "Веди меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Веди."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0188",
+            "en": "But, uh, back to the… game—oh forget it—I can’t even remember where we left off.",
+            "ru_native": "Так, что там с игрой... Хотя нет, проехали. Я даже не помню, на чем мы остановились.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щодо гри, може… Хоча забудь, я вже забув, на чому ми зупинилися."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0189",
+            "en": "Let’s just focus on finding an exit.",
+            "ru_native": "Бросим силы на поиски выхода.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередьмося на пошуках виходу."
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0190",
+            "en": "You can name a boy Olivia, why the hell not?",
+            "ru_native": "Мальчика тоже можно назвать Оливия, почему нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто, чорт забирай, може заборонити назвати хлопця Олівією?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_JACOB_0191",
+            "en": "Riley can be a boy or girl name. Even for rabbits. Even for everyone!",
+            "ru_native": "Райли может быть и мальчик, и девочка. Да хоть кролик. Кто угодно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі — це й жіноче, і чоловіче ім’я. І кроляче. І будь-кого, взагалі."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0000",
+            "en": "“Upon.”",
+            "ru_native": "«Давным...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«На світі…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0001",
+            "en": "“Satan.”",
+            "ru_native": "«Сатана...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Сатана»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0002",
+            "en": "“Santa.”",
+            "ru_native": "«Санта».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Санта.»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0003",
+            "en": "“Monster”",
+            "ru_native": "«Монстр».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Монстр…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0004",
+            "en": "“Rabbit.”",
+            "ru_native": "«Кролик».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кролик»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0005",
+            "en": "“Guy named Jacob.”",
+            "ru_native": "«Парень по имени Джейкоб».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Чувак на ім’я Джейкоб…»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0006",
+            "en": "“His…?”",
+            "ru_native": "«Своего»?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Його»?"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0007",
+            "en": "“Fourteen.”",
+            "ru_native": "«Четырнадцать».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Чотирнадцять»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0008",
+            "en": "“Jacob.”",
+            "ru_native": "«Джейкоба».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Джейкоба»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0009",
+            "en": "Oh, c’mon, one more word!",
+            "ru_native": "Нет, давай еще одно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну ще хоч одне!"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0010",
+            "en": "There you go. Done. And Balzac is spinning in his grave.",
+            "ru_native": "Вот. Готово. Бальзак в гробу перевернулся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось і все. Я вже чую, як Бальзак у труні крутиться."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0011",
+            "en": "“Loudly.”",
+            "ru_native": "«Причмокивая».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Прицямкуючи»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0012",
+            "en": "“The End”",
+            "ru_native": "«Конец».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кінець»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0013",
+            "en": "Yeah, let’s wrap it up.",
+            "ru_native": "Да, сворачиваемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Закругляємося."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0014",
+            "en": "“Olivia...”",
+            "ru_native": "«Оливия...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Олівія…»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0015",
+            "en": "“Riley.”",
+            "ru_native": "«Райли».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Райлі»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0016",
+            "en": "“Jacob.”",
+            "ru_native": "«Джейкоба».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Джейкоб»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0017",
+            "en": "“Wabbit.”",
+            "ru_native": "«Жролик».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Кволик»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0018",
+            "en": "“Riley.”",
+            "ru_native": "«Райли».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Райлі»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0019",
+            "en": "“Jacob.”",
+            "ru_native": "«Джейкоба».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Джейкоб»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0020",
+            "en": "“Loved.”",
+            "ru_native": "«Любили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Любили»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0021",
+            "en": "“Avoided.”",
+            "ru_native": "«Избегали».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Уникали»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0022",
+            "en": "“Kicked.”",
+            "ru_native": "«Пинали».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Пхали»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0023",
+            "en": "“Loved.”",
+            "ru_native": "«Любили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Любили»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0024",
+            "en": "“Avoided.”",
+            "ru_native": "«Избегали».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Уникали»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0025",
+            "en": "“Hated.”",
+            "ru_native": "«Ненавидели».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Ненавиділи»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0026",
+            "en": "“Ate.”",
+            "ru_native": "«Съели».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Гризли»"
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0027",
+            "en": "“Pet.”",
+            "ru_native": "«Гладили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Пестили»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0028",
+            "en": "“Killed.”",
+            "ru_native": "«Убили».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Убивали»."
+        },
+        {
+            "tag": "A2C4.ONEWOR_RILEY_0029",
+            "en": "So… did we win? Cause I feel like a winner.",
+            "ru_native": "Так мы победили? Я чувствую себя победителем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, то… ми перемогли? Почуваюся, як переможець."
+        }
+    ]
+}

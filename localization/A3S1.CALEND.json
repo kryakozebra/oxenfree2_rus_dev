@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S1.CALEND",
+    "entries": [
+        {
+            "tag": "A3S1.CALEND_RILEY_0000",
+            "en": "\"Seven eleven\" is highlighted. Huh. Okay.",
+            "ru_native": "7/11 выделено. Хм. Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "7/11 виділено. Гм. Ну гаразд."
+        },
+        {
+            "tag": "A3S1.CALEND_RILEY_0001",
+            "en": "“MB?”",
+            "ru_native": "«ДРМ»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«ДНМ»?"
+        },
+        {
+            "tag": "A3S1.CALEND_RILEY_0002",
+            "en": "Wait, “MB.” Marco’s birthday?",
+            "ru_native": "Погоди, «ДРМ». День рождения Марко?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, «ДНМ». День народження Марко?"
+        },
+        {
+            "tag": "A3S1.CALEND_RILEY_0003",
+            "en": "Maybe \"seven eleven\" is the lock code? Parents do stuff like that.",
+            "ru_native": "Может, 7/11 – код от замка? Родители часто так делают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.CALEND_RILEY_0004",
+            "en": "I think we got everything we need.",
+            "ru_native": "Думаю, у нас есть все, что нужно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.CALEND_SFX_0000",
+            "en": "[bark]",
+            "ru_native": "Гав-гав.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[гавкіт]"
+        }
+    ]
+}

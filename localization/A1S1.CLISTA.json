@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.CLISTA",
+    "entries": [
+        {
+            "tag": "A1S1.CLISTA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.CLISTA_CHOICE_0000_OPTION_0000",
+            "en": "Anyone up there?",
+            "ru_native": "Есть там кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут хтось є?"
+        },
+        {
+            "tag": "A1S1.CLISTA_CHOICE_0000_OPTION_0001",
+            "en": "Lighthouse looks off.",
+            "ru_native": "Маяк не работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маяк не працює."
+        },
+        {
+            "tag": "A1S1.CLISTA_RILEY_0000",
+            "en": "Uh, is anyone up there?",
+            "ru_native": "Есть кто наверху?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось є нагорі?"
+        },
+        {
+            "tag": "A1S1.CLISTA_RILEY_0001",
+            "en": "Doesn’t look like the lamp works anymore.",
+            "ru_native": "Кажется, лампа больше не работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, лампа більше не працює."
+        }
+    ]
+}

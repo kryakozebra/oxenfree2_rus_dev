@@ -1,0 +1,258 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.VIFAND",
+    "entries": [
+        {
+            "tag": "A2C6.VIFAND_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.VIFAND_CHOICE_0000_OPTION_0000",
+            "en": "Are you okay?",
+            "ru_native": "Ты в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти в порядку?"
+        },
+        {
+            "tag": "A2C6.VIFAND_CHOICE_0000_OPTION_0001",
+            "en": "Stay right there!",
+            "ru_native": "Стой на месте!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій на місці!"
+        },
+        {
+            "tag": "A2C6.VIFAND_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.VIFAND_CHOICE_0001_OPTION_0000",
+            "en": "I need to place the transmitter.",
+            "ru_native": "Мне нужно установить передатчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібно розмістити радіопередавач."
+        },
+        {
+            "tag": "A2C6.VIFAND_CHOICE_0001_OPTION_0001",
+            "en": "Everyone is insane.",
+            "ru_native": "Все сошли с ума.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі з глузду з’їхали."
+        },
+        {
+            "tag": "A2C6.VIFAND_JACOB_0000",
+            "en": "Hey!",
+            "ru_native": "Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов!"
+        },
+        {
+            "tag": "A2C6.VIFAND_JACOB_0001",
+            "en": "Ugh, God.",
+            "ru_native": "Ух, боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи."
+        },
+        {
+            "tag": "A2C6.VIFAND_JACOB_0002",
+            "en": "This is… getting bad.",
+            "ru_native": "Да... плохо дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… кепські справи."
+        },
+        {
+            "tag": "A2C6.VIFAND_JACOB_0003",
+            "en": "Is she going to be okay?",
+            "ru_native": "С ней все будет в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З нею все буде гаразд?"
+        },
+        {
+            "tag": "A2C6.VIFAND_JACOB_0004",
+            "en": "Are we?",
+            "ru_native": "А с нами?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А з нами?"
+        },
+        {
+            "tag": "A2C6.VIFAND_JACOB_0005",
+            "en": "Yeah… let’s do it.",
+            "ru_native": "Да... давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… уперед."
+        },
+        {
+            "tag": "A2C6.VIFAND_JACOB_0006",
+            "en": "We should get the, uh, transmitter to its location—see if it works.",
+            "ru_native": "Нам надо поставить передатчик на место и проверить, работает ли он.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам потрібно поставити радіопередавач на місце й перевірити, чи він працює."
+        },
+        {
+            "tag": "A2C6.VIFAND_JACOB_0007",
+            "en": "I think the best spot is on the cliff over here.",
+            "ru_native": "Думаю, лучше всего поставить тут, на скале.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, найкраще місце — на цій скелі."
+        },
+        {
+            "tag": "A2C6.VIFAND_RILEY_0000",
+            "en": "Hey! Kid! You okay?!",
+            "ru_native": "Эй! Ты в порядке?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Ти в порядку?"
+        },
+        {
+            "tag": "A2C6.VIFAND_RILEY_0001",
+            "en": "Do not move! Stay there!",
+            "ru_native": "Не двигайся! Стой там!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ані руш! Стій там!"
+        },
+        {
+            "tag": "A2C6.VIFAND_RILEY_0002",
+            "en": "Forget her. We need to place that transmitter and keep it moving.",
+            "ru_native": "Забудь о ней. Нам надо установить передатчик и двигаться дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забудь про неї. Нам потрібно розмістити той радіопередавач і рухатися далі."
+        },
+        {
+            "tag": "A2C6.VIFAND_RILEY_0003",
+            "en": "I swear to God, every single human being is insane.",
+            "ru_native": "Клянусь Богом, все люди сошли с ума.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Присягаюся Богом, усі люди з глузду з’їхали."
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0000",
+            "en": "You—[falls; yelp]",
+            "ru_native": "Вы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви… [падає; скиглить]"
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0001",
+            "en": "[ID-2] [hitting the ground] [USE SFX INSTEAD]",
+            "ru_native": "[ID-2]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0002",
+            "en": "Agh!",
+            "ru_native": "А!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ах!"
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0003",
+            "en": "Ow—damnit!",
+            "ru_native": "О... проклятье!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От… чорт!"
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0004",
+            "en": "Ow ow ow.",
+            "ru_native": "Ой-ей-ей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой-ой-ой!"
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0005",
+            "en": "Damnit!",
+            "ru_native": "Черт!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько!"
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0006",
+            "en": "I don’t—agh!",
+            "ru_native": "Я не!..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не… ай!"
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0007",
+            "en": "Just—don’t follow me!",
+            "ru_native": "Просто... не ходите за мной!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… не ходіть за мною!"
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0008",
+            "en": "Just… if you know what’s good for you… you won’t follow me.",
+            "ru_native": "Просто... если не хотите проблем... не ходите за мной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… якщо не хочете проблем… не ходіть за мною."
+        },
+        {
+            "tag": "A2C6.VIFAND_VIOLET_0009",
+            "en": "Just leave us alone.",
+            "ru_native": "Просто оставьте нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто дайте нам спокій."
+        }
+    ]
+}

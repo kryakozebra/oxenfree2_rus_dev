@@ -1,0 +1,1113 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.FISHIN",
+    "entries": [
+        {
+            "tag": "A2W4.FISHIN_CHARLIE_0000",
+            "en": "*Phlegmy vile coughing. Gasping for air. Nearly choking*",
+            "ru_native": "*кашляет, задыхается*",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "*Важко кашляє. Задихається*"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHARLIE_0001",
+            "en": "Hey! *cough* Don’t leave!—*coughing, choking*",
+            "ru_native": "Эй! *кашляет* Не уходи!.. *кашляет, задыхается*",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! *кашляє* Не йдіть! *кашляє, задихається*"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHARLIE_0002",
+            "en": "*coughing, choking*",
+            "ru_native": "*кашляет, задыхается*",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "*кашляє, задихається*"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHARLIE_0003",
+            "en": "Wait!!!",
+            "ru_native": "Подожди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заждіть!"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHARLIE_0004",
+            "en": "Passengers. We’ll be arriving soon.",
+            "ru_native": "Уважаемые пассажиры, мы прибываем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пасажири. Незабаром прибуття."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHARLIE_0005",
+            "en": "Check under your seat to make sure you don’t leave behind any personal belongings.",
+            "ru_native": "Загляните под сиденье и убедитесь, что не оставили на борту личные вещи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Переконайтеся, що ваші особисті речі не були залишені під сидінням."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHARLIE_0006",
+            "en": "Jonas!",
+            "ru_native": "Джонас!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джонасе!"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0000_OPTION_0000",
+            "en": "Uh oh…",
+            "ru_native": "О-оу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой-йой…"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0000_OPTION_0001",
+            "en": "Yeah, right, kid.",
+            "ru_native": "Ага, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це точно, синку."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0000_OPTION_0002",
+            "en": "I can relate...",
+            "ru_native": "Понимаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумію…"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0001_OPTION_0000",
+            "en": "What are we using?",
+            "ru_native": "Какая у нас наживка?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На що ми ловимо?"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0001_OPTION_0001",
+            "en": "You don’t want live bait.",
+            "ru_native": "Радоваться должен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не хочеш ловити на живця."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0001_OPTION_0002",
+            "en": "How about we use you?",
+            "ru_native": "Тебя закинем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може ти будеш наживкою?"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0002_OPTION_0000",
+            "en": "Oh hush.",
+            "ru_native": "Отстань.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тихіше там."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0002_OPTION_0001",
+            "en": "Finding things can be hard…",
+            "ru_native": "Искать не так просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукати, буває, не так просто…"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0002_OPTION_0002",
+            "en": "This is different!",
+            "ru_native": "Это другое!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це зовсім інше!"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0003_OPTION_0000",
+            "en": "Oh hush.",
+            "ru_native": "Отстань.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тихіше там."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0003_OPTION_0001",
+            "en": "Thanks for the compliment.",
+            "ru_native": "Спасибо за комплимент.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за комплімент."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0003_OPTION_0002",
+            "en": "Fishing is a little different.",
+            "ru_native": "Рыбалка – это другое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Риболовля то інша справа."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0004_OPTION_0000",
+            "en": "Sure.",
+            "ru_native": "Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0004_OPTION_0001",
+            "en": "We’re throwing it back.",
+            "ru_native": "Отпустим обратно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Викинь назад у воду."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0004_OPTION_0002",
+            "en": "How about we bake it?",
+            "ru_native": "Может, запечем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може запечемо?"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0005_OPTION_0000",
+            "en": "We’re leaving!",
+            "ru_native": "Уходим!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми йдемо!"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0005_OPTION_0001",
+            "en": "Get under something!",
+            "ru_native": "Спрячься!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сховайся під чимось!"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0006_OPTION_0000",
+            "en": "Charlie?!",
+            "ru_native": "Чарли?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі?!"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0006_OPTION_0001",
+            "en": "Get out of there!",
+            "ru_native": "Вылезай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибирайся звідти!"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0007_OPTION_0000",
+            "en": "Jacob?!",
+            "ru_native": "Джейкоб?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе?!"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0007_OPTION_0001",
+            "en": "Wait, I can help you!",
+            "ru_native": "Подожди, я помогу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Почекай, я допоможу тобі!"
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0008_OPTION_0000",
+            "en": "It’s not taking that long. ",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это не занимает так много времени.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не займе багато часу. "
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0008_OPTION_0001",
+            "en": "Be more grateful.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Будь более благодарным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більше вдячності."
+        },
+        {
+            "tag": "A2W4.FISHIN_CHOICE_0008_OPTION_0002",
+            "en": "Waiting makes it worthwhile.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ожидание делает его стоящим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Очікування додає важливості."
+        },
+        {
+            "tag": "A2W4.FISHIN_JACOB_0000",
+            "en": "*Phlegmy vile coughing. Gasping for air. Nearly choking*",
+            "ru_native": "*кашляет, задыхается*",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "*Важко кашляє. Задихається*"
+        },
+        {
+            "tag": "A2W4.FISHIN_JACOB_0001",
+            "en": ": Riley! *cough* RILEY! *coughing, choking*",
+            "ru_native": "Райли! *кашляет* РАЙЛИ! *кашляет, задыхается*",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FISHIN_JACOB_0002",
+            "en": ": *coughing, choking*",
+            "ru_native": "*кашляет, задыхается*",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FISHIN_JACOB_0003",
+            "en": ": Wait!!!",
+            "ru_native": "Подожди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FISHIN_JACOB_0004",
+            "en": "Passengers. We’ll be arriving soon.",
+            "ru_native": "Уважаемые пассажиры, мы прибываем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FISHIN_JACOB_0005",
+            "en": "Check under your seat to make sure you don’t leave behind any personal belongings.",
+            "ru_native": "Загляните под сиденье и убедитесь, что не оставили на борту личные вещи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FISHIN_JACOB_0006",
+            "en": "Jonas!",
+            "ru_native": "Джонас!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0000",
+            "en": "You’re never gonna believe this.",
+            "ru_native": "Ты ни за что не поверишь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не повіриш."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0001",
+            "en": "I… just got a vision… from the future…",
+            "ru_native": "У меня было видение из будущего...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене… було видіння… з майбутнього…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0002",
+            "en": "We catch nothing and get takeout for dinner.",
+            "ru_native": "Мы ничего не поймали и заказали доставку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми нічого не спіймали й замовили доставку."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0003",
+            "en": "Guess we gotta go home.",
+            "ru_native": "Придется ехать домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, нам треба додому."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0004",
+            "en": "Don’t wanna piss off the uh—",
+            "ru_native": "Мы же не хотим разозлить...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ж не хочемо розсердити, ну…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0005",
+            "en": "The… future.",
+            "ru_native": "Будущее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Майбутнє…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0006",
+            "en": "…Okay, can’t blame me for trying.",
+            "ru_native": "Ладно, стоило попытаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Ну гаразд, варто було спробувати."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0007",
+            "en": "You’re usually very \"the ends justify the means\" so I’m surprised we didn’t bring dynamite.",
+            "ru_native": "Обычно у тебя «цель оправдывает средства». Удивительно, что мы не привезли динамит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти завжди кажеш, що мета виправдовує засоби.<br>Я здивований, що ми не взяли динаміт."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0008",
+            "en": "You’re usually very \"the ends don’t justify the means\" so I’m surprised we’re fishing at all.",
+            "ru_native": "Обычно у тебя «цель не оправдывает средства». Удивительно, что мы вообще рыбачим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти завжди кажеш, що мета виправдовує засоби.<br>Я здивований, що ми взагалі рибалимо."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0009",
+            "en": "We’re not catching anything, anyway—not if we don’t use live bait.",
+            "ru_native": "Мы все равно ничего не поймаем. Без живой наживки так точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми все одно нічого не спіймали. Треба ловити на живця."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0010",
+            "en": "The guy at the store said so.",
+            "ru_native": "Парень в магазине так сказал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так сказав той чувак у магазині."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0011",
+            "en": "Remember?",
+            "ru_native": "Помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пам’ятаєш?"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0012",
+            "en": "The difference between what we’re using, and live bait, is that our bait is dead.",
+            "ru_native": "Разница между нашей наживкой и живой наживкой в том, что наша – мертвая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Різниця між живцем і тим, на що ми ловимо, у тому, що наша наживка не жива."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0013",
+            "en": "I think you know the answer to that is no.",
+            "ru_native": "Ты знаешь, что ответ отрицательный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаю, ти знаєш, що ні."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0014",
+            "en": "Nevermind, nevermind.",
+            "ru_native": "Все, я молчу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд, забули."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0015",
+            "en": "I just don’t think you’re gonna be very good at this. You’re usually pretty bad at Finders Keepers.",
+            "ru_native": "Сомневаюсь, что у тебя что-то получится. Ты ужасно играешь в «Найди предмет».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто я думаю, що в тебе погано виходить.<br>Ти не надто майстерна, коли справа доходить до пошуків речей."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0016",
+            "en": "Even <i>with</i> all the clues I give you.",
+            "ru_native": "Даже с кучей моих подсказок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть <i>із</i> усіма моїми підказками."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0017",
+            "en": "It takes forever!",
+            "ru_native": "Тянется вечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тут застрягли навічно!"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0018",
+            "en": "You’re usually pretty good at Finders Keepers, but this is taking forever.",
+            "ru_native": "Обычно ты хорошо играешь в «Найди предмет», но мы тут уже вечность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі-то в тебе добре виходить шукати речі, просто дуже довго."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0019",
+            "en": "So. I dunno.",
+            "ru_native": "Так что не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож. Не знаю."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0020",
+            "en": "Whenever you wanna head out…",
+            "ru_native": "Если хочешь, можем сворачивать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли ти там захочеш висуватися…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0021",
+            "en": "Hey! Check it out—I—I think I got one!",
+            "ru_native": "Зацени! Кажется, попалась!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Подивись… Я… Здається, я щось упіймав!"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0022",
+            "en": "Can we fry him?",
+            "ru_native": "Можно ее пожарить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Посмажемо її?"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0023",
+            "en": "Is that a thing?",
+            "ru_native": "Рыбу вообще жарят?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця рахується?"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0024",
+            "en": "I want to eat him tonight!",
+            "ru_native": "Хочу съесть сегодня же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу її з’їсти на вечерю."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0025",
+            "en": "Oh, c’mon!",
+            "ru_native": "Ну блин!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, та годі тобі!"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0026",
+            "en": "Oh, okay, sure, I’ll eat my own barf, you got it.",
+            "ru_native": "Конечно, а я поем свою блевотину. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, ну добре, як скажеш. Я з’їм власну ригню, так і знай."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0027",
+            "en": "Almost got him…",
+            "ru_native": "Почти получилось...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну майже…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0028",
+            "en": "Um… it’s dead.",
+            "ru_native": "Она... мертвая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… мертва."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0029",
+            "en": "Mom?",
+            "ru_native": "Мама?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мам?"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0030",
+            "en": "Mom?!",
+            "ru_native": "Мама?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мам?!"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0031",
+            "en": "I don’t like this!",
+            "ru_native": "Не нравится мне это!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені це не подобається!"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0032",
+            "en": "Mom!",
+            "ru_native": "Мама!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мамо!"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0033",
+            "en": "“Charlie?”",
+            "ru_native": "«Чарли»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Чарлі?»"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0034",
+            "en": "What?! No!",
+            "ru_native": "Что?! Нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0035",
+            "en": "Aghhhh this is taking so long.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Агхххх это так долго.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Аааааа, це так довго."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0036",
+            "en": "Let’s just go to Seafood Sammy’s. Please?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай просто сходим в ресторан Seafood Sammy's. Пожалуйста?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо до «Дарів моря від Семмі». Будь ласка!"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0037",
+            "en": "I know–”get used to it.” That’s your answer to everything, but ugh…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я знаю - \"привыкай к этому\". Это твой ответ на все, но ух...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю — «звикай». Ти так на все відповідаєш, але уф…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0038",
+            "en": "I’m trying to–ya know–be realistic–or whatever but ugh…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я пытаюсь... ну, знаешь... быть реалистом или что-то в этом роде, но ух...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я намагаюся, знаєш, бути реалістом або що таке, але уф…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0039",
+            "en": "I’m trying to “be here,” but ugh…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я пытаюсь \"быть здесь\", но уф...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я намагаюся «бути тут», але уф…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0040",
+            "en": "I should’ve just kept that stupid penny…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Надо было просто оставить себе эту дурацкую копейку...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я мав би просто залишити цю дурну монетку…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0041",
+            "en": "Can we leave?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Можем ли мы уйти?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може підемо?"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0042",
+            "en": "Please? I’ll share my hushpuppies.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пожалуйста? Я поделюсь своими хашпугами.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка? Я поділюся оладками."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0043",
+            "en": "…I’ll share a hushpuppy.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ...Я поделюсь хашпаппи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…я поділюся оладками."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0044",
+            "en": "I mean, when you put it like that…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я имею в виду, когда ты так говоришь...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю на увазі, що коли ти так говориш…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0045",
+            "en": "In the grand scheme…we’re not even here at all. Not really.",
+            "ru_native": "",
+            "ru_machine": "DEEPL По большому счету... нас здесь вообще нет. Не совсем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Загалом… нас тут взагалі немає. Ми не зовсім тут."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0046",
+            "en": "Well…it can also still suck.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну... это также может оставаться отстойным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… це також може бути погано."
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0047",
+            "en": "Which it does…",
+            "ru_native": "Который ты прав…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що так і є…"
+        },
+        {
+            "tag": "A2W4.FISHIN_REX_0048",
+            "en": "You owe me so much pizza after this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL После этого ты должен мне очень много пиццы.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після такого ти винна мені стільки піци."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0000",
+            "en": "Uh oh…",
+            "ru_native": "О-оу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой-йой…"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0001",
+            "en": "Yeah right.",
+            "ru_native": "Ага, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це точно."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0002",
+            "en": "Yeah… uh, I can, uh… relate.",
+            "ru_native": "Да... Понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… ем… Я розумію."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0003",
+            "en": "Oh, uh, w-what are we using? What’s the difference?",
+            "ru_native": "А мы что используем? В чем разница?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, ем, а на що ми ловимо? У чому різниця?"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0004",
+            "en": "Uh, you don’t want that. You’ve never cleaned earthworm guts out from under your fingernails?",
+            "ru_native": "Радоваться надо. Когда-нибудь вычищал из-под ногтей кишки дождевого червя?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повір, ти цього не хочеш. Ти ніколи не вичищував тельбуху черв’яка з-під нігтів?"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0005",
+            "en": "Good idea, let’s use you.",
+            "ru_native": "А это идея. Тебя закинем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слушна думка, давай ловити на тебе."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0006",
+            "en": "Oh hush.",
+            "ru_native": "Отстань.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тихіше там."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0007",
+            "en": "Okay, well, you’ve never had to find something when the—",
+            "ru_native": "Тебе никогда не приходилось искать что-то, когда...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, тобі ніколи не доводилося шукати щось, поки…"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0008",
+            "en": "Yeah okay well fishing is very different—",
+            "ru_native": "Да, но рыбалка – совсем другое...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну добре, риболовля то зовсім інша справа…"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0009",
+            "en": "Hey, thanks for the rare compliment.",
+            "ru_native": "Спасибо за комплимент, это редкость.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за такий незвичний комплімент."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0010",
+            "en": "Well… fishing is pretty different, so—",
+            "ru_native": "Ну... Рыбалка – это совсем другое...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… риболовля то зовсім інша справа, тож…"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0011",
+            "en": "Sure. If it’s big enough.",
+            "ru_native": "Да, если она большая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно. Якщо вона достатньо велика."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0012",
+            "en": "No, we’re throwing it back. Bad enough the guy has a hook in his mouth.",
+            "ru_native": "Нет, мы отпустим ее обратно. Бедняжке хватит и крючка во рту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, викинь її назад у воду. Із гачком у роті."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0013",
+            "en": "How about we bake it? Maybe some salad, too?",
+            "ru_native": "Может, запечем? Добавим зелени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може запечемо? І зробимо салат?"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0014",
+            "en": "We’re—c’mon! We’re leaving!",
+            "ru_native": "Живо! Уходим!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… нумо! Ми йдемо звідси!"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0015",
+            "en": "Find something to hide under!",
+            "ru_native": "Найди, где спрятаться!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайди собі схованку!"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0016",
+            "en": "Charlie?! What are you—",
+            "ru_native": "Чарли?! Что ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі?! Що ти…"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0017",
+            "en": "Charlie, what are you doing here? Get out of the water!",
+            "ru_native": "Чарли, что ты тут делаешь? Вылезай из воды!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, що ти тут робиш? Вилазь із води!"
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0018",
+            "en": "Jacob?! What are you--",
+            "ru_native": "Джейкоб?! Что ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0019",
+            "en": "Wait, Jacob, I -- I’ll be right there!",
+            "ru_native": "Джейкоб, подожди! Я сейчас!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0020",
+            "en": "C’mon, kiddo, in the grand scheme of the–ya know–timeline of the universe.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да ладно тебе, малыш, в грандиозной схеме... ну, ты понимаешь... временной шкалы Вселенной.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі, дитинко, загалом, ти знаєш, якщо порівнювати із часом Всесвіту."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0021",
+            "en": "All those billions of years? In the grand scheme…we’re not waiting at all. Not really.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Все эти миллиарды лет? В грандиозной схеме... мы совсем не ждем. Не совсем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі ці мільярди років? Загалом… це просто мить. Не так і довго."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0022",
+            "en": "Kiddo. Cool it. We can breathe, we can walk.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Малыш. Остынь. Мы можем дышать, мы можем ходить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дитинко, охолонь. Давай глибоко вдихнемо і прогуляємося."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0023",
+            "en": "Try being grateful instead. It’s a much better way to wait.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Попробуй вместо этого быть благодарным. Это гораздо лучший способ ждать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Натомість спробуй бути вдячним. Так набагато краще чекати."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0024",
+            "en": "“You are young and life is long, and there is time to kill today.”",
+            "ru_native": "",
+            "ru_machine": "DEEPL \"Ты молод, а жизнь длинна, и есть время, чтобы убить сегодня\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Ти молодий, а життя довге, і сьогодні можна просто прогаяти час»."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0025",
+            "en": "“And then one day you find ten years have got behind you.”",
+            "ru_native": "",
+            "ru_machine": "DEEPL \"А потом в один прекрасный день ты обнаруживаешь, что десять лет остались позади\".",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«А потім одного разу виявляється, що вже минуло десять років»."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0026",
+            "en": "Kiddo, this waiting? This is what it’s all about.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Малыш, это ожидание? В этом и заключается вся суть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дитинко, оце очікування? Ось у чому справа."
+        },
+        {
+            "tag": "A2W4.FISHIN_RILEY_0027",
+            "en": "Waiting is what makes this–makes everything–worthwhile.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ожидание - это то, что делает это - делает все - стоящим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Очікування – ось що робить це… робить усе це вартим зусиль."
+        }
+    ]
+}

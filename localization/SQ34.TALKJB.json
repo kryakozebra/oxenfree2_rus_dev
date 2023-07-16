@@ -1,0 +1,33 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "SQ34.TALKJB",
+    "entries": [
+        {
+            "tag": "SQ34.TALKJB_JACOB_0000",
+            "en": "Well, job done, I guess?",
+            "ru_native": "Дело сделано, полагаю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ми впоралися, так?"
+        },
+        {
+            "tag": "SQ34.TALKJB_JACOB_0001",
+            "en": "Let’s check in with the Pavement? I dunno, see if we made some ripples.",
+            "ru_native": "Свяжемся с «Мостовой»? Чисто проверить, вызвали ли мы рябь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай зв’яжемося з «Мостовою»? Не знаю, може ми щось змінили."
+        },
+        {
+            "tag": "SQ34.TALKJB_JACOB_0002",
+            "en": "94.2. Heh, I’ll still remember that station number on my deathbed.",
+            "ru_native": "94.2. Хех, частоту этой станции я до самой смерти не забуду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "94.2. Ха, я цей номер навіть спросоння назву правильно."
+        }
+    ]
+}

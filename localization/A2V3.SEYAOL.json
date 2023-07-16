@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.SEYAOL",
+    "entries": [
+        {
+            "tag": "A2V3.SEYAOL_CHARLIE_0000",
+            "en": "Olivia!",
+            "ru_native": "Оливия!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє!"
+        },
+        {
+            "tag": "A2V3.SEYAOL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.SEYAOL_CHOICE_0000_OPTION_0000",
+            "en": "Stop it!",
+            "ru_native": "Остановите ее!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить!"
+        },
+        {
+            "tag": "A2V3.SEYAOL_CHOICE_0000_OPTION_0001",
+            "en": "Olivia, don’t!",
+            "ru_native": "Оливия! Нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, ні!"
+        },
+        {
+            "tag": "A2V3.SEYAOL_OLIVIA_0000",
+            "en": "I will not… be extinguished… by the likes of you.",
+            "ru_native": "Мое пламя не потушить таким, как вы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моє полум’я не загасити таким, як ви."
+        },
+        {
+            "tag": "A2V3.SEYAOL_OLIVIA_0001",
+            "en": "I will see my parents again. I will get to planetshine. And you will be beholden… to the power… of ascendance.",
+            "ru_native": "Я вновь увижу родителей. Я познаю сияние планет. А вы преклонитесь... перед силой... вознесения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знову побачу батьків. Я пізнаю сяйво Місяця.<br>І ви схилитеся… перед силою… вознесіння."
+        },
+        {
+            "tag": "A2V3.SEYAOL_RILEY_0000",
+            "en": "Somebody stop her, before she—",
+            "ru_native": "Остановите ее, пока она не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зупиніть її, доки вона не…"
+        },
+        {
+            "tag": "A2V3.SEYAOL_RILEY_0001",
+            "en": "Olivia! Don’t!",
+            "ru_native": "Оливия! Нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє! Ні!"
+        },
+        {
+            "tag": "A2V3.SEYAOL_VIOLET_0000",
+            "en": "Wait—",
+            "ru_native": "Стой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай…"
+        }
+    ]
+}

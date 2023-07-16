@@ -1,0 +1,150 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.WHIWAY",
+    "entries": [
+        {
+            "tag": "A1PO.WHIWAY_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.WHIWAY_CHOICE_0000_OPTION_0000",
+            "en": "Garland, the mining town.",
+            "ru_native": "Гарленд, город шахтеров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарленд, шахтарське місто."
+        },
+        {
+            "tag": "A1PO.WHIWAY_CHOICE_0000_OPTION_0001",
+            "en": "The Woods and Park.",
+            "ru_native": "Лес и парк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ліс і парк."
+        },
+        {
+            "tag": "A1PO.WHIWAY_CHOICE_0000_OPTION_0002",
+            "en": "Charity Point Caves.",
+            "ru_native": "Пещеры Черити Поинт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Печери Черіті-Пойнт."
+        },
+        {
+            "tag": "A1PO.WHIWAY_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.WHIWAY_CHOICE_0001_OPTION_0000",
+            "en": "Garland, the mining town.",
+            "ru_native": "Гарленд, город шахтеров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарленд, шахтарське місто."
+        },
+        {
+            "tag": "A1PO.WHIWAY_CHOICE_0001_OPTION_0001",
+            "en": "The Woods and Park.",
+            "ru_native": "Лес и парк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ліс і парк."
+        },
+        {
+            "tag": "A1PO.WHIWAY_CHOICE_0001_OPTION_0002",
+            "en": "Yeah, sounds good.",
+            "ru_native": "Да, по рукам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, згода."
+        },
+        {
+            "tag": "A1PO.WHIWAY_JACOB_0000",
+            "en": "So. Where do you wanna head first?",
+            "ru_native": "Итак, куда сначала отправимся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, куди хочеш вирушити спочатку?"
+        },
+        {
+            "tag": "A1PO.WHIWAY_JACOB_0001",
+            "en": "Good idea. And, uh, after you.",
+            "ru_native": "Хорошо. Только после вас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слушна думка. Після тебе."
+        },
+        {
+            "tag": "A1PO.WHIWAY_JACOB_0002",
+            "en": "Well… how about since it's closest we do Charity Point?",
+            "ru_native": "Тогда... Давай в Черити Поинт? Он ближе всего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Може, в Черіті-Пойнт, бо туди найближче?"
+        },
+        {
+            "tag": "A1PO.WHIWAY_JACOB_0003",
+            "en": "Great!",
+            "ru_native": "Отлично!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово!"
+        },
+        {
+            "tag": "A1PO.WHIWAY_RILEY_0000",
+            "en": "Uh, let's do Garland. Get the ghost town over with.",
+            "ru_native": "Давай в Гарленд. Разберемся с городом-призраком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо в Гарленд. Покінчимо з містом привидів."
+        },
+        {
+            "tag": "A1PO.WHIWAY_RILEY_0001",
+            "en": "Let's go to the Woods. Maybe we can catch up with Charlie, there, too.",
+            "ru_native": "Пойдем в лес. Может, заодно встретим там Чарли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо в ліс. Може, зустрінемо там Чарлі."
+        },
+        {
+            "tag": "A1PO.WHIWAY_RILEY_0002",
+            "en": "How about… Charity Point? Maybe see if we can find Violet while we're there, get some answers.",
+            "ru_native": "Что насчет... Черити Поинт? Может, мы там встретим Вайолет, получим пару ответов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як щодо Черіті-Пойнт? Пошукаємо Вайолет там, знайдемо відповіді."
+        },
+        {
+            "tag": "A1PO.WHIWAY_RILEY_0003",
+            "en": "Yeah. Sounds good.",
+            "ru_native": "Да. По рукам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, згода."
+        }
+    ]
+}

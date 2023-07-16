@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.RILWAK",
+    "entries": [
+        {
+            "tag": "A1S1.RILWAK_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.RILWAK_CHOICE_0000_OPTION_0000",
+            "en": "How’d I get here? ",
+            "ru_native": "Как я сюда попала? ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як я сюди потрапила? "
+        },
+        {
+            "tag": "A1S1.RILWAK_CHOICE_0000_OPTION_0001",
+            "en": "Hello? Anyone here?",
+            "ru_native": "Ау? Есть тут кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов? Тут хтось є?"
+        },
+        {
+            "tag": "A1S1.RILWAK_CHOICE_0000_OPTION_0002",
+            "en": "Am I dreaming?",
+            "ru_native": "Я сплю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сплю?"
+        },
+        {
+            "tag": "A1S1.RILWAK_RILEY_0000",
+            "en": "H-how… w-wait, how did I get here…?",
+            "ru_native": "Как... стоп, как я сюда попала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як… як я тут опинилася…"
+        },
+        {
+            "tag": "A1S1.RILWAK_RILEY_0001",
+            "en": "Am I… is this another…?",
+            "ru_native": "Я что... опять в петле, или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Це ще одна..?"
+        },
+        {
+            "tag": "A1S1.RILWAK_RILEY_0002",
+            "en": "Hello? Anybody… here?",
+            "ru_native": "Ау? Есть тут кто-нибудь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов? Тут хтось… є?"
+        },
+        {
+            "tag": "A1S1.RILWAK_RILEY_0003",
+            "en": "Okay. This… might be a dream. <br> It’s probably a dream. Maybe it’s a dream…",
+            "ru_native": "Ладно. Это... наверняка сон. Скорее всего. Возможно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Це… мабуть, сон. Так, сон. Має бути сон…"
+        },
+        {
+            "tag": "A1S1.RILWAK_RILEY_0004",
+            "en": "Or it’s a… another…?",
+            "ru_native": "Или это... очередная... петля?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи це… ще одна..?"
+        }
+    ]
+}

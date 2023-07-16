@@ -1,0 +1,204 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1PO.SECFOR",
+    "entries": [
+        {
+            "tag": "A1PO.SECFOR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.SECFOR_CHOICE_0000_OPTION_0000",
+            "en": "Sure.",
+            "ru_native": "Давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно."
+        },
+        {
+            "tag": "A1PO.SECFOR_CHOICE_0000_OPTION_0001",
+            "en": "I’m changing it up.",
+            "ru_native": "Я передумала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я піду іншим шляхом."
+        },
+        {
+            "tag": "A1PO.SECFOR_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.SECFOR_CHOICE_0001_OPTION_0000",
+            "en": "Sticking with it.",
+            "ru_native": "Да, хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обираю його."
+        },
+        {
+            "tag": "A1PO.SECFOR_CHOICE_0001_OPTION_0001",
+            "en": "Changing it up.",
+            "ru_native": "Я передумала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я піду іншим шляхом."
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0000",
+            "en": "Still cool to go this way?",
+            "ru_native": "Не передумала этим путем идти?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе ще хочеш іти цим шляхом?"
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0001",
+            "en": "It wasn’t too bad right?",
+            "ru_native": "Было не так уж и плохо, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було не так уже й погано, еге ж?"
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0002",
+            "en": "Let’s do it?",
+            "ru_native": "Погнали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уперед?"
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0003",
+            "en": "Oh–okay. Uh–see you up there then. Hopefully.",
+            "ru_native": "Л-ладно. Тогда встретимся там. Надеюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну добре. Зустрінемося на місці. Сподіваюся."
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0004",
+            "en": "After you.",
+            "ru_native": "После тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після тебе."
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0005",
+            "en": "You still gonna go the uh–harder way?",
+            "ru_native": "Ты все еще хочешь пойти по сложному пути?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти все ще хочеш іти… важчим шляхом?"
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0006",
+            "en": "Cause I’m…",
+            "ru_native": "Потому что я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що… я…"
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0007",
+            "en": "…not.",
+            "ru_native": "...нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…не хочу."
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0008",
+            "en": "Fair. See you there.",
+            "ru_native": "Идет. До встречи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ясно. Зустрінемося на місці."
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0009",
+            "en": "Oh, cool, okay. I wouldn’t call it “my way” but uh…",
+            "ru_native": "О, окей, круто. Он не то чтобы «мой», но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, добре. Я б не називав цей шлях моїм, але що ж…"
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0010",
+            "en": "Whatever, left foot right foot.",
+            "ru_native": "Ладно, потопали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як, лівою — правою."
+        },
+        {
+            "tag": "A1PO.SECFOR_JACOB_0011",
+            "en": "So uh–you do you, see you up there.",
+            "ru_native": "Что ж, дело твое. Увидимся наверху.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як хочеш. Побачимося на місці."
+        },
+        {
+            "tag": "A1PO.SECFOR_RILEY_0000",
+            "en": "Yup, let’s do it.",
+            "ru_native": "Ага, погнали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, уперед."
+        },
+        {
+            "tag": "A1PO.SECFOR_RILEY_0001",
+            "en": "Actually, I’m gonna go the other way.",
+            "ru_native": "Вообще-то я хочу пойти другим путем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді я піду іншим шляхом."
+        },
+        {
+            "tag": "A1PO.SECFOR_RILEY_0002",
+            "en": "Yeah, sticking with it.",
+            "ru_native": "Ага, хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, обираю його."
+        },
+        {
+            "tag": "A1PO.SECFOR_RILEY_0003",
+            "en": "Naw, I’ll go your way.",
+            "ru_native": "Не-а, я выбираю твой путь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ні, піду твоїм шляхом."
+        }
+    ]
+}

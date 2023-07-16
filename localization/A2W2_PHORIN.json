@@ -1,0 +1,141 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2_PHORIN",
+    "entries": [
+        {
+            "tag": "A2W2_PHORIN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_PHORIN_CHOICE_0000_OPTION_0000",
+            "en": "The phone stopped ringing.",
+            "ru_native": "Телефон перестал звонить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Телефон перестав дзвонити."
+        },
+        {
+            "tag": "A2W2_PHORIN_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_PHORIN_CHOICE_0001_OPTION_0000",
+            "en": "Hopefully they’ll call back.",
+            "ru_native": "Надеюсь, они перезвонят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, вони зателефонують ще."
+        },
+        {
+            "tag": "A2W2_PHORIN_CHOICE_0001_OPTION_0001",
+            "en": "Let’s still find it.",
+            "ru_native": "Давай его найдем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайдімо його."
+        },
+        {
+            "tag": "A2W2_PHORIN_CHOICE_0001_OPTION_0002",
+            "en": "Oh well, nevermind.",
+            "ru_native": "Ну ладно, проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, забудь."
+        },
+        {
+            "tag": "A2W2_PHORIN_JACOB_0000",
+            "en": "Oh... uh, yeah. It did.",
+            "ru_native": "О... да. Не звонит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О… ага. Не дзвонить."
+        },
+        {
+            "tag": "A2W2_PHORIN_JACOB_0001",
+            "en": "It was actually starting to give me a headache.",
+            "ru_native": "У меня от него голова уже начала болеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене вже голова почала від нього боліти."
+        },
+        {
+            "tag": "A2W2_PHORIN_JACOB_0002",
+            "en": "That it is, that it is.",
+            "ru_native": "Ну да, ну да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так-так."
+        },
+        {
+            "tag": "A2W2_PHORIN_JACOB_0003",
+            "en": "Well wait, let’s still go to the station. We’re almost there.",
+            "ru_native": "Слушай, давай дойдем до станции. Мы почти пришли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, давай дійдемо до станції. Ми майже прийшли."
+        },
+        {
+            "tag": "A2W2_PHORIN_JACOB_0004",
+            "en": "Just cause, you know... it is a working phone.",
+            "ru_native": "Ну потому что... это работающий телефон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, бо це… робочий телефон."
+        },
+        {
+            "tag": "A2W2_PHORIN_RILEY_0000",
+            "en": "Ah, wait -- sorry. The phone stopped ringing. See that? I mean -- hear that?",
+            "ru_native": "Ой, погоди... Телефон больше не звонит. Видишь? То есть слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, чекай… Телефон більше не дзвенить. Бачиш? Тобто чуєш?"
+        },
+        {
+            "tag": "A2W2_PHORIN_RILEY_0001",
+            "en": "Well… hopefully they’ll call back.",
+            "ru_native": "Что ж... надеюсь, они перезвонят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… сподіваюся, вони зателефонують ще."
+        },
+        {
+            "tag": "A2W2_PHORIN_RILEY_0002",
+            "en": "Let’s still try and find it, though. I mean… it is a working phone.",
+            "ru_native": "Давай все равно попробуем его найти. Это же рабочий телефон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Варто все одно спробувати його знайти. Це ж… робочий телефон."
+        },
+        {
+            "tag": "A2W2_PHORIN_RILEY_0003",
+            "en": "Ah. Crap. Well… nevermind.",
+            "ru_native": "О, черт. Ладно... забей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От дідько. Гаразд… облиш."
+        }
+    ]
+}

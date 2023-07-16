@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S2.LESCAL",
+    "entries": [
+        {
+            "tag": "A1S2.LESCAL_LESLIE_0000",
+            "en": "Riley, come in, Riley. This is Professor Burke. I’m calling to check in. Over.",
+            "ru_native": "Райли. Райли, ответь. Это профессор Берк. У тебя все в порядке? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Озвися, Райлі. Це професор Берк. У тебе все гаразд? Прийом."
+        },
+        {
+            "tag": "A1S2.LESCAL_LESLIE_0001",
+            "en": "Riley? It’s your supervisor, Leslie Burke. Are you there? Over?",
+            "ru_native": "Райли? Это твоя начальница, Лесли Берк. Ты там? Прием?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Це твоя начальниця, Леслі Берк. Ти там? Прийом."
+        },
+        {
+            "tag": "A1S2.LESCAL_LESLIE_0002",
+            "en": "Riley? Come in, please. Over.",
+            "ru_native": "Райли? Пожалуйста, ответь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Озвися. Прийом."
+        },
+        {
+            "tag": "A1S2.LESCAL_LESLIE_0003",
+            "en": "Last chance? Not there? Over.",
+            "ru_native": "Последний шанс? Никого? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Останній шанс. Ти не тут? Прийом."
+        },
+        {
+            "tag": "A1S2.LESCAL_LESLIE_0004",
+            "en": "Okay, over and out.",
+            "ru_native": "Ясно, конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, кінець зв’язку."
+        }
+    ]
+}

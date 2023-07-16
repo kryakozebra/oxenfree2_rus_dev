@@ -1,0 +1,294 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2_WALTAL",
+    "entries": [
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0000_OPTION_0000",
+            "en": "Riley, here.",
+            "ru_native": "Райли на связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі на зв’язку."
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0000_OPTION_0001",
+            "en": "Can’t right now! [Turn off]",
+            "ru_native": "Не могу говорить! [Отключиться]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу говорити! [Відключитися]"
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0001_OPTION_0000",
+            "en": "Uh, more than five?",
+            "ru_native": "Хм, больше пяти?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, десь більше п’яти."
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0001_OPTION_0001",
+            "en": "I’m not sure.",
+            "ru_native": "Не могу сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не впевнена."
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0001_OPTION_0002",
+            "en": "Why do you ask?",
+            "ru_native": "Почему ты спрашиваешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти питаєш?"
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0002_OPTION_0000",
+            "en": "Please don’t Mom me.",
+            "ru_native": "Не строй из себя мамочку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, не треба поводитися, як матуся."
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0002_OPTION_0001",
+            "en": "Got it. Bye. [Turn off]",
+            "ru_native": "Ясно. Пока. [Отключиться]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміла. Бувай. [Відключитися]"
+        },
+        {
+            "tag": "A2W2_WALTAL_CHOICE_0002_OPTION_0002",
+            "en": "Thanks! [Turn off]",
+            "ru_native": "Спасибо! [Отключиться]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую! [Відключитися]"
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0000",
+            "en": "Riley? Come in, Riley…",
+            "ru_native": "Райли? Райли, ответь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Райлі, скажи щось…"
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0001",
+            "en": "This is Evelyn, come in, Riley.",
+            "ru_native": "Это Эвелин, ответь, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Евелін. Райлі, відповідай."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0003",
+            "en": "Okay, just call me back later. Over and out.",
+            "ru_native": "Ладно, вызови меня позже. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, зв’яжись зі мною пізніше. Кінець зв’язку."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0004",
+            "en": "Hey, how many transmitters do you have left? Over.",
+            "ru_native": "Сколько у тебя осталось передатчиков? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скільки в тебе залишилося радіопередавачів? Прийом."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0005",
+            "en": "I’m doing math in my head.",
+            "ru_native": "Я пытаюсь сосчитать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я намагаюся порахувати."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0006",
+            "en": "You still have most of them? Okay, good.",
+            "ru_native": "У тебя осталось больше половины? Ну ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе залишилося більше половини? Гаразд."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0007",
+            "en": "Okay, you say you’ve only used a couple? That’s good.",
+            "ru_native": "Ладно, говоришь, поставила всего два? Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, кажеш, встановила лише кілька? Добре."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0008",
+            "en": "Just make sure when you plant them that they’re hooked into the ground, properly.",
+            "ru_native": "Когда будешь ставить передатчики, закрепи их как следует.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли будеш їх встановлювати, переконайся, що ти їх закріпила як слід."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0009",
+            "en": "We’ve had some blow over if you don’t secure them right.",
+            "ru_native": "Если ты их не закрепишь, у нас тут все ляжет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буде біда, якщо ти їх добре не закріпиш."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0010",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2W2_WALTAL_EVELYN_0011",
+            "en": "Jesus, Riley, I’m just trying to help. Call me if you run into trouble. Over and out.",
+            "ru_native": "Боже, Райли, я просто хочу помочь. Если будут проблемы, вызывай меня. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, Райлі, я просто намагаюся допомогти. Викликай мене,<br>якщо будуть проблеми. Кінець зв’язку."
+        },
+        {
+            "tag": "A2W2_WALTAL_RILEY_0000",
+            "en": "Hey, Evelyn, sorry, I can’t talk right now, I’m in the middle of something. Over.",
+            "ru_native": "Слушай, Эвелин, не могу сейчас говорить, я занята. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Евелін. Вибач, зараз не можу розмовляти, я трохи зайнята. Прийом."
+        },
+        {
+            "tag": "A2W2_WALTAL_RILEY_0001",
+            "en": "Hey, Evelyn, what’s up. Over.",
+            "ru_native": "О, Эвелин, привет. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, що сталося? Прийом."
+        },
+        {
+            "tag": "A2W2_WALTAL_RILEY_0002",
+            "en": "Uh, more than five? I’ve barely used any yet. Over.",
+            "ru_native": "Хм, больше пяти? Я почти ничего не поставила. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, десь більше п’яти. Я майже нічого не встановила. Прийом."
+        },
+        {
+            "tag": "A2W2_WALTAL_RILEY_0003",
+            "en": "Uh, I’m not really sure. I’ve only used a couple. Over.",
+            "ru_native": "Хм, даже не знаю. Я всего пару поставила. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, навіть не знаю. Я встановила лише кілька штук. Прийом."
+        },
+        {
+            "tag": "A2W2_WALTAL_RILEY_0004",
+            "en": "Sorry, Evelyn, we’re on our way somewhere and I can’t really stop to count.",
+            "ru_native": "Прости, Эвелин, я сейчас иду, и мне сложно на ходу считать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Евелін, я зараз йду й не можу зупинитися, щоби їх порахувати."
+        },
+        {
+            "tag": "A2W2_WALTAL_RILEY_0005",
+            "en": "Why do you ask? Over.",
+            "ru_native": "Почему ты спрашиваешь? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти питаєш? Прийом."
+        },
+        {
+            "tag": "A2W2_WALTAL_RILEY_0006",
+            "en": "Yeah, I got it, Mom. I won’t get into any strange cars with boys, either. Over.",
+            "ru_native": "Хорошо, мамочка. Обещаю не садиться в машины к незнакомым парням. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, матусю. Обіцяю також не сідати в машини до незнайомих хлопців. Прийом."
+        },
+        {
+            "tag": "A2W2_WALTAL_RILEY_0007",
+            "en": "Okay, Evelyn, got it. Bye. Over and out.",
+            "ru_native": "Ладно, Эвелин, я поняла. Пока. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Евелін, я зрозуміла. Бувай. Кінець зв’язку."
+        },
+        {
+            "tag": "A2W2_WALTAL_RILEY_0008",
+            "en": "Okay, thanks, Evelyn. Understood. Over and out.",
+            "ru_native": "Ладно, спасибо, Эвелин. Все ясно. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, дякую, Евелін. Я зрозуміла. Кінець зв’язку."
+        }
+    ]
+}

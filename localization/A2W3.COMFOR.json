@@ -1,0 +1,159 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.COMFOR",
+    "entries": [
+        {
+            "tag": "A2W3.COMFOR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.COMFOR_CHOICE_0000_OPTION_0000",
+            "en": "You got it.",
+            "ru_native": "Понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло."
+        },
+        {
+            "tag": "A2W3.COMFOR_CHOICE_0000_OPTION_0001",
+            "en": "No one is watching.",
+            "ru_native": "Никто не видит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут нікого немає."
+        },
+        {
+            "tag": "A2W3.COMFOR_CHOICE_0000_OPTION_0002",
+            "en": "Just trying to comfort you.",
+            "ru_native": "Я просто хочу тебя утешить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хочу тебе втішити."
+        },
+        {
+            "tag": "A2W3.COMFOR_REX_0000",
+            "en": "You don’t need to hug me.",
+            "ru_native": "Не надо меня обнимать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не треба мене обіймати."
+        },
+        {
+            "tag": "A2W3.COMFOR_REX_0001",
+            "en": "It’s fine.",
+            "ru_native": "Все ок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2W3.COMFOR_REX_0002",
+            "en": "I’m fine.",
+            "ru_native": "Я в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зі мною все добре."
+        },
+        {
+            "tag": "A2W3.COMFOR_REX_0003",
+            "en": "It’s not that it’s—",
+            "ru_native": "Не в этом смысле...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не в цьому сенсі…"
+        },
+        {
+            "tag": "A2W3.COMFOR_REX_0004",
+            "en": "I just—don’t want that.",
+            "ru_native": "Я просто... не хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто… не хочу."
+        },
+        {
+            "tag": "A2W3.COMFOR_REX_0005",
+            "en": "Well—don’t.",
+            "ru_native": "Ну... не надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… не треба."
+        },
+        {
+            "tag": "A2W3.COMFOR_REX_0006",
+            "en": "Okay? Don’t.",
+            "ru_native": "Ладно? Не надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд? Не треба."
+        },
+        {
+            "tag": "A2W3.COMFOR_REX_0007",
+            "en": "Don’t.",
+            "ru_native": "Не надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не треба."
+        },
+        {
+            "tag": "A2W3.COMFOR_SOCIALRILEY_0000",
+            "en": "Hey, I’m just trying to be here for you. Ya know—comfort you.",
+            "ru_native": "Эй, я просто хочу тебя утешить. Чтобы тебе было легче.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, я просто хочу втішити тебе. Знаєш, щоби тобі стало легше."
+        },
+        {
+            "tag": "A2W3.COMFOR_SOCIALRILEY_0001",
+            "en": "Nobody’s watching.",
+            "ru_native": "Никто не видит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут нікого немає."
+        },
+        {
+            "tag": "A2W3.COMFOR_SOCIALRILEY_0002",
+            "en": "What, are you afraid someone’s watching?",
+            "ru_native": "Что, боишься, что кто-то увидит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що, боїшся, що хтось побачить?"
+        },
+        {
+            "tag": "A2W3.COMFOR_SOCIALRILEY_0003",
+            "en": "Whatever you want.",
+            "ru_native": "Как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скажеш."
+        },
+        {
+            "tag": "A2W3.COMFOR_SOCIALRILEY_0004",
+            "en": "Uh—yeah, okay.",
+            "ru_native": "Да, да, хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так, ага."
+        }
+    ]
+}

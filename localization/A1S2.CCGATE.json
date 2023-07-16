@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S2.CCGATE",
+    "entries": [
+        {
+            "tag": "A1S2.CCGATE_RILEY_0000",
+            "en": "Locked.",
+            "ru_native": "Заперто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачинено."
+        },
+        {
+            "tag": "A1S2.CCGATE_RILEY_0001",
+            "en": "Makes sense. It’s after dark, that’s usually when you lock things.",
+            "ru_native": "Что логично. Уже поздно, в такое время все запирают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Логічно. Уже пізно, не дивно, що майже всюди зачинено."
+        }
+    ]
+}

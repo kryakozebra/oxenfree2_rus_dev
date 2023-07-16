@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT03.FHASHP",
+    "entries": [
+        {
+            "tag": "WT03.FHASHP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.FHASHP_CHOICE_0000_OPTION_0000",
+            "en": "We found a ghost’s shoe.",
+            "ru_native": "Мы нашли ботинок призрака.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми знайшли черевик привида."
+        },
+        {
+            "tag": "WT03.FHASHP_HANK_0000",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм."
+        },
+        {
+            "tag": "WT03.FHASHP_RILEY_0000",
+            "en": "Hank, you there?",
+            "ru_native": "Хэнк, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, Ти там?"
+        },
+        {
+            "tag": "WT03.FHASHP_RILEY_0001",
+            "en": "I think I found your physical evidence…",
+            "ru_native": "Кажется, я нашла твое вещественное доказательство...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, я знайшла речовий доказ…"
+        }
+    ]
+}

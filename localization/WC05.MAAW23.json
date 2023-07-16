@@ -1,0 +1,618 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC05.MAAW23",
+    "entries": [
+        {
+            "tag": "WC05.MAAW23_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0000_OPTION_0000",
+            "en": "Hey DJ-person. Come in.",
+            "ru_native": "Эй, диджей. Ответь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, діджей. Відповідай."
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0001_OPTION_0000",
+            "en": "Know anything about Charlie?",
+            "ru_native": "Знаешь что-нибудь о Чарли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти знаєш про Чарлі?"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0001_OPTION_0001",
+            "en": "How’s your night been?",
+            "ru_native": "Как ночь проходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вечір пройшов?"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0002_OPTION_0000",
+            "en": "Any reason he’d join a cult?",
+            "ru_native": "Зачем ему вступать в секту?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаєш, чому він приєднався до секти?"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0002_OPTION_0001",
+            "en": "Is he dangerous?",
+            "ru_native": "Он опасен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто небезпечний?"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0002_OPTION_0002",
+            "en": "He stole some radio equipment.",
+            "ru_native": "Он украл оборудование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він вкрав радіоапаратуру."
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0003_OPTION_0000",
+            "en": "Maria? Are you around?",
+            "ru_native": "Мария? Ты здесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Ти тут?"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0004_OPTION_0000",
+            "en": "Your friends are nuts.",
+            "ru_native": "Твои друзья психи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твої друзі пришелепкуваті."
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0004_OPTION_0001",
+            "en": "Know where Olivia is?",
+            "ru_native": "Знаешь, где Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаєш, де Олівія?"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAAW23_CHOICE_0005_OPTION_0000",
+            "en": "Hey, Maria? You around?",
+            "ru_native": "Мария? Ты здесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Маріє? Ти тут?"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0000",
+            "en": "Hey! How’s it going?",
+            "ru_native": "Привет! Как жизнь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт! Як справи?"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0001",
+            "en": "Need some more advice?",
+            "ru_native": "Нужен еще совет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібна ще порада?"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0002",
+            "en": "I got boat loads.",
+            "ru_native": "У меня их хоть завались.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене їх купа й ще трошки."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0003",
+            "en": "No one ever seems to want it, though.",
+            "ru_native": "Вот только никто ими не пользуется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але здається, їх ніхто й ніколи не просить."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0004",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0005",
+            "en": "Uh, weird? Not, uh, not particularly. You mean besides whatever you’re going through, right?",
+            "ru_native": "Странного? Да нет, не сказала бы. Ну, если не брать то, что происходит с тобой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, дивне? Наче ні. Маєш на увазі щось, крім того, що з тобою відбувається?"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0006",
+            "en": "But yeah, no. Isaac swung by for a second to grab his homework.",
+            "ru_native": "А так нет. Айзек зашел на секунду забрать домашку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так. Ісаак на секунду заскочив, щоби забрати домашнє завдання."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0007",
+            "en": "You don’t know Isaac. He’s very short. That’s his only defining feature.",
+            "ru_native": "Ты не знаешь Айзека. Он очень низкий. Это его единственная особенность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не знаєш Ісаака. Він дуже невисокий. Це його єдина визначальна риса."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0008",
+            "en": "Oh, I think I gotta go. [to someone else] Mr. Thatcher, good to see you…",
+            "ru_native": "Кажется, мне пора... Мистер Тетчер, здравствуйте!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, здається, треба йти. [комусь іншому] Містер Тетчер, рада вас бачити"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0009",
+            "en": "—yeah, I still don’t know who spray-painted nipples on the statue in the library, but, uh—",
+            "ru_native": "Да, я так и не выяснила, кто раскрасил соски у статуи в библиотеке, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…так, я досі не знаю, хто намалював соски статуї в бібліотеці, але…"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0010",
+            "en": "Are you there? Hello?",
+            "ru_native": "Ты тут? Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти там? Агов?"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0011",
+            "en": "Charlie? Yeah… [loving sigh] I know Charlie.",
+            "ru_native": "Чарли? Да... (влюбленный вздох) Я знаю Чарли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі? Так… [ніжно зітхає] Я знаю Чарлі."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0012",
+            "en": "He’s cool, he is, he’s, uh… he’s into interior design, junior ice hockey…",
+            "ru_native": "Он классный, он... Он... Ему нравится дизайн, юношеский хоккей...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він крутий, він… він займається дизайном інтер’єрів, юніорським хокеєм…"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0013",
+            "en": "His sister is thirteen years older than him, so… he’s kind of like an only kid?",
+            "ru_native": "Его сестра старше его на тринадцать лет, так что он, считай, единственный ребенок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Його сестра на тринадцять років старша за нього, тож… він ніби єдина дитина."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0014",
+            "en": "One of those delightful accidents—I think his parents only wanted one. And I think he kind of feels that.",
+            "ru_native": "Один из тех «приятных» сюрпризов. Думаю, его родители<br>не хотели второго ребенка. И он это чувствует.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Один із тих чудових нещасних випадків… гадаю, що його<br>батьки хотіли одну дитину. І, мабуть, він якось це відчуває."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0015",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0016",
+            "en": "I don’t want to air his dirty laundry, you know.",
+            "ru_native": "Не хочу вытряхивать его грязное белье.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хочу виносити його сміття з хати, розумієш."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0017",
+            "en": "People’s stink should stay with them.",
+            "ru_native": "Грязь людей должна оставаться при них.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мотлох людини повинен залишатися в неї."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0018",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0019",
+            "en": "Oh, are you talking about Parentage. That thing is—that’s Olivia’s world.",
+            "ru_native": "А, ты про «Наследие» говоришь. Это... это жизнь Оливии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, це ти про «Парентаж». Та секта… належить Олівії."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0020",
+            "en": "Charlie doesn’t really believe in anything except that we’ll all turn into outer space dust eventually.",
+            "ru_native": "Чарли вообще ни во что не верит, только в то, что все мы обратимся в космическую пыль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі насправді вірить тільки в те, що всі ми, врешті-решт,<br>перетворимося на космічний пил."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0021",
+            "en": "I mean… if his seventh-grade English class poetry is to be believed.",
+            "ru_native": "Если верить стихам, которые он написал на литре в седьмом классе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… якщо вірити його віршу, який написано на<br>уроці англійської в сьомому класі."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0022",
+            "en": "[laughs] Dangerous? No. He’s—no. He’s a—a—what am I thinking of—?",
+            "ru_native": "(смеется) Опасен? Нет. Он... нет. Он же... Скажи, о ком я думаю?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Небезпечний? Ні. Він — ні. Він схожий на…"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0023",
+            "en": "—what kind of animal is it that—not, not a… badger…",
+            "ru_native": "Какое животное не... нет, не... барсук...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ту тварину… не борсук, а…"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0024",
+            "en": "[sarcastic] Wow. That sounds like, uh, maybe seventy-five dollars worth of damage, there.",
+            "ru_native": "(с сарказмом) Вот это да. Звучит как целых 75 баксов ущерба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[саркастично] Вау. Це, типу, збитки десь на сімдесят п’ять доларів."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0025",
+            "en": "My ex-boyfriend beat up a cop three months ago. It’s the weekend. Charlie’s fine.",
+            "ru_native": "Мой бывший три месяца назад избил полицейского. Выходные же. Чарли не плохой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мій колишній побив поліцейського три місяці тому.<br>Це вихідні. З Чарлі все гаразд."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0026",
+            "en": "Is this Riley, again?",
+            "ru_native": "Райли, снова ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це знову Райлі?"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0027",
+            "en": "God, I just knocked all the—ugh, this sucks—",
+            "ru_native": "Боже, я только что уронила все... Твою ж...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, я щойно впустила… тьфу, от халепа…"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0028",
+            "en": "—I just knocked all the drives into the toilet by accident…",
+            "ru_native": "Я случайно уронила все накопители в унитаз...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…я щойно випадково впустила всі флешки в туалет…"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0029",
+            "en": "But—sorry, what’s up?",
+            "ru_native": "Прости, в чем дело?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… вибач, що там у тебе?"
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0030",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0031",
+            "en": "Oh whatever. On the Richter scale of juvenile delinquency they barely register a 3.2. Uh, typically.",
+            "ru_native": "Ой, да ладно. По шкале Рихтера подростковой преступности<br>они едва дотягивают до 3,2 баллов. Как правило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай, годі. За шкалою Ріхтера підліткової злочинності їм ледве<br>можна поставити 3,2. Вони такі ж, як і всі."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0032",
+            "en": "Olivia’s a giant weirdo but Violet’s a carpet and Charlie’s… [sigh] Charlie.",
+            "ru_native": "Оливия та еще придурочная, но Вайолет просто тряпка, а Чарли... Ох, Чарли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія — чудернацька дівка, Вайолет — ганчірка, а Чарлі… [зітхає] це Чарлі."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0033",
+            "en": "Okay, seriously, I gotta try and fix these drives. See ya! Over and out",
+            "ru_native": "Так, мне надо попытаться спасти накопители. До скорого! Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, серйозно, спробую полагодити ці прилади. Бувай! Кінець зв’язку."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0034",
+            "en": "Olivia? No. I don’t keep tabs on that chick.",
+            "ru_native": "Оливия? Нет. Я за этой дамой не слежу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія? Ні. Я не стежу за цим дівчам."
+        },
+        {
+            "tag": "WC05.MAAW23_MARIA_0035",
+            "en": "Whatever she’s up to is something I don’t want to know about to tell you the truth.",
+            "ru_native": "По правде говоря, чем бы она ни занималась, я об этом знать не хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що б вона не задумала, це те, про що я не хочу знати, якщо чесно."
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0000",
+            "en": "Hey, uh, DJ… person. Are you around? Over.",
+            "ru_native": "Привет... диджей. Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, діджей… Ти там? Прийом."
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0001",
+            "en": "Uh, how’s your night been? Anything… weird happen, yet?",
+            "ru_native": "Как ночка? Ничего странного не происходило?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вечір пройшов? Щось… дивне сталося?"
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0002",
+            "en": "So… you mentioned you know a kid, named, uh, Charlie?",
+            "ru_native": "Ты говорила, что знаешь парня по имени Чарли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже… ти казала, що знаєш про хлопця на ім’я Чарлі?"
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0003",
+            "en": "Just… What can you tell me about him that I might, uh, want to know… if I needed to know anything? Over.",
+            "ru_native": "Что ты можешь о нем рассказать такого, что бы... мне следовало знать? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… Розкажи про нього щось, що я мала б знати…<br>якщо мені потрібно щось таке знати. Прийом."
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0004",
+            "en": "So… you said you know some kids out tonight? Wearing masks? Is one of them Charlie?",
+            "ru_native": "Ты говорила, что знаешь ребят, что бродят по лесу. В масках? Один из них – Чарли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… ти казала, що знаєш кількох дітей, які гуляли сьогодні?<br>У масках? Один із них Чарлі?"
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0005",
+            "en": "Just… What can you tell me about him that I might, uh, want to know… if I needed to know anything. Over.",
+            "ru_native": "Что ты можешь о нем рассказать такого, что бы... мне следовало знать? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… Розкажи про нього щось, що я мала б знати…<br>якщо мені потрібно щось таке знати. Прийом."
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0006",
+            "en": "Okay. Do you know of any reason why he’d join, like, a cult?",
+            "ru_native": "Ясно. Не знаешь, почему он мог вступить в секту?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Може знаєш, чому він приєднався, типу, до культу?"
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0007",
+            "en": "Huh, okay. Is he, uh—would you consider him dangerous, like, at all?",
+            "ru_native": "Ладно. А он... ты бы сказала, что он опасен? В принципе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, добре. Він, е-е, можеш сказати, що він небезпечний?"
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0008",
+            "en": "Well, okay, but… just to let you know, your friend Charlie burglarized the Ranger Station tonight.",
+            "ru_native": "Ладно, просто... Хотела сообщить, что твой<br>друг Чарли сегодня ограбил станцию рейнджеров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, добре, та… щоби ти знала, твій друг<br>Чарлі сьогодні пограбував станцію наглядачів."
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0009",
+            "en": "And I don’t mean dumpster diving, I mean he broke in through the window and stole radio equipment.",
+            "ru_native": "И я не про копание в мусоре, он вломился через окно и украл радиооборудование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я не кажу, що він лазив у їхньому смітнику, я маю на увазі те,<br>що він вдерся через вікно і вкрав радіоапаратуру."
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0010",
+            "en": "Hey, Maria? Are you around?",
+            "ru_native": "Эй, Мария? Ты здесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Маріє? Ти тут?"
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0011",
+            "en": "Uh, Olivia and Charlie and all of them? Your friends?",
+            "ru_native": "Оливия, Чарли и остальные... Твои друзья?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія, Чарлі та всі інші? Твої друзі?"
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0012",
+            "en": "I don’t wanna sound like an after-school special but maybe pick some pals a little less deranged next time.",
+            "ru_native": "Не хочу звучать как бабка на скамейке, но<br>советую тебе выбирать более вменяемых друзей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хочу видаватися занадто розумною, але, може, наступного разу<br>обиратимеш собі трохи менш божевільних друзів."
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0013",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0014",
+            "en": "Uh, you wouldn’t by chance know where Olivia is… right now? Right? Over.",
+            "ru_native": "Ты случайно не знаешь, где может быть Оливия прямо сейчас? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти, часом, не знаєш, де Олівія… зараз? Ні? Прийом."
+        },
+        {
+            "tag": "WC05.MAAW23_RILEY_0015",
+            "en": "[to herself] Okay, be in the bathroom.",
+            "ru_native": "Будь в ванной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Гаразд, порайся у ванній."
+        }
+    ]
+}

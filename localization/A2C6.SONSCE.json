@@ -1,0 +1,627 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.SONSCE",
+    "entries": [
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0000_OPTION_0000",
+            "en": "Huh?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га?"
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0000_OPTION_0001",
+            "en": "Talk about what?",
+            "ru_native": "Говорить о чем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Говорити про що?"
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0000_OPTION_0002",
+            "en": "Oh. This again.",
+            "ru_native": "Опять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О. Знову це."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0001_OPTION_0000",
+            "en": "You don’t have to talk.",
+            "ru_native": "Ну и не надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти можеш не говорити."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0001_OPTION_0001",
+            "en": "I want to hear what happened.",
+            "ru_native": "Я хочу знать, что случилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу почути, що сталося."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0001_OPTION_0002",
+            "en": "Let’s chat about something else.",
+            "ru_native": "Поговорим о другом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потеревенимо про щось інше."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0002_OPTION_0000",
+            "en": "Don’t be sorry.",
+            "ru_native": "Не извиняйся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не варто вибачатися."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0002_OPTION_0001",
+            "en": "You can’t punch every problem.",
+            "ru_native": "Все проблемы кулаками не решить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не кожну проблему можна розв’язати силою."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0002_OPTION_0002",
+            "en": "I’m glad you said sorry.",
+            "ru_native": "Я рада, что ты извинился.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рада, що ти перепросив."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0003_OPTION_0000",
+            "en": "Getting mad is a gift.",
+            "ru_native": "Злость – это дар.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сердитися — це дар."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0003_OPTION_0001",
+            "en": "Just don’t stay mad.",
+            "ru_native": "Только не злись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто не залишайся сердитим."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0003_OPTION_0002",
+            "en": "Then get mad at that, too.",
+            "ru_native": "Тогда можешь и на это разозлиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тоді сердься й на це."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0004_OPTION_0000",
+            "en": "Why would you say that?",
+            "ru_native": "Почему ты так говоришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти так говориш?"
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0004_OPTION_0001",
+            "en": "I’m not always mad.",
+            "ru_native": "Я не всегда злюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не завжди сердита."
+        },
+        {
+            "tag": "A2C6.SONSCE_CHOICE_0004_OPTION_0002",
+            "en": "Cause I’m not happy.",
+            "ru_native": "Потому что я несчастна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що я нещаслива."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0000",
+            "en": "I don’t want to talk about it!",
+            "ru_native": "Не хочу об этом говорить!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хочу про це говорити!"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0001",
+            "en": "I don’t want to talk about it and you can’t make me.",
+            "ru_native": "Не хочу говорить, и ты меня не заставишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хочу про це говорити, і ти не можеш примусити мене."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0002",
+            "en": "So there!",
+            "ru_native": "Все!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе!"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0003",
+            "en": "Brandon is a jerk. And I’m not sorry I told him so!",
+            "ru_native": "Брэндон – придурок. Я ему так и сказал!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Брендон — придурок. Мені не шкода за свої слова!"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0004",
+            "en": "And I said I was sorry for pushing him, but I’m not sorry about the rest!",
+            "ru_native": "Я извинился, что толкнул его, но за остальное извиняться не буду!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вибачився за те, що штовхнув його. А за інше мені не соромно!"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0005",
+            "en": "So I don’t want to talk about it anymore.",
+            "ru_native": "Не хочу об этом больше говорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож не хочу більше про це говорити!"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0006",
+            "en": "Okay?",
+            "ru_native": "Ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0007",
+            "en": "I don’t want to.",
+            "ru_native": "Не хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хочу."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0008",
+            "en": "[frustrated, impatient] I don’t want a salad!",
+            "ru_native": "Я не хочу салат!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[розчаровано, нетерпляче] Не хочу салат!"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0009",
+            "en": "Oh, my God, never mind!",
+            "ru_native": "О боже, ладно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, не зважай!"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0010",
+            "en": "I told Brandon I was sorry, I told Mr. Severson I was sorry, and I am sorry!",
+            "ru_native": "Я же извинился перед Брэндоном и мистером Северсоном! Искренне!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вибачився перед Брендоном. Я вибачився перед містером Северсоном.<br>Мені було шкода. І зараз шкода!"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0011",
+            "en": "I mean—he wouldn’t stop making fun of my hair but… still.",
+            "ru_native": "Он все смеялся над моими волосами, но... Все равно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він усе сміявся над моєю зачіскою, але все таки…"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0012",
+            "en": "I just—I get mad and it’s like—it’s like a sneeze?",
+            "ru_native": "Я начинаю злиться и... Это как с чиханием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я починаю сердитися. Це ніби чхання?"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0013",
+            "en": "My hand still really hurts.",
+            "ru_native": "Рука до сих пор болит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя рука все ще болить."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0014",
+            "en": "Real bad.",
+            "ru_native": "Сильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сильно."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0015",
+            "en": "Brandon.",
+            "ru_native": "Брэндон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Брендон."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0016",
+            "en": "I know, I know.",
+            "ru_native": "Знаю, знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, знаю."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0017",
+            "en": "It was only cause the Principal made me.",
+            "ru_native": "Меня директор заставил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це тільки через те, що директор змусив мене."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0018",
+            "en": "I hate getting angry, I hate the feeling.",
+            "ru_native": "Ненавижу злиться, ненавижу это чувство.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу сердитися. Ненавиджу це відчуття."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0019",
+            "en": "I hate not being able to turn it off.",
+            "ru_native": "Ненавижу, что это нельзя выключить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу, що не можу нічого з ним вдіяти."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0020",
+            "en": "It sucks.",
+            "ru_native": "Отстой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це відстій."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0021",
+            "en": "I know I shouldn’t say that word.",
+            "ru_native": "Знаю, это плохое слово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, що не слід казати це слово."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0022",
+            "en": "But it does.",
+            "ru_native": "Но блин...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але так і є."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0023",
+            "en": "Why are you always mad?",
+            "ru_native": "Почему ты всегда злишься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти завжди сердита?"
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0024",
+            "en": "I’m…I’m trying, Mom. To be–I don’t know–...better.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... я пытаюсь, мам. Быть... не знаю... лучше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я намагаюся, мамо. Бути… не знаю… стати краще."
+        },
+        {
+            "tag": "A2C6.SONSCE_REX_0025",
+            "en": "I know you don’t believe me…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я знаю, что ты мне не веришь...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, ти мені не віриш…"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0000",
+            "en": "Huh? Oh—I’m—",
+            "ru_native": "Что? Я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га? Я…"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0001",
+            "en": "Uh, talk about what?",
+            "ru_native": "Говорить о чем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Говорити про що?"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0002",
+            "en": "Oh, this is happening again—",
+            "ru_native": "Это опять происходит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знову це…"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0003",
+            "en": "Okay. No talking then. For the rest of the night.",
+            "ru_native": "Хорошо. Никаких разговоров до конца дня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Не говоритимемо. До ранку."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0004",
+            "en": "I guess that means we won’t be able to get burgers later, though…",
+            "ru_native": "Полагаю, это значит, что мы не заедем за бургерами...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, це означає, що ми не заїдемо по бургери, хоча…"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0005",
+            "en": "Ah! Guess I’ll just make us salad instead!",
+            "ru_native": "Ну да ничего, сделаю салат!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А! Натомість я зроблю салат!"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0006",
+            "en": "Sorry, bud, but you gotta be over five and a half feet tall before you get to make that decision.",
+            "ru_native": "Прости, приятель, но ты должен сначала перерасти меня, чтобы принимать такие решения.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, друже, але ти маєш підрости, перш ніж ухвалювати таке рішення."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0007",
+            "en": "And I want to hear what happened. In detail.",
+            "ru_native": "Я хочу знать, что случилось. В подробностях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я хочу почути, що сталося. Докладно."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0008",
+            "en": "Okay, we’ll talk about something else then. Like… when I was your age, I—",
+            "ru_native": "Поговорим о чем-нибудь другом. Вот я в твоем возрасте...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, тоді ми поговоримо про щось інше. Як от… у твоєму віці я…"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0009",
+            "en": "You don’t have to be sorry. That kid was a jerk.",
+            "ru_native": "Тебе не нужно извиняться. Он придурок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не варто вибачатися. Той хлопець був придурком."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0010",
+            "en": "Yeah, sorry to break it, kiddo, but you really—can’t just punch every problem.",
+            "ru_native": "Вынуждена расстроить, приятель: все проблемы кулаками не решить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шкода розчаровувати тебе, але не кожну проблему можна розв’язати силою."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0011",
+            "en": "There’s laws and things to prevent that.",
+            "ru_native": "Против этого есть законы и прочее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Існує закон, і є речі, що запобігають."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0012",
+            "en": "Well… I’m glad you said sorry. At least.",
+            "ru_native": "Я рада, что ты извинился. Хоть что-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж… Я рада, що ти перепросив. Нарешті."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0013",
+            "en": "Look, Rex, let me be… let me tell you something that most people don’t realize until it’s too late.",
+            "ru_native": "Рекс, слушай... Я сейчас скажу тебе то, что многие люди осознают слишком поздно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Рексе, дайно-но… дозволь сказати тобі таке,<br>що більшість людей не розуміє. А потім стає надто пізно."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0014",
+            "en": "Getting mad is a gift. You’ll be amazed at what it can do for you.",
+            "ru_native": "Злость – это дар. Ты удивишься, насколько она бывает полезна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сердитися — це дар. Ти здивуєшся, коли дізнаєшся, на що здатне це почуття."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0015",
+            "en": "So. If you’re ever being mistreated, get mad. Don’t run from it. Just let yourself be that.",
+            "ru_native": "Когда тебя обижают – злись. Не старайся убежать от этого. Позволь себе злиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отож, коли з тобою несправедливо поводяться, сердься.<br>Не тікай від нього. Дозволь собі відчути його."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0016",
+            "en": "Look, it’s—you’re gonna get mad sometimes, that’s the—that’s the thing of it, and…",
+            "ru_native": "Слушай, когда ты злишься, это... С этим ничего не поделаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, іноді ти сердитимешся. У тому-то і справа…"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0017",
+            "en": "I think the best thing you can do is just—ya know—try not to stay mad. For too long.",
+            "ru_native": "Лучшее, что ты можешь, – постараться не злиться слишком долго.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Найкраще, що ти можеш зробити, це не залишатися сердитим надто довго."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0018",
+            "en": "Then screw it, get mad at that, too.",
+            "ru_native": "Тогда к черту, можешь злиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тоді кидай усе, сердься й на це."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0019",
+            "en": "Be mad that you’re mad. It’s okay. It’ll pass. Eventually.",
+            "ru_native": "Злись на то, что злишься. Все нормально. Это пройдет. Рано или поздно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сердься від того, що ти сердитий. Це нормально. Це мине. Врешті решт."
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0020",
+            "en": "Honey… why would you say that?",
+            "ru_native": "Солнце... почему ты так говоришь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сонце… чому ти так говориш?"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0021",
+            "en": "Honey… I’m not always mad. I’m… not—I'm not, always.",
+            "ru_native": "Милая... Я не всегда злюсь. Не всегда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сонце… Я не завжди сердита. Я… не завжди…"
+        },
+        {
+            "tag": "A2C6.SONSCE_RILEY_0022",
+            "en": "I guess it’s because… I guess I’m just not… happy. With things.",
+            "ru_native": "Наверное, потому что... Потому что некоторые вещи меня... расстраивают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, це тому… Гадаю, я просто… незадоволена. Тим, що відбувається."
+        }
+    ]
+}

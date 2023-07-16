@@ -1,0 +1,42 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "COLL.ADLERH",
+    "entries": [
+        {
+            "tag": "COLL.ADLERH_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "COLL.ADLERH_CHOICE_0000_OPTION_0000",
+            "en": "Tell me about Tom.",
+            "ru_native": "Расскажи мне про Тома.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розкажи мені про Тома."
+        },
+        {
+            "tag": "COLL.ADLERH_RILEY_0000",
+            "en": "Hey, Hank?",
+            "ru_native": "Хэнк?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Привіт."
+        },
+        {
+            "tag": "COLL.ADLERH_RILEY_0001",
+            "en": "Tell me…about Tom",
+            "ru_native": "Расскажи мне... про Тома",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розкажи мені… про Тома."
+        }
+    ]
+}

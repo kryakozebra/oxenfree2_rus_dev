@@ -1,0 +1,555 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V1.JACPLA",
+    "entries": [
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0000_OPTION_0000",
+            "en": "That doesn’t sound good. ",
+            "ru_native": "Мне это не нравится. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це погано. "
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0000_OPTION_0001",
+            "en": "They’re gonna disrupt our transmitters?",
+            "ru_native": "Они создадут помехи для передатчиков?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Створити перешкоди для наших радіопередавачів?"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0001_OPTION_0000",
+            "en": "They also mentioned a church.",
+            "ru_native": "Они упомянули церковь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони також згадали про церкву."
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0001_OPTION_0001",
+            "en": "Can we stop them?",
+            "ru_native": "Их можно остановить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їх можна зупинити?"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0001_OPTION_0002",
+            "en": "Where could they do that?",
+            "ru_native": "Куда они направились?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де вони можуть це зробити?"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0003_OPTION_0000",
+            "en": "They mentioned a church, too.",
+            "ru_native": "Они упомянули церковь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони також згадали про церкву."
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0003_OPTION_0001",
+            "en": "How would they do that?",
+            "ru_native": "Как они это сделают?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вони це зроблять?"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0003_OPTION_0002",
+            "en": "Can we stop them?",
+            "ru_native": "Их можно остановить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їх можна зупинити?"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0004_OPTION_0000",
+            "en": "Hey, fine with me!",
+            "ru_native": "Тогда вперед!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді вперед!"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0004_OPTION_0001",
+            "en": "Isn’t this dangerous?",
+            "ru_native": "Это не опасно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це безпечно?"
+        },
+        {
+            "tag": "A2V1.JACPLA_CHOICE_0004_OPTION_0002",
+            "en": "What if they beat us there?",
+            "ru_native": "А если они нас опередят?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А якщо вони нас випередять?"
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0000",
+            "en": "Um.",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0001",
+            "en": "Did they say something about…",
+            "ru_native": "Они сказали что-то про...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони сказали щось про…"
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0002",
+            "en": "…killing our transmitter field?",
+            "ru_native": "Заглушку поля нашего передатчика?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…заглушку поля наших радіопередавачів?"
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0003",
+            "en": "Olivia’s group owns the lease on the Community Center. And…",
+            "ru_native": "Группа Оливии владеет местным общественным центром.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Група Олівії орендує місцевий громадський центр. І…"
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0004",
+            "en": "Parentage puts out a weekly address—it's like public access but worse. Super strange stuff.",
+            "ru_native": "«Наследие» каждую неделю выпускает обращения. Короче, суперстранная схема.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Парентаж» робить щотижневе радіозвернення — це як відкритий доступ,<br>але гірше. Дуже дивна річ."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0005",
+            "en": "I-I think they’re going to use whatever equipment they have to try and screw up our night.",
+            "ru_native": "Они наверняка постараются использовать их оборудование, чтобы подложить нам свинью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… гадаю, що вони будуть використовувати будь-яке обладнання,<br>щоб спробувати зіпсувати нам вечір."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0006",
+            "en": "Um, technically. They mentioned a radio station. If they can hijack the frequency…",
+            "ru_native": "Технически – да. Они упомянули радиостанцию. Если им удастся взломать частоту...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, технічно так. Вони згадували радіостанцію. Якщо вони б перехопили частоту…"
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0007",
+            "en": "Or broadcast the station’s signal in the right, way… yeah, it could smother our array.",
+            "ru_native": "Или транслировать сигнал нужным образом... Да, они могут заглушить наш диапазон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або пустять сигнал зі станції в потрібному напрямку… так, це може нас заглушити."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0008",
+            "en": "Which, uh, isn’t good.",
+            "ru_native": "Что не есть хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що, ем, не є добре."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0009",
+            "en": "Obviously.",
+            "ru_native": "Очевидно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вочевидь."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0010",
+            "en": "They’re talking about… they have to be talking about the Community Center.",
+            "ru_native": "Они про... Думаю, они про общественный центр.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони говорять про… вони, певно, говорять про Громадський центр."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0011",
+            "en": "That group, Parentage, took over the lease, and they sometimes rent out the space, but…",
+            "ru_native": "Эта группа, «Наследие», выкупили права на центр и порой сдают его в аренду, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цей Парентаж володіє та іноді здає його в оренду, але…"
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0012",
+            "en": "I don’t think we can. Our transmitters just won’t be able to compete, if it’s a genuine station.",
+            "ru_native": "Боюсь, тут мы в пролете. Наши передатчики тупо<br>не сравнить по силе с настоящей станцией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що ми не зможемо. Наші радіопередавачі просто не впораються<br>зі справжньою станцією."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0013",
+            "en": "Olivia could consider it their church, sure.",
+            "ru_native": "Оливия вполне может считать его их церковью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0014",
+            "en": "I mean… that has to be it.",
+            "ru_native": "Других вариантов нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0015",
+            "en": "It’s back in town. Or… the, uh, the-the town out here. The Docks.",
+            "ru_native": "В городе. Точнее, здесь... В доках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0016",
+            "en": "And… we might want to hightail it.",
+            "ru_native": "И лучше нам двигать булками.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0017",
+            "en": "Uh, no, it doesn’t.",
+            "ru_native": "Звучит плохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звучить погано."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0018",
+            "en": "They’re talking about disrupting the transmitter signals with… a radio station?",
+            "ru_native": "Они говорят о создании помех для передатчиков при помощи... радиостанции?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони говорять про створення перешкод для радіопередавачів<br>за допомогою… радіостанції?"
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0019",
+            "en": "Which… unfortunately could potentially work.",
+            "ru_native": "И, к сожалению, это может сработать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І, на жаль, це, скоріш за все, може спрацювати."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0020",
+            "en": "How? Oh, if they hijack the frequency…",
+            "ru_native": "Как? Ну, если они взломают частоту...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як? Ну, якщо вони перехоплять частоту…"
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0021",
+            "en": "Mm.",
+            "ru_native": "М-м.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мм."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0022",
+            "en": "You know… you know, if we can get to their transmitter and… turn it off…or just break it, first…",
+            "ru_native": "Знаешь... Если мы первыми доберемся до их передатчика и отключим его, или тупо сломаем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0023",
+            "en": "I mean, they’re not there, yet. Olivia’s friends screwed up.",
+            "ru_native": "Они ведь еще не там. Дружки Оливии облажались.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто, вони ж ще не там. Приятелі Олівії облажалися."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0024",
+            "en": "I know it sounds caveman, but…",
+            "ru_native": "Звучит варварски, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, що це звучить дико, але…"
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0025",
+            "en": "I think it’s the only option we have.",
+            "ru_native": "Боюсь, это наш единственный выход.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаю, це наш єдиний вихід."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0026",
+            "en": "[sigh] True. God. Okay.",
+            "ru_native": "Верно. Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] І то правда. Господи. Гаразд."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0027",
+            "en": "I think it’d be more dangerous to let them do this.",
+            "ru_native": "Дать им заглушить сигнал будет опаснее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дати їм заглушити сигнал буде ще небезпечніше."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0028",
+            "en": "They’ll win if they pull it off, and… I-I don’t have any other ideas.",
+            "ru_native": "Если у них получится, то все... А других идей у меня нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо в них вийде, то вони — виграли… А інших ідей я не маю."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0029",
+            "en": "Uh… well. We can’t let that happen.",
+            "ru_native": "Ну... Этого нельзя допустить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… Цього не можна допустити."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0030",
+            "en": "Charity Point can wait. Let’s go to the docks.",
+            "ru_native": "Черити Поинт подождет. Идем к докам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Черіті-Поінт може почекати. Ідемо до доків."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0031",
+            "en": "The Falls can wait. Let’s go to the docks.",
+            "ru_native": "Фолз подождет. Идем к докам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Водоспади можуть почекати. Ідемо до доків."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0032",
+            "en": "Garland can wait. Let’s go to the docks.",
+            "ru_native": "Гарленд подождет. Идем к докам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарленд може почекати. Ідемо до доків."
+        },
+        {
+            "tag": "A2V1.JACPLA_JACOB_0033",
+            "en": "You know… you know, if we can get to their equipment and… turn it off—or just break it, first...",
+            "ru_native": "Знаешь... Если мы первыми доберемся до их оборудования и отключим его,<br>или тупо сломаем...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш… якщо ми дістанемося до їхнього обладнання першими і…<br>вимкнемо його… або просто зламаємо, то…"
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0000",
+            "en": "So… is that true? What they were saying—that they can somehow disrupt our transmitters?",
+            "ru_native": "Так это правда? Они действительно могут как-то вывести из строя наши передатчики?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… це правда? Те, що вони казали… Вони справді можуть якось<br>вивести з ладу наші радіопередавачі?"
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0001",
+            "en": "Okay. But what would that have to do with a church? That’s where they said they’re going, right?",
+            "ru_native": "Так. Но при чем тут какая-то церковь? Они сказали, что туда направляются?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Але до чого тут якась церква? Вони сказали, що туди прямують, адже так?"
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0002",
+            "en": "Uh, okay, how do we—how do we stop them?",
+            "ru_native": "И как нам... Как их остановить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І як нам… Як їх зупинити?"
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0003",
+            "en": "Where could they possibly do this?",
+            "ru_native": "Где они могут это сделать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де, вірогідно, вони можуть це зробити?"
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0004",
+            "en": "Uh, wait, did they say something about going to a church? I haven’t seen a church around here.",
+            "ru_native": "Погоди, они сказали что-то насчет церкви. Но я не видела здесь никаких церквей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0005",
+            "en": "And… is that true? What they were saying? That they can somehow disrupt our transmitters?",
+            "ru_native": "Так это правда? Они действительно могут как-то вывести из строя наши передатчики?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0006",
+            "en": "Okay. This sucks. Where’s the Community Center?",
+            "ru_native": "Ясно. Хреново. Где этот общественный центр?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0007",
+            "en": "Uh, okay, that… didn’t sound good, right?",
+            "ru_native": "Так... Звучит не очень хорошо, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Гаразд, це звучить не дуже добре, адже так?"
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0008",
+            "en": "And, uh, pardon my total lack of knowledge in this department, but… how could they do this?",
+            "ru_native": "Простите мою полнейшую неосведомленность, но... как они могут это сделать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте мою необізнаність, але… як вони можуть це зробити?"
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0009",
+            "en": "Hey, if that’s the only plan, then, fine. We don’t really have a lot of time to waffle.",
+            "ru_native": "Слушай, если вариант всего один, то вперед. Нет времени сопли жевать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, якщо вихід лише один, то вперед. Немає часу соплі жувати."
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0010",
+            "en": "Wouldn’t it be, uh, dangerous to go directly into the… let’s just say lair of Parentage?",
+            "ru_native": "Разве это не опасно, идти прямиком в... скажем там, логово «Наследия»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це буде безпечно, йти прямо… скажемо, у лігво «Парентажу»?"
+        },
+        {
+            "tag": "A2V1.JACPLA_RILEY_0011",
+            "en": "Alright. Uh, counter-thought… What if they beat us there?",
+            "ru_native": "Ладно. Другой сценарий. Что, если они нас опередят?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Інша думка. А якщо вони нас випередять?"
+        }
+    ]
+}

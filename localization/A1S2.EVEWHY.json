@@ -1,0 +1,294 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S2.EVEWHY",
+    "entries": [
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0000_OPTION_0000",
+            "en": "Hey, sorry, I’m here.",
+            "ru_native": "Да, прости, я тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вибач, я тут."
+        },
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0000_OPTION_0001",
+            "en": "What is it.",
+            "ru_native": "Что такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що таке?"
+        },
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0001_OPTION_0000",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0001_OPTION_0001",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0002_OPTION_0000",
+            "en": "I didn’t hear.",
+            "ru_native": "Не слышала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не чула."
+        },
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0002_OPTION_0001",
+            "en": "She hung up too fast!",
+            "ru_native": "Она отключилась!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона швидко від’єдналася!"
+        },
+        {
+            "tag": "A1S2.EVEWHY_CHOICE_0002_OPTION_0002",
+            "en": "I didn’t think it was important.",
+            "ru_native": "Не думала, что это важно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не думала, що це було важливо."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0000",
+            "en": "Hiya – yeah, sorry, but you really need to answer these calls when they come in.",
+            "ru_native": "Приветик! Слушай, извини, но не игнорируй входящие вызовы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0001",
+            "en": "Especially when they’re from Leslie.",
+            "ru_native": "Особенно от Лесли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0002",
+            "en": "Why didn’t you pick up?",
+            "ru_native": "Почему не ответила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти не відповідала?"
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0003",
+            "en": "I know sometimes the calls don’t get through.",
+            "ru_native": "Знаю, что порой вызовы не проходят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що інколи виклики не проходять."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0004",
+            "en": "I just want to check if we can talk to you when we need to.",
+            "ru_native": "Решила проверить, легко ли с тобой связаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто хотіла перевірити, чи ми зможемо з тобою зв’язатися, коли це буде потрібно."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0005",
+            "en": "Okay? Over.",
+            "ru_native": "Не против? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не проти? Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0006",
+            "en": "Riley? You there? <br> Sorry, but can you explain why you didn’t pick up when Leslie called?",
+            "ru_native": "Райли? Ты там? Можешь объяснить, почему ты не ответила на вызов Лесли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там? Можеш пояснити, чому ти не відповідала Леслі?"
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0007",
+            "en": "Interference can be an issue.",
+            "ru_native": "Помехи могут мешать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все через перешкоди."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0008",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0009",
+            "en": "Okay. It’s fine. Just try and keep on top of it. It’s important to answer those calls.",
+            "ru_native": "Ясно. Не страшно. В следующий раз знай. Нужно отвечать, если вызывают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, нічого страшного. Наступного разу знай, що потрібно відповідати. Це важливо."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0010",
+            "en": "Riley? Still there? We need to go over your next steps.",
+            "ru_native": "Райли? Еще тут? Надо обсудить дальнейшие действия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти ще тут? Треба обговорити, що тобі робити далі."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0011",
+            "en": "Riley? Are you with me?",
+            "ru_native": "Райли? Ты на связи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти на зв’язку?"
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0012",
+            "en": "For now, I just need to go over your next steps.",
+            "ru_native": "Нам надо обсудить дальнейшие действия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам треба обговорити, що тобі робити далі."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0013",
+            "en": "Oh, and, uh, one more thing… when one of us calls you, you should really answer.",
+            "ru_native": "Да, и еще кое-что... когда тебя кто-то вызывает, отвечай, пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, і ще дещо… Коли хтось із нас викликає тебе, треба відповідати."
+        },
+        {
+            "tag": "A1S2.EVEWHY_EVELYN_0014",
+            "en": "Especially if it’s from Leslie, our boss.",
+            "ru_native": "Особенно, если это наш босс Лесли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Особливо, якщо це Леслі, наша начальниця."
+        },
+        {
+            "tag": "A1S2.EVEWHY_RILEY_0000",
+            "en": "Hey – hey, sorry… I’m here. Over.",
+            "ru_native": "Да, прости... Я тут. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.EVEWHY_RILEY_0001",
+            "en": "Evelyn, hey. What is it. Over.",
+            "ru_native": "Эвелин. Что такое? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S2.EVEWHY_RILEY_0002",
+            "en": "I—crap, sorry, Evelyn, I guess I didn’t hear the call come in.",
+            "ru_native": "Вот черт, прости, Эвелин. Видимо, я не услышала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… от лайно, вибач, Евелін. Схоже, я просто не чула."
+        },
+        {
+            "tag": "A1S2.EVEWHY_RILEY_0003",
+            "en": "Maybe I was—I don’t know, maybe I was in a bad spot or something. Over.",
+            "ru_native": "Может, я была в какой-нибудь глухой зоне, не знаю. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, я… не знаю, була в якійсь глухій зоні. Прийом."
+        },
+        {
+            "tag": "A1S2.EVEWHY_RILEY_0004",
+            "en": "Yeah, sorry, but she hung up too fast! <br> By the time I hit the button, she was already gone.",
+            "ru_native": "Она слишком быстро отключилась! Я не успела нажать кнопку, как она пропала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вибач, вона швидко від’єдналася! Я не встигла натиснути кнопку, а її вже немає."
+        },
+        {
+            "tag": "A1S2.EVEWHY_RILEY_0005",
+            "en": "Sorry. Over.",
+            "ru_native": "Прости. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач. Прийом."
+        },
+        {
+            "tag": "A1S2.EVEWHY_RILEY_0006",
+            "en": "Crap, I guess I just—I didn’t think it was that important. <br> I’m not a big… phone person.",
+            "ru_native": "Вот черт. Не думала, что это так важно. Я не особо люблю разговаривать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я не думала, що це так важливо. Я не дуже… люблю розмовляти."
+        }
+    ]
+}

@@ -1,0 +1,609 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.FIROLI",
+    "entries": [
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0000_OPTION_0000",
+            "en": "What is it.",
+            "ru_native": "В чем дело?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це?"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0000_OPTION_0001",
+            "en": "Go home, Olivia.",
+            "ru_native": "Иди домой, Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди додому, Олівіє."
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0001_OPTION_0000",
+            "en": "Are you watching us?",
+            "ru_native": "Ты нас видишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти стежиш за нами?"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0001_OPTION_0001",
+            "en": "Why are you here?",
+            "ru_native": "Почему ты здесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти тут?"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0001_OPTION_0002",
+            "en": "How’d I look?",
+            "ru_native": "И как я выгляжу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Який у мене вигляд?"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0002_OPTION_0000",
+            "en": "Ever hear of beavers?",
+            "ru_native": "Про бобров не слышала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чула коли-небудь про бобрів?"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0002_OPTION_0001",
+            "en": "Goodbye, Olivia.",
+            "ru_native": "Пока, Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай, Олівіє."
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0002_OPTION_0002",
+            "en": "What are you trying to do?",
+            "ru_native": "Что ты хочешь сделать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти намагаєшся робити?"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0003_OPTION_0000",
+            "en": "You do think you know everything.",
+            "ru_native": "Ты и правда думаешь, что все знаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти таки гадаєш, що знаєш усе."
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0003_OPTION_0001",
+            "en": "It’s just tomatoes and sugar.",
+            "ru_native": "Это просто помидоры с сахаром.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У ньому лише помідори й цукор."
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0003_OPTION_0002",
+            "en": "Can we just talk?",
+            "ru_native": "Можем просто поговорить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми можемо просто поговорити?"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0004_OPTION_0000",
+            "en": "Yeah...",
+            "ru_native": "Ага...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так…"
+        },
+        {
+            "tag": "A2G2.FIROLI_CHOICE_0004_OPTION_0001",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже так?"
+        },
+        {
+            "tag": "A2G2.FIROLI_JACOB_0000",
+            "en": "God, what a…  annoying person.",
+            "ru_native": "Вот же... надоедливая персона.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, ну й... надокучлива людина."
+        },
+        {
+            "tag": "A2G2.FIROLI_JACOB_0001",
+            "en": "I almost said the B-word.",
+            "ru_native": "Чуть не сказал слово на «с».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи не сказав слово на букву «С»."
+        },
+        {
+            "tag": "A2G2.FIROLI_JACOB_0002",
+            "en": "Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0000",
+            "en": "I saw you losers walking in, but you totally didn’t notice me.",
+            "ru_native": "Я видела вас, неудачники, а вы меня нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила, як ви увійшли, невдахи. А ви мене не помітили."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0001",
+            "en": "Oblivious.",
+            "ru_native": "Растяпы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роззяви."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0002",
+            "en": "Caught up in your own crap.",
+            "ru_native": "Вляпались свое же дерьмо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вляпались у своє ж лайно."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0003",
+            "en": "No one and nothing else could possibly exist.",
+            "ru_native": "Кто бы сомневался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніхто й ніщо інше не могло б існувати."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0004",
+            "en": "No. Yes. Maybe.",
+            "ru_native": "Нет. Да. Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Так. Можливо."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0005",
+            "en": "A. You won’t believe me no matter what I say…",
+            "ru_native": "А. Вы мне все равно не поверите...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А. Ви все одно не повірите мені."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0006",
+            "en": "B. You couldn’t find me even if I was…",
+            "ru_native": "Б. Вы бы меня все равно не нашли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Б. Ви не зможете знайти мене, навіть якби я…"
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0007",
+            "en": "So, C. Dumb question.",
+            "ru_native": "И В. Глупый вопрос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже В. Тупе запитання."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0008",
+            "en": "Old.",
+            "ru_native": "Старой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Старий."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0009",
+            "en": "I tried to get some replacement tech off those—whatever the hell they are, but it’s all bolted together. So I broke it instead.",
+            "ru_native": "Я пыталась разобрать эту штуку на запчасти, но там все<br>на совесть скручено. Так что я просто ее сломала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я намагалася розібрати цю штуку на запчастини,<br>але там усе на совість скручено. Тому я її просто зламала."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0010",
+            "en": "But look, you have no idea what you’re trying to, like, prevent.",
+            "ru_native": "Слушайте, вы не понимаете, чему пытаетесь помешать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, ви не розумієте, чому ви намагаєтесь перешкодити."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0011",
+            "en": "You can’t stop the weather. It’s the equinox. You know what that means?",
+            "ru_native": "Нельзя остановить погоду. Это равноденствие. Знаете, что это такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погоду не зупинити. Це рівнодення. Знаєте, що це означає?"
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0012",
+            "en": "You know that thing you saw in the sky? To you, it’s the ocean.",
+            "ru_native": "Знаете, что это за штука в небе? Для вас это как океан.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви знаєте, що за штуку ви бачили в небі? Для вас це океан."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0013",
+            "en": "And you’re trying to build a dam with twigs.",
+            "ru_native": "А вы пытаетесь построить плотину из веточек.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ви намагаєтеся побудувати греблю з гілочок."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0014",
+            "en": "It’s a waste of time.",
+            "ru_native": "Пустая трата времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Марна трата часу."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0015",
+            "en": "And it won’t work.",
+            "ru_native": "Это не сработает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не працюватиме."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0016",
+            "en": "Okay?",
+            "ru_native": "Ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ясно?"
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0017",
+            "en": "Even if I wrote you a book, you wouldn’t comprehend it.",
+            "ru_native": "Ты бы не поняла, даже если бы я написала для тебя книгу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть якщо я напишу книгу, ти все одно не зрозумієш."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0018",
+            "en": "Listen, I’m gonna save you some trouble, ‘cause, I know you’re just dying to say,",
+            "ru_native": "Слушай, я упрощу тебе задачу. Я знаю, что ты хочешь сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я спрощу тобі задачу. Адже я знаю, що ти надто сильно хочеш сказати…"
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0019",
+            "en": "“You think you know everything but you’re young and blah blah blah vomit choke die.”",
+            "ru_native": "«Ты думаешь, что все знаешь, но ты молода и бла-бла-бла-все-дела».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Ти гадаєш, що знаєш усе. Але ти молода і бла-бла-бла, такі справи»."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0020",
+            "en": "But here’s my secret. I know that I don’t know everything.",
+            "ru_native": "Раскрою тебе секрет. Я знаю, что знаю не все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ось мій секрет. Я знаю, що я не знаю всього."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0021",
+            "en": "I don’t know how ketchup works.",
+            "ru_native": "Например, как делают кетчуп.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, із чого роблять кетчуп."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0022",
+            "en": "So. Save it.",
+            "ru_native": "Так что не стоит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож не треба."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0023",
+            "en": "I’d say let’s agree to disagree but let’s just disagree.",
+            "ru_native": "Я бы предложила каждому остаться при своем мнении.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пропоную всім залишитися при своїй точці зору."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0024",
+            "en": "Go put some tomatoes in a pot and sprinkle sugar on top, see if you make ketchup.",
+            "ru_native": "Ну давай, положи в кастрюлю помидоры и посыпь сахаром.<br>Посмотрим, выйдет ли у тебя кетчуп.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поклади в горщик помідори, посип цукром, і побачиш, чи вийде кетчуп."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0025",
+            "en": "We are talking like people. Most people talk with voices and ears. We’re using both?",
+            "ru_native": "Мы и говорим по-человечески. Произносим слова ртом и слушаем ушами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми й говоримо як нормальні люди. Як правило,<br>люди спілкуються за допомогою язика й вух. Ми ж використовуємо те й інше?"
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0026",
+            "en": "My point is… I know one thing. One thing for sure.",
+            "ru_native": "Я хочу сказать... Я точно знаю одно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я от до чого… Я знаю одну річ. Одну річ напевно."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0027",
+            "en": "I know what I want. I know it. And I know I can get it.",
+            "ru_native": "Я знаю, чего хочу. И знаю, что могу это получить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, чого я хочу. Я знаю це. І я знаю, що можу отримати це."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0028",
+            "en": "And I think that’s a lot more than most people.",
+            "ru_native": "И думаю, это гораздо больше того, чего хочет большинство.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я гадаю, що це — набагато більше, ніж хоче більшість."
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0029",
+            "en": "Do you know what you want, Riley?",
+            "ru_native": "А ты, Райли, знаешь, чего хочешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти знаєш, чого ти хочеш, Райлі?"
+        },
+        {
+            "tag": "A2G2.FIROLI_OLIVIA_0030",
+            "en": "Think about that.",
+            "ru_native": "Подумай об этом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подумай над цим."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0000",
+            "en": "What do you want, Olivia? Over.",
+            "ru_native": "Что тебе надо, Оливия. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тобі треба, Олівіє? Прийом."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0001",
+            "en": "Can’t you just go home, kid?",
+            "ru_native": "Может, просто домой пойдешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, підеш додому, дитино?"
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0002",
+            "en": "Are you—watching us right now?",
+            "ru_native": "Ты что... нас видишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти що, стежиш за нами?"
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0003",
+            "en": "What are you doing in Garland?",
+            "ru_native": "Что ты делаешь в Гарленде?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти робиш у Гарленді?"
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0004",
+            "en": "Oh, yeah? How’d I look?",
+            "ru_native": "Да? И как я выгляжу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді? Який у мене вигляд?"
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0005",
+            "en": "Uh, I don’t know if you’ve ever heard of beavers, but—",
+            "ru_native": "Не знаю, слышала ли ты про бобров, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи ти чула про бобрів, але…"
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0006",
+            "en": "Goodbye, Olivia. I hope you do the smart thing and quit this.",
+            "ru_native": "Прощай, Оливия. Надеюсь, тебе хватит ума перестать это делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай, Олівіє. Сподіваюся, ти одумаєшся і припиниш це."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0007",
+            "en": "But I have my hands full right now trying to stop some dumb kids. Over and out.",
+            "ru_native": "А я сейчас занята, пытаюсь остановить одних глупых детишек. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я зараз намагаюся зупинити купку тупих дітлахів. Кінець зв’язку."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0008",
+            "en": "What are you even trying to do? I’m a little confused cause all I saw are some kids running around in masks.",
+            "ru_native": "Что ты вообще пытаешься сделать? Не могу взять в<br>толк, потому что я видела только детей в масках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти там взагалі намагаєшся робити? Трохи не розумію, адже я все,<br>що я бачила, це як дітлахи розгулюють у масках."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0009",
+            "en": "Yeah, right, I had a learner’s permit, too. I was convinced I knew everything.",
+            "ru_native": "Да, конечно, я тоже училась в школе. Я была уверена, что все знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, правильно, я теж вчилася в школі. Я була впевнена, що знаю все."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0010",
+            "en": "We can smell our own.",
+            "ru_native": "Мы сами разберемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Самі розберемося."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0011",
+            "en": "There’s not much to the condiment. Just tomatoes and sugar. Probably some food dye.",
+            "ru_native": "Да там нет ничего особенного. Просто помидоры и сахар. Ну, может, пищевой краситель.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та нічого там знати. Лише помідори й цукор. Може, трохи харчового барвника."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0012",
+            "en": "C’mon, enough, let’s talk like—ya know—people.",
+            "ru_native": "Ладно, хватит. Давай поговорим... по-человечески.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі. Поговорімо як нормальні люди."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0013",
+            "en": "Yeah. Let’s hurry it up.",
+            "ru_native": "Да. Надо торопиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Поспішімо."
+        },
+        {
+            "tag": "A2G2.FIROLI_RILEY_0014",
+            "en": "Right? Let’s hurry it up.",
+            "ru_native": "Да? Надо поспешить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? Поспішімо."
+        }
+    ]
+}

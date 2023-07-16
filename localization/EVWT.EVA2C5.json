@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2C5",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2C5_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2C5_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn? You there?",
+            "ru_native": "Эвелин? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Ти мене чуєш?"
+        },
+        {
+            "tag": "EVWT.EVA2C5_EVELYN_0000",
+            "en": "[static] The bear went over the mountain…",
+            "ru_native": "Медведь перебрался через гору...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Шум] Ведмідь перебрався через гору…"
+        },
+        {
+            "tag": "EVWT.EVA2C5_EVELYN_0001",
+            "en": "[static] The bear went over the mountain…",
+            "ru_native": "Медведь перебрался через гору...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Шум] Ведмідь перебрався через гору…"
+        },
+        {
+            "tag": "EVWT.EVA2C5_EVELYN_0002",
+            "en": "[static] The bear went over the mountain…",
+            "ru_native": "Медведь перебрался через гору...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Шум] Ведмідь перебрався через гору…"
+        },
+        {
+            "tag": "EVWT.EVA2C5_EVELYN_0003",
+            "en": "[static] To see what he could see…",
+            "ru_native": "Чтоб посмотреть, что там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Шум] Щоби подивитися, що там…"
+        },
+        {
+            "tag": "EVWT.EVA2C5_EVELYN_0004",
+            "en": "[ID-5] [WT] [static]",
+            "ru_native": "[ID-5]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "EVWT.EVA2C5_RILEY_0000",
+            "en": "Hey, uh, Evelyn? Do you read me? Over.",
+            "ru_native": "Эй, Эвелин? Меня слышно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін? Ти мене чуєш? Прийом."
+        }
+    ]
+}

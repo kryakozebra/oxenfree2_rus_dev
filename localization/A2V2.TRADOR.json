@@ -1,0 +1,177 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V2.TRADOR",
+    "entries": [
+        {
+            "tag": "A2V2.TRADOR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.TRADOR_CHOICE_0000_OPTION_0000",
+            "en": "Maybe there's a way.",
+            "ru_native": "Как-то можно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може є інший спосіб?"
+        },
+        {
+            "tag": "A2V2.TRADOR_CHOICE_0000_OPTION_0001",
+            "en": "Something's down there.",
+            "ru_native": "Внизу что-то есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут щось є внизу."
+        },
+        {
+            "tag": "A2V2.TRADOR_JACOB_0000",
+            "en": "Oh. [chuckling] Cool.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Круто.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.TRADOR_JACOB_0001",
+            "en": "Riley. Riley. Stop, stop. Look. See the symbols drawn on it?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли. Райли. Остановись, остановись. Смотри. Видишь нарисованные на ней символы?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.TRADOR_JACOB_0002",
+            "en": "The lock looks… strange. There’s no keyhole or combo.",
+            "ru_native": "Замок какой-то странный. Ни скважины, ни кода.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Замок теж якийсь… дивний. Ані отвору, ані коду."
+        },
+        {
+            "tag": "A2V2.TRADOR_JACOB_0003",
+            "en": "I don’t think I’ve seen anything like that, before...",
+            "ru_native": "Никогда подобного не видел...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи такого не бачив…"
+        },
+        {
+            "tag": "A2V2.TRADOR_JACOB_0004",
+            "en": "How would they ever open it?",
+            "ru_native": "Как его вообще открывать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як його взагалі відчинити?"
+        },
+        {
+            "tag": "A2V2.TRADOR_JACOB_0005",
+            "en": "Hard to argue.",
+            "ru_native": "Не поспоришь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Логічно."
+        },
+        {
+            "tag": "A2V2.TRADOR_JACOB_0006",
+            "en": "Or… radio stuff.",
+            "ru_native": "Или... радиоаппаратуры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… радіообладнання."
+        },
+        {
+            "tag": "A2V2.TRADOR_JACOB_0007",
+            "en": "Why is everything here so weird? And not in a good way.",
+            "ru_native": "Почему тут все такое странное. В плохом смысле.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому тут усе таке дивне. У поганому сенсі цього слова."
+        },
+        {
+            "tag": "A2V2.TRADOR_RILEY_0000",
+            "en": "Hey, Jacob! I think I found a trap door…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, Джейкоб! Кажется, я нашел дверь-ловушку...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.TRADOR_RILEY_0001",
+            "en": "I think… that cable tracks all the way to… here.",
+            "ru_native": "Думаю, тот кабель ведет прямиком... сюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, той кабель веде прямо… сюди."
+        },
+        {
+            "tag": "A2V2.TRADOR_RILEY_0002",
+            "en": "Something feels off about the floor…",
+            "ru_native": "Что-то с этим полом не так...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось із цією підлогою не так…"
+        },
+        {
+            "tag": "A2V2.TRADOR_RILEY_0003",
+            "en": "Hey, Jacob? There’s something… off about the floor, here.",
+            "ru_native": "Эй, Джейкоб? С этим полом что-то не так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Джейкобе? Із цією підлогою щось не так…"
+        },
+        {
+            "tag": "A2V2.TRADOR_RILEY_0004",
+            "en": "It feels hollow. Right?",
+            "ru_native": "Звук глухой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звук глухий. Адже так?"
+        },
+        {
+            "tag": "A2V2.TRADOR_RILEY_0005",
+            "en": "Oh, look. See? This goes down to a basement.",
+            "ru_native": "Смотри. Видишь? Здесь спуск в подвал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивись. Бачиш? Тут спуск у підвал."
+        },
+        {
+            "tag": "A2V2.TRADOR_RILEY_0006",
+            "en": "Mm. There’s gotta be a way in. Even if it’s storage, they’ll need to get it sometime.",
+            "ru_native": "Как-то открыть можно. Даже если это просто хранилище, его ведь используют.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мм. Має бути спосіб відчинити. Навіть якщо це просто сховище,<br>адже туди інколи треба заходити."
+        },
+        {
+            "tag": "A2V2.TRADOR_RILEY_0007",
+            "en": "[sigh] God, I know something’s down there. You don’t lock the cellar unless there’s a monster to hide.",
+            "ru_native": "Селезенкой чую, там что-то есть. Никто не<br>станет запирать подвал, если там нет монстра.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, я відчуваю, там щось є. Ніхто не стане замикати підвал,<br>хіба що там є монстр."
+        }
+    ]
+}

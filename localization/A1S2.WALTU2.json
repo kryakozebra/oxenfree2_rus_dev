@@ -1,0 +1,114 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1S2.WALTU2",
+    "entries": [
+        {
+            "tag": "A1S2.WALTU2_CHOICE_0000_OPTION_0000",
+            "en": "I’m here, Evelyn! You there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я здесь, Эвелин! Ты здесь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тут, Евелін! Ти мене чуєш?"
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0000",
+            "en": "Perfect!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Идеально!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово!"
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0001",
+            "en": "I’m your nightwatch, so I’ll be on all night, unless I’m using the bathroom or taking a bug outside or something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я твой ночной дозорный, поэтому буду включен всю ночь, если только не схожу в туалет, не выведу жука на улицу или еще что-нибудь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я буду чергувати тут всю ніч, тому я завжди на зв’язку,<br>хіба якщо я не піду в туалет або викидати жука на вулицю."
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0002",
+            "en": "Alright, let’s switch back to 7 so we’re not crowding anyone else who could be using this channel.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, давай переключимся обратно на 7, чтобы не теснить тех, кто еще может пользоваться этим каналом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, повертайся на сьомий канал, щоби ми не заважали іншим, хто користується цим."
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0003",
+            "en": "See you on 7!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Увидимся на седьмом!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зустрінемося на сьомому!"
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0004",
+            "en": "Hey, Riley, I’m going to switch back to channel 7 on the walkie, now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, Райли, я сейчас по рации переключусь обратно на седьмой канал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Райлі, зараз я знову перемкну рацію на 7-ий канал."
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0005",
+            "en": "Click over to 7, okay? Thanks!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Переходи по ссылке на 7, хорошо? Спасибо!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Натисни на 7-ий, гаразд? Дякую!"
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0006",
+            "en": "But uh, anyways, I’m going to be on channel 7 now, so let’s keep talking over there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, так или иначе, сейчас я буду на седьмом канале, так что давай продолжим разговор там.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, все одно, зараз я буду на 7-му каналі, тому продовжимо розмову там."
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0007",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0008",
+            "en": "Okay, last time, I’m really switching over to channel 7 now! See you on 7 on your walkie dial.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, в последний раз, теперь я действительно перехожу на 7-й канал! Увидимся на 7-м на рации.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, останній раз, зараз я дійсно перемикаюся на 7-ий канал!<br>До зустрічі на 7-ій позиції на шкалі рації."
+        },
+        {
+            "tag": "A1S2.WALTU2_EVELYN_0009",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A1S2.WALTU2_RILEY_0000",
+            "en": "Hey Evelyn, I’m here. You there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, Эвелин, я здесь. Ты здесь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, я тут. Ти мене чуєш?"
+        }
+    ]
+}

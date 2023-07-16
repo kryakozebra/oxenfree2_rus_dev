@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ01.WINBT3",
+    "entries": [
+        {
+            "tag": "SQ01.WINBT3_DANNY_0000",
+            "en": "[DT] Sorry, still busy.",
+            "ru_native": "Все еще занят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, досі зайнятий."
+        },
+        {
+            "tag": "SQ01.WINBT3_DANNY_0001",
+            "en": "[DT] You want seafood that badly, try the—ya know—the ocean, it’s right there.",
+            "ru_native": "Если так хотите морепродуктов, сходите к океану, наловите сами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ви так хочете морепродуктів, сходіть до океану, він тут поруч."
+        },
+        {
+            "tag": "SQ01.WINBT3_SFX_0000",
+            "en": "Bell ring.",
+            "ru_native": "Звонок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

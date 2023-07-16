@@ -1,0 +1,105 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "GLOB.LIGHTQ",
+    "entries": [
+        {
+            "tag": "GLOB.LIGHTQ_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.LIGHTQ_CHOICE_0000_OPTION_0000",
+            "en": "Yeah, it’s weird.",
+            "ru_native": "Да, странное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це дивно."
+        },
+        {
+            "tag": "GLOB.LIGHTQ_CHOICE_0000_OPTION_0001",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "GLOB.LIGHTQ_JACOB_0000",
+            "en": "Gotta ask this again, but…",
+            "ru_native": "Спрошу еще раз...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слід спитати про це знову, але…"
+        },
+        {
+            "tag": "GLOB.LIGHTQ_JACOB_0001",
+            "en": "Why did your job think it was a good idea to send you to a run-down lighthouse in the middle of the ocean?",
+            "ru_native": "Почему твое руководство решило послать тебя в заброшенный маяк посреди океана?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому твоє керівництво вважає це гарною ідеєю —<br>відправити тебе на зупинений маяк посеред океану?"
+        },
+        {
+            "tag": "GLOB.LIGHTQ_JACOB_0002",
+            "en": "We should have asked Evelyn while we had her.",
+            "ru_native": "Надо было спросить Эвелин, пока могли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нім слід було спитати Евелін, доки вона була в нас."
+        },
+        {
+            "tag": "GLOB.LIGHTQ_JACOB_0003",
+            "en": "I mean, right?",
+            "ru_native": "Сама подумай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… еге ж?"
+        },
+        {
+            "tag": "GLOB.LIGHTQ_JACOB_0004",
+            "en": "Weird suggestion.",
+            "ru_native": "Странное предложение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивне припущення."
+        },
+        {
+            "tag": "GLOB.LIGHTQ_JACOB_0005",
+            "en": "Maybe call and ask? If you’re curious. I’m curious.",
+            "ru_native": "Может, спросить? Если интересно. Мне вот очень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, зателефонувати й запитати? Якщо тобі цікаво. Мені от цікаво."
+        },
+        {
+            "tag": "GLOB.LIGHTQ_RILEY_0000",
+            "en": "Yeah, super weird.",
+            "ru_native": "Да, еще какое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, надто дивне."
+        },
+        {
+            "tag": "GLOB.LIGHTQ_RILEY_0001",
+            "en": "Couldn’t tell you. They said go there, there I went.",
+            "ru_native": "Не могу сказать. Мне сказали, и я пошла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу сказати. Сказали їхати, я й поїхав."
+        }
+    ]
+}

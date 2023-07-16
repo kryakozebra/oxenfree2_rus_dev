@@ -1,0 +1,150 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S6.TUPAP1",
+    "entries": [
+        {
+            "tag": "A3S6.TUPAP1_ALEX_0000",
+            "en": "Perfect! Keep going!",
+            "ru_native": "Perfect! Продолжай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово! Не зупиняймося!"
+        },
+        {
+            "tag": "A3S6.TUPAP1_CHOICE_0000_OPTION_0000",
+            "en": "Hold on!",
+            "ru_native": "Стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій!"
+        },
+        {
+            "tag": "A3S6.TUPAP1_CHOICE_0000_OPTION_0001",
+            "en": "I just need more time!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне просто нужно больше времени!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені просто потрібно більше часу!"
+        },
+        {
+            "tag": "A3S6.TUPAP1_JACOB_0000",
+            "en": "It’s – it’s working!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это - это работает!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це працює!"
+        },
+        {
+            "tag": "A3S6.TUPAP1_OLIVIA_0000",
+            "en": "[possessed voice] [pained groan]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [одержимый голос] [болезненный стон].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[одержимий голос] [болючий стогін]"
+        },
+        {
+            "tag": "A3S6.TUPAP1_OLIVIA_0001",
+            "en": "[possessed voice] [pained] You – stop.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [одержимый голос] (с болью) Ты - остановись.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[одержимий голос] [з болем] Ти… зупинися."
+        },
+        {
+            "tag": "A3S6.TUPAP1_OLIVIA_0002",
+            "en": "Erghh – no – don’t.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эргхх - нет - не надо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ех… ні… не треба."
+        },
+        {
+            "tag": "A3S6.TUPAP1_OLIVIA_0003",
+            "en": "[pained ouch]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [болезненный ой].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[боляче]"
+        },
+        {
+            "tag": "A3S6.TUPAP1_OLIVIA_0004",
+            "en": "[labored breathing]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [labored breathing].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[утруднене дихання]"
+        },
+        {
+            "tag": "A3S6.TUPAP1_OLIVIA_0005",
+            "en": "[in pain] Ri – Riley! D – don’t.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [с болью] Ри - Райли! D - не надо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[у болю] Рай… Райлі! Не… не треба."
+        },
+        {
+            "tag": "A3S6.TUPAP1_OLIVIA_0006",
+            "en": "[pain] We… can still do this…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [боль] Мы... все еще можем сделать это...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[біль] Ми… усе ще можемо це зробити…"
+        },
+        {
+            "tag": "A3S6.TUPAP1_OLIVIA_0007",
+            "en": "[pained groan] Oough.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [болезненный стон] Оуф.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[болючий стогін] Ой."
+        },
+        {
+            "tag": "A3S6.TUPAP1_RILEY_0000",
+            "en": "God, just – just hold on!",
+            "ru_native": "God, just – держись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, просто… тримайся!"
+        },
+        {
+            "tag": "A3S6.TUPAP1_RILEY_0001",
+            "en": "I just – Dammit, I just need a little more time!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто - Черт возьми, мне просто нужно еще немного времени!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто… Чорт, мені просто потрібно трохи більше часу!"
+        },
+        {
+            "tag": "A3S6.TUPAP1_SUNKEN_0000",
+            "en": "You. Fall.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты. Падение.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти. Впадеш."
+        },
+        {
+            "tag": "A3S6.TUPAP1_SUNKEN_0001",
+            "en": "We. Rise.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы. Rise.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми. Повстанемо."
+        }
+    ]
+}

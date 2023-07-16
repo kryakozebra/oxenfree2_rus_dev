@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2_TIMEDO",
+    "entries": [
+        {
+            "tag": "A2W2_TIMEDO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_TIMEDO_CHOICE_0000_OPTION_0000",
+            "en": "Maybe?",
+            "ru_native": "Возможно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що думаєш?"
+        },
+        {
+            "tag": "A2W2_TIMEDO_CHOICE_0000_OPTION_0001",
+            "en": "Worth a shot.",
+            "ru_native": "Стоит рискнуть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Варто ризикнути."
+        },
+        {
+            "tag": "A2W2_TIMEDO_JACOB_0000",
+            "en": "Ah, this is -- it’s one of those… distortions.",
+            "ru_native": "Ах, это... это одно из тех... искажений.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, це… одне з тих… викривлень."
+        },
+        {
+            "tag": "A2W2_TIMEDO_JACOB_0001",
+            "en": "Maybe tuning into it with the radio will… clear up the loop?",
+            "ru_native": "Может, если настроиться на него по радио... петля исчезнет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, якщо налаштуватися на нього за допомогою радіо… петля зникне?"
+        },
+        {
+            "tag": "A2W2_TIMEDO_JACOB_0002",
+            "en": "Possible?",
+            "ru_native": "Возможно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо ж?"
+        },
+        {
+            "tag": "A2W2_TIMEDO_RILEY_0000",
+            "en": "Yeah… maybe?",
+            "ru_native": "Да... может быть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага… може."
+        },
+        {
+            "tag": "A2W2_TIMEDO_RILEY_0001",
+            "en": "Yeah -- no, it’s worth a shot, at least. What else can we do.",
+            "ru_native": "Да... нет, попробовать стоит. Какие у нас еще варианты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… ні, спробувати варто. Які в нас ще варіанти?"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.CALFIB",
+    "entries": [
+        {
+            "tag": "A2C3.CALFIB_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.CALFIB_CHOICE_0000_OPTION_0000",
+            "en": "I can’t find it.",
+            "ru_native": "Не могу найти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу знайти."
+        },
+        {
+            "tag": "A2C3.CALFIB_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.CALFIB_CHOICE_0001_OPTION_0000",
+            "en": "Found your backpack.",
+            "ru_native": "Нашла твой рюкзак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми знайшли рюкзак"
+        },
+        {
+            "tag": "A2C3.CALFIB_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.CALFIB_CHOICE_0002_OPTION_0000",
+            "en": "Hello? Fisherman?",
+            "ru_native": "Алло? Рыбак?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов? Рибалко?"
+        },
+        {
+            "tag": "A2C3.CALFIB_FISHERMAN_0000",
+            "en": "Okay, fine. Over and out.",
+            "ru_native": "Хорошо. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.CALFIB_JACOB_0000",
+            "en": "Yeah I don’t think that guy’s gonna be answering your calls…",
+            "ru_native": "Да, не думаю, что этот парень тебе ответит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось мені підказує, що той чувак тобі не відповість."
+        },
+        {
+            "tag": "A2C3.CALFIB_RILEY_0000",
+            "en": "Hey, fisherman-guy. Sorry, but I can’t find the pack and I gotta go. Okay? Over.",
+            "ru_native": "Эй, рыбак. Прости, но я не могу найти рюкзак, а мне надо идти. Ладно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.CALFIB_RILEY_0001",
+            "en": "Hey, uh, Nick? Yeah, your backpack’s here. It’s blue, right? Over.",
+            "ru_native": "Эй, Ник? Да, твой рюкзак тут. Синий, да? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чуєш, Ніку? Ми знайшли твій рюкзак. Синій такий, так? Прийом."
+        },
+        {
+            "tag": "A2C3.CALFIB_RILEY_0002",
+            "en": "Hello, fisherman-guy? This is Riley. Come in. Over.",
+            "ru_native": "Эй, рыбак? Это Райли. Ответь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, рибалко? Це Райлі. Прийом-прийом."
+        },
+        {
+            "tag": "A2C3.CALFIB_RILEY_0003",
+            "en": "Guess I’m getting screened now.",
+            "ru_native": "Похоже, за мной следят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Таке відчуття, наче мене навмисне ігнорять."
+        },
+        {
+            "tag": "A2C3.CALFIB_RILEY_0004",
+            "en": "Hey, fisherman-guy? Sorry, but I can’t find the pack.",
+            "ru_native": "Эй, рыбак. Прости, но я не могу найти рюкзак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом, дядьку-рибалко? Вибачайте, я не знайшла вашого рюкзака."
+        }
+    ]
+}

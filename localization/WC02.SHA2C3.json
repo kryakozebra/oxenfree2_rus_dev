@@ -1,0 +1,312 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC02.SHA2C3",
+    "entries": [
+        {
+            "tag": "WC02.SHA2C3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.SHA2C3_CHOICE_0000_OPTION_0000",
+            "en": "Tell me about the coastline, Shelley.",
+            "ru_native": "Расскажи мне о береговой линии, Шелли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розкажи мені про берегову лінію, Шеллі."
+        },
+        {
+            "tag": "WC02.SHA2C3_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.SHA2C3_CHOICE_0001_OPTION_0000",
+            "en": "Intentional?",
+            "ru_native": "Намеренно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навмисно?"
+        },
+        {
+            "tag": "WC02.SHA2C3_CHOICE_0001_OPTION_0001",
+            "en": "Seems crazy.",
+            "ru_native": "Звучит дико.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається божевільним."
+        },
+        {
+            "tag": "WC02.SHA2C3_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.SHA2C3_CHOICE_0002_OPTION_0000",
+            "en": "It’s impressive.",
+            "ru_native": "Впечатляет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вражає."
+        },
+        {
+            "tag": "WC02.SHA2C3_CHOICE_0002_OPTION_0001",
+            "en": "It’s bonkers.",
+            "ru_native": "Это помешательство.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це безглуздя."
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0000",
+            "en": "Hey, Shelley? What can you tell me about the Camena coastline?",
+            "ru_native": "Эй, Шелли? Что ты можешь рассказать про береговую линию Камены?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Шеллі? Що розкажеш про берегову лінію Камени?"
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0001",
+            "en": "It seems… unique?",
+            "ru_native": "Она, похоже... необычная?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона, наче… особлива?"
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0002",
+            "en": "Maybe that was the point?",
+            "ru_native": "Может, в этом и дело?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, у цьому й річ?"
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0003",
+            "en": "Some place you won’t be bothered, ya know?",
+            "ru_native": "Место, где тебя никто не побеспокоит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це місце, де тебе ніхто не турбуватиме?"
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0004",
+            "en": "Yeah, from what I’ve gathered…",
+            "ru_native": "Да, судя по тому, что я собрала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, судячи з того, яку інформацію я зібрала…"
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0005",
+            "en": "I wouldn’t break ground here, ya know?",
+            "ru_native": "Я бы не стала тут ничего строить, знаешь ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б тут не оселилася, розумієш?"
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0006",
+            "en": "No, it’s impressive.",
+            "ru_native": "Не-я, это впечатляет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це вражає."
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0007",
+            "en": "I can never even finish a jigsaw puzzle, ya know?",
+            "ru_native": "Я бы не стала тут ничего строить, знаешь ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я навіть не можу закінчити складати пазл, розумієш?"
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0008",
+            "en": "Naw, it’s nuts.",
+            "ru_native": "Не-а, это безумие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ні, це божевілля."
+        },
+        {
+            "tag": "WC02.SHA2C3_RILEY_0009",
+            "en": "Go find a field, way easier to build houses on.",
+            "ru_native": "Пойди и найди поле, на нем куда легче дома строить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна знайти поле, на якому легше будувати будинки."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0000",
+            "en": "What a diplomatic way of saying difficult and annoying.",
+            "ru_native": "Какой дипломатичный способ сказать «трудная и раздражающая».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Який ввічливий спосіб сказати «важка та марудна»."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0001",
+            "en": "When the uh—the ancient Camen… ians settled this place I don’t know what they were thinking…",
+            "ru_native": "Когда здесь поселились древние камен... ианцы, не знаю, о чем они думали...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли тут оселилися давні Камен… янці, не знаю, про що вони думали…"
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0002",
+            "en": "…but highways and power lines were not on their priority list.",
+            "ru_native": "...но шоссе и линии электропередач явно не входили в их список приоритетов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…але шосе та лінії електропередач явно не входили до їхнього списку пріоритетів."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0003",
+            "en": "Not even close.",
+            "ru_native": "Даже близко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть і близько."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0004",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0005",
+            "en": "Sure, if you wanna be a weirdo hermit with no regards for future zoning laws…",
+            "ru_native": "Конечно, если ты хочешь быть чудным отшельником,<br>которому плевать на будущие законы о зонировании...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно, якщо ти хочеш бути чудернацьким пустельником,<br>якому начхати на майбутні закони про зонування…"
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0006",
+            "en": "People are weirdos. That’s why I work with squirrels.",
+            "ru_native": "Люди странные. Поэтому я работаю с белками.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люди дивні. Тому я працюю із білками."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0007",
+            "en": "I mean, look, hats off to them.",
+            "ru_native": "В смысле, я снимаю шляпу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто, я знімаю капелюха перед ними."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0008",
+            "en": "It takes determination to look at a wall of solid rock and say \"here, here will be home.\"",
+            "ru_native": "Нужно быть смелым, чтобы посмотреть на стену из<br>цельного камня и сказать: «Здесь будет мой дом».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібне не аби яке завзяття, щоби подивитися<br>на скелю та сказати: «Так, тут буде мій дім»."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0009",
+            "en": "Determination, delusion, six of one…",
+            "ru_native": "Смелым или безумным, одно из двух.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завзяття або безглуздя, одне з двох…"
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0010",
+            "en": "I don’t judge.",
+            "ru_native": "Не мне судить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не засуджую."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0011",
+            "en": "That’s a lie. But not as much as you’d think. Over.",
+            "ru_native": "Это ложь. Но не настолько, как ты думаешь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все брехня. Але не така, як ти думаєш. Прийом."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0012",
+            "en": "There are days I admire its beauty…",
+            "ru_native": "Бывают дни, когда я восхищаюсь его красотой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувають дні, коли я захоплююсь цією красою…"
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0013",
+            "en": "And other days when I almost plummet to my death driving around its mountaintops.",
+            "ru_native": "А бывают дни, когда ты чуть не разбился насмерть в этих горах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А бувають дні, коли мало не розбиваюся на смерть у цих горах."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0014",
+            "en": "So long as I don’t plummet, I’ll keep calling it home.",
+            "ru_native": "Но пока я еще жива, я зову это место домом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але поки я ще не розбилася, я називаю це місце домівкою."
+        },
+        {
+            "tag": "WC02.SHA2C3_SHELLEY_0015",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        }
+    ]
+}

@@ -1,0 +1,96 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.TITRG1",
+    "entries": [
+        {
+            "tag": "A3S5.TITRG1_ALEX_0000",
+            "en": "[distant] Find your way back!",
+            "ru_native": "",
+            "ru_machine": "DEEPL [distant] Найди дорогу назад!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[віддалений звук] Знайди дорогу назад!"
+        },
+        {
+            "tag": "A3S5.TITRG1_CHOICE_0000_OPTION_0000",
+            "en": "Alex?",
+            "ru_native": "Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс?"
+        },
+        {
+            "tag": "A3S5.TITRG1_CHOICE_0000_OPTION_0001",
+            "en": "Ugh, this sucks.",
+            "ru_native": "Черт, вот sucks.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, халепа."
+        },
+        {
+            "tag": "A3S5.TITRG1_RILEY_0000",
+            "en": "[calling out] Alex! Alex, are you– are you here?",
+            "ru_native": "[calling out] Alex! Алекс? Ты... ты здесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[кличе] Алекс? Алекс, ти… ти тут?"
+        },
+        {
+            "tag": "A3S5.TITRG1_RILEY_0001",
+            "en": "[sigh] Crap.",
+            "ru_native": "[вздыхает] Crap.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Чорт."
+        },
+        {
+            "tag": "A3S5.TITRG1_RILEY_0002",
+            "en": "[to herself] Ugh, this is… not fun right now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Уф, это... невесело сейчас.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Тьху, зараз це… невесело."
+        },
+        {
+            "tag": "A3S5.TITRG1_SUNKENRILEY_0000",
+            "en": "[distorted] Is this the home… you’re trying to get back to?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [искаженно] Это тот дом... в который ты пытаешься вернуться?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спотворено] Це той дім… куди ти намагаєшся повернутися?"
+        },
+        {
+            "tag": "A3S5.TITRG1_SUNKENRILEY_0001",
+            "en": "What is there to escape to?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Куда бежать?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що там такого, заради чого треба тікати туди?"
+        },
+        {
+            "tag": "A3S5.TITRG1_SUNKEN_0000",
+            "en": "Sleepy time gal.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сонная девчонка.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час засинати."
+        },
+        {
+            "tag": "A3S5.TITRG1_SUNKEN_0001",
+            "en": "Lie. Down.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ложь. Даун.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Засинай."
+        }
+    ]
+}

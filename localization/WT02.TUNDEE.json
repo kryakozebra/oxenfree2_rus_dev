@@ -1,0 +1,186 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT02.TUNDEE",
+    "entries": [
+        {
+            "tag": "WT02.TUNDEE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT02.TUNDEE_CHOICE_0000_OPTION_0000",
+            "en": "Something good might happen!",
+            "ru_native": "Может выйти что-то хорошее!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може в нас щось вийде!"
+        },
+        {
+            "tag": "WT02.TUNDEE_CHOICE_0000_OPTION_0001",
+            "en": "I’m just trying to help!",
+            "ru_native": "Я просто пытаюсь помочь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто намагаюся допомогти!"
+        },
+        {
+            "tag": "WT02.TUNDEE_CHOICE_0000_OPTION_0002",
+            "en": "You think I should stop?",
+            "ru_native": "Думаешь, мне надо остановиться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, мені варто зупинитися?"
+        },
+        {
+            "tag": "WT02.TUNDEE_DEER_0000",
+            "en": "[ID-0] [snorts; breathes]",
+            "ru_native": "[ID-0]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT02.TUNDEE_JACOB_0000",
+            "en": "[nervous] God, okay. This is… you’re doing this.",
+            "ru_native": "Боже, ладно. Это... это ты делаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[нервово] Господи, гаразд. Це… це ти зробиш."
+        },
+        {
+            "tag": "WT02.TUNDEE_JACOB_0001",
+            "en": "You’re just making another one.",
+            "ru_native": "Ты просто создаешь еще один.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти просто зробиш ще один."
+        },
+        {
+            "tag": "WT02.TUNDEE_JACOB_0002",
+            "en": "Good. Great.",
+            "ru_native": "Отлично. Супер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово. Супер."
+        },
+        {
+            "tag": "WT02.TUNDEE_JACOB_0003",
+            "en": "That’s, uh, what we need.",
+            "ru_native": "Это, хм, то что надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це, типу, те, що треба."
+        },
+        {
+            "tag": "WT02.TUNDEE_JACOB_0004",
+            "en": "Yeah, it gets it out to being here with us!",
+            "ru_native": "Ага, поможет вытащить это сюда к нам!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT02.TUNDEE_JACOB_0005",
+            "en": "I don’t know if that’s a hard and fast rule, here…",
+            "ru_native": "Не знаю, Райли, не знаю. Без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи можна щось стверджувати за цих обставин…"
+        },
+        {
+            "tag": "WT02.TUNDEE_JACOB_0006",
+            "en": "I don’t know if that’s a hard and fast rule, here…",
+            "ru_native": "Не знаю, всегда оно так работает или нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи можна щось стверджувати за цих обставин…"
+        },
+        {
+            "tag": "WT02.TUNDEE_JACOB_0007",
+            "en": "I don’t know if that’s a hard and fast rule, here…",
+            "ru_native": "Не знаю, всегда оно так работает или нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи можна щось стверджувати за цих обставин…"
+        },
+        {
+            "tag": "WT02.TUNDEE_RILEY_0000",
+            "en": "Hey, Jacob, something good might happen—we might find out something or… tune in a—",
+            "ru_native": "Эй, Джейкоб, может выйти что-то хорошее – мы<br>можем что-то узнать или... настроиться на...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Джейкобе, може в нас щось вийде, може щось дізнаємося чи…<br>налаштуємося на щось…"
+        },
+        {
+            "tag": "WT02.TUNDEE_RILEY_0001",
+            "en": "—I don’t know. But I wanna find out.",
+            "ru_native": "...Не знаю. Но хочу узнать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…не знаю. Але хочу дізнатися."
+        },
+        {
+            "tag": "WT02.TUNDEE_RILEY_0002",
+            "en": "I’m just trying to help this thing, okay?",
+            "ru_native": "Я просто хочу помочь, понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT02.TUNDEE_RILEY_0003",
+            "en": "I think tuning it kind of… gets it out.",
+            "ru_native": "Думаю, настройка... поможет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "WT02.TUNDEE_RILEY_0004",
+            "en": "What—do you think I should stop?",
+            "ru_native": "Думаешь, мне надо остановиться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш, мені варто зупинитися?"
+        },
+        {
+            "tag": "WT02.TUNDEE_RILEY_0005",
+            "en": "I’m just trying to help, Jacob. Opening these things sometimes… shows us stuff.",
+            "ru_native": "Я просто пытаюсь помочь, Джейкоб. Когда<br>открываешь эти штуки, иногда... кое-что появляется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто намагаюся допомогти, Джейкобе. Іноді після відкриття цих штук…<br>ми щось дізнаємося."
+        },
+        {
+            "tag": "WT02.TUNDEE_RILEY_0006",
+            "en": "I’m just trying to help, Jacob. Opening these things sometimes… shows us stuff.",
+            "ru_native": "Я просто пытаюсь помочь, Джейкоб. Когда<br>открываешь эти штуки, иногда... кое-что появляется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто намагаюся допомогти, Джейкобе.<br>Іноді після відкриття цих штук… ми щось дізнаємося."
+        }
+    ]
+}

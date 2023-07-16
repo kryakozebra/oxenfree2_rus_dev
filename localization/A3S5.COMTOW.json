@@ -1,0 +1,258 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.COMTOW",
+    "entries": [
+        {
+            "tag": "A3S5.COMTOW_ALEX_0000",
+            "en": "When you get there, tell them to tune their equipment to 87.7!",
+            "ru_native": "Когда доберешься, попроси их настроиться на 87.7!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли дістанешся туди, попроси їх налаштуватися на 87.7!"
+        },
+        {
+            "tag": "A3S5.COMTOW_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.COMTOW_CHOICE_0000_OPTION_0000",
+            "en": "No clue.",
+            "ru_native": "Без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "A3S5.COMTOW_CHOICE_0000_OPTION_0001",
+            "en": "Someone who’d know about this?",
+            "ru_native": "Кто-то, кто в этом разбирается?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось, хто на цьому розуміється?"
+        },
+        {
+            "tag": "A3S5.COMTOW_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.COMTOW_CHOICE_0001_OPTION_0000",
+            "en": "The Comm Tower?",
+            "ru_native": "Башня связи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіовежа?"
+        },
+        {
+            "tag": "A3S5.COMTOW_CHOICE_0001_OPTION_0001",
+            "en": "Why here and now?",
+            "ru_native": "Почему здесь и сейчас?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому тут і в цей час?"
+        },
+        {
+            "tag": "A3S5.COMTOW_CHOICE_0001_OPTION_0002",
+            "en": "...anybody here?",
+            "ru_native": "Есть кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…хтось є?"
+        },
+        {
+            "tag": "A3S5.COMTOW_CHOICE_0002_OPTION_0000",
+            "en": "The Comm Tower?",
+            "ru_native": "Башня связи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіовежа?"
+        },
+        {
+            "tag": "A3S5.COMTOW_CHOICE_0002_OPTION_0001",
+            "en": "No, this isn’t right.",
+            "ru_native": "No, это неправильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, щось не те."
+        },
+        {
+            "tag": "A3S5.COMTOW_JACOB_0000",
+            "en": "Oh… wait, we’re back at the—Riley, this is the Comm Tower.",
+            "ru_native": "Погоди, мы опять... Райли, это башня связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, ми знову повернулися… Райлі, це радіовежа."
+        },
+        {
+            "tag": "A3S5.COMTOW_JACOB_0001",
+            "en": "But… we’re in the past? Who would Alex want us to talk to in the fifties?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но... мы в прошлом? С кем бы Алекс хотел, чтобы мы общались в пятидесятые годы?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S5.COMTOW_JACOB_0002",
+            "en": "A family member of hers?",
+            "ru_native": "Кто-то из ее семьи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось із її сім’ї?"
+        },
+        {
+            "tag": "A3S5.COMTOW_JACOB_0003",
+            "en": "I’m drawing a blank.",
+            "ru_native": "У меня нет вариантов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я гадки не маю."
+        },
+        {
+            "tag": "A3S5.COMTOW_JACOB_0004",
+            "en": "Well, no time like the… I was going to say present, but I guess this is… not that.",
+            "ru_native": "Ну, не будем терять... Хотел сказать «время», но в нашей ситуации звучит криво.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, не той час… Я хотів сказати теперішній, але, мабуть, це… не те."
+        },
+        {
+            "tag": "A3S5.COMTOW_JACOB_0005",
+            "en": "But no time like whenever to find out!",
+            "ru_native": "Не будем теряться, пойдем и узнаем!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але кращий час ніж будь-коли, щоби дізнатися!"
+        },
+        {
+            "tag": "A3S5.COMTOW_JACOB_0006",
+            "en": "But… we’re in the past? Everything looks… old-new. If, uh, that makes sense.",
+            "ru_native": "Но мы в прошлом? Все выглядит... старым, но новым. Если ты меня понимаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… ми в минулому? Усе виглядає… як старе-нове. Якщо це має сенс."
+        },
+        {
+            "tag": "A3S5.COMTOW_JACOB_0007",
+            "en": "Who would Alex want us to talk to here?",
+            "ru_native": "С кем Алекс нас хочет свести?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З ким би Алекс хотіла, щоби ми поговорили тут?"
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0000",
+            "en": "Yeah. I really don’t have a clue.",
+            "ru_native": "Да. Я тоже понятия не имею.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Я теж гадки не маю."
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0001",
+            "en": "Uh… someone who would… know about this, I guess.",
+            "ru_native": "Кто-то, кто... знает обо всем этом, наверно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось, хто… знає про все це, мабуть."
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0002",
+            "en": "Or worked with the communications equipment when Milner was operational.",
+            "ru_native": "Или работал с оборудованием связи, когда Милнер еще эксплуатировался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або працював з обладнанням для зв’язку, коли Мілнер ще експлуатувався."
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0003",
+            "en": "Oh, I’m at the… Comm Tower, again.",
+            "ru_native": "Я вернулась в башню связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О… Я знову повернулася до радіовежі."
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0004",
+            "en": "Who’d be here that could help me?",
+            "ru_native": "Кто здесь может мне помочь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто тут може мені допомогти?"
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0005",
+            "en": "Huh? Why… here and… at this time?",
+            "ru_native": "Что? Почему здесь и... в это время?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Чому тут і… у цей час?"
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0006",
+            "en": "Anybody here?",
+            "ru_native": "Есть тут кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут хтось є?"
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0007",
+            "en": "Probably… at the Comm Station in the tower?",
+            "ru_native": "Может, на самой станции на башне?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може… нагорі в самій радіовежі?"
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0008",
+            "en": "Wait… no, this isn’t – this isn’t right.",
+            "ru_native": "Погоди… no, this isn’t – это неправильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай… ні, щось… щось не те."
+        },
+        {
+            "tag": "A3S5.COMTOW_RILEY_0009",
+            "en": "I’m at the Comm Tower again?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я снова нахожусь в башне Комма?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знову повернулася до радіовежі? Але… не… у той час, коли ми тут були."
+        }
+    ]
+}

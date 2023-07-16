@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC05.MAA2V2",
+    "entries": [
+        {
+            "tag": "WC05.MAA2V2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAA2V2_CHOICE_0000_OPTION_0000",
+            "en": "Maria, know about Parentage?",
+            "ru_native": "Мария, слышала о «Наследии»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє, ти щось знаєш про «Парентаж»?"
+        },
+        {
+            "tag": "WC05.MAA2V2_MARIA_0000",
+            "en": "Hey! Some guy called in asking for dating advice and then just…",
+            "ru_native": "Привет! Тут какой-то парень звонил, просил совета насчет свиданий и потом...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Якийсь хлопець зателефонував і попросив<br>поради щодо побачень, а потім просто…"
+        },
+        {
+            "tag": "WC05.MAA2V2_MARIA_0001",
+            "en": "—asked me a bunch of questions about my feet?",
+            "ru_native": "Задал мне кучу вопросов о моих ступнях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…задав мені купу питань про мої ноги?.."
+        },
+        {
+            "tag": "WC05.MAA2V2_MARIA_0002",
+            "en": "I didn’t really get it, but anyways—sorry. Parentage, yeah.",
+            "ru_native": "Не поняла, что это было... Извини. «Наследие», да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не дуже зрозуміла, але все одно, вибач. «Парентаж», так."
+        },
+        {
+            "tag": "WC05.MAA2V2_MARIA_0003",
+            "en": "Don’t know a thing. Only heard what everyone’s heard. They’re super weird, do seances in the woods—",
+            "ru_native": "Вообще ничего не знаю. Слышала только то, что и все остальные.<br>Они суперстранные, проводят сеансы в лесу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого не знаю. Чула лише те, що й усі. Вони дуже дивні,<br>проводять якісь обряди в лісі…"
+        },
+        {
+            "tag": "WC05.MAA2V2_MARIA_0004",
+            "en": "—and it was started by Olivia’s dead parents. The ones in the plane crash.",
+            "ru_native": "И все началось с родителей Оливии. Тех, что погибли в авиакатастрофе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і це було започатковано батьками Олівії. Тими, що померли в авіакатастрофі."
+        },
+        {
+            "tag": "WC05.MAA2V2_MARIA_0005",
+            "en": "Watch out for them, though, seriously. They seem… odd.",
+            "ru_native": "Будь с этими людьми осторожна. Они довольно... странные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стережися їх, я серйозно. Вони здаються… чудернацькими."
+        },
+        {
+            "tag": "WC05.MAA2V2_MARIA_0006",
+            "en": "Ugh, that guy is calling again? Sorry, I gotta hop off and trace the number.",
+            "ru_native": "Опять тот парень звонит. Прости, надо отключиться и отследить номер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, цей хлопець знову дзвонить?.. Вибач, мені<br>треба від’єднатися і відстежити номер."
+        },
+        {
+            "tag": "WC05.MAA2V2_MARIA_0007",
+            "en": "I think it might be Brad’s older brother playing a prank. You don’t know Brad. Nevermind.",
+            "ru_native": "Это может быть старший брат Брэда с его пранками. Ты не знаешь Брэда. Забудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що це може бути старший брат Бреда, який так жартує.<br>Ти не знаєш Бреда. Не зважай."
+        },
+        {
+            "tag": "WC05.MAA2V2_MARIA_0008",
+            "en": "Over and out!",
+            "ru_native": "Конец связи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "WC05.MAA2V2_RILEY_0000",
+            "en": "Come in, Maria, come in. Do you know anything about Parentage?",
+            "ru_native": "Мария, ответь. Ты знаешь что-нибудь о «Наследии»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відповідай, Маріє, відповідай. Ти щось знаєш про «Парентаж»?"
+        },
+        {
+            "tag": "WC05.MAA2V2_RILEY_0001",
+            "en": "I’m kind of standing in their epicenter right now and could use some guidance. Over.",
+            "ru_native": "Я вроде как в самом центре этой организации, так что информация не повредит. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз я, типу, у їхньому лігві й мені знадобилися б настанови. Прийом."
+        }
+    ]
+}

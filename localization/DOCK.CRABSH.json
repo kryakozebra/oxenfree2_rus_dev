@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "DOCK.CRABSH",
+    "entries": [
+        {
+            "tag": "DOCK.CRABSH_EVELYN_0000",
+            "en": "Oh, uh, Seafood Sammy’s?",
+            "ru_native": "«Дары моря от Сэмми»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, «Дари моря від Семмі»?"
+        },
+        {
+            "tag": "DOCK.CRABSH_EVELYN_0001",
+            "en": "Yeah, that’s—I think it’s under health code probation or something…",
+            "ru_native": "Да, они проходят проверку на санитарные нормы или типа того...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… здається, там зараз санітарні перевірки, чи щось типу того…"
+        },
+        {
+            "tag": "DOCK.CRABSH_LESLIE_0000",
+            "en": "I’m… honestly not entirely familiar with the area, Riley… but, uh—",
+            "ru_native": "Честно говоря, я не особо знакома с городом, Райли. Но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі… Я, відверто кажучи, не зовсім тут орієнтуюся… але, ем…"
+        },
+        {
+            "tag": "DOCK.CRABSH_RILEY_0000",
+            "en": "Hey, I thought they closed down the Seafood place out here?",
+            "ru_native": "Я думала, местечко с морепродуктами закрыли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, а я думала, що цей заклад із морепродуктами закрили."
+        }
+    ]
+}

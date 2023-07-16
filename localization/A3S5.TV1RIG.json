@@ -1,0 +1,123 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.TV1RIG",
+    "entries": [
+        {
+            "tag": "A3S5.TV1RIG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TV1RIG_CHOICE_0000_OPTION_0000",
+            "en": "I don’t care how it works.",
+            "ru_native": "Пофиг, как это работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені байдуже, як це працює."
+        },
+        {
+            "tag": "A3S5.TV1RIG_CHOICE_0000_OPTION_0001",
+            "en": "We’re doing something!",
+            "ru_native": "Что-то получается!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ж щось робимо!"
+        },
+        {
+            "tag": "A3S5.TV1RIG_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TV1RIG_CHOICE_0001_OPTION_0000",
+            "en": "This is working!",
+            "ru_native": "Работает!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воно працює!"
+        },
+        {
+            "tag": "A3S5.TV1RIG_CHOICE_0001_OPTION_0001",
+            "en": "Weird, but good.",
+            "ru_native": "Странно, но хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно, але добре."
+        },
+        {
+            "tag": "A3S5.TV1RIG_JACOB_0000",
+            "en": "Oh wow, okay, so -- so these things -- I think -- can, like, reveal or make the path for us?",
+            "ru_native": "Нифига... Может, эти штуковины, типа, показывают или открывают дорогу?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, добре, отже… ці штуки… я гадаю… можуть, типу, допомогти або<br>прокласти шлях для нас?"
+        },
+        {
+            "tag": "A3S5.TV1RIG_JACOB_0001",
+            "en": "Or, uh…",
+            "ru_native": "Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або…"
+        },
+        {
+            "tag": "A3S5.TV1RIG_JACOB_0002",
+            "en": "Something…",
+            "ru_native": "Вроде того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще щось…"
+        },
+        {
+            "tag": "A3S5.TV1RIG_RILEY_0000",
+            "en": "I don’t care how it works just so long as it does.",
+            "ru_native": "Пофиг, как это работает, главное чтоб работало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені байдуже, як це працює, доки воно працює."
+        },
+        {
+            "tag": "A3S5.TV1RIG_RILEY_0001",
+            "en": "Hey, we’re doing something… good… I think.",
+            "ru_native": "У нас получается что-то... правильно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ми робимо щось… добре… мабуть."
+        },
+        {
+            "tag": "A3S5.TV1RIG_RILEY_0002",
+            "en": "[to herself] Hey, this just might be… working…?",
+            "ru_native": "Вроде, работает?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Гей, можливо це… працює…?"
+        },
+        {
+            "tag": "A3S5.TV1RIG_RILEY_0003",
+            "en": "[to herself] Huh. This is… especially strange, but… good? I think?",
+            "ru_native": "Хм. Невероятно странно, но вроде... правильно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Гм. Це… занадто дивно, але… добре? Адже так?"
+        }
+    ]
+}

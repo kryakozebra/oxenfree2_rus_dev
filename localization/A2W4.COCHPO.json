@@ -1,0 +1,492 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W4.COCHPO",
+    "entries": [
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0000_OPTION_0000",
+            "en": "Uh, Hi.",
+            "ru_native": "Эм, привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, ну привіт."
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0000_OPTION_0001",
+            "en": "Who are you?",
+            "ru_native": "Кто ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хто?"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0000_OPTION_0002",
+            "en": "What are you?",
+            "ru_native": "Что ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти таке?"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0001_OPTION_0000",
+            "en": "Do you know me?",
+            "ru_native": "Ты меня знаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти мене знаєш?"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0001_OPTION_0001",
+            "en": "Shut up about my parents.",
+            "ru_native": "Не упоминай родителей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Замовкни"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0001_OPTION_0002",
+            "en": "What do you want?",
+            "ru_native": "Чего ты хочешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тобі потрібно?"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0002_OPTION_0000",
+            "en": "My future?",
+            "ru_native": "Мое будущее?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моє майбутнє?"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0002_OPTION_0001",
+            "en": "Jacob’s and mine?",
+            "ru_native": "Мое и Джейкоба?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моє та Джейкоба?"
+        },
+        {
+            "tag": "A2W4.COCHPO_CHOICE_0002_OPTION_0002",
+            "en": "You don’t make any sense!",
+            "ru_native": "Это какой-то бред!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нісенітниці!"
+        },
+        {
+            "tag": "A2W4.COCHPO_GENERICGHOST_0000",
+            "en": "—and he met the mother when they were both cadets, stationed at—",
+            "ru_native": "",
+            "ru_machine": "DEEPL -и он познакомился с матерью, когда они оба были курсантами, расквартированными в...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…він познайомився з мамою, коли вони були курсантами в…"
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0000",
+            "en": "Oh.",
+            "ru_native": "Ох.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0001",
+            "en": "It is. You.",
+            "ru_native": "Это. Ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це. Ти."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0002",
+            "en": "Hell. Lo.",
+            "ru_native": "При. Вет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ві. Таю."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0003",
+            "en": "We. Are. No. One. Now.",
+            "ru_native": "Мы. Никто. Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз. Ми. Ні. Хто."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0004",
+            "en": "But. We. Will. Be. Something. Again.",
+            "ru_native": "Но. Мы. Станем. Чем-то. Вновь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але. Ми. Будемо. Чимось. Знову."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0005",
+            "en": "We. Are. No. Thing. Now.",
+            "ru_native": "Мы. Ничто. Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз. Ми. Ні. Що."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0006",
+            "en": "Her father was a military man—",
+            "ru_native": "Ее отец был военным...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її батько був військовослужбовцем…"
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0007",
+            "en": "—and the mother wanted to name her Anna.",
+            "ru_native": "А мать хотела назвать ее Анной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…а мати хотіла назвати її Анною."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0008",
+            "en": "But she left! The mother left! Never to be seen agai—",
+            "ru_native": "Но она ушла! Мать ушла! И никто ее не вид...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але вона пішла! Мати пішла! Її більше ніколи не бач…"
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0009",
+            "en": "Rye. Lee. Home. Once. More.",
+            "ru_native": "Рай. Ли. Дома. Снова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рай. Лі. Вдома. Ще. Раз."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0010",
+            "en": "Rye. Lee.",
+            "ru_native": "Рай. Ли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рай. Лі."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0011",
+            "en": "Once. Back. Home.",
+            "ru_native": "Дома. Снова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Колись. Повернеться. Додому."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0012",
+            "en": "Never. Far. Away.",
+            "ru_native": "Никогда. Не. Далеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи. Не. Віддаляється."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0013",
+            "en": "Never. As. Far. As. Wanted.",
+            "ru_native": "Не так далеко. Как хотела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи. Не. Так. Далеко. Як. Хоче."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0014",
+            "en": "Every. Thing.",
+            "ru_native": "Прямое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У. Се."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0015",
+            "en": "If you have issues about your upbringing, please contact a mental health professional.",
+            "ru_native": "Если у тебя детские травмы, обратись к специалисту по менталке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо у вас є проблеми, що тягнуться з дитинства, будь ласка,<br>зверніться до служби психологічної підтримки."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0016",
+            "en": "What. We. Want?",
+            "ru_native": "Что. Мы хотим?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що. Нам. Потрібно?"
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0017",
+            "en": "We. Will. Take. Whatever. We. Need. For. This. To. Work.",
+            "ru_native": "Мы. Заберем. Все. Нужное. Чтобы. Это. Сработало.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми. Візьмемо. Усе. Що. Знадобиться. Щоб. Спрацювало."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0018",
+            "en": "The future is theoretical—",
+            "ru_native": "Будущее умозрительно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Майбутнє теоретичне…"
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0019",
+            "en": "Your future is—",
+            "ru_native": "Твое будущее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ваше майбутнє…"
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0020",
+            "en": "Your future? Is. Our future. Now.",
+            "ru_native": "Твое будущее. Теперь. Наше будущее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ваше майбутнє? Зараз. Це. Наше майбутнє."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0021",
+            "en": "No matter. What. Happens.",
+            "ru_native": "Что бы. Ни случилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не важливо. Що. Відбувається."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0022",
+            "en": "This. Will happen.",
+            "ru_native": "Это. Произойдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це. Відбудеться."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0023",
+            "en": "This has been a test of the emergency broadcast system. Stay tuned for further instructions.",
+            "ru_native": "Проверка системы экстренного оповещения завершена. Ожидайте дальнейших инструкций.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це була перевірка екстреної системи віщання.<br>Залишайтеся з нами для подальших інструкцій."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0024",
+            "en": "Leave. Is. Possible.",
+            "ru_native": "Уйти. Возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піти. Можливо."
+        },
+        {
+            "tag": "A2W4.COCHPO_GHOST_0025",
+            "en": "See you. Soon.",
+            "ru_native": "Увидимся. Скоро.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоро. Побачимося."
+        },
+        {
+            "tag": "A2W4.COCHPO_JACOB_0000",
+            "en": "God.",
+            "ru_native": "Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи."
+        },
+        {
+            "tag": "A2W4.COCHPO_JACOB_0001",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2W4.COCHPO_JACOB_0002",
+            "en": "Uh… hello?",
+            "ru_native": "Привет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… привіт?"
+        },
+        {
+            "tag": "A2W4.COCHPO_JACOB_0003",
+            "en": "Hey, just what is—",
+            "ru_native": "Погоди, что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що за…"
+        },
+        {
+            "tag": "A2W4.COCHPO_JACOB_0004",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0000",
+            "en": "Um. Hi.",
+            "ru_native": "Эм... Привет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем. Привіт."
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0001",
+            "en": "Who… are you?",
+            "ru_native": "Кто... ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто… ти?"
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0002",
+            "en": "Uh… what—what are you?",
+            "ru_native": "Что... что ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Що… що ти таке?"
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0003",
+            "en": "Do you… kn-know me, or… wha—what do I have to do with this?",
+            "ru_native": "Ты меня знаешь?.. Какое я имею к этому отношение?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… знаєш мене, або… що… Що ти хочеш від мене?"
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0004",
+            "en": "It’s not exactly nice… y'know, bringing up somebody’s past like that.",
+            "ru_native": "Не очень-то красиво ворошить чужое прошлое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, це не надто чемно… Отак от вивалювати чиєсь минуле…"
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0005",
+            "en": "So do me a favor and shut up about my mom and dad.",
+            "ru_native": "Сделай милость, ни слова о моих родителях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, як буде твоя ласка, зав’язуй триндіти про моїх батьків."
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0006",
+            "en": "What do you want? With me—with anything—",
+            "ru_native": "Чего ты хочешь? От меня... и вообще...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тобі потрібно? Від мене… взагалі…"
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0007",
+            "en": "My future? What—what does that mean?",
+            "ru_native": "Мое будущее? Что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моє майбутнє? Що… що це означає?"
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0008",
+            "en": "Jacob’s and my future? What—what does that mean?",
+            "ru_native": "Будущее? Мое и Джейкоба? Что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Майбутнє моє та Джейкоба? Що… що це все значить?"
+        },
+        {
+            "tag": "A2W4.COCHPO_RILEY_0009",
+            "en": "You don’t—you’re not making any sense! If you want us to—to do something, or—?",
+            "ru_native": "Ты... Ты несешь какой-то бред! Хочешь, чтобы мы... что-то сделали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я нічого не розумію! Якщо ви хочете, щоби ми… зробили щось, або…"
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ01.WINBT2",
+    "entries": [
+        {
+            "tag": "SQ01.WINBT2_DANNY_0000",
+            "en": "[DT] Busy, try again later.",
+            "ru_native": "Я занят, звоните позже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зайнятий, наберіть пізніше."
+        },
+        {
+            "tag": "SQ01.WINBT2_DANNY_0001",
+            "en": "[DT] Or, I dunno, get pizza, live your best life.",
+            "ru_native": "Или закажите пиццу, оторвитесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або замовте піцу, розслабтеся."
+        },
+        {
+            "tag": "SQ01.WINBT2_SFX_0000",
+            "en": "Bell ring.",
+            "ru_native": "Звонок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

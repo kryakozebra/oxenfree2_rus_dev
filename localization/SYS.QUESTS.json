@@ -1,0 +1,168 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SYS.QUESTS",
+    "entries": [
+        {
+            "tag": "SYS.QUESTS_0000",
+            "en": "",
+            "ru_native": "<none>",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS.QUESTS_0001",
+            "en": "",
+            "ru_native": "<none>",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SYS.QUESTS_0002",
+            "en": "Scale the summit!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прокачайся по вершине!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підкоріть вершину!"
+        },
+        {
+            "tag": "SYS.QUESTS_0003",
+            "en": "Place the transmitters around Camena!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Расположи передатчики вокруг Камены!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розмістіть радіопередавачі по всій Камені!"
+        },
+        {
+            "tag": "SYS.QUESTS_0004",
+            "en": "Go to Edwards Island!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отправляйся на остров Эдвардс!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дістаньтеся острова Едвардса!"
+        },
+        {
+            "tag": "SYS.QUESTS_0005",
+            "en": "Get your gear from the General Store.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Приобретай снаряжение в магазине General Store.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Забрати спорядження з універмагу."
+        },
+        {
+            "tag": "SYS.QUESTS_0006",
+            "en": "Find and meet Jacob.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Найди и познакомься с Джейкобом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайти та познайомитися з Джейкобом."
+        },
+        {
+            "tag": "SYS.QUESTS_0007",
+            "en": "Plant a transmitter at Camber Cape.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Посади трансмиттер на мысе Кэмбер.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Встановити радіопередавач на мисі Кейбер."
+        },
+        {
+            "tag": "SYS.QUESTS_0008",
+            "en": "Regroup with Jacob.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Перегруппируйся с Джейкобом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перегрупуватися з Джейкобом."
+        },
+        {
+            "tag": "SYS.QUESTS_0009",
+            "en": "Investigate the transmitter at Camber Cape.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Исследуй передатчик на мысе Кэмбер.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевірити радіопередавач на мисі Кейбер."
+        },
+        {
+            "tag": "SYS.QUESTS_0010",
+            "en": "Go to Jacob's house.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отправляйся в дом Джейкоба.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирушити до дому Джейкоба."
+        },
+        {
+            "tag": "SYS.QUESTS_0011",
+            "en": "Head to the General Store and get your gear.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отправляйся в General Store и купи снаряжение.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирушити до універмагу й забрати спорядження."
+        },
+        {
+            "tag": "SYS.QUESTS_0012",
+            "en": "Plant three more transmitters to close the portal.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Посади еще три передатчика, чтобы закрыть портал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Встановити ще три радіопередавача, щоб закрити портал."
+        },
+        {
+            "tag": "SYS.QUESTS_0013",
+            "en": "Go to the Community Center and destroy Parentage's equipment.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отправляйся в общественный центр и уничтожь оборудование Parentage.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирушити до громадського центру та вивести з ладу обладнання Парентажу."
+        },
+        {
+            "tag": "SYS.QUESTS_0014",
+            "en": "Plant the final transmitter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Посади последний излучатель.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Встановити останній радіопередавач."
+        },
+        {
+            "tag": "SYS.QUESTS_0015",
+            "en": "Head back to town.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отправляйся обратно в город.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повернутися до міста."
+        },
+        {
+            "tag": "SYS.QUESTS_0016",
+            "en": "Get to Edwards Island and stop Olivia.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Доберись до острова Эдвардс и останови Оливию.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирушити на острів Едвардса та зупинити Олівію."
+        },
+        {
+            "tag": "SYS.QUESTS_0017",
+            "en": "   ",
+            "ru_native": "",
+            "ru_machine": "DEEPL ",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

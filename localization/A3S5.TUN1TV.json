@@ -1,0 +1,42 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.TUN1TV",
+    "entries": [
+        {
+            "tag": "A3S5.TUN1TV_CHOICE_0000_OPTION_0000",
+            "en": "That’s better.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так будет лучше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так краще."
+        },
+        {
+            "tag": "A3S5.TUN1TV_CHOICE_0000_OPTION_0001",
+            "en": "I think that did something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Думаю, это что-то дало.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, це щось дало."
+        },
+        {
+            "tag": "A3S5.TUN1TV_RILEY_0000",
+            "en": "[sigh] That’s better.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Так-то лучше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Так краще."
+        },
+        {
+            "tag": "A3S5.TUN1TV_RILEY_0001",
+            "en": "I think that’s… doing something?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я думаю, что это... что-то делает?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що це… щось дало?"
+        }
+    ]
+}

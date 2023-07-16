@@ -1,0 +1,618 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S8.CHAVIO",
+    "entries": [
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0000",
+            "en": "Violet? Don’t hang up.",
+            "ru_native": "Вайолет? Не вешай трубку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет? Не клади слухавку."
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0001",
+            "en": "Hey, I’m just the messenger, here—",
+            "ru_native": "Эй, меня просто просили передать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, я лише повідомлення передаю..."
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0002",
+            "en": "Riley’s been trying to reach out to you and she says you’ve been dodging her calls.",
+            "ru_native": "Райли пыталась с тобой связаться. Она говорит, что ты не отвечаешь на звонки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі намагається зв’язатися з тобою й говорить, що ти її ігноруєш."
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0003",
+            "en": "Because it’s good to talk to somebody who went through what we did!",
+            "ru_native": "Потому что полезно поговорить с тем, кто прошел через такое!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо нікому не завадить поговорити з кимось, хто теж через усе це пройшов!"
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0004",
+            "en": "I—I know things have felt like… a dream, with what happened. With Olivia.",
+            "ru_native": "Я... я знаю, все было словно... во сне. То, что случилось с Оливией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я... я знаю, що все було... наче сон. Й Олівія."
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0005",
+            "en": "Wait!",
+            "ru_native": "Подожди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай!"
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0006",
+            "en": "Violet…",
+            "ru_native": "Вайолет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет..."
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0007",
+            "en": "Uh. Yeah. All the time.",
+            "ru_native": "Да, постоянно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Увесь час."
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0008",
+            "en": "What, uh, what do you think about?",
+            "ru_native": "И что ты, эм, думаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А про що думаєш ти?"
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0009",
+            "en": "Riley says she’s probably happy. She saw memories of Olivia… when everything was going on.",
+            "ru_native": "Райли говорит, что она, вероятно, счастлива.<br>Она видела воспоминания об Оливии... когда все происходило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі каже, що Олівія скоріш за все щаслива. Що вона бачила спогади... тих подій."
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0010",
+            "en": "She says she picked her for a reason. That… she deserved to go.",
+            "ru_native": "Она говорит, что выбрала ее не случайно. Что... она заслуживала уйти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що вона обрала її не просто так. Вона заслуговувала піти."
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0011",
+            "en": "[sigh] Yeah. Me, too.",
+            "ru_native": "(вздыхает) Да. Я тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Так. Я теж."
+        },
+        {
+            "tag": "A3S8.CHAVIO_CHARLIE_0012",
+            "en": "Is she there?",
+            "ru_native": "Она там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вона?"
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0000",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0001",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0002",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0003",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0004",
+            "en": "Click.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нажми.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0005",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0006",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0007",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0008",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0009",
+            "en": "Beep.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подай звуковой сигнал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0010",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0011",
+            "en": "Beep.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подай звуковой сигнал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_SFX_0012",
+            "en": "BEEP.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ПЕЧАТЬ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0000",
+            "en": "Hey. Charlie. It’s Violet. Again.",
+            "ru_native": "Привет, Чарли. Это Вайолет. Снова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Чарлі. Це Вайолет. Знову."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0001",
+            "en": "I— [big sigh] I just don’t know why we can’t talk about what happened. We’re the only ones that remember!",
+            "ru_native": "Я... ох... Я просто не понимаю, почему мы не можем поговорить о случившемся.<br>Мы же единственные, кто все помнит!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я...[зітхає] Я не знаю, чому ми ніяк не поговоримо про те, що сталося.<br>Адже ми єдині, хто пам’ятає!"
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0002",
+            "en": "Olivia—Olivia did what she had to do and—and I know you liked her or whatever, but…",
+            "ru_native": "Оливия... Оливия сделала то, что должна была сделать...<br>Знаю, она тебе нравилась, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія... Олівія зробила, що мала зробити... і мені відомо, що вона тобі подобалася."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0003",
+            "en": "I don’t know. I miss my friend. I miss you. I know you miss her.",
+            "ru_native": "Не знаю. Я скучаю по подруге. По тебе. И ты по ней тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Я сумую за своїми друзями. Я сумую за тобою. Я знаю, що ти сумуєш за нею."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0004",
+            "en": "It just—this wasn’t a dream. We didn’t hallucinate this. It’s just important that you know that.",
+            "ru_native": "Просто... это был не сон. Не галлюцинация.<br>Мне просто важно знать, что ты это знаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це... це був не сон. Не галюцинація. Ти маєш це знати."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0005",
+            "en": "Call me. Please.",
+            "ru_native": "Успокой меня. Пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подзвони мені. Прошу."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0006",
+            "en": "[quiet] God, I wish I never moved to this crap town.",
+            "ru_native": "(шепчет) Боже, лучше бы я не приезжала в эту дыру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, як би я хотіла ніколи не переїжджати в це кляте місто."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0007",
+            "en": "It’s just you and me and Riley, Charlie, and—and Riley’s been… good for this. Like, good for this stuff.",
+            "ru_native": "Только ты и я, Чарли. И Райли. Райли была... хороша. Хороша для этого дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, лише ти і я, і Райлі... Райлі, вона... справляється.<br>Типу, вона з усім цим справляється."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0008",
+            "en": "We talk like once a month, and I know that annoys you, but it’s a help… just to talk to somebody that went through it, too.",
+            "ru_native": "Мы созваниваемся раз в месяц, знаю, это тебя раздражает, но это помогает...<br>поговорить с кем-то, кто тоже через это прошел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми розмовляємо раз на місяць, і я знаю, що тебе це дратує, але це допомагає...<br>поговорити отак із кимось, хто теж через усе це пройшов."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0009",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло?"
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0010",
+            "en": "Charlie, c’mon—I don’t want to talk about it!",
+            "ru_native": "Чарли, хватит. Я не хочу об этом говорить!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, годі... Я не хочу про це розмовляти!"
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0011",
+            "en": "Why on Earth would I ever want to talk to that woman?",
+            "ru_native": "Чего ради мне вообще разговаривать с этой женщиной?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І з якого дива я раптом маю розмовляти з цією жінкою?"
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0012",
+            "en": "Charlie, I’m hanging up.",
+            "ru_native": "Чарли, я кладу трубку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, усе, бувай."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0013",
+            "en": "I wish I could just take everything back—everything I ever said about wanting to do it.",
+            "ru_native": "Хотела бы я все вернуть назад – свои слова о том, что хочу это сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лише хочу, щоби нічого цього не було... щоби я ніколи на це не погодилася."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0014",
+            "en": "Just… just don’t call me again. I’m—my family’s moving away, anyway.",
+            "ru_native": "Просто... не звони мне больше. Я... мы все равно переезжаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто... не дзвони мені більше. Я... моя родина все одно переїжджає."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0015",
+            "en": "Don’t call, Charlie. I mean it.",
+            "ru_native": "Не звони мне, Чарли. Серьезно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не дзвони, Чарлі. Я серйозно."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0016",
+            "en": "Do you still think about Olivia?",
+            "ru_native": "Ты все еще думаешь об Оливии?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе ще думаєш за Олівію?"
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0017",
+            "en": "Yeah. Me, too.",
+            "ru_native": "Да, я тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0018",
+            "en": "Oh, just… everything, I guess. Was it a good thing… that Riley let her go?",
+            "ru_native": "Ой... да всякое. Что хорошо... что Райли ее отпустила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та... про все. Чи правильно зробила Райлі, коли... відпустила її?"
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0019",
+            "en": "If she’s happy where she is? If she’s even… anywhere?",
+            "ru_native": "Что она счастлива там, где сейчас? В... любом месте?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи щаслива вона там, де зараз є? Чи є вона взагалі... де-небудь?"
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0020",
+            "en": "I’m just glad Riley was there. So she wasn’t alone.",
+            "ru_native": "Я просто рада, что Райли была там. Что она была не одна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто рада, що Райлі була там. Вона була не сама."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0021",
+            "en": "Hey. OIivia. Don’t know if you’ll ever get this. Don’t care, either, really. This is just for me.",
+            "ru_native": "Эй. Оливия. Не знаю, получишь ты это или нет. Да и не важно. Это для меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Олівіє. Не знаю, чи побачиш ти це коли-небудь.<br>Начхати, правда. Я це роблю для себе."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0022",
+            "en": "I hate what you put us through. I hate thinking about that night. I hate the nightmares I still have.",
+            "ru_native": "Я ненавижу то, во что ты нас втянула. Ненавижу вспоминать о той ночи.<br>Ненавижу кошмары, которые мне до сих пор снятся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ненавиджу те, через що ти нас змусила пройти. Я ненавиджу згадувати ту ніч.<br>Я ненавиджу кошмари, що не відпускають мене ночами."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0023",
+            "en": "I hate that you made Charlie like you… even though you’re not worth liking.",
+            "ru_native": "Я ненавижу, что понравилась Чарли... хота ты этого не достойна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу те, що ти змусила Чарлі полюбити тебе, хоча любити в тобі нічого."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0024",
+            "en": "I hate that you moved away and I don’t get to tell this to your ugly face.",
+            "ru_native": "Я ненавижу, что ты уехала, и я не могу сказать тебе это в лицо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу те, що ти поїхала, і я не можу це висказати тобі у твоє гидке обличчя."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0025",
+            "en": "I hate you. And Charlie won’t admit it, but you ruined his life, too.",
+            "ru_native": "Я тебя ненавижу. Чарли не признается, но ты и его жизнь разрушила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ненавиджу тебе. Чарлі не зізнається в цьому, але ти зруйнувала і його життя теж."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0026",
+            "en": "Hope you have a terrible time and a worse life wherever you end up. You deserve it.",
+            "ru_native": "Надеюсь, ты будешь всю жизнь мучиться, где бы ты ни была. Ты это заслужила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, що власне життя обернеться тобі найгіршою мукою, де б ти не знаходилася.<br>Ти на це заслуговуєш."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0027",
+            "en": "I’m just glad he has Riley to talk this stuff out with, or else he’d be going insane. Like I am.",
+            "ru_native": "Я просто рада, что у него есть Райли, с которой можно поговорить.<br>Иначе он бы спятил. Как я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я так рада, що в нього є Райлі, яка допомагає<br>пройти через це й не збожеволіти. Як я."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0028",
+            "en": "Olivia, are you there? No? Okay…",
+            "ru_native": "Оливия, ты там? Нет? Ладно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, ти там? Ні? Що ж..."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0029",
+            "en": "Look, I’m sorry… things didn’t go the way you had hoped they would go.",
+            "ru_native": "Слушай, мне жаль... все пошло не так, как ты надеялась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, мені шкода... Усе пішло не так, як ти сподівалася."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0030",
+            "en": "I know you miss your parents. I know you miss… everything about your old life.",
+            "ru_native": "Я знаю, ты скучаешь по родителям. Скучаешь... по прошлой жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, як ти сумуєш за батьками. Знаю, як ти сумуєш... за твоїм старим життям."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0031",
+            "en": "Riley’s been… asking about you. About how you’re doing.",
+            "ru_native": "Райли про тебя спрашивала. Хотела узнать, как у тебя дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі... цікавилася тобою, як у тебе справи."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0032",
+            "en": "I used to have a lot of… anger towards you… for the nightmares, but…",
+            "ru_native": "Я раньше сильно злилась на тебя... из-за кошмаров, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я раніше сильно... сердилася на тебе... за кошмари, але..."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0033",
+            "en": "She’s been a really good shoulder during all of this.",
+            "ru_native": "Она всегда была рядом и поддерживала меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона допомагає мені пройти через це."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0034",
+            "en": "We’re the only ones that remember, Olivia, we should talk about this. It helps.",
+            "ru_native": "Мы – единственные, кто помнит, Оливия, нам надо поговорить. Это помогает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми єдині, хто пам’ятає, Олівіє, нам потрібно все обговорювати. Це допомагає."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0035",
+            "en": "Anyways. I know you live like three states away, now, but we can still talk.",
+            "ru_native": "Я знаю, что ты сейчас в трех штатах отсюда, но мы все равно можем поговорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію, що ти тепер живеш десь за три штати звідси,<br>але ми все ще можемо говорити."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0036",
+            "en": "Oh, and I was wondering if you’ve heard from Charlie? I can’t get a hold of him, either.",
+            "ru_native": "Да, еще хотела спросить, нет ли вестей от Чарли? Я ему тоже не могу дозвониться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, і я хотіла запитати, чи чула ти щось про Чарлі? Я з ним також не можу зв’язатися."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0037",
+            "en": "Please. Call me back.",
+            "ru_native": "Пожалуйста, перезвони.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прошу, передзвони мені."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0038",
+            "en": "No, I’m leaving a message.",
+            "ru_native": "Нет, я записываю сообщение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я залишаю повідомлення."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0039",
+            "en": "Charlie’s here, too. We’re both worried about you.",
+            "ru_native": "Чарли тоже здесь. Мы оба за тебя переживаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі теж тут. Ми хвилюємося за тебе."
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0040",
+            "en": "We’re going on a hike Sunday with Riley and were wondering if you were in town for the break?",
+            "ru_native": "Мы собираемся в воскресенье пойти с Райли в поход,<br>и я подумал, может, ты будешь в городе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми збираємося в похід із Райлі в неділю.<br>Хотіли запитати, може в тебе будуть вихідні в місті?"
+        },
+        {
+            "tag": "A3S8.CHAVIO_VIOLET_0041",
+            "en": "You could meet up with us? Like old times? [sigh] I hope you get this, Olivia.",
+            "ru_native": "Не хочешь встретиться? Как в старые времена? (вздыхает)<br>Надеюсь, ты это услышишь, Оливия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ти зможеш із нами зустрітися? Як у старі часи? [зітхає]<br>Сподіваюся, ти це прослухаєш, Олівіє."
+        }
+    ]
+}

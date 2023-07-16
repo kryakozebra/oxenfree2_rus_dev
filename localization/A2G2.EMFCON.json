@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.EMFCON",
+    "entries": [
+        {
+            "tag": "A2G2.EMFCON_JACOB_0000",
+            "en": "Looks like the primary position is locked to one. Secondary should be open, though.",
+            "ru_native": "Похоже, на одной позиции застряла единица. А вот другие должны работать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2G2.EMFCON_JACOB_0001",
+            "en": "Uh—think that came from outside.",
+            "ru_native": "Хм... кто-то снаружи постарался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, це було ззовні."
+        }
+    ]
+}

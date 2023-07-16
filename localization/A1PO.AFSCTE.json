@@ -1,0 +1,384 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.AFSCTE",
+    "entries": [
+        {
+            "tag": "A1PO.AFSCTE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.AFSCTE_CHOICE_0000_OPTION_0000",
+            "en": "What are you saying?",
+            "ru_native": "К чему ты клонишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До чого ти ведеш?"
+        },
+        {
+            "tag": "A1PO.AFSCTE_CHOICE_0000_OPTION_0001",
+            "en": "No way.",
+            "ru_native": "Да ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ні."
+        },
+        {
+            "tag": "A1PO.AFSCTE_CHOICE_0000_OPTION_0002",
+            "en": "I saw their flier.",
+            "ru_native": "Секта виновата?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила їхню листівку."
+        },
+        {
+            "tag": "A1PO.AFSCTE_CHOICE_0001_OPTION_0000",
+            "en": "Know who they are?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Знаешь, кто они такие?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш, хто вони такі?"
+        },
+        {
+            "tag": "A1PO.AFSCTE_CHOICE_0001_OPTION_0001",
+            "en": "Let’s get to the transmitter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай перейдем к передатчику.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перейдемо до радіопередавача."
+        },
+        {
+            "tag": "A1PO.AFSCTE_CHOICE_0002_OPTION_0000",
+            "en": "What are you saying?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что ты хочешь сказать?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До чого ти ведеш?"
+        },
+        {
+            "tag": "A1PO.AFSCTE_CHOICE_0002_OPTION_0001",
+            "en": "No way.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ни в коем случае.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ну."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0000",
+            "en": "Okay, that was Olivia Massell. She's sixteen.",
+            "ru_native": "Это Оливия Массел. Ей шестнадцать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То була Олівія Мейсел. Їй шістнадцять."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0001",
+            "en": "Her family's a well-known group of nutter butter lunatics.",
+            "ru_native": "Ее семейка – хорошо известные местные психи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У її родині всі прибабахані."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0002",
+            "en": "Extremely wealthy, very insular, very private…",
+            "ru_native": "Неприлично богатые затворники...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Надзвичайно заможні, дуже відлюдькуваті, дуже замкнені…"
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0003",
+            "en": "Her mom and dad actually died in a prop plane crash almost four years ago, but she lives with her Aunt and Uncle, now.",
+            "ru_native": "Вообще ее родители погибли в авиакатастрофе<br>четыре года назад, девочка живет с тетей и дядей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її батьки загинули в авіакатастрофі майже<br>чотири роки тому. Зараз вона живе з тіткою й дядьком."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0004",
+            "en": "They have a church. Up on 74th? It's more like a… cult.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У них есть церковь. На 74-й улице? Это больше похоже на... секту.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0005",
+            "en": "And there are… stories.",
+            "ru_native": "Про них ходят... слухи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходять чутки…"
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0006",
+            "en": "About them performing rituals and stuff.",
+            "ru_native": "О проведении всяких ритуалов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що вони проводять ритуали тощо."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0007",
+            "en": "But I don't know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0008",
+            "en": "Hey, I'm just… saying… what I know. And what I've heard, and you can take it or leave it.",
+            "ru_native": "Да я так... Говорю то, что знаю. И что слышал. Думай что хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лиш кажу те, що знаю. І що я чув. Хочеш вір, хочеш ні."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0009",
+            "en": "They have a church. Down at the Docks? It's more like a… cult.",
+            "ru_native": "У них своя церковь. Недалеко от доков. Это скорее... секта.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У них є церква. У доках? Це більш схоже на… секту."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0010",
+            "en": "Parentage, they call themselves.",
+            "ru_native": "Они себя называют «Наследие».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони називають себе «Парентаж»."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0011",
+            "en": "About people disappearing.",
+            "ru_native": "Насчет пропажи людей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про людей, що зникають."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0012",
+            "en": "But I think you’re right. I think… this transmitter is preventing what looks like a gateway from opening…",
+            "ru_native": "Думаю, ты права. Кажется... этот передатчик не дает открыться чему-то вроде ворот...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що так і є. Цей радіопередавач не дає відкрити<br>те, що схоже на портал…"
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0013",
+            "en": "…to let something on the other side come through.",
+            "ru_native": "...чтобы что-то с той стороны не попало в наш мир.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…проникнути тому, що перебуває по той бік."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0014",
+            "en": "I mean… you did say you believe in ghosts.",
+            "ru_native": "То есть... ты же говорила, что веришь в призраков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сказала… ти справді сказала, що віриш у привидів."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0015",
+            "en": "I mean… you did say you believed me when I told you that story.",
+            "ru_native": "То есть... ты же сказала, что поверила в мою историю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти сказала… ти справді сказала, що віриш мені, коли я розповів тобі ту історію."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0016",
+            "en": "About the ghosts on Edwards Island…",
+            "ru_native": "Про призраков на острове Эдвардса...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про привидів на острові Едвардса…"
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0017",
+            "en": "Remember that story I told you? About the ghosts on Edwards Island?",
+            "ru_native": "Помнишь, я тебе рассказывал? Про призраков на острове Эдвардса?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пам’ятаєш ту історію, яку я тобі розповів? Про привидів на острові Едвардса?"
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0018",
+            "en": "That weird–thing on the trail path? That’s them.",
+            "ru_native": "Та странная штука на тропе? Это они.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про ту дивну річ на стежці? То вони."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0019",
+            "en": "They have that church. Down near the docks? It's more like a... cult.",
+            "ru_native": "У них своя церковь. Рядом с доками. Это скорее... секта.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У них є церква. Поруч із доками? Це більш схоже на… секту."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0020",
+            "en": "That… doesn’t sound good.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... звучит не очень хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це погано."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0021",
+            "en": "They sound… young.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они звучат... молодо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони здаються… молодими."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0022",
+            "en": "[sigh]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхання]"
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0023",
+            "en": "Man, what the Hell is going on.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Блин, что за хрень творится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що за чортівня?"
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0024",
+            "en": "Uh… I don’t know. One of them sounds… familiar, but… I’m not sure, yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эээ... Не знаю. Один из них звучит... знакомо, но... я пока не уверен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… Я не знаю. Один з них звучить... знайомо, але… Я поки не впевнений."
+        },
+        {
+            "tag": "A1PO.AFSCTE_JACOB_0025",
+            "en": "Yeah. Yeah, okay. Let’s do it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да. Да, хорошо. Давай сделаем это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Так, гаразд. Зробимо так."
+        },
+        {
+            "tag": "A1PO.AFSCTE_RILEY_0000",
+            "en": "Alright. Jacob, seriously… what are you suggesting here?",
+            "ru_native": "Так. Джейкоб, хватит. На что ты намекаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Джейкобе, серйозно… до чого ти ведеш?"
+        },
+        {
+            "tag": "A1PO.AFSCTE_RILEY_0001",
+            "en": "No. Way. Like… I don't know what's going on. Of course I don't.",
+            "ru_native": "Да ладно!.. Я не знаю, что происходит. Откуда мне знать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не. Може. Бути… Я не знаю, що відбувається. Звісно, не знаю."
+        },
+        {
+            "tag": "A1PO.AFSCTE_RILEY_0002",
+            "en": "But is has nothing to do with some ancient gods a bunch of Portland-adjacent ankle-biters are possibly trying to resurrect.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но это не имеет никакого отношения к каким-то древним богам, которых, возможно, пытается воскресить кучка голеностопщиков из Портленда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.AFSCTE_RILEY_0003",
+            "en": "You think this is a cult thing, seriously?",
+            "ru_native": "Думаешь, что за этим стоит секта?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вважаєш, це секта? Серйозно?"
+        },
+        {
+            "tag": "A1PO.AFSCTE_RILEY_0004",
+            "en": "But… whatever’s happening tonight? Ancient gods have nothing to do with it.",
+            "ru_native": "Но... в том, что творится этой ночью, древние боги не виноваты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… що б сьогодні не відбувалось? Стародавні боги тут ні до чого."
+        },
+        {
+            "tag": "A1PO.AFSCTE_RILEY_0005",
+            "en": "Yeah, I saw their flier at the store.",
+            "ru_native": "Да, я видела их листовку с магазине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила їхню листівку в магазині."
+        },
+        {
+            "tag": "A1PO.AFSCTE_RILEY_0006",
+            "en": "You have any idea who they could be?",
+            "ru_native": "",
+            "ru_machine": "DEEPL У тебя есть идеи, кем они могут быть?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "В тебе є ідеї, хто вони такі?"
+        },
+        {
+            "tag": "A1PO.AFSCTE_RILEY_0007",
+            "en": "Let’s just focus on the stuff we can control, like… getting any data we can from the transmitter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай просто сосредоточимся на том, что мы можем контролировать, например... получение любых данных, которые мы можем получить от передатчика.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давайте зосередимося на тому, що ми можемо контролювати,<br>наприклад, отримання будь-яких даних із радіопередавача."
+        }
+    ]
+}

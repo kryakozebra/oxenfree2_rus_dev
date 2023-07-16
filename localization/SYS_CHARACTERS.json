@@ -1,0 +1,726 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SYS_CHARACTERS",
+    "entries": [
+        {
+            "tag": "SYS_CHARACTERS_0000",
+            "en": "Riley",
+            "ru_native": "Райли",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0001",
+            "en": "Jacob",
+            "ru_native": "Джейкоб",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0002",
+            "en": "Evelyn",
+            "ru_native": "Эвелин",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0003",
+            "en": "Leslie",
+            "ru_native": "Лесли",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Леслі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0004",
+            "en": "Olivia",
+            "ru_native": "Оливия",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0005",
+            "en": "Charlie",
+            "ru_native": "Чарли",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0006",
+            "en": "???",
+            "ru_native": "???",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "???"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0007",
+            "en": "Alex",
+            "ru_native": "Алекс",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0008",
+            "en": "Evelyn",
+            "ru_native": "Эвелин",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0009",
+            "en": "Rex",
+            "ru_native": "Рекс",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рекс"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0010",
+            "en": "Dad",
+            "ru_native": "Отец",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Батько"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0011",
+            "en": "Radio",
+            "ru_native": "Радио",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіо"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0012",
+            "en": "???",
+            "ru_native": "",
+            "ru_machine": "DEEPL ???",
+            "ru_final": "",
+            "verified": false,
+            "uk": "???"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0013",
+            "en": "Athena",
+            "ru_native": "Будда",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Афіна"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0014",
+            "en": "Violet",
+            "ru_native": "Вайолет",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0015",
+            "en": "Maria",
+            "ru_native": "Мария",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Марія"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0016",
+            "en": "Radio",
+            "ru_native": "Радио",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Радіо"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0017",
+            "en": "Clarissa",
+            "ru_native": "Кларисса",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Клариса"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0018",
+            "en": "Maggie",
+            "ru_native": "Мэгги",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Меггі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0019",
+            "en": "Maria",
+            "ru_native": "Мария",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Марія"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0020",
+            "en": "Truck",
+            "ru_native": "Грузовик",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вантажівка"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0021",
+            "en": "Mellencamp",
+            "ru_native": "Мелленкамп",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мелленкамп"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0022",
+            "en": "Voice",
+            "ru_native": "Голос",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Голос"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0023",
+            "en": "Hank",
+            "ru_native": "Хэнк",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенк"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0024",
+            "en": "Kid",
+            "ru_native": "Ребенок",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дитина"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0025",
+            "en": "Female Voice",
+            "ru_native": "Женский голос",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жіночий голос"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0026",
+            "en": "Tobias",
+            "ru_native": "Тобиас",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобіас"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0027",
+            "en": "Sadiya",
+            "ru_native": "Садия",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Садія"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0028",
+            "en": "Cynthia",
+            "ru_native": "Синтия",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Синтія"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0029",
+            "en": "JB",
+            "ru_native": "Джей Би",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джей Бі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0030",
+            "en": "Danny",
+            "ru_native": "Дэнни",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Денні"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0031",
+            "en": "Tanner",
+            "ru_native": "Таннер",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теннер"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0032",
+            "en": "Cyan",
+            "ru_native": "Циан",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ціан"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0033",
+            "en": "Marigold",
+            "ru_native": "Мэриголд",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Меріголд"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0034",
+            "en": "Ratley",
+            "ru_native": "Ретли",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ретлі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0035",
+            "en": "Kat",
+            "ru_native": "Кэт",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кет"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0036",
+            "en": "Jonas",
+            "ru_native": "Джонас",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джонас"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0037",
+            "en": "Nona",
+            "ru_native": "Нона",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нона"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0038",
+            "en": "Ren",
+            "ru_native": "Рен",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рен"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0039",
+            "en": "???",
+            "ru_native": "???",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "???"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0040",
+            "en": "Old Fisherman",
+            "ru_native": "Старый рыбак",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Старий рибалка"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0041",
+            "en": "Fisherman",
+            "ru_native": "Рыбак",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рибалка"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0042",
+            "en": "Man",
+            "ru_native": "Попрошайка",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чоловік"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0043",
+            "en": "Alex Human",
+            "ru_native": "Живая Алекс",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс Людина"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0044",
+            "en": "Riley",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0045",
+            "en": "Rosalind",
+            "ru_native": "Розалинда",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розалінд"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0046",
+            "en": "???",
+            "ru_native": "???",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "???"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0047",
+            "en": "Nick",
+            "ru_native": "Ник",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нік"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0048",
+            "en": "Shelley",
+            "ru_native": "Шелли",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0049",
+            "en": "Jillian",
+            "ru_native": "Джиллиан",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джилліан"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0050",
+            "en": "Bartender",
+            "ru_native": "Бармен",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бармен"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0051",
+            "en": "Past Riley",
+            "ru_native": "",
+            "ru_machine": "DEEPL Паст Райли",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі з минулого"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0052",
+            "en": "Brad",
+            "ru_native": "",
+            "ru_machine": "DEEPL Брэд",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бред"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0053",
+            "en": "Bradley",
+            "ru_native": "",
+            "ru_machine": "DEEPL Брэдли",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бредлі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0054",
+            "en": "Gracie",
+            "ru_native": "",
+            "ru_machine": "DEEPL Gracie",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Грейсі"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0055",
+            "en": "Voicemail",
+            "ru_native": "",
+            "ru_machine": "DEEPL Голосовая почта",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Голосова пошта"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0056",
+            "en": "Phone Voice",
+            "ru_native": "",
+            "ru_machine": "DEEPL Телефонный голос",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Голос по телефону"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0057",
+            "en": "Sunken",
+            "ru_native": "",
+            "ru_machine": "DEEPL Sunken",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Втоплені"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0058",
+            "en": "ENTITY",
+            "ru_native": "",
+            "ru_machine": "DEEPL ENTITY",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ОБ’ЄКТ"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0059",
+            "en": "Riley Sunken",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли Санкен",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі Втоплені"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0060",
+            "en": "Bar Patron",
+            "ru_native": "",
+            "ru_machine": "DEEPL Патрон бара",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бар Патрон"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0061",
+            "en": "TV",
+            "ru_native": "",
+            "ru_machine": "DEEPL ТЕЛЕВИЗОР",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Телевізор"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0062",
+            "en": "Answering Machine",
+            "ru_native": "",
+            "ru_machine": "DEEPL Автоответчик",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Автовідповідач"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0063",
+            "en": "89.8",
+            "ru_native": "",
+            "ru_machine": "DEEPL 89.8",
+            "ru_final": "",
+            "verified": false,
+            "uk": "89.8"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0064",
+            "en": "RJ",
+            "ru_native": "",
+            "ru_machine": "DEEPL RJ",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ер-Джей"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0065",
+            "en": "Violet’s Mother",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мать Вайолет",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мати Вайолети"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0066",
+            "en": "Child Jacob",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ребенок Якоб",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дитина Джейкоб"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0067",
+            "en": "93.7",
+            "ru_native": "",
+            "ru_machine": "DEEPL 93.7",
+            "ru_final": "",
+            "verified": false,
+            "uk": "93.7"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0068",
+            "en": "91.4",
+            "ru_native": "",
+            "ru_machine": "DEEPL 91.4",
+            "ru_final": "",
+            "verified": false,
+            "uk": "91.4"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0069",
+            "en": "Mel Chapman",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мел Чепмен",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мел Чепмен"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0070",
+            "en": "Kenneth Young",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кеннет Янг",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кеннет Янг"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0071",
+            "en": "J.B.",
+            "ru_native": "",
+            "ru_machine": "DEEPL J.B.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дж. Б."
+        },
+        {
+            "tag": "SYS_CHARACTERS_0072",
+            "en": "Ingrid White",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ингрид Уайт",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інгрід Уайт"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0073",
+            "en": "Trucker",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дальнобойщик",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Водій вантажівки"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0074",
+            "en": "TESTSIGNAL",
+            "ru_native": "",
+            "ru_machine": "DEEPL ТЕСТСИГНАЛ",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ТЕСТОВИЙ СИГНАЛ"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0075",
+            "en": "Therapist",
+            "ru_native": "",
+            "ru_machine": "DEEPL Терапевт",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лікар"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0076",
+            "en": "103.5",
+            "ru_native": "",
+            "ru_machine": "DEEPL 103.5",
+            "ru_final": "",
+            "verified": false,
+            "uk": "103.5"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0077",
+            "en": "Adult Rex",
+            "ru_native": "",
+            "ru_machine": "DEEPL Взрослый рекс",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дорослий Рекс"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0078",
+            "en": "88.1",
+            "ru_native": "",
+            "ru_machine": "DEEPL 88.1",
+            "ru_final": "",
+            "verified": false,
+            "uk": "88.1"
+        },
+        {
+            "tag": "SYS_CHARACTERS_0079",
+            "en": "Additional Voices",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дополнительные голоса",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Додаткові голоси"
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.LCBOAT",
+    "entries": [
+        {
+            "tag": "GLOB.LCBOAT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.LCBOAT_CHOICE_0000_OPTION_0000",
+            "en": "I need to get to the island.",
+            "ru_native": "Нужно на остров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібно дістатися на острів."
+        },
+        {
+            "tag": "GLOB.LCBOAT_CHOICE_0000_OPTION_0001",
+            "en": "I’m not ready yet.",
+            "ru_native": "Я еще не готова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ще не готова."
+        },
+        {
+            "tag": "GLOB.LCBOAT_JACOB_0000",
+            "en": "Okay, before we board, if there’s anything else you wanna take care of on Camena…",
+            "ru_native": "Пока не отправились... Если у тебя есть незавершенные дела в Камене...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, перш ніж ми вирушимо… Чи є в тебе незавершені справи в Камені?"
+        },
+        {
+            "tag": "GLOB.LCBOAT_JACOB_0001",
+            "en": "To quote the king, it’s now or never.",
+            "ru_native": "Цитируя великих: «Сейчас или никогда».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цитуючи короля, «тепер або ніколи»."
+        },
+        {
+            "tag": "GLOB.LCBOAT_JACOB_0002",
+            "en": "So, what’ll it be?",
+            "ru_native": "Так что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож що?"
+        },
+        {
+            "tag": "GLOB.LCBOAT_JACOB_0003",
+            "en": "Now… or never?",
+            "ru_native": "Сейчас или никогда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер… або ніколи?"
+        },
+        {
+            "tag": "GLOB.LCBOAT_JACOB_0004",
+            "en": "Last call.",
+            "ru_native": "Последний шанс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Останній шанс."
+        },
+        {
+            "tag": "GLOB.LCBOAT_JACOB_0005",
+            "en": "Cool, yup.",
+            "ru_native": "Ладненько.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Клас, чудово."
+        },
+        {
+            "tag": "GLOB.LCBOAT_JACOB_0006",
+            "en": "Totally.",
+            "ru_native": "Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Абсолютно."
+        },
+        {
+            "tag": "GLOB.LCBOAT_JACOB_0007",
+            "en": "Dumb… question? Yeah, dumb question. Boat time.",
+            "ru_native": "Глупый вопрос? Да, глупый. Все на борт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дурне… запитання? Так, дурне запитання. Час сідати в човен."
+        },
+        {
+            "tag": "GLOB.LCBOAT_RILEY_0000",
+            "en": "No, I wanna get to the island.",
+            "ru_native": "Нет, пора на остров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я хочу на острів."
+        },
+        {
+            "tag": "GLOB.LCBOAT_RILEY_0001",
+            "en": "Actually, I wanna take care of a few things here first.",
+            "ru_native": "Вообще да, есть парочка вещей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Узагалі то, мені спочатку потрібно владнати дещо."
+        }
+    ]
+}

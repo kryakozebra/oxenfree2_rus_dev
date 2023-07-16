@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S4.SUMMIT",
+    "entries": [
+        {
+            "tag": "A1S4.SUMMIT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.SUMMIT_CHOICE_0000_OPTION_0000",
+            "en": "Made it.",
+            "ru_native": "Получилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вийшло."
+        },
+        {
+            "tag": "A1S4.SUMMIT_CHOICE_0000_OPTION_0001",
+            "en": "It’s pretty.",
+            "ru_native": "Мило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Красиво."
+        },
+        {
+            "tag": "A1S4.SUMMIT_RILEY_0000",
+            "en": "Ah, made it.",
+            "ru_native": "Уф, получилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф, вийшло."
+        },
+        {
+            "tag": "A1S4.SUMMIT_RILEY_0001",
+            "en": "Forgot how pretty it can be up here.",
+            "ru_native": "Я забыла, как тут может быть мило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я забула, як тут може бути гарно."
+        }
+    ]
+}

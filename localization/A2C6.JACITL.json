@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.JACITL",
+    "entries": [
+        {
+            "tag": "A2C6.JACITL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.JACITL_CHOICE_0000_OPTION_0000",
+            "en": "Jacob?",
+            "ru_native": "Джейкоб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе?"
+        },
+        {
+            "tag": "A2C6.JACITL_CHOICE_0000_OPTION_0001",
+            "en": "Are you okay?",
+            "ru_native": "Ты в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A2C6.JACITL_CHOICE_0000_OPTION_0002",
+            "en": "C’mon, let’s go!",
+            "ru_native": "Идем!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо!"
+        },
+        {
+            "tag": "A2C6.JACITL_RILEY_0000",
+            "en": "Jacob? Wh-what are you, uh, what are you doing, pal?",
+            "ru_native": "Джейкоб? Дружище, что делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Що ти тут робиш?"
+        },
+        {
+            "tag": "A2C6.JACITL_RILEY_0001",
+            "en": "Jacob? A-are you, uh, okay?",
+            "ru_native": "Джейкоб? Ты в порядке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, у тебе все добре?"
+        },
+        {
+            "tag": "A2C6.JACITL_RILEY_0002",
+            "en": "Hey! Jacob, c’mon, man, let’s go! We got work to do!",
+            "ru_native": "Эй! Джейкоб, идем! У нас полно работы!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Джейкобе, ходімо! Нам треба дещо зробити!"
+        }
+    ]
+}

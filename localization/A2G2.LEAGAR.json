@@ -1,0 +1,105 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.LEAGAR",
+    "entries": [
+        {
+            "tag": "A2G2.LEAGAR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.LEAGAR_CHOICE_0000_OPTION_0000",
+            "en": "Why not?",
+            "ru_native": "Почему нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ні?"
+        },
+        {
+            "tag": "A2G2.LEAGAR_CHOICE_0000_OPTION_0001",
+            "en": "Fine.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2G2.LEAGAR_JACOB_0000",
+            "en": "Ah…",
+            "ru_native": "А...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А…"
+        },
+        {
+            "tag": "A2G2.LEAGAR_JACOB_0001",
+            "en": "M-maybe let's not. Go back.",
+            "ru_native": "Может, не надо. Отойди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "М-може, не треба? Повернімося."
+        },
+        {
+            "tag": "A2G2.LEAGAR_JACOB_0002",
+            "en": "Not just yet, at least.",
+            "ru_native": "По крайней мере, не сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, не зараз."
+        },
+        {
+            "tag": "A2G2.LEAGAR_JACOB_0003",
+            "en": "I feel like it's totally within our abilities to find a way up onto that ledge. To place a transmitter.",
+            "ru_native": "Чувствую, нам вполне по силам выйти на тот уступ. Чтобы поставить передатчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчуваю, що нам точно під силу дістатися до<br>того виступу. Щоби розмістити радіопередавач."
+        },
+        {
+            "tag": "A2G2.LEAGAR_JACOB_0004",
+            "en": "Let's just keep an open mind. Sure we'll find something useful in this creepy old ghost town.",
+            "ru_native": "Будем объективны. Уверен, в этом жутком старом<br>городе-призраке найдется что-нибудь полезное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будемо об’єктивними. У цьому старому місті-привиді ми напевно знайдемо щось корисне."
+        },
+        {
+            "tag": "A2G2.LEAGAR_JACOB_0005",
+            "en": "I'm also not in a hurry to cross that ridiculously long bridge again.",
+            "ru_native": "И я не горю желанием снова перейти тот ужасно длинный мост.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ще я не поспішаю перейти той надто довгий міст знову."
+        },
+        {
+            "tag": "A2G2.LEAGAR_RILEY_0000",
+            "en": "Why? What's up?",
+            "ru_native": "Что? Почему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому? Що не так?"
+        },
+        {
+            "tag": "A2G2.LEAGAR_RILEY_0001",
+            "en": "Fine by me.",
+            "ru_native": "Я за.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не проти."
+        }
+    ]
+}

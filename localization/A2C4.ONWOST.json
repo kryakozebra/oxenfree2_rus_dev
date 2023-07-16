@@ -1,0 +1,681 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C4.ONWOST",
+    "entries": [
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0000_OPTION_0000",
+            "en": "Think of something else.",
+            "ru_native": "Думай о другом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подумай про щось інше."
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0000_OPTION_0001",
+            "en": "Keep it together.",
+            "ru_native": "Соберись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зберися до купи."
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0000_OPTION_0002",
+            "en": "Let’s play a game.",
+            "ru_native": "Давай сыграем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нумо грати."
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0001_OPTION_0000",
+            "en": "Uh...you first.",
+            "ru_native": "Есть идеи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Починай."
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0001_OPTION_0001",
+            "en": "I got nothing.",
+            "ru_native": "У меня ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я без ідей."
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0001_OPTION_0002",
+            "en": "Truth or Slap?",
+            "ru_native": "Правда или леща?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правда або ляпас?"
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0002_OPTION_0000",
+            "en": "Sure",
+            "ru_native": "Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно."
+        },
+        {
+            "tag": "A2C4.ONWOST_CHOICE_0002_OPTION_0001",
+            "en": "No thanks.",
+            "ru_native": "Нет, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, дякую."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0000",
+            "en": "I—it feels weird being in here—in the tear—like I’m… breathing underwater or something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... я чувствую себя странно, находясь здесь, в слезах, как будто я... дышу под водой или что-то в этом роде.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0001",
+            "en": "Anyways, I was saying that… doesn’t it feel, like, bad to be here—like we’re in sand or fog or something…",
+            "ru_native": "",
+            "ru_machine": "DEEPL В общем, я говорил о том, что... не кажется ли тебе, что быть здесь плохо, как будто мы в песке, тумане или еще чем-то...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0002",
+            "en": "Or like I’m in disguise—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Или как будто я замаскировался.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0003",
+            "en": "The air, though, feels differently.",
+            "ru_native": "",
+            "ru_machine": "DEEPL А вот воздух ощущается по-другому.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0004",
+            "en": "Just—yeah.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто - да.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0005",
+            "en": "Not… exactly fond.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не... точно увлекается.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0006",
+            "en": "Actually—yeah—I hate this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На самом деле - да, я ненавижу это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0007",
+            "en": "Like it’s hard to breathe.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как будто трудно дышать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0008",
+            "en": "I’m finding it difficult to think about anything else [weakly chuckles]",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне трудно думать о чем-то другом [слабо усмехается].",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0009",
+            "en": "But, uh, maybe it’s just me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, может быть, это только у меня.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0010",
+            "en": "“Find your power animal—” yeah, I don’t know if that’s gonna work.",
+            "ru_native": "",
+            "ru_machine": "DEEPL \"Найди свое силовое животное...\" да, не знаю, сработает ли это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0011",
+            "en": "Uh, if only we knew we’d be out of this soon, but… sure.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эх, если бы мы только знали, что скоро выберемся из этого, но... конечно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0012",
+            "en": "Buttoning.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Застегивание кнопок.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0013",
+            "en": "Well—okay, fine, yeah.",
+            "ru_native": "Да, хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, авжеж."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0014",
+            "en": "Sure? I uh—what do you have in mind?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Конечно? Я... что у тебя на уме?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0015",
+            "en": "You were—just earlier you were saying you maybe wanna play a game?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты... ты только что говорил, что, может быть, хочешь поиграть в игру?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0016",
+            "en": "Have one in mind?",
+            "ru_native": "",
+            "ru_machine": "DEEPL У тебя есть один на примете?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0017",
+            "en": "I’m down for uh—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я за...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0018",
+            "en": "For whatever.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Для чего угодно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0019",
+            "en": "Anything would do.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подойдет все, что угодно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0020",
+            "en": "Except 20 Questions.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кроме 20 вопросов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0021",
+            "en": "I hate that one.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я ненавижу этот вариант.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0022",
+            "en": "Yeah yeah, I—I remember but… you kind of need more than two people for that.",
+            "ru_native": "Да-да, я помню. Но для нее нужно больше, чем двое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так. Пам’ятаю, але… Хіба там не потрібно більше двох людей?"
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0023",
+            "en": "Oh, I got one.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, у меня есть один.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0024",
+            "en": "Oh—I have an idea.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, у меня есть идея.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0025",
+            "en": "We could try One-Word Story. My brother and I used to play that on car trips.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Можно попробовать \"Историю в одно слово\". Мы с братом часто играли в это во время автомобильных поездок.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0026",
+            "en": "Basically, two people tell a single story one word at a time, bouncing back and forth.",
+            "ru_native": "",
+            "ru_machine": "DEEPL По сути, два человека рассказывают одну историю по одному слову, перескакивая с одного на другое.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0027",
+            "en": "It usually collapses in the third act, but the sense of satisfaction of getting the tale told can be sweet stuff.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Обычно он разрушается в третьем акте, но чувство удовлетворения от того, что сказка рассказана, может быть очень приятным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0028",
+            "en": "We would limit the story to a single sentence, the human brain can only stretch so far.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы бы ограничили рассказ одним предложением, человеческий мозг может растягиваться только так далеко.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0029",
+            "en": "So… I was saying we could do One Word Story?",
+            "ru_native": "Я хотел предложить «Слово за слово».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пропоную гру «Сніжний ком»."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0030",
+            "en": "Two people ping-pong back and forth telling a story, one word at a time.",
+            "ru_native": "Двое рассказывают историю, добавляя по очереди по одному слову.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба скласти історію, додаючи по одному слову за хід, і так по черзі."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0031",
+            "en": "How about that?",
+            "ru_native": "Как тебе идея?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що?"
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0032",
+            "en": "You in?",
+            "ru_native": "Согласна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Граємо?"
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0033",
+            "en": "It can be fun.",
+            "ru_native": "Прикольная игра.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Має бути весело."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0034",
+            "en": "It’s like improvisation.",
+            "ru_native": "Типа импровизации.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це як імпровізація."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0035",
+            "en": "It’s pretty fun.",
+            "ru_native": "Она веселая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже прикольно."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0036",
+            "en": "Sometimes.",
+            "ru_native": "Иногда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іноді."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0037",
+            "en": "Cool, great.",
+            "ru_native": "Блеск.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Клас, чудово."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0038",
+            "en": "Yeah, no, okay, sounds good.",
+            "ru_native": "Да, конечно, без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я ж тільки за."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0039",
+            "en": "Let’s give it a whirl.",
+            "ru_native": "Давай, вдруг зайдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуємо."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0040",
+            "en": "I’ll uh—I’ll… pipe down, now. [sighs]",
+            "ru_native": "Ладно, я умолкаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе, усе, мовчу… [зітхає]"
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0041",
+            "en": "Lead on.",
+            "ru_native": "Веди меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Веди."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0042",
+            "en": "Mph. Okay... I'm starting to get... sorry it's not claustrophobia but uh --",
+            "ru_native": "М-м. Ладно.... У меня начинается... прости, это не клаустрофобия, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та-ак… щось мені не… вибач… я не клаустрофоб, але…"
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0043",
+            "en": "—we’re just like… on the precipice of madness here, you know?",
+            "ru_native": "...мы тут в шаге от того, чтобы умом тронуться, понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ми тут як… на межі божевілля, розумієш?"
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0044",
+            "en": "I’d rather not snap the tether quite yet, so, humor me with a—with a thing.",
+            "ru_native": "И я пока этот шаг делать не хочу, так что расскажи что-нибудь... смешное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, варто не замикатися в собі, а навпаки, поставитися до ситуації з гумором?"
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0045",
+            "en": "As a kid, when I was anxious? My brother and I would play a game to kinda help me out.",
+            "ru_native": "В детстве, когда я нервничал, мы с братом играли в одну игру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От у моєму дитинстві брат починав зі мною грати, щоби відволікти від тривог."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0046",
+            "en": "It was called One Word Story. Basically, two people tell a single story one word at a time, bouncing back and forth.",
+            "ru_native": "Называется «История по словам». Два человека рассказывают историю: сперва один говорит слово,<br> потом второй, и так по очереди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми це називали «Сніжний ком».<br>Треба скласти історію, додаючи по одному слову за хід, і так по черзі."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0047",
+            "en": "It usually collapses in the third act, but we could limit it to a single sentence. A short story.",
+            "ru_native": "До конца мы обычно не доходили, но мы с тобой можем ограничиться одним предложением.<br>Короткая история.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зазвичай усе йде шкереберть ще на третьому реченні, але ми можемо обмежитись одним."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0048",
+            "en": "Should help chill us out. Chill me out, at least.",
+            "ru_native": "Это поможет снять стресс. По крайней мере, мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це допоможе розслабитися. Принаймні, це розслабить мене."
+        },
+        {
+            "tag": "A2C4.ONWOST_JACOB_0049",
+            "en": "Cool, great.",
+            "ru_native": "Блеск.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Клас, чудово."
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0000",
+            "en": "Uh—yeah, just—I dunno. Can you distract yourself with something else?",
+            "ru_native": "Просто... Не знаю. Можешь себя как-то отвлечь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, ну не знаю. Ти можеш себе ще якось відволікти?"
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0001",
+            "en": "Think of an image, picture it in your mind—",
+            "ru_native": "Представь в голове картинку...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підключи уяву, змалюй собі щось у голові…"
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0002",
+            "en": "Button it up, we’ll be out of this soon.",
+            "ru_native": "Выше нос, мы скоро выберемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не розкисай, скоро ми вже виберемося."
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0003",
+            "en": "You uh—wanna play a game or something? While we look for a way out?",
+            "ru_native": "Может, сыграем во что-нибудь? Пока ищем выход?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш пограти в щось? Поки шукаємо вихід?"
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0004",
+            "en": "Uh—you go first.",
+            "ru_native": "Есть идеи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… тоді ти перший."
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0005",
+            "en": "What’s a game two nervous people can play while wandering a mineshaft back in time?",
+            "ru_native": "Во что могут сыграть двое напуганных людей, бредущих по шахте назад во времени?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У що можуть грати двоє напружених людей, блукаючи шахтою в минулому?"
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0006",
+            "en": "I’m not gonna lie to you—absolutely nothing is coming to mind, here.",
+            "ru_native": "Врать не буду, самой мне вообще ничего в голову не приходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буду відвертою — мені нічого не спадає на думку."
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0007",
+            "en": "Just thought it might be a good distraction.",
+            "ru_native": "Просто неплохо бы отвлечься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було б непогано так відволіктися."
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0008",
+            "en": "Oh! We could play Truth or Slap? Remember? From high school—",
+            "ru_native": "Может, «Правда или леща»? Помнишь? В школе играли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Як щодо «Правда або ляпас?» Пам’ятаєш її зі старшої школи?"
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0009",
+            "en": "It’s like Truth or Dare, but—",
+            "ru_native": "Это как правда или желание...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там, звичайно, «Правда або дія», але…"
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0010",
+            "en": "Uh, sure. Sounds good. Let’s do it.",
+            "ru_native": "Конечно. Звучит неплохо, давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно, звучить цікаво."
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0011",
+            "en": "Uh—yeah, I think I’ll pass.",
+            "ru_native": "Нет, спасибо, я пас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думаю, ні, я пас."
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0012",
+            "en": "Actually, sorry—nevermind—let’s just… focus on getting out of here.",
+            "ru_native": "Прости, но... Давай лучше искать выход отсюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але… краще шукаймо вихід старанніше."
+        },
+        {
+            "tag": "A2C4.ONWOST_RILEY_0013",
+            "en": "Actually–yeah, sounds like it could be fun. Let’s do it.",
+            "ru_native": "Вообще звучит забавно. Давай попробуем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі-то, звучить прикольно. Можна спробувати."
+        }
+    ]
+}

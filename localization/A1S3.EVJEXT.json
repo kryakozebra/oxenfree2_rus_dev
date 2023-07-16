@@ -1,0 +1,483 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1S3.EVJEXT",
+    "entries": [
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0000_OPTION_0000",
+            "en": "Riley and Jacob here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли и Джейкоб слушают.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі та Джейкоб слухають."
+        },
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0000_OPTION_0001",
+            "en": "Hi, Evelyn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, Эвелин.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Евелін."
+        },
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0001_OPTION_0000",
+            "en": "Jacob wrecked his truck.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб разбил свой грузовик.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб розбив вантажівку."
+        },
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0001_OPTION_0001",
+            "en": "The truck died.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Грузовик умер.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вантажівка здохла."
+        },
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0001_OPTION_0002",
+            "en": "Give us a second.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дай нам секунду.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дай нам секунду."
+        },
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0002_OPTION_0000",
+            "en": "Is it far?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Далеко ли это?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це далеко?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0002_OPTION_0001",
+            "en": "Climb? Like a mountain?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подниматься? Например, на гору?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піднятися? Як на гору?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0002_OPTION_0002",
+            "en": "Can we fix the truck?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Можем ли мы починить грузовик?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми можемо полагодити вантажівку?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0003_OPTION_0000",
+            "en": "Oh, okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, гаразд."
+        },
+        {
+            "tag": "A1S3.EVJEXT_CHOICE_0003_OPTION_0001",
+            "en": "I do have the backpack!",
+            "ru_native": "",
+            "ru_machine": "DEEPL У меня действительно есть рюкзак!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене є рюкзак!"
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0000",
+            "en": "Riley? Just you? Have you met your partner yet?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли? Только ты? Ты уже встретил своего партнера?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти сама? Ти вже зустріла свого напарника?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0001",
+            "en": "Okay, great! Hi Jake! Jake’s great.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так, отлично! Привет, Джейк! Джейк - это здорово.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово! Привіт, Джейку! Джейк класний."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0002",
+            "en": "He’s a handyman regularly but we were lucky to get his help with this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Он регулярно занимается рукоделием, но нам повезло, что он помог нам в этом деле.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він зазвичай працює майстром, але нам пощастило, що він погодився допомогти з цим."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0003",
+            "en": "Your truck ready?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Твой грузовик готов?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя вантажівка готова?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0004",
+            "en": "You guys good to go?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ребята, вы готовы?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можете вирушати?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0005",
+            "en": "[quickly] Jacob!",
+            "ru_native": "",
+            "ru_machine": "DEEPL [быстро] Джейкоб!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, Джейкоб!"
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0006",
+            "en": "Sorry, you go by Jacob.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Извини, ты ходишь под именем Джейкоб.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я переплутала."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0007",
+            "en": "I just – I know a Jake, so it’s muscle memory –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто - я знаю Джейка, так что это мышечная память -",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене є знайомий Джейк, тому я машинально…"
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0008",
+            "en": "Uh, kinda? It’s Camber Cape. We want to try and get as much overair traffic as we can.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, вроде как? Это мыс Кэмбер. Мы хотим попытаться получить как можно больше воздушного трафика.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи так. Вам треба до мису Кейбер.<br>Ми хочемо отримати якомога більше повітряного трафіку."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0009",
+            "en": "Yeah, it’s a lot easier with a ride, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, с аттракционом все гораздо проще, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, набагато простіше дістатися туди машиною, але…"
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0010",
+            "en": "I know folks that do the hike for their morning warmup.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я знаю людей, которые делают этот поход для утренней разминки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю людей, яким сходити туди — це те саме, що зробити зарядку."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0011",
+            "en": "It shouldn’t burn you too bad.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это не должно сильно обжечь тебя.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що похід туди вас сильно виснажить."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0012",
+            "en": "[over him] It’s a hike, yeah.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [над ним] Это поход, да.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, треба буде піднятися."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0013",
+            "en": "[over him] It’s more like a steep hike.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [над ним] Это больше похоже на крутой поход.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скоріше, просто крутий підйом."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0014",
+            "en": "Eh, we kind of have to get started. Our permits are only good for the next two days.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эх, нам вроде как пора начинать. Наши разрешения годятся только на ближайшие два дня.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, нам треба вже починати. Наші дозволи діють лише протягом двох днів."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0015",
+            "en": "You two are going to be planting transmitters all around Camena.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вы двое будете расставлять передатчики по всей Камене.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви будете встановлювати передавачі по всій Камені."
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0016",
+            "en": "Jacob, you have transmitters, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб, у тебя ведь есть передатчики?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, у тебе є радіопередавачі?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_EVELYN_0017",
+            "en": "Then why even say that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тогда зачем вообще это говорить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То чому ти взагалі це кажеш?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0000",
+            "en": "[talking over] Hey, uh, Evelyn? We’re together, yeah. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL (Разговор окончен) Эй, Эвелин? Мы вместе, да. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Евелін. Ми зараз разом, так. Прийом."
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0001",
+            "en": "Uh –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Uh -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е…"
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0002",
+            "en": "No, it’s – it’s fine, I don’t really care.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, это - нормально, меня это не особо волнует.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого… Усе гаразд. мені байдуже."
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0003",
+            "en": "Haha, no – Evelyn, I don’t know – something’s going on, and I can’t figure it out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хаха, нет - Эвелин, я не знаю - что-то происходит, и я не могу понять, что именно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха-ха, ні… Евелін, я не знаю… Щось сталося, і я не можу розібратися."
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0004",
+            "en": "Eh, maybe more than a second, to be honest. My truck’s misbehaving.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эх, может, больше секунды, если честно. Мой грузовик плохо себя ведет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо чесно, то секунди не вистачить. З вантажівкою щось не так."
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0005",
+            "en": "But, uh, no, Evelyn, sorry, we’re not really set up, yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, нет, Эвелин, извини, мы еще не совсем настроены.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, ні, Евелін. Вибач, ми ще не зовсім готові."
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0006",
+            "en": "I think the engine’s fried. Is our first transmitter point far? Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кажется, двигатель поджарился. Наш первый передаточный пункт далеко? Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що двигун згорів. Далеко знаходиться перша точка передавача?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0007",
+            "en": "I see now why you asked if I had an all-terrain vehicle.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Теперь я понимаю, почему ты спросил, есть ли у меня вездеход.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер я розумію, чому ти запитувала, чи моя вантажівка всюди проїде."
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0008",
+            "en": "It’s –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це…"
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0009",
+            "en": "Uh, just one.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, только один.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, лише один."
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0010",
+            "en": "Riley? I’m strapped for space, so could you grab the transmitter?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли? У меня мало места, так что не мог бы ты захватить передатчик?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? У мене немає вільного місця, тож не могла б ти взяти передавач?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0011",
+            "en": "It’s right there on the blanket.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она находится прямо на одеяле.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він стоїть на ковдрі."
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0012",
+            "en": "Thanks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Спасибо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A1S3.EVJEXT_JACOB_0013",
+            "en": "[chuckles] I promise I won’t think of you as our pack mule.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется] Обещаю, что не буду думать о тебе как о нашем вьючном муле.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Обіцяю, я не буду тебе вважати нашим в’ючним віслюком."
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0000",
+            "en": "Hey, Evelyn, yeah, you got Riley and Jacob here. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, Эвелин, да, к тебе пришли Райли и Джейкоб. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Евелін. Райлі та Джейкоб слухають. Прийом."
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0001",
+            "en": "Evelyn? Hey, it’s Riley. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин? Привет, это Райли. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Це Райлі. Прийом."
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0002",
+            "en": "Not ready yet, Evelyn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пока не готов, Эвелин.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще не готова, Евелін."
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0003",
+            "en": "Jacob did something before I arrived and screwed up his truck.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб что-то сделал до моего приезда и испортил свой грузовик.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкоб щось зробив до того, як я прийшла, і зламав свою вантажівку."
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0004",
+            "en": "Eh, not yet, Evelyn. Jacob’s truck was struck down by a mysterious illness.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эх, пока нет, Эвелин. Грузовик Джейкоба сразила загадочная болезнь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще ні, Евелін. Вантажівку Джейкоба вразила загадкова хвороба."
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0005",
+            "en": "Uh, give us a second, here, Evelyn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э, дай нам секунду, вот, Эвелин.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дай нам секундочку, Евелін."
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0006",
+            "en": "We’re going to Camber Cape? That’s – isn’t that far?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы едем на мыс Кэмбер? Это - не так уж и далеко?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми йдемо до мису Кейбер? Хіба… це не далеко?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0007",
+            "en": "Wait – a bit of a climb? Like we’re scaling a… mountain or a really big hill or… what?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Погоди - небольшой подъем? Как будто мы поднимаемся на... гору, или на очень большой холм, или... что?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай… Треба трохи піднятися? Типу як… на гору чи великий пагорб, чи… що?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0008",
+            "en": "Well, can’t we fix the truck? Call a tow company or something?",
+            "ru_native": "",
+            "ru_machine": "DEEPL А разве мы не можем починить грузовик? Вызвать эвакуатор или что-то в этом роде?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не можемо полагодити вантажівку? Викликати евакуатор або ще щось?"
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0009",
+            "en": "Oh, uh, okay. This thing? I think I have the space.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, э-э, хорошо. Эта штука? Думаю, у меня есть место.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, гаразд. Оця штука? Гадаю, я можу її взяти."
+        },
+        {
+            "tag": "A1S3.EVJEXT_RILEY_0010",
+            "en": "Well, I do have the backpack.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, рюкзак у меня действительно есть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, у мене є рюкзак."
+        }
+    ]
+}

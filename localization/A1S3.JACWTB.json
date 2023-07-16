@@ -1,0 +1,1221 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1S3.JACWTB",
+    "entries": [
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0000_OPTION_0000",
+            "en": "Like how?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Например, как?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому?"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0000_OPTION_0001",
+            "en": "I like her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она мне нравится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона мені подобається."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0000_OPTION_0002",
+            "en": "She’s something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она - это нечто.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона — це щось."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0001_OPTION_0000",
+            "en": "Evelyn won’t get into it?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин не хочет в это вникать?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін не буде про це говорити?"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0001_OPTION_0001",
+            "en": "What super strange stuff?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что за суперстранные вещи?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Які дивні речі?"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0001_OPTION_0002",
+            "en": "Stations seem normal to me…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Станции кажутся мне нормальными...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Станції здаються нормальними…"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0002_OPTION_0000",
+            "en": "Tune into physical objects?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Настроиться на физические объекты?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Налаштуватися на фізичні об’єкти?"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0002_OPTION_0001",
+            "en": "What’s Edwards Island, anyway?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что такое вообще остров Эдвардс?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що за острів Едвардса?"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0002_OPTION_0002",
+            "en": "Audio-visual phenomenon?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Аудиовизуальный феномен?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Аудіовізуальний феномен?"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0003_OPTION_0000",
+            "en": "Did you grow up here?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты вырос здесь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тут виріс?"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0003_OPTION_0001",
+            "en": "My Dad’s not doing well.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У моего отца дела идут не очень хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моєму батьку зле."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0003_OPTION_0002",
+            "en": "I needed a reset.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне нужна была перезагрузка.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно було почати спочатку."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0004_OPTION_0000",
+            "en": "Sounds like Hell.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Звучит как ад.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить як кошмар."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0004_OPTION_0001",
+            "en": "But you like it, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но тебе ведь нравится, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але тобі подобається тут?"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0004_OPTION_0002",
+            "en": "I left the second I could.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я ушел сразу же, как только смог.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пішла, як тільки змогла."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0005_OPTION_0000",
+            "en": "We’re not that close.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы не настолько близки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не настільки близькі."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0005_OPTION_0001",
+            "en": "Well, what’s your story?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, а у тебя какая история?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, а що в тебе за історія?"
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0005_OPTION_0002",
+            "en": "I hope he appreciates it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Надеюсь, он это оценит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сподіваюся, що він це оцінить."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0006_OPTION_0000",
+            "en": "Oh man, that sucks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вот блин, это отстой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, звісно, це відстій."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0006_OPTION_0001",
+            "en": "Poor doggie.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Бедный песик.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бідолашна тваринка."
+        },
+        {
+            "tag": "A1S3.JACWTB_CHOICE_0006_OPTION_0002",
+            "en": "I’ll keep my eye out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я буду следить за этим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пильнуватиму."
+        },
+        {
+            "tag": "A1S3.JACWTB_EVELYN_0000",
+            "en": "Oh, and Jacob – sorry, I forgot – did you ever find Athena?",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, и Джейкоб - прости, я забыл - ты когда-нибудь находил Афину?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, і Джейкобе, мені шкода, Афіна знайшлась?"
+        },
+        {
+            "tag": "A1S3.JACWTB_EVELYN_0001",
+            "en": "You know – I’m – I’m sure she’ll turn up, soon. Country dogs can handle anything, you know?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Знаешь, я уверен, что она скоро появится. Деревенские собаки могут справиться с чем угодно, понимаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, я… я впевнена, що вона скоро знайдеться.<br>Такі собаки можуть за себе постояти, егеж?"
+        },
+        {
+            "tag": "A1S3.JACWTB_EVELYN_0002",
+            "en": "Well, anyways – I’m sure your dog will turn up soon, Jacob. Over and out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, короче - я уверен, что твоя собака скоро объявится, Джейкоб. Конец связи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, у будь-якому випадку, я впевнена, що твоя собака<br>скоро знайдеться, Джейкобе. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0000",
+            "en": "Okay. By foot, Camber Cape is up this way.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Пешком, мыс Кэмбер находится в этой стороне.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Якщо йти пішки, то мис Кейбер у тому боці."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0001",
+            "en": "Shouldn’t take too long.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это не должно занять много времени.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навряд це займе багато часу."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0002",
+            "en": "Also, uh, Evelyn… she’s… a little… funny, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL А еще Эвелин... она... немного... забавная, да?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Також, е-е-е, Евелін… Вона трохи… смішна, так?"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0003",
+            "en": "She ran me through the job a week ago, and she’s definitely a character.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она провела меня по работе неделю назад, и у нее определенно есть характер.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми говорили з нею про роботу тиждень тому. Вона, безумовно, цікава особа."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0004",
+            "en": "I – I don’t even know, she’s just – her voice has a thing to it, you know? She’s a character.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я - я даже не знаю, она просто - в её голосе есть что-то такое, понимаешь? Она - персонаж.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… навіть не знаю. Просто… її голос такий, ну, ти розумієш? Вона незвична."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0005",
+            "en": "If I hear her at a train station or something I’ll immediately know… that’s Evelyn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Если я услышу ее на вокзале или еще где-нибудь, то сразу пойму - это Эвелин.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо я її почую на вокзалі або ще десь, то я одразу її впізнаю."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0006",
+            "en": "[laughs a little] Yeah. Not that it’s a bad thing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [слегка смеется] Да. Не то чтобы это было плохо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Ага. Не те щоб це погано, звісно."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0007",
+            "en": "[chuckles] Yeah, a little.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется] Да, немного.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Ага, є таке трохи."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0008",
+            "en": "Not that it’s a bad thing, I don’t want you to think I’m speaking ill of her or anything.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не то чтобы это было плохо, я не хочу, чтобы ты думал, что я говорю о ней плохо или что-то в этом роде.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не те, що це якось погано. Не подумай, я не хочу на неї наговорювати."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0009",
+            "en": "[coughs a little]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [слегка кашляет].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[кашляє]"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0010",
+            "en": "So, uh – [flat] Hi. I’m Jacob. Nice to meet you. First day on the job topics…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Итак, эээ - [ровный] Привет. Я - Джейкоб. Приятно с тобой познакомиться. Первый день на рабочих темах...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… Привіт. Мене звуть Джейкоб. Приємно познайомитися. Тож, щодо роботи…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0011",
+            "en": "I’m what you could call an independent contractor. You know – light fixtures, building a deck.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Меня можно назвать независимым подрядчиком. Ну, знаешь - светильники, строительство палубы.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я той, кого ви називаєте незалежним підрядником.<br>Ну, знаєш, світло полагодити чи терасу побудувати."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0012",
+            "en": "But I signed up for this partly because of how weird everything’s been. It’s why I brought the radio, actually.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но я подписался на это отчасти из-за того, насколько странно все происходило. Собственно, поэтому я и взял с собой радио.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я підписався на це тому, що останнім часом усе якось дивно.<br>Саме тому я взяв із собою радіо."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0013",
+            "en": "Evelyn won’t get into it, but you can tune into super strange stuff if you know how to find it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин не будет в это вникать, но ты можешь настроиться на суперстранные вещи, если знаешь, как их найти.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін не буде говорити про це, але ми можемо налаштуватися на<br>якісь дивні штуки, якщо знати, як їх знайти."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0014",
+            "en": "But – I was just saying I’m usually a contractor? I do odd jobs around town.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но - я просто сказал, что я обычно работаю подрядчиком? Я выполняю странную работу по всему городу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Я ж говорив, що я зазвичай працюю підрядником? Потроху підпрацьовую по місту."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0015",
+            "en": "And I was interested in this gig because of just how super weird everything’s been in town.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И меня заинтересовало это выступление, потому что в городе всё было очень странно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зацікавився цією роботою, бо в місті відбувалися дивні речі."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0016",
+            "en": "Stuff I think Evelyn’s hesitant to get into…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вещи, в которые, как мне кажется, Эвелин не решается лезть...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Таке, про що Евелін не хоче говорити…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0017",
+            "en": "Anyways, yeah, tonight should be interesting.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В общем, да, сегодня должно быть интересно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коротше, сьогодні буде цікаво."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0018",
+            "en": "There’s a lot of super strange stuff going on that Evelyn’s kind of avoiding talking about…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Происходит много суперстранных вещей, о которых Эвелин как бы избегает говорить...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відбуваються якісь дивні речі, про які Евелін не хоче говорити…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0019",
+            "en": "Well, it’s not an… official part of their study, some of this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, это не... официальная часть их исследования, кое-что из этого.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, це… неофіційна частина їхнього дослідження."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0020",
+            "en": "Uh, yeah, way more.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, да, гораздо больше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, ще дивніші."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0021",
+            "en": "That’s just because of where we are. But… if you try in a good spot…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это просто из-за того, где мы находимся. Но... если ты попробуешь в хорошем месте...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це тому, що ми знаходимося в такому місці. Але… якщо ти спробуєш деінде…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0022",
+            "en": "It used to happen just on Edwards Island – it was a sort of… inexplicable audio-visual phenomenon.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Раньше это происходило только на острове Эдвардс - это был своего рода... необъяснимый аудиовизуальный феномен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше це відбувалося лише на острові Едвардса.<br>Це був… незрозумілий аудіовізуальний феномен."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0023",
+            "en": "Using any old radio you could tune into… physical objects.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Используя любое старое радио, на которое можно было настроиться... физические объекты.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Використовуючи будь-яке старе радіо, можна налаштуватися на… фізичні об’єкти."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0024",
+            "en": "But I was just saying that you could use a radio on Edwards Island to tune into actual physical things.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но я просто сказал, что вы можете использовать радио на острове Эдвардс, чтобы настроиться на реальные физические вещи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти можеш скористатися радіо на острові Едвардса, щоби налаштуватися на фізичні речі."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0025",
+            "en": "I’m curious if we’ll get readings from the island.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне интересно, получим ли мы показания с острова.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені цікаво, чи ми отримаємо щось з острова."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0026",
+            "en": "But I guess we’ll see.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, думаю, мы еще посмотрим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поживемо — побачимо."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0027",
+            "en": "Used to creep me out as a kid.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В детстве меня это пугало.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У дитинстві мене це лякало."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0028",
+            "en": "Yeah, it’s… hard to explain.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, это... трудно объяснить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це… важко пояснити."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0029",
+            "en": "When tuned to the right signal, a radio would sort of… charge up stuff in the environment.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Настроившись на нужный сигнал, радиоприемник как бы... заряжает вещи в окружающей среде.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо налаштуватися на правильний сигнал,<br>радіо ніби… заряджає навколишнє середовище."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0030",
+            "en": "It didn’t make sense – people investigated it to no real… determination or whatever.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В этом не было смысла - люди исследовали его до полной... решимости или чего-то еще.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та це не мало сенсу, бо люди досліджували це без справжньої… рішучості чи що."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0031",
+            "en": "It was. Still is, kind of, but people aren’t really allowed there anymore. The hours are really limited.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так и было. И до сих пор вроде как есть, но людей туда больше не пускают. Время работы очень ограничено.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше так було. Ну, і зараз так, але туди більше<br>не пускають людей. Хіба що ненадовго."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0032",
+            "en": "But, uh, it was Fort Milner for decades, an old WW era bunker and military base.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но... десятилетиями это был Форт Милнер - старый бункер и военная база времен ВОВ.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там роками був форт Мілнера, старий бункер часів<br>Другої світової війни та військова база."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0033",
+            "en": "There’s a lot of stories. But… anyways.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Там очень много историй. Но... короче.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там багато історій. Але… коротше."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0034",
+            "en": "But, uh, we were talking about… radios – yeah –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, эм, мы говорили о... радиоприемниках - да...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми говорили про… радіо… Ага…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0035",
+            "en": "The effect, though – that radio effect – has kind of bled from the island to around here, now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Однако этот эффект - эффект радио - как бы перетек с острова сюда, в наши дни.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Однак цей ефект, радіоефект, зараз ніби перекинувся з острова сюди."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0036",
+            "en": "But – I’m sorry, I’m just into this stuff. Super nerd techy.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но - извини, я просто увлекаюсь этими вещами. Супер-ботаник-технарь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Вибач, я просто цікавлюся цим. Усіма цими технічними штуками."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0037",
+            "en": "But I’ve been talking my head off ever since we met. God. Okay –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но я болтаю без умолку с тех пор, как мы познакомились. Бог. Хорошо -",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я теревеню без упину з тих пір, як ми зустрілися. Боже. Гаразд…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0038",
+            "en": "What’s, uh – I think Evelyn told me you used to live here?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что... э-э... кажется, Эвелин говорила мне, что ты раньше жил здесь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… Здається, Евелін казала, що ти жила тут раніше?"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0039",
+            "en": "But, anyways – yeah, the radio weirdness – being able to tune into things – has kind of come over to the coast, now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но, так или иначе, да, странности с радио - возможность настраиваться на что-то - перекочевали и на побережье.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Так, ця штука з радіо, тобто можливість налаштовуватися на<br>щось, зараз наче перейшла на узбережжя."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0040",
+            "en": "From the island, I mean – that weird effect it had, but – I’m sorry, I’ve just been blabbing about this –",
+            "ru_native": "",
+            "ru_machine": "DEEPL С острова, я имею в виду - тот странный эффект, который он произвел, но - простите, я просто проболтался об этом...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю на увазі, з острова… Той дивний ефект… Вибач, я щось багато говорю про це…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0041",
+            "en": "Evelyn said that you used to live here…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин сказала, что ты раньше жил здесь...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін казала, що ти колись тут жила…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0042",
+            "en": "But, uh, Evelyn said you used to live around here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но Эвелин сказала, что ты раньше жил где-то здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, Евелін казала, що ти десь тут жила."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0043",
+            "en": "What’s, uh, what brought you back?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что, эм, что привело тебя обратно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То що тебе привело назад?"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0044",
+            "en": "Is this temporary or…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это временно или...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти надовго чи…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0045",
+            "en": "Just got homesick?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто затосковал по дому?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто скучила за домом?"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0046",
+            "en": "Right, or…?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Правильно, или...?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? Чи…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0047",
+            "en": "Maybe I misheard her?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, я неправильно ее расслышал?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, я неправильно почув?"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0048",
+            "en": "Oh yeah, born and raised. And right here, actually, on the outskirts – not in town.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О да, родился и вырос. И прямо здесь, на самом деле, на окраине - не в городе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, народився і виріс. Тут, на околицях, не в місті."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0049",
+            "en": "I’m a real parks kid, you know? Never really liked city living. Maybe to my… detriment.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я настоящий парковый ребенок, понимаешь? Никогда не любил городскую жизнь. Может быть, это мне... во вред.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я справжня дитина природи, розумієш?<br>Ніколи не любив життя в місті. Можливо, це й… погано."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0050",
+            "en": "No, I hear ya.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, я тебя понял.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0051",
+            "en": "I’m kind of the opposite. I never left!",
+            "ru_native": "",
+            "ru_machine": "DEEPL У меня все как бы наоборот. Я никогда не уходил!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А я — повна протилежність. Я ніколи не виїжджав звідси!"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0052",
+            "en": "Never really explored or…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Никогда особо не исследовал и не...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи не жив десь ще…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0053",
+            "en": "I mean, I’ve been on trips and stuff.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я имею в виду, что я был в поездках и все такое.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, я був у кількох подорожах."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0054",
+            "en": "But nowhere else really… stuck like Camena.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но больше нигде толком... застрял, как Камена.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А так… застряг у Камені."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0055",
+            "en": "Eh, I wouldn’t say that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эх, я бы так не сказал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б так не сказав."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0056",
+            "en": "I… am content. But… you never know how content you’d be if you did things differently, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... доволен. Но... ты никогда не знаешь, насколько ты был бы доволен, если бы делал всё по-другому, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені… подобається. Але… ніколи не знаєш,<br>як би тобі було, якби ти вчинив інакше, так?"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0057",
+            "en": "Oh, sorry, that’s, um… that’s – that’s too bad.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, извини, это... это... это - очень плохо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибач, це… Мені шкода."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0058",
+            "en": "I didn’t mean to bring up bad news. But that’s really nice of you… to come back, I mean, for him.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не хотел сообщать плохие новости. Но это очень мило с твоей стороны... вернуться, я имею в виду, ради него.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хотів сипати сіль на рану. Але це мило з твого боку… ну, повернутися до нього."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0059",
+            "en": "I’m sure he appreciates it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я уверен, что он это ценит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я впевнений, що він це цінує."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0060",
+            "en": "Family’s a, uh, a thorny bush…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Семья - это... э-э-э... колючий кустарник...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сім’я — це колючий кущ…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0061",
+            "en": "And I’ve never said that before in my life.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И я никогда в жизни не говорил этого раньше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я ніколи не казав цього у своєму житті."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0062",
+            "en": "And I definitely won’t again [weak laugh].",
+            "ru_native": "",
+            "ru_machine": "DEEPL И я точно больше не буду [слабый смех].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І точно більше не скажу [тихо сміється]."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0063",
+            "en": "Yeah, that – that makes sense.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, это - вполне логично.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Логічно."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0064",
+            "en": "Um… to be perfectly honest… not much more.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм... если быть до конца честным... не намного больше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… чесно кажучи… не дуже."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0065",
+            "en": "I’m a tinkerer, I like to tinker. Not in the supervillain way, but you know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я - лудильщик, мне нравится возиться. Не в смысле суперзлодея, но ты знаешь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — майстер, люблю майструвати. Не суперлиходій-геній, ну, ти розумієш."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0066",
+            "en": "Oh, uh – no – not, uh, not yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, эээ - нет - нет, эээ, пока нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, е-е… ні… ні, е-е, ще ні."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0067",
+            "en": "Ha. Yeah. Thanks for checking. Over and out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ха. Да. Спасибо, что проверил. Конец связи и выход.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага. Так. Дякую за турботу. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0068",
+            "en": "Sorry, I, uh – my dog, Athena, got out last night.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Извини, я... э-э... моя собака, Афина, вышла на улицу прошлой ночью.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перепрошую, я… моя собачка, Афіна, загубилася минулої ночі."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0069",
+            "en": "She goes on walks by herself all the time but… this is the first time she hasn’t come back right away.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она постоянно ходит на прогулки одна, но... это первый раз, когда она не сразу вернулась.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона весь час гуляє сама по собі, але… це вперше, коли вона не повернулася."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0070",
+            "en": "Anyways, um, my dog, Athena, ran away last night and hasn’t come back.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Короче, моя собака, Афина, убежала вчера вечером и до сих пор не вернулась.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У будь-якому разі, моя собачка, Афіна, втекла минулої ночі й ще не повернулася."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0071",
+            "en": "Something spooked her, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что-то ее спугнуло, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось її налякало, але…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0072",
+            "en": "I don’t know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0073",
+            "en": "I’m sure she’s… fine, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я уверен, что она... в порядке, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я впевнений, що з нею… усе добре, але…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0074",
+            "en": "It’s also hard not to worry.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Также трудно не волноваться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Важко не хвилюватися."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0075",
+            "en": "I’m – no, I’m sure she’s okay, she goes off all the time…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я - нет, я уверен, что с ней все в порядке, она постоянно срывается...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… ні, я впевнений, що з нею все гаразд, вона весь час кудись бігає…"
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0076",
+            "en": "[chuckles] Maybe.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется] Может быть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Можливо."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0077",
+            "en": "I’m hoping we’ll just run across her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я надеюсь, что мы просто наткнемся на нее.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, що ми просто натрапимо на неї."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0078",
+            "en": "[big sigh] Okay, the, uh, the path will bring us right to Camber Cape. Shouldn’t be much longer.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [большой вздох] Так, э-э-э, тропинка приведет нас прямо к мысу Кэмбер. Это не должно занять много времени.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Гаразд, стежка приведе нас прямо до мису Кейбер.<br>Цей шлях не має бути довшим."
+        },
+        {
+            "tag": "A1S3.JACWTB_JACOB_0079",
+            "en": "[sigh] Phew. Okay. This path will take us to Camber Cape. Far, but not… too far, you know?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Фух. Итак. Эта тропинка приведет нас к мысу Кэмбер. Далеко, но не... слишком далеко, понимаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Фух. Добре. Ця стежка приведе нас до мису Кейбер.<br>Це далеко, але не… не надто далеко, розумієш?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0000",
+            "en": "Oh, “funny?” Like how do you mean?",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, \"забавно?\" Например, как это понимать?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Смішна? Ти про що?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0001",
+            "en": "Oh, I dunno.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, не знаю."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0002",
+            "en": "Maybe it’s because I grew up around them, but that particular breed of small town… something…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, это потому, что я вырос в их окружении, но эта особая порода маленьких городов... что-то такое...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, тому, що я виросла серед них,<br>але ця особлива порода з маленького містечка…"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0003",
+            "en": "I’m a little nostalgic for it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я немного ностальгирую по нему.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я трохи сумую за цим."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0004",
+            "en": "Yeah. [chuckles] She’s definitely a type.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да. Она определенно относится к этому типу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага. [сміється] Вона ще та штучка."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0005",
+            "en": "I feel like you see Evelyns running stores that sell nothing but Christmas stuff all year round.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне кажется, что ты видишь, как Evelyns круглый год управляют магазинами, в которых не продают ничего, кроме рождественских вещей.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ніби такі Евеліни мають магазинчики,<br>які торгують різдвяними товарами цілий рік."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0006",
+            "en": "Evelyn won’t get into it? Won’t get into what? What do you mean?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин не хочет в это ввязываться? Не будет вникать во что? Что ты имеешь в виду?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін не буде про це говорити? Про що? Що ти маєш на увазі?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0007",
+            "en": "Super strange stuff? Like, more than just… foreign stations bouncing off a satellite somewhere?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Супер странные вещи? Типа, больше, чем просто... иностранные станции, отскакивающие куда-то со спутника?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивні речі? Типу, щось ще, окрім… станцій, що відбиваються від супутника?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0008",
+            "en": "Really? Like what? The stations seem… pretty normal to me…? A lot of static, but –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Правда? Например? Станции кажутся мне... вполне нормальными...? Много помех, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дійсно? Наприклад? Станції здаються… нормальними. Багато шуму, але…"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0009",
+            "en": "Wait, what does, “Tune into physical objects…” mean? I can’t even picture what that could –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди, а что значит \"Настроиться на физические объекты...\"? Я даже не могу представить, что это может быть...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що означає «налаштуватися на фізичні об’єкти»? Я навіть уявити не можу…"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0010",
+            "en": "Okay, remind me, what’s so special about Edwards Island? Isn’t it like a tourist trap?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, напомни мне, что такого особенного в острове Эдвардс? Разве это не похоже на туристическую ловушку?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нагадай мені, що такого особливого в острові Едвардса?<br>Хіба це не пастка для туристів?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0011",
+            "en": "Audio-visual phenomena? Like, uh, what?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Аудиовизуальные явления? Например, что?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Аудіовізуальний феномен? Це як?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0012",
+            "en": "Uh, did you, uh, did you grow up here? In Camena?",
+            "ru_native": "",
+            "ru_machine": "DEEPL А ты... ты вырос здесь? В Камене?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, а ти виріс тут? У Камені?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0013",
+            "en": "I just needed a… reset, I think.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне просто нужна была... перезагрузка, я думаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені потрібно було… перезавантажитися."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0014",
+            "en": "I’ve been – in hindsight, I haven’t really planted roots in any one place or in any one thing or in anybody, even, really.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Оглядываясь назад, я не пустил корни ни в одном месте, ни в одной вещи, ни в ком-то, даже, на самом деле.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… насправді, я не пустила коріння ніде, не прив’язалася до когось або чогось."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0015",
+            "en": "And… it’s not like I can get away with that forever. [quieter] Especially now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И... не похоже, что мне это будет сходить с рук вечно. [тише] Особенно сейчас.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… не можу я тікати від цього вічно. [тихіше] Особливо зараз."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0016",
+            "en": "Ugh, sounds like my living nightmare. I needed to get out, to travel, to see… more.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф, звучит как мой живой кошмар. Мне нужно было куда-то выбираться, путешествовать, видеть... больше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фу, звучить як мій найгірший кошмар.<br>Мені потрібно було подорожувати, бачити… більше."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0017",
+            "en": "Of course, I ended up right back here, so… maybe you’re on to something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Конечно, в итоге я вернулся сюда, так что... возможно, ты что-то понял.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знову опинилася тут, тож… можливо, ти все правильно робив."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0018",
+            "en": "But you stayed because you like it, right? Camena?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но ты остался, потому что тебе это нравится, верно? Камена?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ти залишився, бо тобі подобається? Ну, Камена?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0019",
+            "en": "Oof, not me. I left the legal second I could. Didn’t really look back until a few months ago.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф, только не я. Я ушел в ту же секунду, как только смог. И оглянулся только несколько месяцев назад.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я пішла в ту ж секунду, коли змогла, й озирнулася назад лише кілька місяців тому."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0020",
+            "en": "Um… my Dad… isn’t doing too great. I thought I should, um, just move back, you know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мой отец... не очень хорошо себя чувствует. Я подумал, что мне стоит, гм, просто переехать обратно, понимаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е… Татові… не дуже добре. Я подумала, що мені слід, ну, приїхати назад, розумієш?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0021",
+            "en": "At least for a while. Be home to be close to him.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хотя бы на некоторое время. Будь дома, чтобы быть рядом с ним.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні, ненадовго. Побуду вдома, щоби бути ближче до нього."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0022",
+            "en": "To be frank, Jacob, we’re not that close. I just… [sighs]",
+            "ru_native": "",
+            "ru_machine": "DEEPL Если быть откровенным, Джейкоб, мы не так уж близки. Я просто... [вздыхает].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чесно, Джейкобе, ми не настільки близькі. Просто… [зітхає]"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0023",
+            "en": "A lot’s happened in my life recently that I just want to make amends before it gets too late.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В последнее время в моей жизни произошло много такого, что я просто хочу исправиться, пока не стало слишком поздно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Останнім часом у моєму житті сталося багато такого,<br>що я просто хочу загладити свою провину, доки не стало пізно."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0024",
+            "en": "Well, what’s, uh, what’s your story? Jacob the handyman – there’s gotta be more than that, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, а какая, ну, какая у тебя история? Джейкоб - разнорабочий - должно же быть что-то большее, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, що там у тебе за історія? Джейкобе, майстер на всі руки,<br>тобі є що розповісти, чи не так?"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0025",
+            "en": "I certainly hope he appreciates it – [weak laugh].",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я очень надеюсь, что он это оценит - [слабый смех].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я дійсно сподіваюся, що він це оцінить. [сміється]"
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0026",
+            "en": "He’s, uh, not much for showing gratitude. Our relationship’s been… fraught, let’s say. But… I don’t know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Он не очень любит проявлять благодарность. Наши отношения были... мягко скажем, непростыми. Но... я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він, е-е, не дуже любить прояви вдячності. Наші стосунки були…<br>напруженими, скажімо так. Але… я не знаю."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0027",
+            "en": "Oh man, that’s – that’s the worst, I’m sorry.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Блин, это... это хуже всего, извини.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, авжеж, це… це найгірше, мені шкода."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0028",
+            "en": "Aw, poor baby. If she goes on walks by herself all the time, I’m… sure she’ll turn up.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ой, бедная малышка. Если она будет постоянно ходить на прогулки одна, я... уверен, что она появится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, бідолашна. Якщо вона весь час гуляє сама, я… впевнена, що вона знайдеться."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0029",
+            "en": "She probably got some doggie action and doesn’t want to come home yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скорее всего, она получила немного собачьего экшена и пока не хочет возвращаться домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ймовірно, у неї якісь собачі справи, і вона поки що не хоче повертатися додому."
+        },
+        {
+            "tag": "A1S3.JACWTB_RILEY_0030",
+            "en": "Oh, okay. Good to know. I’ll keep an eye out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, хорошо. Приятно слышать. Я буду следить за этим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд. Зрозуміло. Я пильнуватиму."
+        }
+    ]
+}

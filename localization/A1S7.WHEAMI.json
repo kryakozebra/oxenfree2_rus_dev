@@ -1,0 +1,348 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S7.WHEAMI",
+    "entries": [
+        {
+            "tag": "A1S7.WHEAMI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.WHEAMI_CHOICE_0000_OPTION_0000",
+            "en": "What happened?",
+            "ru_native": "Что случилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що трапилося?"
+        },
+        {
+            "tag": "A1S7.WHEAMI_CHOICE_0000_OPTION_0001",
+            "en": "I fixed it?",
+            "ru_native": "Я снова тут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Полагодила?"
+        },
+        {
+            "tag": "A1S7.WHEAMI_CHOICE_0000_OPTION_0002",
+            "en": "Jacob? You here?",
+            "ru_native": "Джейкоб, ты тут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, ти тут?"
+        },
+        {
+            "tag": "A1S7.WHEAMI_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.WHEAMI_CHOICE_0001_OPTION_0000",
+            "en": "Everything is going to be fine… ",
+            "ru_native": "Все будет хорошо... ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде добре… "
+        },
+        {
+            "tag": "A1S7.WHEAMI_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.WHEAMI_CHOICE_0002_OPTION_0000",
+            "en": "Is that Evelyn? ",
+            "ru_native": " Это Эвелин? ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Це ти? "
+        },
+        {
+            "tag": "A1S7.WHEAMI_CHOICE_0002_OPTION_0001",
+            "en": "My walkie sounds weird.",
+            "ru_native": "У рации странный звук.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя рація видає дивні звуки."
+        },
+        {
+            "tag": "A1S7.WHEAMI_EVELYN_0000",
+            "en": "Riley? [static] —you— [static] there? Riley? [static]",
+            "ru_native": "Райли?.. Ты тут? Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WHEAMI_EVELYN_0001",
+            "en": "Riley? [static] —you— [static] there? Riley? [static]",
+            "ru_native": "Райли?.. Ты тут? Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0000",
+            "en": "Wait, what… happened? Am I… where am I?",
+            "ru_native": "Стоп, что... случилось? Где... где я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стоп, що… сталося? Де… де я?"
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0001",
+            "en": "I should... get back to town.",
+            "ru_native": "Мне надо... назад в город.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені треба… назад у місто."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0002",
+            "en": "Wait, I’m back at the trail? How’d that… ugh, this is… too weird.",
+            "ru_native": "Стоп, я опять на дороге? Как это... уф, это... слишком странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стоп, я знову на стежці? Як це… уф, це… занадто дивно."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0003",
+            "en": "Jacob! Jacob, you around? [painful sigh]",
+            "ru_native": "Джейкоб! Джейкоб, ты здесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Джейкобе, ти тут? [болісно зітхає]"
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0004",
+            "en": "[sigh] Guess not.",
+            "ru_native": "Видимо, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що ні."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0005",
+            "en": "Hey! Is anyone… around? Truck guy? [painful sigh]",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Кто-нибудь... рядом? Парень с грузовиком? [болезненный вздох].",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0006",
+            "en": "Guess not.",
+            "ru_native": "Видимо, нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, ні."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0007",
+            "en": "Hey! Is anyone… around? Anybody? [painful sigh]",
+            "ru_native": "Эй! Есть тут кто? Кто-нибудь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Тут хто-небудь є? Хоч хтось? [болісно зітхає]"
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0008",
+            "en": "Ugh, is that Evelyn? She’s barely coming through…",
+            "ru_native": "Это Эвелин? Очень слабый сигнал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0009",
+            "en": "Did something happen to my walkie?",
+            "ru_native": "У меня что-то с рацией?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0010",
+            "en": "This… is going to be okay.",
+            "ru_native": "Все... все будет в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… усе буде добре."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0011",
+            "en": "The forest is the town of trees—",
+            "ru_native": "Лес для деревьев – это дом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ліс — це для дерев місто,"
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0012",
+            "en": "—where they live quite at ease—",
+            "ru_native": "Живут они спокойно в нем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де живуть спокійно вони,"
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0013",
+            "en": "—with their neighbors at their side—",
+            "ru_native": "Соседями окружены,",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зі своїми сусідами тісно,"
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0014",
+            "en": "—just as we in—",
+            "ru_native": "Как в городах...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0015",
+            "en": "Ugh, is that Evelyn? She’s barely coming through…",
+            "ru_native": "Это Эвелин? Очень слабый сигнал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0016",
+            "en": "Did something happen to my walkie?",
+            "ru_native": "У меня что-то с рацией?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0017",
+            "en": "[sigh] Just as we in cities wide.",
+            "ru_native": "Как в городах живем и мы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як у містах живемо й ми."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0018",
+            "en": "It’s just… the woods. Relax.",
+            "ru_native": "Это просто... лес. Расслабься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0019",
+            "en": "[to herself] Wait, what… happened?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Подожди, что... случилось?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Чекай, що… сталося?"
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0020",
+            "en": "I feel like… whatever that was… stopped because of that machine? Or… [sigh] I don’t know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне кажется, что... что бы это ни было... остановилось из-за этой машины? Или... [вздох] я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, що… що б це не було…<br>воно зупинилося через ту машину? Або… [зітхає] Я не знаю."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0021",
+            "en": "God, I hope Jacob’s okay. [sigh] Maybe he went back to his truck.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Боже, надеюсь, с Джейкобом всё в порядке. [Может быть, он вернулся к своему грузовику.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, сподіваюся, що з Джейкобом усе гаразд.<br>[зітхає] Можливо, він повернувся до своєї вантажівки."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0022",
+            "en": "I… think I fixed the – the loop, I guess.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... думаю, я починил - петлю, наверное.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… гадаю, я виправила ту… петлю, здається."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0023",
+            "en": "[sigh] Man, I don’t know what the Hell is going on. Maybe – maybe Jacob does, or…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Блин, я не знаю, что, черт возьми, происходит. Может быть - может быть, Джейкоб знает, или...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Дідько, я не знаю, що в біса відбувається.<br>Можливо… можливо, Джейкоб знає, або…"
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0024",
+            "en": "I don’t know – I should find him, regardless. Maybe he’s back at his truck.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не знаю - я должен найти его, несмотря ни на что. Может быть, он вернулся к своему грузовику.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, потрібно знайти його, незважаючи ні на що.<br>Можливо, він повернувся до своєї вантажівки."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0025",
+            "en": "Maybe he’s back at his truck? [sigh] I gotta find him.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, он вернулся к своему грузовику? [вздох] Я должен найти его.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, він повернувся до своєї вантажівки? [зітхає] Я мушу його знайти."
+        },
+        {
+            "tag": "A1S7.WHEAMI_RILEY_0026",
+            "en": "Just as we in cities wide.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так же, как и мы в городах в целом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як у містах живемо й ми."
+        }
+    ]
+}

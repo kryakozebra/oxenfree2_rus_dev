@@ -1,0 +1,339 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.DADAPS",
+    "entries": [
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0000_OPTION_0000",
+            "en": "Why?",
+            "ru_native": "Зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому?"
+        },
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0000_OPTION_0001",
+            "en": "So?",
+            "ru_native": "И?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що з того?"
+        },
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0001_OPTION_0000",
+            "en": "What does that mean?",
+            "ru_native": "Что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це означає?"
+        },
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0001_OPTION_0001",
+            "en": "How?",
+            "ru_native": "Как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як?"
+        },
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0002_OPTION_0000",
+            "en": "Like what else?",
+            "ru_native": "А кому еще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кому ще?"
+        },
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0002_OPTION_0001",
+            "en": "Like Mom?",
+            "ru_native": "Как маме?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мамі?"
+        },
+        {
+            "tag": "A2C6.DADAPS_CHOICE_0002_OPTION_0002",
+            "en": "Okay, whatever.",
+            "ru_native": "Как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, байдуже."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0000",
+            "en": "Okay. Good. Now… keep this penny.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Хорошо. А теперь... сохрани этот пенни.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0001",
+            "en": "And the next time you get mad, I want you to squeeze that instead.",
+            "ru_native": "",
+            "ru_machine": "DEEPL И в следующий раз, когда ты будешь злиться, я хочу, чтобы вместо этого ты сжал это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0002",
+            "en": "When I install electricity in someone’s home, I bury a really long uh—let’s call it a stick—",
+            "ru_native": "Когда мы проводим в домах электричество, я вкапываю очень длинный... в общем, палку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли я проводжу електрику в чиємусь будинку, я закопую довгу… скажімо так, палку…"
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0003",
+            "en": "—under the ground. This stick is made of copper. Like that penny. We call it grounding.",
+            "ru_native": "Глубоко в землю. Палка сделана из меди, совсем как монетка. Это «заземление».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…під землею. Ця палка — з міді. Як і монетка. Це називається заземлення."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0004",
+            "en": "Very important part of the job.",
+            "ru_native": "Очень важная часть работы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже важлива частина роботи."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0005",
+            "en": "Maybe the most.",
+            "ru_native": "Если не самая важная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, найважливіша."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0006",
+            "en": "Well, electricity is uh… is a lot like you actually. It’s always mad.",
+            "ru_native": "Электричество, оно... во многом похоже на тебя. Всегда злится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Електрика… така як ти. Завжди сердита."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0007",
+            "en": "There’s a point coming, don’t worry.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скоро будет точка, не волнуйся.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0008",
+            "en": "Cause electricity is a lot like you, Ryebread. It’s always mad.",
+            "ru_native": "Электричество во многом похоже на тебя, Райка. Всегда злится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Електрика така як ти, Райчику-зайчику. Завжди сердита."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0009",
+            "en": "And… being mad is what lets electricity do its job.",
+            "ru_native": "Злость помогает электричеству выполнять свою работу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А сердитість допомагає електриці діяти ефективно."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0010",
+            "en": "But sometimes it can be too much, and that’s when people get hurt.",
+            "ru_native": "Но порой ее слишком много, и тогда могут пострадать люди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іноді надто сильно, від цього люди отримують травми."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0011",
+            "en": "So the next time you get mad… put it into this penny.",
+            "ru_native": "Так что в следующий раз... передай злость монетке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0012",
+            "en": "All your anger -- your frustration…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Весь твой гнев - твоя неудовлетворенность...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0013",
+            "en": "If you’re disappointed…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Если ты разочарован...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0014",
+            "en": "I’m trying to explain -- the -- electricity is like… anger.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я пытаюсь объяснить... электричество - это как... гнев.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0015",
+            "en": "So… when you’re angry, just focus on the penny. And just… let it go.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Поэтому... когда ты злишься, просто сосредоточься на копейке. И просто... отпусти его.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0016",
+            "en": "Just focus on the penny. And just… let it go.",
+            "ru_native": "Сконцентрируйся на монетке. И... отпусти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередься на монетці. І відпусти…."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0017",
+            "en": "Just let go of being mad.",
+            "ru_native": "Отпусти свою злость.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відпусти свою сердитість."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0018",
+            "en": "Cause… sometimes… electricity just needs to go somewhere.",
+            "ru_native": "Потому что порой... электричеству нужно куда-то уйти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже… іноді… електриці потрібно кудись виходити."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0019",
+            "en": "Sometimes, you know… sometimes a lot of things do.",
+            "ru_native": "И это нужно не только электричеству.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іноді, ну знаєш… не лише електриці."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0020",
+            "en": "Just—just—just give me a second here, okay? I’m trying to do something.",
+            "ru_native": "Просто... просто... дай мне секунду, ладно? Я пытаюсь кое-что сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто... Дай мені секунду, добре? Я намагаюсь дещо сказати."
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0021",
+            "en": "I’m—is this making sense?",
+            "ru_native": "Я... это понятно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це зрозуміло?"
+        },
+        {
+            "tag": "A2C6.DADAPS_DAD_0022",
+            "en": "So the next time you get mad… put it into that penny.",
+            "ru_native": "Так что в следующий раз... передай злость монетке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отож наступного разу, коли сердитимешся, вклади свої почуття в монетку."
+        },
+        {
+            "tag": "A2C6.DADAPS_RILEY_0000",
+            "en": "Why do you do that?",
+            "ru_native": "Зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіщо?"
+        },
+        {
+            "tag": "A2C6.DADAPS_RILEY_0001",
+            "en": "Uh huh. So?",
+            "ru_native": "М-хм. И?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. І що?"
+        },
+        {
+            "tag": "A2C6.DADAPS_RILEY_0002",
+            "en": "Put it in the penny? What does that mean?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Поставить в копеечку? Что это значит?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.DADAPS_RILEY_0003",
+            "en": "And do… wait. What? How does this work?",
+            "ru_native": "",
+            "ru_machine": "DEEPL И сделай... подожди. Что? Как это работает?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "DOCK.TICKET",
+    "entries": [
+        {
+            "tag": "DOCK.TICKET_EVELYN_0000",
+            "en": "The, uh, the Edwards Island one? I’ve never done the tour, but always wanted to.",
+            "ru_native": "До острова Эдвардса? Я так и не побывала там, хотя всегда хотела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Острів Едвардса? Ніколи там не була, але завжди хотіла."
+        },
+        {
+            "tag": "DOCK.TICKET_JACOB_0000",
+            "en": "Less than you would think…",
+            "ru_native": "Меньше, чем ты думаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Менше ніж ти думаєш…"
+        },
+        {
+            "tag": "DOCK.TICKET_LESLIE_0000",
+            "en": "Uh, yeah, sure. Unless you’re joking.",
+            "ru_native": "Да, конечно. Если ты это серьезно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, звичайно. Ти жартуєш?"
+        },
+        {
+            "tag": "DOCK.TICKET_RILEY_0000",
+            "en": "Do—sorry, but if I finish up early can I cash in my lunch for a boat ride? I’m standing at the kiosk.",
+            "ru_native": "Слушай, если я раньше закончу, можно деньги на<br>обед потратить на лодку? Я как раз у будки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… перепрошую, якщо я раніше закінчу, можна<br>замість обіду покататися на човні? Я стою біля кіоску."
+        },
+        {
+            "tag": "DOCK.TICKET_RILEY_0001",
+            "en": "“Tickets for the Ferry to Edwards Island. Children under seven must be accompanied by an adult.”",
+            "ru_native": "«Билеты на паром до острова Эдвардса. Детей<br>младше семи лет должен сопровождать взрослый».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Квитки на пором до острова Едвардса.<br>Діти до семи років тільки в супроводі дорослих»."
+        },
+        {
+            "tag": "DOCK.TICKET_RILEY_0002",
+            "en": "I wonder how many lonely eight-year olds want to spend their weekends touring bird colonies…",
+            "ru_native": "Сколько же одиноких восьмилеток хотят провести выходные за наблюдением за птицами?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я замислилася, скільки ж одиноких восьмирічних стариганів<br>хотіли би провести вихідні серед пташиних колоній…"
+        }
+    ]
+}

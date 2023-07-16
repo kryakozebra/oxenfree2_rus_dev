@@ -1,0 +1,186 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.STICLI",
+    "entries": [
+        {
+            "tag": "A1PO.STICLI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.STICLI_CHOICE_0000_OPTION_0000",
+            "en": "I just wanted to!",
+            "ru_native": "Не удержалась!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто так хотілося!"
+        },
+        {
+            "tag": "A1PO.STICLI_CHOICE_0000_OPTION_0001",
+            "en": "This is quicker!",
+            "ru_native": "Так быстрее!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так швидше!"
+        },
+        {
+            "tag": "A1PO.STICLI_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.STICLI_CHOICE_0001_OPTION_0000",
+            "en": "Jacob!",
+            "ru_native": "Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе!"
+        },
+        {
+            "tag": "A1PO.STICLI_CHOICE_0001_OPTION_0001",
+            "en": "Are you okay!",
+            "ru_native": "Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A1PO.STICLI_CHOICE_0001_OPTION_0002",
+            "en": "Come back!",
+            "ru_native": "Вернись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повернися!"
+        },
+        {
+            "tag": "A1PO.STICLI_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.STICLI_CHOICE_0002_OPTION_0000",
+            "en": "Crap.",
+            "ru_native": "Дерьмо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт."
+        },
+        {
+            "tag": "A1PO.STICLI_CHOICE_0002_OPTION_0001",
+            "en": "Jacob, seriously!",
+            "ru_native": "Хорош уже!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно, Джейкобе!"
+        },
+        {
+            "tag": "A1PO.STICLI_JACOB_0000",
+            "en": "God, seriously!? Okay, I’ll—I’ll just meet you there up and around!",
+            "ru_native": "Блин, серьезно?! Ладно, встретимся там!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, серйозно?! Гаразд, зустрінемося на місці!"
+        },
+        {
+            "tag": "A1PO.STICLI_JACOB_0001",
+            "en": "That’s—okay, I guess—I just didn’t think that would be a priority right now!",
+            "ru_native": "Да ладно, не страшно... Я просто думал, что сейчас есть вещи поважнее!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Облиш. Гадаю, зараз є важливіші речі!"
+        },
+        {
+            "tag": "A1PO.STICLI_JACOB_0002",
+            "en": "I sincerely doubt that, but whatever you say!",
+            "ru_native": "Глубоко сомневаюсь, но как скажешь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я щиро сумніваюся, але як скажеш!"
+        },
+        {
+            "tag": "A1PO.STICLI_RILEY_0000",
+            "en": "I’m sorry, I just wanted to! I don’t get climbing surfaces like this in the city!",
+            "ru_native": "Прости, не удержалась! В городе таких поверхностей не найти!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, так хотілося! У місті на таких поверхнях не полазити!"
+        },
+        {
+            "tag": "A1PO.STICLI_RILEY_0001",
+            "en": "Believe me, Jacob, this is quicker for me!",
+            "ru_native": "Поверь, Джейкоб, мне так быстрее!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повір, Джейкобе, мені так швидше!"
+        },
+        {
+            "tag": "A1PO.STICLI_RILEY_0002",
+            "en": "[calling out] Jacob! Are you here?!",
+            "ru_native": "Джейкоб! Ты здесь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[кличе] Джейкобе! Ти мене чуєш?!"
+        },
+        {
+            "tag": "A1PO.STICLI_RILEY_0003",
+            "en": "[calling out] Hey! Are you okay! Jacob!",
+            "ru_native": "Эй! Ты как? Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[кличе] Агов! Усе гаразд? Джейкобе!"
+        },
+        {
+            "tag": "A1PO.STICLI_RILEY_0004",
+            "en": "[calling out] Come back! Jacob! Don't run off!",
+            "ru_native": "Вернись! Джейкоб! Не убегай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[кличе] Повернися! Джейкобе! Не тікай!"
+        },
+        {
+            "tag": "A1PO.STICLI_RILEY_0005",
+            "en": "[to herself] Well... [sighs] crap.",
+            "ru_native": "Вот... дерьмо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[говорить до себе] От же ж… [зітхає] чорт."
+        },
+        {
+            "tag": "A1PO.STICLI_RILEY_0006",
+            "en": "[calling out] Jacob! Seriously, if you're out there, come back!",
+            "ru_native": "Джейкоб! Хорош! Если ты там, возвращайся!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[кличе] Джейкобе! Серйозно, якщо ти мене чуєш, повернися!"
+        }
+    ]
+}

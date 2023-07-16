@@ -1,0 +1,321 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.HANKWT",
+    "entries": [
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0000_OPTION_0000",
+            "en": "Hank? Jacob disappeared.",
+            "ru_native": "Хэнк? Джейкоб исчез.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Джейкоб зник."
+        },
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0001_OPTION_0000",
+            "en": "Saw him.",
+            "ru_native": "Видела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бачила."
+        },
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0001_OPTION_0001",
+            "en": "I didn’t just lose him!",
+            "ru_native": "Я его не теряла!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я його не загубила!"
+        },
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0002_OPTION_0000",
+            "en": "I really don’t care.",
+            "ru_native": "Да мне по фиг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені начхати."
+        },
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0002_OPTION_0001",
+            "en": "You come out here then!",
+            "ru_native": "Тогда сам иди сюда!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді сам іди сюди!"
+        },
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.HANKWT_CHOICE_0003_OPTION_0000",
+            "en": "Hank, you there?",
+            "ru_native": "Хэнк, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти там?"
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0000",
+            "en": "[WT] You turned around and he was gone or you saw him disappear?",
+            "ru_native": "Ты видела, как он исчез, или ты оглянулась, а его уже нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти бачила, як він зник, чи ти озирнулася, а його вже немає?"
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0001",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0002",
+            "en": "[WT] Hey, I don’t know what you’re doing out there.",
+            "ru_native": "Эй, я же не знаю, что вы там делаете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, я ж не знаю, чим ви там займаєтеся."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0003",
+            "en": "[WT] This is like the Judge Joe Crater.",
+            "ru_native": "Это как судья Джо Кратер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це як суддя Джо Кратер."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0004",
+            "en": "[WT] Ate dinner, August 6, 1930, and was never seen again.",
+            "ru_native": "Поужинал 6 августа 1930 года, и с тех пор его никто не видел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повечеряв 6 серпня 1930 року, і з тих пір його ніхто не бачив."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0005",
+            "en": "[WT] The Roanoke Colony. Jane Spangler.",
+            "ru_native": "Колония Роанок. Джейн Спенглер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Колонія Роанок. Джин Спенглер."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0006",
+            "en": "[WT] You’re… being a part of some really incredible events tonight, Riley.",
+            "ru_native": "Ты... этой ночью с тобой происходят удивительные вещи, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… цього вечора з тобою відбуваються неймовірні речі, Райлі."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0007",
+            "en": "[WT] I’m sure they’ve been disorienting.",
+            "ru_native": "Конечно, они сбивают с толку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно, вони збивають з пантелику."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0008",
+            "en": "[WT] But this is bleeding edge stuff.",
+            "ru_native": "Но это величайший прорыв.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це неймовірний прорив."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0009",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0010",
+            "en": "[WT] Yeah, no, that makes sense.",
+            "ru_native": "Да нет, логично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ні, логічно ж."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0011",
+            "en": "[WT] Not that—[cough]— I can’t understand getting a little tired of it all, you know.",
+            "ru_native": "Да нет... Я понимаю, ты слегка устала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ні… [кашляє] Я розумію, що ти трохи втомилася."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0012",
+            "en": "[WT] Call me if you want anything else, later.",
+            "ru_native": "Если что-то будет нужно, сообщи, попозже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо щось буде потрібно, звертайся."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0013",
+            "en": "[WT] Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A2W3.HANKWT_HANK_0014",
+            "en": "[WT] No, can’t talk right now. Got stuff going on. Try later. Over and out.",
+            "ru_native": "Нет, сейчас не могу говорить. Занят. Потом. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, зараз не можу розмовляти. Зайнятий. Потім. Кінець зв’язку."
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0000",
+            "en": "Hank? Are you there? Jacob—my, my-my guy, he just kinda vanished?",
+            "ru_native": "Хэнк? Ты тут? Джейкоб... мой, эм... приятель, он типа испарился?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти тут? Джейкоб… мій, гм… товариш, він ніби розчинився у повітрі?"
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0001",
+            "en": "And I’m starting to… you know… breathe a little hard. So.",
+            "ru_native": "Мне становится… ну... тяжелее дышать. Так что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені стає… знаєш… важко дихати. Тож."
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0002",
+            "en": "Any, uh, thoughts, here?",
+            "ru_native": "Есть идеи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є, гм, якісь ідеї?"
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0003",
+            "en": "Uh, saw him, Hank. Over.",
+            "ru_native": "Эм, я видела, Хэнк. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, я бачила, Хенку. Прийом."
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0004",
+            "en": "Okay, Jesus, Hank, I’m not a complete idiot, I didn’t let go of his hand in a mall.",
+            "ru_native": "Слушай, Хэнк, я же не полная дура, как будто я в магазине его потеряла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Хенку, я ж не дурепа. Я ж його не в магазині загубила."
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0005",
+            "en": "Yeah, Hank, I’m thrilled to be out here with glow in the dark creatures hanging on my every action.",
+            "ru_native": "Да, Хэнк, светящиеся в темноте существа, следящие<br>за каждым твоим шагом, – это просто праздник.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, Хенку, мені кортить потусуватися тут зі створіннями,<br>що світяться в темряві і стежать за мною."
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0006",
+            "en": "It’s not exactly Christmas out here. Over.",
+            "ru_native": "Тут тебе не Рождество. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш, тут трошки не Різдво. Прийом."
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0007",
+            "en": "You come out here, then, if you think it’s so thrilling.",
+            "ru_native": "Тогда сам иди сюда, если думаешь, что тут так круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді сам іди сюди, якщо думаєш, що тут так круто."
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0008",
+            "en": "I love being out here with glow in the dark creatures hanging on my every action. Over.",
+            "ru_native": "Да, светящиеся в темноте существа, следящие за<br>каждым твоим шагом – это просто класс. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я з нетерпінням чекаю потусуватися тут зі створіннями,<br>що світяться в темряві і стежать за мною. Прийом."
+        },
+        {
+            "tag": "A2W3.HANKWT_RILEY_0009",
+            "en": "Hank! Hey, you there, pal? Over.",
+            "ru_native": "Хэнк? Дружище, ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Друже, ти там? Прийом."
+        }
+    ]
+}

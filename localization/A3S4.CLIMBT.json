@@ -1,0 +1,348 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S4.CLIMBT",
+    "entries": [
+        {
+            "tag": "A3S4.CLIMBT_ALEX_0000",
+            "en": "We’re running out of time, kids!",
+            "ru_native": "Ребята, у нас мало времени!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Друзі, у нас обмаль часу!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_ALEX_0001",
+            "en": "Ugh. We’re running out of time!",
+            "ru_native": "У нас мало времени!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас обмаль часу!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_ALEX_0002",
+            "en": "C’mon!",
+            "ru_native": "Ну же!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_ALEX_0003",
+            "en": "We have to hurry!",
+            "ru_native": "Нужно спешить!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам слід спішити!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_ALEX_0004",
+            "en": "Yeah, who would have thought a massive space-time portal would cause so much property damage?",
+            "ru_native": "Да, кто бы подумал, что огромный портал сквозь<br>время и пространство нанесет такой ущерб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, хто б міг подумати, що величезний портал<br>через час і простір може спричинити таку шкоду."
+        },
+        {
+            "tag": "A3S4.CLIMBT_ALEX_0005",
+            "en": "I think she’s in the middle of something, Riley! Let’s just get to her!",
+            "ru_native": "Думаю, она сейчас очень занята, Райли! Идем к ней!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, вона чимось зайнята, Райлі! Ходімо до неї!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_ALEX_0006",
+            "en": "Short answer, no, I can’t, Riley, you’re asking me to drink a particular cup of water from the ocean.",
+            "ru_native": "Если кратко, то нет, Райли. Ты просишь меня найти конкретную каплю в море.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо коротко, Райлі, то ні. Ти просиш мене знайти голку в стогові сіна."
+        },
+        {
+            "tag": "A3S4.CLIMBT_ALEX_0007",
+            "en": "It’s a lot easier when all matter isn’t breaking down around us.",
+            "ru_native": "Это гораздо проще, когда материя вокруг не разваливается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це набагато простіше, коли матерія навколо не розвалюється."
+        },
+        {
+            "tag": "A3S4.CLIMBT_ALEX_0008",
+            "en": "Olivia's on the roof!",
+            "ru_native": "Оливия на крыше!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія на даху!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.CLIMBT_CHOICE_0000_OPTION_0000",
+            "en": "I promise.",
+            "ru_native": "Обещаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Присягаюся."
+        },
+        {
+            "tag": "A3S4.CLIMBT_CHOICE_0000_OPTION_0001",
+            "en": "You’ll be fine.",
+            "ru_native": "Ты выживешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде гаразд."
+        },
+        {
+            "tag": "A3S4.CLIMBT_CHOICE_0000_OPTION_0002",
+            "en": "I’ll find her a good home.",
+            "ru_native": "Я найду ей хороший дом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знайду їй гарний дім."
+        },
+        {
+            "tag": "A3S4.CLIMBT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.CLIMBT_CHOICE_0001_OPTION_0000",
+            "en": "This is nuts!",
+            "ru_native": "Это безумие!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це божевілля!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_CHOICE_0001_OPTION_0001",
+            "en": "Olivia, stop!",
+            "ru_native": "Оливия, остановись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, припини!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0000",
+            "en": "Whoa! Watch it!",
+            "ru_native": "Осторожно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого! Обережно!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0001",
+            "en": "Oh man. Christ. Thank God I didn’t bring Athena.",
+            "ru_native": "О боже. Как хорошо, что я не взял Будду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи. Дякувати Богу, що я не взяв Афіну."
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0002",
+            "en": "Actually, Riley, now that I think of it—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вообще-то, Райли, теперь, когда я думаю об этом...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0003",
+            "en": "If I fall to my death or something else happens can you, uh, watch her for me?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Если я упаду насмерть или случится что-то ещё, ты сможешь присмотреть за ней?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0004",
+            "en": "She’s the best dog.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она - самая лучшая собака.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0005",
+            "en": "Seriously.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Серьезно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0006",
+            "en": "Her—like—uh vet paperwork and that kinda stuff should be somewhere in my kitchen.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Её ветеринарные документы и прочая ерунда должны быть где-то на моей кухне.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0007",
+            "en": "And her leash. And her stuffed monkey. And— [stops himself]",
+            "ru_native": "",
+            "ru_machine": "DEEPL И её поводок. И ее чучело обезьяны. И... [останавливает себя].",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0008",
+            "en": "I’m sorry, I’m panicking, you—thank you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прости, я в панике, ты-спасибо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0009",
+            "en": "Uh—okay. Yeah. Sure.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Да. Конечно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0010",
+            "en": "But if— [sighs, regains composure] Yeah. Of course",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но если... [вздыхает, возвращает себе самообладание] Да. Конечно",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0011",
+            "en": "Actually, that’s a big ask but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL На самом деле, это большая просьба, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0012",
+            "en": "Please think about it. At least—find her a home? I’ll shut up.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пожалуйста, подумай об этом. Хотя бы - найди ей дом? Я замолчу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_JACOB_0013",
+            "en": "If I fall to my death, please adopt her!",
+            "ru_native": "Если я свалюсь и умру, забери ее себе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо я звалюся, забери її!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_RILEY_0000",
+            "en": "Of course. Don’t think twice.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Конечно же. Не надо думать дважды.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_RILEY_0001",
+            "en": "I’m not making that promise because you’re gonna be fine.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не даю такого обещания, потому что у тебя все будет хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_RILEY_0002",
+            "en": "Okay? Perfectly fine. You’re gonna scoop her poop for years to come.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо? Совершенно нормально. Ты будешь вычерпывать ее какашки еще долгие годы.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_RILEY_0003",
+            "en": "Well, I’m not exactly uh—looking to become a pet owner but I’ll find her a good home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, я не очень хочу становиться владельцем домашнего животного, но я найду ей хороший дом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.CLIMBT_RILEY_0004",
+            "en": "Uh, Alex, this is getting kinda crazy out here!",
+            "ru_native": "Алекс, тут происходит что-то невероятное!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс, тут відбувається щось неймовірне!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_RILEY_0005",
+            "en": "Olivia! If you can hear me, you have to stop! You don’t know what you’re doing!",
+            "ru_native": "Оливия! Если ты меня слышишь, остановись! Ты не понимаешь, что делаешь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє! Якщо ти мене чуєш, припини! Ти не знаєш, що ти робиш!"
+        },
+        {
+            "tag": "A3S4.CLIMBT_RILEY_0006",
+            "en": "Jesus, Alex, can’t you just, y'know, stop her? Possess her or something?",
+            "ru_native": "Боже, Алекс, ты что, не можешь ее остановить? Вселиться в нее, например?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, Алекс, ти що, не можеш її зупинити? Вселися в неї чи зроби ще щось."
+        },
+        {
+            "tag": "A3S4.CLIMBT_RILEY_0007",
+            "en": "I’m a little unclear on the rules, here…",
+            "ru_native": "Я не очень понимаю правила...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені трохи незрозумілі правила."
+        }
+    ]
+}

@@ -1,0 +1,564 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.REATRA",
+    "entries": [
+        {
+            "tag": "A1PO.REATRA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0000_OPTION_0000",
+            "en": "How?!",
+            "ru_native": "Как?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як?!"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0000_OPTION_0002",
+            "en": "I don’t wanna get zapped!",
+            "ru_native": "Меня током шарахнет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хочу отримати удар струмом!"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0001_OPTION_0000",
+            "en": "It’s like a portal…",
+            "ru_native": "Похоже на портал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це як портал…"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0001_OPTION_0001",
+            "en": "What’s the transmitter doing?",
+            "ru_native": "Что делает передатчик?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для чого цей радіопередавач?"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0001_OPTION_0002",
+            "en": "I don’t know or care.",
+            "ru_native": "Не знаю и знать не хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю і знати не хочу."
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0002_OPTION_0000",
+            "en": "It looks like colored lightning…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это похоже на цветные молнии...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це схоже на кольорову блискавку…"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0002_OPTION_0001",
+            "en": "It’s a hole in the sky?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это дыра в небе?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це діра в небі?"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0002_OPTION_0002",
+            "en": "I’m just glad it’s far away.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто рад, что это далеко.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, що воно далеко."
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0003_OPTION_0000",
+            "en": "What are you talking about?",
+            "ru_native": "",
+            "ru_machine": "DEEPL О чем ты говоришь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти про що?"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0003_OPTION_0001",
+            "en": "Do you know something?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты что-нибудь знаешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти щось знаєш?"
+        },
+        {
+            "tag": "A1PO.REATRA_CHOICE_0003_OPTION_0002",
+            "en": "Who?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кто?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто?"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0000",
+            "en": "Crap, okay—this—this looks very volatile.",
+            "ru_native": "Вот черт... Выглядит очень взрывоопасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт. Це... це виглядає дуже вибухонебезпечно."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0001",
+            "en": "It’s affecting something over Edwards Island—you see that? What the hell is that?",
+            "ru_native": "Он связан со штукой над островом Эдвардса... Видишь? Что это за хрень?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він якось впливає на... щось над островом Едвардса. Ти це бачиш? Що то, у біса, таке?"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0002",
+            "en": "Just -- just turn it off --",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто... просто выключи его...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0003",
+            "en": "Whatever you did to turn it on—",
+            "ru_native": "Ты же как-то его включила...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти робив, щоб увімкнути…"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0004",
+            "en": "Is there like a—is there a button somewhere or—?",
+            "ru_native": "Там есть что-то вроде кнопки?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи є якась кнопка або…?"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0005",
+            "en": "Or like a knob?",
+            "ru_native": "Или ручки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або регулятор?"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0006",
+            "en": "I’m sure it’s easy if you check the—the little panel on top, there?",
+            "ru_native": "Уверен, это легко, просто проверь панель сверху, вон там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, це просто. Потрібно перевірити… невелику панель нагорі, так?"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0007",
+            "en": "I -- I don’t know, but my guess is it’s not spectacular, whatever’s happening --",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... я не знаю, но я предполагаю, что это не впечатляет, что бы ни происходило...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0008",
+            "en": "-- so let’s just shut the whole thing down and reassess later!",
+            "ru_native": "",
+            "ru_machine": "DEEPL -- так что давай просто закроем все это дело и переосмыслим позже!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0009",
+            "en": "Just, you know—just—just do it quick. Like picking something out of the socket with a fork—",
+            "ru_native": "Просто... Ну... Быстрым движением. Будто на вилку что-то насаживаешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти просто… роби це швидше. Ніби виймаєш щось із розетки виделкою…"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0010",
+            "en": "In and out—real fast.",
+            "ru_native": "Тык-пык – и готово.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Туди й назад. Швиденько."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0011",
+            "en": "Evelyn said we had to do this, Riley, and I for one believe her.",
+            "ru_native": "Эвелин сказала, что мы обязаны это сделать, и я ей верю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін сказала, що ми маємо зробити це, Райлі, і я їй вірю."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0012",
+            "en": "I mean, look at it!",
+            "ru_native": "Сама посмотри!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поглянь лиш на це!"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0013",
+            "en": "Riley, are we gonna—are you gonna turn it off?",
+            "ru_native": "Райли, мы будем... ты будешь его выключать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, ми… ти збираєшся його вимикати?"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0014",
+            "en": "I don’t want this thing to blow us off the grid when it overloads.",
+            "ru_native": "Не хочу, чтобы эта штука взорвалась и стрела нас с лица земли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хочу, щоби ця штука стерла нас із лиця Землі, коли перевантажиться."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0015",
+            "en": "Riley! C’mon, you know more about this thing than I do. Please, just turn it off!",
+            "ru_native": "Райли! Ты ведь знаешь о нем больше меня. Пожалуйста, выключи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, облиш! Ти знаєш про цю річ більше, ніж я. Будь ласка, вимкни її!"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0016",
+            "en": "I know it’s scary looking but it’ll be over before you know it.",
+            "ru_native": "Выглядит пугающе, но ты и не заметишь, как все закончится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що вона здається страшною. Але ти й оком не моргнеш, як усе скінчиться."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0017",
+            "en": "Oh I see what kind of—okay. I’ve… seen these before. Radio transmitters.",
+            "ru_native": "Ага, понятно, что это за штука. Я... такое раньше видел. Передатчики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, я бачу що за… гаразд. Я вже таке бачила. Радіопередавачі."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0018",
+            "en": "That giant… thing in the sky?",
+            "ru_native": "Та гигантская... штука в небе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та гігантська штука в небі?"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0019",
+            "en": "It’s a huge lightshow.",
+            "ru_native": "Это огромное световое шоу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Величезне шоу зі світловими ефектами."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0020",
+            "en": "Alright, well, we’re here, we should do what your boss or whoever said and turn off the transmitter.",
+            "ru_native": "Ладно, раз уж мы здесь, сделаем то, что велела твоя начальница или кто она там,<br>и выключим передатчик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Добре, ми тут. Ми маємо зробити те,<br>що сказав ваш бос або хто там, і вимкнути радіопередавач."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0021",
+            "en": "Maybe that’ll… fix it…",
+            "ru_native": "Может, это... все исправит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, це все виправить."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0022",
+            "en": "I wouldn’t take too much, uh, comfort in that, Riley.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я бы не стал слишком сильно утешаться этим, Райли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б не надто втішався цим, Райлі."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0023",
+            "en": "Whatever it is – and whatever the transmitter’s doing with it – definitely affected us over here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что бы это ни было - и что бы ни делал с этим передатчик - это определенно повлияло на нас здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що б це не було — і що б не робив із цим радіопередавач —<br>це напевно вплинуло на нас тут."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0024",
+            "en": "I… God, it’s hard to even really see the display…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... Боже, трудно даже толком рассмотреть дисплей...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Господи, важко навіть розглянути дисплей…"
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0025",
+            "en": "There’s a lot of measurements here, some of them are… huh.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Здесь много измерений, некоторые из них... хм.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут багато вимірів, деякі з них… гм."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0026",
+            "en": "Riley, this is going to sound – I don’t know, but… this is all… [resets] I’ve heard about this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли, это прозвучит - я не знаю, но... это всё... [сбрасывает] Я слышал об этом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, це прозвучить — я не знаю, але… це все… [пригадує] я чув про це."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0027",
+            "en": "Someone told me this was possible… years ago.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кто-то сказал мне, что это возможно... много лет назад.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дехто сказав мені, що це можливо… багато років тому."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0028",
+            "en": "She – no one really believed her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она - никто ей по-настоящему не верил.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона — ніхто не вірив їй."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0029",
+            "en": "But… she knew.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но... она знала.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… вона знала."
+        },
+        {
+            "tag": "A1PO.REATRA_JACOB_0030",
+            "en": "Even thirty – forty years ago, she knew.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Даже тридцать - сорок лет назад она знала.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть тридцять — сорок років тому, вона знала."
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0000",
+            "en": "Uh, how, exactly? They taught me how to turn it on, not turn it off!",
+            "ru_native": "Как именно? Меня научили его включать, а не выключать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як саме? Мене вчили, як вмикати, а не як вимикати!"
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0001",
+            "en": "Uh, okay, but first, what is that thing over Edwards Island?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, хорошо, но сначала скажи, что это за штука над островом Эдвардс?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0002",
+            "en": "It’s -- is the transmitter connecting to it, or… broadcasting or something?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... передатчик подключается к нему, или... вещает, или что-то в этом роде?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0003",
+            "en": "Hey, man, I don’t wanna get electrocuted, here.",
+            "ru_native": "Слушай, я не хочу, чтобы меня током шарахнуло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, я не хочу, щоби мене довбонуло струмом."
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0004",
+            "en": "How do I even—it’s not like I have safety gloves and plastic boots.",
+            "ru_native": "Что ты предлагаешь? У меня ни перчаток, ни резиновых сапог.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як же мені… У мене ж ані захисних рукавичок, ані гумових чобіт."
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0005",
+            "en": "It’s like a… like a portal… or something? Or the world’s craziest version of… light phenomena?",
+            "ru_native": "Что-то вроде... портала... или типа того? Или самая безумная в мире... игра света?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ніби… портал… чи щось таке? Або найдивовижніший у світі світловий феномен?"
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0006",
+            "en": "I’ve seen pictures of Aurora Borealis but this is like the souped-up version.",
+            "ru_native": "Я видела фото Северного сияния, но это какая-то прокачанная версия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачила зображення північного сяйва, але це — набагато потужніше."
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0007",
+            "en": "All I know is that it showed up and when it showed up, everything… went real weird and real scary real quick.",
+            "ru_native": "Знаю только, что эта штука появилась, и все...<br>очень быстро стало очень странным и очень страшным.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лише знаю, що коли воно з’явилося, усе… дуже швидко<br>стало насправді дивним і насправді моторошним."
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0008",
+            "en": "Is the… transmitter really affecting it? It’s beaming some kind of… energy to it, but…",
+            "ru_native": "Так... передатчик правда на нее действует? Из него вырывается луч какой-то энергии...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи передавач… насправді впливає на це явище?<br>Він… ніби випромінює енергію, але…"
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0009",
+            "en": "But… why? How? Radio frequencies shouldn’t be, like, visible.",
+            "ru_native": "Но... откуда? Как? Радиочастоты не должны быть видны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… чому? Як? Радіочастоти не можна побачити."
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0010",
+            "en": "Yeah, that thing. I have no idea what it is, and… as long as it stays over there, I don’t care what it is.",
+            "ru_native": "Ага, та штука. Понятия не имею, что это такое, и...<br>пока оно остается там, мне все равно, что это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, та штука. Я гадки не маю, що то…<br>але оскільки воно залишається там, то мені байдуже, що воно таке."
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0011",
+            "en": "It’s like lightning… but different… colors?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это похоже на молнию... но разных... цветов?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це як блискавка… але… різних кольорів?"
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0012",
+            "en": "It looks like – like a giant hole in the sky? How is that possible?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это выглядит как - как гигантская дыра в небе? Как такое возможно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на — на гігантську діру в небі? Як таке можливо?"
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0013",
+            "en": "Jacob, I have zero guesses as to what that horrifying thing floating in the sky is.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб, у меня ноль предположений, что это за ужасающая штука, парящая в небе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, я не розумію, що це за жахлива штука, що ширяє в небі."
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0014",
+            "en": "I’m just… glad it’s over there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто... рад, что все закончилось.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто… рада, що вона далеко."
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0015",
+            "en": "Jacob, what are you talking about?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб, о чем ты говоришь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, ти про що?"
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0016",
+            "en": "Jacob, do you… know something that I don’t, or…?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб, ты... знаешь что-то, чего не знаю я, или...?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, ти знаєш щось, чого я не знаю?"
+        },
+        {
+            "tag": "A1PO.REATRA_RILEY_0017",
+            "en": "Jacob? Who are you talking about?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб? О ком ты говоришь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе? Про кого це ти?"
+        }
+    ]
+}

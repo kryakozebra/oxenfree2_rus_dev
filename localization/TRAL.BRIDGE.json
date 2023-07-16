@@ -1,0 +1,168 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "TRAL.BRIDGE",
+    "entries": [
+        {
+            "tag": "TRAL.BRIDGE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "TRAL.BRIDGE_CHOICE_0000_OPTION_0000",
+            "en": "Huh? Why?",
+            "ru_native": "Что? Зачем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Навіщо?"
+        },
+        {
+            "tag": "TRAL.BRIDGE_CHOICE_0000_OPTION_0001",
+            "en": "Gross, dude.",
+            "ru_native": "Фу, гадость.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Фу, гидота."
+        },
+        {
+            "tag": "TRAL.BRIDGE_CHOICE_0000_OPTION_0002",
+            "en": "[SPIT]",
+            "ru_native": "[Плюнуть]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ПЛЮНУТИ]"
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0000",
+            "en": "Oh—oh, sorry, wait, we have to…",
+            "ru_native": "Ой, прости, постой, нам надо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибач, стривай, нам потрібно…"
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0001",
+            "en": "[spit sound]",
+            "ru_native": "(фыркает)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спльовує]"
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0002",
+            "en": "Ah. Just got it in.",
+            "ru_native": "Так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ах. Щойно згадав…"
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0003",
+            "en": "Whenever you cross a bridge, you have to spit over the side.",
+            "ru_native": "Когда переходишь через мост, надо с него плюнуть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Всякий раз, коли перетинаєш міст, ти повинен плюнути униз."
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0004",
+            "en": "It's good luck.",
+            "ru_native": "На счастье.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це на щастя!"
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0005",
+            "en": "That's, uh… They say you have to give an offering. To, you know… \"Gods.\"",
+            "ru_native": "Говорят, нужно сделать подношение. Ну, «богам».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажуть, треба зробити підношення. Ну, «богам»."
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0006",
+            "en": "It's better with a penny, but they'll accept anything.",
+            "ru_native": "Лучше бросить монетку, но что угодно сгодится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще кинути монетку, але будь-що теж згодиться."
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0007",
+            "en": "Or so they say.",
+            "ru_native": "Как говорится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так кажуть."
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0008",
+            "en": "I know, I know. It's just good luck. An offering to the, uh, the \"Gods.\"",
+            "ru_native": "Знаю-знаю. Это просто на удачу. Подношение, эм, «богам».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, знаю. Це просто на щастя. Підношення, ем, «богам»."
+        },
+        {
+            "tag": "TRAL.BRIDGE_JACOB_0009",
+            "en": "It's better if you toss a penny over, but they'll accept anything.",
+            "ru_native": "Лучше, конечно, бросить монетку, но они все примут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще, звичайно, кинути монетку, але вони й таке приймуть."
+        },
+        {
+            "tag": "TRAL.BRIDGE_RILEY_0000",
+            "en": "Huh? Why would that be?",
+            "ru_native": "Что? С чего вдруг?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га? Чого б це?"
+        },
+        {
+            "tag": "TRAL.BRIDGE_RILEY_0001",
+            "en": "Pretty gross custom, dude.",
+            "ru_native": "Довольно противная примета.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить огидна прикмета."
+        },
+        {
+            "tag": "TRAL.BRIDGE_RILEY_0002",
+            "en": "[spit sound]",
+            "ru_native": "(фыркает)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[кудкудакання]"
+        },
+        {
+            "tag": "TRAL.BRIDGE_RILEY_0003",
+            "en": "Well, there.",
+            "ru_native": "Ну вот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, ось."
+        }
+    ]
+}

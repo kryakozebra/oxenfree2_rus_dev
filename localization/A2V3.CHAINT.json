@@ -1,0 +1,249 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.CHAINT",
+    "entries": [
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0000",
+            "en": "I’m sorry, Olivia, but Riley’s been nicer to me than you have in eight months.",
+            "ru_native": "Прости, Оливия, но Райли была добрее ко мне, чем ты за эти 8 месяцев.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Олівіє, але Райлі була добрішою до мене, ніж ти за ці вісім місяців."
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0001",
+            "en": "And—you’ve—I don’t know, ever since your parents—",
+            "ru_native": "И ты... Не знаю, с тех пор, как твои предки...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А… ти… Не знаю, з того часу, як твої батьки…"
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0002",
+            "en": "No!",
+            "ru_native": "Нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні!"
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0003",
+            "en": "No, Olivia. You need to stop.",
+            "ru_native": "Нет, Оливия. Остановись.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Олівіє. Зупинися."
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0004",
+            "en": "Ow! Fine—fine—Jesus.",
+            "ru_native": "Ай! Ладно, ладно. Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай! Гаразд, гаразд. Боже."
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0005",
+            "en": "No way, lady.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ни в коем случае, леди.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0006",
+            "en": "You’re not getting past me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты не пройдешь мимо меня.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0007",
+            "en": "No chance.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Никаких шансов.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0008",
+            "en": "No! I won’t move!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет! Я не буду двигаться!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0009",
+            "en": "Not gonna happen.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Этого не произойдет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0010",
+            "en": "C’mon, Olivia, this has all gotten a little nuts, don’t you think?!",
+            "ru_native": "Оливия, хватит! Кажется, мы немного перегнули палку, нет?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, досить! Здається, ми трошки вже переборщили, ні?"
+        },
+        {
+            "tag": "A2V3.CHAINT_CHARLIE_0011",
+            "en": "I just—",
+            "ru_native": "Я же...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я…"
+        },
+        {
+            "tag": "A2V3.CHAINT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.CHAINT_CHOICE_0000_OPTION_0000",
+            "en": "Move!",
+            "ru_native": "Отойди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди!"
+        },
+        {
+            "tag": "A2V3.CHAINT_CHOICE_0000_OPTION_0001",
+            "en": "Don’t make me hurt you.",
+            "ru_native": "Я не хочу делать тебе больно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хочу робити тобі боляче."
+        },
+        {
+            "tag": "A2V3.CHAINT_JACOB_0000",
+            "en": "Get out of her damn way, kid!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уйди с ее чертовой дороги, парень!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_JACOB_0001",
+            "en": "Let her get it!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пусть она получит его!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_OLIVIA_0000",
+            "en": "Charlie! Get—can you get out of my way, please.",
+            "ru_native": "Чарли! Убир... Отойди с дороги, пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі! Забир… Відійди з дороги, будь ласка."
+        },
+        {
+            "tag": "A2V3.CHAINT_OLIVIA_0001",
+            "en": "Get out of the way!",
+            "ru_native": "Убирайся с дороги!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди з дороги!"
+        },
+        {
+            "tag": "A2V3.CHAINT_OLIVIA_0002",
+            "en": "I’m gonna chew the tongue out of your God damned head if you don’t move.",
+            "ru_native": "Я вырву язык из твоей тупой башки, если не свалишь по-хорошему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вирву язик із твоєї тупої макітри, якщо ти не звалиш."
+        },
+        {
+            "tag": "A2V3.CHAINT_OLIVIA_0003",
+            "en": "Just—move!",
+            "ru_native": "Отойди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди!"
+        },
+        {
+            "tag": "A2V3.CHAINT_OLIVIA_0004",
+            "en": "Yes, stop her!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, останови ее!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_OLIVIA_0005",
+            "en": "Stay—stay in her way—just a sec—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не мешай ей, не мешай... секундочку...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_OLIVIA_0006",
+            "en": "Move, Charlie! Now.",
+            "ru_native": "Чарли, уйди! Живо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди, Чарлі! Негайно."
+        },
+        {
+            "tag": "A2V3.CHAINT_OLIVIA_0007",
+            "en": "Now!",
+            "ru_native": "Брысь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бігом!"
+        },
+        {
+            "tag": "A2V3.CHAINT_RILEY_0000",
+            "en": "Move, kid! Now!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Двигайся, парень! Сейчас же!",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.CHAINT_RILEY_0001",
+            "en": "Don’t make me do something here, kid. Move.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не заставляй меня что-то делать здесь, парень. Двигайся.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

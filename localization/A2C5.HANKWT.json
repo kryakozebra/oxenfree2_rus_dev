@@ -1,0 +1,177 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C5.HANKWT",
+    "entries": [
+        {
+            "tag": "A2C5.HANKWT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.HANKWT_CHOICE_0000_OPTION_0000",
+            "en": "Hank, are you around?",
+            "ru_native": "Хэнк, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, ти десь поблизу?"
+        },
+        {
+            "tag": "A2C5.HANKWT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.HANKWT_CHOICE_0001_OPTION_0000",
+            "en": "What do you mean?",
+            "ru_native": "О чем ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти маєш на увазі?"
+        },
+        {
+            "tag": "A2C5.HANKWT_CHOICE_0001_OPTION_0001",
+            "en": "Because of ghosts or…?",
+            "ru_native": "Из-за призраков или?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Через привидів, чи…?"
+        },
+        {
+            "tag": "A2C5.HANKWT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.HANKWT_CHOICE_0002_OPTION_0000",
+            "en": "Hank? Can you hear me?",
+            "ru_native": "Хэнк? Меня слышно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти мене чуєш?"
+        },
+        {
+            "tag": "A2C5.HANKWT_CHOICE_0002_OPTION_0001",
+            "en": "I’m losing you! Hank?",
+            "ru_native": "Я тебя теряю! Хэнк?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тебе не чую! Хенку!"
+        },
+        {
+            "tag": "A2C5.HANKWT_HANK_0000",
+            "en": "Hello? Riley? I can barely understand you.",
+            "ru_native": "Да? Райли? Тебя почти не слышно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом? Райлі? Я тебе майже не чую."
+        },
+        {
+            "tag": "A2C5.HANKWT_HANK_0001",
+            "en": "Are you… you’re not deep in the caves, are you?",
+            "ru_native": "Ты часом не глубоко в пещерах?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… ти ж не далеко в печерах?"
+        },
+        {
+            "tag": "A2C5.HANKWT_HANK_0002",
+            "en": "Near the borehole? It’s not particularly safe in those caves, Riley.",
+            "ru_native": "Рядом со скважиной? Не скажу, что там безопасно, Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Біля свердловини? У тих печерах небезпечно, Райлі."
+        },
+        {
+            "tag": "A2C5.HANKWT_HANK_0003",
+            "en": "[static] Ri—[static] Can you—[static] me?",
+            "ru_native": "Рай...Ты...меня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум] Рай… [шум] Ти [шум] мене?"
+        },
+        {
+            "tag": "A2C5.HANKWT_HANK_0004",
+            "en": "[static] Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум] Райлі?"
+        },
+        {
+            "tag": "A2C5.HANKWT_HANK_0005",
+            "en": "[static]—there?",
+            "ru_native": "...там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум] там?"
+        },
+        {
+            "tag": "A2C5.HANKWT_RILEY_0000",
+            "en": "Hank? Come in, Hank. Over.",
+            "ru_native": "Хэнк? Хэнк, ответь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенк? Прийом, Хенку."
+        },
+        {
+            "tag": "A2C5.HANKWT_RILEY_0001",
+            "en": "Uh… what—what do you mean? It’s even less safe than what I’ve been going through so far?",
+            "ru_native": "Постой, о чем ты? Хочешь сказать, тут еще опаснее, чем в других местах?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох… що ти маєш на увазі? Ще небезпечніше за те, через що я вже пройшла?"
+        },
+        {
+            "tag": "A2C5.HANKWT_RILEY_0002",
+            "en": "Uh… because of—because of ghosts… or… or what? Something else?",
+            "ru_native": "Это из-за призраков?.. Или чего-то еще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То… через привидів? Чи що? Є щось іще?"
+        },
+        {
+            "tag": "A2C5.HANKWT_RILEY_0003",
+            "en": "Hank! Can you hear me on—God, this thing. Hank? Are you still there?",
+            "ru_native": "Хэнк! Меня слышно? Долбаная связь. Хэнк? Ты еще там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку! Мене чути? От клята залізяка. Хенку? Ти ще там?"
+        },
+        {
+            "tag": "A2C5.HANKWT_RILEY_0004",
+            "en": "Hank! I’m—I think I’m losing you—crap.",
+            "ru_native": "Хэнк! Кажется, я тебя теряю... черт. Хэнк?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку! Зв'язок кепський… чорт."
+        }
+    ]
+}

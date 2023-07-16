@@ -1,0 +1,861 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S1.VIOAPP",
+    "entries": [
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0000_OPTION_0000",
+            "en": "What do you want?",
+            "ru_native": "Что тебе нужно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого тобі?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0000_OPTION_0001",
+            "en": "Get out of here.",
+            "ru_native": "Уходи отсюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди звідси."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0000_OPTION_0002",
+            "en": "Is everything alright?",
+            "ru_native": "Все нормально?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0001_OPTION_0000",
+            "en": "You should be.",
+            "ru_native": "Правильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так і слід."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0001_OPTION_0001",
+            "en": "Don’t sweat it.",
+            "ru_native": "Не парься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не партеся."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0001_OPTION_0002",
+            "en": "Find new friends.",
+            "ru_native": "Найди новых друзей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайти нових друзів."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0002_OPTION_0000",
+            "en": "You know her?",
+            "ru_native": "Знаете ее?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш її?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0002_OPTION_0001",
+            "en": "Go home.",
+            "ru_native": "Иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди додому."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0003_OPTION_0000",
+            "en": "Thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0003_OPTION_0001",
+            "en": "Seems too obvious...",
+            "ru_native": "Слишком очевидно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається надто очевидним…"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0004_OPTION_0000",
+            "en": "Ugh, annoying.",
+            "ru_native": "Раздражают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дратують."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0004_OPTION_0001",
+            "en": "She’ll figure it out.",
+            "ru_native": "Она переживет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона впорається."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0004_OPTION_0002",
+            "en": "We got a boat to borrow.",
+            "ru_native": "Пора брать лодку в долг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам ще треба позичити човен."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0005_OPTION_0000",
+            "en": "Whatever.",
+            "ru_native": "Проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай, ну тебе."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0005_OPTION_0001",
+            "en": "Go home.",
+            "ru_native": "Иди домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди додому."
+        },
+        {
+            "tag": "A3S1.VIOAPP_CHOICE_0005_OPTION_0002",
+            "en": "It’s okay, Violet.",
+            "ru_native": "Все хорошо, Вайолет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, Вайолет."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0000",
+            "en": "Is that Violet?",
+            "ru_native": "Это Вайолет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Вайолет?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0001",
+            "en": "Look, just get home safely, okay?",
+            "ru_native": "Доберись до дома в целости, хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто дістаньтеся додому неушкодженими, гаразд?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0002",
+            "en": "The bait shop: Eva’s Got Worms. We’re stealing her boat, but it’s got a combination lock on it.",
+            "ru_native": "Магазин «Червячки Евы». Мы хотим украсть ее лодку, но тут замок с кодом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Магазин «Хробачки Єви». Ми крадемо човен, але тут кодовий замок."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0003",
+            "en": "It’s a whole thing, don’t ask questions.",
+            "ru_native": "Не спрашивай, долгая история.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не питайте, довга історія."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0004",
+            "en": "She is. Both those things.",
+            "ru_native": "Оба определения верны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Обидва твердження правильні."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0005",
+            "en": "What does that mean?",
+            "ru_native": "Что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це означає?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0006",
+            "en": "Huh.",
+            "ru_native": "Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0007",
+            "en": "Yeah, maybe…",
+            "ru_native": "Да, возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага… може."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0008",
+            "en": "Kids.",
+            "ru_native": "Дети.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Діти."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0009",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже так?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0010",
+            "en": "Can’t live with ‘em, can’t—",
+            "ru_native": "И жить тяжело, и пристрел...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І з ними тяжко, і без них…"
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0011",
+            "en": "Wait, that’s the other thing.",
+            "ru_native": "Нет, это не то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не те."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0012",
+            "en": "Yeah, well… I’m sure I was annoying, too, back then. Still am. Probably.",
+            "ru_native": "Ну... Уверен, я был таким же. Да и сейчас такой. Наверно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… я впевнений, що я також дратував. І досі дратую. Мабуть."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0013",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага."
+        },
+        {
+            "tag": "A3S1.VIOAPP_JACOB_0014",
+            "en": "C’mon, that number Violet gave us might work, but we’ll still need a key for the boat.",
+            "ru_native": "Число, что подсказала Вайолет, может сработать, но нам все еще нужен ключ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Той номер, який нам дала Вайолет, може підійти, але нам іще потрібен ключ від човна."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0000",
+            "en": "Violet. [sigh] What do you want?",
+            "ru_native": "Вайолет. Чего тебе?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет. [зітхання] Чого тобі?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0001",
+            "en": "Violet, c’mon, just go home, get out of here before things get any worse.",
+            "ru_native": "Вайолет, иди домой. Убирайся, пока ночь не стала еще хуже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, годі, йди додому. Іди, доки все не стало гірше."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0002",
+            "en": "Violet? What is it? Is everything okay?",
+            "ru_native": "Вайолет? Что такое? Все нормально?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет? Що таке? Усе гаразд?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0003",
+            "en": "Yeah, well, you should be. You should be really… really… sorry.",
+            "ru_native": "Правильно. Тебе должно быть очень-очень жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так і слід. Тобі має бути дуже… дуже шкода."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0004",
+            "en": "Look, kid… don’t sweat it, okay.",
+            "ru_native": "Слушай... Не парься, ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, не парся."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0005",
+            "en": "I was young and an idiot, once. We all were.",
+            "ru_native": "Я тоже была молодой и глупой. Все там были.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я також була молодою й дурною. Усі були такими."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0006",
+            "en": "Just… get less dumb as you get less young, okay?",
+            "ru_native": "Постарайся набрать мозгов с возрастом, ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Постарайтеся набратися більше розуму з віком, гаразд?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0007",
+            "en": "Starting tomorrow—if I were you—I’d find some new friends.",
+            "ru_native": "На твоем месте завтра я бы начала искать новых друзей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На вашому місці я вже завтра шукала б нових друзів."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0008",
+            "en": "I don’t know if those are good for your mental health. Or physical health.",
+            "ru_native": "Эти ребята плохо влияют на твое здоровье. Ментальное и физическое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не впевнена, що Олівія добре впливає на ваше психічне здоров’я. Або фізичне."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0009",
+            "en": "You guys friendly?",
+            "ru_native": "Вы дружите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви приятелюєте?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0010",
+            "en": "You really should go home, Violet.",
+            "ru_native": "Вайолет, тебе пора домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі справді час додому, Вайолет."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0011",
+            "en": "That might work, yeah. Thanks.",
+            "ru_native": "Может сработать. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це може спрацювати. Дякую."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0012",
+            "en": "Seems a little obvious, but… sure, we’ll try it out.",
+            "ru_native": "Выглядит слишком очевидно, но мы попробуем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається очевидним, але… гаразд, спробуємо."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0013",
+            "en": "Ugh… pretty annoying.",
+            "ru_native": "Да, раздражают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дратують."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0014",
+            "en": "I do feel sorry for the girl. But… she’ll figure it out. They usually do.",
+            "ru_native": "Жаль мне девчонку. Но... она переживет. Дети обычно такие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені таки шкода дівчинку. Але… вона впорається. Вони такі."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0015",
+            "en": "Whatever. We got a boat to borrow.",
+            "ru_native": "Ладно. Надо лодку в долг брать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже. Нам ще треба позичити човен."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0016",
+            "en": "Whatever, Violet, the night’s over. We all have to wake up tomorrow.",
+            "ru_native": "Проехали, Вайолет. Ночь закончилась. Нам всем утром вставать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як, Вайолет, ніч позаду. Нам усім слід прокидатися завтра."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0017",
+            "en": "Go home, Violet. You’ll see tomorrow. I think we all will. That’s a win for you.",
+            "ru_native": "Вайолет, иди домой. Завтра новый день. Для всех нас. Это уже победа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди додому, Вайолет. Побачиш завтра. Ми всі побачимо. Так буде краще для тебе."
+        },
+        {
+            "tag": "A3S1.VIOAPP_RILEY_0018",
+            "en": "It’s okay, Violet. Really. You didn’t do any lasting harm… I don’t think.",
+            "ru_native": "Все хорошо, Вайолет. Ты не сделала ничего непоправимого... вроде.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Вайолет. Справді. Ти не зробила нічого непоправимого. Я так гадаю."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0000",
+            "en": "Riley! Uh—beard guy, wait!",
+            "ru_native": "Райли! Бородач! Подождите!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Бородачу, чекай!"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0001",
+            "en": "Hey, guys, I thought I—sorry, let me catch my—",
+            "ru_native": "Привет, я думала... Ух, простите, дайте подышать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, мені здалося, то… дайте…"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0002",
+            "en": "[ID-3] [breathes]",
+            "ru_native": "[ID-3]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[видихає]"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0003",
+            "en": "I thought I saw you walking over there.",
+            "ru_native": "Я подумала, что это вы идете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здалося, що то ви йдете."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0004",
+            "en": "Guys. Look, I’m…",
+            "ru_native": "Ребят, слушайте...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, я…"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0005",
+            "en": "I am—I am, I’m heading home, I am, I just… I just wanted to say…",
+            "ru_native": "Да, я как раз иду домой, просто хотела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та я якраз ішла додому. Я лише… я просто хотіла сказати…"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0006",
+            "en": "No, it’s—I’m fine. I was heading home and I—I just wanted to say…",
+            "ru_native": "Да, все хорошо. Я шла домой и просто хотела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, усе гаразд. Я якраз ішла додому і просто хотіла сказати…"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0007",
+            "en": "I’m like—really sorry. And like—really embarrassed. But mostly just really sorry.",
+            "ru_native": "Извиниться. Мне очень жаль и очень стыдно. Но больше жаль, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хотіла вибачитися. Мені дуже соромно. Але більш за все просто шкода."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0008",
+            "en": "But also really embarrassed.",
+            "ru_native": "Ну и очень стыдно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ще й соромно."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0009",
+            "en": "So—sorry.",
+            "ru_native": "Вот. Извините.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0010",
+            "en": "Like—a lot.",
+            "ru_native": "Пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже шкода."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0011",
+            "en": "I… I am.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так і є."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0012",
+            "en": "Definitely, definitely. Will do.",
+            "ru_native": "Обязательно. Будет сделано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну звичайно. Так і зробимо."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0013",
+            "en": "Uh, starting tomorrow I think I’ll just be sleeping in for like a week. And eating ice cream.",
+            "ru_native": "Завтра я буду спать до победного. И есть мороженое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завтра я відсипатимуся тиждень. Потім їстиму морозиво."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0014",
+            "en": "But after, yes. I think that’s, uh, wise.",
+            "ru_native": "А потом да. Мудрый совет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А вже потім так. Гадаю, це мудро."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0015",
+            "en": "And… thanks for, uh, helping me out back there. I really needed it…",
+            "ru_native": "Спасибо, что тогда мне помогли. Без вас я бы не справилась...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що тоді допомогли мені. Мені це було справді потрібно…"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0016",
+            "en": "Where are you, uh, guys going?",
+            "ru_native": "А что вы делаете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди йдете?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0017",
+            "en": "Oh, Marco’s mom?",
+            "ru_native": "Мама Марко?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мама Марко?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0018",
+            "en": "She’s so pretty.",
+            "ru_native": "Она такая красивая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона така красива."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0019",
+            "en": "She’s weird but she’s pretty.",
+            "ru_native": "Странная, но красивая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона дивна, але красива."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0020",
+            "en": "I mean—Marco’s okay. I don’t think he loves admitting that his mom owns the worm store.",
+            "ru_native": "Марко нормальный чел. Не очень любит упоминать, что его мама торгует червями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Марко нормальний. Йому просто не подобається розповідати,<br>що мама є власником магазина хробаків."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0021",
+            "en": "I will. And I, uh, won’t tell Marco what you’re doing.",
+            "ru_native": "Иду. И я не стану говорить Марко о ваших... делишках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іду. І я не скажу Марко про ваші… ем… справи."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0022",
+            "en": "Uh, okay, well, that’s cool. Marco’s cool.",
+            "ru_native": "Ясно, ладно. Марко крутой чел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, це класно. Марко класний."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0023",
+            "en": "We had the same cupcake day in elementary school.",
+            "ru_native": "В началке у нас был один день кекса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У початковій школі в нас був один день кексу."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0024",
+            "en": "We have the same birthday. Seven eleven. Yes, I’ve heard every joke.",
+            "ru_native": "Родились в один день. 7/11. Да, как название магазина.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "День народження в один день. Сім одинадцять. Знайомий жарт."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0025",
+            "en": "They say you’re supposed to use numbers you can easily remember for stuff so… maybe that’s it for the lock?",
+            "ru_native": "Говорят, для замков нужно использовать числа,<br>которые легко запомнить. Может, подойдет к вашему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажуть, для замків потрібно використовувати цифри,<br>які легко запам’ятати. Може, це спрацює для нашого замка?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0026",
+            "en": "Either way, uh, good luck… stealing Mrs. Marco’s boat.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В любом случае, удачи... угнать лодку миссис Марко.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0027",
+            "en": "Gotta get home, study a little. I got a, uh, test tomorrow. So.",
+            "ru_native": "Пора домой, уроки делать. Завтра контрольная. Так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час додому, вчити уроки. Завтра контрольна."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0028",
+            "en": "Bye.",
+            "ru_native": "Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0029",
+            "en": "Oh, and again—sorry!",
+            "ru_native": "И еще раз: извините!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, знову таки… мені шкода!"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0030",
+            "en": "And… look—for the record, I only joined up with Olivia cause of my own crap, okay?",
+            "ru_native": "Чтоб вы знали: я присоединилась к Оливии только из-за своего дерьма.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ще… Я тут заради Олівії з власних причин, ясно?"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0031",
+            "en": "I thought—I thought those… things could… help my own life.",
+            "ru_native": "Я думала... Эти существа помогут мне с моей жизнью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здавалося, ті речі… могли б допомогти мені в житті."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0032",
+            "en": "I don’t know…",
+            "ru_native": "Не знаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю…"
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0033",
+            "en": "I just wanted to say that.",
+            "ru_native": "Просто хотела сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто хотілося це сказати."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0034",
+            "en": "Ugh. Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0035",
+            "en": "Yeah. Yeah, I know.",
+            "ru_native": "Да. Да, я знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Так, я знаю."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0036",
+            "en": "I’ll, uh, take it.",
+            "ru_native": "Соглашусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я так і зроблю."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0037",
+            "en": "Okay. Okay, thanks.",
+            "ru_native": "Ладно, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд. Дякую."
+        },
+        {
+            "tag": "A3S1.VIOAPP_VIOLET_0038",
+            "en": "Well, uh, good luck… stealing Mrs. Marco’s boat.",
+            "ru_native": "Удачи вам... с кражей лодки миссис Марко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Щасти з крадіжкою човна місіс Марко."
+        }
+    ]
+}

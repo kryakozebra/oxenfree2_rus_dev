@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.SHELCA",
+    "entries": [
+        {
+            "tag": "A2W2.SHELCA_SHELLEY_0000",
+            "en": "Hey Riley? You there? Over.",
+            "ru_native": "Эй. Райли? Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там? Прийом."
+        },
+        {
+            "tag": "A2W2.SHELCA_SHELLEY_0001",
+            "en": "Riley? Come in. Over.",
+            "ru_native": "Райли? Ответь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Скажи щось. Прийом."
+        },
+        {
+            "tag": "A2W2.SHELCA_SHELLEY_0002",
+            "en": "Come in, Riley. Over.",
+            "ru_native": "Ответь, Райли. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, скажи щось. Прийом."
+        },
+        {
+            "tag": "A2W2.SHELCA_SHELLEY_0003",
+            "en": "Riley—okay, if you ever want to contact me, I’m on 1. Okay? Over and out",
+            "ru_native": "Райли... в общем, если захочешь поговорить, я на 1. Ладно? Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі… якщо ти хочеш поговорити, то я на 1. Гаразд? Кінець зв’язку."
+        }
+    ]
+}

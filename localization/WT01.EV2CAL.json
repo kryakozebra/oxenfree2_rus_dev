@@ -1,0 +1,393 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT01.EV2CAL",
+    "entries": [
+        {
+            "tag": "WT01.EV2CAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV2CAL_CHOICE_0000_OPTION_0000",
+            "en": "It’s crazy.",
+            "ru_native": "Это дико.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дурня якась."
+        },
+        {
+            "tag": "WT01.EV2CAL_CHOICE_0000_OPTION_0001",
+            "en": "I’m nervous.",
+            "ru_native": "Мне не по себе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені моторошно."
+        },
+        {
+            "tag": "WT01.EV2CAL_CHOICE_0000_OPTION_0002",
+            "en": "Don’t worry, I’ll fix it.",
+            "ru_native": "Не переживай, я все исправлю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, я все виправлю."
+        },
+        {
+            "tag": "WT01.EV2CAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV2CAL_CHOICE_0001_OPTION_0000",
+            "en": "Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "WT01.EV2CAL_CHOICE_0001_OPTION_0001",
+            "en": "I’m sure she’s fine.",
+            "ru_native": "Уверена, она в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упевнена, з нею все добре."
+        },
+        {
+            "tag": "WT01.EV2CAL_CHOICE_0001_OPTION_0002",
+            "en": "Focus on your sister.",
+            "ru_native": "Думай о сестре.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думай про сестру."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0000",
+            "en": "Great. Awesome. The numbers are coming back…",
+            "ru_native": "Супер. Отлично. Цифры снова пошли…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Супер. Чудово. Цифри знову пішли."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0001",
+            "en": "It looks… so weird, like… the frequencies look like they’re decaying, but also…",
+            "ru_native": "Это выглядит... так странно, как будто... частоты вроде бы затухают, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони… такі дивні, наче… частоти згасають, але…"
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0002",
+            "en": "Huh. It appears to be breaking a lot of rules Doppler established 200 years ago.",
+            "ru_native": "Ха. Похоже, это нарушает кучу законов, которые Допплер открыл 200 лет назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Схоже, це порушує купу законів, які Допплер відкрив 200 років тому."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0003",
+            "en": "How are things looking?",
+            "ru_native": "Как дела?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що в тебе там?"
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0004",
+            "en": "Does it feel weird out there?",
+            "ru_native": "Есть странности?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є щось дивне?"
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0005",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0006",
+            "en": "Yeah, I… no, I should.",
+            "ru_native": "Да, я.. так и сделаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… так і зроблю."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0007",
+            "en": "Yeah, I’m sorry about that. You take this job and look at what happens? [chuckles]",
+            "ru_native": "Да, мне жаль. Стоило тебе взяться за работу, и тут такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мені шкода. Варто було тобі взятися за цю роботу, і тут таке?.. [хихикає]"
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0008",
+            "en": "No, sorry, really, this… I just don’t know what to say.",
+            "ru_native": "Нет, правда, извини... Я просто не знаю, что сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, правда, вибач… Просто не знаю, що сказати."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0009",
+            "en": "Don’t take it all on yourself, okay, Riley?",
+            "ru_native": "Только не взваливай все на себя, Райли, ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки не звалюй усе на себе, Райлі, гаразд?"
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0010",
+            "en": "I think… maybe I’m losing you, but… hope you’re doing okay.",
+            "ru_native": "Думаю… может, ты пропадаешь, но… надеюсь, у тебя все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю… ти пропадаєш, але… сподіваюся, у тебе все гаразд."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0011",
+            "en": "[sighs] I’m sorry, my mind’s—I’m waiting on a call from my sister.",
+            "ru_native": "Прости, вылетело из головы... Мне же сестра должна позвонить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Вибач, вилетіло з голови… Мені ж сестра має подзвонити."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0012",
+            "en": "We were supposed to get dinner cause she lives in Camena, and…",
+            "ru_native": "И... мы должны были поужинать, она ведь живет в Камене, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ми мали повечеряти, адже вона живе в Камені, але…"
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0013",
+            "en": "I haven’t actually heard from her in a while.",
+            "ru_native": "Она что-то не звонит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона щось давно не дзвонила."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0014",
+            "en": "[sigh] Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Пробач."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0015",
+            "en": "I’m just… thinking about that, if I sound… distracted.",
+            "ru_native": "Я, наверное, тебя отвлекаю... просто лезет в голову.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я, мабуть, відволікаю тебе… просто лізе в голову всяке."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0016",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0017",
+            "en": "Yeah. I’m hoping everything’s okay and her phone is just dead.",
+            "ru_native": "Да. Надеюсь, все хорошо, и у нее просто телефон сел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Сподіваюся, усе гаразд, і в неї просто сів телефон."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0018",
+            "en": "On the coast. But, uh, it should be okay—you’re right. I just hope her phone’s just dead.",
+            "ru_native": "На побережье. Но ты права, все должно быть в порядке.<br>Надеюсь, у нее просто телефон сел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На узбережжі. Але твоя правда, усе має бути гаразд.<br>Сподіваюся, у неї просто сів телефон."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0019",
+            "en": "Thanks. I wish I could! I’m just… hoping everything’s okay and her phone is just dead.",
+            "ru_native": "Спасибо. Если бы! Надеюсь, все хорошо, и у нее просто телефон сел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую. Якби це було просто! Сподіваюся, усе гаразд, і в неї просто сів телефон."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0020",
+            "en": "Riley? You there?",
+            "ru_native": "Райли? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там?"
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0021",
+            "en": "Ugh. Guess I lost you. Over and out.",
+            "ru_native": "Хм. Похоже, сигнала нет. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Схоже, нема сигналу. Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0022",
+            "en": "Alright, sorry about all this. Thanks for the call. Hit me up when you plant the next one.",
+            "ru_native": "Ладно, извини за все. Спасибо, что позвонила. Да знать, когда поставишь следующий.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, вибач. Дякую, що зв’язалася зі мною. Повідом, коли встановиш наступний."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0023",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV2CAL_EVELYN_0024",
+            "en": "Don’t take it all on yourselves, guys. Okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не взваливайте все на себя, ребята. Хорошо?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не вляпайтеся в неприємності. Добре?"
+        },
+        {
+            "tag": "WT01.EV2CAL_JACOB_0000",
+            "en": "Well, we kind of have to, but… sure.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, мы вроде как должны, но... конечно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, начебто доведеться, але… звичайно."
+        },
+        {
+            "tag": "WT01.EV2CAL_RILEY_0000",
+            "en": "Uh, it’s pretty nuts out here, Evelyn. If I were you, I’d stay inside, hunker down. Over.",
+            "ru_native": "Эвелин, тут творится полный бред. Я бы на твоем<br>месте засела внутри и не высовывалась. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, тут відбувається повна маячня. Я б на твоєму місці залишилася всередині<br>й носа не показувала. Прийом."
+        },
+        {
+            "tag": "WT01.EV2CAL_RILEY_0001",
+            "en": "I’m a little nervous being out here, Evelyn, I’m not gonna lie to you. Over.",
+            "ru_native": "Мне тут немного не по себе, Эвелин, не буду врать. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, не брехатиму, мені моторошно. Прийом."
+        },
+        {
+            "tag": "WT01.EV2CAL_RILEY_0002",
+            "en": "Don’t worry about it. Things are going a little… time-loopy right now, but I’m on the case.",
+            "ru_native": "Эм, не переживай. Тут легкое... временное замыкание, но я над этим работаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, не хвилюйся. Тут невеличке… замкнене часове коло, але я над цим працюю."
+        },
+        {
+            "tag": "WT01.EV2CAL_RILEY_0003",
+            "en": "I’m not leaving until I fix it. Over.",
+            "ru_native": "Я не уйду, пока все не поправлю. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нікуди не піду, доки все не виправлю. Прийом."
+        },
+        {
+            "tag": "WT01.EV2CAL_RILEY_0004",
+            "en": "Oh. I’m sorry, Evelyn, I’m sure you’re a little stressed out.",
+            "ru_native": "Ой. Мне жаль, Эвелин. Понимаю, ты переживаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох. Мені шкода, Евелін. Розумію, ти хвилюєшся."
+        },
+        {
+            "tag": "WT01.EV2CAL_RILEY_0005",
+            "en": "Oh, uh, Evelyn, I’m sure she’s fine. I don’t know how far this thing has spread, but…",
+            "ru_native": "О, Эвелин, она наверняка в порядке. Не знаю,<br>как далеко распространилась эта штука, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Евелін, з нею напевно все гаразд. Не знаю, як далеко поширилася ця штука, але…"
+        },
+        {
+            "tag": "WT01.EV2CAL_RILEY_0006",
+            "en": "Probably not further than the coast? Where does she live?",
+            "ru_native": "Наверное, не дальше побережья? Где она живет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, вона не вийшла за узбережжя? Де живе твоя сестра?"
+        },
+        {
+            "tag": "WT01.EV2CAL_RILEY_0007",
+            "en": "Oh. That sucks, just… focus on your sister, Evelyn. Don’t worry about this stuff for a minute. Over.",
+            "ru_native": "Да. Отстой, просто… думай о сестре, Эвелин. Аза остальное не волнуйся. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Халепа, просто… думай про сестру, Евелін. А за все інше не хвилюйся. Прийом."
+        },
+        {
+            "tag": "WT01.EV2CAL_RILEY_0008",
+            "en": "We’re not leaving until we fix it. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы не уйдем, пока не исправим это. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не підемо, поки не виправимо все. Прийом."
+        }
+    ]
+}

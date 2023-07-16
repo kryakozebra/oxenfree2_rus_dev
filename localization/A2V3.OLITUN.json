@@ -1,0 +1,168 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.OLITUN",
+    "entries": [
+        {
+            "tag": "A2V3.OLITUN_CHARLIE_0000",
+            "en": "Wait. Olivia—",
+            "ru_native": "Оливия, постой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, Олівіє…"
+        },
+        {
+            "tag": "A2V3.OLITUN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.OLITUN_CHOICE_0000_OPTION_0000",
+            "en": "Olivia, Stop!",
+            "ru_native": "Оливия, стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, стій!"
+        },
+        {
+            "tag": "A2V3.OLITUN_CHOICE_0000_OPTION_0001",
+            "en": "What are you doing?",
+            "ru_native": "Что ты делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти робиш?"
+        },
+        {
+            "tag": "A2V3.OLITUN_JACOB_0000",
+            "en": "Olivia, stop!",
+            "ru_native": "Оливия, стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє, стій!"
+        },
+        {
+            "tag": "A2V3.OLITUN_JACOB_0001",
+            "en": "Crap, Riley, we have to stop her! Get her radio!",
+            "ru_native": "Черт, Райли, нужно ее остановить! Хватай радио!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько, Райлі, нам треба її зупинити! Хапай її радіо!"
+        },
+        {
+            "tag": "A2V3.OLITUN_OLIVIA_0000",
+            "en": "It’s a particle of grace! Luna is speaking to us.",
+            "ru_native": "Это частичка благодати! Луна говорит с нами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це частинка благодаті! Місяць говорить із нами."
+        },
+        {
+            "tag": "A2V3.OLITUN_OLIVIA_0001",
+            "en": "If you both want out, then go!",
+            "ru_native": "Если хотите уйти, проваливайте!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо хочете піти, то валіть звідси!"
+        },
+        {
+            "tag": "A2V3.OLITUN_OLIVIA_0002",
+            "en": "If you want out, Violet, then go!",
+            "ru_native": "Вайолет, если хочешь уйти, вали!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо хочеш піти, Вайолет, то вали звідси!"
+        },
+        {
+            "tag": "A2V3.OLITUN_OLIVIA_0003",
+            "en": "If you want out, Charlie, then go!",
+            "ru_native": "Чарли, если хочешь уйти, вали!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо хочеш піти, Чарлі, то вали звідси!"
+        },
+        {
+            "tag": "A2V3.OLITUN_OLIVIA_0004",
+            "en": "I know my place in this universe.",
+            "ru_native": "Я знаю свое место в этой вселенной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю своє місце в цьому всесвіті."
+        },
+        {
+            "tag": "A2V3.OLITUN_OLIVIA_0005",
+            "en": "Fixing it.",
+            "ru_native": "Все исправляю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виправляю все."
+        },
+        {
+            "tag": "A2V3.OLITUN_RILEY_0000",
+            "en": "Wait, Olivia, stop!",
+            "ru_native": "Нет, Оливия, стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Олівіє, припини!"
+        },
+        {
+            "tag": "A2V3.OLITUN_RILEY_0001",
+            "en": "Wait, Olivia, what are you doing?",
+            "ru_native": "Оливия, что ты делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, Олівіє, що ти робиш?"
+        },
+        {
+            "tag": "A2V3.OLITUN_RILEY_0002",
+            "en": "Wait—guys, c’mon, stop her before she—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подождите, ребята, ну же, остановите её, пока она...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.OLITUN_UNKNOWN_0000",
+            "en": "[distorted] Olivia. Bind. Time and signal.",
+            "ru_native": "Оливия. Свяжи. Время и сигнал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівіє. З’єднай. Час та сигнал."
+        },
+        {
+            "tag": "A2V3.OLITUN_UNKNOWN_0001",
+            "en": "[distorted] And we. Can. Shelter. You.",
+            "ru_native": "И мы. Сможем. Укрыть. Тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ми. Зможемо. Прихистити. Тебе."
+        },
+        {
+            "tag": "A2V3.OLITUN_VIOLET_0000",
+            "en": "Wait, Olivia—",
+            "ru_native": "Оливия, постой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, Олівіє…"
+        }
+    ]
+}

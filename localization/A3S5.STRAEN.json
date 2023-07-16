@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.STRAEN",
+    "entries": [
+        {
+            "tag": "A3S5.STRAEN_JACOB_0000",
+            "en": "Between things, maybe? I… don’t know.",
+            "ru_native": "Где-то между, наверное? Я… не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Десь між просторами, мабуть? Я не знаю…"
+        },
+        {
+            "tag": "A3S5.STRAEN_RILEY_0000",
+            "en": "Where… are we?",
+            "ru_native": "Где... мы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де це ми?"
+        },
+        {
+            "tag": "A3S5.STRAEN_RILEY_0001",
+            "en": "God. Where am I…?",
+            "ru_native": "Боже. Где я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи. Де я?"
+        },
+        {
+            "tag": "A3S5.STRAEN_RILEY_0002",
+            "en": "Definitely took a wrong turn somewhere…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Определенно, где-то свернул не туда...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно десь не туди звернула…"
+        }
+    ]
+}

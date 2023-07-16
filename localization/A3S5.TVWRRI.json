@@ -1,0 +1,60 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S5.TVWRRI",
+    "entries": [
+        {
+            "tag": "A3S5.TVWRRI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TVWRRI_CHOICE_0000_OPTION_0000",
+            "en": "That one doesn’t seem right…",
+            "ru_native": "Один неправильный...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, що з тим щось не так…"
+        },
+        {
+            "tag": "A3S5.TVWRRI_CHOICE_0000_OPTION_0001",
+            "en": "Did I screw up?",
+            "ru_native": "Накосячила где-то?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я щось зіпсувала?"
+        },
+        {
+            "tag": "A3S5.TVWRRI_JACOB_0000",
+            "en": "Mm, okay, maybe -- maybe that one is off, but the rest are in the right, uh, mindset…",
+            "ru_native": "Так, ладно... Наверно, этот не совсем верно, но остальные вроде готовы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, добре, можливо… можливо, один не такий, але решта мають правильну філософію…"
+        },
+        {
+            "tag": "A3S5.TVWRRI_RILEY_0000",
+            "en": "[to herself] Okay, that one… I think is off…",
+            "ru_native": "Так, кажется, тут неправильно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Гаразд, той… я думаю, вимкнений…"
+        },
+        {
+            "tag": "A3S5.TVWRRI_RILEY_0001",
+            "en": "[to herself] Oh, maybe I… screwed something up.",
+            "ru_native": "Может, я где-то накосячила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[до себе] Ох, може я… щось зіпсувала."
+        }
+    ]
+}

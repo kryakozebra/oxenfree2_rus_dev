@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1JC.LADSID",
+    "entries": [
+        {
+            "tag": "A1JC.LADSID_RILEY_0000",
+            "en": "This should reach the window.",
+            "ru_native": "До окна достанет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це має діставати до вікна."
+        },
+        {
+            "tag": "A1JC.LADSID_RILEY_0001",
+            "en": "Doesn’t look like he cleans the gutters much.",
+            "ru_native": "Водостоки-то кое-кто особо не чистит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, він нечасто чистить стічні жолоби."
+        },
+        {
+            "tag": "A1JC.LADSID_RILEY_0002",
+            "en": "Maybe he plans to.",
+            "ru_native": "Может, руки не дошли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, збирається."
+        }
+    ]
+}

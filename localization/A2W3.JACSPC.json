@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W3.JACSPC",
+    "entries": [
+        {
+            "tag": "A2W3.JACSPC_CHARLIE_0000",
+            "en": "Ah—damnit.",
+            "ru_native": "А... черт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От… чорт."
+        },
+        {
+            "tag": "A2W3.JACSPC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W3.JACSPC_CHOICE_0000_OPTION_0000",
+            "en": "Let’s get him!",
+            "ru_native": "Поймаем его!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спіймаймо його!"
+        },
+        {
+            "tag": "A2W3.JACSPC_CHOICE_0000_OPTION_0001",
+            "en": "Wait for me!",
+            "ru_native": "Подожди меня!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зачекай на мене!"
+        },
+        {
+            "tag": "A2W3.JACSPC_JACOB_0000",
+            "en": "Hey, wait—there he is! Hey!",
+            "ru_native": "Постой, это ж тот пацан! Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, це ж той хлопець! Гей!"
+        },
+        {
+            "tag": "A2W3.JACSPC_JACOB_0001",
+            "en": "Stop!",
+            "ru_native": "Стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій!"
+        },
+        {
+            "tag": "A2W3.JACSPC_JACOB_0002",
+            "en": "Riley, c’mon!",
+            "ru_native": "Райли, давай!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, швидше!"
+        },
+        {
+            "tag": "A2W3.JACSPC_RILEY_0000",
+            "en": "Crap, let’s get that asshole!",
+            "ru_native": "Блин, достанем этого гаденыша!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько, дістаньмо того гада!"
+        },
+        {
+            "tag": "A2W3.JACSPC_RILEY_0001",
+            "en": "Jacob, c’mon, wait!",
+            "ru_native": "Джейкоб, погоди!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зажди! Джейкобе!"
+        }
+    ]
+}

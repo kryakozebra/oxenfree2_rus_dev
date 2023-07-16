@@ -1,0 +1,384 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A1PO.LJACOB",
+    "entries": [
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0000_OPTION_0000",
+            "en": "Just didn’t want to die alone.",
+            "ru_native": "Просто не хотела умирать в одиночку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто не хотілося помирати на самоті."
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0000_OPTION_0001",
+            "en": "What would you do without me?",
+            "ru_native": "Что б ты без меня делал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що б ви робили без мене?"
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0001_OPTION_0000",
+            "en": "Weird.",
+            "ru_native": "Чудик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно."
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0001_OPTION_0001",
+            "en": "Cool.",
+            "ru_native": "Прикольно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто."
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0001_OPTION_0002",
+            "en": "I’m stealing that.",
+            "ru_native": "Возьму на заметку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я беру її."
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0002_OPTION_0000",
+            "en": "You’re fine.",
+            "ru_native": "Все норм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0002_OPTION_0001",
+            "en": "You totally are.",
+            "ru_native": "Еще какой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Безперечно так і є."
+        },
+        {
+            "tag": "A1PO.LJACOB_CHOICE_0002_OPTION_0002",
+            "en": "Race you to the top?",
+            "ru_native": "Давай наперегонки к вершине?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нагору наввипередки?"
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0000",
+            "en": "[playful] Wow, you actually came back for me this time.",
+            "ru_native": "(иронично) Ого, на этот раз ты и правда за мной вернулась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[грайливо] Ого, ви таки прийшли по мене цього разу."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0001",
+            "en": "Uh…",
+            "ru_native": "Ох...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем…"
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0002",
+            "en": "Thank you kindly.",
+            "ru_native": "Спасибо тебе большое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щиро дякую."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0003",
+            "en": "Yeah, ha.. I.. uh. I know",
+            "ru_native": "Ага, ха-ха... Я... эм. Я знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… ем… Я… Я знаю"
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0004",
+            "en": "Not me. I want to die completely alone.",
+            "ru_native": "А я нет. Я хочу умереть в полном одиночестве.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені ні. Я хочу померти на самоті."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0005",
+            "en": "I want to be that skeleton in the woods someone finds centuries later.",
+            "ru_native": "Чтобы мой скелет потом случайно нашли в лесу через пару веков.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу бути таким скелетом, який через сотні років знайдуть у лісі."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0006",
+            "en": "I’d rather be a mystery than a headstone.",
+            "ru_native": "Лучше быть загадкой, чем надгробием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу бути скоріше загадкою, аніж могильним плитою."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0007",
+            "en": "Ya know?",
+            "ru_native": "Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш?"
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0008",
+            "en": "Change it up.",
+            "ru_native": "Сломать систему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Змінити."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0009",
+            "en": "Yeah, that is weird. I’m weird! But not like capital W weird. Promise.",
+            "ru_native": "Да, чудак. Я чудак! Но те с большой буквы «Ч», обещаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, дивно. Це дивно! Але не дуже. Це точно."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0010",
+            "en": "Right? Right.",
+            "ru_native": "Верно? Верно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правильно? Правильно."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0011",
+            "en": "Steal it! The world needs more inexplicable skulls.",
+            "ru_native": "Пожалуйста! Миру нужно больше загадочных черепов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уперед! Світу потрібно більше незрозумілих черепів."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0012",
+            "en": "Awesome, thanks for making it back. I hope I’m not too much dead weight.",
+            "ru_native": "Супер, спасибо, что вернулась. Надеюсь, я для тебя не мертвый груз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, дякую, що повернулася. Сподіваюся, я не надто важкий тягар."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0013",
+            "en": "Let me know though.",
+            "ru_native": "Дай знать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки скажи."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0014",
+            "en": "If I am.",
+            "ru_native": "Если так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо так."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0015",
+            "en": "[light chuckle] By its very definition, yeah.",
+            "ru_native": "(усмехается) Ну да, по определению.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[тихо хихикає] Точно за своїм визначенням, ага."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0016",
+            "en": "I’ll liven myself up! Or–something! Promise!",
+            "ru_native": "Я буду поживее! Или... что-то придумаю! Обещаю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я звеселюся! Щось придумаю! Обіцяю!"
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0017",
+            "en": "Ha! Yeah, not necessary, trust me. You would win. You–do win. Already.",
+            "ru_native": "Ха! Ага, нет стоит, поверь. Ты все равно выиграешь. Уже выиграла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха! Так, не обов’язково, повір мені. Ти виграєш.<br>Ти завжди виграєш. Перемога вже твоя."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0018",
+            "en": "And I hope you enjoy that hypothetical future bagel.",
+            "ru_native": "Надеюсь, твой гипотетический бублик тебе понравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, тобі сподобається той теоретично виграний пончик."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0019",
+            "en": "Okay, let’s get up there and turn this thing off.",
+            "ru_native": "Ладно, давай поднимемся и выключим эту штуку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Піднімімося й вимкнімо цю штуку."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0020",
+            "en": "I know it’s–strange that I’m excited about this. Sorry.",
+            "ru_native": "Знаю, странно, что я так этому радуюсь. Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, дивно, що мені це так цікаво. Вибач."
+        },
+        {
+            "tag": "A1PO.LJACOB_JACOB_0021",
+            "en": "[half to himself] I probably shouldn’t be so excited about this.",
+            "ru_native": "Наверное, стоит как-то поспокойней реагировать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ніби звертається до себе] Мабуть, мені не слід виявляти таку цікавість."
+        },
+        {
+            "tag": "A1PO.LJACOB_RILEY_0000",
+            "en": "Ya know, you would really be screwed without me.",
+            "ru_native": "Знаешь, без меня ты бы точно облажался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєте, вам було б дуже складно без мене."
+        },
+        {
+            "tag": "A1PO.LJACOB_RILEY_0001",
+            "en": "[playful] I never wanted to die alone",
+            "ru_native": "(иронично) Никогда не хотела умереть одна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[грайливо] Ніколи не хотілося помирати на самоті"
+        },
+        {
+            "tag": "A1PO.LJACOB_RILEY_0002",
+            "en": "Yeah, that’s weird.",
+            "ru_native": "Да, чудак ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, дивно."
+        },
+        {
+            "tag": "A1PO.LJACOB_RILEY_0003",
+            "en": "Awesome.",
+            "ru_native": "Круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Приголомшливо."
+        },
+        {
+            "tag": "A1PO.LJACOB_RILEY_0004",
+            "en": "Oh, I’m totally stealing that idea.",
+            "ru_native": "О, я у тебя подрежу эту идею.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, беру цю ідею на озброєння."
+        },
+        {
+            "tag": "A1PO.LJACOB_RILEY_0005",
+            "en": "Don’t worry, you’re fine.",
+            "ru_native": "Не переживай, все окей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, усе гаразд."
+        },
+        {
+            "tag": "A1PO.LJACOB_RILEY_0006",
+            "en": "You’re helping, that’s…helpful.",
+            "ru_native": "Ты помогаешь, это... помогает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти допомагаєш, так легше."
+        },
+        {
+            "tag": "A1PO.LJACOB_RILEY_0007",
+            "en": "[lightly playful] Oh, you so are.",
+            "ru_native": "(шутливо) Ага, еще какой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[трохи грайливо] Ще й як."
+        },
+        {
+            "tag": "A1PO.LJACOB_RILEY_0008",
+            "en": "Race you to the top? Loser buys bagels?",
+            "ru_native": "Давай наперегонки до вершины? Кто проиграл, с того бублики?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нагору наввипередки? Пончики з того, хто програв?"
+        }
+    ]
+}

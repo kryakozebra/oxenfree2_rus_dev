@@ -1,0 +1,159 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.TSGOOD",
+    "entries": [
+        {
+            "tag": "A2G2.TSGOOD_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.TSGOOD_CHOICE_0000_OPTION_0000",
+            "en": "Impressive.",
+            "ru_native": "Впечатляет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вражаюче."
+        },
+        {
+            "tag": "A2G2.TSGOOD_CHOICE_0000_OPTION_0001",
+            "en": "It’s empty?",
+            "ru_native": "Пусто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Порожньо?"
+        },
+        {
+            "tag": "A2G2.TSGOOD_CHOICE_0000_OPTION_0002",
+            "en": "It’s okay.",
+            "ru_native": "Все норм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2G2.TSGOOD_JACOB_0000",
+            "en": "Wow, like a postcard. Garland in its prime.",
+            "ru_native": "Ого, как на открытке. Гарленд в лучшие времена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, ніби листівка. Гарленд у всій красі."
+        },
+        {
+            "tag": "A2G2.TSGOOD_JACOB_0001",
+            "en": "Look at this place.",
+            "ru_native": "Посмотри на это место.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поглянь на це місце."
+        },
+        {
+            "tag": "A2G2.TSGOOD_JACOB_0002",
+            "en": "Yeah, it feels strange to see it up and running. Or “running.” In quotes.",
+            "ru_native": "Да, странно видеть, как он работает. Или «работает». В кавычках.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, дивно бачити, як воно працює. Чи нібито працює."
+        },
+        {
+            "tag": "A2G2.TSGOOD_JACOB_0003",
+            "en": "Maybe it’s nighttime uh...there, too?",
+            "ru_native": "Может, тут тоже сейчас ночь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може тут також ніч?"
+        },
+        {
+            "tag": "A2G2.TSGOOD_JACOB_0004",
+            "en": "Eh, I guess.",
+            "ru_native": "Хм, наверное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може й так."
+        },
+        {
+            "tag": "A2G2.TSGOOD_JACOB_0005",
+            "en": "I wonder what else is still standing, you know? Maybe there’s something we can use…",
+            "ru_native": "Интересно, что еще осталось? Может, что-то ценное для нас...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цікаво, чи є щось цікаве. Може є щось корисне для нас…"
+        },
+        {
+            "tag": "A2G2.TSGOOD_JACOB_0006",
+            "en": "Let’s look around.",
+            "ru_native": "Давай осмотримся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роззирнімося."
+        },
+        {
+            "tag": "A2G2.TSGOOD_JACOB_0007",
+            "en": "My God, take a good long look. I know we got a job to do, but like, this is unbelievable.",
+            "ru_native": "Боже, ты только посмотри. Знаю, у нас есть дела, но это просто невероятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже мій, подивися уважно. Я пам’ятаю, що в нас справи, але це ж неймовірно."
+        },
+        {
+            "tag": "A2G2.TSGOOD_RILEY_0000",
+            "en": "Wasn’t too shabby when she had, uh, townsfolk, huh?",
+            "ru_native": "Не такой уж и жалкий город, когда в нем есть жители.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не таке й убоге місто, коли в ньому живуть люди."
+        },
+        {
+            "tag": "A2G2.TSGOOD_RILEY_0001",
+            "en": "Makes the abandonment all the more tragic.",
+            "ru_native": "Что делает запустение еще трагичнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Від чого запустіння стає ще більш трагічним."
+        },
+        {
+            "tag": "A2G2.TSGOOD_RILEY_0002",
+            "en": "Where is everyone?",
+            "ru_native": "Где все?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де всі?"
+        },
+        {
+            "tag": "A2G2.TSGOOD_RILEY_0003",
+            "en": "It’s fine.",
+            "ru_native": "Все ок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2G2.TSGOOD_RILEY_0004",
+            "en": "You’ve seen one foggy, sleepy, old-timey hamlet, you’ve seen ‘em all.",
+            "ru_native": "Если ты видел одну туманную, сонную деревушку, ты видел их все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо бачив одне туманне, сонне, старе селище, то бачив їх усі."
+        }
+    ]
+}

@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.OXOPEN",
+    "entries": [
+        {
+            "tag": "A1S1.OXOPEN_ALEX_0000",
+            "en": "W-what… what do you want?",
+            "ru_native": "Ч-чего вы хотите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щ-що… Що вам потрібно?"
+        },
+        {
+            "tag": "A1S1.OXOPEN_ALEX_0001",
+            "en": "Jonas! Where did you—",
+            "ru_native": "Джонас! Куда ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джонасе! Де ти…"
+        },
+        {
+            "tag": "A1S1.OXOPEN_GHOSTS_0000",
+            "en": "[distorted] Oh. It's. You. Again.",
+            "ru_native": "Это. Опять. Ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О. Це. Знову. Ти."
+        },
+        {
+            "tag": "A1S1.OXOPEN_GHOSTS_0001",
+            "en": "[distorted] Rules. You. Know.",
+            "ru_native": "Правила. Ты. Знаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правила. Знаєш."
+        },
+        {
+            "tag": "A1S1.OXOPEN_GHOSTS_0002",
+            "en": "[distorted] Is. Leave. Possible.",
+            "ru_native": "Возможно. Ли. Уйти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи. Можна. Піти."
+        }
+    ]
+}

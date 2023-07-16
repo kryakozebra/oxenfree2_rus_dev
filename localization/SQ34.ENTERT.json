@@ -1,0 +1,186 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "SQ34.ENTERT",
+    "entries": [
+        {
+            "tag": "SQ34.ENTERT_CHOICE_0000_OPTION_0000",
+            "en": "Okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "SQ34.ENTERT_CHOICE_0000_OPTION_0001",
+            "en": "Not yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пока нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зараз."
+        },
+        {
+            "tag": "SQ34.ENTERT_CHOICE_0001_OPTION_0000",
+            "en": "Let’s talk to her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай поговорим с ней.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговорити."
+        },
+        {
+            "tag": "SQ34.ENTERT_CHOICE_0001_OPTION_0001",
+            "en": "Let’s find more art.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай найдем больше искусства.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більше творчості."
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0000",
+            "en": "Um, call me crazy, but I think that’s JB.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм, назови меня сумасшедшим, но я думаю, что это JB.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, я може зовсім поганий став, але це ж Джей Бі."
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0001",
+            "en": "Jillian mentioned she would walk around here. Maybe this is one of those walks?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джиллиан упоминала, что будет гулять здесь. Может быть, это одна из таких прогулок?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джилліан згадувала, що вона тут гуляє. Може це одна з таких прогулянок?"
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0002",
+            "en": "We found her five--ya know--major hits or--whatever, let’s talk to her about them.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы нашли ее пять - ну, знаешь - главных хитов или - как там их, давай поговорим с ней о них.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми знайшли її п’ять головніших шедеврів… давай поговоримо з нею про них."
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0003",
+            "en": "People love to talk about themselves.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Люди любят говорить о себе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Людям подобається говорити про себе."
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0004",
+            "en": "C’mon, I’m too curious.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну да ладно, я слишком любопытен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, мені занадто цікаво."
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0005",
+            "en": "Okay, sounds good.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, звучит неплохо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд."
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0006",
+            "en": "Okay? Little--uhhh--unexpected, won’t lie, but okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо? Немного... э-э-э... неожиданно, не буду врать, но нормально.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд? Трохи… неочікувано, відверто кажучи. Але гаразд."
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0007",
+            "en": "You know what, we’re goin’ for it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Знаешь что, мы пойдем на это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш що? Ми йдемо."
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0008",
+            "en": "Either way, you wanna talk to her or--see if we can find more of her work?",
+            "ru_native": "",
+            "ru_machine": "DEEPL В любом случае, ты хочешь поговорить с ней или... может быть, мы найдем еще ее работы?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У будь-якому випадку, ти би хотіла поговорити з нею або…<br>знайти більше її творчості?"
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0009",
+            "en": "Doesn't look like she's going anywhere, but once we talk to her she might...",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не похоже, что она куда-то собирается, но когда мы с ней поговорим, она может...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не схоже, щоби вона кудись поспішала, але коли ми заговоримо, то…"
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0010",
+            "en": "Anyway, I’m cool with either.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В общем, я не против ни того, ни другого.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені обидва варіанти до душі."
+        },
+        {
+            "tag": "SQ34.ENTERT_JACOB_0011",
+            "en": "Whatcha think?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что скажешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тобі?"
+        },
+        {
+            "tag": "SQ34.ENTERT_RILEY_0000",
+            "en": "Yeah, let’s talk to her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, давай поговорим с ней.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну давай, поговоримо з нею."
+        },
+        {
+            "tag": "SQ34.ENTERT_RILEY_0001",
+            "en": "Eh...not quite yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эх... пока не совсем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… може в інший раз."
+        },
+        {
+            "tag": "SQ34.ENTERT_RILEY_0002",
+            "en": "Let’s try talking to her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай попробуем поговорить с ней.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуємо заговорити з нею."
+        },
+        {
+            "tag": "SQ34.ENTERT_RILEY_0003",
+            "en": "Let’s try and find more art.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай попробуем найти больше искусства.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай пошукаємо більше її робіт."
+        }
+    ]
+}

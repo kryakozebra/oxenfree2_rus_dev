@@ -1,0 +1,150 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S6.WHINOI",
+    "entries": [
+        {
+            "tag": "A3S6.WHINOI_ALEX_0000",
+            "en": "Whoa!",
+            "ru_native": "Ого!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого!"
+        },
+        {
+            "tag": "A3S6.WHINOI_ALEX_0001",
+            "en": "[breathes]",
+            "ru_native": "[ID-4]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[видихає]"
+        },
+        {
+            "tag": "A3S6.WHINOI_ALEX_0002",
+            "en": "Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A3S6.WHINOI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S6.WHINOI_CHOICE_0000_OPTION_0001",
+            "en": "Where’d we go?",
+            "ru_native": "Куда мы идем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди ми потрапили?"
+        },
+        {
+            "tag": "A3S6.WHINOI_CHOICE_0000_OPTION_0002",
+            "en": "Is this… good?",
+            "ru_native": "Это... хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи… це добре?"
+        },
+        {
+            "tag": "A3S6.WHINOI_CLARISSA_0000",
+            "en": "Hey!",
+            "ru_native": "Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов!"
+        },
+        {
+            "tag": "A3S6.WHINOI_JACOB_0000",
+            "en": "Ah! Riley! What’s—",
+            "ru_native": "Ох! Райли! Что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А! Райлі! Що за…"
+        },
+        {
+            "tag": "A3S6.WHINOI_MAGGIE_0000",
+            "en": "Ah!",
+            "ru_native": "Ах!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А!"
+        },
+        {
+            "tag": "A3S6.WHINOI_RILEY_0000",
+            "en": "Rex! Wait, I… [sighs; to herself] Rex.",
+            "ru_native": "Рекс! Постой, я… Рекс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рексе! Чекай, я… [зітхає, говорить до себе] Рексе."
+        },
+        {
+            "tag": "A3S6.WHINOI_RILEY_0001",
+            "en": "Uh, where… Wait, where are we?",
+            "ru_native": "Эм, где... Постой, где мы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де це ми?"
+        },
+        {
+            "tag": "A3S6.WHINOI_RILEY_0002",
+            "en": "Uh, Alex… Is this… a good thing… that’s happening right now?",
+            "ru_native": "Эм, Алекс... То… что сейчас происходит... это хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс, чи те, що відбувається зараз, це добре?"
+        },
+        {
+            "tag": "A3S6.WHINOI_SUNKEN_0000",
+            "en": "Wildroot Cream Oil presents the –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сливочное масло дикого корня представляет -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Wildroot Cream Oil представляє…"
+        },
+        {
+            "tag": "A3S6.WHINOI_SUNKEN_0001",
+            "en": "– Naval submarine sank in the –",
+            "ru_native": "",
+            "ru_machine": "DEEPL - Военно-морская подводная лодка затонула в - гг.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…морський підводний човен затонув…"
+        },
+        {
+            "tag": "A3S6.WHINOI_SUNKEN_0002",
+            "en": "– enemy has fallen.",
+            "ru_native": "",
+            "ru_machine": "DEEPL - враг пал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ворога знищено."
+        },
+        {
+            "tag": "A3S6.WHINOI_SUNKEN_0003",
+            "en": "God. Save. Our. Souls.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Бог. Спаси. Наши. Souls.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже. Збережи. Наші. Душі."
+        }
+    ]
+}

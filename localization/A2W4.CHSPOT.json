@@ -1,0 +1,222 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A2W4.CHSPOT",
+    "entries": [
+        {
+            "tag": "A2W4.CHSPOT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CHSPOT_CHOICE_0000_OPTION_0000",
+            "en": "Hope you’re okay.",
+            "ru_native": "Надеюсь, ты в норме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, у тебе все гаразд."
+        },
+        {
+            "tag": "A2W4.CHSPOT_CHOICE_0000_OPTION_0001",
+            "en": "Good riddance.",
+            "ru_native": "Скатертью дорожка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прощавай назавжди."
+        },
+        {
+            "tag": "A2W4.CHSPOT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W4.CHSPOT_CHOICE_0001_OPTION_0000",
+            "en": "Hope he’s safe. ",
+            "ru_native": "Надеюсь, он в порядке. ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, він у безпеці. "
+        },
+        {
+            "tag": "A2W4.CHSPOT_CHOICE_0001_OPTION_0001",
+            "en": "Good riddance.",
+            "ru_native": "Скатертью дорожка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прощавай назавжди."
+        },
+        {
+            "tag": "A2W4.CHSPOT_JACOB_0000",
+            "en": "He was but—",
+            "ru_native": "Был, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Був, але…"
+        },
+        {
+            "tag": "A2W4.CHSPOT_JACOB_0001",
+            "en": "Jesus, I’m so—messed up right now I’m not even sure we’re here.",
+            "ru_native": "Боже, у меня в голове такой бардак, что я даже не уверен, что мы сейчас тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, я вже настільки… заплутався, що не певний, чи стоїмо тут ми з тобою."
+        },
+        {
+            "tag": "A2W4.CHSPOT_JACOB_0002",
+            "en": "Just—let’s leave. Please.",
+            "ru_native": "Просто... давай пойдем. Пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… давай підемо звідси. Будь ласка."
+        },
+        {
+            "tag": "A2W4.CHSPOT_JACOB_0003",
+            "en": "Who knows. Jesus who knows anything right now?",
+            "ru_native": "Кто его знает. Господи, кто сейчас вообще что-то знает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто його знає. Господи, хто зараз може взагалі знати хоч щось?"
+        },
+        {
+            "tag": "A2W4.CHSPOT_JACOB_0004",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W4.CHSPOT_JACOB_0005",
+            "en": "Who knows.",
+            "ru_native": "Кто знает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто знає."
+        },
+        {
+            "tag": "A2W4.CHSPOT_JACOB_0006",
+            "en": "Riley. None of us are okay.",
+            "ru_native": "Райли. Кому сейчас хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, зараз ані з ким не все гаразд."
+        },
+        {
+            "tag": "A2W4.CHSPOT_JACOB_0007",
+            "en": "Let’s leave. Please.",
+            "ru_native": "Давай пойдем. Пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо. Будь ласка."
+        },
+        {
+            "tag": "A2W4.CHSPOT_JACOB_0008",
+            "en": "Sure. Let’s just get the hell outta here.",
+            "ru_native": "Точно. Давай выбираться из этой дыры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно. Давай уже вибиратися із цього клятого місця."
+        },
+        {
+            "tag": "A2W4.CHSPOT_RILEY_0000",
+            "en": "Where did Charlie go? Actually—agh—sorry kid, but you are not priority right now.",
+            "ru_native": "Куда делся Чарли? В общем, прости, пацан, но у нас есть дела поважнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди пішов Чарлі? А взагалі-то… ех… Пробач,<br>малий, але ти зараз не в пріоритеті."
+        },
+        {
+            "tag": "A2W4.CHSPOT_RILEY_0001",
+            "en": "Hope you’re safe, though.",
+            "ru_native": "Надеюсь, ты в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, що ти в безпеці."
+        },
+        {
+            "tag": "A2W4.CHSPOT_RILEY_0002",
+            "en": "With any luck I won’t see you again for the rest of the night.",
+            "ru_native": "Если повезет, я тебя больше не увижу до конца ночи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо пощастить, я не побачу тебе до світанку."
+        },
+        {
+            "tag": "A2W4.CHSPOT_RILEY_0003",
+            "en": "Or the rest of my life.",
+            "ru_native": "Или до конца жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або до кінця свого життя."
+        },
+        {
+            "tag": "A2W4.CHSPOT_RILEY_0004",
+            "en": "Charlie was here, right?",
+            "ru_native": "Чарли был тут, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі був тут, так?"
+        },
+        {
+            "tag": "A2W4.CHSPOT_RILEY_0005",
+            "en": "I really do wonder where Charlie went.",
+            "ru_native": "Мне правда интересно, куда ушел Чарли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені просто справді цікаво, куди пішов Чарлі."
+        },
+        {
+            "tag": "A2W4.CHSPOT_RILEY_0006",
+            "en": "I do hope he’s okay, though.",
+            "ru_native": "Но надеюсь, с ним все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе одно сподіваюся, що з ним усе гаразд."
+        },
+        {
+            "tag": "A2W4.CHSPOT_RILEY_0007",
+            "en": "With any luck we won’t see him again for the rest of the night.",
+            "ru_native": "Если повезет, мы его больше не увидим до конца ночи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ми його не побачимо до кінця ночі."
+        },
+        {
+            "tag": "A2W4.CHSPOT_RILEY_0008",
+            "en": "Or the rest of our lives.",
+            "ru_native": "Или до конца жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або до кінця свого життя."
+        }
+    ]
+}

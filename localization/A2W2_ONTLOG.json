@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2_ONTLOG",
+    "entries": [
+        {
+            "tag": "A2W2_ONTLOG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2_ONTLOG_CHOICE_0000_OPTION_0000",
+            "en": "Frogs can be exciting.",
+            "ru_native": "Лягушки забавные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жаби прикольні."
+        },
+        {
+            "tag": "A2W2_ONTLOG_CHOICE_0000_OPTION_0001",
+            "en": "Haha, it’s okay.",
+            "ru_native": "Ха-ха, все нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ха-ха, усе гаразд."
+        },
+        {
+            "tag": "A2W2_ONTLOG_JACOB_0000",
+            "en": "Oo! There’s -- I think -- that’s a frog, right?",
+            "ru_native": "О-о! Это же... лягушка, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О-о! Це ж… Здається… це жаба, так?"
+        },
+        {
+            "tag": "A2W2_ONTLOG_JACOB_0001",
+            "en": "Sorry, I don’t know why I got so excited.",
+            "ru_native": "Извини, не знаю, чему я так радуюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, не знаю, чому я так зраділа."
+        },
+        {
+            "tag": "A2W2_ONTLOG_JACOB_0002",
+            "en": "I actually think it was just a rock.",
+            "ru_native": "По-моему, это был обычный камень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, то був звичайний камінь."
+        },
+        {
+            "tag": "A2W2_ONTLOG_RILEY_0000",
+            "en": "Hey, frogs can be exciting, dude, they’re frogs, they’re friggin’ cool.",
+            "ru_native": "Ну, лягушки забавные, они прикольно прыгают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, жаби прикольні, вони смішно стрибають."
+        },
+        {
+            "tag": "A2W2_ONTLOG_RILEY_0001",
+            "en": "Where was it?",
+            "ru_native": "Где она?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де вона?"
+        },
+        {
+            "tag": "A2W2_ONTLOG_RILEY_0002",
+            "en": "It’s okay. Where was it?",
+            "ru_native": "Ладно. Где она?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Де вона?"
+        }
+    ]
+}

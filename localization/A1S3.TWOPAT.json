@@ -1,0 +1,177 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S3.TWOPAT",
+    "entries": [
+        {
+            "tag": "A1S3.TWOPAT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.TWOPAT_CHOICE_0000_OPTION_0000",
+            "en": "Okay, left path it is.",
+            "ru_native": "Хорошо, пойдем налево.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ходімо наліво."
+        },
+        {
+            "tag": "A1S3.TWOPAT_CHOICE_0000_OPTION_0001",
+            "en": "Nah, I'm going right.",
+            "ru_native": "Не-а, я пойду направо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я піду направо."
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0000",
+            "en": "Oh, wait—sorry—the path splits here. The right is for more experienced hikers.",
+            "ru_native": "Ой, погоди. Тут дорога расходится. Справа тропа для опытных туристов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай. Тут роздоріжжя. Справа стежка для досвідчених туристів."
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0001",
+            "en": "Can we take the longer path, on the left?",
+            "ru_native": "Пойдем по долинной дороге, которая слева?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Підемо довшим шляхом, що зліва?"
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0002",
+            "en": "It's just… Athena and I are NOT experienced hikers.",
+            "ru_native": "Просто... Мы с Буддой НЕ опытные туристы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… ми з Буддою точно НЕ досвідчені туристи."
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0003",
+            "en": "So I know she didn't go this way.",
+            "ru_native": "Она бы точно тут не пошла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що вона сюди б не пішла."
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0004",
+            "en": "It'll take an extra minute, but…",
+            "ru_native": "Так выйдет чуть дольше, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так буде трошки довше, але…"
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0005",
+            "en": "Less opportunity to break a foot.",
+            "ru_native": "Меньше рисков сломать ногу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Менше шансів зламати ногу."
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0006",
+            "en": "And Athena…",
+            "ru_native": "И Будда...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І Будда…"
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0007",
+            "en": "Great. Thanks.",
+            "ru_native": "Отлично, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, дякую."
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0008",
+            "en": "Yeah, no, I'll—I'll just meet you up the way a bit, where the fork reconnects.",
+            "ru_native": "Окей, встретимся дальше на развилке, где тропа снова сходится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, зустрінемося на роздоріжжі, де стежка знову сходиться."
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0009",
+            "en": "See you in a minute.",
+            "ru_native": "Увидимся через минуту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Побачимося за хвилину."
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0010",
+            "en": "Eh, I… can tell I'm holding you back—that's okay.",
+            "ru_native": "Ладно, не хочу тебя задерживать. Все норм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, не буду тебе затримувати. Усе добре."
+        },
+        {
+            "tag": "A1S3.TWOPAT_JACOB_0011",
+            "en": "I'll meet up with you around the bend, where the pathways connect.",
+            "ru_native": "Встретимся за поворотом, где тропа снова сходится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зустрінемося за поворотом, де стежка знову сходиться."
+        },
+        {
+            "tag": "A1S3.TWOPAT_RILEY_0000",
+            "en": "Okay, uh, sure thing. Left path it is. I got time.",
+            "ru_native": "Да, не вопрос. Давай налево. Время у меня есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, гаразд. Ходімо наліво. Я не поспішаю."
+        },
+        {
+            "tag": "A1S3.TWOPAT_RILEY_0001",
+            "en": "Eh, I'm kind of on a time crunch… if you wanna… maybe go around—?",
+            "ru_native": "Слушай, у меня времени в обрез. Может, ты пойдешь в обход?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, у мене обмаль часу… Якщо хочеш… можеш піти в обхід…"
+        },
+        {
+            "tag": "A1S3.TWOPAT_RILEY_0002",
+            "en": "Yeah, that’s fine, left path.",
+            "ru_native": "Ага, хорошо, налево.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ходімо наліво."
+        },
+        {
+            "tag": "A1S3.TWOPAT_RILEY_0003",
+            "en": "I’m just gonna go right, if you wanna…maybe go around?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто пойду направо, если ты хочешь... может, обойти?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто піду направо, якщо ти так хочеш… можливо, обійти…?"
+        }
+    ]
+}

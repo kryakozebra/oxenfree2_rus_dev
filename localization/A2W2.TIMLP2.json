@@ -1,0 +1,393 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.TIMLP2",
+    "entries": [
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0000_OPTION_0000",
+            "en": "Is this Alex?",
+            "ru_native": "Это Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Алекс?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0000_OPTION_0001",
+            "en": "You want Rex?",
+            "ru_native": "Тебе нужен Рекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі потрібен Рекс?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0000_OPTION_0002",
+            "en": "No, he’s not.",
+            "ru_native": "Нет, его нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Його немає."
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0001_OPTION_0000",
+            "en": "How old are you?",
+            "ru_native": "Сколько тебе лет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скільки тобі років?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0001_OPTION_0001",
+            "en": "Rex?",
+            "ru_native": "Рекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рекс?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0001_OPTION_0002",
+            "en": "No, he’s not.",
+            "ru_native": "Нет, его нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Його немає."
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0002_OPTION_0000",
+            "en": "Leave us alone.",
+            "ru_native": "Отстань.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відчепися."
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0002_OPTION_0001",
+            "en": "You’re not scaring me.",
+            "ru_native": "Я тебя не боюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тебе не боюсь."
+        },
+        {
+            "tag": "A2W2.TIMLP2_CHOICE_0002_OPTION_0002",
+            "en": "[Hang up]",
+            "ru_native": "[Повесить трубку]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Покласти слухавку]"
+        },
+        {
+            "tag": "A2W2.TIMLP2_JACOB_0000",
+            "en": "Well—",
+            "ru_native": "Ну...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну…"
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0000",
+            "en": "Is this—is this… Alex?",
+            "ru_native": "Это... это Алекс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це Алекс?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0001",
+            "en": "Uh, Rex? Who—who are you—",
+            "ru_native": "Рекс? Кто... кто ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рекс? Хто… хто ти?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0002",
+            "en": "Good lord, no. He’s not.",
+            "ru_native": "Господи, нет. Его нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, ні. Його немає."
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0003",
+            "en": "Huh? How-how old are you? Where are your parents?",
+            "ru_native": "Что? Сколько тебе лет? Где твои родители?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? С-скільки тобі років? Де твої батьки?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0004",
+            "en": "Can’t you just leave us alone. Please?",
+            "ru_native": "Оставь нас в покое, пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залиш нас у спокої, будь ласка."
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0005",
+            "en": "Look, you don’t belong here—you’re dead. You’re all dead. Go be dead.",
+            "ru_native": "Слушай, это не твой мир – ты мертва. Вы все мертвы. Такими и оставайтесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, це не твій світ. Ви мертві. Ви всі мертві. Такими й залишайтеся."
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0006",
+            "en": "Okay, look, you’re not scaring us, okay?—",
+            "ru_native": "Слушай, мы вас не боимся, ясно?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, ми вас не боїмося, ясно?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0007",
+            "en": "You’re not scaring me.",
+            "ru_native": "Я тебя не боюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тебе не боюсь."
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0008",
+            "en": "We’re going to the Creek and we’re planting the transmitter, so… you can just quit it with the parlor games. Alright?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы идем в Крик и сажаем передатчик, так что... можешь завязывать с салонными играми. Хорошо?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.TIMLP2_RILEY_0009",
+            "en": "We’re planting the transmitter and disrupting that portal so… you can just quit it with the parlor games. Alright?",
+            "ru_native": "Мы ставим передатчик и закрываем портал, так что... конец салонным забавам. Ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ставимо радіопередавач, щоби вивести з ладу портал, тож… досить цих ігор, гаразд?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0000",
+            "en": "Hi! Is Rex home?",
+            "ru_native": "Привет! Рекс дома?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт! Рекс удома?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0001",
+            "en": "[ID-1] [ALIAS] [little girl voice] [dialing noise]",
+            "ru_native": "[ID-1]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0002",
+            "en": "Oh, sorry, my hand slipped.",
+            "ru_native": "Ой, простите, рука соскочила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибачте, рука зіскочила."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0003",
+            "en": "No, Mrs. Poverly, this is Eric, Rex’s friend from school.",
+            "ru_native": "Нет, Миссис Поверли, это Джессика, школьная подруга Рекса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, місіс Поверлі, це Ерік, шкільний товариш Рекса."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0004",
+            "en": "I do have a message from—from your friends, though—they say…",
+            "ru_native": "У меня сообщение от... от ваших друзей. Они говорят...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене є повідомлення від… ваших друзів… Вони кажуть…"
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0005",
+            "en": "Sorry, Mrs. Poverly, this is Eric, Rex’s friend from school.",
+            "ru_native": "Простите, миссис Поверли, это Джессика, школьная подруга Рекса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, місіс Поверлі, це Ерік, шкільний товариш Рекса."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0006",
+            "en": "Oh! That’s—that’s okay, Mrs. Poverly. This is Eric, by the way. Rex’s friend from school.",
+            "ru_native": "Ой! Ничего, миссис Поверли. Это Джессика, кстати. Школьная подруга Рекса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой! Нічого страшного, місіс Поверлі. До речі, це Ерік, шкільний товариш Рекса."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0007",
+            "en": "Hellllooooo? Anyone there? Mrs. Poverly? This is Eric, Rex’s friend from school.",
+            "ru_native": "Алло? Есть там кто-нибудь? Миссис Поверли? Это Джессика, школьная подруга Рекса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло-о-о? Мене хтось чує? Місіс Поверлі? Це Ерік, шкільний товариш Рекса."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0008",
+            "en": "I have a message from Alex? If you’re still on the—okay—she says…",
+            "ru_native": "У меня сообщение от Алекс. Если вы еще... в общем... она говорит...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене є повідомлення від Алекс. Якщо ви ще… словом… вона каже…"
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0009",
+            "en": "[ID-14] [ALIAS] [little girl voice] [dialing noise]",
+            "ru_native": "[ID-14]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0010",
+            "en": "Hi Mrs. Poverly, it’s me, Eric, Rex’s friend from school.",
+            "ru_native": "Здравствуйте, миссис Поверли, это Джессика, школьная подруга Рекса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вітаю, місіс Поверлі, це Ерік, шкільний товариш Рекса."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0011",
+            "en": "If Rex isn’t there, I do have a message for you, actually…",
+            "ru_native": "Если Рекса нет, то у меня к вам сообщение...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо Рекса немає, то в мене є повідомлення для вас…"
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0012",
+            "en": "The Grand Duke of York had ten thousand men—",
+            "ru_native": "Великий герцог Йоркский повел людей в поход...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Великий герцог Йоркський повів людей у похід…"
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0013",
+            "en": "He marched them to the top, and back down again.",
+            "ru_native": "С ним десять тысяч в гору и под гору идет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ідуть із ним десять тисяч на захід і на схід."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0014",
+            "en": "You have ten thousand lives, Riley. Don’t waste them all getting [voice distorts] lost in the woods.",
+            "ru_native": "У тебя десять тысяч жизней, Райли. Не потрать их все на блуждания по лесу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе є десять тисяч життів, Райлі. Не витрать їх усі на блукання лісом."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0015",
+            "en": "[ominous voice] You can’t stop what’s coming.",
+            "ru_native": "Грядущее тебе не остановить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не зможеш зупинити те, що станеться."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0016",
+            "en": "Okay, got all that?",
+            "ru_native": "Ну что, все поняла?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що, усе зрозуміло?"
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0017",
+            "en": "It’s kind of like a riddle.",
+            "ru_native": "Это что-то вроде загадки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це загадка така."
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0018",
+            "en": "Hey! That’s not very nice!",
+            "ru_native": "Эй! Это невежливо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Це не дуже ввічливо!"
+        },
+        {
+            "tag": "A2W2.TIMLP2_VOICE_0019",
+            "en": "Games are supposed to be fun, Mrs. Poverly. Are you having fun?",
+            "ru_native": "Игры должны веселить, миссис Поверли. Вы веселитесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ігри зазвичай веселі, місіс Поверлі. Вам весело?"
+        }
+    ]
+}

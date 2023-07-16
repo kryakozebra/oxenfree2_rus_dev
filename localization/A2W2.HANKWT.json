@@ -1,0 +1,411 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.HANKWT",
+    "entries": [
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0000_OPTION_0000",
+            "en": "Hank? Please pick up.",
+            "ru_native": "Хэнк? Ответь, пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Відповідай, будь ласка."
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0001_OPTION_0000",
+            "en": "Oh great.",
+            "ru_native": "Супер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, супер."
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0001_OPTION_0001",
+            "en": "Ugh.",
+            "ru_native": "Уф.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух."
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0002_OPTION_0000",
+            "en": "Our time is wrong?",
+            "ru_native": "Наше время неверное?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наш час неправильний?"
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0002_OPTION_0001",
+            "en": "Bye Hank.",
+            "ru_native": "Пока, Хэнк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай, Хенку."
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0003_OPTION_0000",
+            "en": "Hank? You there?",
+            "ru_native": "Хэнк? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти там?"
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0004_OPTION_0000",
+            "en": "Know the Park Ranger?",
+            "ru_native": "Знаешь рейнджера?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, ти знаєш наглядачів?"
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0004_OPTION_0001",
+            "en": "I’m near the beach.",
+            "ru_native": "Я у пляжа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я біля пляжу."
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0005_OPTION_0000",
+            "en": "Okay, weirdo.",
+            "ru_native": "Ладно, чудик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, чудило."
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0005_OPTION_0001",
+            "en": "Thanks for nothing.",
+            "ru_native": "Спасибо за ничего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що не допоміг."
+        },
+        {
+            "tag": "A2W2.HANKWT_CHOICE_0005_OPTION_0002",
+            "en": "Bye.",
+            "ru_native": "Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай."
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0000",
+            "en": "[WT] [static noise] Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум] Райлі?"
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0001",
+            "en": "[WT] [stretched out and weird] Helllooooo Puppppyyyy. Arrreee youuuuu aa gooood bboooyy?",
+            "ru_native": "Пр-р-р-ривет, пр-р-риятель. Ты-ы хор-р-роший ма-а-альчик?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пр-р-р-ривіт, др-р-руже. Ти-и хоро-о-оший хло-о-опчик?"
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0002",
+            "en": "[WT] I’mmmm a goood boooyyy toooooo.",
+            "ru_native": "Я-я-я то-о-оже хоро-о-оший.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я-я-я те-е-еж хоро-о-оший."
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0003",
+            "en": "[WT] Barrrrkkkkkk Barrrkkkkk",
+            "ru_native": "Га-а-а-в, га-а-а-в",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га-а-а-ав, га-а-а-ав"
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0004",
+            "en": "[WT] Wherrrreeeee’ssss Daaaaaaddd?",
+            "ru_native": "Где-е-е-е па-а-а-почка?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де-е-е-е та-а-а-атко?"
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0005",
+            "en": "[WT] Yeah, I’m here.",
+            "ru_native": "Да, я здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я тут."
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0006",
+            "en": "[WT] Uh, no, never. I know it’s a woman and she’s fairly tall, but I’ve only seen her from a distance.",
+            "ru_native": "Не-а. Я знаю, что это женщина и что она<br>довольно высокая, но я ее только издалека видел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Я знаю, що це жінка і вона доволі висока, але я її бачив лише здалеку."
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0007",
+            "en": "[WT] Ah, okay, thank you for that bit of information.",
+            "ru_native": "Ах, хорошо, спасибо, что сказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, дякую, що сказала."
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0008",
+            "en": "[WT] I’ll add it to your file.",
+            "ru_native": "Добавлю в твое личное дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я додам це у твою особисту справу."
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0009",
+            "en": "[WT] You don’t have a file, that was a bit of humor.",
+            "ru_native": "Нет у меня никакого дела, я пошутил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Немає в мене жодної особистої справи, я жартую."
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0010",
+            "en": "[WT] Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0011",
+            "en": "[WT] Okay, what’s another way to put that? It’s going to sound weird no matter what, but it’s all I knew.",
+            "ru_native": "Ну а как еще сказать? Это все равно будет звучать странно, но других идей у меня нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А як ще сказати? Це все одно буде звучати дивно, але інших ідей у мене немає."
+        },
+        {
+            "tag": "A2W2.HANKWT_HANK_0012",
+            "en": "[WT] Okay, sorry, Riley, but I gotta take care of something. Over and out.",
+            "ru_native": "Ладно, прости, Райли, но у меня тут дела. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, вибач, Райлі, але в мене тут справи. Кінець зв’язку."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0000",
+            "en": "Hank? C’mon, man, are you there?",
+            "ru_native": "Хэнк? Чувак, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти там?"
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0001",
+            "en": "Hey, uh, Hank? I… think I keep repeating things? Are you there?",
+            "ru_native": "Хэнк? Я... кажется, повторяюсь? Ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Я… здається, повторююсь. Ти там?"
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0002",
+            "en": "I’d really love some guidance here… Over.",
+            "ru_native": "Мне тут не помешал бы совет... Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені б не завадила порада… Прийом."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0003",
+            "en": "[sigh] Okay. Great.",
+            "ru_native": "Ладно. Класс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Гаразд. Чудово."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0004",
+            "en": "[sigh] Yeah, this isn’t working.",
+            "ru_native": "Да, не работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Так, не працює."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0005",
+            "en": "[to herself] I think my time is… wrong or… yours is stuck? I don’t know what I’m saying.",
+            "ru_native": "Кажется, мое время… неверное или… твое застряло? Что я несу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, мій час… неправильний чи твій застряг? Я не знаю, про що я."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0006",
+            "en": "Bye Hank, thanks for nothing, over and out.",
+            "ru_native": "Пока, Хэнк, спасибо, что не помог. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай, Хенку. Дякую, що не допоміг. Кінець зв’язку."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0007",
+            "en": "Hey, uh, Hank. Are you there? Over.",
+            "ru_native": "Эй, Хэнк. Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Хенку. Ти там? Прийом."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0008",
+            "en": "Hey, just, uh, just curious. Do you know the Park Ranger?",
+            "ru_native": "Слушай, ты случайно не знаешь рейнджера?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, ти раптом не знаєш тутешніх наглядачів?"
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0009",
+            "en": "We’re by the Ranger Station and I want to know if I should know something. Over.",
+            "ru_native": "Мы сейчас на станции рейнджеров. Скажи, нужно ли мне что-то знать? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зараз на станції наглядачів. Скажи, мені слід щось знати? Прийом."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0010",
+            "en": "Uh, just letting you know that we’re, uh, near the beach.",
+            "ru_native": "Эм, просто хотела сказать, что мы недалеко от пляжа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, просто хотіла сказати, що ми неподалік пляжу."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0011",
+            "en": "I think maybe it’s a good idea to just let people know where we are… sometimes… just in case.",
+            "ru_native": "Я подумала, может, стоит иногда говорить людям, где мы... на всякий случай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я подумала, що варто іноді казати людям, де ми… про всяк випадок."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0012",
+            "en": "Okay, weirdo. What a bizarre way to put something. Over.",
+            "ru_native": "Ладно, чудик. Странный способ сказать «я запомню». Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, чудило. Це дивний спосіб сказати «я запам’ятаю». Прийом."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0013",
+            "en": "Alright, thanks for nothing. Over.",
+            "ru_native": "Ладно, спасибо. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, дякую. Прийом."
+        },
+        {
+            "tag": "A2W2.HANKWT_RILEY_0014",
+            "en": "Bye, Hank. Over and out.",
+            "ru_native": "Пока, Хэнк. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай, Хенку. Кінець зв’язку."
+        }
+    ]
+}

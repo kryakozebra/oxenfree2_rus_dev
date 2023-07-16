@@ -1,0 +1,366 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S1.HANKWT",
+    "entries": [
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0000_OPTION_0000",
+            "en": "Hank? We’re leaving.",
+            "ru_native": "Хэнк? Мы уходим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку, ми йдемо."
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0001_OPTION_0000",
+            "en": "Olivia’s still trying.",
+            "ru_native": "Оливия не сдается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія все ще не здається."
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0001_OPTION_0001",
+            "en": "Our plan got ruined.",
+            "ru_native": "План на грани провала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наш план на грані зриву."
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0001_OPTION_0002",
+            "en": "Don’t worry about it.",
+            "ru_native": "Не забивай голову.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся про це."
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0002_OPTION_0000",
+            "en": "I’ll look for it.",
+            "ru_native": "Буду ждать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекатиму."
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0002_OPTION_0001",
+            "en": "I don’t read.",
+            "ru_native": "Я не читаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не читаю."
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0002_OPTION_0002",
+            "en": "See you later.",
+            "ru_native": "Увидимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще побачимось."
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0003_OPTION_0000",
+            "en": "One way to put it.",
+            "ru_native": "Можно и так сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна й так сказати."
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0003_OPTION_0001",
+            "en": "Bye.",
+            "ru_native": "Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай."
+        },
+        {
+            "tag": "A3S1.HANKWT_CHOICE_0003_OPTION_0002",
+            "en": "Thanks for the help.",
+            "ru_native": "Спасибо за помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за допомогу."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0000",
+            "en": "Oh yeah? What’s, uh, what’s going on?",
+            "ru_native": "Да? А что такое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так? А що відбувається?"
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0001",
+            "en": "Well… a part of me admires it. Sorry you’re on the other end.",
+            "ru_native": "Заслуживает уважения. Жаль, что тебе это выходит боком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заслуговує на повагу. Прикро, що тобі це виходить боком."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0002",
+            "en": "Yeah. Understood.",
+            "ru_native": "Да. Понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ясно."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0003",
+            "en": "I won’t.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не буду."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0004",
+            "en": "Oh, so they’re really not going well. Mm.",
+            "ru_native": "Значит, дела идут совсем туго.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Значить, справи дійсно складні."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0005",
+            "en": "Well… thanks for the photo and the shoe, Riley. I’ll send you an advance copy of the book.",
+            "ru_native": "Спасибо за фото и ботинок, Райли. Я пришлю тебе раннюю копию книги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за фото й за чобіт, Райлі. Я надішлю тобі ранню копію книги."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0006",
+            "en": "And good luck out there.",
+            "ru_native": "Удачи тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щасти!"
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0007",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0008",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0009",
+            "en": "I really don’t know why I even bother—over and out.",
+            "ru_native": "Не знаю, зачем вообще пытаюсь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, навіщо взагалі намагаюся."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0010",
+            "en": "Too bad we never got all the evidence required for a truly thorough study, but… still…",
+            "ru_native": "Жаль, что мы не собрали достаточно данных для подробного исследования, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прикро, що ми не зібрали достатньо даних для детального дослідження, але…"
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0011",
+            "en": "It was a highly engaging night.",
+            "ru_native": "Ночка была захватывающая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніч була цікава!"
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0012",
+            "en": "If I do say so.",
+            "ru_native": "Это уж точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вже точно!"
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0013",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A3S1.HANKWT_HANK_0014",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0000",
+            "en": "Hank? You there? We have to go to Edwards Island. Things… aren’t going well. Over.",
+            "ru_native": "Хэнк! Ты там? Нам нужно на остров Эдвардса. Дела идут не очень. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенку? Ти там? Нам потрібно на острів Едвардса. Справи йдуть не дуже. Прийом."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0001",
+            "en": "Olivia’s… she’s still trying. And… that’s it, she just—she won’t quit. Over.",
+            "ru_native": "Оливия продолжает пытаться. Вот и все. Она не сдается. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія не здається. От і все. Прийом."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0002",
+            "en": "Our plan got ruined. It won’t work unless we go and stop it at the source. Over.",
+            "ru_native": "Наш план на грани провала. Он не сработает, если не доберемся до источника.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наш план на межі зриву. Він не спрацює, якщо не доберемося до джерела. Прийом."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0003",
+            "en": "Just… don’t worry about it. I think you’d worry if I said. So. Don’t worry.",
+            "ru_native": "Не забивай голову. Ты будешь волноваться, если расскажу. Не надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не заморочуйся. Ти хвилюватимешся, якщо я скажу. Не треба."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0004",
+            "en": "I’ll keep an eye out for it. Trust no one, etc. Bye.",
+            "ru_native": "Буду ждать. Никому не верь и все такое. Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я стежитиму. Нікому не вір тощо. Бувай."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0005",
+            "en": "I don’t read.",
+            "ru_native": "Я не читаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не читаю."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0006",
+            "en": "[ID-16] [snickers]",
+            "ru_native": "[ID-16]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Хихотить]"
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0007",
+            "en": "Hey, I’ll see you later. Over.",
+            "ru_native": "Еще увидимся. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Побачимось. Прийом."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0008",
+            "en": "Well that’s certainly one way to put it. Over.",
+            "ru_native": "Да, можно и так выразиться. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, можна й так сказати. Прийом."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0009",
+            "en": "Okay, bye, Hank, before I get all teary-eyed. Over and out.",
+            "ru_native": "Ладно, пока, Хэнк, а то я расплачусь. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, бувай, Хенку. А то пущу сльозу. Кінець зв’язку."
+        },
+        {
+            "tag": "A3S1.HANKWT_RILEY_0010",
+            "en": "Hey, thanks for the help. I could have done it without you, but… it would have sucked more. Over.",
+            "ru_native": "Спасибо за помощь. Я бы и без тебя справилась, но было бы куда паршивей. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за допомогу. Я б і без тебе упоралась, але було б набагато гірше. Прийом."
+        }
+    ]
+}

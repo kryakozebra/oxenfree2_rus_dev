@@ -1,0 +1,186 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S4.REASUM",
+    "entries": [
+        {
+            "tag": "A1S4.REASUM_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.REASUM_CHOICE_0000_OPTION_0000",
+            "en": "Wow! Pretty.",
+            "ru_native": "Ух ты! Красота.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух ти! Яка краса."
+        },
+        {
+            "tag": "A1S4.REASUM_CHOICE_0000_OPTION_0001",
+            "en": "Lightning storm?",
+            "ru_native": "Гроза?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гроза із блискавкою?"
+        },
+        {
+            "tag": "A1S4.REASUM_CHOICE_0000_OPTION_0002",
+            "en": "Looks foreboding…",
+            "ru_native": "Выглядит угрожающее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виглядає загрозливо…"
+        },
+        {
+            "tag": "A1S4.REASUM_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S4.REASUM_CHOICE_0001_OPTION_0000",
+            "en": "Wow! Pretty.",
+            "ru_native": "Ух ты! Красота.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух ти! Яка краса."
+        },
+        {
+            "tag": "A1S4.REASUM_CHOICE_0001_OPTION_0001",
+            "en": "Lightning storm?",
+            "ru_native": "Гроза?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гроза із блискавкою?"
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0000",
+            "en": "Oh, whoa. That—that's crazy. Is that a storm? Or…",
+            "ru_native": "Ух ты. Это... дико. Это что, буря? Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух ти. Це… неймовірно. То що, буря? Або…"
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0001",
+            "en": "We don't… usually get skies like this.",
+            "ru_native": "У нас обычно не бывает такого неба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас зазвичай не буває такого неба."
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0002",
+            "en": "Looks cool, but…",
+            "ru_native": "С виду круто, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На вигляд круто, але…"
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0003",
+            "en": "It's weird, right?",
+            "ru_native": "Странно, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно, справді?"
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0004",
+            "en": "Yeah. Pretty.",
+            "ru_native": "Ага. Мило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм. Красиво."
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0005",
+            "en": "Yeah. Maybe. We might wanna do this quick.",
+            "ru_native": "Да. Возможно. Надо бы ускориться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Можливо. Потрібно прискоритися."
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0006",
+            "en": "Oh, whoa. See that? Over Edwards Island?",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, стоп. Видишь это? Над островом Эдвардс?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оу, ого. Ти це бачиш? Над островом Едвардса?"
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0007",
+            "en": "That storm cloud looks nuts.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это грозовое облако выглядит безумно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця грозова хмара виглядає лячно."
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0008",
+            "en": "So… over here looks like as good as spot as any…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так что... вот здесь, похоже, самое подходящее место...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже… ось добре місце, як і будь-де тут…"
+        },
+        {
+            "tag": "A1S4.REASUM_JACOB_0009",
+            "en": "Let’s plant it around this area. It’s clear enough. I think.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай посадим его вокруг этой области. Здесь достаточно чисто. Я думаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай встановимо його десь поблизу. Тут немає перешкод. Здається."
+        },
+        {
+            "tag": "A1S4.REASUM_RILEY_0000",
+            "en": "Oh, wow. It looks… pretty, whatever it is.",
+            "ru_native": "Ничего себе. Выглядит мило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого собі. Виглядає… красиво, щоб то не було."
+        },
+        {
+            "tag": "A1S4.REASUM_RILEY_0001",
+            "en": "Oh, cool. A lightning storm? Or… something like that?",
+            "ru_native": "Вот круто! Это гроза? Или типа того?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О це круто! Це гроза з блискавкою? Чи типу того?"
+        },
+        {
+            "tag": "A1S4.REASUM_RILEY_0002",
+            "en": "[disquieted] Yeah… that doesn’t look great. Kind of foreboding. Right?",
+            "ru_native": "Да... выглядит не очень. Довольно угрожающе, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[стурбовано] Так… виглядає не дуже. Досить загрозливо, чи не так?"
+        }
+    ]
+}

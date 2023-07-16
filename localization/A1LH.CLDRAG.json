@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1LH.CLDRAG",
+    "entries": [
+        {
+            "tag": "A1LH.CLDRAG_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1LH.CLDRAG_CHOICE_0000_OPTION_0000",
+            "en": "This thing is broken.",
+            "ru_native": "Сломано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця штука поламана."
+        },
+        {
+            "tag": "A1LH.CLDRAG_CHOICE_0000_OPTION_0001",
+            "en": "Asshole.",
+            "ru_native": "Бесит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніяк."
+        },
+        {
+            "tag": "A1LH.CLDRAG_CHOICE_0000_OPTION_0002",
+            "en": "Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "A1LH.CLDRAG_JACOB_0000",
+            "en": "Good God!",
+            "ru_native": "Бог ты мой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже милостивий!"
+        },
+        {
+            "tag": "A1LH.CLDRAG_JACOB_0001",
+            "en": "Doesn’t surprise me.",
+            "ru_native": "Не удивлен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не дивно."
+        },
+        {
+            "tag": "A1LH.CLDRAG_JACOB_0002",
+            "en": "I believe you.",
+            "ru_native": "Верю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тобі вірю."
+        },
+        {
+            "tag": "A1LH.CLDRAG_JACOB_0003",
+            "en": "Let it be.",
+            "ru_native": "Оставь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нехай."
+        },
+        {
+            "tag": "A1LH.CLDRAG_JACOB_0004",
+            "en": "That thing’s ancient, probably can’t shut.",
+            "ru_native": "Она древняя, все равно не закроется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двері старовинні, мабуть, і не зачиняються."
+        },
+        {
+            "tag": "A1LH.CLDRAG_RILEY_0000",
+            "en": "Must not’ve latched.",
+            "ru_native": "Не закрылась, видимо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, не замкнула."
+        },
+        {
+            "tag": "A1LH.CLDRAG_RILEY_0001",
+            "en": "Latch must be busted.",
+            "ru_native": "Задвижка сломана.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, засув поламаний."
+        },
+        {
+            "tag": "A1LH.CLDRAG_RILEY_0002",
+            "en": "This door is an asshole.",
+            "ru_native": "Эта дверь меня бесит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Двері ніяк не піддаються."
+        },
+        {
+            "tag": "A1LH.CLDRAG_RILEY_0003",
+            "en": "Sorry. I promise I shut the thing.",
+            "ru_native": "Ой, прости. Клянусь, я ее закрыла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, вибач. Присягаюся, я зачиняла їх."
+        }
+    ]
+}

@@ -1,0 +1,312 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC04.NIA2G2",
+    "entries": [
+        {
+            "tag": "WC04.NIA2G2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.NIA2G2_CHOICE_0000_OPTION_0000",
+            "en": "Nick, tell me about Garland.",
+            "ru_native": "Ник, расскажите мне про Гарленд.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нік, розкажи мені про Гарленд."
+        },
+        {
+            "tag": "WC04.NIA2G2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.NIA2G2_CHOICE_0001_OPTION_0000",
+            "en": "Looks abandoned.",
+            "ru_native": "Он же заброшен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виглядає покинутим."
+        },
+        {
+            "tag": "WC04.NIA2G2_CHOICE_0001_OPTION_0001",
+            "en": "So intense.",
+            "ru_native": "Какая экспрессия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так агресивно."
+        },
+        {
+            "tag": "WC04.NIA2G2_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.NIA2G2_CHOICE_0002_OPTION_0000",
+            "en": "Yikes.",
+            "ru_native": "Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто жах."
+        },
+        {
+            "tag": "WC04.NIA2G2_CHOICE_0002_OPTION_0001",
+            "en": "Uh, overkill?",
+            "ru_native": "Какой смысл?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це вже занадто."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0000",
+            "en": "Garland? Hell no!",
+            "ru_native": "В Гарленде? Ну уж нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гарлендом? Ще чого!"
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0001",
+            "en": "I prefer my throat intact, thanks.",
+            "ru_native": "Мне моя глотка дорога, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я люблю, коли моя горлянка залишається неушкодженою, дякую."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0003",
+            "en": "Well, its history isn’t…",
+            "ru_native": "Зато история есть...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, його історія…"
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0004",
+            "en": "You bet your goddamn boots.",
+            "ru_native": "Не то слово!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще б пак!"
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0005",
+            "en": "That charming little graveyard they got there?",
+            "ru_native": "Про их очаровательное маленькое кладбище?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про те чарівне маленьке кладовище, яке там утворилося?"
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0006",
+            "en": "Fifty some odd years ago, someone dug up every corpse in the place…",
+            "ru_native": "Пятьдесят с чем-то лет назад кто-то раскопал все могилы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "П’ятдесят із чимось років тому хтось викопав усі трупи в тому місці…"
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0007",
+            "en": "…cut their throats, and left them there.",
+            "ru_native": "...перерезал трупам глотки и оставил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…перерізав їм горла й залишив їх там."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0008",
+            "en": "All of ‘em.",
+            "ru_native": "Всех.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усіх."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0009",
+            "en": "Uncovered and sliced open.",
+            "ru_native": "Неприкрытых, со вспоротым горлом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Викопаними з перерізаними горлянками."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0010",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0011",
+            "en": "Nothing good or lordly about it.",
+            "ru_native": "Нет в этом ни святого, ни угодного.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого святого чи господнього в цьому немає."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0012",
+            "en": "But I know what you mean.",
+            "ru_native": "Но я тебя понял.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я розумію, що ти мала на увазі."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0013",
+            "en": "Well, dude…",
+            "ru_native": "Ну, черт...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, друзяко…"
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0014",
+            "en": "People claim they take secrets to the grave—",
+            "ru_native": "Одни считают, что унесут свои тайны в могилу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Люди кажуть, що забирають секрети в могилу…"
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0015",
+            "en": "—but for some folks, that’s not good enough.",
+            "ru_native": "...но другим этого недостаточно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…але для декого цього недостатньо."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0016",
+            "en": "Whoever took a shovel and a knife to that graveyard…",
+            "ru_native": "Тот, кто пришел тогда на кладбище с ножом и лопатой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто б не узяв лопату й ніж на той цвинтар…"
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0017",
+            "en": "…they fell into the latter.",
+            "ru_native": "...был явно из вторых.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ті трупи померли в останнє."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0018",
+            "en": "Either way, never been, and never will I ever go.",
+            "ru_native": "В общем, я там ни разу не был и не собираюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так чи інакше, я ніколи не був і ніколи не піду туди."
+        },
+        {
+            "tag": "WC04.NIA2G2_NICK_0019",
+            "en": "Over and—agh now my throat feels tight—over and out.",
+            "ru_native": "Конец... блин, аж горло свело... конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець… і тепер наче щось стискає моє горло… кінець зв’язку."
+        },
+        {
+            "tag": "WC04.NIA2G2_RILEY_0000",
+            "en": "Nick, you ever make it out to Garland?",
+            "ru_native": "Ник, а вы бывали в Гарленде?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нік, ти коли-небудь гуляв Гарлендом?"
+        },
+        {
+            "tag": "WC04.NIA2G2_RILEY_0001",
+            "en": "What’s there to be afraid of? The place is empty.",
+            "ru_native": "А чего бояться? Там же никого нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що тут страшного? Він пустий."
+        },
+        {
+            "tag": "WC04.NIA2G2_RILEY_0002",
+            "en": "Wow, you’re passionate about this.",
+            "ru_native": "Ого, смотрю, вы к нему неравнодушны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, ти захоплюєшся його історією."
+        },
+        {
+            "tag": "WC04.NIA2G2_RILEY_0003",
+            "en": "Good lord.",
+            "ru_native": "Святые угодники.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи святий."
+        },
+        {
+            "tag": "WC04.NIA2G2_RILEY_0004",
+            "en": "Well that’s just overkill.",
+            "ru_native": "Блин, это же бред.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, це просто вже занадто."
+        },
+        {
+            "tag": "WC04.NIA2G2_RILEY_0005",
+            "en": "I mean, they’re already dead, dude.",
+            "ru_native": "В смысле, эти люди уже были мертвы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто, вони ж уже мертві, чувак."
+        }
+    ]
+}

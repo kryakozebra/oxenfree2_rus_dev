@@ -1,0 +1,321 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "DOCK.COMCEN",
+    "entries": [
+        {
+            "tag": "DOCK.COMCEN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "DOCK.COMCEN_CHOICE_0000_OPTION_0000",
+            "en": "We should stake it out.",
+            "ru_native": "Нужно подождать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам треба розвідати"
+        },
+        {
+            "tag": "DOCK.COMCEN_CHOICE_0000_OPTION_0001",
+            "en": "Let's keep moving, then.",
+            "ru_native": "Тогда идем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді рушаймо далі."
+        },
+        {
+            "tag": "DOCK.COMCEN_CHOICE_0000_OPTION_0002",
+            "en": "Buncha creeps.",
+            "ru_native": "Кучка психов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене мурашки."
+        },
+        {
+            "tag": "DOCK.COMCEN_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "DOCK.COMCEN_CHOICE_0001_OPTION_0000",
+            "en": "What are they again?",
+            "ru_native": "Они кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна ще раз, хто вони?"
+        },
+        {
+            "tag": "DOCK.COMCEN_CHOICE_0001_OPTION_0001",
+            "en": "Church gives me the creeps.",
+            "ru_native": "От церкви мурашки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я завжди нервуюся в релігійних закладах"
+        },
+        {
+            "tag": "DOCK.COMCEN_EVELYN_0000",
+            "en": "Oh, uh, I’m not—I’m not sure.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, э-э, я не-я не уверен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "DOCK.COMCEN_EVELYN_0001",
+            "en": "Oh! That’s… Parentage. They’re… a religion? A… faith?",
+            "ru_native": "Это «Наследие». У них своя... религия? Вера?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж… Парентаж! Вони вважаються… релігією? Вірою?"
+        },
+        {
+            "tag": "DOCK.COMCEN_EVELYN_0002",
+            "en": "I don’t know what to call it, but they’re very, uh, kooky, is the diplomatic way of saying it.",
+            "ru_native": "Не знаю, как их назвать, но ребята там... чудные, если выражаться политкорректно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, як це назвати, але цей народ, м’яко кажучи, зі своїми тарганами."
+        },
+        {
+            "tag": "DOCK.COMCEN_EVELYN_0003",
+            "en": "Anyways, it doesn’t matter. Membership is small and this time of night, they won’t let you in.",
+            "ru_native": "В любом случае это неважно. Людей там мало, и поздней ночью они тебя не впустят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У будь-якому випадку, коло послідовників у них вузьке,<br>і тебе зараз, вночі, ніхто не пустить."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0000",
+            "en": "Oh, this place? No, this is, uh, the... Parentage building.",
+            "ru_native": "Это место? Нет, это здание «Наследия».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це? Ні, то цей… Парентаж."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0001",
+            "en": "They’re the permanent residents—they rent it for their church functions.",
+            "ru_native": "Они тут на постоянке, арендуют все помещения для своей церкви.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони тут постійні резиденти… орендують для своїх сектантських заходів."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0002",
+            "en": "Doesn’t look like anyone’s here, so…",
+            "ru_native": "Похоже, там сейчас никого, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, що нікого немає."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0003",
+            "en": "Let’s just avoid this area, if we could?",
+            "ru_native": "Предлагаю просто обойти стороной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай просто обійдемо це місце, якщо вийде?"
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0004",
+            "en": "Thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0005",
+            "en": "I don’t know… we have a lot to do and I don’t know why any of them would come back here.",
+            "ru_native": "Не знаю... Нам еще многое нужно сделать, а сюда вряд ли кто-то придет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю… У нас купа справ, і жодна з них не тут."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0006",
+            "en": "I’d rather not waste time hoping one of them needs to use the bathroom, you know?",
+            "ru_native": "Я бы не стал тратить время в надежде, что кому-то из них приспичит в туалет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я б радше не сподівався, що нам там знадобиться туалет."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0007",
+            "en": "Well… to be fair, I think that was built before they took it over, but… yeah. Creeps.",
+            "ru_native": "Вообще здание построили прежде, чем они тут обосновались, но... да. Психи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, заради справедливості… думаю, дім було побудовано ще задовго,<br>як вони його зайняли, але… так. Жах."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0008",
+            "en": "It’s that group I mentioned earlier? They’re kind of a cult… they’d say a sect, probably. Or faith.",
+            "ru_native": "Группа, что я упоминал. Что-то вроде секты...<br>Хотя они назвали бы себя общиной или верой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ті, яких я згадував? То, типу, культ чи секта, як вони це називають. Або релігія."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0009",
+            "en": "They believe in moon stuff. I don’t really know. They’re just… a little to a lot strange.",
+            "ru_native": "Они верят в силу луны, или типа того. Немного... чересчур странные люди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони поклоняються місяцю. Я знаю небагато. Вони просто… трохи дуже дивакуваті."
+        },
+        {
+            "tag": "DOCK.COMCEN_JACOB_0010",
+            "en": "I’ve never been particularly God-fearing, but… I understand the comfort of it. A little.",
+            "ru_native": "Я никогда не был особо набожным, но... могу понять, как вера приносит покой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ніколи не був віруном, але… Я розумію, що люди в цьому знаходять. Трохи."
+        },
+        {
+            "tag": "DOCK.COMCEN_LESLIE_0000",
+            "en": "Um, I don’t know. Probably. I mean, it’s a building, so.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм, не знаю. Возможно. Я имею в виду, что это здание, так что.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0000",
+            "en": "Is the, uh, is the building here for anything? Sorry, I’m at the end of the bridge.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это, э-э, здание здесь для чего-нибудь нужно? Извини, я нахожусь в конце моста.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0001",
+            "en": "Is the, uh, the building here a general Community Center, or… something else.",
+            "ru_native": "Это здание – обычный общественный центр или... что-то еще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це, гм, напевно будівля якогось громадського центру…"
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0002",
+            "en": "There are symbols on the wall…?",
+            "ru_native": "Тут на стенах символы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут якісь символи на стіні…"
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0003",
+            "en": "This building looks like Lewis and Clark could’ve slept here but the, uh, security’s new.",
+            "ru_native": "Здание выглядит, будто тут первооткрыватели ночевали, но охрана современная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця будівля виглядає так, ніби в ній ще могли ночувати Льюїс і Кларк.<br>Хоча системи безпеки, дивлюся, нові."
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0004",
+            "en": "Maybe it’s a meeting house now or something…",
+            "ru_native": "Может, это какой-то молитвенный дом или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може вони тут зустрічаються чи ще щось…"
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0005",
+            "en": "Oh, if this is like their headquarters, shouldn’t we—wouldn’t it be good to, uh, stake it out?",
+            "ru_native": "Раз это главный штаб, может стоит... подождать тут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це їхній штаб, хіба… може нам варто розвідати там ситуацію?"
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0006",
+            "en": "Or something?",
+            "ru_native": "Или как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні?"
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0007",
+            "en": "Oh okay. Yeah… let’s keep moving.",
+            "ru_native": "Ну да. Пойдем дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ходімо далі."
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0008",
+            "en": "God. What a bunch of creeps. Even their church has to have this giant gate.",
+            "ru_native": "Кучка психов. Даже у их церкви обязаны быть огромные ворота.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, у мене мурашки. Навіть у їхній святині мають бути ці величезні ворота."
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0009",
+            "en": "Parentage… what are they again?",
+            "ru_native": "«Наследие»... Кто они?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Парентаж… можна ще раз, хто вони такі?"
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0010",
+            "en": "Church just in general kind of gives me the creeps, you know.",
+            "ru_native": "Церкви всегда нагоняют на меня мурашки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, мені некомфортно від будь-яких релігійних організацій."
+        },
+        {
+            "tag": "DOCK.COMCEN_RILEY_0011",
+            "en": "The ceremony of it—all so focused on dying and death.",
+            "ru_native": "Этот церемониал, построенный вокруг смерти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їхні ритуали… усі пов’язані зі смертю та вмиранням."
+        }
+    ]
+}

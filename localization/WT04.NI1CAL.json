@@ -1,0 +1,276 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT04.NI1CAL",
+    "entries": [
+        {
+            "tag": "WT04.NI1CAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NI1CAL_CHOICE_0000_OPTION_0000",
+            "en": "Hey, Nick.",
+            "ru_native": "Привет, Ник.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Ніку."
+        },
+        {
+            "tag": "WT04.NI1CAL_CHOICE_0000_OPTION_0001",
+            "en": "Find a hobby.",
+            "ru_native": "Найдите хобби.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайдіть собі хобі."
+        },
+        {
+            "tag": "WT04.NI1CAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NI1CAL_CHOICE_0001_OPTION_0000",
+            "en": "Is it frozen?",
+            "ru_native": "Вода замерзла?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вода замерзла?"
+        },
+        {
+            "tag": "WT04.NI1CAL_CHOICE_0001_OPTION_0001",
+            "en": "That’s good news right?",
+            "ru_native": "Это же хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж чудово?"
+        },
+        {
+            "tag": "WT04.NI1CAL_CHOICE_0002_OPTION_0000",
+            "en": "Hey, Nick.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, Ник.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Ніку."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0000",
+            "en": "Let’s settle on “different.”",
+            "ru_native": "Необычно, скажем так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так би мовити, незвичні."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0001",
+            "en": "Nope! But trust me, you wanna hear this.",
+            "ru_native": "Нет! Но ты захочешь это услышать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Але повір мені, ти захочеш це почути."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0002",
+            "en": "I’m an amateur sailor, you know. But I read books.",
+            "ru_native": "Я моряк-любитель, сама знаешь, но книжки читаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сама знаєш, я моряк-любитель, але книжки читаю."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0003",
+            "en": "And if you’re learning to sail, the first thing you’ll read is—the ocean is never still.",
+            "ru_native": "И когда ты учишься ходить под парусом, первое, что узнаешь – океану неведом покой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І коли ти вчишся ходити під вітрилами, перше,<br>про що ти дізнаєшся — океан завжди неспокійний."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0004",
+            "en": "Never trust calm water.",
+            "ru_native": "Нельзя доверять штилю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можна вірити штилю."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0005",
+            "en": "But tonight… that’s all there is.",
+            "ru_native": "Но сегодня... только он и есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але сьогодні… є лише він."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0006",
+            "en": "It’s still as a cup of water.",
+            "ru_native": "Тихо, как в стакане.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вода спокійна, ніби в склянці."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0007",
+            "en": "Never seen such a thing.",
+            "ru_native": "Впервые вижу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уперше таке бачу."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0008",
+            "en": "It’d be beautiful if it wasn’t so… unexpected.",
+            "ru_native": "Было бы красиво, не будь так... неожиданно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було б красиво, якби не так… несподівано."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0009",
+            "en": "Right. No, not frozen. I wouldn’t be in motion if it was.",
+            "ru_native": "Да. Она не замерзла. Я бы тогда не двигался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Вона не замерзла. Я б тоді не рухався."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0010",
+            "en": "And yet, merrily I roll along…",
+            "ru_native": "Но я спокойно качусь дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я спокійно просуваюся далі…"
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0011",
+            "en": "My life preserver is still gathering dust, it’s true, but…",
+            "ru_native": "Спасательный жилет все еще пылится, да, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ще не користувався рятівним жилетом, так, але…"
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0012",
+            "en": "It just doesn’t feel safe cause it feels so wrong.",
+            "ru_native": "Как-то мне не по себе. Это все неправильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені якось ніяково. Це все неправильно."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0013",
+            "en": "Huh… common sense would have me steer back home, but uh…",
+            "ru_native": "Здравый смысл говорит мне поворачивать домой, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здоровий глузд каже мені вертати додому, але…"
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0014",
+            "en": "I should… see what’s out there.",
+            "ru_native": "Я должен увидеть, что там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я маю… побачити, що там."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0015",
+            "en": "I’m gonna need a tether, though, so if you don’t mind just reach out on the semi-regular.",
+            "ru_native": "Но мне понадобится страховка, так что время от времени выходи на связь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але мені знадобиться страховка, тому час від часу виходь на зв’язок."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0016",
+            "en": "Make sure I haven’t completely gone ass over tea kettle.",
+            "ru_native": "Проверяй, не сгинул ли я с концами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевіряй, чи не зник я там."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0017",
+            "en": "Alright, Riley, you keep an eye on the dirt, I’ll keep one on the drink.",
+            "ru_native": "Ладно, Райли. Ты следи за сушей, я прослежу за водой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Райлі, ти стеж за сушею, а я — за водою."
+        },
+        {
+            "tag": "WT04.NI1CAL_NICK_0018",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "WT04.NI1CAL_RILEY_0000",
+            "en": "Hey there, Nick. How are the waves? Over.",
+            "ru_native": "Привет, Ник. Как там волны? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Ніку. Як там хвилі? Прийом."
+        },
+        {
+            "tag": "WT04.NI1CAL_RILEY_0001",
+            "en": "Nick! Don’t you have anything better to do?",
+            "ru_native": "Ник! Вы лучше занятий не нашли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку! Вам більше нічого робити?"
+        },
+        {
+            "tag": "WT04.NI1CAL_RILEY_0002",
+            "en": "Still like frozen? It’s not that cold… right? Over.",
+            "ru_native": "Вода замерзла? Вроде не так холодно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вода замерзла? Наче ж не так холодно… Прийом."
+        },
+        {
+            "tag": "WT04.NI1CAL_RILEY_0003",
+            "en": "Well that’s good, right? Still means safe. Not choppy. Over.",
+            "ru_native": "Это же хорошо? Безопасно, никаких порывов. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж добре? Безпечно, ніяких поривів. Прийом."
+        }
+    ]
+}

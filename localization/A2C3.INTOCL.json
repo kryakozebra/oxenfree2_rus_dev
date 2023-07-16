@@ -1,0 +1,960 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C3.INTOCL",
+    "entries": [
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0000_OPTION_0000",
+            "en": "What do you mean?",
+            "ru_native": "В смысле?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто?"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0000_OPTION_0001",
+            "en": "We can’t do anything.",
+            "ru_native": "Мы ничего не можем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тут нічого не поробимо."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0000_OPTION_0002",
+            "en": "Somebody should do something.",
+            "ru_native": "Кто-то должен что-то сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хтось має щось зробити."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0001_OPTION_0000",
+            "en": "She’s moving away.",
+            "ru_native": "Она уезжает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона переїжджає."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0001_OPTION_0001",
+            "en": "We talk to her family.",
+            "ru_native": "Поговорим с семьей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговоримо з родиною."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0001_OPTION_0002",
+            "en": "I don’t care about her.",
+            "ru_native": "Мне плевать на нее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені начхати на неї."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0002_OPTION_0000",
+            "en": "It’ll be alright.",
+            "ru_native": "Все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде гаразд."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0002_OPTION_0001",
+            "en": "What do you want me to say?",
+            "ru_native": "Что ты хочешь услышать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ти від мене хочеш?"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0002_OPTION_0002",
+            "en": "Don’t worry so much.",
+            "ru_native": "Не переживай так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не переймайся."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0003_OPTION_0000",
+            "en": "Don’t worry so much.",
+            "ru_native": "Не переживай так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся так."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0003_OPTION_0001",
+            "en": "We’ll figure it out.",
+            "ru_native": "Мы разберемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми все розрулимо."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0004_OPTION_0000",
+            "en": "No kidding.",
+            "ru_native": "Не смеши.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ти смішний."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0004_OPTION_0001",
+            "en": "You’re not having fun?",
+            "ru_native": "Тебе не весело?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі нудно?"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0004_OPTION_0002",
+            "en": "Feel free to go home.",
+            "ru_native": "Можешь идти домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тебе ніхто тут не тримає."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0005_OPTION_0000",
+            "en": "I ditched most days.",
+            "ru_native": "Я прогуливала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я прогулювала."
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0005_OPTION_0001",
+            "en": "No, why?",
+            "ru_native": "Нет, а что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, а що?"
+        },
+        {
+            "tag": "A2C3.INTOCL_CHOICE_0005_OPTION_0002",
+            "en": "[LIE] Yeah, sure.",
+            "ru_native": "[Ложь] Конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[БРЕХНЯ] Звичайно."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0000",
+            "en": "I, uh… I don’t know what we’re gonna do about Olivia.",
+            "ru_native": "Не знаю, что нам делать с Оливией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не знаю, що нам робити з Олівією."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0001",
+            "en": "But, uh, I was just saying that I don’t know what we’re gonna do about Olivia.",
+            "ru_native": "В общем, я не знаю, что нам делать с Оливией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "То…я гадки не маю, що ми маємо робити з Олівією."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0002",
+            "en": "Just, uh…",
+            "ru_native": "Просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто…"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0003",
+            "en": "Just so you know.",
+            "ru_native": "Держу в курсе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоби ти знала."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0004",
+            "en": "I really don’t.",
+            "ru_native": "Ноль идей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі без поняття."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0005",
+            "en": "Yeah I just want the thing over, too, but… like… we have to tell somebody about this. Right?",
+            "ru_native": "Да, я тоже, но... Нужно ведь кому-то об этом сказать. Согласись?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я теж цього хочу, але… хіба ми не маємо повідомити про це комусь?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0006",
+            "en": "Her Aunt and Uncle, or the… cops, but that’s… weird, so.",
+            "ru_native": "Тете с дядей, или... полиции, хотя это странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її тітці з дядьком? Або копам? Але то буде дивно."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0007",
+            "en": "Meaning, like… I don’t know what we’re gonna do when this is all over.",
+            "ru_native": "То есть... Я не знаю, что нам делать, когда все закончится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто…. я не розумію, як нам вчинити, коли все це закінчиться."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0008",
+            "en": "We have to tell someone, right?",
+            "ru_native": "Нужно же кому-то сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми маємо комусь про це розповісти, так?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0009",
+            "en": "Like… what’s the ending, here? We plant the last transmitter, and… what?",
+            "ru_native": "Типа... Что потом? Мы поставим передатчик, и... что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну типу… Який буде фінал? Ми розмістимо останній радіопередавач, і… що?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0010",
+            "en": "We fixed tonight. Okay. So what. What about Olivia?",
+            "ru_native": "Сегодняшний день мы спасли. И что? А Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні все вийшло. Ну гаразд. І що? Що буде з Олівією?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0011",
+            "en": "Should we talk to her Aunt and Uncle, should we get her arrested? Like…",
+            "ru_native": "Нам поговорить с ее тетей и дядей? Или натравить полицию?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи маємо ми поговорити з її тіткою та дядьком? Чи треба її арештувати?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0012",
+            "en": "Yeah, we’re here to do the radio stuff but… we have to tell somebody about this, though, right?",
+            "ru_native": "Да, наше дело – радио, но... Надо же кому-то об этом рассказать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ми тут порпаємося з радіо, але… ми ж маємо про це сповістити когось?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0013",
+            "en": "But, uh, seriously, about Olivia… should we be telling her Aunt and Uncle about this?",
+            "ru_native": "И все-таки насчет Оливии... Нам рассказать ее тете и дяде о случившемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно, про Олівію… треба все розповісти її тітці з дядьком?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0014",
+            "en": "I just don’t know.",
+            "ru_native": "Просто я не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю я."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0015",
+            "en": "What’s the—the endgame here, really?",
+            "ru_native": "Что будет потом?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До чого все це призведе, ну правда?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0016",
+            "en": "Should we be telling the police?",
+            "ru_native": "Расскажем все полиции?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може розказати все поліції?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0017",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0018",
+            "en": "I really don’t know.",
+            "ru_native": "Я правда не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я правда не знаю."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0019",
+            "en": "I mean… I guess. I guess so… yeah.",
+            "ru_native": "Ну да... Наверное. Ты права.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… напевно. Напевно так."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0020",
+            "en": "Yeah… I hope she went home, too.",
+            "ru_native": "Да... Я тоже надеюсь, что она дома.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… Я б теж хотів, щоби вона вже була вдома."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0021",
+            "en": "Okay. Fine. Nevermind. Whatever.",
+            "ru_native": "Ладно. Проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Гаразд. Забудь. Проїхали."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0022",
+            "en": "Not always.",
+            "ru_native": "Не всегда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не завжди."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0023",
+            "en": "I don’t think they do—I’m just, uh… I don’t know. It sucks.",
+            "ru_native": "Я не о том... Короче, не знаю. Фигня какая-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не думаю, що вони… Я просто… Не знаю. Повна халепа."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0024",
+            "en": "I’m just nervous. I guess.",
+            "ru_native": "Я просто переживаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто нервуюся напевно."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0025",
+            "en": "Okay. No—okay.",
+            "ru_native": "Да. Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Але… добре."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0026",
+            "en": "Yeah, no—yeah.",
+            "ru_native": "Да, я... Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, але… добре."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0027",
+            "en": "It seems so. So, yeah.",
+            "ru_native": "Вроде. Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на те. Так."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0028",
+            "en": "We’ll figure it out.",
+            "ru_native": "Мы разберемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми все розрулимо."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0029",
+            "en": "Miss Adler told me when I was a kid to come down, uh, a little further than this area by the cliffs—",
+            "ru_native": "Когда я был мелким, мисс Адлер рассказала,<br>что можно спуститься чуть ниже вдоль скал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли я був малим, міс Адлер розповіла, що якщо спуститися трохи далі вздовж скель…"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0030",
+            "en": "—and if I brought my little rowboat and radio out a few yards I could find a military test station.",
+            "ru_native": "Если немного отплыть от берега, то по радио можно поймать военную тестовую станцию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і відпливти недалеко від берега з радіо,<br>то можна спіймати випробну станцію військових."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0031",
+            "en": "And this station played one thing. Overlapping Shephard tones that together created an auditory paradox.",
+            "ru_native": "Там крутили одну запись. Накладывающиеся тоны<br>Шепарда, которые создавали звуковой парадокс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ця станція крутила одне й те саме.<br>Тони Шепарда, що накладаються і створюють аудіоілюзію."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0032",
+            "en": "One person would hear the tone as ascending, while another person would hear the tone as descending.",
+            "ru_native": "Один человек слышал повышающийся тон, а другой – понижающийся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Одна людина буде чути, як тон підвищується, а інша, як знижується."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0033",
+            "en": "She said there were lots of these little radio secrets all along the coast—",
+            "ru_native": "Мисс Адлер говорила, что вдоль берега еще много радиосекретов...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона казала, що таких радіосекретів повно вздовж берега…"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0034",
+            "en": "— if only someone perceptive like me could find them.",
+            "ru_native": "Которые ждут, что их откроет пытливый ум.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…от би хтось уважний — я, наприклад — знайшов їх усіх."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0035",
+            "en": "And that’s really cute and all but no offense Maggie… you should’ve really pushed me into aviation or something.",
+            "ru_native": "Крайне мило, но... Мэгги, без обид, но тебе<br>стоило заинтересовать меня авиацией или еще чем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це, звичайно, мило, і все таке, але без образ, Меггі…<br>могла б мене натаскати в авіації, чи ще в чомусь."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0036",
+            "en": "Cause this sucks.",
+            "ru_native": "Так как это отстой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо це некльово."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0037",
+            "en": "So I’m officially retiring as a Radio Guy.",
+            "ru_native": "Я официально отказываюсь от радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я офіційно зав’язую з радіо."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0038",
+            "en": "And I’ll be auditioning other things to be a guy about, soon.",
+            "ru_native": "И полностью открыт для предложений от других хобби.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І готовий найближчим часом розв’язати із чимось іншим."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0039",
+            "en": "I mean just a warning — any warning would’ve been, you know, appreciated.",
+            "ru_native": "Мне бы не помешало хоть какое-нибудь предупреждение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто сигнал… я би оцінив будь-який сигнал."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0040",
+            "en": "But… whatever.",
+            "ru_native": "Ладно, пофиг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Проїхали."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0041",
+            "en": "Oh, uh, oodles, but… I just wish it didn’t involve risking my life.",
+            "ru_native": "Нет, я в восторге! Просто предпочитаю не рисковать жизнью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зовсім ні, але… я просто хочу зберегти собі життя."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0042",
+            "en": "Hey, I’m not griping. I’m not griping. Just… venting.",
+            "ru_native": "Эй, я не ною. Просто... выпускаю пар.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, я не скиглю. Не скиглю я. Просто… виговорився."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0043",
+            "en": "Sorry, I’m still, uh, half-stuck on us going to school together.",
+            "ru_native": "Прости, я все вспоминаю, как мы вместе ходили в школу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я все не викину з голови, як ми ходили разом до школи."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0044",
+            "en": "Do—do you, uh, remember Mr. Branch, the Music teacher?",
+            "ru_native": "Помнишь мистера Бранча, учителя музыки?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пам’ятаєш містера Бранча? Учителя музики?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0045",
+            "en": "He was the… shorter one…",
+            "ru_native": "Такой приземистый...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Низенький такий…"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0046",
+            "en": "Thin, white hair?",
+            "ru_native": "Белые тонкие волосы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рідке біле волосся?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0047",
+            "en": "Always wore… hats—I think…?",
+            "ru_native": "Всегда носил шляпы... вроде?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завжди носив капелюха… так, начебто?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0048",
+            "en": "No?",
+            "ru_native": "Нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні?"
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0049",
+            "en": "Ah. Yeah—that—I remember you not making roll call a lot [chuckles].",
+            "ru_native": "Ах да. Помню, как часто ты пропускала перекличку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, точно, згадав, що тебе ніколи не було на переклику [хіхікає]."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0050",
+            "en": "I just heard he died recently.",
+            "ru_native": "Говорят, он недавно умер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я чув, що він на днях помер."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0051",
+            "en": "He died recently, I heard.",
+            "ru_native": "Говорят, он недавно умер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він помер нещодавно, як я чув."
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0052",
+            "en": "And, uh—",
+            "ru_native": "И...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C3.INTOCL_JACOB_0053",
+            "en": "Actually—let me collect my thoughts real quick.",
+            "ru_native": "Так... Дай-ка мне собраться с мыслями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, дай-но мені зібрати думки до купи."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0000",
+            "en": "Uh, we can’t do anything. I’m not citizens-arresting a sixteen year old.",
+            "ru_native": "Мы ничего не можем. Я не собираюсь брать подростка под арест.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми й не можемо нічого робити. Я не збираюся саджати шістнадцятилітнє дівчисько."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0001",
+            "en": "I don’t care if she gets caught, I just want the thing over.",
+            "ru_native": "Мне на нее плевать, я лишь хочу, чтобы все закончилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені все одно на її подальшу долю. Я лише хочу, щоб усе скінчилося."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0002",
+            "en": "Uh… what do you mean?",
+            "ru_native": "В смысле?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… що ти маєш на увазі?"
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0003",
+            "en": "Well... somebody should do something.",
+            "ru_native": "Ну... Кто-то должен что-то сделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… хтось має щось зробити."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0004",
+            "en": "I don’t know who and I don’t know what, but… you know, I’m just here to do the radio stuff.",
+            "ru_native": "Не знаю, кто и что именно, но... Я здесь чисто по работе. Мое дело – радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю хто, не знаю що, але… особисто я тут для того, щоби порпатися з радіо."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0005",
+            "en": "She’s moving away, Jacob, so it really doesn’t matter.",
+            "ru_native": "Джейкоб, она уезжает, так что какая разница?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона переїжджає, Джейкобе, нема в тому сенсу."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0006",
+            "en": "In two days, she’ll be some other town’s problem.",
+            "ru_native": "Через два дня она будет в другом городе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За два дні вона стане проблемою іншого містечка."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0007",
+            "en": "We’ll, uh, we’ll do the, you know, Aunt and Uncle thing—we’ll talk to her family.",
+            "ru_native": "С подобным лучше к тете с дядей... Поговорим с семьей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, напевно ми таки розповімо все тітці з дядьком… Поговоримо з її родиною."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0008",
+            "en": "We’ll tell them what happened, and they’ll, uh, they’ll figure it out.",
+            "ru_native": "Расскажем, что случилось, и они там уже решат.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розповімо, що сталося, а вони вже там розберуться."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0009",
+            "en": "I really couldn't care less about her right now, Jacob—",
+            "ru_native": "Джейкоб, мне сейчас глубоко плевать на нее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, мені зараз на неї начхати з надзвичайно високої вежі."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0010",
+            "en": "—her or her ridiculous, self-involved, quote-unquote problems.",
+            "ru_native": "И ее нелепые и эгоистичные «проблемы».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На неї й на її абсурдні, егоїстичні так звані проблеми."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0011",
+            "en": "Let’s just hope she ran off with her tail between her legs and we can end this quick.",
+            "ru_native": "Будем надеяться, что она сбежала поджав хвост, и мы скоро положим всему конец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваймося, що вона вже сама чкурнула з підібганим хвостом<br> і ми швидко доведемо все до кінця."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0012",
+            "en": "Hey. It’s gonna be alright. Okay?",
+            "ru_native": "Все будет хорошо. Понял?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай. Усе буде добре, чуєш?"
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0013",
+            "en": "She’ll figure it out. They always do.",
+            "ru_native": "Она разберется. Дети всегда так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона дасть собі раду. Із дітьми завжди так."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0014",
+            "en": "Okay, what do you want me to say here? That I’ll take her in, that you’ll take her in—",
+            "ru_native": "Что ты хочешь услышать? Что я заберу ее к себе? Или ты заберешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну й до чого ти ведеш? Щоби я забрала її до себе? А може ти її до себе забереш?"
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0015",
+            "en": "She has people that look after her and they messed up.",
+            "ru_native": "У нее есть опекуны, и они круто облажались.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У неї вже є опікуни, і вони все просвистіли."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0016",
+            "en": "Where exactly do you see our responsibilities factoring here past tonight?",
+            "ru_native": "Как наша ответственность идет дальше завтрашнего дня?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У чому ти вбачаєш наші подальші обов’язки?"
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0017",
+            "en": "Hey, seriously, Jacob, you don’t need to worry so much.",
+            "ru_native": "Джейкоб, прекращай. Не надо так переживать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, правда, не варто так перейматися."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0018",
+            "en": "It’s gonna be what it’s gonna be. And it’s gonna be alright. So.",
+            "ru_native": "Все будет так, как будет. И будет хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буде, як буде. І буде, як треба."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0019",
+            "en": "Hey. Don’t worry so much. Okay?",
+            "ru_native": "Эй. Не переживай так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай. Не хвилюйся ти так."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0020",
+            "en": "Hey. We’ll figure it out. We have so far. Right?",
+            "ru_native": "Эй. Мы разберемся. Пока ведь получалось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей. Ми все розрулимо. У нас це непогано виходить."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0021",
+            "en": "Yeah. No kidding.",
+            "ru_native": "Да уж, не смеши.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм, а ти смішний."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0022",
+            "en": "Oh so you're telling me that you’re not having any fun?",
+            "ru_native": "Хочешь сказать, тебе совсем не весело?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш сказати, що тобі не весело?"
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0023",
+            "en": "Hey, feel free to pull the chute any time, man.",
+            "ru_native": "Слушай, можешь отчалить в любой момент.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, можеш евакуюватися в будь-яку мить."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0024",
+            "en": "I like the assistance but I don’t need the griping.",
+            "ru_native": "Я ценю помощь, но не хочу слушать нытье.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ціную допомогу, але не терплю скиглення."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0025",
+            "en": "Uh, to be honest, Jacob, I barely went to school.",
+            "ru_native": "Джейкоб, я почти не бывала в школе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, я, відверто кажучи, майже не з’являлася в школі."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0026",
+            "en": "Most days, between 8 and 3 you could usually find me hanging out behind the head shop.",
+            "ru_native": "С 8 до 15 меня обычно можно было найти за ларьком с травкой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зазвичай мене можна було знайти за магазином із травою, десь із 8:00 до 15:00."
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0027",
+            "en": "Uh, no, I don’t. Why?",
+            "ru_native": "Не помню. А что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, ні, не пам’ятаю. А що?"
+        },
+        {
+            "tag": "A2C3.INTOCL_RILEY_0028",
+            "en": "Uh, yeah. I think so, sure.",
+            "ru_native": "Кажется, да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Когось такого пам’ятаю, так."
+        }
+    ]
+}

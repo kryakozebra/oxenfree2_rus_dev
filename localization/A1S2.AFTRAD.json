@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S2.AFTRAD",
+    "entries": [
+        {
+            "tag": "A1S2.AFTRAD_EVELYN_0000",
+            "en": "[WT] Riley? Does the radio work?",
+            "ru_native": "Райли? Радио работает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Радіо працює?"
+        },
+        {
+            "tag": "A1S2.AFTRAD_EVELYN_0001",
+            "en": "[WT] Riley? Are you there? Did we lose you? Over.",
+            "ru_native": "Райли? Ты там? Ты с нами? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там? Ти з нами? Прийом."
+        },
+        {
+            "tag": "A1S2.AFTRAD_EVELYN_0002",
+            "en": "[WT] I have some other things to go over with you, okay? Over.",
+            "ru_native": "На повестке еще пара вещей. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам треба обговорити дещо. Прийом."
+        }
+    ]
+}

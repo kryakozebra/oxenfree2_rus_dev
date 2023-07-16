@@ -1,0 +1,276 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC04.WCNIC1",
+    "entries": [
+        {
+            "tag": "WC04.WCNIC1_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.WCNIC1_CHOICE_0000_OPTION_0000",
+            "en": "How’s the water, Nick?",
+            "ru_native": "Как погода, Ник?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вода, Нік?"
+        },
+        {
+            "tag": "WC04.WCNIC1_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.WCNIC1_CHOICE_0001_OPTION_0000",
+            "en": "How?",
+            "ru_native": "Как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як?"
+        },
+        {
+            "tag": "WC04.WCNIC1_CHOICE_0001_OPTION_0001",
+            "en": "Sounds cool.",
+            "ru_native": "Звучит круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить круто."
+        },
+        {
+            "tag": "WC04.WCNIC1_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC04.WCNIC1_CHOICE_0002_OPTION_0000",
+            "en": "You’re a pirate.",
+            "ru_native": "Вы теперь пират.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тепер пірат."
+        },
+        {
+            "tag": "WC04.WCNIC1_CHOICE_0002_OPTION_0001",
+            "en": "Go to the hospital!",
+            "ru_native": "Вам надо в больницу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі треба до лікарні!"
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0000",
+            "en": "Like glass.",
+            "ru_native": "Как стекло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скло."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0001",
+            "en": "And I don’t mean see-through. I mean sharp.",
+            "ru_native": "Не в смысле, ясная. В смысле, острая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не в сенсі, ясна. А в сенсі гостра."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0002",
+            "en": "The water, it looks… jagged. Like you’d cut yourself to shreds swimming in it.",
+            "ru_native": "На воде такие...зубцы. Как будто порезаться можно, если будешь плавать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На воді такі… зубці. Наче порізатися можна, якщо пливти."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0003",
+            "en": "Boat’s just shattering its way through.",
+            "ru_native": "Лодка просто пробивает дорогу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Човен просто пробиває дорогу."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0004",
+            "en": "Merrily we crunch along.",
+            "ru_native": "Мы весело движемся вперед.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми весело рухаємось уперед."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0005",
+            "en": "You took my line.",
+            "ru_native": "С языка сняла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теж хотів спитати."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0006",
+            "en": "All I know is I’m sailing through it smoothly, so hey, gift horse, mouth.",
+            "ru_native": "Знаю только, что лодка идет гладко, так что, как говорится, дареному коню...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю тільки, що човен йде гладко, тож, як то кажуть, дарованому коневі…"
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0007",
+            "en": "It’s got that spider’s web beauty to it.",
+            "ru_native": "И паутина добавляет своего шарма.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Красиво, наче павутиння."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0008",
+            "en": "It’s pretty, but you know there’s danger crawling around it somewhere.",
+            "ru_native": "Все очень красиво, но ты знаешь, что где-то там притаилась опасность.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе це дуже гарно, але ти знаєш, що десь там причаїлася небезпека."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0009",
+            "en": "A “drop” did splash its way up, though. Cut me right on the eyelid. I put gauze on it.",
+            "ru_native": "Правда, одна «капля» все же отскочила. Порезала мне правое веко. Я наложил марлю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоправда, одна «крапля» все ж таки відскочила.<br>Порізала мені праву повіку. Я наклав марлю."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0010",
+            "en": "Nothing like blood on the pupil to wake you right up.",
+            "ru_native": "Ничто так не бодрит, как залитый кровью глаз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніщо так не бадьорить, як залите кров’ю око."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0011",
+            "en": "Coffee schmoffee.",
+            "ru_native": "Кофе-шмофе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кава-шмава."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0012",
+            "en": "I’ll name it Riley if I do.",
+            "ru_native": "Попугая я назову Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Папугу я назву Райлі."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0013",
+            "en": "Oh please, I’ve cut myself worse on tortilla chips.",
+            "ru_native": "Да перестань, я бывало, чипсами еще сильнее резался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та годі, я бувало, чіпсами ще дужче різався."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0014",
+            "en": "It’s clotted, life goes on.",
+            "ru_native": "Кровь запеклась, жизнь продолжается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кров запеклася, життя продовжується."
+        },
+        {
+            "tag": "WC04.WCNIC1_NICK_0015",
+            "en": "Still floating, appreciate the check-in. Keep your eyelids safe, kid. Over and out.",
+            "ru_native": "Еще на плаву, спасибо за беспокойство. Береги веки, малышка. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ще на плаву, дякую, що непокоїшся. Бережи повіки, мала. Кінець зв’язку."
+        },
+        {
+            "tag": "WC04.WCNIC1_RILEY_0000",
+            "en": "How’s the weather, Nick? How’s the water?",
+            "ru_native": "Как погода, Ник? Как погода?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як погода, Нік? Як вода?"
+        },
+        {
+            "tag": "WC04.WCNIC1_RILEY_0001",
+            "en": "How is that possible?",
+            "ru_native": "Как такое возможно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як таке можливо?"
+        },
+        {
+            "tag": "WC04.WCNIC1_RILEY_0002",
+            "en": "That actually sounds… kinda cool, ya know?",
+            "ru_native": "Вообще-то, звучит... довольно круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Узагалі, звучить… досить круто."
+        },
+        {
+            "tag": "WC04.WCNIC1_RILEY_0003",
+            "en": "You’re a proper pirate now.",
+            "ru_native": "Вы теперь настоящий пират.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тепер справжній пірат."
+        },
+        {
+            "tag": "WC04.WCNIC1_RILEY_0004",
+            "en": "Let’s find you a parrot, maybe some scurvy for kicks.",
+            "ru_native": "Осталось найти вам попугая и деревянную ногу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишилося знайти папугу та дерев’яну ногу."
+        },
+        {
+            "tag": "WC04.WCNIC1_RILEY_0005",
+            "en": "Jesus, dude, go to the ER!",
+            "ru_native": "Боже, вам надо в больницу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, тобі треба до медичного пункту!"
+        }
+    ]
+}

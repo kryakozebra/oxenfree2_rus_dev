@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C5.APPLAD",
+    "entries": [
+        {
+            "tag": "A2C5.APPLAD_CHOICE_0000_OPTION_0001",
+            "en": "Who’s there?",
+            "ru_native": "<none>",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "<none>"
+        },
+        {
+            "tag": "A2C5.APPLAD_JACOB_0000",
+            "en": "Riley?",
+            "ru_native": "Райли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.APPLAD_RILEY_0000",
+            "en": "Jacob…",
+            "ru_native": "Джейкоб...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.APPLAD_RILEY_0001",
+            "en": "Who’s there…",
+            "ru_native": "Кто здесь?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

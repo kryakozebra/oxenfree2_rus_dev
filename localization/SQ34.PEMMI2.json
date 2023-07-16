@@ -1,0 +1,87 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "SQ34.PEMMI2",
+    "entries": [
+        {
+            "tag": "SQ34.PEMMI2_CHOICE_0000_OPTION_0000",
+            "en": "Sure.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Конечно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуємо."
+        },
+        {
+            "tag": "SQ34.PEMMI2_CHOICE_0000_OPTION_0001",
+            "en": "Not yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пока нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зараз."
+        },
+        {
+            "tag": "SQ34.PEMMI2_JACOB_0000",
+            "en": "Wanna talk to her now?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хочешь поговорить с ней сейчас?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш підійти зараз до неї?"
+        },
+        {
+            "tag": "SQ34.PEMMI2_JACOB_0001",
+            "en": "We might only get the one conversation but hey, better one than none?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Возможно, мы получим только один разговор, но лучше один, чем ни одного?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може з нами й недовго поговорять, але це ж краще за нічого?"
+        },
+        {
+            "tag": "SQ34.PEMMI2_JACOB_0002",
+            "en": "Might as well, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL С таким же успехом, верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуємо?"
+        },
+        {
+            "tag": "SQ34.PEMMI2_JACOB_0003",
+            "en": "Whatcha think?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что скажешь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи ні?"
+        },
+        {
+            "tag": "SQ34.PEMMI2_JACOB_0004",
+            "en": "You know what, we’re goin’ for it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Знаешь что, мы пойдем на это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш що? Ми йдемо."
+        },
+        {
+            "tag": "SQ34.PEMMI2_RILEY_0000",
+            "en": "Yeah, let’s do it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, давай сделаем это.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, спробуємо."
+        },
+        {
+            "tag": "SQ34.PEMMI2_RILEY_0001",
+            "en": "No, not yet.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, пока нет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, поки що ні."
+        }
+    ]
+}

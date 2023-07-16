@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.RADIO4",
+    "entries": [
+        {
+            "tag": "GLOB.RADIO4_JACOB_0000",
+            "en": "“And in the weather today, fire is raining from the sky and my cat can speak French!”",
+            "ru_native": "«Погода на сегодня. Ожидается дождь из огня, а мой кот говорит по-французски».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Погода на сьогодні, з неба вогонь, а мій кіт говорить французькою!»"
+        },
+        {
+            "tag": "GLOB.RADIO4_JACOB_0001",
+            "en": "It ain’t gonna work, Riley.",
+            "ru_native": "Райли, оно не сработает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не спрацює, Райлі."
+        }
+    ]
+}

@@ -1,0 +1,60 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S4.REACTS",
+    "entries": [
+        {
+            "tag": "A3S4.REACTS_JACOB_0000",
+            "en": "[awe, hint of terror] Oh, my God…",
+            "ru_native": "О боже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ошелешеність, ознаки жаху] О Господи…"
+        },
+        {
+            "tag": "A3S4.REACTS_JACOB_0001",
+            "en": "Is this–this can’t be real.",
+            "ru_native": "Это... так не бывает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це не може бути насправді."
+        },
+        {
+            "tag": "A3S4.REACTS_RILEY_0000",
+            "en": "[genuine concern] That is not good.",
+            "ru_native": "Ничего хорошего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[щире занепокоєння] Це недобре."
+        },
+        {
+            "tag": "A3S4.REACTS_RILEY_0001",
+            "en": "[awe, hint of terror] Oh, my God…",
+            "ru_native": "О боже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ошелешеність, ознаки жаху] О Господи…"
+        },
+        {
+            "tag": "A3S4.REACTS_RILEY_0002",
+            "en": "How–is this possible?",
+            "ru_native": "Это невозможно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як це можливо?"
+        },
+        {
+            "tag": "A3S4.REACTS_RILEY_0003",
+            "en": "[awe, hint of terror] Jesus…",
+            "ru_native": "Господи...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[ошелешеність, ознаки жаху] Господи Боже…"
+        }
+    ]
+}

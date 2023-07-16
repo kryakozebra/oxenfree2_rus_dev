@@ -1,0 +1,366 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC05.MAA2G2",
+    "entries": [
+        {
+            "tag": "WC05.MAA2G2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAA2G2_CHOICE_0000_OPTION_0000",
+            "en": "Maria? Ever been to Garland?",
+            "ru_native": "Мария? Ты бывала в Гарленде?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Ти була в Гарленді?"
+        },
+        {
+            "tag": "WC05.MAA2G2_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAA2G2_CHOICE_0001_OPTION_0000",
+            "en": "Sure, let’s hear it.",
+            "ru_native": "Да, давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно, розповідай."
+        },
+        {
+            "tag": "WC05.MAA2G2_CHOICE_0001_OPTION_0001",
+            "en": "No thanks.",
+            "ru_native": "Нет, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, дякую."
+        },
+        {
+            "tag": "WC05.MAA2G2_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAA2G2_CHOICE_0002_OPTION_0000",
+            "en": "No way.",
+            "ru_native": "Бред.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ну."
+        },
+        {
+            "tag": "WC05.MAA2G2_CHOICE_0002_OPTION_0001",
+            "en": "Cool.",
+            "ru_native": "Прикольно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Круто."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0000",
+            "en": "Hey! Hi! Yeah, I’ve been to that garbage dump. Are you there right now? It stinks, right?",
+            "ru_native": "Привет! Да, я бывала на этой помойке. Ты сейчас там? Воняет знатно, скажи?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей! Привіт! Так, я була на тому звалищі. Ти там зараз? Там смердить, чи не так?"
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0001",
+            "en": "Kind of smells like a vacuum cleaner that’s never been emptied.",
+            "ru_native": "Похоже на запах из пылесоса, который никогда не чистили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Смердить, як сміттєвий бак, котрий ніколи не спорожняли."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0002",
+            "en": "They taught us in history class why that is but that was last year so I don’t know anymore.",
+            "ru_native": "На истории нам объясняли причину, но это было в прошлом году, так что я уже забыла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам розповідали на уроці історії про це, але то було минулого року,<br>тому я не пам’ятаю."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0003",
+            "en": "I actually have a ghost story about the town if you want to hear it?",
+            "ru_native": "Вообще я знаю историю про местного призрака, рассказать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю одну історію про привидів і це місто, хочеш почути?"
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0004",
+            "en": "It’s not that exciting.",
+            "ru_native": "Она не особо пугающая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона не дуже цікава."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0005",
+            "en": "But it’s something?",
+            "ru_native": "Но хоть что-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але й не тривіальна."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0006",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0007",
+            "en": "Okay, too busy for story time, that’s fine. I’ll talk to you later. Over and out.",
+            "ru_native": "Слишком занята для страшилок, ясно-понятно. Поговорим позже. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, занадто заклопотана для історій, усе гаразд.<br>Поговоримо пізніше. Кінець зв’язку."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0008",
+            "en": "I’m detecting sarcasm but I’m choosing to ignore it…",
+            "ru_native": "Слышу сарказм, но проигнорирую его...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я помітила твій сарказм, але ігноруватиму його…"
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0009",
+            "en": "Okay. So, like… sixty years ago—maybe more—two teenagers from Camena High wanted to get married.",
+            "ru_native": "Итак. Где-то шестьдесят лет назад, или больше,<br>двое подростков из школы Камены захотели пожениться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Отже, десь… шістдесят років тому, а може й більше,<br>двоє підлітків зі старшої школи Камени хотіли одружитися."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0010",
+            "en": "Their parents were against the whole thing so they had a little ceremony in the Garland church.",
+            "ru_native": "Их родители были против этой затеи,<br> так что ребята провели церемонию в церкви Гарленда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їхні батьки були проти, тому вони провели невелику церемонію в церкві Гарленда."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0011",
+            "en": "Just by themselves, late at night, in secret.",
+            "ru_native": "Одни, поздно ночью, тайком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто самі, пізно ввечері, потайки."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0012",
+            "en": "They cut their hands and said some stuff. Did as much as they could without a real priest.",
+            "ru_native": "Разрезали ладони, дали клятвы. Сделали все, что могли сделать без священника.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони порізали собі руки і прийняли якісь обітниці.<br>Зробили все, що змогли без священика."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0013",
+            "en": "And the girl—she asked if the boy had some flowers. He said he didn’t.",
+            "ru_native": "И тут девушка спрашивает, принес ли парень цветы. Оказалось, что нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А потім дівчина запитала, чи є в хлопця квіти. Він сказав, що немає."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0014",
+            "en": "He left to get some, and while he was gone, a police cruiser accidentally ran over him in the dark!",
+            "ru_native": "Парень отправляется за цветами, и в темноте его случайно сбивает полицейская машина!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він пішов по квіти, і поки шукав їх, поліцейський патруль<br>випадково переїхав його в темряві!"
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0015",
+            "en": "I’m butchering this story—but it was so late the poor cop didn’t see him. Killed him instantly.",
+            "ru_native": "Из меня плохой рассказчик... Было уже так поздно, что<br>бедный коп его не увидел. Мгновенная смерть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розповідаю коротко, було так пізно, що бідний поліцейський не побачив його.<br>Хлопець помер на місці."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0016",
+            "en": "The police covered it up, saying he fell into the gorge.",
+            "ru_native": "Полиция замяла это дело, сказав, что парень упал в ущелье.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поліція приховала цей випадок, розповіла, що хлопець впав в ущелину."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0017",
+            "en": "But now, late at night, around the old church—",
+            "ru_native": "Но теперь поздно ночью у старой церкви...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відтоді, пізно ввечері, біля старої церкви…"
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0018",
+            "en": "—you can sometimes see a young man out there, dressed in a cheap suit—",
+            "ru_native": "иногда можно увидеть молодого человека в дешевом костюме,",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…іноді можна побачити хлопця, одягненого в дешевий костюм…"
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0019",
+            "en": "—picking dead flowers for his blushing new bride.",
+            "ru_native": "который собирает увядшие цветы для своей жены.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…який збирає квіти для своєї нареченої."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0020",
+            "en": "Creepy, right?",
+            "ru_native": "Жутко, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моторошно, чи не так?"
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0021",
+            "en": "I don’t know if I 100% believe it, but…",
+            "ru_native": "Не уверена, что верю на 100%, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи вірити в це на 100%, але…"
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0022",
+            "en": "Still. Over.",
+            "ru_native": "Все же. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отак. Прийом."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0023",
+            "en": "Because the cop couldn’t live with it and told his kids on his deathbed, smart ass.",
+            "ru_native": "Потому что убийцу терзала вина, и перед смертью он рассказал все детям. Не умничай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поліцейський не міг жити із цим і розказав своїм дітям на смертному одрі, розумнице."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0024",
+            "en": "So… it’s plausible enough.",
+            "ru_native": "Вполне дотягивает до правды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже… достатньо правдоподібно."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0025",
+            "en": "Oh! Teacher’s coming. Gotta go! Bye.",
+            "ru_native": "Ой! Учитель идет. Мне пора! Пока.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Вчитель йде. Треба тікати! Бувай."
+        },
+        {
+            "tag": "WC05.MAA2G2_MARIA_0026",
+            "en": "Yeah, I thought you’d like it.",
+            "ru_native": "Да, я знала, что тебе понравится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я гадала, тобі сподобається."
+        },
+        {
+            "tag": "WC05.MAA2G2_RILEY_0000",
+            "en": "Maria? Hey, are you by your desk? Know anything about Garland? Over.",
+            "ru_native": "Мария? Ты у приемника? Знаешь что-нибудь о Гарленде? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Гей, ти на місці? Знаєш щось про Гарленд? Прийом."
+        },
+        {
+            "tag": "WC05.MAA2G2_RILEY_0001",
+            "en": "Eh, I should really focus on what I’m doing here, Maria. Thanks, anyway. Over.",
+            "ru_native": "Мария, мне нужно сосредоточиться на деле. Но спасибо. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е, Маріє, мені варто зосередитися на тому, що я тут роблю. Але дякую. Прийом."
+        },
+        {
+            "tag": "WC05.MAA2G2_RILEY_0002",
+            "en": "Uh, sure, I got nothing but time, Maria. Let’s hear it. Over.",
+            "ru_native": "Конечно, у меня полно времени, Мария. Рассказывай. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, звичайно, у мене купа часу, Маріє. Розповідай. Прийом."
+        },
+        {
+            "tag": "WC05.MAA2G2_RILEY_0003",
+            "en": "W-Wait a minute. Wait a minute. How’d anyone know the cop ran him over if they covered it up?",
+            "ru_native": "Погоди. Погоди-ка. Откуда люди узнали, что его сбил полицейский, если дело замяли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хвилинку. Почекай хвилинку. Звідки хтось міг знати, що<br>поліцейський переїхав його, якщо поліція це приховала?"
+        },
+        {
+            "tag": "WC05.MAA2G2_RILEY_0004",
+            "en": "Oh, that’s a good one. I’ll let you know if I see him. Over.",
+            "ru_native": "Неплохая история. Дам тебе знать, если увижу парня. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, гарна історія. Повідомлю, якщо побачу того хлопця. Прийом."
+        }
+    ]
+}

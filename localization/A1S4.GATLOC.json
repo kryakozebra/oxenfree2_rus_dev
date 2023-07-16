@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S4.GATLOC",
+    "entries": [
+        {
+            "tag": "A1S4.GATLOC_JACOB_0000",
+            "en": "Hm, I’d say let me boost you over, but that barbed wire says otherwise.",
+            "ru_native": "Если бы не колючая проволока, можно было бы перелезть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, якби не той колючий дріт, я би попросив допомогти мені перелізти."
+        },
+        {
+            "tag": "A1S4.GATLOC_RILEY_0000",
+            "en": "Looks like the lock’s on the other side.",
+            "ru_native": "Похоже, замок с той стороны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, що там замок із того боку."
+        }
+    ]
+}

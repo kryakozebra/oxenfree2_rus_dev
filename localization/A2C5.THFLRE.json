@@ -1,0 +1,654 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C5.THFLRE",
+    "entries": [
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0000_OPTION_0000",
+            "en": "Dad?",
+            "ru_native": "Папа?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тату?"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0000_OPTION_0001",
+            "en": "I’m… okay…",
+            "ru_native": "Я... цела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе… гаразд…"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0000_OPTION_0002",
+            "en": "How’d you get here?",
+            "ru_native": "Как ты сюда попал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти тут опинився?"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0001_OPTION_0000",
+            "en": "There aren’t bears here.",
+            "ru_native": "Тут нет медведей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут немає ведмедів."
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0001_OPTION_0001",
+            "en": "How’s a flashlight help?",
+            "ru_native": "И как фонарик поможет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чим мені допоможе ліхтарик?"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0001_OPTION_0002",
+            "en": "I’ll just feed them to you.",
+            "ru_native": "Врага тебе скормлю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я їх просто тобі згодую."
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0002_OPTION_0000",
+            "en": "Oh shut up.",
+            "ru_native": "Ой, отстань.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, мовчи."
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0002_OPTION_0001",
+            "en": "Uh huh, right.",
+            "ru_native": "Да-да, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух, ну так."
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0003_OPTION_0000",
+            "en": "Oh, I don’t care.",
+            "ru_native": "Без разницы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, та начхати."
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0003_OPTION_0001",
+            "en": "Why can’t you afford it?",
+            "ru_native": "Почему у тебя нет денег?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому тобі це не по кишені?"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0003_OPTION_0002",
+            "en": "I remember that...",
+            "ru_native": "Я это помню...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я це пам’ятаю…"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0004_OPTION_0000",
+            "en": "Why?",
+            "ru_native": "Почему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому?"
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0004_OPTION_0001",
+            "en": "I want to write about Mom.",
+            "ru_native": "Я хочу написать о маме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу написати про маму."
+        },
+        {
+            "tag": "A2C5.THFLRE_CHOICE_0004_OPTION_0002",
+            "en": "When’s she coming back?",
+            "ru_native": "Когда она вернется?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли вона повернеться?"
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0000",
+            "en": "There.",
+            "ru_native": "Вот так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ось."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0001",
+            "en": "You doing okay, kiddo?",
+            "ru_native": "Живая, ребенок?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, малече?"
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0002",
+            "en": "Didn’t hurt yourself too bad?",
+            "ru_native": "Не сильно поранилась?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не забилася?"
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0003",
+            "en": "You took a bit of a tumble.",
+            "ru_native": "Летела ты красиво.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, ти не надто міцно стоїш на ногах."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0004",
+            "en": "Mother bears will protect their young—especially during mating season, so…",
+            "ru_native": "Медведицы защищают детенышей, особенно в брачный сезон, так что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ведмедиці оберігають свою малечу, особливо в шлюбний сезон, тож…"
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0005",
+            "en": "Be extra careful not to break that light.",
+            "ru_native": "Ни в коем случае не разбивай фонарь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бережи свій ліхтарик, як зіницю ока."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0006",
+            "en": "Might end up being your only protection.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В итоге может оказаться, что это твоя единственная защита.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0007",
+            "en": "[chuckle]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется].",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0008",
+            "en": "Well. That’s exactly what they want you to think.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну. Это именно то, что они хотят, чтобы ты думал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0009",
+            "en": "Well. You just have to throw it really hard.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну. Тебе просто нужно очень сильно бросить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0010",
+            "en": "With your little legs? You’d have a better chance finding a tree to climb down here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL С твоими маленькими ножками? У тебя было бы больше шансов найти дерево, чтобы забраться сюда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0011",
+            "en": "So hang on tight.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так что держись крепче.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0012",
+            "en": "[chuckling]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется].",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0013",
+            "en": "[chuckling]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [смеется].",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0014",
+            "en": "Hey, look, kiddo, I’m sorry you couldn’t go on your Fifth Grade field trip to the National Park.",
+            "ru_native": "Ребенок, слушай, мне жаль, что ты не смогла съездить с классом в национальный парк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Послухай, малече, мені шкода, що ти не поїхала на<br>екскурсію до Національного парку в п’ятому класі."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0015",
+            "en": "I was… surprised you asked me to chaperone—I know you like company, but it’s usually your friends…",
+            "ru_native": "Я удивился, когда ты попросила меня вас сопровождать...<br>Знаю, ты любишь компанию, но обычно это друзья...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я був… збитий із пантелику, коли ти попросила супроводжувати тебе…<br>Я знаю, що ти полюбляєш компанію, але ж друзів, зазвичай."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0016",
+            "en": "I know you didn’t want me to come along and chaperone—you never liked a crowd… but…",
+            "ru_native": "Знаю, ты не хотела, чтобы я вас сопровождал, ты не любишь компанию...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію, що ти не хотіла, щоби я там був… ти ніколи не любила натовп… але…"
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0017",
+            "en": "I’m just sorry I couldn’t afford it.",
+            "ru_native": "Мне жаль, что у меня не было денег.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода, що мені було це не по кишені."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0018",
+            "en": "But we can do lots of hikes like this one over the summer?",
+            "ru_native": "Но зато мы можем все лето ходить в такие походы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ж ми можемо улітку ходити в походи, як-от зараз?"
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0019",
+            "en": "Right?",
+            "ru_native": "Верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так?"
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0020",
+            "en": "So… you don’t have to mope around the house so much.",
+            "ru_native": "Поэтому давай, переставай дуться и грустить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоч… не будеш киснути постійно вдома."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0021",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0022",
+            "en": "It’s two hundred dollars.",
+            "ru_native": "Две сотни долларов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їм треба двісті доларів."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0023",
+            "en": "And I don't know why they need two hundred dollars for a bus ride to a shared hotel room and communal dinner.",
+            "ru_native": "Понятия не имею, куда им целых двести долларов<br>на поездку на автобусе, общую комнату и ужин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, чому автобус до хостелу з їдальнею раптом став коштувати двісті доларів."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0024",
+            "en": "I’ll make it up to you, though.",
+            "ru_native": "Но я свою вину заглажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я все виправлю."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0025",
+            "en": "I mean, I don’t know why they need two hundred dollars for a bus ride to a shared hotel room and communal dinner.",
+            "ru_native": "Вот понятия не имею, куда им двести долларов на<br>поездку на автобусе, общую комнату и ужин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну тобто, я не знаю, чому автобус до хостелу з їдальнею<br>раптом став коштувати двісті доларів."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0026",
+            "en": "Okay.",
+            "ru_native": "Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0027",
+            "en": "Your, uh, teachers said really nice things about you. Said you did really well in Science class…",
+            "ru_native": "Учителя о тебе хорошо отзываются. Говорят, на естествознании ты проявила себя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твої вчителі дуже хвалили тебе. Говорили,<br>що ти робиш успіхи в природознавстві…"
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0028",
+            "en": "...that you took instruction very well -- didn’t… get distracted easily...",
+            "ru_native": "",
+            "ru_machine": "DEEPL ...что ты очень хорошо воспринимал инструкции - не... легко отвлекался...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0029",
+            "en": "They also said you sometimes ignored instruction and got distracted, which… you know, isn’t too bad.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они также сказали, что ты иногда игнорировал инструкции и отвлекался, что... ну, знаешь, не так уж и плохо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0030",
+            "en": "And… Miss Cavendish said you wanted to write your paper on Mom.",
+            "ru_native": "Мисс Кавендиш говорит, что ты хочешь написать сочинение о маме.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Міс Кавендіш казала, що ти хотіла написати доповідь про матір."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0031",
+            "en": "Riley… she expects you to interview someone for that. You have to think of somebody else.",
+            "ru_native": "Райли... Для сочинения нужно взять интервью. Придется найти кого-то другого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі… щоби написати доповідь, треба взяти інтерв’ю в<br>тієї людини. Ти маєш обрати когось іншого."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0032",
+            "en": "Somebody more available.",
+            "ru_native": "Кого-то доступнее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Когось більш доступного."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0033",
+            "en": "And I don’t mean me.",
+            "ru_native": "Я не только про себя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я зараз не про себе."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0034",
+            "en": "But anybody.",
+            "ru_native": "Кого угодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Візьми будь-кого."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0035",
+            "en": "Riley. You know why.",
+            "ru_native": "Райли, ты сама знаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, ти знаєш, чому."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0036",
+            "en": "Miss Cavendish doesn’t know our history, Riley, or else she would have saved me this conversation.",
+            "ru_native": "Мисс Кавендиш не знает нашу семью, Райли. Иначе мы бы избежали этого разговора.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Міс Кавендіш не знає, що сталося, Райлі. Інакше я б про це й не дізнався."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0037",
+            "en": "You know she’s not coming back, Riley.",
+            "ru_native": "Райли, ты знаешь, что она не вернется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ж знаєш, що вона не повернеться, Райлі."
+        },
+        {
+            "tag": "A2C5.THFLRE_DAD_0038",
+            "en": "We can talk about it later, after we find the clearing.",
+            "ru_native": "Поговорим об этом позже, когда выйдем из леса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговоримо про це пізніше, коли знайдемо вихід."
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0000",
+            "en": "Uh, Dad? I don’t—what are you—",
+            "ru_native": "Папа? Я не... что ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га? Тату? Я не… що ти…"
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0001",
+            "en": "I’m… y-yeah, I’m okay.",
+            "ru_native": "Да, я цела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… так, усе добре."
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0002",
+            "en": "Uh, how’d—Dad, how’d you get—",
+            "ru_native": "Как... Папа, как ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти… Тату, як ти опинився…."
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0003",
+            "en": "You know there aren’t bears here, Dad.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты же знаешь, что здесь нет медведей, папа.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0004",
+            "en": "If there’s a bear charging at me in a cave, a flashlight isn’t going to stop them, Dad.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Если в пещере на меня нападет медведь, фонарик его не остановит, папа.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0005",
+            "en": "Okay, if any show up all I have to do is run faster than you, right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, если кто-то появится, всё, что мне нужно сделать, это бежать быстрее тебя, так?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0006",
+            "en": "Oh will you just shut up.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да заткнись ты уже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0007",
+            "en": "Uh huh, yeah, right.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Угу, да, точно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0008",
+            "en": "Oh, I don’t care about that trip. Not really, anyway.",
+            "ru_native": "Мне нет дела до этой поездки, если честно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, мені все одно на ту екскурсію. Зовсім, чесно."
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0009",
+            "en": "Oh, uh, why couldn’t you afford—or, uh, can’t afford it?",
+            "ru_native": "Почему у тебя не было... нет денег?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але чому це було тобі не по кишені… тобто, просто не по кишені?"
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0010",
+            "en": "Oh yeah, I remember this… that field trip…",
+            "ru_native": "Да, я помню... Та поездка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, точно, я пам’ятаю цю… екскурсію."
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0011",
+            "en": "Why? Why can’t I interview Mom?",
+            "ru_native": "Почему? Почему нельзя маму?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому? Чому не можна з мамою?"
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0012",
+            "en": "But I want to write about Mom. I told Miss Cavendish I would.",
+            "ru_native": "Но я хочу написать о маме. Я мисс Кавендиш так и сказала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я хочу написати про маму. Я вже казала міс Кавендіш."
+        },
+        {
+            "tag": "A2C5.THFLRE_RILEY_0013",
+            "en": "I can interview her when she’s back. When is she coming back?",
+            "ru_native": "Я могу взять интервью, когда она вернется. Когда это будет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я візьму в неї інтерв’ю, щойно вона повернеться. А коли вона повернеться?"
+        }
+    ]
+}

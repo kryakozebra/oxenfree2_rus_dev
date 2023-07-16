@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.TALTJA",
+    "entries": [
+        {
+            "tag": "A2C6.TALTJA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TALTJA_CHOICE_0000_OPTION_0000",
+            "en": "Jacob!",
+            "ru_native": "Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе!"
+        },
+        {
+            "tag": "A2C6.TALTJA_CHOICE_0000_OPTION_0001",
+            "en": "Wake up!",
+            "ru_native": "Проснись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прокидайся!"
+        },
+        {
+            "tag": "A2C6.TALTJA_CHOICE_0000_OPTION_0002",
+            "en": "Up and at’m!",
+            "ru_native": "Подъем!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Піднімайся!"
+        },
+        {
+            "tag": "A2C6.TALTJA_RILEY_0000",
+            "en": "Jacob! It’s me! Riley! Can you hear me?",
+            "ru_native": "Джейкоб! Это я! Райли! Ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Це я! Райлі! Ти мене чуєш?"
+        },
+        {
+            "tag": "A2C6.TALTJA_RILEY_0001",
+            "en": "Jacob! Let’s go! Wake up—c’mon, man! I need you!",
+            "ru_native": "Джейкоб! Пошли! Вставай, чувак! Ты мне нужен!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Ходімо! Прокидайся, годі тобі, друже! Ти мені потрібен!"
+        },
+        {
+            "tag": "A2C6.TALTJA_RILEY_0002",
+            "en": "Hey! Jacob, please! C’mon! Up and at’m, let’s go!",
+            "ru_native": "Эй! Джейкоб, давай! Проснись и пой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Джейкобе, будь ласка! Годі тобі! Піднімайся й ходімо!"
+        }
+    ]
+}

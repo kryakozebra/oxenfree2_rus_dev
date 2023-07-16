@@ -1,0 +1,1905 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S7.NEWEQU",
+    "entries": [
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0000_OPTION_0000",
+            "en": "I remember your face…",
+            "ru_native": "Твое лицо мне знакомо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоє обличчя мені знайоме…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0000_OPTION_0001",
+            "en": "Oh yeah! Jacob!",
+            "ru_native": "Да-да! Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так! Джейкоб!"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0000_OPTION_0002",
+            "en": "So what?",
+            "ru_native": "Ну и что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та й що?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0001_OPTION_0000",
+            "en": "Okay.",
+            "ru_native": "Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0001_OPTION_0001",
+            "en": "Good to see you.",
+            "ru_native": "Рада тебя видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, що зустрілися."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0002_OPTION_0000",
+            "en": "No, dead, too.",
+            "ru_native": "Нет, не работает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, теж мертва."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0002_OPTION_0001",
+            "en": "You have a phone?",
+            "ru_native": "У тебя есть телефон?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є телефон?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0003_OPTION_0000",
+            "en": "Sounds good.",
+            "ru_native": "Звучит неплохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить непогано."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0003_OPTION_0001",
+            "en": "Or the lighthouse radio?",
+            "ru_native": "Или радио на маяке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи радіо на маяку?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0003_OPTION_0002",
+            "en": "Maybe go into town?",
+            "ru_native": "Может, пойдем в город?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, підемо до міста?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0004_OPTION_0000",
+            "en": "The lighthouse, maybe?",
+            "ru_native": "Может, на маяке?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може на маяку?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0004_OPTION_0001",
+            "en": "Let’s go to your cabin.",
+            "ru_native": "Пойдем к тебе домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо до твоєї хатинки."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0005_OPTION_0000",
+            "en": "Yeah, the lighthouse.",
+            "ru_native": "Да, маяк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, маяк."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0005_OPTION_0001",
+            "en": "Let’s go to your cabin.",
+            "ru_native": "Пойдем к тебе домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо до твоєї хатинки."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0006_OPTION_0000",
+            "en": "There were people in masks…",
+            "ru_native": "Возможно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Там на мить з’явилися люди в масках…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0006_OPTION_0001",
+            "en": "Hey, don’t blame me!",
+            "ru_native": "Эй, не гони на меня!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, не скидай провину на мене!"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0006_OPTION_0002",
+            "en": "How could that do anything?",
+            "ru_native": "Как он мог что-то сделать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як те могло щось таке зробити?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0007_OPTION_0000",
+            "en": "Thank God.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Слава Богу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякувати Богу."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0007_OPTION_0001",
+            "en": "Maybe she has an idea.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, у нее есть идея.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, у неї є ідея."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0007_OPTION_0002",
+            "en": "Tell her I quit.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скажи ей, что я уволился.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажи їй, що я звільняюся."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0008_OPTION_0000",
+            "en": "Your walkie works?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Твоя рация работает?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя рація працює?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0008_OPTION_0001",
+            "en": "Maybe she has an idea.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, у нее есть идея.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, у неї є ідея."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0008_OPTION_0002",
+            "en": "Tell her I quit.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скажи ей, что я уволился.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажи їй, що я звільняюся."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0009_OPTION_0000",
+            "en": "No way. It’s dangerous.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ни в коем случае. Это опасно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У жодному разі. Це небезпечно."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0009_OPTION_0001",
+            "en": "I’m out of here, Evelyn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я ухожу отсюда, Эвелин.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я забираюся звідси, Евелін."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0009_OPTION_0002",
+            "en": "What do we need to do?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что нам нужно сделать?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що нам потрібно зробити?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0010_OPTION_0000",
+            "en": "Pass.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пас.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пас."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0010_OPTION_0001",
+            "en": "Ugh, okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф, хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф, гаразд."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0010_OPTION_0002",
+            "en": "We’re up for it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы готовы к этому.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми готові на це."
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0011_OPTION_0000",
+            "en": "Fine!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отлично!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре!"
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0011_OPTION_0001",
+            "en": "In and out, real quick. ",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зашел и вышел, очень быстро.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Туди й назад, швиденько. "
+        },
+        {
+            "tag": "A1S7.NEWEQU_CHOICE_0011_OPTION_0002",
+            "en": "Whatever, okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Неважно, ладно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, як скажеш."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0000",
+            "en": "Hey! Guys! Are you there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет, ребята! Ты здесь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Народ! Ви там?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0001",
+            "en": "Hello! Are you there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Привет! Ты здесь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов! Ви там?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0002",
+            "en": "You need to pick up please!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе нужно забрать, пожалуйста!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви повинні відповісти, будь ласка!"
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0003",
+            "en": "Oh geez, guys – I don’t – I honestly don’t think it was lightning.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О боже, ребята - я не - честно говоря, я не думаю, что это была молния.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, народ… я не… я, чесно не думаю, що то була блискавка."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0004",
+            "en": "I don’t have eyes over there but the readings on our end are completely flipping out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У меня нет глаз там, но показания с нашей стороны полностью выбивают из колеи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене там не було, але показання з нашого боку повністю протилежні."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0005",
+            "en": "You need to go back to Camber Cape and see what the transmitter is doing right now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе нужно вернуться на мыс Кэмбер и посмотреть, что сейчас делает передатчик.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно повернутися на мис Кейбер і подивитися, що зараз робить радіопередавач."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0006",
+            "en": "There’s nobody to send, I’m sorry but we’re too far out to get to it in time.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Послать некого, извини, но мы слишком далеко, чтобы успеть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Немає кого відправити, вибачте, але ми занадто<br>далеко, щоби встигнути знайти ще когось."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0007",
+            "en": "You need to go back to the transmitter and tell me what it’s doing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе нужно вернуться к передатчику и рассказать, что он делает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі потрібно повернутися до радіопередавача і сказати мені, що він робить."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0008",
+            "en": "While we still have time.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пока у нас еще есть время.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки ми ще маємо час."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0009",
+            "en": "I’m sorry, I know this is hard. But it has big ramifications if the equipment’s overloading.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Извини, я знаю, что это тяжело. Но это чревато большими последствиями, если оборудование перегружено.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода, я знаю, що це важко. Але будуть погані наслідки,<br>якщо обладнання перевантажено."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0010",
+            "en": "In time for us to figure out what’s going on before it gets any worse.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вовремя, чтобы мы успели понять, что происходит, пока не стало еще хуже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Встигнути з’ясувати, що відбувається, поки не стало ще гірше."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0011",
+            "en": "I hate to ask you to do this but it’s VERY important you go back there and check it out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне неприятно просить тебя об этом, но ОЧЕНЬ важно, чтобы ты вернулся туда и все проверил.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я би вас не просила про це, але це ДУЖЕ важливо,<br>щоб ви повернулися туди й перевірили."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0012",
+            "en": "Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0013",
+            "en": "No, I – I think I’m getting the gist.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, я - кажется, я уловил суть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я… гадаю, що зрозуміла суть."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0014",
+            "en": "Riley, if you don’t go back there, you’re not putting yourself – ugh, how do I put this…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли, если ты не вернешься туда, ты не поставишь себя - уф, как бы это сказать...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, якщо ти не повернешся туди, ти не… уф, як би це сказати…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0015",
+            "en": "You’re not in any better position than if you just go and solve the issue.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты не в лучшем положении, чем если бы просто пошел и решил этот вопрос.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі не стане краще, якщо ти просто не підеш і не вирішиш проблему."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0016",
+            "en": "Guys, really, if what you’re saying is true, then you just need to give me that data.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ребята, действительно, если то, что вы говорите, правда, то вам просто необходимо предоставить мне эти данные.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Народ, чесно, якщо те, що ви говорите, правда,<br>то вам просто необхідно надати мені ці дані."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0017",
+            "en": "I can help you if I know what’s going on!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я могу помочь тебе, если буду знать, что происходит!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зможу тобі допомогти, якщо знатиму, що відбувається!"
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0018",
+            "en": "Great!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отлично!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово!"
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0019",
+            "en": "What kind of assurances.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Какие гарантии.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Які гарантії."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0020",
+            "en": "I am… sure we can cover expenses, Jacob, just… please double-time it and get back to that transmitter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... уверен, что мы сможем покрыть расходы, Джейкоб, только... пожалуйста, удвойте время и вернитесь к этому передатчику.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… впевнена, що ми зможемо покрити витрати, Джейкобе, просто…<br>будь ласка, давайте швидше, і поверніться до того радіопередавача."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0021",
+            "en": "Thank you both so, so much, really. Lemme know when you get there. Over and out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Спасибо вам обоим огромное, правда. Дай мне знать, когда ты приедешь. Конец связи.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую вам обом дуже, дуже, чесно.<br>Дайте знати, коли дістанетеся туди. Кінець зв’язку."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0022",
+            "en": "You need to go back to the transmitter and tell me what it’s doing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе нужно вернуться к передатчику и рассказать, что он делает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно повернутися до радіопередавача і сказати мені, що він робить."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0023",
+            "en": "You need to go back to the transmitter and tell me what it’s doing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе нужно вернуться к передатчику и рассказать, что он делает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно повернутися до радіопередавача і сказати мені, що він робить."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0024",
+            "en": "You need to go back to the transmitter and tell me what it’s doing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе нужно вернуться к передатчику и рассказать, что он делает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно повернутися до радіопередавача і сказати мені, що він робить."
+        },
+        {
+            "tag": "A1S7.NEWEQU_EVELYN_0025",
+            "en": "You need to go back to the transmitter and tell me what it’s doing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе нужно вернуться к передатчику и рассказать, что он делает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно повернутися до радіопередавача і сказати мені, що він робить."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0000",
+            "en": "Hey, when I heard your name—Riley—I… well—d-do you remember junior year?",
+            "ru_native": "Знаешь, когда я услышал твое имя – Райли – я... Помнишь одиннадцатый класс?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, коли я почув твоє ім’я — Райлі, я… Пам’ятаєш одинадцятий клас?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0001",
+            "en": "You’re… Riley, right? Riley Poverly? Do you remember junior year? Camena South?",
+            "ru_native": "Ты... Райли, верно? Райли Поверли? Помнишь выпускной класс? Южная Камена?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти ж… Райлі, так? Райлі Поверлі? Пам’ятаєш одинадцятий клас? Південна Камена?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0002",
+            "en": "Mrs. Ellsmore’s English class? And, uh. P.E. fifth period?",
+            "ru_native": "Английский у миссис Эллсмор? И физкультура, пятый урок?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Англійська в місіс Елсмор? І, ем, фізкультура на п’ятому уроці?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0003",
+            "en": "We went to high school together. I dated your friend… uh, Patty. Peanut Butter Patty.",
+            "ru_native": "Мы вместе учились в школе. Я встречался с твоей подругой... По прозвищу «Пышка».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми разом навчалися в школі. Я зустрічався з твоєю подругою… Патті. Патті-Пампушка."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0004",
+            "en": "But—sorry, I was just saying that we actually went to high school together.",
+            "ru_native": "Прости, я просто хотел сказать, что мы вместе учились в старшей школе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я просто хотів сказати, що ми разом навчалися в школі."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0005",
+            "en": "Cause of the, uh, she always had it for lunch—",
+            "ru_native": "Потому что она постоянно их жевала...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що вона постійно їх їла на обід…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0006",
+            "en": "Is this, uh, ringing any bells, by chance?",
+            "ru_native": "Ну что, никаких ассоциаций?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну що, жодного спогаду?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0007",
+            "en": "We hung out once or twice.",
+            "ru_native": "Мы тусили пару раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тусили декілька разів разом."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0008",
+            "en": "Maybe a couple times at the park.",
+            "ru_native": "Может, в парк ходили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Типу, у парк ходили."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0009",
+            "en": "I dated a friend of yours?",
+            "ru_native": "Я встречался с твоей подругой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зустрічався з твоєю подругою."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0010",
+            "en": "Remember? Maybe?",
+            "ru_native": "Не помнишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не пам’ятаєш?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0011",
+            "en": "Yeah, much thicker. Grew it out so I wouldn’t get carded buying cigarettes.",
+            "ru_native": "Ага, я отрастил бороду, чтобы проще было покупать сигареты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, більша ніж зараз. Я відростив бороду, щоби легше було купувати сигарети."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0012",
+            "en": "Yeah, yes. Jacob Summers. That’s me.",
+            "ru_native": "Точно. Джейкоб Саммерс. Это я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж, так. Джейкоб Саммерс. Це я."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0013",
+            "en": "[laughing] \"Prison\"—yeah…",
+            "ru_native": "«Тюрьму», ага...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміх] «В’язниці», точно…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0014",
+            "en": "We ran in different circles, but…",
+            "ru_native": "Мы вращались в разных кругах, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тусувалися в різних компаніях, але…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0015",
+            "en": "Uh, I just wanted you to know that I knew we knew each other…",
+            "ru_native": "Я просто хотел сказать, что я знал, что мы знакомы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хотів сказати, що я знав, що ми знайомі…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0016",
+            "en": "That’s all.",
+            "ru_native": "Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От і все."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0017",
+            "en": "No biggie.",
+            "ru_native": "Ничего больше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нічого більше."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0018",
+            "en": "[clears throat]",
+            "ru_native": "Экх-кх-кхм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[прочищає горло]"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0019",
+            "en": "Yeah. You too.",
+            "ru_native": "Ага. Взаимно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж. Взаємно."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0020",
+            "en": "Yeah yeah, sure—",
+            "ru_native": "Да-да, конечно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… звичайно."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0021",
+            "en": "[clears throat]",
+            "ru_native": "Экх-кх-кхм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[прочищає горло]"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0022",
+            "en": "Uh, look, I really feel like… whatever’s happening… isn’t good. And it’s probably happening to everyone else, too.",
+            "ru_native": "Слушай, у меня такое чувство, что происходит что-то... нехорошее.<br>И, возможно, не только с нами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, у мене таке відчуття, що щось відбувається… погане.<br>І, можливо, не лише з нами."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0023",
+            "en": "And it’s weird… that I haven’t seen anybody else… now that I think about it.",
+            "ru_native": "Только сейчас подумал... странно, что мы больше никого не видели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки зараз подумав… дивно, що ми нікого більше не зустріли."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0024",
+            "en": "And I just want to figure out what’s going on, but, uh, my radio equipment’s dead.",
+            "ru_native": "Я просто хочу разобраться, что случилось, но моя рация сдохла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хочу розібратися, що трапилося, але моя рація здохла."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0025",
+            "en": "I don’t know why—maybe the storm had a surge, knocked everything out.",
+            "ru_native": "Не знаю почему... может, из-за грозы все вырубилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю чому… може, через грозу все повимикалося."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0026",
+            "en": "Your stuff working?",
+            "ru_native": "Твоя работает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твоя працює?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0027",
+            "en": "But we should—I feel like we need to contact somebody, see if anyone else has experienced… whatever this is.",
+            "ru_native": "Мне кажется, надо с кем-нибудь связаться и<br>выяснить, не было ли у них... того же самого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені здається, треба з кимось зв’язатися і з’ясувати, чи не було в них…<br>теж такого, щоби це не було…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0028",
+            "en": "Is your walkie talkie working?",
+            "ru_native": "У тебя рация работает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе рація працює?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0029",
+            "en": "Your walkie?",
+            "ru_native": "Твоя рация?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А твоя рація?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0030",
+            "en": "Can you get a signal?",
+            "ru_native": "Связь ловит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш зловити сигнал?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0031",
+            "en": "Or do you know yet?",
+            "ru_native": "Ты проверяла?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти перевіряла?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0032",
+            "en": "I do but the battery’s fried. Whatever’s going on is messing with everything.",
+            "ru_native": "Есть, но батарея села. Как назло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є, але ж батарея сіла. Щоби тут не коїлося, воно добра не робить."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0033",
+            "en": "Not… doing anything—no?—okay.",
+            "ru_native": "Не... работает, да? Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не… працює, так? Гаразд."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0034",
+            "en": "I have some walkies at my family’s cabin—it’s a ten minute walk, we can maybe… see if anyone else is having trouble.",
+            "ru_native": "У меня есть пара раций в доме у родителей – это в десяти минутах отсюда.<br>Надо выяснить, может, кому-то нужна помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене є пара рацій у хатинці батьків — це за десять хвилин пішки звідси.<br>Потрібно з’ясувати, може, хтось також потребує допомоги."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0035",
+            "en": "But—I was just gonna say, my family’s cabin is close by—we have walkie talkies and radios and stuff.",
+            "ru_native": "Я что хотела сказать, у меня родители тут недалеко живут.<br>У нас дома есть рации, радио и всякое такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я що хотів сказати, хатинка моїх батьків поблизу. Там є рації, радіо й таке інше."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0036",
+            "en": "But, uh, wanna go to my cabin? Get some working walkie talkies?",
+            "ru_native": "Хочешь пойти ко мне домой? За рабочей рацией?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш піти до моєї хатинки? За робочою рацією?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0037",
+            "en": "Or, uh, get some help.",
+            "ru_native": "Или за помощью.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… по допомогу."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0038",
+            "en": "I think we just need to contact somebody.",
+            "ru_native": "Думаю, нам просто надо с кем-то связаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, нам просто треба з кимось зв’язатися."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0039",
+            "en": "We should probably get in contact with somebody.",
+            "ru_native": "Наверное, нам стоит с кем-нибудь связаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно, нам варто з кимось зв’язатися."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0040",
+            "en": "See if we can figure out what’s going on.",
+            "ru_native": "Попробуем выяснить, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуємо дізнатися, що коїться."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0041",
+            "en": "Try and see if we can talk to somebody?",
+            "ru_native": "Попробуем с кем-нибудь поговорить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуємо з кимось поговорити?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0042",
+            "en": "It would be a big help getting whatever’s happening sorted.",
+            "ru_native": "Если узнаем, что происходит, это нам сильно поможет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо дізнаємося, що відбувається, це нам дуже допоможе."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0043",
+            "en": "Oh, yeah, that's true, too.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, да, это тоже правда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0044",
+            "en": "Actually this far West of Camena proper… there’s just… not a lot in ‘town’ in town.",
+            "ru_native": "На самом деле, так далеко к западу от Камены... не так уж много «городских» в городе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді, так далеко на захід від Камени… не так багато «міських» у місті."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0045",
+            "en": "It’s barely a village. Bait shop guy went home hours ago. General store’s closed.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это почти не деревня. Парень из магазина приманок ушел домой несколько часов назад. Общий магазин закрыт.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0046",
+            "en": "I think my cabin’s our best option.",
+            "ru_native": "Думаю, мой дом – лучший вариант.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, моя хатинка — найкращий варіант."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0047",
+            "en": "I mean… unless you know another source for a radio or walkie…",
+            "ru_native": "Если ты, конечно, не знаешь другого способа достать рацию или приемник...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… Якщо ти, звичайно, не знаєш іншого способу дістати радіо чи рацію…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0048",
+            "en": "Which…",
+            "ru_native": "Который...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Котра…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0049",
+            "en": "I’d be totally cool with.",
+            "ru_native": "Нас бы устроил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нас би влаштувала."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0050",
+            "en": "Alright, well, I’ll show you the way to the cabin. It’s not far.",
+            "ru_native": "Хорошо, я покажу тебе дорогу. Тут недалеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я покажу тобі дорогу до хатинки. Тут недалеко."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0051",
+            "en": "But uh… you were saying we should maybe go to the lighthouse?",
+            "ru_native": "Но... ты вроде предлагала пойти к маяку?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… ти начебто пропонувала піти до маяка?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0052",
+            "en": "Want to… head there, instead?",
+            "ru_native": "Хочешь... поменять планы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хочеш… натомість піти туди?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0053",
+            "en": "Cause that’s alright with me.",
+            "ru_native": "Я так-то не против.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не проти."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0054",
+            "en": "Uh, no. Not too far.",
+            "ru_native": "А, нет. Не слишком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, ні. Не надто."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0055",
+            "en": "Alright, well, I’ll show you the way to the cabin. It’s not far.",
+            "ru_native": "Хорошо, я покажу тебе дорогу. Тут недалеко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я покажу тобі дорогу до хатинки. Тут недалеко."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0056",
+            "en": "Well… we should probably go to my cabin. See about getting in touch with somebody.",
+            "ru_native": "Ну... нам, наверное, стоит пойти ко мне домой. И попробовать с кем-то связаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… нам, мабуть, варто піти до моєї хатинки. І спробувати з кимось зв’язатися."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0057",
+            "en": "Figure out what’s going on.",
+            "ru_native": "Выяснить, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуємо дізнатися, що коїться."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0058",
+            "en": "I’ll, uh, lead the way. My place is just up here, over the hill.",
+            "ru_native": "Мой дом прямо тут, за холмом. Я покажу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це прямо там, за пагорбом. Я покажу."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0059",
+            "en": "The lighthouse is just this way. Shouldn’t take long to get there.",
+            "ru_native": "Маяк – вон там. Идти недолго.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маяк — там. Іти недовго."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0060",
+            "en": "Something happened with the transmitter you planted—it…",
+            "ru_native": "Что-то случилось с твоим передатчиком. Он...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось трапилося з твоїм радіопередавачем. Він…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0061",
+            "en": "It was like it reacted with the storm…",
+            "ru_native": "Он как будто среагировал на грозу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він ніби зреагував на грозу…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0062",
+            "en": "…or there were people in masks, there, for a second?",
+            "ru_native": "...или там на секунду появились люди в масках?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…чи там на мить з’явилися люди в масках?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0063",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже так?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0064",
+            "en": "At least, that’s what it looked like.",
+            "ru_native": "По крайней мере, было похоже на то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні було схоже на те."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0065",
+            "en": "Uh, it’s usually not this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эм, обычно это не так.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0066",
+            "en": "Believe me, I am not blaming you. It’s—this is something else.",
+            "ru_native": "Поверь, я не пытаюсь тебя обвинить. Это... что-то другое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повір, я не намагаюся тебе звинуватити. Це щось інше."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0067",
+            "en": "Yeah, no it is. I’m just… saying what I saw.",
+            "ru_native": "Да нет. Я просто говорю то, что видел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ні. Я просто говорю те, що бачив."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0068",
+            "en": "It’s barely a village. Bait shop owner went home hours ago. General store’s closed.",
+            "ru_native": "Это почти деревня. Хозяин рыболовного магазина уже ушел домой. Универмаг закрыт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це майже село. Господарка рибальської крамниці<br>вже пішла додому. Універмаг зачинено."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0069",
+            "en": "My walkie-talkie broke. And…",
+            "ru_native": "Моя рация сломана. И...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя рація зламана. І…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0070",
+            "en": "This is something you saw? In the chaos? [sigh] God.",
+            "ru_native": "Это то, что ты разглядела? В этом хаосе? Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це те, що ти побачила? У цьому хаосі? [зітхає] Господи."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0071",
+            "en": "I mean—I fix stuff all the time, that’s like my job.",
+            "ru_native": "Я типа постоянно что-то чиню, это моя работа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… я постійно лагоджу речі, це як моя робота."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0072",
+            "en": "I’m a handyman-for-hire, I’m on apps this doesn’t matter.",
+            "ru_native": "Я «муж на час», беру заказы на сайтах... неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я найманий майстер на всі руки, я працюю з додатками, нічого видатного."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0073",
+            "en": "Uh—but like—it’s unfixable. I know broke when I see it. And I saw it.",
+            "ru_native": "Хм, но тут чинить нечего. Если что сломалось, я сразу вижу. Как сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це, типу, уже не виправити. Коли я бачу таке, я вже знаю, що воно зламане.<br>І я це побачив."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0074",
+            "en": "I mean—I fix stuff all the time, that’s like my job.",
+            "ru_native": "Я типа постоянно что-то чиню, это моя работа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… я постійно лагоджу речі, це як моя робота."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0075",
+            "en": "I’m a handyman-for-hire, I’m on apps this doesn’t matter.",
+            "ru_native": "Я «муж на час», беру заказы на сайтах... неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я найманий майстер на всі руки, я працюю з додатками, нічого видатного."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0076",
+            "en": "Uh—but like—it’s unfixable. I know broke when I see it. And I saw it.",
+            "ru_native": "Хм, но тут чинить нечего. Если что сломалось, я сразу вижу. Как сейчас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це, типу, уже не виправити. Коли я бачу таке, я вже знаю, що воно зламане.<br>І я це побачив."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0077",
+            "en": "Yah!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Yah!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А-а!"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0078",
+            "en": "Oh! It’s – it’s Evelyn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О! Это - это Эвелин.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! Це… це Евелін!"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0079",
+            "en": "Jesus.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Иисус.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0080",
+            "en": "Yeah, here’s – here’s hoping.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, вот - вот надеюсь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Сподіваюсь."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0081",
+            "en": "[weak laugh] Yeah, I, uh – yeah, just a sec.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [слабый смех] Да, я... да, секундочку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[сміється] Так, я, ох… ага, секунду."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0082",
+            "en": "I got a few in the truck. Uh, just a sec, though.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У меня есть несколько штук в грузовике. Хотя, подожди секунду.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене є кілька у вантажівці. Уф, хвилинку."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0083",
+            "en": "Hey! Evelyn! We’re – we’re here. Did you see or – or do you know anything about what happened out here?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй! Эвелин! Мы... мы здесь. Ты видел или - или знаешь что-нибудь о том, что здесь произошло?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт! Евелін! Ми… ми тут. Ти бачила або… ти знаєш щось про те, що тут сталося?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0084",
+            "en": "A bolt of lightning or something came out of the transmitter and it – it kind of knocked us out for a bit –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Из передатчика вылетела молния или что-то в этом роде, и это - это как бы вырубило нас на некоторое время...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З радіопередавача вилетіла блискавка чи щось подібне, і воно…<br>воно наче нокаутувало на деякий час…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0085",
+            "en": "– but we somehow made it back to my truck…? I don’t – we don’t know what happened. Do you? Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL - но мы каким-то образом добрались обратно до моего грузовика...? Я не знаю - мы не знаем, что произошло. А ты? Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…але ми якось повернулися до моєї вантажівки…<br>Я не… ми не знаємо, що сталося. Ти знаєш? Прийом."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0086",
+            "en": "Oh, really?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Неужели?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, справді?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0087",
+            "en": "We – if you could see what’s going on…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы - если бы ты мог видеть, что происходит...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… якби ти могла побачити, що тут відбувається…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0088",
+            "en": "I don’t know if you’d want us to head back.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не знаю, захочешь ли ты, чтобы мы отправились обратно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, чи ти хочеш, щоби ми повернулися."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0089",
+            "en": "It seems risky.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это кажется рискованным.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ризиковано."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0090",
+            "en": "Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0091",
+            "en": "And bodies –",
+            "ru_native": "",
+            "ru_machine": "DEEPL А тела -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І всюди…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0092",
+            "en": "Whoa whoa isn’t there – isn’t there somebody you can send out, Evelyn?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй-эй-эй, а нет ли там кого-нибудь, кого ты могла бы послать, Эвелин?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, ой, нема кого, невже дійсно нема когось,<br>кого б можна було відправити сюди, Евелін?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0093",
+            "en": "Time to do what?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Время, чтобы сделать что?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Встигнути для чого?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0094",
+            "en": "Ugh… this… you don’t really know what you’re asking us to do, here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф... это... ты не совсем понимаешь, о чем ты нас просишь, вот.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох… це… ти насправді не уявляєш, що просиш нас зробити."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0095",
+            "en": "Okay okay okay, we’ll – let’s just do it fast, Riley.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно-ладно-ладно, мы - давай просто сделаем это быстро, Райли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, добре, ми зробимо це швидко, Райлі."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0096",
+            "en": "Evelyn –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Evelyn -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0097",
+            "en": "I think we have to, Riley.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я думаю, что мы должны это сделать, Райли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ми повинні, Райлі."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0098",
+            "en": "It sucks, I know, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это отстой, я знаю, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це відстій, я знаю, але…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0099",
+            "en": "I think we’re in.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я думаю, что мы в деле.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що ми прийшли."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0100",
+            "en": "But we need assurances.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но нам нужны гарантии.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але нам потрібні гарантії."
+        },
+        {
+            "tag": "A1S7.NEWEQU_JACOB_0101",
+            "en": "Time and a half. And medical in case our damn skin melts off.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Полтора часа времени. И медицинский на случай, если наша чертова кожа расплавится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Півтори ставки. І медична страховка на випадок,<br>якщо наша шкіра, у біса, розплавиться."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0000",
+            "en": "Um… I kind of… remember your… face—did you—you had a… a beard, right?",
+            "ru_native": "Хм... по-моему... припоминаю... ты носил бороду, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм… здається… пригадую… у тебе була борода, ні?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0001",
+            "en": "Oh yeah. Jacob. Jacob… Summers? Right?",
+            "ru_native": "Ну конечно. Джейкоб. Джейкоб... Саммерс? Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну звичайно. Джейкоб. Джейкоб… Саммерс? Так?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0002",
+            "en": "Uh, okay. We went to the same prison. So what.",
+            "ru_native": "Хм, понятно. Мы ходили в одну тюрьму. И что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, зрозуміло. Ми ходили до однієї в’язниці. І що?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0003",
+            "en": "Okay. We knew each other.",
+            "ru_native": "Хорошо. Мы были знакомы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Ми були знайомі."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0004",
+            "en": "Yeah, yeah, no—of course, good to see you.",
+            "ru_native": "Нет, конечно, я рада тебя видеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж, добре, звичайно, я рада тебе бачити."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0005",
+            "en": "Well now that we have that sorted, back to what’s happening right now—",
+            "ru_native": "Ладно, с этим разобрались, перейдем к насущным вопросам...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щож, із цим розібралися, перейдемо до нагальних питань."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0006",
+            "en": "Nope. Mine’s dead, too. I noticed after the… thing.",
+            "ru_native": "Не-а. Моя тоже сдохла. После... той штуки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Моя теж мертва. Після… тієї штуки."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0007",
+            "en": "Uh, you have a cell by chance? [sigh] I forgot to take mine.",
+            "ru_native": "У тебя случайно нет мобильного? Я свой забыла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У тебе випадково нема мобільного? Я забула свій."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0008",
+            "en": "Uh, yeah… sounds good.",
+            "ru_native": "О да... хорошая идея.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, так… гарна думка."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0009",
+            "en": "[sighs] I really should get in touch with my, uh… my boss, I guess. Leslie. Or Evelyn.",
+            "ru_native": "Наверное, мне надо связаться с моим... боссом. Лесли. Или Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно, мені треба зв’язатися з моїм, е… босом. Леслі. Або Евелін."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0010",
+            "en": "My… coworker, Evelyn, said that if I ran into any trouble I should go to the lighthouse.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Моя... коллега, Эвелин, сказала, что если у меня возникнут проблемы, то я должен пойти на маяк.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0011",
+            "en": "That they’d have a… just somebody working there. Or comm equipment or something.",
+            "ru_native": "У них должен быть... кто-то на рабочем месте. Или оборудование для связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У них має бути… хтось на робочому місці. Або обладнання для зв’язку чи щось таке."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0012",
+            "en": "We could also just go into town. Right? Somebody has to be—",
+            "ru_native": "Мы могли бы просто пойти в город. Наверняка у кого-то есть...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми могли б просто піти до міста. Адже так? Хтось там має бути…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0013",
+            "en": "That they’d have a… somebody there, or comm equipment or something.",
+            "ru_native": "У них должен быть... кто-нибудь здесь. Или оборудование для связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У них має бути… хтось на робочому місці. Або обладнання для зв’язку чи щось таке."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0014",
+            "en": "No, let’s head to your cabin.",
+            "ru_native": "Нет, давай пойдем к тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, давай підемо до твоєї хатинки."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0015",
+            "en": "Yeah, I’d rather stick to my prescribed advice. If you don’t mind.",
+            "ru_native": "Да, я лучше буду придерживаться полученных указаний. Если ты не против.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я краще дотримуватимуся отриманих вказівок. Якщо ти не проти."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0016",
+            "en": "Is it far? The lighthouse?",
+            "ru_native": "Маяк? Он далеко?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маяк? Він далеко?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0017",
+            "en": "Maybe… I don’t really know what those things are capable of.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть... На самом деле я не знаю, на что способны эти штуки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0018",
+            "en": "Hey, don’t blame me, man, I just stuck the thing in the dirt and turned it on like I was told.",
+            "ru_native": "Эй, чувак, не гони на меня. Я просто воткнула<br>эту штуку в землю и включила, как мне велели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, чувак, не звинувачуй мене. Я просто встромила цю штуку в землю<br>і ввімкнула, як мені наказали."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0019",
+            "en": "Okay, but how could a transmitter honestly have, like, done any of this…",
+            "ru_native": "Ладно, но как передатчик мог сделать такое...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, але як радіопередавач міг таке зробити…"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0020",
+            "en": "Isn’t it just like a—a—frequency… thing?",
+            "ru_native": "Он же просто передает... частоты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він просто передає… частоти?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0021",
+            "en": "My… coworker said that if I ran into any trouble I should go to the lighthouse.",
+            "ru_native": "Моя... коллега сказала, что если у меня возникнут проблемы, надо идти к маяку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя… колежанка сказала, що якщо в мене виникнуть проблеми, треба йти до маяка."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0022",
+            "en": "I should really get in touch with my, uh… my boss, I guess. Leslie. Or Evelyn.",
+            "ru_native": "Наверное, мне надо связаться с моим... боссом. Лесли. Или Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Напевно, мені треба зв’язатися з моїм, е… босом. Леслі. Або Евелін."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0023",
+            "en": "It wasn’t just the transmitter, there were… people in masks. Doing something with an antenna.",
+            "ru_native": "Дело не только в передатчике, там были...<br>люди в масках. Они что-то сделали с антенной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справа не лише в радіопередавачі, там були… люди в масках.<br>Вони щось зробили з антеною."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0024",
+            "en": "I don’t know what, but I... think it’s a part of this?",
+            "ru_native": "Не знаю, что именно, но думаю... это как-то связано?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, що саме, але гадаю… це якось пов’язано?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0025",
+            "en": "Ah!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ах!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай!"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0026",
+            "en": "Oh man, thank God. It’s only Evelyn.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Вот блин, слава Богу. Это всего лишь Эвелин.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, дякувати Богу. Це лише Евелін."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0027",
+            "en": "Maybe she has, like, any idea of what the Hell is going on.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Может быть, у нее есть, например, хоть какое-то представление о том, что, черт возьми, происходит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, вона має хоч якесь уявлення про те, що, у біса, відбувається."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0028",
+            "en": "Tell her I don’t think I’m cut out for this line of work.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скажи ей, что, по-моему, я не создан для этой работы.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажи їй, що я не пристосована для цієї роботи."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0029",
+            "en": "Oh your walkie works!? That’s – that’s great, cause mine broke.",
+            "ru_native": "",
+            "ru_machine": "DEEPL О, твоя рация работает! Это - здорово, потому что моя сломалась.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, твоя рація працює!? Це… це чудово, тому що моя зламалася."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0030",
+            "en": "Evelyn? This is Riley – sorry, but… there is no way we’re going back there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин? Это Райли - извини, но... мы ни за что не вернемся туда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Це Райлі, вибач, але… ми туди не повернемося."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0031",
+            "en": "Something’s going on – some kind of storm or electrical thing that really messed with our heads.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что-то происходит - какая-то буря или электрическая штука, которая сильно заморочила нам голову.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось відбувається, якась гроза чи якась блискавка вдарила нас по голові."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0032",
+            "en": "[over him] Can you send somebody out here to continue this work if it’s really that important?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [над ним] Можете ли вы послать сюда кого-нибудь, чтобы продолжить эту работу, если она действительно так важна?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[над ним] Ви можете відправити когось сюди, щоби продовжити цю<br>роботу, якщо це справді так важливо?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0033",
+            "en": "I’ll hitch back to the airport, you can keep my check.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я поеду на попутках обратно в аэропорт, а ты можешь оставить мой чек себе.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я повернусь в аеропорт, можете залишити собі мій чек."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0034",
+            "en": "[sighs] Okay, Evelyn – this is Riley. What do you need us to do.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздыхает] Так, Эвелин - это Райли. Что тебе нужно, чтобы мы сделали.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Гаразд, Евелін, це Райлі. Що нам потрібно зробити?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0035",
+            "en": "Ughhhh. Okay. All we have to do is look at the transmitter and tell you what it’s doing?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф-ф-ф. Окей. Все, что нам нужно сделать, это посмотреть на передатчик и сказать, что он делает?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ухххх. Добре. Усе, що нам потрібно зробити, це подивитися на<br>радіопередавач і сказати, що він робить?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0036",
+            "en": "Fine. We’ll just do it and regret the decision later.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отлично. Мы просто сделаем это и пожалеем о принятом решении позже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Ми просто зробимо це й потім пошкодуємо про це рішення."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0037",
+            "en": "Don’t worry, Evelyn, we’re up for it. [sigh] We’re here, aren’t we?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не волнуйся, Эвелин, мы справимся. [вздох] Мы ведь здесь, не так ли?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся, Евелін, ми готові. [зітхає] Ми вже тут, чи не так?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0038",
+            "en": "I have to pass on this, Evelyn, seriously – you have no idea what we just went through.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я должен передать это, Эвелин, серьезно - ты не представляешь, через что мы только что прошли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — пас, Евелін, серйозно, ти не уявляєш, через що ми щойно пройшли."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0039",
+            "en": "Ughhhh. Okay. All we have to do is look at the transmitter and tell you what it’s doing?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф-ф-ф. Окей. Все, что нам нужно сделать, это посмотреть на передатчик и сказать, что он делает?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ухххх. Добре. Усе, що нам потрібно зробити, це подивитися на<br>радіопередавач і сказати, що він робить?"
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0040",
+            "en": "Fine. We’ll just do it and regret the decision later.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отлично. Мы просто сделаем это и пожалеем о принятом решении позже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Ми просто зробимо це й потім пошкодуємо про це рішення."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0041",
+            "en": "Okay, but… we’re not lingering, we’re not… figuring out math equations when we’re up there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо, но... мы не задерживаемся, мы не... решаем математические уравнения, когда находимся наверху.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, але… ми там не затримаємося, ми не…<br>розв’язуватимемо математичні рівняння, коли будемо там."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0042",
+            "en": "There and back, real fast.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Туда и обратно, очень быстро.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Туди й назад дуже швидко."
+        },
+        {
+            "tag": "A1S7.NEWEQU_RILEY_0043",
+            "en": "Ugh, whatever, let’s just get this over with.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф, неважно, давай просто покончим с этим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тьху, байдуже, давай просто покінчимо з цим."
+        }
+    ]
+}

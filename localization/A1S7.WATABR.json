@@ -1,0 +1,114 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S7.WATABR",
+    "entries": [
+        {
+            "tag": "A1S7.WATABR_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.WATABR_CHOICE_0000_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Ау?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A1S7.WATABR_CHOICE_0000_OPTION_0001",
+            "en": "Seems broken…",
+            "ru_native": "Похоже, сломана...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, зламана…"
+        },
+        {
+            "tag": "A1S7.WATABR_RILEY_0000",
+            "en": "Um, hello? Is anyone there? Evelyn? Echo echo… whatever.",
+            "ru_native": "Ау? Здесь кто-нибудь есть? Эвелин? Отзовитесь... кто-нибудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов? Є там хтось? Евелін? Відгукніться… хтось."
+        },
+        {
+            "tag": "A1S7.WATABR_RILEY_0001",
+            "en": "Piece of—wait. It’s… God damn it, it’s cracked. [sigh] Great.",
+            "ru_native": "Вот дерь... стоп. Она... Черт побери, она треснула. Отлично.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От халепа… стоп. Вона… Чорт забирай, вона тріснула. [зітхає] Чудово."
+        },
+        {
+            "tag": "A1S7.WATABR_RILEY_0002",
+            "en": "Walkie talkie looks… cracked. I don’t think this thing’s gonna work anymore.",
+            "ru_native": "Похоже, рация разбилась. Не думаю, что она снова заработает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, рація тріснула. Не думаю, що вона коли-небудь працюватиме."
+        },
+        {
+            "tag": "A1S7.WATABR_RILEY_0003",
+            "en": "God, what happened?",
+            "ru_native": "Боже, что случилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, що сталося?"
+        },
+        {
+            "tag": "A1S7.WATABR_RILEY_0004",
+            "en": "I really need to get a working walkie and call Evelyn back.",
+            "ru_native": "Мне срочно надо достать рабочую рацию и позвонить Эвелин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Терміново треба дістати робочу рацію та зв’язатися з Евелін."
+        },
+        {
+            "tag": "A1S7.WATABR_RILEY_0005",
+            "en": "She’ll… she better know what the hell is going on.",
+            "ru_native": "Она... она лучше знает, что за бред тут творится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… вона краще знає, що за чортівня тут коїться."
+        },
+        {
+            "tag": "A1S7.WATABR_RILEY_0006",
+            "en": "Getting fried on a hilltop isn’t worth seventeen an hour.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Поджариться на вершине холма не стоит семнадцати в час.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.WATABR_RILEY_0007",
+            "en": "First, though… Jacob. He might be back at his truck. Maybe he has radio equipment I can use.",
+            "ru_native": "Но сначала... Джейкоб. Он наверняка добрался до своего грузовика.<br>Может, у него есть рация?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але спочатку… Джейкоб. Можливо, він повернувся до своєї вантажівки.<br>Можливо, в нього є рація, яку я зможу використати."
+        },
+        {
+            "tag": "A1S7.WATABR_RILEY_0008",
+            "en": "Maybe the guy at the truck can help… he might have radio equipment I can use.",
+            "ru_native": "Может, тот парень с грузовиком поможет... вдруг у него есть рация?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, хлопець з вантажівки може допомогти…<br>у нього може бути радіообладнання, яке я зможу використати."
+        }
+    ]
+}

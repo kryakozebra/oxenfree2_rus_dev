@@ -1,0 +1,60 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC05.MAA2C6",
+    "entries": [
+        {
+            "tag": "WC05.MAA2C6_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC05.MAA2C6_CHOICE_0000_OPTION_0000",
+            "en": "Maria? You around? Over.",
+            "ru_native": "Мария? Ты здесь? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Ти тут? Прийом."
+        },
+        {
+            "tag": "WC05.MAA2C6_MARIA_0000",
+            "en": "[staticky] No, Dad, I don’t wanna go to the dentist again.",
+            "ru_native": "Нет, пап, я не хочу опять к стоматологу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Ні, тату, я не хочу знову до дантиста."
+        },
+        {
+            "tag": "WC05.MAA2C6_MARIA_0001",
+            "en": "[staticky] My teeth hurt from the last time!",
+            "ru_native": "После того раза зуб болел!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] У мене ще й досі зуби болять!"
+        },
+        {
+            "tag": "WC05.MAA2C6_MARIA_0002",
+            "en": "[staticky] No! Dad, stop!",
+            "ru_native": "Нет! Папа, все!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[перешкоди] Ні! Тату, стривай!"
+        },
+        {
+            "tag": "WC05.MAA2C6_RILEY_0000",
+            "en": "Maria? Are you around? Over.",
+            "ru_native": "Мария? Ты там? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маріє? Ти тут? Прийом."
+        }
+    ]
+}

@@ -1,0 +1,1293 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T1.MAGADL",
+    "entries": [
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0000_OPTION_0000",
+            "en": "Cute.",
+            "ru_native": "Мило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мило."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0000_OPTION_0001",
+            "en": "Your parents didn’t mind?",
+            "ru_native": "Родители не возражали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Твої батьки не були проти?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0000_OPTION_0002",
+            "en": "Get to the point.",
+            "ru_native": "Давай уже говори.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ближче до суті."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0001_OPTION_0000",
+            "en": "Why?",
+            "ru_native": "Почему?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0001_OPTION_0001",
+            "en": "What was in them?",
+            "ru_native": "Что в них было?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А що в них було?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0001_OPTION_0002",
+            "en": "Weird.",
+            "ru_native": "Странно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дивно."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0002_OPTION_0000",
+            "en": "Is that why this is happening?",
+            "ru_native": "Это все из-за них?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все через них?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0002_OPTION_0001",
+            "en": "No way.",
+            "ru_native": "Чушь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нісенітниця."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0002_OPTION_0002",
+            "en": "Are they still there?",
+            "ru_native": "Они все еще там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони досі десь там?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0003_OPTION_0000",
+            "en": "This is gonna stop them?",
+            "ru_native": "Это их остановит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це їх зупинить?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0003_OPTION_0001",
+            "en": "I don’t blame them.",
+            "ru_native": "Я их понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їх важко звинувачувати."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0004_OPTION_0000",
+            "en": "How did she know all this?",
+            "ru_native": "Как она обо всем узнала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вона дізналася про все це?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0004_OPTION_0001",
+            "en": "She really trusted you.",
+            "ru_native": "Она тебе доверяла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, вона тобі довіряла."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0004_OPTION_0002",
+            "en": "Where are we headed?",
+            "ru_native": "Куда направляемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Куди прямуємо?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0005_OPTION_0000",
+            "en": "Let’s go visit her.",
+            "ru_native": "Давай ее навестим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо до неї."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0005_OPTION_0001",
+            "en": "Did you get back in touch?",
+            "ru_native": "Ты с ней потом общался?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти з нею потім спілкувався?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0006_OPTION_0000",
+            "en": "I’m so sorry.",
+            "ru_native": "Мне очень жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені дуже шкода."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0006_OPTION_0001",
+            "en": "That was kind of you.",
+            "ru_native": "Добрый поступок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти гарно вчинив."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0006_OPTION_0002",
+            "en": "That won’t happen to you.",
+            "ru_native": "С тобой такого не будет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З тобою цього не станеться."
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0007_OPTION_0000",
+            "en": "Something bad?",
+            "ru_native": "Что-то плохое?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось погане?"
+        },
+        {
+            "tag": "A2T1.MAGADL_CHOICE_0007_OPTION_0001",
+            "en": "Sure, sounds good.",
+            "ru_native": "Конечно, давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно, давай."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0000",
+            "en": "Look, Riley… I think I owe you an explanation.",
+            "ru_native": "Слушай, Райли. Я должен кое-что рассказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Райлі… Я маю дещо розповісти."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0001",
+            "en": "When I was a kid, there was an older lady who lived in town—",
+            "ru_native": "Когда я был мелким, в городе жила одна старушка...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У дитинстві, у місті жила одна немолода леді…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0002",
+            "en": "—well, she lived on Edwards Island, really, but she got her groceries and stuff in town.",
+            "ru_native": "Точнее, жила она на острове Эдвардса, но закупалась продуктами и прочим в городе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…точніше, жила вона на острові Едвардса, але купувала продукти та все інше в місті."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0003",
+            "en": "She kept to herself, no friends, no dog, but she went to the library a lot.",
+            "ru_native": "Всегда одна, ни друзей, ни собаки. Но она часто ходила в библиотеку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завжди одна, ані друзів, ані собаки. Але вона часто ходила до бібліотеки."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0004",
+            "en": "Which is basically where I grew up.",
+            "ru_native": "Ну а я практически там вырос.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, а я практично там виріс."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0005",
+            "en": "Couldn’t tell you how many times I stayed til close.",
+            "ru_native": "Постоянно оставался до закрытия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я постійно залишався до закриття."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0006",
+            "en": "I was one of those kids.",
+            "ru_native": "Один из тех детей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я був одним із таких дітей."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0007",
+            "en": "Yeah, I was adorable.",
+            "ru_native": "Да уж, я был милашкой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я був серденьком."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0008",
+            "en": "My parents?",
+            "ru_native": "Мои-то?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мої?"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0009",
+            "en": "My parents would’ve campaigned the place to stay open 24 hours if it meant less of me in their hair.",
+            "ru_native": "Мои предки с радостью оставляли бы меня там на круглые сутки, только бы им не докучал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мої батьки з радістю залишали б мене там цілодобово, аби тільки я їм не докучав."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0010",
+            "en": "But Maggie—her name was Maggie Adler—Miss Adler would always ask me what I was reading.",
+            "ru_native": "Но Мэгги – ее звали Мэгги Адлер – мисс Адлер всегда интересовалась, что я читаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але Меггі, її звали Меггі Адлер, міс Адлер завжди цікавилася, що читаю."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0011",
+            "en": "She gave me my first job when I was 12. Burying time capsules around Edwards Island.",
+            "ru_native": "В 12 лет я получил у нее первую работу. Закапывал капсулы времени на острове Эдвардса.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли мені було 12, вона найняла мене. Це була моя перша робота,<br>я закопував капсули часу на острові Едвардса."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0012",
+            "en": "I think it was just to give me something to do.",
+            "ru_native": "Полагаю, она просто хотела меня чем-то занять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, вона просто хотіла мене чимось зайняти."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0013",
+            "en": "But… I don’t know.",
+            "ru_native": "Но... Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… Не знаю."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0014",
+            "en": "I didn’t, either, really…",
+            "ru_native": "Я тоже не понимал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж не розумів…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0015",
+            "en": "She insisted they stay sealed and by George I honored my clients’ requests. Paid five bucks an hour.",
+            "ru_native": "Она запретила их вскрывать, а я был честным малым<br>и уважал желания клиента. За 5 баксов в час.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона заборонила їх розкривати, а я був чесною дитиною та поважав бажання клієнта.<br>За п’ять доларів на годину."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0016",
+            "en": "Nope.",
+            "ru_native": "Не-а.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та ні."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0017",
+            "en": "It was, but I didn’t ask too many questions. Especially when she was paying five bucks an hour.",
+            "ru_native": "Соглашусь, но я не задавал лишних вопросов. Все-таки мне платили пять баксов в час.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Погоджуся, але я не ставив зайвих запитань. Усе ж таки мені платили<br>п’ять доларів на годину."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0018",
+            "en": "Then… one day… she tells me about the USS Kanaloa.",
+            "ru_native": "Однажды она рассказала о подлодке «Каналоа».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потім… Якось вона розповіла про підводний човен «Каналоа»."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0019",
+            "en": "She was stationed at Fort Milner right here on the coast when the submarine crashed.",
+            "ru_native": "Мисс Адлер служила в форте Милнера здесь, на побережье, когда подлодка затонула.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона служила у форті Мілнера тут, на узбережжі, коли підводний човен затонув."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0020",
+            "en": "She said it was a mistake—that the whole thing had an experimental engine or something…",
+            "ru_native": "Она сказала, что это была ошибка... Что там был какой-то экспериментальный двигатель.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона сказала, що то була помилка… Що там був якийсь експериментальний двигун."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0021",
+            "en": "And that… when it blew up… something happened to the reactor.",
+            "ru_native": "И при взрыве что-то произошло с реактором.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… під час вибуху… щось сталося з реактором."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0022",
+            "en": "It split the crewmen from our reality… forced them in-between time, in-between dimensional planes.",
+            "ru_native": "Членов экипажа выкинуло из нашей реальности в пустоту вне времени и пространства.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Членів екіпажу викинуло з нашої реальності… у порожнечу поза часом і простором."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0023",
+            "en": "They were gone…",
+            "ru_native": "Они пропали...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони загубилися…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0024",
+            "en": "…but not really.",
+            "ru_native": "Но не совсем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…але не зовсім."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0025",
+            "en": "Each and every last one of them.",
+            "ru_native": "Все до единого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усі до одного."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0026",
+            "en": "Maybe?",
+            "ru_native": "Кто знает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто ж знає?"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0027",
+            "en": "Given the events of our little evening excursion here, are you really gonna be skeptical?",
+            "ru_native": "За наш вечерний променад произошло столько всего, а ты до сих пор скептик?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За нашу маленьку вечірню екскурсію сталося стільки всього,<br>а ти й досі налаштована скептично?"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0028",
+            "en": "Maybe? I used to pick up radio signals that sounded ya know—sailory, but it’s been a few years.",
+            "ru_native": "Может быть. Раньше я ловил радиосигналы в духе... моряков? Но это было давно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо. Раніше я ловив радіосигнали на кшталт… сигналів моряків. Але це було давно."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0029",
+            "en": "Maybe all this nuttiness—maybe it’s… that.",
+            "ru_native": "Может, весь этот дурдом из-за них.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, усе це божевілля через них?"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0030",
+            "en": "Those crewmen and women trying to come back—fighting against it.",
+            "ru_native": "Из-за мужчин и женщин, пытающихся вернуться, борющихся за жизнь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Через чоловіків і жінок, які намагаються повернутися, намагаються вижити."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0031",
+            "en": "Because I can’t help but—but think that… something from that side—that other side—wants to be… on this side.",
+            "ru_native": "Не могу избавиться от ощущения, что... что-то с<br>той, другой стороны хочет оказаться здесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу позбутися відчуття, що… щось із тієї, іншої сторони, хоче опинитися тут."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0032",
+            "en": "And that seems like bad news.",
+            "ru_native": "И от этого как-то тревожно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І це здається поганими новинами."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0033",
+            "en": "So… maybe it’s them?",
+            "ru_native": "Вдруг это они?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Аж раптом це вони?"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0034",
+            "en": "Who knows.",
+            "ru_native": "Кто знает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніхто не знає."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0035",
+            "en": "Uh, not exactly.",
+            "ru_native": "Не совсем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, е-е… не зовсім."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0036",
+            "en": "And what those kiddos have to do with it all, I just—agh—I don’t know. It’s like—I don’t know.",
+            "ru_native": "Но как в этом замешаны те подростки, я понятия не имею. Будто... Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але до чого тут ті підлітки, я гадки не маю. Ніби… Не знаю."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0037",
+            "en": "I do find myself wishing that Maggie was here.",
+            "ru_native": "Жаль, что сейчас с нами нет Мэгги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені дійсно хотілося б, щоби Меггі була тут."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0038",
+            "en": "She’d uh—",
+            "ru_native": "Она бы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона б…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0039",
+            "en": "I dunno—feels like she’d know exactly what to do.",
+            "ru_native": "Думаю, она бы точно знала, что нужно делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю… Здається, вона б точно знала, що треба робити."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0040",
+            "en": "Uh, she never told me.",
+            "ru_native": "Мне она не рассказывала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона не розповідала."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0041",
+            "en": "She would always change the subject if I asked. So I stopped asking.",
+            "ru_native": "Всегда меняла тему, если спрашивал. Поэтому я перестал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завжди змінювала тему, коли я питав. Тож я облишив."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0042",
+            "en": "Eh—trusted me enough. I never got the full story.",
+            "ru_native": "Вряд ли. Всю историю я так и не узнал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навряд чи. Всю історію я так і не почув."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0043",
+            "en": "I’m glad she told me all this, but—it just—it seemed to always make her sad to talk about it.",
+            "ru_native": "Я рад, что она мне об этом рассказала, но... За этими разговорами она всегда грустила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я радий, що вона про це мені розповіла, але… Ці розмови завжди засмучували її."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0044",
+            "en": "I dunno—I was a kid and bored and my house sucked so—ya know—why not hang out with some weird old lady who believed in magic?",
+            "ru_native": "Не знаю... Я был мелким, было скучно, дома не посидишь...<br>Почему бы не потусить со странной бабулькой, верящей в магию?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю… Я був дитиною, було нудно, вдома не посидиш… Чому б не зустрітися<br>з дивною бабусею, що вірить у магію?"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0045",
+            "en": "Eventually I stopped going to the library. I’d read all the Encyclopedia Browns, anyway.",
+            "ru_native": "Вскоре я перестал ходить в библиотеку. Прочитал все книги о Брауне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Незабаром я перестав ходити до бібліотеки. Прочитав усі книги<br>про хлопчика-детектива Брауна."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0046",
+            "en": "It was just too much. Her sadness, you know? You could feel it on her.",
+            "ru_native": "Да и тяжело было. Ее грусть... Она ощущалась физически.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було тяжко витримувати. Її сум… Його можна було відчути фізично."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0047",
+            "en": "It’s like radiation. You can only be around it so much.",
+            "ru_native": "Будто радиация. Нельзя долго быть рядом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наче радіація. Не можна довго бути поруч."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0048",
+            "en": "Before…",
+            "ru_native": "Иначе...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інакше…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0049",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0050",
+            "en": "...No. No, I didn’t.",
+            "ru_native": "Нет, увы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…ні, на жаль."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0051",
+            "en": "She uh—she died. A few years back. I actually went to the funeral.",
+            "ru_native": "Она... умерла пару лет назад. Я даже ходил на похороны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона… померла кілька років тому. Я навіть ходив на похорон."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0052",
+            "en": "Far as I could tell…",
+            "ru_native": "Судя по всему...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Судячи з усього…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0053",
+            "en": "I was the only one.",
+            "ru_native": "Я один пришел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я прийшов один."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0054",
+            "en": "It was, ya know—",
+            "ru_native": "Было... Как сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було… так би мовити…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0055",
+            "en": "It was a funeral.",
+            "ru_native": "Это были похороны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це був похорон."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0056",
+            "en": "Yeah. Me, too.",
+            "ru_native": "Да, мне тоже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж. Мені теж."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0057",
+            "en": "I mean—was it?",
+            "ru_native": "Думаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаєш це так?"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0058",
+            "en": "Actually—sure—thanks.",
+            "ru_native": "Вообще... Да, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі… Так, дякую."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0059",
+            "en": "Really just me. They assumed I was family.",
+            "ru_native": "Только я. Меня приняли за члена семьи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді лише я. Подумали, що я — член сім’ї."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0060",
+            "en": "I...didn’t correct them.",
+            "ru_native": "Не стал их переубеждать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не став їх переконувати…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0061",
+            "en": "C’mon. Onward.",
+            "ru_native": "Ладно, идем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, пішли."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0062",
+            "en": "Oh—uh…",
+            "ru_native": "Эм...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0063",
+            "en": "Uh—yeah, good question I—uh—I guess it’s up to you?",
+            "ru_native": "Хороший вопрос. Выбор за тобой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, так. Гарне питання. Гадаю… Вибір за тобою."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0064",
+            "en": "Let’s head out, though, decide on the way.",
+            "ru_native": "Предлагаю двинуться и решить по дороге.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пропоную піти й по дорозі вирішити."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0065",
+            "en": "Look, Maggie—her name was Maggie Adler—and we became kind of friends.",
+            "ru_native": "Смотри, Мэгги – ее звали Мэгги Адлер – мы вроде как подружились.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Меггі, її звали Меггі Адлер, ми з нею стали начебто друзями."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0066",
+            "en": "She’d give me little chores—little tasks I could do to help her out.",
+            "ru_native": "Она давала мне небольшие поручения, которые я делал, чтобы ей помочь",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона давала мені виконувати маленькі справи, невеликі завдання,<br>які я міг би зробити, аби допомогти їй."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0067",
+            "en": "I’m not just… randomly into radio technology, I know what transmitters are for a reason.",
+            "ru_native": "Я не просто так увлекаюсь радиотехникой. Я знаю, для чего нужны передатчики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не просто… випадково знаюся на радіотехнологіях, я знаю,<br>що таке радіопередавачі не просто так."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0068",
+            "en": "I believe three people can keep a secret if exposure would cost them their lives.",
+            "ru_native": "Думаю, три человека могут хранить секрет, если разоблачение будет стоить им жизни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вважаю, що троє людей можуть зберегти таємницю, якщо розкриття такої таємниці<br>коштуватиме їм життя."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0069",
+            "en": "This would have.",
+            "ru_native": "А оно будет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця таємниця могла коштувати життя."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0070",
+            "en": "Maybe Parentage only thinks they’re Gods.",
+            "ru_native": "Может, «Наследие» только думают, что они боги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, «Парентаж» і вважає, що вони боги."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0071",
+            "en": "But they’re not. They’re just people.",
+            "ru_native": "Но это не так. Они обычные люди.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але вони не боги. Вони просто люди."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0072",
+            "en": "Anyways…",
+            "ru_native": "Короче...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0073",
+            "en": "Just a thought.",
+            "ru_native": "Мысли вслух.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто думки вголос."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0074",
+            "en": "Since everything… started up tonight...",
+            "ru_native": "С тех пор... как все началось...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оскільки все… почалося сьогодні ввечері…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0075",
+            "en": "Her only request she left was to buried somewhere you couldn’t see water.",
+            "ru_native": "Она попросила только об одном – похоронить ее в месте, откуда не видно воды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її останнім проханням було поховати її в місці, де не видно води."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0076",
+            "en": "They did it on a hill, Southern side of town. I… think I was the only one to attend.",
+            "ru_native": "Они похоронили ее на холме, на юге города. Я... кажется, я один туда пришел.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони поховали її на пагорбі в південній частині міста. Я… гадаю, що я був єдиним,<br>хто був присутній."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0077",
+            "en": "Never wanted that to happen to me, you know?",
+            "ru_native": "Я никогда этого не хотел, понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи не хотів, щоби це сталося зі мною, розумієш?"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0078",
+            "en": "Make no lasting connections…",
+            "ru_native": "Нельзя ни к кому привязываться...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніяких тривалих стосунків…"
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0079",
+            "en": "It didn’t make me feel good to see her like that.",
+            "ru_native": "Мне было больно видеть ее такой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені неприємно було бачити її такою."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0080",
+            "en": "Sure. Thanks.",
+            "ru_native": "Супер. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж. Дякую."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0081",
+            "en": "Hey, I’m sorry, but like, I need to take a second. A—proper second.",
+            "ru_native": "Хм, прости, но мне нужна секунда. Нормальная такая секунда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, пробач, але мені потрібна перерва. Довгенька така перерва."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0082",
+            "en": "Because I got something on my chest and...it’s not doing anyone any good just—festering.",
+            "ru_native": "Потому что у меня на сердце лежит груз... и пользы от него никакой, только... гниет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо в мене щось у грудях, і… це нікому не приносить користі, просто… муляє."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0083",
+            "en": "Just—yeah.",
+            "ru_native": "Просто... да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… це так."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0084",
+            "en": "Let’s—I need to tell you stuff.",
+            "ru_native": "Мне нужно тебе кое-что сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай… мені потрібно тобі щось розповісти."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0085",
+            "en": "Just—yeah.",
+            "ru_native": "Просто... да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… це так."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0086",
+            "en": "Let’s—I need to tell you stuff.",
+            "ru_native": "Мне нужно тебе кое-что сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Давай… мені потрібно тобі щось розповісти."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0087",
+            "en": "No. No no no. Nothing—nothing like that.",
+            "ru_native": "Нет. Нет-нет-нет. Ничего такого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ні, ні. Нічого такого."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0088",
+            "en": "It’s not—drastic. You just...you should know some stuff.",
+            "ru_native": "Не то чтобы срочно. Просто тебе нудно кое-что знать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не… негайна потреба. Ти просто… ти повинна знати дещо."
+        },
+        {
+            "tag": "A2T1.MAGADL_JACOB_0089",
+            "en": "And I’m sorry, I should have said something earlier, but… the timing just always seemed off.",
+            "ru_native": "Ты меня извини, надо это раньше рассказать, но... все момента подходящего не было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І вибач, я повинен був сказати це раніше, але… не було нагоди."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0000",
+            "en": "Cute.",
+            "ru_native": "Мило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мило."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0001",
+            "en": "Uh, what about your parents?",
+            "ru_native": "А что родители?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А що батьки?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0002",
+            "en": "Time capsules? I don’t understand.",
+            "ru_native": "Капсулы времени? Не понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Капсули часу? Не розумію."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0003",
+            "en": "You ever see what was inside them?",
+            "ru_native": "Видел, что внутри капсул?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заглянув хоч раз у середину капсули?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0004",
+            "en": "Uh—kay. That’s—different.",
+            "ru_native": "М-да. Необычно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "М-так. Це щось дивне."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0005",
+            "en": "Is, uh, that why this is happening?",
+            "ru_native": "Это из-за них все происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це через них усе відбувається?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0006",
+            "en": "Seriously? C’mon.",
+            "ru_native": "Прикалываешься?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно? Та годі."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0007",
+            "en": "Are they still out—there or—wherever?",
+            "ru_native": "Они все еще... где-то там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони досі… десь там?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0008",
+            "en": "And we’re sure this will stop them?",
+            "ru_native": "И мы уверены, что это их остановит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ми впевнені, що це їх зупинить?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0009",
+            "en": "Mm, can’t say I blame them. If I wasn’t in my own time anymore, I’d be pretty ticked off, too.",
+            "ru_native": "Их можно понять. Я бы тоже бомбила, окажись я за бортом своей временной линии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Їх важко звинуватити. Я б теж оскаженіла, якби опинилась поза своєю часовою лінією."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0010",
+            "en": "If that’s all true. Yeah, I’d do anything to get back.",
+            "ru_native": "Если это правда... Я бы пошла на все, чтоб вернуться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо це все правда… Я б зробила все, що завгодно, щоби повернутися."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0011",
+            "en": "How did she know? Like—all of that?",
+            "ru_native": "Как она узнала? Обо всем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вона дізналася? Про все це?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0012",
+            "en": "Yeah… she must’ve really trusted you.",
+            "ru_native": "Да... Видимо, она тебе доверяла.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… Мабуть, вона тобі довіряла."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0013",
+            "en": "Can we visit her? Maybe she can help.",
+            "ru_native": "Навестим ее? Вдруг она поможет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заглянемо до неї? Аж раптом вона допоможе."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0014",
+            "en": "You ever get back in touch?",
+            "ru_native": "Ты с ней еще общался?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти з дитинства з нею не спілкувався?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0015",
+            "en": "I’m sorry.",
+            "ru_native": "Мне жаль.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені шкода."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0016",
+            "en": "That was nice of you.",
+            "ru_native": "Мило с твоей стороны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти гарно вчинив, що прийшов."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0017",
+            "en": "Oh geez, really, just you?",
+            "ru_native": "Реально, только ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, справді лише ти?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0018",
+            "en": "So where exactly are we headed?",
+            "ru_native": "Куда именно мы направляемся?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож, куди саме ми прямуємо?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0019",
+            "en": "Uh-huh. Can you hurry along to why she matters to us right now?",
+            "ru_native": "Ага. Можешь объяснить, почему она нам сейчас нужна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мм. Ти можеш перейти до частини, де стає зрозуміло, чому вона важлива для нас зараз?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0020",
+            "en": "Why didn’t anyone find out about it? How could they keep it a secret?",
+            "ru_native": "Почему об этом никто не узнал? Как они могли держать это в секрете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ніхто про це не дізнався? Як це залишилося таємницею?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0021",
+            "en": "That’s not gonna happen to you, Jacob. I’ll, uh, come.",
+            "ru_native": "С тобой такого не случится, Джейкоб. Я приду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З тобою цього не станеться, Джейкобе. Я… гм, приду."
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0022",
+            "en": "Uh—is this gonna be something really bad? Should I be worried?",
+            "ru_native": "Это что-то очень плохое? Мне стоит волноваться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це буде щось справді погане? Чи варто хвилюватись?"
+        },
+        {
+            "tag": "A2T1.MAGADL_RILEY_0023",
+            "en": "Sure, if it’s so—ya know—drastic, yeah of course.",
+            "ru_native": "Конечно, если это так срочно, то давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно, якщо це… знаєш, негайна потреба."
+        }
+    ]
+}

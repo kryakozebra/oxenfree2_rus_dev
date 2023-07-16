@@ -1,0 +1,42 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S3.EVERCA",
+    "entries": [
+        {
+            "tag": "A1S3.EVERCA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S3.EVERCA_CHOICE_0000_OPTION_0000",
+            "en": "Hi, Evelyn. Checking in.",
+            "ru_native": "Привет, Эвелин. Проверка связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт, Евелін. Перевірка зв’язку."
+        },
+        {
+            "tag": "A1S3.EVERCA_EVELYN_0000",
+            "en": "Riley! How funny -- I was just going to call you up.",
+            "ru_native": "Райли! Забавно – я как раз хотела тебе набрать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S3.EVERCA_RILEY_0000",
+            "en": "Hey, Evelyn. Just calling to check in. Over.",
+            "ru_native": "Эй, Эвелин. Проверка связи. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT02.PARAI2",
+    "entries": [
+        {
+            "tag": "WT02.PARAI2_SHELLEY_0000",
+            "en": "Riley? Come in, please. Over.",
+            "ru_native": "Райли? Ответь, пожалуйста. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Дай відповідь, будь ласка. Прийом."
+        },
+        {
+            "tag": "WT02.PARAI2_SHELLEY_0001",
+            "en": "Please answer, this is important. Over.",
+            "ru_native": "Пожалуйста, ответь, это важно. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка, відповідай, це… це важливо. Прийом."
+        },
+        {
+            "tag": "WT02.PARAI2_SHELLEY_0002",
+            "en": "Call me as soon as you get a chance, please. Over and out.",
+            "ru_native": "Перезвони мне как можно скорее, пожалуйста. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зв’яжися зі мною якнайшвидше, будь ласка. Кінець зв’язку."
+        }
+    ]
+}

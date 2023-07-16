@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2T2.CAUPOL",
+    "entries": [
+        {
+            "tag": "A2T2.CAUPOL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2T2.CAUPOL_CHOICE_0000_OPTION_0000",
+            "en": "Who were you with?",
+            "ru_native": "С кем ты была?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Із ким ти була?"
+        },
+        {
+            "tag": "A2T2.CAUPOL_CHOICE_0000_OPTION_0001",
+            "en": "We have to get out of here",
+            "ru_native": "Нужно выбираться отсюда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Потрібно вибиратися звідси."
+        },
+        {
+            "tag": "A2T2.CAUPOL_OLIVIA_0000",
+            "en": "No… no…",
+            "ru_native": "Нет... Нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні... ні..."
+        },
+        {
+            "tag": "A2T2.CAUPOL_OLIVIA_0001",
+            "en": "You!",
+            "ru_native": "Ты!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти!"
+        },
+        {
+            "tag": "A2T2.CAUPOL_OLIVIA_0002",
+            "en": "How did you get in here?!",
+            "ru_native": "Как ты сюда попала?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти сюди потрапила?"
+        },
+        {
+            "tag": "A2T2.CAUPOL_OLIVIA_0003",
+            "en": "You have no right to be here with them!",
+            "ru_native": "Ты не имеешь права быть здесь, с ними!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не маєш права бути тут із ними!"
+        },
+        {
+            "tag": "A2T2.CAUPOL_RILEY_0000",
+            "en": "Who was that?",
+            "ru_native": "Кто это был?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це був?"
+        },
+        {
+            "tag": "A2T2.CAUPOL_RILEY_0001",
+            "en": "We really need to—",
+            "ru_native": "Нам нужно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нам потрібно…"
+        }
+    ]
+}

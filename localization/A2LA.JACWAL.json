@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2LA.JACWAL",
+    "entries": [
+        {
+            "tag": "A2LA.JACWAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2LA.JACWAL_CHOICE_0000_OPTION_0000",
+            "en": "Jacob!",
+            "ru_native": "Джейкоб!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе!"
+        },
+        {
+            "tag": "A2LA.JACWAL_CHOICE_0000_OPTION_0001",
+            "en": "Don’t play jokes now.",
+            "ru_native": "Не надо шуток.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз краще без жартів."
+        },
+        {
+            "tag": "A2LA.JACWAL_JACOB_0000",
+            "en": "Oh. Man.",
+            "ru_native": "О господи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оу."
+        },
+        {
+            "tag": "A2LA.JACWAL_RILEY_0000",
+            "en": "Jacob! Hey! What are you doing, man?",
+            "ru_native": "Джейкоб! Эй! Что ты делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе! Гей! Що ти в біса робиш?"
+        },
+        {
+            "tag": "A2LA.JACWAL_RILEY_0001",
+            "en": "Jacob, c’mon, the night’s done, let’s not crack open a Pandora’s box of bad jokes you’ve been storing.",
+            "ru_native": "Джейкоб, да ладно, ночь прошла, давай не будем<br>открывать твой ящик Пандоры с плохими шутками.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, та годі, ніч минула, краще не відкривати твою скриньку Пандори<br>з поганими жартами."
+        },
+        {
+            "tag": "A2LA.JACWAL_RILEY_0002",
+            "en": "That’s—sorry, I… kept having flashes… future memories of me and my… son.",
+            "ru_native": "Это... прости, у меня были видения... будущие воспоминания обо мне и моем... сыне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… вибачте, у мене… постійно виникають… майбутні спогади про мене та мого… сина."
+        },
+        {
+            "tag": "A2LA.JACWAL_RILEY_0003",
+            "en": "I never told you about it. It didn’t seem… important to what was going on.",
+            "ru_native": "Я тебе не рассказывала. Мне казалось... это неважно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ніколи не казала тобі про це. Це не здавалося… неважливим<br>порівняно з тим, що відбувається."
+        }
+    ]
+}

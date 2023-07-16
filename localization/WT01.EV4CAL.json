@@ -1,0 +1,393 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT01.EV4CAL",
+    "entries": [
+        {
+            "tag": "WT01.EV4CAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV4CAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV4CAL_CHOICE_0001_OPTION_0000",
+            "en": "Where are you going?",
+            "ru_native": "Куда ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти куди їдеш?"
+        },
+        {
+            "tag": "WT01.EV4CAL_CHOICE_0001_OPTION_0001",
+            "en": "Everything okay?",
+            "ru_native": "Все хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе добре?"
+        },
+        {
+            "tag": "WT01.EV4CAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV4CAL_CHOICE_0002_OPTION_0000",
+            "en": "I understand.",
+            "ru_native": "Я понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію."
+        },
+        {
+            "tag": "WT01.EV4CAL_CHOICE_0002_OPTION_0001",
+            "en": "I hope you hear from her.",
+            "ru_native": "Надеюсь, она объявится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, сестра тобі зателефонує."
+        },
+        {
+            "tag": "WT01.EV4CAL_CHOICE_0002_OPTION_0002",
+            "en": "It’s been nice working with you.",
+            "ru_native": "Было приятно с тобой поработать",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було приємно з тобою працювати."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0000",
+            "en": "Riley? Can you hear me? I’m in the car.",
+            "ru_native": "Райли? Ты меня слышишь? Я в машине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти мене чуєш? Я в машині."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0001",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0002",
+            "en": "I’m not sure.",
+            "ru_native": "Сама не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не впевнена."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0003",
+            "en": "I… I just…",
+            "ru_native": "Я... Я просто...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я просто…"
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0004",
+            "en": "I left work and am heading to my partner’s place. She’s been home for a bit.",
+            "ru_native": "Я ушла с работы и еду к подруге. Она сейчас дома.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вийшла з роботи та їду до коханої. Вона зараз удома."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0005",
+            "en": "Uh, my sister never called, Riley. And… I still can’t get in contact with her.",
+            "ru_native": "Моя сестра так и не позвонила, Райли. И... я до сих пор не могу с ней связаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя сестра так і не зателефонувала, Райлі. І… я досі не можу з нею зв’язатися."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0006",
+            "en": "I took your advice, and told my Mom the truth. I think it was the right thing to do.",
+            "ru_native": "Я послушала твоего совета и сказала маме правду. Думаю, это было верное решение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я послухала твоєї поради і сказала мамі правду.<br>Гадаю, це було правильним рішенням."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0007",
+            "en": "I took your advice, and told my Mom everything was fine.",
+            "ru_native": "Я послушала твоего совета и сказала маме, что все хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я послухала твоєї поради і сказала мамі, що все гаразд."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0008",
+            "en": "I don’t really know if that was the right thing to do…",
+            "ru_native": "Не знаю, было ли это верным решением...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи це було правильним рішенням…"
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0009",
+            "en": "I told my Mom I hadn’t heard, yet. That was a hard conversation.",
+            "ru_native": "Я сказала маме, что она еще не звонила. Это был трудный разговор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я сказала мамі, що сестра ще не дзвонила. То була важка розмова."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0010",
+            "en": "But… I’m just… I can’t be at work anymore. Cause… it’s just… work—that’s what it is.",
+            "ru_native": "Но... я просто... больше не могу сидеть на работе. Ведь...<br>это просто работа, в конце концов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… я просто… більше не можу сидіти на роботі. Адже… зрештою, це лише робота."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0011",
+            "en": "Work. And my family’s my life, even though… tonight was really exciting for me.",
+            "ru_native": "Работа. А моя семья – это моя жизнь, хотя... этой ночью было правда интересно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Робота. А моя сім’я — це все для мене, хоча… цього вечора було справді цікаво."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0012",
+            "en": "And you were a big part of that.",
+            "ru_native": "Благодаря тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завдяки тобі."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0013",
+            "en": "Thanks for the readings Riley. I mean it. It really helped Leslie and the team.",
+            "ru_native": "Спасибо за данные, Райли. Серьезно. Они очень помогли Лесли и всей команде.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за показники, Райлі. Серйозно. Вони дуже допомогли Леслі та всій команді."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0014",
+            "en": "But, in light of everything that’s happening… I just wanna be with my family right now.",
+            "ru_native": "Но, в свете всего случившегося... Сейчас я просто хочу побыть в семьей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але, у світлі того, що сталося… Зараз я просто хочу побути із сім’єю."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0015",
+            "en": "And sit by the fire. And wait by the phone.",
+            "ru_native": "Сесть у камина. И ждать звонка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Посидіти біля каміна. І почекати на дзвінок."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0016",
+            "en": "If that makes sense.",
+            "ru_native": "Если в этом есть смысл.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюсь, що-небудь із цього зрозуміло."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0017",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0018",
+            "en": "Thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0019",
+            "en": "Yeah, of course, I’d like that.",
+            "ru_native": "Да, конечно, с удовольствием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно, із задоволенням."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0020",
+            "en": "Okay, Riley. If you still need anything, feel free to call, I’ll be on the line just in case.",
+            "ru_native": "Ладно, Райли. Еще что понадобится, звони. Я буду на связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Райлі. Якщо щось знадобиться, дай знати. Я буду на зв’язку."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0021",
+            "en": "You shouldn’t feel alone, either, right?",
+            "ru_native": "Не бросать же тебя одну, верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не повинна ж ти лишатися на самоті, еге ж?"
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0022",
+            "en": "Take care. And good luck. Over and out.",
+            "ru_native": "Береги себя. И удачи. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бережи себе. І хай щастить. Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0023",
+            "en": "I finally got my car started. I’m – I’m on the road.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Наконец-то я завел свою машину. Я - я выехал на дорогу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нарешті завела свою машину. Я… я вже в дорозі."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0024",
+            "en": "Sorry I can’t pick you up. If I get too close to the coastline… the battery starts to drain again.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Извини, что не могу тебя подхватить. Если я подъеду слишком близко к береговой линии... батарея снова начнет разряжаться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, я не можу забрати вас. Якщо я наближаюся до<br>берегової лінії… акумулятор починає розряджатися."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0025",
+            "en": "Thanks for the readings Riley. I mean it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Спасибо за прочтение Райли. Я серьезно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую за показники, Райлі. Я серйозно."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0026",
+            "en": "This information will help so much if anything like this ever happens in the future.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эта информация очень поможет, если что-то подобное случится в будущем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця інформація дуже допоможе, якщо щось подібне трапиться в майбутньому."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0027",
+            "en": "But… right now, I just have to… I just want to be home and wait by the phone.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но... сейчас я просто должен... я хочу быть дома и ждать у телефона.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… зараз я просто мушу… Я просто хочу додому й буду чекати біля телефону."
+        },
+        {
+            "tag": "WT01.EV4CAL_EVELYN_0028",
+            "en": "See you later, Jacob! Hope you find your doggie.",
+            "ru_native": "",
+            "ru_machine": "DEEPL До встречи, Джейкоб! Надеюсь, ты найдешь свою собачку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До зустрічі, Джейкобе! Сподіваюся, що твоя собачка знайдеться."
+        },
+        {
+            "tag": "WT01.EV4CAL_JACOB_0000",
+            "en": "Thanks Evelyn.",
+            "ru_native": "Спасибо Evelyn.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, Евелін."
+        },
+        {
+            "tag": "WT01.EV4CAL_RILEY_0000",
+            "en": "Oh! Uh, where are you going? Over.",
+            "ru_native": "О! А куда ты едешь? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! А куди ти їдеш? Прийом."
+        },
+        {
+            "tag": "WT01.EV4CAL_RILEY_0001",
+            "en": "Oh! Uh, is everything alright? Over.",
+            "ru_native": "О! У тебя все в порядке? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О! У тебе все гаразд? Прийом."
+        },
+        {
+            "tag": "WT01.EV4CAL_RILEY_0002",
+            "en": "No, I—I totally understand, Evelyn. Be with your family. Over.",
+            "ru_native": "Нет, я... я все понимаю, Эвелин. Езжай к семье. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я… я все розумію, Евелін. Їдь до сім’ї. Прийом."
+        },
+        {
+            "tag": "WT01.EV4CAL_RILEY_0003",
+            "en": "Okay, Evelyn. I hope you hear from your sister soon. Over.",
+            "ru_native": "Ладно, Эвелин. Надеюсь, твоя сестра скоро объявится. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Евелін. Сподіваюся, твоя сестра незабаром зателефонує. Прийом."
+        },
+        {
+            "tag": "WT01.EV4CAL_RILEY_0004",
+            "en": "Well… it’s been nice working with you? Maybe we can get a coffee when this is all over. Over.",
+            "ru_native": "Что ж... было приятно с тобой поработать. Может,<br>сходим попить кофе, когда это все закончится? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… було приємно з тобою працювати.<br>Може, сходимо на каву, коли все скінчиться? Прийом."
+        }
+    ]
+}

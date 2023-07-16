@@ -1,0 +1,204 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "EVWT.EVA2V4",
+    "entries": [
+        {
+            "tag": "EVWT.EVA2V4_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2V4_CHOICE_0000_OPTION_0000",
+            "en": "Come in, Evelyn.",
+            "ru_native": "Эвелин, ответь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, прийом."
+        },
+        {
+            "tag": "EVWT.EVA2V4_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "EVWT.EVA2V4_CHOICE_0001_OPTION_0000",
+            "en": "We’re almost done.",
+            "ru_native": "Мы почти закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми майже закінчили."
+        },
+        {
+            "tag": "EVWT.EVA2V4_CHOICE_0001_OPTION_0001",
+            "en": "Things are crazy.",
+            "ru_native": "Дичь творится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут твориться божевілля."
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0000",
+            "en": "Riley! Hey, what’s up?",
+            "ru_native": "Райли! Как жизнь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Як справи?"
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0001",
+            "en": "Anything to report?",
+            "ru_native": "Есть новости?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є що повідомити?"
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0002",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0003",
+            "en": "Great, that’s awesome.",
+            "ru_native": "Это отличные новости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, це класно."
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0004",
+            "en": "You know, I wish I could have offered more, uh—you know—just support in some way during all of this…",
+            "ru_native": "Знаешь, хотела бы я предложить что-то большее в плане помощи и поддержки...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, я хотіла запропонувати більше підтримки впродовж цього…"
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0005",
+            "en": "It’s… been a night.",
+            "ru_native": "Та еще ночка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну й нічка."
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0006",
+            "en": "Thanks for the update, Riley, and as always call me when you plant it! Thanks!",
+            "ru_native": "Спасибо, что держишь в курсе, Райли! Сообщи, как его поставишь! Спасибо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що повідомила новини, Райлі. Як завжди: повідом, як встановиш його! Дякую!"
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0007",
+            "en": "Alright, sounds good, Riley. Olivia. Guh. I’ve never met an Olivia I liked.",
+            "ru_native": "Это хорошие новости, Райли. Оливия... Все Оливии какие-то мерзкие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло, гарна звістка, Райлі. Олівія.<br>Усі Олівії, що мені зустрічалися, якісь неприємні."
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0008",
+            "en": "Thanks for the update, Riley, and as always call me when you plant it! Thanks!",
+            "ru_native": "Спасибо, что держишь в курсе, Райли! Сообщи, как его поставишь! Спасибо!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую, що повідомила новини, Райлі. Як завжди: повідом, як встановиш його! Дякую!"
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0009",
+            "en": "Eek, I think I lost you again, Riley! Just—call when you’re… more out in the open, I guess.",
+            "ru_native": "Блин, Райли, я тебя опять потеряла! Дай знать, когда будешь на открытом пространстве.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бляха, здається, я знову втратила тебе, Райлі!<br>Просто виклич мене, коли вийдеш на вільний простір."
+        },
+        {
+            "tag": "EVWT.EVA2V4_EVELYN_0010",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "EVWT.EVA2V4_RILEY_0000",
+            "en": "Hey, uh, Evelyn? Are you there? Come in. Over.",
+            "ru_native": "Эй, Эвелин? Ты там? Ответь. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін? Ти там? Відповідай. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2V4_RILEY_0001",
+            "en": "Yeah, I just wanted to let you know that I think we’re almost done.",
+            "ru_native": "Да, хотела сообщить, что мы почти закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я лише хотіла повідомити, що, здається, ми майже закінчили."
+        },
+        {
+            "tag": "EVWT.EVA2V4_RILEY_0002",
+            "en": "We’re headed to the last transmitter spot, now. Over.",
+            "ru_native": "Идем к месту последнего передатчика. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ідемо до місця встановлення останнього радіопередавача. Прийом."
+        },
+        {
+            "tag": "EVWT.EVA2V4_RILEY_0003",
+            "en": "Things are… pretty crazy here, Evelyn. There’s a teenager, Olivia, that’s been doing everything.",
+            "ru_native": "Эвелин, тут происходит какая-то дичь. Девчонка, Оливия, – это все ее рук дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут відбувається якесь… божевілля, Евелін.<br>Ця дівчина, Олівія… це все вона влаштувала."
+        },
+        {
+            "tag": "EVWT.EVA2V4_RILEY_0004",
+            "en": "I mean, she hasn’t been doing everything but she started the boulder rolling down the mountain.",
+            "ru_native": "Точнее, не совсем все, но это именно она запустила снежный ком с горы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто вона не у всьому винна, але сніжний ком котиться з гори через неї."
+        },
+        {
+            "tag": "EVWT.EVA2V4_RILEY_0005",
+            "en": "I think we’re getting to the end, though, but… just hang tight. Over.",
+            "ru_native": "Думаю, развязка уже близко... Недолго осталось. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, кінець уже близько, але… Тримайся. Прийом."
+        }
+    ]
+}

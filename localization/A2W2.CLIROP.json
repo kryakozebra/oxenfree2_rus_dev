@@ -1,0 +1,78 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.CLIROP",
+    "entries": [
+        {
+            "tag": "A2W2.CLIROP_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.CLIROP_CHOICE_0000_OPTION_0000",
+            "en": "I want to explore a little more.",
+            "ru_native": "Хочу еще осмотреться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу оглянути тут усе."
+        },
+        {
+            "tag": "A2W2.CLIROP_CHOICE_0000_OPTION_0001",
+            "en": "Not ready, yet…",
+            "ru_native": "Еще не готова...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще не готова…"
+        },
+        {
+            "tag": "A2W2.CLIROP_JACOB_0000",
+            "en": "Oh? Change your, uh, mind?",
+            "ru_native": "О? Передумала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Га? Передумала?"
+        },
+        {
+            "tag": "A2W2.CLIROP_JACOB_0001",
+            "en": "Ah, okay. Right behind ya.",
+            "ru_native": "А, ладно. Я за тобой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Я за тобою."
+        },
+        {
+            "tag": "A2W2.CLIROP_JACOB_0002",
+            "en": "Whenever you’re ready, I guess.",
+            "ru_native": "Ладно, как только, так сразу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажеш, як будеш готова."
+        },
+        {
+            "tag": "A2W2.CLIROP_RILEY_0000",
+            "en": "I just think there’s… there might be something else to check out up here, first.",
+            "ru_native": "Я просто подумала... что мы еще не все тут осмотрели.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто подумала… що ми ще не все тут оглянули."
+        },
+        {
+            "tag": "A2W2.CLIROP_RILEY_0001",
+            "en": "Just… not ready, yet.",
+            "ru_native": "Я просто... еще не готова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто… ще не готова."
+        }
+    ]
+}

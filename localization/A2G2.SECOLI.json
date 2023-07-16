@@ -1,0 +1,474 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.SECOLI",
+    "entries": [
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0000_OPTION_0000",
+            "en": "Yessss?",
+            "ru_native": "Да-а-а?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тааак?"
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0000_OPTION_0001",
+            "en": "What!",
+            "ru_native": "Что?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?!"
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0001_OPTION_0000",
+            "en": "You’re so negative.",
+            "ru_native": "Ты такая негативная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти така негативна."
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0001_OPTION_0001",
+            "en": "That’s the world.",
+            "ru_native": "Таков мир.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Такий світ."
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0002_OPTION_0000",
+            "en": "Now you’re nice?",
+            "ru_native": "Чего это ты милая?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого це ти така привітна?"
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0002_OPTION_0001",
+            "en": "Thrift store.",
+            "ru_native": "Из комиссионки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У комісійному магазині."
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0002_OPTION_0002",
+            "en": "Thanks.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую."
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0003_OPTION_0000",
+            "en": "‘They’ sound like idiots.",
+            "ru_native": "«Они» просто идиоты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Вони» кажуть маячню."
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0003_OPTION_0001",
+            "en": "We can be friends, still.",
+            "ru_native": "Мы все еще можем быть друзьями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми все ще можемо бути друзями."
+        },
+        {
+            "tag": "A2G2.SECOLI_CHOICE_0003_OPTION_0002",
+            "en": "We would never be friends.",
+            "ru_native": "Нам никогда не быть друзьями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ніколи не будемо друзями."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0000",
+            "en": "Maggots and mildew—you notice that’s all that stupid town Garland is?",
+            "ru_native": "Личинки и плесень – в этом дурацком Гарленде больше ничего нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Черв’яки і пліснява — у цьому безглуздому Гарленді більш нічого немає?"
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0001",
+            "en": "No wonder it was abandoned.",
+            "ru_native": "Понятно, почему его забросили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не дивно, що його покинули."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0002",
+            "en": "It deserved it.",
+            "ru_native": "Заслуженно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заслужено."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0003",
+            "en": "No, I’m really honest. People like to mix up the two when they don’t want to face the truth.",
+            "ru_native": "Нет, я честная. Люди любят подменять эти два<br>понятия, когда не хотят признавать правду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, насправді я чесна. Людям подобається підміняти<br>ці два поняття, коли вони не хочуть дивитися правді в очі."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0004",
+            "en": "Uh—no it isn’t. Most of the world is the ocean.",
+            "ru_native": "Ну нет. Большая часть мира – это океан.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Більшість світу — океан."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0005",
+            "en": "I like your vest, by the way.",
+            "ru_native": "Классный жилет, кстати.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До речі, мені подобається твій жилет."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0006",
+            "en": "I could never find one I liked.",
+            "ru_native": "Мне вот никакие не идут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи не могла знайти до вподоби."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0007",
+            "en": "That wasn’t like, ten thousand dollars.",
+            "ru_native": "По крайней мере, дешевле десяти тысяч баксов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні коштував не десять тисяч доларів."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0008",
+            "en": "I’m actually always nice, you’re just on the other side of it.",
+            "ru_native": "Вообще-то я всегда милая, просто мы по разные стороны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я завжди привітна. Просто ти мене з іншого боку бачиш."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0009",
+            "en": "But normally I’m a plate of pancakes.",
+            "ru_native": "Но обычно я просто прелесть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але зазвичай я сама привітність."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0010",
+            "en": "With all the bed bugs I can eat, I’ll bet.",
+            "ru_native": "Ага, и клопов размером с собаку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І величезних клопів на додачу."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0011",
+            "en": "Underrated piece of clothing. Few respect them, fewer make them work.",
+            "ru_native": "Недооцененный предмет гардероба. Мало кто их любит, и мало кому они идут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Недооцінений предмет гардеробу. Мало кому вони подобаються,<br>і ще менше кому вони пасують."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0012",
+            "en": "It’s a shame we’ll never be friends.",
+            "ru_native": "Жаль, что мы никогда не будем друзьями.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прикро, що ми ніколи не будемо друзями."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0013",
+            "en": "I mean, aside from the fact that you’re like 50 or whatever.",
+            "ru_native": "Если не считать, что тебе 50 или около того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо не зважати на те, що тобі 50 тощо."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0014",
+            "en": "They tell me you’re dependable, reliable, have a \"big heart\"… whatever that means.",
+            "ru_native": "Они говорят, что ты надежная и у тебя «большое сердце»... что бы это ни значило.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажуть, на тебе можна покластися, у тебе «велике серце»… щоби це не значило."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0015",
+            "en": "They say you’re a real peach.",
+            "ru_native": "Они говорят, ты просто персик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кажуть, ти — справжній персик."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0016",
+            "en": "Well maybe they know you better than you know yourself.",
+            "ru_native": "Может, они знают тебя лучше, чем ты сама.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, вони знають тебе краще, ніж ти сама."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0017",
+            "en": "Uh, no, we can’t be friends. Not when I’m done, here.",
+            "ru_native": "О нет, друзьями нам не быть. Особенно когда я тут закончу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О ні, ми не можемо бути друзями. Особливо коли я тут закінчу."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0018",
+            "en": "I don’t dislike you. I mostly just… nothing you.",
+            "ru_native": "Я скорее отношусь к тебе... никак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не те щоби ти мені не подобалася. Я не ставлюся до тебе… ніяк."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0019",
+            "en": "It’s not an entirely lost cause.",
+            "ru_native": "Еще не все потеряно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще не все втрачено."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0020",
+            "en": "It’s too bad. I could never find anyone who liked vests as much as me.",
+            "ru_native": "Обидно. Я еще не встречала человека, который любил бы жилеты так же, как я.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прикро. Я ще ніколи не зустрічала людину,<br>якій подобаються жилети так само, як і мені."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0021",
+            "en": "Maybe in the next life, ya know?",
+            "ru_native": "Может, в следующей жизни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, наступного разу."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0022",
+            "en": "Maybe then all our dreams will come true and look great doing so.",
+            "ru_native": "Может, когда все наши мечты сбудутся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, коли наші мрії здійсняться."
+        },
+        {
+            "tag": "A2G2.SECOLI_OLIVIA_0023",
+            "en": "Maybe…",
+            "ru_native": "Возможно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може…"
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0000",
+            "en": "Uh, yes?",
+            "ru_native": "О, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Справді?"
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0001",
+            "en": "What, what is it?",
+            "ru_native": "Что, что это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що, що це?"
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0002",
+            "en": "You’re like—really negative, anybody ever tell you that?",
+            "ru_native": "Тебе никто не говорил, что ты слишком негативная?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти надто негативна. Тобі хтось говорив про це?"
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0003",
+            "en": "Yeah, that’s most of the world, kid.",
+            "ru_native": "Да, как и большая часть мира, детка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, як і більшість світу, хлопче."
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0004",
+            "en": "Sun-faded disappointment.",
+            "ru_native": "Выцветшее разочарование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Очевидне розчарування."
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0005",
+            "en": "Suddenly you’re nice?",
+            "ru_native": "С чего это ты такая милая?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого це ти стала така привітна?"
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0006",
+            "en": "Thrift store actually, you’d be amazed what you can find in them.",
+            "ru_native": "Купила в комиссионке. Там чего только не найдешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Купила в комісійному магазині. Там чого тільки не знайдеш."
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0007",
+            "en": "Well, uh, hey, thanks.",
+            "ru_native": "О, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, дякую."
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0008",
+            "en": "Uh, whoever they are sounds like idiots.",
+            "ru_native": "Кто бы ни были эти «они», они идиоты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто б вони не були, вони — ідіоти."
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0009",
+            "en": "Cause I don’t know who that’s supposed to describe, but it’s not me.",
+            "ru_native": "Не знаю, кого они имели в виду, но точно не меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, хто так каже, але точно не я."
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0010",
+            "en": "We could still be friends, ya know.",
+            "ru_native": "Мы могли бы подружиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми все таки могли б бути друзями."
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0011",
+            "en": "And I’m actually 100, I just have good genes.",
+            "ru_native": "И мне вообще-то 100, просто гены хорошие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Взагалі мені 100, просто хороші гени."
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0012",
+            "en": "Yeah, no. I don’t like you, I don’t think you like me.",
+            "ru_native": "Ну нет. Ты мне не нравишься, а я не нравлюсь тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Ти мені не подобаєшся. І, мабуть, я не подобаюся тобі."
+        },
+        {
+            "tag": "A2G2.SECOLI_RILEY_0013",
+            "en": "I don’t see this recipe working.",
+            "ru_native": "Такому не бывать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це нереально."
+        }
+    ]
+}

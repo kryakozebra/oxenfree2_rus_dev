@@ -1,0 +1,276 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V2.ENTCOM",
+    "entries": [
+        {
+            "tag": "A2V2.ENTCOM_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V2.ENTCOM_CHOICE_0001_OPTION_0000",
+            "en": "Let's look.",
+            "ru_native": "Осмотримся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба глянути."
+        },
+        {
+            "tag": "A2V2.ENTCOM_CHOICE_0001_OPTION_0001",
+            "en": "Let's hurry.",
+            "ru_native": "Поторопимся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хутчіш."
+        },
+        {
+            "tag": "A2V2.ENTCOM_CHOICE_0001_OPTION_0002",
+            "en": "Sure no one's here?",
+            "ru_native": "Тут точно никого?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут точно нікого?"
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0000",
+            "en": "Hello?",
+            "ru_native": "Есть кто?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0001",
+            "en": "We, uh, probably beat them here?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы, наверное, победили их здесь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0002",
+            "en": "[ID-2] [sighs]",
+            "ru_native": "",
+            "ru_machine": "DEEPL [ID-2].",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0003",
+            "en": "I don’t think I’ve ever been in this building.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне кажется, я никогда не был в этом здании.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0004",
+            "en": "I should join more clubs or something.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне следует присоединиться к большему количеству клубов или что-то в этом роде.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0005",
+            "en": "I mean, by the looks of it, infinite.",
+            "ru_native": "",
+            "ru_machine": "DEEPL То есть, судя по всему, бесконечно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0006",
+            "en": "Yeah, I’m trying to… see one.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, я пытаюсь... увидеть одну.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0007",
+            "en": "Um, maybe! I hope so, you know—I don’t know why they’d tell us to come here if they weren’t.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хм, может быть! Я надеюсь на это, знаешь - я не знаю, зачем бы они сказали нам прийти сюда, если бы это было не так.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0008",
+            "en": "Hey, help me find a—a lamp or something. It’s pretty dark.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, помоги мне найти лампу или что-нибудь в этом роде. Здесь довольно темно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0009",
+            "en": "Okay. We’re in the clear.",
+            "ru_native": "Так, вроде все чисто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, начебто все чисто."
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0010",
+            "en": "So… if we’re right, there’s radio equipment around here somewhere.",
+            "ru_native": "Если мы правы, где-то здесь должно быть радиооборудование.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож… Якщо ми не помиляємося, десь тут має бути радіообладнання."
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0011",
+            "en": "Let’s just… find it and destroy it before they get here.",
+            "ru_native": "Давай найдем его и уничтожим до их прибытия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… знайдімо й знищимо те обладнання, доки вони не прийшли."
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0012",
+            "en": "We can start upstairs, or…",
+            "ru_native": "Можно начать сверху, или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можна почати зверху, або ж…"
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0013",
+            "en": "Just wander.",
+            "ru_native": "Просто обойти все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто обійти тут усе."
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0014",
+            "en": "Hey, you don’t have to sell me.",
+            "ru_native": "Меня убеждать не надо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене не треба переконувати."
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0015",
+            "en": "Uh, definitely.",
+            "ru_native": "Это точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стовідсотково."
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0016",
+            "en": "Uh, I don’t know. I don’t hear anything? At least no goat screaming.",
+            "ru_native": "Не знаю. Я ничего не слышу. Козлы точно не кричат.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Я нічого не чую. Козли точно не мекають."
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0017",
+            "en": "I… think we’re okay.",
+            "ru_native": "Думаю, мы в безопасности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ми в безпеці."
+        },
+        {
+            "tag": "A2V2.ENTCOM_JACOB_0018",
+            "en": "Wander it is.",
+            "ru_native": "Значит, обходим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Значить, пішли обходити."
+        },
+        {
+            "tag": "A2V2.ENTCOM_RILEY_0000",
+            "en": "This… place is big. How many karate classes for toddlers can there really be?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... место большое. Сколько же на самом деле может быть классов карате для малышей?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_RILEY_0001",
+            "en": "Where’s the, uh, the lightswitch? It’s pretty dark.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Где... э-э... выключатель света? Здесь довольно темно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_RILEY_0002",
+            "en": "You really think the cops are coming?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты действительно думаешь, что приедут копы?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ENTCOM_RILEY_0003",
+            "en": "Yeah. Let’s just look, we don’t need to spend time making a game plan.",
+            "ru_native": "Да, давай просто осмотримся, без лишнего планирования.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, просто все роздивімося, не гаючи часу на плани."
+        },
+        {
+            "tag": "A2V2.ENTCOM_RILEY_0004",
+            "en": "Yeah, let’s hurry up and find the thing before anyone else wanders in here.",
+            "ru_native": "Да, лучше поторопиться и найти его раньше, чем кто-нибудь придет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, краще поквапитися і знайти його раніше, ніж хтось забреде сюди."
+        },
+        {
+            "tag": "A2V2.ENTCOM_RILEY_0005",
+            "en": "Okay, but… are we sure that no one else is here?",
+            "ru_native": "Хорошо, но... ты уверен, что тут никого нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, але… ти певен, що тут нікого нема?"
+        },
+        {
+            "tag": "A2V2.ENTCOM_RILEY_0006",
+            "en": "What if there are other, uh, members, killing goats in the basement… or something.",
+            "ru_native": "Вдруг другие сектанты сейчас режут козлов в подземелье... или еще чего похлеще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раптом інші сектанти зараз ріжуть козлів у підземеллі… чи ще щось?"
+        }
+    ]
+}

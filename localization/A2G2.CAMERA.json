@@ -1,0 +1,204 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.CAMERA",
+    "entries": [
+        {
+            "tag": "A2G2.CAMERA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.CAMERA_CHOICE_0000_OPTION_0000",
+            "en": "Sure.",
+            "ru_native": "Окей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "A2G2.CAMERA_CHOICE_0000_OPTION_0001",
+            "en": "No way.",
+            "ru_native": "Ни за что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нізащо."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0000",
+            "en": "Hank mentioned grabbing a picture, I’ve got my camera with me.",
+            "ru_native": "Хэнк просил сделать фото, у меня фотоаппарат с собой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенк просив робити фото. Моя камера зі мною."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0001",
+            "en": "Let’s see if we find anything flash-worthy.",
+            "ru_native": "Посмотрим, найдется ли что-то достойное фото.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подивимося, чи є щось достойне знімка."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0002",
+            "en": "Hm, well Hank mentioned grabbing a picture. Like I said earlier, got a camera in my truck.",
+            "ru_native": "Хм, Хэнк просил сделать фото. Повторяю, у меня в машине есть фотоаппарат.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенк просив робити фото. Повторюю, у мене в машині є камера."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0003",
+            "en": "It—should still be there waiting. Assuming it wasn’t stolen.",
+            "ru_native": "Должен быть на месте. Если не украли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Має бути на місці. Якщо її не вкрали."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0004",
+            "en": "The camera… or my truck, I suppose.",
+            "ru_native": "Фотоаппарат... или грузовик.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Камеру… чи машину, здається."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0005",
+            "en": "Hank mentioned grabbing a picture. I’ve got a camera in my truck.",
+            "ru_native": "Хэнк просил сделать фото. У меня в машине есть фотоаппарат.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хенк просив робити фото. У мене в машині є камера."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0006",
+            "en": "It’s… a walk, and the transmitters are definitely still uh—paramount…",
+            "ru_native": "Это... просто прогулка, а передатчики определенно... важнее всего...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… лише прогулянка. А радіопередавачі точно мають першочергове значення…"
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0007",
+            "en": "…but I mean, he did say he could make it worth our while.",
+            "ru_native": "...но он вроде говорил, что отблагодарит нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…але він і справді говорив, що віддячить."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0008",
+            "en": "We don’t have to go get it right now, but—ya know—it’s there.",
+            "ru_native": "Не обязательно идти за ним прямо сейчас, но если что, он там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не обов’язково йти по неї зараз, але якщо треба, вона тут."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0009",
+            "en": "If we wanna.",
+            "ru_native": "Если захотим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо схочемо."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0010",
+            "en": "Ya know, take a stroll? Pray I haven’t been car uh—thefted?",
+            "ru_native": "Ну, прогуляться? Надеюсь, у меня машину не угнали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прогулятися. Сподіваюсь, машину в мене не викрали."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0011",
+            "en": "Cool, we can swing by and grab it whenever.",
+            "ru_native": "Супер, можем пойти и забрать, когда захотим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Супер, можемо піти й забрати, коли схочемо."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0012",
+            "en": "Assuming it wasn’t stolen…",
+            "ru_native": "Если его не украли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо її не вкрали."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0013",
+            "en": "Cool, okay. It’s waiting for us if you change your mind.",
+            "ru_native": "Ну ладно. Если передумаешь, фотоаппарат там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Вона там, якщо передумаєш."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0014",
+            "en": "And—if it wasn’t stolen.",
+            "ru_native": "Если его не украли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І якщо її не вкрали."
+        },
+        {
+            "tag": "A2G2.CAMERA_JACOB_0015",
+            "en": "Think it over. We can swing by and grab it whenever.",
+            "ru_native": "Подумай еще. Можем пойти и забрать, когда захотим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Подумай. Ми можемо піти й забрати її будь-коли."
+        },
+        {
+            "tag": "A2G2.CAMERA_RILEY_0000",
+            "en": "Sure, yeah, I’m in.",
+            "ru_native": "Конечно, давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж, так. Згода."
+        },
+        {
+            "tag": "A2G2.CAMERA_RILEY_0001",
+            "en": "Dude, no. Like, I’m sure Hank is a well-intentioned weirdo but…",
+            "ru_native": "Ну нет. Знаю, Хэнк хоть и чудак, но хочет как лучше, только...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Друже, ні. Хенк дивний. Має добрі наміри, але…"
+        },
+        {
+            "tag": "A2G2.CAMERA_RILEY_0002",
+            "en": "We got stuff to do, and snapshotting ain’t it.",
+            "ru_native": "У нас куча дел, и фотосъемка в них не входит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас справи, і фотозйомка зачекає."
+        }
+    ]
+}

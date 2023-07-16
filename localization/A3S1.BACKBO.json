@@ -1,0 +1,1167 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S1.BACKBO",
+    "entries": [
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0000_OPTION_0000",
+            "en": "After you.",
+            "ru_native": "После тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після тебе."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0000_OPTION_0001",
+            "en": "You should stay.",
+            "ru_native": "Ты остаешься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі варто залишитися."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0001_OPTION_0000",
+            "en": "Stay safe with Athena.",
+            "ru_native": "Оставайся с Буддой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишайся з Афіною."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0001_OPTION_0001",
+            "en": "You’ve helped enough.",
+            "ru_native": "Ты достаточно помог.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти достатньо допоміг."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0001_OPTION_0002",
+            "en": "I don’t want help.",
+            "ru_native": "Мне не нужна помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені не потрібна допомога."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0002_OPTION_0000",
+            "en": "Not with you.",
+            "ru_native": "Ничего не выйдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не з тобою."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0002_OPTION_0001",
+            "en": "Take care of your dog.",
+            "ru_native": "Позаботься о собаке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто потурбуйся про свою собаку."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0002_OPTION_0002",
+            "en": "If you really want to...",
+            "ru_native": "Если очень хочешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти справді хочеш…"
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0003_OPTION_0000",
+            "en": "No!",
+            "ru_native": "Нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні!"
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0003_OPTION_0001",
+            "en": "We’re fine, Jacob.",
+            "ru_native": "Джейкоб, все путем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З нами все гаразд, Джейкобе."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0003_OPTION_0002",
+            "en": "We’re friends, c’mon.",
+            "ru_native": "Мы же друзья, ты чего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ж друзі, чого ти."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0004_OPTION_0000",
+            "en": "I’d like that.",
+            "ru_native": "Конечно нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно ні."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0004_OPTION_0001",
+            "en": "Do whatever you want.",
+            "ru_native": "Делай, что хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роби, як знаєш."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0005_OPTION_0000",
+            "en": "Sorry, but no.",
+            "ru_native": "Прости, but no.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, але ні."
+        },
+        {
+            "tag": "A3S1.BACKBO_CHOICE_0005_OPTION_0001",
+            "en": "Okay, fine.",
+            "ru_native": "Ладно, хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, добре."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0000",
+            "en": "Okey doke, after you, ladies first, age before uh—",
+            "ru_native": "Оки-доки, дамы вперед, пропускаем старших...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Окі-докі, дами вперед, пропускаємо старших…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0001",
+            "en": "Yeah, after you.",
+            "ru_native": "Кхм, после тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, після тебе."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0002",
+            "en": "Uh, c’mon, get on.",
+            "ru_native": "Давай, залезай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Нуж-бо, залізай."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0003",
+            "en": "Is there… a problem?",
+            "ru_native": "Что-то не так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є проблеми?"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0004",
+            "en": "Oo la la, breaking societal protocol, I dig it.",
+            "ru_native": "О-ля-ля, ломаем правила этикета. Уважаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О-ля-ля, порушуємо правила етикету. Поважаю."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0005",
+            "en": "What? No—I’m… what? [chuckles awkwardly]",
+            "ru_native": "Что? Нет... Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Ні. Що? [хихикає ніяково]"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0006",
+            "en": "Riley. What are you doing?",
+            "ru_native": "Райли. Ты что делаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, що ти робиш?"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0007",
+            "en": "Why wouldn’t I go?",
+            "ru_native": "С чего мне оставаться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому я маю залишатися?"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0008",
+            "en": "Of course I’m going.",
+            "ru_native": "Конечно я поеду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж я їду."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0009",
+            "en": "No! Not okay!",
+            "ru_native": "Нет! Не ладно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Не гаразд!"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0010",
+            "en": "Uh, no, not okay! I do not accept that!",
+            "ru_native": "Нет, не ладно! Не принимается!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не гаразд! Я цього не допущу!"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0011",
+            "en": "Oh, pl—that is a gigantic load of crap and you know it!",
+            "ru_native": "Ой, хорош! Это все полная хрень, и ты это знаешь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай, досить. Це все величезна фігня,<br>ти й сам знаєш!"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0012",
+            "en": "Yeah, exactly, you’re not saying anything because you don’t have a good reason!",
+            "ru_native": "Вот именно! Ты молчишь, потому что веской причины нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отож бо! Ти нічого не кажеш, тому що в тебе немає поважної причини!"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0013",
+            "en": "Just get on the boat, this is stupid.",
+            "ru_native": "Залезай в лодку, хорош глупить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залізай у човен, це дурість."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0014",
+            "en": "Riley.",
+            "ru_native": "Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0015",
+            "en": "Get on the freaking boat.",
+            "ru_native": "Залезай в чертову лодку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залізай у чортів човен."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0016",
+            "en": "I… don’t dispute that, but still.",
+            "ru_native": "С таким сложно спорить, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… не суперечу, але все ж…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0017",
+            "en": "Well, if you’re not gonna say anything then…",
+            "ru_native": "Если ты ничего не хочешь сказать, то...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо ти нічого не хочеш сказати, то…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0018",
+            "en": "Then—fine. Fine. I won’t be a—whatever, I’ll respect your wishes.",
+            "ru_native": "Ладно. Ладно. Не буду... этим самым. Буду уважать твое решение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Гаразд. Не буду… Я поважаю твої бажання."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0019",
+            "en": "I guess I just thought—",
+            "ru_native": "Я просто подумал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лише подумав…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0020",
+            "en": "I dunno. I thought we were better than this.",
+            "ru_native": "Не знаю. Что мы выше этого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Що ми вище за це."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0021",
+            "en": "I thought—forget it.",
+            "ru_native": "Думал... Забей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я гадав… Байдуже."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0022",
+            "en": "Okay, I uh… I surrender. I won’t come along.",
+            "ru_native": "Хорошо, сдаюсь. Я останусь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, я здаюся. Я залишуся."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0023",
+            "en": "This is because of the Gingerbread story, isn’t it?",
+            "ru_native": "Это все из-за истории про Рыжего, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все через історію про Рудого, так?"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0024",
+            "en": "Is this cause I went a little crazy with Charlie?",
+            "ru_native": "Это потому, что я набросился на Чарли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це тому, що я накинувся на Чарлі?"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0025",
+            "en": "Is this cause I didn’t tell you about Maggie Adler until later?",
+            "ru_native": "Это потому, что я так поздно рассказал о Мэгги Адлер?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це тому, що я так пізно розповів про Меггі Адлер?"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0026",
+            "en": "I knew I shouldn’t have told you about that.",
+            "ru_native": "Так и знал, что не надо было рассказывать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так і знав, що не слід було розповідати."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0027",
+            "en": "As I was saying it, I thought, Jacob—",
+            "ru_native": "Пока говорил, думал: «Джейкоб...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поки говорив, думав: «Джейкобе…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0028",
+            "en": "This is too much information.",
+            "ru_native": "Это слишком личное».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це надто особисте»."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0029",
+            "en": "I know that was bad, but…",
+            "ru_native": "Знаю, нехорошо было...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, негарно вийшло, але…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0030",
+            "en": "We—you patched up with him, and…",
+            "ru_native": "Но мы... Ты с ним поладила, и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але ми… Ти з ним поладнала, і…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0031",
+            "en": "He seemed okay? I don’t know.",
+            "ru_native": "Он вроде в порядке? Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він наче в порядку? Не знаю."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0032",
+            "en": "It wasn’t anything I honestly thought was a secret, you know.",
+            "ru_native": "Я не считал, что это какие-то суперсекретные знания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не вважав, що то суперсекретні відомості."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0033",
+            "en": "It's just something I didn’t even think to mention until then.",
+            "ru_native": "Просто даже в голову не пришло упомянуть раньше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто навіть на думку не спало уточнити це тоді."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0034",
+            "en": "Ugh. Sorry if you felt I was keeping things from you.",
+            "ru_native": "Прости, если показалось, что я что-то скрывал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, якщо здалося, що я щось приховував."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0035",
+            "en": "Well. It’s been… it’s been.",
+            "ru_native": "Что ж. Было... было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж. Було… було."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0036",
+            "en": "I’ll see you off.",
+            "ru_native": "Я тебя провожу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я тебе проводжу."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0037",
+            "en": "Right?",
+            "ru_native": "Не против?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не проти?"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0038",
+            "en": "Yeah well… [chuckling] I’m not you. So.",
+            "ru_native": "Ну... Я – не ты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… [усміхається] Я не ти."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0039",
+            "en": "I’m gonna… go ahead and do that.",
+            "ru_native": "Да, так я и сделаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я так і зроблю."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0040",
+            "en": "Heh, it’s not like you can stop me.",
+            "ru_native": "Будто бы ты меня остановишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наче ти мене зупиниш."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0041",
+            "en": "But, uh, if you have anything else you wanna do, here…",
+            "ru_native": "Но если хочешь сделать еще что-то здесь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0042",
+            "en": "We should honestly do it now… before you head out to Edwards.",
+            "ru_native": "Лучше заняться этим сейчас. До отправки на Эдвардс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0043",
+            "en": "Don’t know what’ll happen. You know?",
+            "ru_native": "Никогда не знаешь, что будет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0044",
+            "en": "Okay, Riley the Reserved, suit yourself. I’m breaking the societal law and boarding first.",
+            "ru_native": "Хорошо, мисс Молчанка, воля ваша. Я нарушаю социальные нормы и загружаюсь первым.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, пані Мовчанка, як хочеш. Я порушую<br>соціальні норми й завантажуюсь першим."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0045",
+            "en": "Of course! C’mon, let’s—let’s just do this.",
+            "ru_native": "Естественно! Все, давай за дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж. Просто зробімо це."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0046",
+            "en": "We’ll be okay. It’s gonna work out. Don’t worry.",
+            "ru_native": "Мы справимся. Все у нас получится. Не переживай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе буде добре. Усе спрацює. Не хвилюйся."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0047",
+            "en": "No! Not okay – Riley… we have the same job!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет! Не нормально - Райли... у нас одна и та же работа!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Не добре, Райлі… у нас однакова робота!"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0048",
+            "en": "Uh, no, not okay! I do not accept that!",
+            "ru_native": "Нет, не ладно! Не принимается!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не гаразд! Я цього не дозволю!"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0049",
+            "en": "Uh, no, not okay! I do not accept that!",
+            "ru_native": "Нет, не ладно! Не принимается!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не гаразд! Я цього не дозволю!"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0050",
+            "en": "To see this through!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чтобы довести дело до конца!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоби покінчити з цим!"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0051",
+            "en": "We’ll be okay. It’s going to work out. Don’t worry.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У нас всё будет хорошо. Всё обязательно получится. Не волнуйся.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З нами все буде гаразд. Усе вийде. Не хвилюйся."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0052",
+            "en": "Well, if you’re not gonna say anything then...",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, если ты не собираешься ничего говорить, тогда...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, якщо ти мовчиш, тоді…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0053",
+            "en": "Then—fine. Fine. I won’t be a—whatever, I’ll respect your wishes.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Then-fine. Отлично. Я не буду абы как, я буду уважать твои желания.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді — добре. Добре. Я не буду… нехай, я поважатиму твої бажання."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0054",
+            "en": "I guess I just thought—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Наверное, я просто подумал...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лише подумав…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0055",
+            "en": "I dunno. I thought we were better than this.",
+            "ru_native": "Не знаю. Что мы выше этого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Що ми вище за це."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0056",
+            "en": "I thought—...forget it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я подумал -... забудь об этом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я подумав… забудь."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0057",
+            "en": "Riley. C’mon. I’m going, why pretend I’m not.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли. Давай. Я иду, зачем притворяться, что я не иду.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі. Годі. Я з тобою, навіщо прикидатися, що ні."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0058",
+            "en": "You’re going to need my help.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тебе понадобится моя помощь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі знадобиться моя допомога."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0059",
+            "en": "I – my dog will be fine.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я - моя собака будет в порядке.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… з моєю собакою все буде добре."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0060",
+            "en": "Really.",
+            "ru_native": "Правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0061",
+            "en": "Riley –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Riley -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0062",
+            "en": "Okay okay okay, Jesus. I… [sigh]",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно-ладно-ладно, Господи. Я... [вздыхает].",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд, Господи. Я… [зітхає]"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0063",
+            "en": "We’ll be okay. It’s going to work out. Don’t worry.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У нас всё будет хорошо. Всё обязательно получится. Не волнуйся.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З нами все буде гаразд. Усе вийде. Не хвилюйся."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0064",
+            "en": "Well, if you’re not gonna say anything then...",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, если ты не собираешься ничего говорить, тогда...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, якщо ти мовчиш, тоді…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0065",
+            "en": "Then—fine. Fine. I won’t be a—whatever, I’ll respect your wishes.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Then-fine. Отлично. Я не буду абы как, я буду уважать твои желания.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді — добре. Добре. Я не буду… нехай, я поважатиму твої бажання."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0066",
+            "en": "I guess I just thought—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Наверное, я просто подумал...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лише подумав…"
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0067",
+            "en": "I dunno. I thought we were better than this.",
+            "ru_native": "Не знаю. Что мы выше этого.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Що ми вище за це."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0068",
+            "en": "I thought—...forget it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я подумал -... забудь об этом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я подумав… забудь."
+        },
+        {
+            "tag": "A3S1.BACKBO_JACOB_0069",
+            "en": "I didn't... I didn't want it to end like this.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не... Я не хотел, чтобы все так закончилось.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не… Я не хотів, щоби це склалося так."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0000",
+            "en": "Oh, no no no, after you.",
+            "ru_native": "Нет-нет, после тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні-ні, після тебе."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0001",
+            "en": "You’re not coming. I’m going by myself.",
+            "ru_native": "Ты остаешься. Я поплыву одна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти залишаєшся. Я пливу сама."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0002",
+            "en": "Look, Jacob… you should stay with Athena.",
+            "ru_native": "Джейкоб, слушай... Останься с Буддой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Джейкобе… Ти маєш залишатися з Афіною."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0003",
+            "en": "What we’re doing—what I have to do… it’s—this is unacceptably dangerous.",
+            "ru_native": "То, что мы делаем... то, что мне предстоит – слишком опасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Те, що ми робимо… те, що я маю зробити — надто небезпечно."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0004",
+            "en": "My conscience is already well below sea level. I’m not adding getting a guy killed who was just trying to find his dog.",
+            "ru_native": "Моя совесть и так ниже уровня моря. Не собираюсь вешать<br>на нее смерть парня, который просто искал свою собаку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моя совість і так нижче рівня моря. Не збираюся<br>додавати сюди загибель хлопця, який просто шукав свою собаку."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0005",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0006",
+            "en": "You’ve already—Jacob. You’ve already helped me more than you know.",
+            "ru_native": "Ты уже... Джейкоб. Ты уже помог мне больше, чем представляешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти вже… Джейкобе, ти вже допоміг мені більш, ніж уявляєш."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0007",
+            "en": "You’re a good dude, and a good dog owner, and like—",
+            "ru_native": "Ты хороший парень, и хороший хозяин, и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти хороший хлопець, і хороший господар, і…"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0008",
+            "en": "This thing is a mess, a real genuine mess, and that’s meant for—ya know. People like me. Genuine messes.",
+            "ru_native": "Тут происходит настолько безумная дичь, что<br>заниматься ей должны... Такие люди, как я. Безумцы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут відбуваються настільки жахливі речі, що займатися ними мають…<br>Такі люди, як я. Божевільні."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0009",
+            "en": "Because I don’t want your help, okay?",
+            "ru_native": "Потому что ты мне не нужен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що мені не потрібна твоя допомога, ясно?"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0010",
+            "en": "Don’t want it and don’t need it. You’ve been an anchor around my neck for the whole entire—",
+            "ru_native": "Ни ты, ни твоя помощь. Все это время ты будто камнем на шее висел...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хочу й не потребую її. Увесь час ти ніби якір висів у мене на шиї…"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0011",
+            "en": "Jacob, you’re not coming, and that’s final.",
+            "ru_native": "Джейкоб, ты остаешься и точка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, ти не їдеш. Крапка."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0012",
+            "en": "I can make it so that you can’t go. Like… physically.",
+            "ru_native": "Я ведь могу сделать так, что ты останешься. Силой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ж можу зробити так, що ти залишишся. Силою."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0013",
+            "en": "We both know it. But I would very much rather not.",
+            "ru_native": "Мы оба это знаем. Но я бы предпочла без крови.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми обоє знаємо. Але я хотіла б без насилля."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0014",
+            "en": "Please, Jacob, just go take care of your dog, okay?",
+            "ru_native": "Прошу, Джейкоб, позаботься о собаке, ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прошу, Джейкобе, просто потурбуйся про свою собаку, добре?"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0015",
+            "en": "Don’t make me like… ya know… incapacitate you so you can’t go, okay?",
+            "ru_native": "Не заставляй меня... Ну... обездвиживать тебя, чтобы оставить тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не змушуй мене… ну… знерухомлювати тебе, щоби залишити тут."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0016",
+            "en": "We both know I could.",
+            "ru_native": "Мы оба знаем, что это я могу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми обоє знаємо, що я можу."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0017",
+            "en": "No! No, not—not at all, c’mon.",
+            "ru_native": "Нет! Нет, совсем нет. Перестань.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Ні, зовсім ні. Годі тобі."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0018",
+            "en": "We’re just at the end of our night, that’s all.",
+            "ru_native": "Просто ночь подходит к концу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто ніч добігає кінця, от і все."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0019",
+            "en": "Last call had to come sometime.",
+            "ru_native": "Рано или поздно пора прощаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рано чи пізно доведеться прощатися."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0020",
+            "en": "We’re fine, Jacob.",
+            "ru_native": "Джейкоб, все путем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З нами все гаразд, Джейкобе."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0021",
+            "en": "No, c’mon, man. We’re friends.",
+            "ru_native": "Нет, ты чего. Мы же друзья.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ти чого. Ми ж друзі."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0022",
+            "en": "Of course, I’d like that.",
+            "ru_native": "Конечно нет, спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно ні, дякую."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0023",
+            "en": "Hey, whatever you want. If I were you, I’d be on my way home, already.",
+            "ru_native": "Делай, что хочешь. На твоем месте я бы уже отправилась домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Роби, що хочеш. На твоєму місці я б уже відправилася додому."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0024",
+            "en": "Okay. Fine. If you really want to.",
+            "ru_native": "Ладно. Если очень хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, гаразд. Якщо ти справді хочеш."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0025",
+            "en": "Jacob… I really… [sigh] I think you should stay here.",
+            "ru_native": "Джейкоб… I really… [sigh] I think тебе стоит остаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе… Чесно… [зітхає] Гадаю, тобі варто залишитися тут."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0026",
+            "en": "My conscience is already well below sea level.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Моя совесть уже значительно ниже уровня моря.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моє сумління й так нижче рівня моря."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0027",
+            "en": "I’m not adding getting a guy killed who was just trying to do a job.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не добавлю, чтобы убили парня, который просто пытался выполнить свою работу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не збираюся додавати сюди загибель хлопця, який просто робив свою роботу."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0028",
+            "en": "I don’t want your help with this. I really don’t – I don’t need you, and…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне не нужна твоя помощь в этом деле. Я действительно не хочу - ты мне не нужен, и...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не хочу твоєї допомоги в цьому. Справді ні… ти мені не потрібен, і…"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0029",
+            "en": "This just doesn’t need to end with two body bags if that’s not absolutely necessary. Okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто не нужно заканчивать это двумя мешками для трупов, если в этом нет крайней необходимости. Хорошо?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто абсолютно не обов’язково, щоб у пакетах було два тіла. Добре?"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0030",
+            "en": "Jacob… I know you mean well and that you want to –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб... Я знаю, что ты хочешь как лучше и что ты хочешь -",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе… Я знаю, що ти намагаєшся й хочеш…"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0031",
+            "en": "– I know, but… it’s just too much. You really shouldn’t come.",
+            "ru_native": "",
+            "ru_machine": "DEEPL - Я знаю, но... это просто слишком. Тебе действительно не стоит приходить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…знаю, але… це занадто. Тобі справді не варто йти зі мною."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0032",
+            "en": "You found her. That’s… just take the win.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты нашел ее. Это... просто забери победу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знайшов її. Це… вважай за перемогу."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0033",
+            "en": "[sigh] You're not going to die, are you?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Ты же не собираешься умирать?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Ти ж не помреш, авжеж?"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0034",
+            "en": "Cause if you die, I'm not going to be a happy environmental researcher.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Потому что если ты умрешь, я не буду счастливым исследователем окружающей среды.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо якщо ти помреш, я не стану щасливою дослідницею довкілля."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0035",
+            "en": "Jacob… sorry. No.",
+            "ru_native": "Джейкоб… Нет, извини.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе… вибач. Ні."
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0036",
+            "en": "I can physically stop you from going. Do you – do we need to –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я могу физически помешать тебе уйти. Тебе - нам нужно...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу фізично завадити тобі. Тобі… нам це потрібно?"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0037",
+            "en": "[sigh] You're not going to die, are you?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Ты же не собираешься умирать?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Ти ж не помреш, авжеж?"
+        },
+        {
+            "tag": "A3S1.BACKBO_RILEY_0038",
+            "en": "Cause if you die, I'm not going to be a happy environmental researcher.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Потому что если ты умрешь, я не буду счастливым исследователем окружающей среды.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо якщо ти помреш, я не стану щасливою дослідницею довкілля."
+        }
+    ]
+}

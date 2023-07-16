@@ -1,0 +1,114 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.SEEJAC",
+    "entries": [
+        {
+            "tag": "GLOB.SEEJAC_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "GLOB.SEEJAC_CHOICE_0000_OPTION_0000",
+            "en": "Not yet.",
+            "ru_native": "Попозже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще ні."
+        },
+        {
+            "tag": "GLOB.SEEJAC_CHOICE_0000_OPTION_0001",
+            "en": "Oh, okay.",
+            "ru_native": "Давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А, гаразд."
+        },
+        {
+            "tag": "GLOB.SEEJAC_JACOB_0000",
+            "en": "Oh, uh, we are right here if you want to get that transmitter.",
+            "ru_native": "Кстати, тот передатчик совсем рядом, можем забрать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми поруч. Можемо забрати той радіопередавач."
+        },
+        {
+            "tag": "GLOB.SEEJAC_JACOB_0001",
+            "en": "I know you said you wanted to wait, but…",
+            "ru_native": "Знаю, ты хотела подождать, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, що ти хотіла почекати, але…"
+        },
+        {
+            "tag": "GLOB.SEEJAC_JACOB_0002",
+            "en": "Seems silly to walk right past it.",
+            "ru_native": "Глупо как-то мимо проходить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Буде нерозумно просто пройти повз."
+        },
+        {
+            "tag": "GLOB.SEEJAC_JACOB_0003",
+            "en": "Uh… okay? We—okay. I won’t argue.",
+            "ru_native": "Думаешь? Ладно, спорить не буду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд? У нас усе добре. Не заперечуватиму."
+        },
+        {
+            "tag": "GLOB.SEEJAC_JACOB_0004",
+            "en": "I’ll… take that as a no.",
+            "ru_native": "Видимо нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, це означає «ні»."
+        },
+        {
+            "tag": "GLOB.SEEJAC_JACOB_0005",
+            "en": "Suit yourself!",
+            "ru_native": "Как хочешь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як хочеш!"
+        },
+        {
+            "tag": "GLOB.SEEJAC_RILEY_0000",
+            "en": "Eh… I might change my mind in two seconds but I’m thinking I still just want to stay on the road.",
+            "ru_native": "Я могу через пару секунд передумать, но пока давай двигаться дальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може бути, за дві секунди я передумаю, але, здається, я хочу залишитися."
+        },
+        {
+            "tag": "GLOB.SEEJAC_RILEY_0001",
+            "en": "We can swing back later.",
+            "ru_native": "Позже заскочим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можемо зазирнути пізніше."
+        },
+        {
+            "tag": "GLOB.SEEJAC_RILEY_0002",
+            "en": "Uh, okay. I didn’t realize it was so close.",
+            "ru_native": "Давай. Я и не знала, что он так близко.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Я й не знала, що то було так близько."
+        }
+    ]
+}

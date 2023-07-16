@@ -1,0 +1,375 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT01.EV3CAL",
+    "entries": [
+        {
+            "tag": "WT01.EV3CAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV3CAL_CHOICE_0000_OPTION_0000",
+            "en": "What does that mean?",
+            "ru_native": "Что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це означає?"
+        },
+        {
+            "tag": "WT01.EV3CAL_CHOICE_0000_OPTION_0001",
+            "en": "So?",
+            "ru_native": "И что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що з того?"
+        },
+        {
+            "tag": "WT01.EV3CAL_CHOICE_0000_OPTION_0002",
+            "en": "I flunked Science class.",
+            "ru_native": "Я не сильна в физике.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я прогулювала фізику."
+        },
+        {
+            "tag": "WT01.EV3CAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT01.EV3CAL_CHOICE_0001_OPTION_0000",
+            "en": "Tell her about your sister.",
+            "ru_native": "Расскажи ей про сестру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розкажи їй про сестру."
+        },
+        {
+            "tag": "WT01.EV3CAL_CHOICE_0001_OPTION_0001",
+            "en": "Lie about your sister.",
+            "ru_native": "Соври ей про сестру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Збреши їй про сестру."
+        },
+        {
+            "tag": "WT01.EV3CAL_CHOICE_0001_OPTION_0002",
+            "en": "Bye, Evelyn!",
+            "ru_native": "Пока, Эвелин!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бувай, Евелін!"
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0000",
+            "en": "Good. It’s… it’s coming in. I see the readings now. Thanks.",
+            "ru_native": "Хорошо. Пошло... Вижу цифры. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре. Пішло… Бачу цифри. Дякую."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0001",
+            "en": "Okay, this is… oh wow. So… wave particles in water move perpendicularly to the wave’s direction of travel?",
+            "ru_native": "Ладно, это… ого. Итак... частицы волны в воде<br>движутся перпендикулярно направлению движения волны?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, це… ого. Отже… частки хвилі у воді рухаються перпендикулярно<br>до напрямку руху хвилі?"
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0002",
+            "en": "And air waves oscillate in the same direction. These frequencies are… moving in every direction.",
+            "ru_native": "И воздушные волны колеблются в том же направлении. Эти частоты...<br>движутся во всех направлениях.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І повітряні хвилі коливаються в тому ж напрямку.<br>Ці частоти… рухаються у всіх напрямках."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0003",
+            "en": "That’s… not normal.",
+            "ru_native": "Это... не нормально.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… не нормально."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0004",
+            "en": "Or… possible.",
+            "ru_native": "Или... возможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та… неможливо."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0005",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0006",
+            "en": "It means things aren’t right.",
+            "ru_native": "Это значит, что-то не так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це означає, що щось не так."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0007",
+            "en": "So… things just aren’t right.",
+            "ru_native": "И... что-то не так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І… щось не так."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0008",
+            "en": "I think… we’re cutting in and out, but… Riley… things aren’t right.",
+            "ru_native": "Думаю... сигнал пропадает, но... Райли... что-то не так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю… зв’язок пропадає, але… Райлі… щось не так."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0009",
+            "en": "And the rate of decay on these—it’s… this is unbelievable.",
+            "ru_native": "И скорость распада этих... это... невероятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І швидкість розпаду цих… це… неймовірно."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0010",
+            "en": "Oh! Crap, my mom is calling me. Crap.",
+            "ru_native": "Ой! Черт, мне мама звонит. Черт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой! Чорт, мені мама дзвонить. Дідько."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0011",
+            "en": "I haven’t heard from my sister yet, and she… she’s gonna ask if I talked to her.",
+            "ru_native": "Мне сестра до сих пор не звонила, а она... она сейчас об этом спросит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені сестра досі не дзвонила, а мама… вона зараз про це спитає."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0012",
+            "en": "I’m getting really worried but… my mom’s gonna flip.",
+            "ru_native": "Я и то нервничаю... а мама вообще с ума сойдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо я нервую із цього приводу, то мама взагалі збожеволіє."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0013",
+            "en": "Ugh.",
+            "ru_native": "Блин.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уф."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0014",
+            "en": "Crap, I don’t know what to do.",
+            "ru_native": "Черт, не знаю, что делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт, не знаю, що робити."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0015",
+            "en": "Yeah. I… I think you’re right. God. Okay, this call is going to suck.",
+            "ru_native": "Да. Пожалуй, ты права. Боже, это будет трудный разговор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Мабуть, твоя правда. Господи. Гаразд, це буде важка розмова."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0016",
+            "en": "Yeah, I should hop off and take this. Okay, bye Riley. Call whenever you need to!",
+            "ru_native": "Да, я тогда отключусь и отвечу на звонок. Пока, Райли.<br>Если что понадобится, дай знать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я відключусь і відповім на дзвінок. Добре, бувай, Райлі.<br>Якщо що знадобиться, дай знати!"
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0017",
+            "en": "Over and out!",
+            "ru_native": "Конец связи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0018",
+            "en": "Riley? Did we lose each other?",
+            "ru_native": "Райли? Связь пропала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Зв’язок обірвався?"
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0019",
+            "en": "God, okay. Over and out!",
+            "ru_native": "Боже, ладно. Конец связи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, гаразд. Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0020",
+            "en": "Sorry, Riley, I have to take this. I’m still here for you whenever you need to chat!",
+            "ru_native": "Прости, Райли, мне надо ответить. Если захочешь поболтать, я тут!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Райлі, мені треба відповісти. Якщо захочеш поговорити, я тут!"
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0021",
+            "en": "Over and out.",
+            "ru_native": "Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кінець зв’язку."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0022",
+            "en": "Riley? Hey – sorry, I’m the last one here. The rest decided to hike back to the hotel.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли? Привет - извини, я здесь последний. Остальные решили идти пешком обратно в отель.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Гей, перепрошую, лише я тут осталася.<br>Решта вирішили піти пішки назад до готелю."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0023",
+            "en": "One too many calls from weird voices I think finally pushed Jim out the door.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Слишком много звонков от странных голосов, как мне кажется, окончательно вытолкнули Джима за дверь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Занадто багато дзвінків від дивних голосів, я думаю, нарешті змусили Джима піти."
+        },
+        {
+            "tag": "WT01.EV3CAL_EVELYN_0024",
+            "en": "Alright — let me look at these readings.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо - позвольте мне взглянуть на эти показания.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… дайте переглянути ці показники."
+        },
+        {
+            "tag": "WT01.EV3CAL_RILEY_0000",
+            "en": "Uh, so what does that mean? Over.",
+            "ru_native": "Хм, и что это значит? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, і що це означає? Прийом."
+        },
+        {
+            "tag": "WT01.EV3CAL_RILEY_0001",
+            "en": "Uh, so? Over.",
+            "ru_native": "И что? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що з того? Прийом."
+        },
+        {
+            "tag": "WT01.EV3CAL_RILEY_0002",
+            "en": "Uh, I flunked science class, Evelyn, what does all of that mean?",
+            "ru_native": "Эм, я не сильна в физике, Эвелин, что это все значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем, я багато прогулювала фізику, Евелін, що це все означає?"
+        },
+        {
+            "tag": "WT01.EV3CAL_RILEY_0003",
+            "en": "The truth is worth it, Evelyn, if only because if something did happen…",
+            "ru_native": "Лучше сказать как есть, Эвелин. Потому что если правда что-то случилось...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще сказати як є, Евелін. Бо якщо правда щось трапилося…"
+        },
+        {
+            "tag": "WT01.EV3CAL_RILEY_0004",
+            "en": "It’s a lot better to have been upfront about it from the beginning. Over.",
+            "ru_native": "Лучше сразу все прямо сказать. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще відразу все прямо сказати. Прийом."
+        },
+        {
+            "tag": "WT01.EV3CAL_RILEY_0005",
+            "en": "Oh, just make up something.",
+            "ru_native": "Ну, придумай что-нибудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, вигадай що-небудь."
+        },
+        {
+            "tag": "WT01.EV3CAL_RILEY_0006",
+            "en": "No need to worry your Mom as much as you are when you don’t know if anything’s wrong, yet.",
+            "ru_native": "Не нужно заранее волновать маму, тем более, ты<br>пока не знаешь, случилось что-то или нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не треба завчасно нервувати маму, тим паче,<br>що ти ще не знаєш, чи щось трапилося."
+        },
+        {
+            "tag": "WT01.EV3CAL_RILEY_0007",
+            "en": "Okay, bye, Evelyn! I’ll let you go. Over.",
+            "ru_native": "Ладно, пока, Эвелин! Отпускаю тебя. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, бувай, Евелін! Йди. Прийом."
+        }
+    ]
+}

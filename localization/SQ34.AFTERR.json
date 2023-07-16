@@ -1,0 +1,24 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "SQ34.AFTERR",
+    "entries": [
+        {
+            "tag": "SQ34.AFTERR_JACOB_0000",
+            "en": "Hey, we’re famous! Or--ya know, adjacent. That’s cool!",
+            "ru_native": "Эй, мы знамениты! Ну, или около того. Круто!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ого, ми відомі! Чи… типу того. Круто!"
+        },
+        {
+            "tag": "SQ34.AFTERR_JACOB_0001",
+            "en": "If we pass by the general store, let’s check out the gallery.",
+            "ru_native": "Если пойдем мимо магазина, можем заглянуть в галерею.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо будемо проходити повз універмаг, треба буде подивитися."
+        }
+    ]
+}

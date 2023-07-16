@@ -1,0 +1,150 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT03.HANWIN",
+    "entries": [
+        {
+            "tag": "WT03.HANWIN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT03.HANWIN_CHOICE_0000_OPTION_0000",
+            "en": "When I have the time.",
+            "ru_native": "Когда будет время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Коли матиму час."
+        },
+        {
+            "tag": "WT03.HANWIN_CHOICE_0000_OPTION_0001",
+            "en": "Last favor, Hank.",
+            "ru_native": "Последний раз, Хэнк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це востаннє, Хенку."
+        },
+        {
+            "tag": "WT03.HANWIN_HANK_0000",
+            "en": "That sounds—that sounds like it could work.",
+            "ru_native": "Звучит интересно. Может сработать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може і так. Може це спрацює."
+        },
+        {
+            "tag": "WT03.HANWIN_HANK_0001",
+            "en": "Could you drop it off at one of my portable lockboxes at your earliest convenience?",
+            "ru_native": "Можешь положить ее в один из моих переносных ящичков, когда тебе будет удобно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можеш покласти його в одну з моїх спеціальних<br>скриньок, коли тобі буде зручно?"
+        },
+        {
+            "tag": "WT03.HANWIN_HANK_0002",
+            "en": "The closest to you would be… the Garland Post Office. It’s upstairs, on your left.",
+            "ru_native": "Ближайший должен быть... в почтовом отделении Гарленда. Вверх по лестнице и налево.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Найближчою до тебе має бути та… що в поштовому відділенні Гарленда.<br>Вгору сходами й ліворуч."
+        },
+        {
+            "tag": "WT03.HANWIN_HANK_0003",
+            "en": "Just place it inside…",
+            "ru_native": "Просто положи ее внутрь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто поклади його в скриньку…"
+        },
+        {
+            "tag": "WT03.HANWIN_HANK_0004",
+            "en": "…close the door…",
+            "ru_native": "...закрой дверь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…закрий дверцята…"
+        },
+        {
+            "tag": "WT03.HANWIN_HANK_0005",
+            "en": "…and give me a call.",
+            "ru_native": "...и позвони мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…і зв’яжися зі мною."
+        },
+        {
+            "tag": "WT03.HANWIN_HANK_0006",
+            "en": "Please. Before the night is over. You never know what could happen between now and then.",
+            "ru_native": "Пожалуйста. До утра. А то мало ли что может случиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Будь ласка. Зроби це до ранку. А то хтозна, що може статися."
+        },
+        {
+            "tag": "WT03.HANWIN_HANK_0007",
+            "en": "Thanking you in advance… Over and out.",
+            "ru_native": "Заранее спасибо... Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую заздалегідь… Кінець зв’язку."
+        },
+        {
+            "tag": "WT03.HANWIN_HANK_0008",
+            "en": "Understood.",
+            "ru_native": "Понятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зрозуміло."
+        },
+        {
+            "tag": "WT03.HANWIN_RILEY_0000",
+            "en": "A… shoe that belonged to a little boy that died years ago. It glitched into a cave.",
+            "ru_native": "Это... ботинок маленького мальчика, который умер много лет назад. Она упала в пещеру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… черевик маленького хлопчика, який помер<br>багато років тому. Він зник у печері."
+        },
+        {
+            "tag": "WT03.HANWIN_RILEY_0001",
+            "en": "Maybe you can… analyze it or something? Over.",
+            "ru_native": "Может, ты сделаешь... анализ или типа того? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може ти зробиш… якийсь аналіз чи щось того типу? Прийом."
+        },
+        {
+            "tag": "WT03.HANWIN_RILEY_0002",
+            "en": "Ugh, s-sure. When I have the time. Over.",
+            "ru_native": "Да, конечно. Когда будет время. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, звичайно. Коли матиму час. Прийом."
+        },
+        {
+            "tag": "WT03.HANWIN_RILEY_0003",
+            "en": "This is the last favor, Hank. Okay? Over.",
+            "ru_native": "Это последнее одолжение, Хэнк. Идет? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це остання послуга, Хенку. Добре? Прийом."
+        }
+    ]
+}

@@ -1,0 +1,564 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ31.BBCAL3",
+    "entries": [
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0000_OPTION_0000",
+            "en": "Calm down, Sadiya.",
+            "ru_native": "Успокойтесь, Садия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заспокойтеся, Садіє."
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0000_OPTION_0001",
+            "en": "I thought you would call.",
+            "ru_native": "Я знала, что вы позвоните.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знала, що ви наберете."
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0001_OPTION_0000",
+            "en": "Riley and Jacob.",
+            "ru_native": "Райли и Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі та Джейкоб."
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0001_OPTION_0001",
+            "en": "Friends.",
+            "ru_native": "Друзья.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Друзі."
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0001_OPTION_0002",
+            "en": "We already solved your problem.",
+            "ru_native": "Мы уже решили вашу проблему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми вже вирішили вашу проблему."
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0002_OPTION_0000",
+            "en": "Just use your brain.",
+            "ru_native": "Просто подумайте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто зосередьтеся."
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0002_OPTION_0001",
+            "en": "Seriously, relax.",
+            "ru_native": "Серьезно, расслабьтесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Серйозно, розслабтеся."
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0003_OPTION_0000",
+            "en": "We’re way out of sync.",
+            "ru_native": "Мы в сильно рассинхроне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми сильно в розсинхроні."
+        },
+        {
+            "tag": "SQ31.BBCAL3_CHOICE_0003_OPTION_0001",
+            "en": "Tobias is older than us.",
+            "ru_native": "Тобиас старше нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобіас старший за нас."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0000",
+            "en": "You’re a babysitter and you lost the kid you were uh—sitting.",
+            "ru_native": "Вы няня, и вы потеряли своего... воспитанника.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви няня, і ви загубили… дитину."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0001",
+            "en": "Nice, you planted the seed. She knew our names earlier.",
+            "ru_native": "Отлично, ты посеяла семя. Она знала наши имена раньше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово, ти посадила зерно. Вона знала наші імена до цього."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0002",
+            "en": "Am I enjoying this too much?",
+            "ru_native": "Я слишком радуюсь, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я занадто радію, так?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0003",
+            "en": "She’s right, and our names are Jacob and Riley.",
+            "ru_native": "Она права, нас зовут Джейкоб и Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона має рацію. Нас звуть Джейкоб та Райлі."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0004",
+            "en": "[to Riley] She knew our names earlier, I’m just—ya know—planting that seed.",
+            "ru_native": "Она знала наши имена раньше, я просто... сажаю это семя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона знала наші імена до цього, я просто… саджаю зерно."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0005",
+            "en": "And our names are Jacob and Riley.",
+            "ru_native": "И нас зовут Джейкоб и Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І нас звуть Джейкоб та Райлі."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0006",
+            "en": "Look, everything is gonna be fine, okay? And for the record, our names are Jacob and Riley.",
+            "ru_native": "Послушайте, все будет хорошо. И для протокола, нас зовут Джейкоб и Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, усе буде добре. І для протоколу, нас звуть Джейкоб та Райлі."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0007",
+            "en": "W-W-We don’t think you’re crazy. Just, take a breath, then use your brain.",
+            "ru_native": "Мы не считаем вас сумасшедшей. Просто подышите и потом подумайте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не вважаємо вас божевільною. Просто подихайте й подумайте."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0008",
+            "en": "You can—solve this, Sadiya, I promise.",
+            "ru_native": "Мы все решим, Салия, обещаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… усе вирішимо, Садіє, обіцяю."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0009",
+            "en": "Lake Placid Olympics? Wasn’t that like the—80s? Or 70s?",
+            "ru_native": "Олимпиада в Лейк-Плэсиде? Это какие годы? 70-е? Или 80-е?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олімпіада в Лейк-Плесід? Це хіба не… 80-ті роки? Чи 70-ті?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0010",
+            "en": "No, it was the 80s.",
+            "ru_native": "Нет, это было в 80-х.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, то було у 80-тих."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0011",
+            "en": "Uh—the 1980s. I mean.",
+            "ru_native": "В смысле, в 1980-х.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, в 1980-тих."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0012",
+            "en": "Apparently… quite.",
+            "ru_native": "Довольно... сильно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Доволі… сильно."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0013",
+            "en": "I think so? Or—close to it.",
+            "ru_native": "Наверное? Или почти как мы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть? Або наш одноліток."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0014",
+            "en": "I think it was like 1980 proper.",
+            "ru_native": "По-моему, это было примерно в 1980-м.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, це було в 1980-му."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0015",
+            "en": "Either way, I’m at least 51% positive we have solved this problem and did a good deed.",
+            "ru_native": "В любом случае, я уверен минимум на 51%, что мы<br>решили эту проблему и сделали доброе дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, я впевнений мінімум на 51%, що ми вирішили цю проблему й допомогли."
+        },
+        {
+            "tag": "SQ31.BBCAL3_JACOB_0016",
+            "en": "And for the love of our fragile, eggshell sanity, I’m leaving it at that.",
+            "ru_native": "И ради нашего хрупкого, как яичная скорлупа, разума, я оставлю все как есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І заради нашого крихкого, як яєчна шкаралупа, здорового глузду, я залишу все як є."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0000",
+            "en": "Hey, Sadiya, it’s okay, everything is gonna be okay.",
+            "ru_native": "Эй, Садия, все в порядке, все будет хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, Садіє, усе гаразд, усе буде добре."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0001",
+            "en": "I knew you would call. I should’ve placed a bet.",
+            "ru_native": "Я знала, что вы позвоните. Могла даже на деньги поспорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знала, що ви наберете. Треба було гроші на це ставити."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0002",
+            "en": "My name is Riley and I got Jacob here with me.",
+            "ru_native": "Меня зовут Райли, а рядом со мной Джейкоб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене звуть Райлі, а поруч зі мною Джейкоб."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0003",
+            "en": "We’re friends, don’t worry. Your friends, you just uh—don’t know it.",
+            "ru_native": "Не волнуйтесь, мы друзья. Ваши друзья, вы просто еще не в курсе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйтеся, ми друзі. Ваші друзі, ви… просто ще не знаєте."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0004",
+            "en": "Yeah, look, we already took care of this for you. Tobias is fine.",
+            "ru_native": "Да, послушайте, мы уже обо всем позаботились. Тобиас в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, послухайте, ми вже все зробили. З Тобіасом усе гаразд."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0005",
+            "en": "Hey, it’s okay, just—ya know—think.",
+            "ru_native": "Эй, все в порядке, просто подумайте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, усе гаразд, просто подумайте."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0006",
+            "en": "Where did you lose him, where might he have gone, all that.",
+            "ru_native": "Где вы его потеряли, куда он мог пойти, и так далее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де ви його загубили, куди він міг піти й так далі."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0007",
+            "en": "Optimism and critical thinking, ya hear me?",
+            "ru_native": "Оптимизм и критическое мышление, слышите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Оптимізм і критичне мислення, чуєте?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0008",
+            "en": "Hey, Sadiya, for real, chill.",
+            "ru_native": "Эй, Садия, правда, расслабьтесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов, Садіє, заспокойтеся."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0009",
+            "en": "Take a deep breath or—a dozen, and then think it through.",
+            "ru_native": "Сделайте глубокий вдох – или несколько – и все обдумайте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Глибоко вдихніть… можете навіть разів десять… і все обдумайте."
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0010",
+            "en": "Geez, how out-of-sync are we? Or—were we?",
+            "ru_native": "Блин, насколько мы в рассинхроне? Или были?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, це ж наскільки ми в розсинхроні? Чи були?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_RILEY_0011",
+            "en": "Does that mean Tobias is older than us?",
+            "ru_native": "Значит, Тобиас старше нас?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виходить, Тобіас старший за нас?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0000",
+            "en": "[WT] Uh—how do you know my name?",
+            "ru_native": "Откуда вы знаете мое имя?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки ви знаєте моє ім’я?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0001",
+            "en": "[WT] Actually, wow, yeah, nowhere near as important…",
+            "ru_native": "Хотя это вообще не так важно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча це взагалі не важливо зараз…"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0002",
+            "en": "[WT] What? What are you—",
+            "ru_native": "Что? Что вы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Що ви таке…"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0003",
+            "en": "[WT] Look, my name is Sadiya Sinclaire and I—",
+            "ru_native": "Послушайте, меня зовут Садия Синклер, и я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте, мене звуть Садія Сінклер, і я…"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0004",
+            "en": "[WT] Ah—geez, this is really not easy to say.",
+            "ru_native": "О господи, это не так-то просто сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, це не так просто сказати."
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0005",
+            "en": "[WT] …who am I talking to?",
+            "ru_native": "...с кем я говорю?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З ким я розмовляю?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0006",
+            "en": "[WT] Because…",
+            "ru_native": "Потому что…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що…"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0007",
+            "en": "[WT] Yeah, who is this?",
+            "ru_native": "Да, кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, хто це?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0008",
+            "en": "[WT] Earlier? What?",
+            "ru_native": "Раньше? Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До цього? Що?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0009",
+            "en": "[WT] What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0010",
+            "en": "[WT] Okay, well, clearly you two are weirdos but if I go to the cops I am beyond fired.",
+            "ru_native": "Ну ладно, вы двое явно чудики, но если я пойду в полицию, не видать мне работы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ви якісь дивні, але якщо я звернуся в поліцію, то мене звільнять."
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0011",
+            "en": "[WT] And maybe it’s good you’re weirdos because…",
+            "ru_native": "Может, и хорошо, что вы чудные, потому что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, це добре, що ви дивні, бо…"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0012",
+            "en": "[WT] Tobias, he just—he disappeared! I—I’ll have to explain it later.",
+            "ru_native": "Тобиас, он просто... исчез! Потом объясню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобіас, він просто… зник! Потім поясню."
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0013",
+            "en": "[WT] I’m going to sound completely crazy, but…",
+            "ru_native": "Это прозвучит как полное безумие, но…",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це звучить дуже божевільно, але…"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0014",
+            "en": "[WT] I’m sure I sound equally crazy right now.",
+            "ru_native": "Уверена, я сейчас кажусь не менее безумной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я впевнена, що зараз здаюся ще божевільнішою."
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0015",
+            "en": "[WT] Yeah, you’re right. Don’t assume the worst, Sadiya, just—think it through.",
+            "ru_native": "Да, вы правы. Не думай о плохом, Садия, просто... думай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ви маєте рацію. Не думай про погане, Садіє, просто… думай."
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0016",
+            "en": "[WT] [taking a stabilizing breath] We were at the pier and—yeah—I’ll, I'll keep thinking.",
+            "ru_native": "Мы были на пирсе... Да, я думаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми були на пірсі… Так, я згадую."
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0017",
+            "en": "[WT] Man, and I just wanted to watch the US in hockey tonight. At Lake Placid, of all places, my home town!",
+            "ru_native": "Боже, я же хотела сегодня вечером посмотреть хоккей.<br>В Лейк-Плэсиде, в моем родном городе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, я ж хотіла сьогодні подивитися хокей. У Лейк-Плесіді, моєму рідному місті!"
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0018",
+            "en": "[WT] I’ll call back. I can’t promise I won’t be a nervous wreck, so, here be dragons or—yeah.",
+            "ru_native": "Я перезвоню. Имейте в виду, не могу обещать, что не буду нервничать... да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я наберу пізніше. Запам’ятайте, не можу обіцяти, що я не буду нервувати… так."
+        },
+        {
+            "tag": "SQ31.BBCAL3_SADIYA_0019",
+            "en": "[WT] Thanks again, weirdos.",
+            "ru_native": "Еще раз спасибо, чудики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще раз дякую, диваки."
+        }
+    ]
+}

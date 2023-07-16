@@ -1,0 +1,528 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2W2.ENTRAS",
+    "entries": [
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0000_OPTION_0000",
+            "en": "My fault.",
+            "ru_native": "Это моя вина.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це моя провина."
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0000_OPTION_0001",
+            "en": "We don’t know that.",
+            "ru_native": "Мы этого не знаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми цього не знаємо."
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0001_OPTION_0000",
+            "en": "Look for a key.",
+            "ru_native": "Ищи ключ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукай ключ."
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0001_OPTION_0001",
+            "en": "Check the phone.",
+            "ru_native": "Поищи телефон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пошукай телефон."
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0001_OPTION_0002",
+            "en": "Anything useful around?",
+            "ru_native": "Есть что полезное?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайшов щось корисне?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0002_OPTION_0000",
+            "en": "Let’s go.",
+            "ru_native": "Пойдем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ходімо."
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0002_OPTION_0001",
+            "en": "Check the phone.",
+            "ru_native": "Поищи телефон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пошукай телефон."
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0002_OPTION_0002",
+            "en": "Anything useful around?",
+            "ru_native": "Есть что полезное?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знайшов щось корисне?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0003_OPTION_0000",
+            "en": "I’m looking!",
+            "ru_native": "Ищу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шукаю!"
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0003_OPTION_0001",
+            "en": "Don’t distract me!",
+            "ru_native": "Не отвлекай меня!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не відволікай мене!"
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0004_OPTION_0000",
+            "en": "Kind of creepy.",
+            "ru_native": "Как-то жутковато.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи страшно."
+        },
+        {
+            "tag": "A2W2.ENTRAS_CHOICE_0004_OPTION_0001",
+            "en": "Anybody still here?",
+            "ru_native": "Кто-то еще остался?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут хтось ще є?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0000",
+            "en": "Ranger? Are you… [quieter] in the bathroom… No? [to Riley] Crap.",
+            "ru_native": "Рейнджер? Вы… в туалете… Нет? Черт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наглядачко? Ви… у туалеті? Ні? От дідько."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0001",
+            "en": "We probably just missed her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Скорее всего, мы просто разминулись с ней.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0002",
+            "en": "Ah, maybe if we had come here instead of Garland…",
+            "ru_native": "Может, если бы мы пошли сюда, а не в Гарленд...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, якби ми пішли сюди, а не в Гарленд…"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0003",
+            "en": "Ah, maybe if we had come here instead of Charity Point…",
+            "ru_native": "Может, если бы мы пошли сюда, а не в Черити Поинт...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, якби ми пішли сюди, а не в Черіті-Пойнт…"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0004",
+            "en": "…you know?",
+            "ru_native": "...понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…розумієш?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0005",
+            "en": "No, I mean… it’s alright. We couldn’t have known she was going to leave.",
+            "ru_native": "Да нет... ничего. Откуда мы могли знать, что она уйдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні… нічого страшного. Звідки ми могли знати, що вона піде?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0006",
+            "en": "Is it just me or does… everything seem sort of moved around.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне кажется, или... все как бы сдвинулось с места.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0007",
+            "en": "There’s broken glass over here.",
+            "ru_native": "Тут везде битое стекло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут усюди бите скло."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0008",
+            "en": "That guy—God, he totally wrecked the place looking for comm equipment.",
+            "ru_native": "Боже, он тут все перевернул, пока искал средства связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, він тут усе догори дриґом перевернув, доки шукав засоби зв’язку."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0009",
+            "en": "That kid Charlie must have been here hours ago.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Этот парень Чарли, должно быть, был здесь несколько часов назад.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0010",
+            "en": "Little thief must have taken the Ranger’s walkie.",
+            "ru_native": "Воришка наверняка забрал рацию рейнджера.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, крадій забрав рацію наглядачки."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0011",
+            "en": "Spectacular.",
+            "ru_native": "Волшебно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Неймовірно."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0012",
+            "en": "He—God, why’d he trash everything else?",
+            "ru_native": "Господи, зачем все остальное было ломать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він… боже, навіщо було нищити решту?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0013",
+            "en": "Ugh.",
+            "ru_native": "Уф.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ух."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0014",
+            "en": "Roger.",
+            "ru_native": "Принято.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0015",
+            "en": "Uh, yeah, there should be one… under… something...",
+            "ru_native": "Да, должен быть где-то... здесь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, має бути десь… тут…"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0016",
+            "en": "Alright, positive attitude, positive attitude, let’s will something good into existence here.",
+            "ru_native": "Так, будем мыслить позитивно, пусть тут окажется что-нибудь полезное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, будемо мислити позитивно. Нехай тут буде щось корисне."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0017",
+            "en": "Well wait, maybe there’s… something else—equipment or something. A phone number—anything.",
+            "ru_native": "Погоди, может, тут еще что-то есть. Оборудование или номер телефона – что угодно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривай, може, тут… ще щось є. Обладнання чи номер телефону — будь що."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0018",
+            "en": "Uh, yeah anyway… look around—there has to be a spare key to the gate, here.",
+            "ru_native": "Хм, в общем... посмотри по сторонам – где-то тут должен быть запасной ключ.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, словом… озирнися тут… Десь має бути запасний ключ від воріт."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0019",
+            "en": "Uh, but… anyways, maybe there’s something else here we can use. Let’s check around.",
+            "ru_native": "В любом случае, может, тут еще что-то полезное есть. Давай проверим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У будь-якому випадку, може, тут є ще щось корисне. Давай перевіримо."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0020",
+            "en": "Ahh, get the phone, get the phone—do you see it? Do you see it?!",
+            "ru_native": "А-а, возьми трубку, возьми трубку – ты его видишь, видишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох, візьми слухавку, візьми слухавку… Ти його бачиш, бачиш?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0021",
+            "en": "Where is it?",
+            "ru_native": "Где он?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де він?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0022",
+            "en": "Is it—I’m hearing it, so—",
+            "ru_native": "Он... Я слышу гудки...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він… Я чую гудки…"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0023",
+            "en": "Jesus, what happened here?",
+            "ru_native": "Боже, что тут произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, що тут сталося?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0024",
+            "en": "Looks like those kids ransacked the place.",
+            "ru_native": "Похоже, те дети что-то искали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, ті дітлахи розграбували це місце."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0025",
+            "en": "Looks like… like Parentage ransacked the place.",
+            "ru_native": "Похоже, «Наследие» тут что-то искали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається… Парентаж розграбував це місце."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0026",
+            "en": "Or ha-had a… seance?",
+            "ru_native": "Или... духов вызывали?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи тут був… сеанс?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0027",
+            "en": "God, I have no idea.",
+            "ru_native": "Боже, без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, я й гадки не маю."
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0028",
+            "en": "What could these symbols mean?",
+            "ru_native": "Что могут означать эти символы?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ці символи означають?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_JACOB_0029",
+            "en": "They must have been here hours ago.",
+            "ru_native": "Они несколько часов тут были.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, вони були тут кілька годин тому."
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0000",
+            "en": "Yeah, sorry, that’s my fault.",
+            "ru_native": "Да, прости, это я виновата.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, вибач, це я винна."
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0001",
+            "en": "No, we don’t know when they left. This—we could’ve been too late no matter what.",
+            "ru_native": "Нет, мы же не знаем, во сколько они уходят. Мы все равно могли опоздать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ми ж не знаємо, коли вони йдуть. Ми все одно могли запізнитися."
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0002",
+            "en": "Let’s just look for a gate key to get back on the road.",
+            "ru_native": "Давай поищем ключ от ворот, чтобы вернуться на дорогу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пошукаймо ключ від воріт, щоби повернутися на дорогу."
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0003",
+            "en": "Is there a phone? There has to be. We might be able to call out.",
+            "ru_native": "Тут есть телефон? Должен быть. Можем позвонить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут є телефон? Має бути. Можемо зателефонувати."
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0004",
+            "en": "Well… we’re here. There has to be something useful we can… borrow.",
+            "ru_native": "Так... мы на месте. Здесь точно должно быть что-нибудь полезное для нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так… ми на місці. Тут точно має бути щось, що ми можемо… позичити."
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0005",
+            "en": "Let’s just go, then. We have to get to the beach and then Glimmer, so.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тогда давай просто пойдем. Нам нужно добраться до пляжа, а потом до Глиммера, так что.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0006",
+            "en": "I’m looking, I’m looking!",
+            "ru_native": "Да ищу я, ищу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я шукаю, шукаю!"
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0007",
+            "en": "Don’t distract me, just try and find it!",
+            "ru_native": "Не отвлекай меня, просто ищи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не відволікай мене, просто шукай!"
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0008",
+            "en": "It’s kind of… unsettling. Seeing the little ceremonies of people devoted to things inscrutable.",
+            "ru_native": "Как-то это... тревожно. Смотреть на следы обрядов, посвященных непонятно чему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені якось… ніяково. Бачити маленькі церемонії людей,<br>які віддані незрозумілим речам."
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0009",
+            "en": "Anybody around? Hello?",
+            "ru_native": "Здесь кто-нибудь есть? Ау?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є тут хтось? Агов?"
+        },
+        {
+            "tag": "A2W2.ENTRAS_RILEY_0010",
+            "en": "Let’s just go, then.",
+            "ru_native": "Тогда идем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді ходімо."
+        }
+    ]
+}

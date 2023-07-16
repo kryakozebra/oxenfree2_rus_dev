@@ -1,0 +1,348 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SYS.SYSTEM",
+    "entries": [
+        {
+            "tag": "SYS.SYSTEM_0000",
+            "en": "Retry",
+            "ru_native": "",
+            "ru_machine": "DEEPL Retry",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Повторити"
+        },
+        {
+            "tag": "SYS.SYSTEM_0001",
+            "en": "Continue",
+            "ru_native": "",
+            "ru_machine": "DEEPL Продолжить",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Продовжити"
+        },
+        {
+            "tag": "SYS.SYSTEM_0002",
+            "en": "OK",
+            "ru_native": "",
+            "ru_machine": "DEEPL OK",
+            "ru_final": "",
+            "verified": false,
+            "uk": "ОК"
+        },
+        {
+            "tag": "SYS.SYSTEM_0003",
+            "en": "Cancel",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отмена",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скасувати"
+        },
+        {
+            "tag": "SYS.SYSTEM_0004",
+            "en": "Delete",
+            "ru_native": "",
+            "ru_machine": "DEEPL Удалить",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Видалити"
+        },
+        {
+            "tag": "SYS.SYSTEM_0005",
+            "en": "Yes",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так"
+        },
+        {
+            "tag": "SYS.SYSTEM_0006",
+            "en": "No",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні"
+        },
+        {
+            "tag": "SYS.SYSTEM_0007",
+            "en": "Quit",
+            "ru_native": "",
+            "ru_machine": "DEEPL Брось",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вийти"
+        },
+        {
+            "tag": "SYS.SYSTEM_0008",
+            "en": "User Changed",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пользователь изменился",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Користувача змінено"
+        },
+        {
+            "tag": "SYS.SYSTEM_0009",
+            "en": "The user profile was changed. Please quit the game, or log back in with the same profile.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Профиль пользователя был изменен. Пожалуйста, выйди из игры или войди снова с тем же профилем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Профіль користувача змінено. Вийдіть із гри або увійдіть знову, використовуючи той самий профіль."
+        },
+        {
+            "tag": "SYS.SYSTEM_0010",
+            "en": "Controller Disconnected",
+            "ru_native": "",
+            "ru_machine": "DEEPL Контроллер отключен",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Контролер від’єднано"
+        },
+        {
+            "tag": "SYS.SYSTEM_0011",
+            "en": "The controller was disconnected. Please reconnect your controller to continue.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Контроллер был отключён. Пожалуйста, переподключи свой контроллер, чтобы продолжить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Контролер від’єднано. Щоб продовжити, під’єднайте контролер."
+        },
+        {
+            "tag": "SYS.SYSTEM_0012",
+            "en": "Insufficient Space",
+            "ru_native": "",
+            "ru_machine": "DEEPL Недостаточное пространство",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Недостатньо місця"
+        },
+        {
+            "tag": "SYS.SYSTEM_0013",
+            "en": "There is not enough space on disk to save the game. Please free up at least 10MB of space and retry.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На диске недостаточно места для сохранения игры. Освободи, пожалуйста, не менее 10 Мб места и повтори попытку.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На диску недостатньо місця для збереження гри. Звільніть принаймні 10 МБ та повторіть спробу."
+        },
+        {
+            "tag": "SYS.SYSTEM_0014",
+            "en": "There was an unknown save error.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Произошла неизвестная ошибка сохранения.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сталася невідома помилка збереження."
+        },
+        {
+            "tag": "SYS.SYSTEM_0015",
+            "en": "Corrupt Data",
+            "ru_native": "",
+            "ru_machine": "DEEPL Поврежденные данные",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пошкоджені дані"
+        },
+        {
+            "tag": "SYS.SYSTEM_0016",
+            "en": "The save data is corrupt.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Данные сохранения повреждены.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Збережені дані пошкоджено."
+        },
+        {
+            "tag": "SYS.SYSTEM_0017",
+            "en": "No Data Found",
+            "ru_native": "",
+            "ru_machine": "DEEPL Данные не найдены",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Даних не знайдено"
+        },
+        {
+            "tag": "SYS.SYSTEM_0018",
+            "en": "The data could not be found.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Данные не удалось найти.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дані не вдалося знайти."
+        },
+        {
+            "tag": "SYS.SYSTEM_0019",
+            "en": "Load Error",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ошибка нагрузки",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Помилка завантаження"
+        },
+        {
+            "tag": "SYS.SYSTEM_0020",
+            "en": "There was an unknown load error.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Произошла неизвестная ошибка загрузки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сталася невідома помилка завантаження."
+        },
+        {
+            "tag": "SYS.SYSTEM_0021",
+            "en": "The data could not be found to be deleted.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не удалось найти данные для удаления.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дані для видалення не вдалося знайти."
+        },
+        {
+            "tag": "SYS.SYSTEM_0022",
+            "en": "Delete Error",
+            "ru_native": "",
+            "ru_machine": "DEEPL Удаление ошибки",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Помилка видалення"
+        },
+        {
+            "tag": "SYS.SYSTEM_0023",
+            "en": "There was an unknown error trying to delete data.",
+            "ru_native": "",
+            "ru_machine": "DEEPL При попытке удалить данные возникла неизвестная ошибка.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Під час спроби видалити дані сталася невідома помилка."
+        },
+        {
+            "tag": "SYS.SYSTEM_0024",
+            "en": "The DUALSHOCK®4 wireless controller has been disconnected. Please reconnect to continue.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Беспроводной контроллер DUALSHOCK®4 был отключён. Пожалуйста, переподключись, чтобы продолжить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Контролер було від’єднано. Щоб продовжити, під’єднайте його знову."
+        },
+        {
+            "tag": "SYS.SYSTEM_0025",
+            "en": "The DualSense™ wireless controller has been disconnected. Please reconnect to continue.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Беспроводной контроллер DualSense™ был отключён. Пожалуйста, переподключись, чтобы продолжить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Контролер DualSense™ було від’єднано. Щоб продовжити, під’єднайте його знову."
+        },
+        {
+            "tag": "SYS.SYSTEM_0026",
+            "en": "There is not enough space on your PlayStation™4 to save the game. Please free up at least 38MB of space and try again.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На твоей PlayStation™4 недостаточно места для сохранения игры. Освободи, пожалуйста, не менее 38 Мб места и попробуй ещё раз.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На вашій PlayStation™4 недостатньо місця для збереження гри. Звільніть принаймні 38 МБ та повторіть спробу."
+        },
+        {
+            "tag": "SYS.SYSTEM_0027",
+            "en": "There is not enough space on your PlayStation™5 to save the game. Please free up at least 38MB of space and try again.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На твоей PlayStation™5 недостаточно места для сохранения игры. Освободи, пожалуйста, не менее 38 Мб места и попробуй ещё раз.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На вашій PlayStation™5 недостатньо місця для збереження гри. Звільніть принаймні 38 МБ та повторіть спробу."
+        },
+        {
+            "tag": "SYS.SYSTEM_0028",
+            "en": "Wireless controller disconnected",
+            "ru_native": "",
+            "ru_machine": "DEEPL Беспроводной контроллер отключен",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Контролер від’єднано"
+        },
+        {
+            "tag": "SYS.SYSTEM_0029",
+            "en": "Save Conflict",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сохранить конфликт",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Конфлікт збереження"
+        },
+        {
+            "tag": "SYS.SYSTEM_0030",
+            "en": "Your save data on Netflix Cloud and on your device are different. Please choose one to keep. The other will be permanently discarded.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Данные о твоих сохранениях на Netflix Cloud и на твоём устройстве отличаются. Пожалуйста, выбери одну из них, чтобы сохранить. Другая будет безвозвратно отброшена.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Збережені дані в Netflix Cloud відрізняються від даних на вашому пристрої. Будь ласка, виберіть, які дані потрібно зберегти. Інші дані будуть видалені назавжди."
+        },
+        {
+            "tag": "SYS.SYSTEM_0031",
+            "en": "Netflix Cloud",
+            "ru_native": "",
+            "ru_machine": "DEEPL Облако Netflix",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Netflix Cloud"
+        },
+        {
+            "tag": "SYS.SYSTEM_0032",
+            "en": "Local",
+            "ru_native": "",
+            "ru_machine": "DEEPL Местный",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Локальні"
+        },
+        {
+            "tag": "SYS.SYSTEM_0033",
+            "en": "Settings Data",
+            "ru_native": "Settings Data",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дані налаштувань"
+        },
+        {
+            "tag": "SYS.SYSTEM_0034",
+            "en": "Save Data",
+            "ru_native": "Save Data",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дані збережень"
+        },
+        {
+            "tag": "SYS.SYSTEM_0035",
+            "en": "Save Slot 1",
+            "ru_native": "Save Slot 1",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "1 слот для збережень"
+        },
+        {
+            "tag": "SYS.SYSTEM_0036",
+            "en": "Save Slot 2",
+            "ru_native": "Save Slot 2",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "2 слот для збережень"
+        },
+        {
+            "tag": "SYS.SYSTEM_0037",
+            "en": "Save Slot 3",
+            "ru_native": "Save Slot 3",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "3 слот для збережень"
+        }
+    ]
+}

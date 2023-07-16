@@ -1,0 +1,123 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V3.ANOSHI",
+    "entries": [
+        {
+            "tag": "A2V3.ANOSHI_CHARLIE_0000",
+            "en": "Ugh, not again.",
+            "ru_native": "Нет, опять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи, тільки не знову."
+        },
+        {
+            "tag": "A2V3.ANOSHI_CHARLIE_0001",
+            "en": "I see the radio! It’s over—crap, it’s—",
+            "ru_native": "Вижу радио! Все кончено... вот дерьмо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачу радіо! Це кінець… от лайно…"
+        },
+        {
+            "tag": "A2V3.ANOSHI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V3.ANOSHI_CHOICE_0000_OPTION_0000",
+            "en": "Going for it!",
+            "ru_native": "Лечу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лечу!"
+        },
+        {
+            "tag": "A2V3.ANOSHI_CHOICE_0000_OPTION_0001",
+            "en": "Hold on!",
+            "ru_native": "Стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій!"
+        },
+        {
+            "tag": "A2V3.ANOSHI_JACOB_0000",
+            "en": "Ow!",
+            "ru_native": "Ох!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ай!"
+        },
+        {
+            "tag": "A2V3.ANOSHI_JACOB_0001",
+            "en": "Okay, this sucks. Can we stop this, please?",
+            "ru_native": "Так, дело труба. Может, прекратим все это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, це фігня якась. Може, припинимо все це?"
+        },
+        {
+            "tag": "A2V3.ANOSHI_JACOB_0002",
+            "en": "Riley!",
+            "ru_native": "Райли!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі!"
+        },
+        {
+            "tag": "A2V3.ANOSHI_OLIVIA_0000",
+            "en": "Wh—what? My… cousin’s farm?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что? Ферма моего... двоюродного брата?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.ANOSHI_RILEY_0000",
+            "en": "Ah! Dammit!",
+            "ru_native": "Твою мать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V3.ANOSHI_RILEY_0001",
+            "en": "Yeah, I’m going for it!",
+            "ru_native": "Да, лечу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, лечу!"
+        },
+        {
+            "tag": "A2V3.ANOSHI_RILEY_0002",
+            "en": "Yeah, standby!",
+            "ru_native": "Да, стой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, стояти!"
+        },
+        {
+            "tag": "A2V3.ANOSHI_VIOLET_0000",
+            "en": "Yah!",
+            "ru_native": "А-а!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А-а!"
+        }
+    ]
+}

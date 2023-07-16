@@ -1,0 +1,924 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V4.LEAVIN",
+    "entries": [
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0000_OPTION_0000",
+            "en": "What?",
+            "ru_native": "Что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0000_OPTION_0001",
+            "en": "The Kanaloa?",
+            "ru_native": "Каналоа?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Каналоа»?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0001_OPTION_0000",
+            "en": "It doesn't change anything.",
+            "ru_native": "Это ничего не меняет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це нічого не змінює."
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0001_OPTION_0001",
+            "en": "Feel bad for them now?",
+            "ru_native": "Тебе их жалко?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі що, шкода їх?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0001_OPTION_0002",
+            "en": "Put it out of your mind.",
+            "ru_native": "Выбрось из головы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто не думай про це."
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0002_OPTION_0000",
+            "en": "Sorry I couldn't get to her.",
+            "ru_native": "Прости, что не добралась до нее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, що не дісталася до неї."
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0002_OPTION_0001",
+            "en": "You're right, let's go.",
+            "ru_native": "Ты прав, идем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти маєш рацію, ходімо."
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0002_OPTION_0002",
+            "en": "Less talk, more action.",
+            "ru_native": "Меньше слов, больше дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Менше балачок, більше діла."
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0003_OPTION_0000",
+            "en": "What can she do?",
+            "ru_native": "Что еще она может?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що вона ще може?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0003_OPTION_0001",
+            "en": "You're right, let's go.",
+            "ru_native": "Ты прав, идем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти маєш рацію, ходімо."
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0003_OPTION_0002",
+            "en": "Less talk, more action.",
+            "ru_native": "Меньше слов, больше дела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Менше балачок, більше діла."
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0004_OPTION_0000",
+            "en": "What's the harm?",
+            "ru_native": "Что плохого?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А що такого?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0004_OPTION_0001",
+            "en": "She just looked so sad.",
+            "ru_native": "Она была такая грустная.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона виглядала такою сумною."
+        },
+        {
+            "tag": "A2V4.LEAVIN_CHOICE_0004_OPTION_0002",
+            "en": "I shouldn't have done that.",
+            "ru_native": "Не стоило мне это делать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не варто було цього робити."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0000",
+            "en": "All this time… I thought it was the submarine.",
+            "ru_native": "Все это время я думал, что это подлодка.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Увесь цей час… я думав, що це підводний човен."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0001",
+            "en": "Of course it wouldn't be them.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Конечно, это будут не они.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0002",
+            "en": "I guess that'd be too obvious.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Думаю, это было бы слишком очевидно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0003",
+            "en": "The USS Kanaloa—the crewmen and women that died off the coast of Fort Milner.",
+            "ru_native": "",
+            "ru_machine": "DEEPL USS Kanaloa - члены экипажа и женщины, погибшие у берегов Форт-Милнера.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0004",
+            "en": "I thought… I didn't want to say, but I just thought…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я подумал... Я не хотел говорить, но я просто подумал...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0005",
+            "en": "Everything was them—that they were the ghosts… Olivia was talking to.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Все было ими - что они и есть те самые призраки... С которыми разговаривала Оливия.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0006",
+            "en": "But it's kids. It's just kids—it's kids that go to Camena High. I probably did lawn work for their parents.",
+            "ru_native": "Но это дети. Просто дети, которые ходили в школу Камены.<br>Я наверняка стриг газон их родителям.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але це діти. Просто діти, які ходили до школи в Камені.<br>Я, мабуть, навіть стриг газони їхнім батькам."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0007",
+            "en": "I don't know… it just… changes things. If they're really stuck.",
+            "ru_native": "Не знаю, просто... это все меняет. Если они правда застряли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, просто… це все змінює. Якщо вони дійсно застрягли…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0008",
+            "en": "And we're fighting them off, it just…",
+            "ru_native": "А мы их не пускаем обратно, это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ми не пускаємо їх назад, то…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0009",
+            "en": "It's hard to believe.",
+            "ru_native": "В это сложно поверить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У це важко повірити."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0010",
+            "en": "It's hard to believe any of this is really happening.",
+            "ru_native": "Сложно поверить, что все это действительно происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Важко повірити, що це все насправді відбувається."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0011",
+            "en": "[sigh] This is horrible.",
+            "ru_native": "Это ужасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Це жахливо."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0012",
+            "en": "Yeah. Yeah, I know. It's just...a lot.",
+            "ru_native": "Да, я знаю. Просто... это перебор.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Так, я знаю. Просто… це занадто."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0013",
+            "en": "I feel differently about it, now, I guess. Ultimately… we still have to do what we have to do.",
+            "ru_native": "Я стал иначе к ним относиться. Мы все равно должны закончить начатое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я почав інакше до них ставитися. Але… ми все одно маємо закінчити те, що почали."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0014",
+            "en": "But… I feel less great about the whole thing. Not that I felt great about it at all, but…",
+            "ru_native": "Но теперь я чувствую себя паршиво. Не сказать, что изначально я был в восторге, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та зараз я почуваюся паршиво. Не можу сказати,<br>що я із самого початку був у захваті, але…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0015",
+            "en": "[to himself] Yeah, whatever.",
+            "ru_native": "Как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як скажеш."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0016",
+            "en": "[sigh] Okay, Olivia teleported away. God knows where she's going.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Так, Оливия телепортировалась. Бог знает, куда она направилась.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0017",
+            "en": "I mean—she was a problem before, but now this is really a problem—",
+            "ru_native": "Просто... Она и раньше мешала, а теперь переросла в серьезную проблему...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… Вона й до цього заважала, а тепер переросла в серйозну проблему…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0018",
+            "en": "We have to fix the last transmitter fast before her or—or Alex or any of them get any other ideas.",
+            "ru_native": "Надо починить передатчик, пока она или... или<br>Алекс, или еще кто, не придумали другой план.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба полагодити радіопередавач, доки вона чи…<br>Алекс, чи ще хтось не придумав інший план."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0019",
+            "en": "She's obviously getting better at making portals.",
+            "ru_native": "Она все лучше создает порталы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона все краще створює портали."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0020",
+            "en": "And if we don't head her off at the pass quick—",
+            "ru_native": "Если не опередим ее на подходе...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо не випередимо її…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0021",
+            "en": "—this might have all been for nothing.",
+            "ru_native": "То все старания окажутся зря.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…то всі наші зусилля будуть марними."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0022",
+            "en": "[over her] Don't worry about it, seriously.",
+            "ru_native": "Забудь, правда.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0023",
+            "en": "I couldn't get to her, either. So, this was just never going to end this way.",
+            "ru_native": "Я тоже до нее не добрался, так что... Видимо, не судьба.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж до неї не дістався, тож… Мабуть, не судилося."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0024",
+            "en": "[sigh] I guess… I mean, at least Olivia doesn't have her radio anymore?",
+            "ru_native": "Наверное... По крайней мере, у Оливии больше нет радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[зітхає] Мабуть… Принаймні, в Олівії більше немає радіо."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0025",
+            "en": "Takes a wee bit of pressure off, but… we still need to finish the transmitter array.",
+            "ru_native": "Это самую малость упрощает дело, но... нам все<br>еще нужно закончить установку приемников.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це добре, але… нам однаково треба завершити встановлення радіопередавачів."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0026",
+            "en": "It's not over yet.",
+            "ru_native": "Это еще не конец.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ще не кінець."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0027",
+            "en": "Not that this was going to end any other way.",
+            "ru_native": "Хотя по-другому и быть не могло.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча інакше й бути не могло."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0028",
+            "en": "She can find another one, Riley. You don't think she can cobble together some spare parts somewhere?",
+            "ru_native": "Она может найти другое радио, Райли. Ты же не<br>думаешь, что она не в состоянии собрать пару деталей?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона може знайти інше радіо, Райлі. Ти думаєш,<br>що вона не здатна зібрати до купи кілька деталей?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0029",
+            "en": "She has a religious determination I don't think one broken radio will cure.",
+            "ru_native": "Такое религиозное рвение не остановит одно сломанное устройство.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Таке релігійне прагнення не зупинить одне зламане радіо."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0030",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0031",
+            "en": "[sigh] You know, I don't know if you should've given back her radio.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Знаешь, я не знаю, стоило ли тебе возвращать ей рацию.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0032",
+            "en": "I mean, I know why you did it.",
+            "ru_native": "Я понимаю твои мотивы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я розумію, чому ти це зробила."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0033",
+            "en": "I just don't think it will… help us.",
+            "ru_native": "Просто считаю, что это... нам аукнется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не думаю, що… це допоможе."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0034",
+            "en": "In the long run.",
+            "ru_native": "В дальнейшем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У майбутньому."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0035",
+            "en": "I—well, I guess we can agree to disagree on that one, cause I see a lot of potential harm.",
+            "ru_native": "Что ж, каждый останется при своем мнении. Я вижу потенциальную угрозу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж, кожен залишиться при своїй думці. Я бачу в цьому потенційну загрозу."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0036",
+            "en": "But… I guess it's done now.",
+            "ru_native": "Но... дело сделано.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… уже нічого не поробиш."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0037",
+            "en": "Okay, I mean...okay.",
+            "ru_native": "Ладно, просто... Ясно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ясно…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0038",
+            "en": "I don't know if that's a good enough reason to give someone a loaded gun, but...fine, I guess.",
+            "ru_native": "Не уверен, что это достаточная причина, чтобы<br>отдавать заряженный пистолет, но... Хорошо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не впевнений, що цієї причини достатньо,<br>щоби віддавати заряджений пістолет, але… Гаразд."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0039",
+            "en": "[sigh] You know, this reminds me of that story I told you?",
+            "ru_native": "",
+            "ru_machine": "DEEPL [вздох] Знаешь, это напоминает мне ту историю, которую я тебе рассказывал?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0040",
+            "en": "The kids that sailed off to a faraway island, got caught...",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дети, которые уплыли на далекий остров, попали...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0041",
+            "en": "...and then tricked other kids into replacing them. And it was a cycle, forever.",
+            "ru_native": "",
+            "ru_machine": "DEEPL ...а затем обманом заставляли других детей заменить их. И это был цикл, навсегда.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0042",
+            "en": "I used to think it was just a metaphor for...adulthood, or...arrested adolescence, I don't know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Раньше я думал, что это просто метафора... взрослой жизни или... арестованного подросткового возраста, не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0043",
+            "en": "But...maybe it's real. Maybe...everything's already happened. I don't know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Но... может быть, это реально. Может быть... все уже произошло. Я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0044",
+            "en": "[to himself] Okay, whatever, sorry --",
+            "ru_native": "",
+            "ru_machine": "DEEPL [про себя] Ладно, неважно, извини...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0045",
+            "en": "Garland. Right? Then we're done. It's finished.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Гарланд. Правильно? Тогда мы закончили. Всё закончено.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0046",
+            "en": "Let's go this way.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Давай пойдем таким путем.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0047",
+            "en": "Tootega Falls. Right? Then we're done. It's finished.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Водопад Тутега. Правильно? Тогда мы закончили. Всё закончено.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0048",
+            "en": "Charity Point. Right? Then we're done. It's finished.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Благотворительный пункт. Правильно? Тогда мы закончили. Всё закончено.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0049",
+            "en": "The USS Kanaloa.",
+            "ru_native": "Подлодка «Каналоа».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Судно ВМФ США «Каналоа»."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0050",
+            "en": "I thought… I thought that everything was just them—",
+            "ru_native": "Я думал, что все происходит из-за ее экипажа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думав… що все відбувається через екіпаж…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0051",
+            "en": "—that they were the beings Olivia was talking to.",
+            "ru_native": "Что это они говорили с Оливией.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це вони говорили з Олівією."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0052",
+            "en": "Okay. Never mind. Garland. Right? That’s the last location?",
+            "ru_native": "Ладно, забудь. Гарленд, да? Последнее место?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, забудь. Гарленд, так? Це останнє місце?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0053",
+            "en": "We should head out.",
+            "ru_native": "Пора отправляться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час вирушати."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0054",
+            "en": "Okay. Never mind. Tootega Falls. Right? That’s the last location?",
+            "ru_native": "Ладно, забудь. Тутега Фолз, да? Последнее место?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, забудь. Водоспади Тутега, так? Це останнє місце?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0055",
+            "en": "We should head out.",
+            "ru_native": "Пора отправляться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час вирушати."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0056",
+            "en": "Okay. Never mind. Charity Point. Right? That’s the last location?",
+            "ru_native": "Ладно, забудь. Черити Поинт, да? Последнее место?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, забудь. Черіті-Пойнт, так? Це останнє місце?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0057",
+            "en": "We should head out.",
+            "ru_native": "Пора отправляться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час вирушати."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0058",
+            "en": "Because… Olivia teleported away and God knows where she’s going.",
+            "ru_native": "Потому что... Оливия телепортировалась, и теперь бог знает, где она.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що… Олівія телепортувалася, і тепер вона бозна-де."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0059",
+            "en": "And, you know… I’m sorry, Riley, but I don’t know if you should’ve given back Olivia’s radio.",
+            "ru_native": "Знаешь... Извини, Райли, но не думаю, что тебе стоило отдавать Оливии радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш… Вибач, Райлі, але не думаю, що тобі варто було віддавати радіо Олівії."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0060",
+            "en": "Alright, let’s do it to it.",
+            "ru_native": "Ладно, за дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, до роботи."
+        },
+        {
+            "tag": "A2V4.LEAVIN_JACOB_0061",
+            "en": "Alright, um, let’s… let’s get to the last spot for the transmitter.",
+            "ru_native": "Ладно, эм, пошли... пошли к последнему месту для передатчика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гм… ходімо до останньої точки для радіопередавача."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0000",
+            "en": "What? What submarine?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что? Какая подводная лодка?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0001",
+            "en": "The USS Kanaloa? That submarine?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Американский подводный корабль \"Каналоа\"? Эта подводная лодка?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0002",
+            "en": "Jacob, this doesn't change anything.",
+            "ru_native": "Джейкоб, это ничего не меняет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, це нічого не змінює."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0003",
+            "en": "Whether or not they were in study hall or worried about boys or grounded when they died—",
+            "ru_native": "Даже если они переживали о домашней работе или мальчишках, когда умерли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Навіть якщо вони переживали за домашнє завдання чи своїх хлопців, коли померли…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0004",
+            "en": "They're still the same beings that have been messing with us all night.",
+            "ru_native": "Это все еще те самые существа, которые всю ночь портили нам жизнь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це все ще ті істоти, які всю ніч псували нам життя."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0005",
+            "en": "And will destroy things—destroy other lives—if we don't act.",
+            "ru_native": "Они уничтожат... чужие жизни, если их не остановить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони знищать… чужі життя, якщо їх не зупинити."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0006",
+            "en": "What, you feel bad for them now?",
+            "ru_native": "Что, тебе их стало жалко?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі що, шкода їх?"
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0007",
+            "en": "Just… put it out of your mind.",
+            "ru_native": "Просто... Выброси из головы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… не думай про це."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0008",
+            "en": "We're squashing interdimensional beings, Jacob, who want to trade souls with some kids who are alive.",
+            "ru_native": "Мы раздавим межпространственных существ, что<br>хотят обменяться душами с еще живыми детьми.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми знищуємо міжпросторових істот, Джейкобе,<br>які хочуть обмінятися душами з живими дітьми."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0009",
+            "en": "Don't make any already unbelievably complicated situation worse in your head.",
+            "ru_native": "Ситуация уже невероятно запутанная, не нагнетай еще больше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ситуація й так дуже заплутана, не накручуй."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0010",
+            "en": "Yeah, I'm—I'm… sorry I couldn't reach before she—",
+            "ru_native": "Да, я... Прости, что не добралась до нее...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, я… Вибач, що не дісталася до неї…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0011",
+            "en": "Yeah. We should go.",
+            "ru_native": "Да. Нужно идти.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Треба йти."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0012",
+            "en": "Yeah yeah, I know, let's get a move on.",
+            "ru_native": "Да, да, я знаю. Ноги в руки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, так, я знаю, ходімо."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0013",
+            "en": "I broke her radio, Jacob, what else can she do? I think this is done.",
+            "ru_native": "Джейкоб, я сломала ее радио. Что еще она может сделать? Расслабься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, я зламала її радіо. Що вона може ще зробити? Це кінець."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0014",
+            "en": "I mean… we're going to finish the transmitter field, her portal's gonna get nullified—",
+            "ru_native": "Слушай, мы все равно закончим установку передатчиков, и ее портал исчезнет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай… ми однаково завершимо встановлення радіопередавачів, її портал зникне…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0015",
+            "en": "—I just didn't see the harm, I guess, in letting the kid keep her radio.",
+            "ru_native": "Я не видела ничего плохого в том, чтобы оставить ребенку радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не бачу нічого страшного в тому, щоби залишити радіо дитині."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0016",
+            "en": "Honestly, Jacob, she just looked so sad — and I just know that feeling, that...",
+            "ru_native": "Джейкоб, она выглядела такой грустной. А я отлично знаю это чувство...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, вона виглядала такою сумною. А я чудово знаю це відчуття…"
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0017",
+            "en": "...realization that sometimes things just don't go any way you want it to.",
+            "ru_native": "Осознание того, что порой все идет совсем не так, как ты хочешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усвідомлення того, що часом усе йде не за планом."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0018",
+            "en": "And you can't do anything about it.",
+            "ru_native": "И с этим ничего не поделать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І ти нічого не можеш із цим зробити."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0019",
+            "en": "I — yeah, I shouldn't have done that. I just wanted her to have...something she wanted, I guess.",
+            "ru_native": "Да, не надо было это делать. Я лишь хотела дать ей... то, что она хочет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… так, не варто було цього робити. Я просто хотіла дати їй те… що вона хоче."
+        },
+        {
+            "tag": "A2V4.LEAVIN_RILEY_0020",
+            "en": "Even something small. Like her radio.",
+            "ru_native": "Пусть и мелочь, вроде радио.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай і якусь дрібничку, як радіо."
+        }
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ34.RASTC3",
+    "entries": [
+        {
+            "tag": "SQ34.RASTC3_JILLIAN_0000",
+            "en": "[RADIO] [static] —there’s that huge water tower you always see on the tollway, right?",
+            "ru_native": "...огромная водонапорная башня, которую ты всегда видишь на платной дороге, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум] …величезна водонапірна вежа,<br>яку ти завжди бачиш на платній дорозі, так?"
+        },
+        {
+            "tag": "SQ34.RASTC3_JILLIAN_0001",
+            "en": "[RADIO] Now just because you see that water tower… Does that really mean there’s any water in there? [static]",
+            "ru_native": "А раз ты видишь эту водонапорную башню… Значит ли это, что там есть вода?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти бачиш цю вежу… Але чи це означає, що там є вода? [шум]"
+        }
+    ]
+}

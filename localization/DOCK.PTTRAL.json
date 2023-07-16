@@ -1,0 +1,51 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "DOCK.PTTRAL",
+    "entries": [
+        {
+            "tag": "DOCK.PTTRAL_RILEY_0000",
+            "en": "“Trail to Summit.” Perfect. Let’s get this over with.",
+            "ru_native": "«Тропа к вершине». Отлично. Пора за дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Стежка до вершини». Ідеально. Ну давай."
+        },
+        {
+            "tag": "DOCK.PTTRAL_RILEY_0001",
+            "en": "Uh, it says… “Trail to Summit. Great views!” Yeah, right.",
+            "ru_native": "Написано... «Тропа к вершине. Прекрасные виды!» Ну да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут сказано… «Стежка до вершини. Прекрасні краєвиди!»"
+        },
+        {
+            "tag": "DOCK.PTTRAL_RILEY_0002",
+            "en": "I still have to go to the General Store for some supplies, first, I think…",
+            "ru_native": "Но мне все еще нужно зайти в магазин за снаряжением...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені все ще спочатку треба зайти до універмагу за припасами…"
+        },
+        {
+            "tag": "DOCK.PTTRAL_RILEY_0003",
+            "en": "“Trail to Camber Cape.” Perfect. Let’s get this over with.",
+            "ru_native": "",
+            "ru_machine": "DEEPL \"Тропа к мысу Кэмбер\". Идеально. Давай покончим с этим.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Стежка до мису Кейбер». Ідеально. Ну давай."
+        },
+        {
+            "tag": "DOCK.PTTRAL_RILEY_0004",
+            "en": "Uh, it says… “Trail to Camber Cape. Great views!” Yeah, right.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, тут написано... \"Тропа к мысу Кэмбер. Отличные виды!\" Да, точно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут сказано… «Стежка до мису Кейбер. Прекрасні краєвиди!». Ага, авжеж."
+        }
+    ]
+}

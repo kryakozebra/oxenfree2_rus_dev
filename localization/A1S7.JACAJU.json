@@ -1,0 +1,1482 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S7.JACAJU",
+    "entries": [
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0000_OPTION_0000",
+            "en": "That crazy thing in the sky!",
+            "ru_native": "Эта дикая штука в небе!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця божевільна штука в небі!"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0000_OPTION_0001",
+            "en": "<none>",
+            "ru_native": "",
+            "ru_machine": "DEEPL <нет>.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "<none>"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0000_OPTION_0002",
+            "en": "How’d you get here?",
+            "ru_native": "Как ты сюда попал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти тут опинився?"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0001_OPTION_0000",
+            "en": "I certainly feel crazy.",
+            "ru_native": "Я чувствую себя дико.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я почуваюся дуже дивно."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0001_OPTION_0001",
+            "en": "How would I know?",
+            "ru_native": "Откуда мне знать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки мені знати?"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0001_OPTION_0002",
+            "en": "No, this is happening.",
+            "ru_native": "Нет, это точно взаправду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це відбувається насправді."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0002_OPTION_0000",
+            "en": "I don’t think you’re crazy.",
+            "ru_native": "Не думаю, что ты спятил.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що ти здурів."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0002_OPTION_0001",
+            "en": "If you are, then so am I.",
+            "ru_native": "Тогда мы оба спятили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді ми разом з’їхали з глузду."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0002_OPTION_0002",
+            "en": "Maybe you are!",
+            "ru_native": "Может, и так!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може й так!"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0003_OPTION_0000",
+            "en": "Take your pick.",
+            "ru_native": "Решай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирішуй."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0003_OPTION_0001",
+            "en": "We’re not going crazy.",
+            "ru_native": "Мы не сошли с ума.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не здуріли."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0004_OPTION_0000",
+            "en": "Truck guy, I remember.",
+            "ru_native": "Парень с грузовиком, ага.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопець із вантажівкою, так, пригадую."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0004_OPTION_0001",
+            "en": "Hi. I’m Riley.",
+            "ru_native": "Привет. Я Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. Я — Райлі."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0005_OPTION_0000",
+            "en": "Truck guy, I remember.",
+            "ru_native": "Парень с грузовиком, ага.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопець із вантажівкою, так, пригадую."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0005_OPTION_0001",
+            "en": "Sure. I’m Riley.",
+            "ru_native": "Конечно. Я Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звісно. Я — Райлі."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0006_OPTION_0000",
+            "en": "No idea.",
+            "ru_native": "Понятия не имею.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0006_OPTION_0001",
+            "en": "I got jumped around...",
+            "ru_native": "Я совершила прыжок...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зробила стрибок…"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0006_OPTION_0002",
+            "en": "That weird light show...",
+            "ru_native": "То странное световое шоу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Те дивне світлове шоу…"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0007_OPTION_0000",
+            "en": "I'm very real.",
+            "ru_native": "Я более чем реальна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я більш ніж реальна."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0007_OPTION_0001",
+            "en": "How do I know if you are.",
+            "ru_native": "Откуда мне знать, что ты нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як можна бути впевненим, що ти реальний?"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0008",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0008_OPTION_0000",
+            "en": "Not just you.",
+            "ru_native": "Не одинок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не один такий."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0008_OPTION_0001",
+            "en": "Unless we’re both crazy.",
+            "ru_native": "Если только мы оба не спятили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо тільки ми разом не з’їхали з глузду."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0009_OPTION_0000",
+            "en": "That crazy thing in the sky!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эта сумасшедшая штука в небе!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця божевільна штука в небі!"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0009_OPTION_0001",
+            "en": "How’d you get here?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как ты сюда попал?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти тут опинився?"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0009_OPTION_0002",
+            "en": "It was after the transmitter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это было после передатчика.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це трапилося після радіопередавача."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0010_OPTION_0000",
+            "en": "That crazy thing in the sky!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эта сумасшедшая штука в небе!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця божевільна штука в небі!"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0010_OPTION_0001",
+            "en": "How’d you get here?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как ты сюда попал?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як ти тут опинився?"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0010_OPTION_0002",
+            "en": "It was after the transmitter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это было после передатчика.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це трапилося після радіопередавача."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0011_OPTION_0000",
+            "en": "No idea.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Без понятия.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0011_OPTION_0001",
+            "en": "It was after the transmitter.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это было после передатчика.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це трапилося після радіопередавача."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0011_OPTION_0002",
+            "en": "That weird light show...",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это странное световое шоу...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Те дивне світлове шоу…"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0012_OPTION_0000",
+            "en": "",
+            "ru_native": "",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0013_OPTION_0000",
+            "en": "I have no idea!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Понятия не имею!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю!"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0013_OPTION_0001",
+            "en": "I was hoping you would!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я надеялся, что ты так и сделаешь!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподівалася, що ти знаєш!"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0013_OPTION_0002",
+            "en": "A triangle in the sky?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Треугольник в небе?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трикутник у небі?"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0014_OPTION_0000",
+            "en": "How would I know?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Откуда мне знать?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки мені знати?"
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0014_OPTION_0001",
+            "en": "I think I’m okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кажется, я в порядке?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, зі мною все гаразд."
+        },
+        {
+            "tag": "A1S7.JACAJU_CHOICE_0014_OPTION_0002",
+            "en": "I’m very far from okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я очень далек от нормального состояния.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зі мною і близько не все гаразд."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0000",
+            "en": "I’ve been trying to—sorry, I’ve been trying to call somebody on my truck’s CB—",
+            "ru_native": "У меня в грузовике есть рация. Я пытался вызвать кого-нибудь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене… вибач, у вантажівці є рація. Я намагався викликати когось…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0001",
+            "en": "—but the thing… I don’t know, it’s busted for some reason. Can’t even get a signal.",
+            "ru_native": "Но она сломалась ни с того ни с сего. Вообще не ловит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але річ у тому, що вона раптово зламалася. Взагалі не ловить."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0002",
+            "en": "My head feels like a rock tumbler.",
+            "ru_native": "У меня голова раскалывается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене голова розколюється."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0003",
+            "en": "At all?",
+            "ru_native": "Вообще?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зовсім?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0004",
+            "en": "I can barely think.",
+            "ru_native": "Я едва соображаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ледве мізки докупи зібрати можу."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0005",
+            "en": "And I think I swallowed my gum.",
+            "ru_native": "И, кажется, я проглотил жвачку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І, здається, я проковтнув жуйку."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0006",
+            "en": "Yeah. I—yeah.",
+            "ru_native": "Да, я понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, розумію."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0007",
+            "en": "Uh, excellent question, one for a game show, cause… I don’t know.",
+            "ru_native": "Отличный вопрос, достойный викторины... Без понятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Влучне запитання, підходить для вікторини… тому що я не знаю."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0008",
+            "en": "For a minute, I was… I thought I was fourteen again. I was in school—in class.",
+            "ru_native": "На мгновение я подумал, что мне снова четырнадцать. Я был в школе, в кабинете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На мить я подумав… що мені знову чотирнадцять. Я був у школі, у кабінеті."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0009",
+            "en": "This is two seconds ago.",
+            "ru_native": "Пару секунд назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Кілька секунд тому."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0010",
+            "en": "And after… I was somewhere else. And then somewhere else… and then I woke up in the back of my truck.",
+            "ru_native": "А потом... я оказался в каком-то другом месте. А потом...<br>потом я проснулся на заднем сиденье своего грузовика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А потім… я опинився в якомусь іншому місці. А потім…<br>потім я прокинувся на задньому сидінні своєї вантажівки."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0011",
+            "en": "We’re not… losing it, totally, right?",
+            "ru_native": "Мы же не... сошли с ума, верно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ж не… збожеволіли, адже так?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0012",
+            "en": "This isn’t… like a dual hypnosis or something.",
+            "ru_native": "Не похоже на групповой гипноз или что-то типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не… Не схоже на груповий гіпноз або щось таке."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0013",
+            "en": "Our brains aren’t lacking oxygen.",
+            "ru_native": "И кислородного голодания у нас нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І кисневого голодування в нас не має."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0014",
+            "en": "Right?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже так?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0015",
+            "en": "Yeah, my nose is all clogged.",
+            "ru_native": "А у меня нос забит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А в мене ніс закладений."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0016",
+            "en": "And my eyes are watering—I’m not crying, it’s just like I’ve been punched in the face.",
+            "ru_native": "И глаза слезятся. Это я не плачу, мне будто по роже врезали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Й очі сльозяться. Це я не плачу, мені ніби по пиці врізали."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0017",
+            "en": "Are you… not answering me maybe because you think I am crazy…?",
+            "ru_native": "Ты... мне не отвечаешь, потому что думаешь, что я спятил...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… мені не відповідаєш, бо думаєш, що я з глузду з’їхав…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0018",
+            "en": "Or…",
+            "ru_native": "Или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0019",
+            "en": "What?",
+            "ru_native": "Что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0020",
+            "en": "Riiight.",
+            "ru_native": "То-о-о-очно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зві-і-існо."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0021",
+            "en": "How would I know if I’ve gone crazy or how would I know if you’ve gone crazy?",
+            "ru_native": "Как я пойму, что спятил. И как мне понять, что ты не спятила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки мені знати, чи я здурів? І як зрозуміти, що ти не з’їхала з глузду?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0022",
+            "en": "Cause… I don’t…",
+            "ru_native": "Потому что... Я не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що… Я не…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0023",
+            "en": "I can’t tell either way.",
+            "ru_native": "Я тоже не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теж не знаю."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0024",
+            "en": "I don’t think I’m crazy. I don’t want to eat my own hair or anything and this isn’t a hallucination.",
+            "ru_native": "Не думаю, что я спятил. Не хочу есть свои волосы или<br>что там сумасшедшие делают. И это точно не глюк.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що я збожеволів. Не хочу їсти своє волосся<br>або що там божевільні роблять. І це точно не глюк."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0025",
+            "en": "I don’t think.",
+            "ru_native": "Не думаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, що ні."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0026",
+            "en": "No, my dreams are usually pretty boring.",
+            "ru_native": "Нет, мои сны обычно довольно скучные.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, мої сни зазвичай досить нудні."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0027",
+            "en": "But I don’t think I’m crazy, and I don’t think you are, either.",
+            "ru_native": "Не думаю, что кто-то из нас сошел с ума.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що хтось із нас здурів."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0028",
+            "en": "I’m Jacob. I don’t know if you remember…",
+            "ru_native": "Я Джейкоб? Не знаю, помнишь ли ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — Джейкоб. Не знаю, чи ти пам’ятаєш мене…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0029",
+            "en": "I was looking for my dog, Athena?",
+            "ru_native": "Я искал свою собаку, Будду?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я шукав свою собачку, Афіну."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0030",
+            "en": "You helped me out with the… thing.",
+            "ru_native": "Ты помогала мне с поисками.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти допомагала мені з… пошуками."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0031",
+            "en": "This was like twenty minutes ago.",
+            "ru_native": "Это было около двадцати минут назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було десь двадцять хвилин тому."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0032",
+            "en": "Well, anyways—",
+            "ru_native": "Ладно, проехали...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд проїхали…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0033",
+            "en": "I’m Jacob. I was—I saw you walking up earlier?",
+            "ru_native": "Я Джейкоб. Это же ты тут недавно проходила?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — Джейкоб. Це ж ти тут нещодавно проходила?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0034",
+            "en": "My truck broke down while I was trying to find my dog. Athena? The border collie?",
+            "ru_native": "У меня грузовик сломался, пока я искал свою собаку. Будда? Бордер-колли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене вантажівка зламалася, поки я шукав свою собачку. Афіну. Бордер-колі."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0035",
+            "en": "I don’t know if you remember seeing me?",
+            "ru_native": "Не знаю, ты ее видела или нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я — Джейкоб. Не знаю, чи ти пам’ятаєш мене…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0036",
+            "en": "This would’ve been like twenty minutes ago.",
+            "ru_native": "Это было где-то двадцать минут назад.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було десь двадцять хвилин тому."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0037",
+            "en": "You seemed pretty focused on… whatever you were doing.",
+            "ru_native": "Похоже, ты очень сосредоточена на... том, что делаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, ти дуже зосереджена на тому… що робиш."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0038",
+            "en": "I was trying to get… this stupid thing started, when… everything… I don’t even know how to describe it—",
+            "ru_native": "Я пытался завести эту дурацкую железяку, когда... все... Даже не знаю, как описать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я намагався завести цю дурну залізяку, коли… усе… Навіть не знаю, як описати це."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0039",
+            "en": "I saw this… thing in the sky—these lights—a storm or something—",
+            "ru_native": "Я видел эту... штуку в небе. Огни, буря или что-то типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я бачив… ту штуку в небі. Блискавка, буря або щось на кшталт того."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0040",
+            "en": "And then—I’m sorry, I feel like I’m going nuts—I was knocked off my feet, maybe I fell asleep—",
+            "ru_native": "А потом... Прости, я как будто с ума схожу... Я очнулся на земле. Может, я уснул?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А потім… Вибач, я ніби божеволію… Я отямився на землі. Може, я заснув?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0041",
+            "en": "But I lost some time. I don’t know—do you know what happened?",
+            "ru_native": "Не знаю точно, сколько времени прошло. Ты знаешь, что случилось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю точно, скільки часу минуло. Ти знаєш, що сталося?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0042",
+            "en": "Cause I’m…",
+            "ru_native": "Потому что я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що… Я не…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0043",
+            "en": "I’m starting to freak out a little.",
+            "ru_native": "Я начинаю нервничать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я починаю трохи нервувати."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0044",
+            "en": "No? You don’t know?",
+            "ru_native": "Нет? Не знаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні? Не знаєш?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0045",
+            "en": "Okay. So it’s not just me.",
+            "ru_native": "Ладно. Значит, я не одинок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Отже, не тільки я такий."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0046",
+            "en": "You experienced…",
+            "ru_native": "Ты тоже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти теж…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0047",
+            "en": "Some… weirdness, too?",
+            "ru_native": "Заметила... что-то странное?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Помітила… щось дивне?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0048",
+            "en": "Yeah.",
+            "ru_native": "Ага.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мгм."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0049",
+            "en": "Do you, uh, remember what happened?",
+            "ru_native": "Ты помнишь, что произошло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти пам’ятаєш, що сталося?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0050",
+            "en": "You left me hanging at the gate, and then… I don’t know.",
+            "ru_native": "Ты оставила меня у ворот, а потом... Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти лишила мене біля воріт, а потім… Не знаю."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0051",
+            "en": "You’re not a hallucination are you?",
+            "ru_native": "Ты... ты же не галлюцинация?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… ти ж не галюцинація?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0052",
+            "en": "Because some… stuff just happened…",
+            "ru_native": "Потому что тут только что... такое случилось...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому що тут щойно… таке трапилося…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0053",
+            "en": "And I don’t know if it was entirely localized to my brain.",
+            "ru_native": "И я не знаю, это мне привиделось или нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І я не знаю, це все тільки в моїй голові чи ні."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0054",
+            "en": "I’m—no, I’m… here.",
+            "ru_native": "Я... нет, я... тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… ні, я… тут."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0055",
+            "en": "Real? Okay, let’s go with real.",
+            "ru_native": "Реальна? Ладно, поверю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Реальна? Гаразд, повірю."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0056",
+            "en": "You, uh, kinda killed my truck… and then… I don’t know.",
+            "ru_native": "Ты, ты типа спалила мой грузовик... а потом... не помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти, типу, зламала мою вантажівку… а потім… я не знаю."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0057",
+            "en": "You, uh, asked where the summit was… and then… I don’t know.",
+            "ru_native": "Ты, ты спросила, как пройти на вершину... а потом... не помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти, типу, запитала, де вершина… а потім… я не знаю."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0058",
+            "en": "You’re an… environmental researcher. Right?",
+            "ru_native": "Ты... исследователь окружающей среды. Так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… досліджуєш довкілля. Адже так?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0059",
+            "en": "You… were born and raised in Camena. Right?",
+            "ru_native": "Ты... родилась и выросла в Камене. Так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… народилася і виросла в Камені. Адже так?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0060",
+            "en": "Hmmm, well I don't know everything about radio transmitters but…",
+            "ru_native": "Хм-м. Я, конечно, не эксперт по радиопередатчикам, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гммм, ну, я ну дуже тямлю в раідопередавачах, але…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0061",
+            "en": "They normally don’t cause…this.",
+            "ru_native": "Обычно они не вызывают... такое.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зазвичай, вони такого не роблять…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0062",
+            "en": "Oh my God. Riley, this is… I don’t know what happened.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Боже мой. Райли, это... Я не знаю, что произошло.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже мій. Райлі, це… Я не знаю, що сталося."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0063",
+            "en": "Do you know what happened?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты знаешь, что произошло?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш, що сталося?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0064",
+            "en": "I was – we were planting the transmitter…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я был - мы сажали передатчик...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я був… ми встановлювали радіопередавач…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0065",
+            "en": "Some… lights came out of it?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Из него появились какие-то... огоньки?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якісь… вогники з нього?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0066",
+            "en": "And then… over Edwards Island…",
+            "ru_native": "",
+            "ru_machine": "DEEPL А потом... над островом Эдвардс...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тоді… над островом Едвардса…"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0067",
+            "en": "Ugh, my head.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф, моя голова.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ой, моя голова."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0068",
+            "en": "I’m – I don’t know! Are you okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я - я не знаю! Ты в порядке?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Не знаю! З тобою все гаразд?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0069",
+            "en": "Yeah, that – that happened. That… oh man.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, это... это случилось. Это... о, Боже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, те… це сталося. Це… ох, дідько."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0070",
+            "en": "Are you… okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты... в порядке?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе… гаразд?"
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0071",
+            "en": "You seem… alive.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты кажешься... живым.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… жива."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0072",
+            "en": "Which is maybe more than I can say for myself right now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что, пожалуй, больше, чем я могу сказать о себе сейчас.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це, мабуть, навіть більше, ніж я можу сказати про себе зараз."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0073",
+            "en": "Well. Good point.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну. Хорошее замечание.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, слушна думка."
+        },
+        {
+            "tag": "A1S7.JACAJU_JACOB_0074",
+            "en": "Yeah. Me, too. Well, wait – are we talking physically or mentally?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да. Я тоже. Так, подожди - мы говорим о физическом или ментальном?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Я також. Ну, почекай… ми говоримо про фізично чи метафорично?"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0000",
+            "en": "The, uh, that storm in the sky… the weirdest electrical… thing ever—right when it started, everything went…",
+            "ru_native": "Эта буря... я такого еще не видела. Когда она началась, все стало...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця буря… я ще такої дивної блискавки не бачила. Коли вона почалася, усе стало…"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0001",
+            "en": "I don’t even know how to describe it.",
+            "ru_native": "Не могу подобрать слова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу підібрати слова."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0002",
+            "en": "I got… was getting jumped around. This is going to sound… uh, bad, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL На меня... набросились. Это прозвучит... эээ... плохо, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0003",
+            "en": "I thought I was… back in my twenties… for a second—then… back here—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мне показалось, что я... вернулся в свои двадцать лет... на секунду, а потом... вернулся сюда...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0004",
+            "en": "—but during the day. I don’t know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL -но в течение дня. Я не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0005",
+            "en": "I… don’t know what’s going on, either, Jacob. How’d you get back here so fast?",
+            "ru_native": "Джейкоб, я тоже без понятия, что происходит. Как ты так быстро добрался сюда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, я й гадки не маю, що відбувається. Як ти так швидко дістався сюди?"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0006",
+            "en": "Well I certainly feel like I should be committed, after what I just saw.",
+            "ru_native": "Ну, после всего увиденного по мне психушка плачет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, після всього побаченого психлікарня має стати моєю домівкою."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0007",
+            "en": "And I smell like a friggin’… like I’ve been on a week-long bender all of a sudden—what is this?",
+            "ru_native": "А еще от меня несет... будто я неделю бухала. С чего вдруг?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А ще від мене тхне… ніби я тиждень без зупинки бухала. Із чого це раптом?"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0008",
+            "en": "No, this is definitely happening. My bouts of mania are typically more fun than this.",
+            "ru_native": "Нет, это точно взаправду. Мои приступы куда веселее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це точно відбувається. Мої приступи манії куди веселіше зазвичай."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0009",
+            "en": "No. You’re not shouting or spinning, so… amateur diagnosis—you’re normal.",
+            "ru_native": "Нет. Ты не кричишь и не кружишься, так что... ты вроде нормальный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Ти не кричиш і не крутишся, тож… мій діагноз лікаря-аматора: ти — нормальний."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0010",
+            "en": "I just don’t know what to think right now.",
+            "ru_native": "Я просто не знаю, что и думать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто не знаю, що й думати."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0011",
+            "en": "Look, if you need a straitjacket then so do I—I just honestly don’t even know what to think right now.",
+            "ru_native": "Слушай, если тебе пора в дурку, то и мне тоже. Я просто не знаю, что подумать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, якщо в тебе дах поїхав, то в мене теж.<br>Я просто не знаю що й думати."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0012",
+            "en": "Maybe you are. I don’t know! How would I know?",
+            "ru_native": "Возможно. Не знаю! Откуда мне знать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо. Не знаю! Звідки мені знати!"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0013",
+            "en": "I can barely spell crazy right now. I don’t even know what to say.",
+            "ru_native": "Мне бы это слово и в голову не пришло. Я вообще не знаю, что сказать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені б це слово й на думку не спало. Я взагалі не знаю що сказати."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0014",
+            "en": "How would I know if I’ve gone crazy? How would you know?",
+            "ru_native": "Как можно понять, что ты сошел с ума? Откуда ты знаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки мені знати, чи я здуріла? Звідки ти знаєш?"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0015",
+            "en": "Take your pick.",
+            "ru_native": "Решай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вирішуй сам."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0016",
+            "en": "We’re not going crazy, Jacob, this isn’t a… delusion.",
+            "ru_native": "Мы не сошли с ума, Джейкоб, и это не... наваждение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не збожеволіли, Джейкобе, і це не… ілюзія."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0017",
+            "en": "We all saw the same thing, this wasn’t a dream.",
+            "ru_native": "Мы видели одно и то же, и это был не сон.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми бачили одне й те саме, і це був не сон."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0018",
+            "en": "Yeah. Guy with the truck. Athena. I remember.",
+            "ru_native": "Точно. Парень с грузовиком. Будда. Я помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Точно. Хлопець із вантажівкою. Афіна. Я пам’ятаю."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0019",
+            "en": "Yeah, hi. Riley.",
+            "ru_native": "Да, привет. Я Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Привіт. Я — Райлі."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0020",
+            "en": "Yeah, you were—yeah. I remember.",
+            "ru_native": "Да, ты был... Да, я помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ти був… Так, пам’ятаю."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0021",
+            "en": "I have absolutely no idea, I’m as confused as you are.",
+            "ru_native": "Понятия не имею. Я тоже не знаю, что и думать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадки не маю. Я теж спантеличена, як і ти."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0022",
+            "en": "I… kind of got… jumped around, or… I don’t really know.",
+            "ru_native": "Это было похоже на прыжок или... Даже не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було схоже на стрибок чи… Навіть не знаю."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0023",
+            "en": "It feels like a dream. But I know it wasn’t.",
+            "ru_native": "Похоже на сон. Но я знаю, что это был не он.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже на сон. Але я знаю, що то був не він."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0024",
+            "en": "That… weird… light show thing—the electrical storm over Edwards Island… caused something?",
+            "ru_native": "Это... странное... световое шоу – гроза над островом Эдвардса... она что-то вызвала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… дивне… світлове шоу — гроза над островом Едвардса… вона щось спричинила?"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0025",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0026",
+            "en": "No. Unfortunately. It’s not just you. I mean… I’m standing here, too.",
+            "ru_native": "Нет. Увы, ты не одинок. В смысле... Я тоже тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. На жаль, ти не один такий. Тобто… Я також тут, поряд із тобою."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0027",
+            "en": "Something’s going on.",
+            "ru_native": "Что-то происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось відбувається."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0028",
+            "en": "Uh, not unless we’re both crazy. I mean… Look at me. I’m standing here, too.",
+            "ru_native": "Ну, если только мы оба не спятили. В смысле... Посмотри на меня. Я тоже тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, якщо тільки ми разом не з’їхали з глузду. Тобто… Подивися на мене.<br>Я також тут, поряд із тобою."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0029",
+            "en": "No I am very real—my being real isn’t a concern right now.",
+            "ru_native": "Нет, я более чем реальна. Но это сейчас не главное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я більш ніж реальна. Але це зараз не головне."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0030",
+            "en": "Uh, I’m not, but that doesn’t mean I’m entirely sure you’re real.",
+            "ru_native": "Нет, я не галлюцинация. А вот не галлюцинация ли ты...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, я не галюцинація. А ось чи ти не галюцинація…"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0031",
+            "en": "After I placed my transmitter–dunno–that’s when it all went–well–you know how it went.",
+            "ru_native": "Я поставила передатчик и... Не знаю... Тогда-то все и... Ну, ты знаешь, что случилось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після того як я встановила радіопередавач… я не знаю… тоді все…,<br>ну, ти розумієш, пішло шкереберть."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0032",
+            "en": "I have no idea what happened! You – you’re okay, though?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я понятия не имею, что произошло! А ты - ты в порядке?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я гадки не маю, що сталося! Ти… з тобою все гаразд?"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0033",
+            "en": "Uh, you think I can retrace our steps in a logical – no, I don’t know what happened –",
+            "ru_native": "",
+            "ru_machine": "DEEPL Э-э, ты думаешь, я могу проследить наши шаги в логическом - нет, я не знаю, что произошло...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти думаєш, що я зможу повторити всі наші кроки… ні, я не знаю, що сталося…"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0034",
+            "en": "I came down here hoping to find you, hoping – hoping you would know!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я спустился сюда, надеясь найти тебя, надеясь - надеясь, что ты узнаешь!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я прийшла сюди, сподіваючись знайти тебе, сподіваючись… сподіваючись, що ти знаєш!"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0035",
+            "en": "Are you okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты в порядке?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд?"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0036",
+            "en": "There was a – wait, there was a – a giant triangle in the sky above Edwards. Right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL В небе над Эдвардсом был - подожди, был - гигантский треугольник. Верно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У небі над Едвардсом був… зачекай, був… гігантський трикутник. Правда?"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0037",
+            "en": "Did that – ?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это - ?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи те…"
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0038",
+            "en": "Jacob, honest question.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джейкоб, честный вопрос.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Джейкобе, от чесно."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0039",
+            "en": "In light of everything that just occurred, how would I know if I’m okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL В свете всего, что только что произошло, откуда мне знать, в порядке ли я.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У світлі всього, що щойно сталося, як я можу знати, чи зі мною все гаразд."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0040",
+            "en": "I… think I’m okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... думаю, со мной все в порядке?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю… зі мною все гаразд."
+        },
+        {
+            "tag": "A1S7.JACAJU_RILEY_0041",
+            "en": "I am… many, many miles from feeling… okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я... за много-много миль от того, чтобы чувствовать себя... нормально.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… за багато, багато кілометрів від того, щоби почуватися… добре."
+        }
+    ]
+}

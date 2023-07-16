@@ -1,0 +1,1752 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1PO.EV1CAL",
+    "entries": [
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0000_OPTION_0000",
+            "en": "Evelyn! This is crazy.",
+            "ru_native": "Эвелин! Тут такое...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін! Це божевілля."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0000_OPTION_0001",
+            "en": "A little busy here, Evelyn!",
+            "ru_native": "Я слегка занята!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи зайняті, Евелін!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0000_OPTION_0002",
+            "en": "We didn't turn it off.",
+            "ru_native": "Мы его не отключили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не вимкнули його."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0001_OPTION_0000",
+            "en": "I can’t describe it.",
+            "ru_native": "Не могу описать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не можу описати."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0001_OPTION_0001",
+            "en": "Time and space is going crazy.",
+            "ru_native": "Время и пространство сломаны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Час і простір злетіли з котушок."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0001_OPTION_0002",
+            "en": "Ghosts? I think?",
+            "ru_native": "Призраки? Ммм?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привиди? Здається?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0002_OPTION_0000",
+            "en": "What can we do?",
+            "ru_native": "Что нам делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ми можемо зробити?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0002_OPTION_0001",
+            "en": "I want out.",
+            "ru_native": "Я хочу домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хочу вийти."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0002_OPTION_0002",
+            "en": "I believe it!",
+            "ru_native": "Верю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вірю!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0003_OPTION_0000",
+            "en": "Sounds fishy.",
+            "ru_native": "Маловероятно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звучить сумнівно."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0003_OPTION_0001",
+            "en": "These things are too weak!",
+            "ru_native": "Они слишком слабые!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ці штуки надто слабкі!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0003_OPTION_0002",
+            "en": "How would that work?",
+            "ru_native": "Как это работает?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як це спрацює?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0004_OPTION_0000",
+            "en": "Violet's at Charity Point, right?",
+            "ru_native": "Вайолет ведь в Черити Поинт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет перебуває в Черіті-Пойнт, так?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0004_OPTION_0001",
+            "en": "Charlie's in the Woods...",
+            "ru_native": "Чарли где-то в лесу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі в лісі…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0004_OPTION_0002",
+            "en": "Olivia's doing stuff at Garland.",
+            "ru_native": "Оливия сейчас в Гарленде.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія чимось займається в Гарленді."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0005_OPTION_0000",
+            "en": "Yes.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0005_OPTION_0001",
+            "en": "It threatened us.",
+            "ru_native": "Это угроза.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це нам погрожує."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0005_OPTION_0002",
+            "en": "I don't know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0006_OPTION_0000",
+            "en": "It’s stopping something worse.",
+            "ru_native": "Он сдерживает нечто похуже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це зупиняє щось гірше."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0006_OPTION_0001",
+            "en": "We can’t!",
+            "ru_native": "Нельзя!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не можемо!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0006_OPTION_0002",
+            "en": "You don’t understand…",
+            "ru_native": "Ты не понимаешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не розумієш…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0007_OPTION_0000",
+            "en": "Great!",
+            "ru_native": "Отлично!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0007_OPTION_0001",
+            "en": "Let's go, then.",
+            "ru_native": "Тогда пошли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді ходімо."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0008_OPTION_0000",
+            "en": "Evelyn! This is crazy.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин! Это просто безумие.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін! Це божевілля."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0008_OPTION_0001",
+            "en": "We have a plan.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У нас есть план.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас є план."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0009_OPTION_0000",
+            "en": "Evelyn! This is crazy.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин! Это просто безумие.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін! Це божевілля."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0009_OPTION_0001",
+            "en": "A little busy here, Evelyn!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Немного занят здесь, Эвелин!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Трохи зайняті, Евелін!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0009_OPTION_0002",
+            "en": "We have a plan.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У нас есть план.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас є план."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0010_OPTION_0000",
+            "en": "Some old lady’s journals.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дневники какой-то старушки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоденники якоїсь бабусі."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0010_OPTION_0001",
+            "en": "Science!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Наука!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наука!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0010_OPTION_0002",
+            "en": "A wild guess, really.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дикое предположение, на самом деле.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді, лише припущення."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0010_OPTION_0003",
+            "en": "Some old lady’s journals.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дневники какой-то старушки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щоденники якоїсь бабусі."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0010_OPTION_0004",
+            "en": "Science!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Наука!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наука!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0010_OPTION_0005",
+            "en": "A wild guess, really.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дикое предположение, на самом деле.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді, лише припущення."
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0011_OPTION_0000",
+            "en": "Great!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Отлично!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_CHOICE_0011_OPTION_0001",
+            "en": "Let’s go, then.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Тогда поехали.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді ходімо."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0000",
+            "en": "Riley! Riley, thank God, okay—you’re okay—everything’s okay, okay that’s good.",
+            "ru_native": "Райли! Райли, слава богу, ты цела! Хорошо, это хорошо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Райлі, Дякувати Богу, гаразд…<br>з тобою все гаразд… усе гаразд, це добре."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0001",
+            "en": "[WT] You turned off the transmitter, thank you, that—",
+            "ru_native": "",
+            "ru_machine": "DEEPL [WT] Вы выключили передатчик, спасибо, это...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0002",
+            "en": "[WT] — that thing would have blown a chunk off the cliffside if you hadn’t, like, right when you did.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [WT] - эта штука снесла бы кусок со склона скалы, если бы ты не сделал этого, например, прямо в тот момент, когда ты это сделал.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0003",
+            "en": "[WT] But, uh, the readings we’re getting on our end, here… look really bad.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [Но показания, которые мы получаем с нашей стороны... выглядят очень плохо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0004",
+            "en": "I mean, it’s exciting! It’s next-level, uncharted waves of… something going on, but…",
+            "ru_native": "Нет, это круто! Абсолютно новые волны... Что-то происходит, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це ж як цікаво! Це невивчені хвилі наступного рівня… щось відбувається, але…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0005",
+            "en": "I’m sorry, I’m rambling, just—",
+            "ru_native": "Прости, тараторю о своем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я говорю недоладно, просто…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0006",
+            "en": "How are you doing and can you describe what you’re experiencing out there.",
+            "ru_native": "Расскажи, как ты и что у вас там происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як твої справи? Можеш описати, що ти там відчуваєш?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0007",
+            "en": "Do you need something?",
+            "ru_native": "Тебе нужно что-нибудь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі потрібно що-небудь?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0008",
+            "en": "We can’t send anybody out there due to the storm.",
+            "ru_native": "Мы не можем отправить людей из-за шторма.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не можемо нікого посилати туди через шторм."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0009",
+            "en": "But we do need a visual report.",
+            "ru_native": "Но нам необходим твой отчет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але нам потрібен звіт про візуальні спостереження."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0010",
+            "en": "And I just want to know you’re doing okay.",
+            "ru_native": "Да и я хочу знать, что ты в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я лише хочу переконатися, що з тобою все гаразд."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0011",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0012",
+            "en": "Okay, yeah, our readings over here from the weather station and frequency relays are…",
+            "ru_native": "Ну да, наши данные с метеостанции и частотных трансляторов довольно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, ваші дані з метеорологічної станції та частотного реле…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0013",
+            "en": " No, I don’t think you’re insane, Riley. Our weather station and relay measurements are… well—",
+            "ru_native": "Нет, Райли, это не бред. Данные с метеостанции и транслятора довольно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, Райлі, ти не божевільна.<br>Дані з нашої метеорологічної станції й частотного реле такі…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0014",
+            "en": "Just cause our readings over here, from the weather station and frequency relays?",
+            "ru_native": "Просто наши данные... Знаешь, с метеостанции и частотных трансляторов?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Через ваші дані з метеорологічної станції та частотного реле?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0015",
+            "en": "The little numbers are hopping like rabbits. It doesn’t make any sense, to be… perfectly frank.",
+            "ru_native": "Так вот, они скачут, как кролики. Я вообще ничего не понимаю, если честно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Маленькі цифри стрибають, як кролики. Якщо геть чесно, то я нічого не розумію."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0016",
+            "en": "We just know… based on these figures… there’s something electromagnetic that’s building in intensity…",
+            "ru_native": "По показателям можно предположить, что нечто<br>электромагнитное сейчас набирает мощность...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зважаючи на ці цифри… Нам відомо… щось електромагнітне підвищує напруженість…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0017",
+            "en": "And it can’t get to the range where it’s headed.",
+            "ru_native": "И пускать его в диапазон никак нельзя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І в жодному разі не можна пускати це в діапазон."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0018",
+            "en": "Existence wasn’t meant to sustain this much… chaos in the spectrum.",
+            "ru_native": "Реальность не выдержит такого напора... хаоса в спектре.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Реальність не витримає натиску<br>такого великого… хаосу в спектрі."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0019",
+            "en": "Or else, theoretically…",
+            "ru_native": "Иначе, в теории...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Інакше, теоретично…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0020",
+            "en": "…everything west of Houston is gonna be in big trouble.",
+            "ru_native": "Весь запад Хьюстона ждут большие неприятности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…усе, що перебуває на захід від Х’юстона, у великій небезпеці."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0021",
+            "en": "Like… be eradicated in heat death or…",
+            "ru_native": "Например, тепловая смерть или...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наприклад… теплове знищення або…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0022",
+            "en": "…spill into another dimension trouble.",
+            "ru_native": "...перенос в другое измерение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…перенесення до іншого виміру."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0023",
+            "en": "I’m… sorry, too, Riley, and I understand, believe me, but… I don’t think it’s going to be that easy.",
+            "ru_native": "Мне тоже жаль, Райли, и я прекрасно тебя понимаю, но... Боюсь, все не так просто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені… теж шкода, Райлі. І я розумію, повір, але… Не думаю, що буде легко."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0024",
+            "en": "I can’t just send someone out to get you and the roads aren’t safe with the weather.",
+            "ru_native": "Я не могу отправить к тебе людей, и дороги в такую погоду крайне опасны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу просто послати когось по тебе, та й дороги небезпечні за такої погоди."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0025",
+            "en": "You might be… stuck. But! There’s a but coming here.",
+            "ru_native": "Ты можешь застрять. Но! Есть одно «но».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, ти… застрягла. Але! Виникає одне «але»."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0026",
+            "en": "We can do some things, still. If we can—",
+            "ru_native": "Можно кое-что попробовать. Если мы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе ж дещо можна спробувати. Якщо ми зможемо…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0027",
+            "en": "[WT]  —if you can somehow block whatever signal is causing the distress…",
+            "ru_native": "",
+            "ru_machine": "DEEPL [WT] - если вы сможете каким-то образом заблокировать тот сигнал, который вызывает бедствие...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0028",
+            "en": "Uh, who's that? Over.",
+            "ru_native": "Кто это был? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Хто говорить? Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0029",
+            "en": "Uh, actually… this might work, Riley.",
+            "ru_native": "Вообще-то... Райли, это вариант.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді… це може спрацювати, Райлі."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0030",
+            "en": "Just… find the best points of triangulation. These can’t be close. They have to be exact.",
+            "ru_native": "Найди подходящие места для триангуляции. Не слишком близко. Выбирай с умом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки… знайди найкращі точки тріангуляції. І не приблизно, а точно."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0031",
+            "en": "Alright, I got a lot of stuff to get ready over here.",
+            "ru_native": "Ладно, мне тоже нужно кое-что подготовить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, мені треба багато чого зробити, щоби підготуватися."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0032",
+            "en": "Good luck, guys. Godspeed. Over and out.",
+            "ru_native": "Удачи, ребят. С богом. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Удачі, друзі. Хай щастить. Кінець зв’язку."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0033",
+            "en": "Riley? Are you there? Yeah, um, I’m sure you have your own complicated reasons for not doing that yet…",
+            "ru_native": "Райли? Ты там? Да, эм, уверена, у тебя были свои веские причины его не отключать...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там? Так. Гадаю, у тебе поважні причини не робити цього…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0034",
+            "en": "But that transmitter’s about to blow off a chunk of the cliffside and all of us with it if you don’t shut it down right now!",
+            "ru_native": "Но если ты прямо сейчас это не сделаешь, этот передатчик снесет кусок скалы<br>и всех нас заодно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але радіопередавач от-от вибухне й відколе шматок скелі й нас усіх разом,<br>якщо ти не вимкнеш його зараз же!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0035",
+            "en": "What’s the delay?",
+            "ru_native": "Чего ты ждешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У чому затримка?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0036",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0037",
+            "en": "[WT] I don’t know, either, but I can tell you we most likely won’t be around to talk about it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL [WT] Я тоже не знаю, но могу сказать, что, скорее всего, нас не будет рядом, чтобы поговорить об этом.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0038",
+            "en": "Riley? Are you there? Can you read me?",
+            "ru_native": "Райли? Ты там? Ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти там? Ти мене чуєш?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0039",
+            "en": "The readings we’re getting on our end, here… look really bad.",
+            "ru_native": "Мы тут получаем данные... все очень плохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Показання, які ми тут отримуємо… загрозливі."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0040",
+            "en": "Like… if you’re right, if that… transmitter is blocking the signal that’s causing the system distress… ",
+            "ru_native": "Если ты права и этот... передатчик блокирует сигнал, вызывающий сбой в системе... ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… якщо ти маєш рацію, якщо цей… радіопередавач<br>блокує сигнал, що спричиняє перебої в роботі системи… "
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0041",
+            "en": "Mm.",
+            "ru_native": "М-м.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мм."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0042",
+            "en": "Yeah, no, I can — we can see that.",
+            "ru_native": "Нет, я же... мы же все видим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Я бачу… ми бачимо це."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0043",
+            "en": "[over him] The climbing gear! The climbing gear—yes—Riley, I’m so sorry.",
+            "ru_native": "Альпинистское снаряжение! Точно, я же... Райли, прости меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Альпіністське спорядження! Альпіністське спорядження… так…<br>Райлі, мені дуже шкода."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0044",
+            "en": "The stuff you need is just sitting at the General Store right now, ugh.",
+            "ru_native": "Нужные тебе вещи лежат сейчас в магазине.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Те, що вам потрібно зараз просто лежить в універмазі. Дідько."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0045",
+            "en": "Hey, and I was going to suggest just throwing a brick through the window!",
+            "ru_native": "О, а я только хотела посоветовать разбить кирпичом стекло!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я збиралася запропонувати розбити вікно цеглиною!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0046",
+            "en": "But this is better.",
+            "ru_native": "Но так гораздо лучше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але так краще."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0047",
+            "en": "Yeah! Uh, what’s going on with the transmitters?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да! Э, что происходит с передатчиками?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так! Гм, що відбувається з радіопередавачами?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0048",
+            "en": "Riley? What plan? What’s going on?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Райли? Какой план? Что происходит?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Який план? Що відбувається?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0049",
+            "en": "Figured it out how?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Выяснил, каким образом?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З’ясували як?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0050",
+            "en": "What?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что?!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0051",
+            "en": "You “figured it out?”",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты \"разобрался в этом\"?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви «з’ясували»?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0052",
+            "en": "A wild guess?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дикое предположение?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лише припущення?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0053",
+            "en": "What?!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Что?!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що?!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0054",
+            "en": "A wild guess?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дикое предположение?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лише припущення?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0055",
+            "en": "Mm. Uh, actually… this – that might work.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мм. Вообще-то... это - может сработать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм. Насправді… це може спрацювати, Райлі."
+        },
+        {
+            "tag": "A1PO.EV1CAL_EVELYN_0056",
+            "en": "Ugh, and the stuff you need is just sitting at the General Store right now, ugh.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф, а вещи, которые тебе нужны, просто сидят сейчас в General Store, уф.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Те, що вам потрібно зараз просто лежить в універмазі. Дідько."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0000",
+            "en": "Well, wait, Evelyn, the—the transmitters are both a relay and a receiver… right? Over.",
+            "ru_native": "Постой, Эвелин! Передатчик – это одновременно транслятор и приемник, так? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій, стій, Евелін. Радіопередавач — це ж<br>одночасно транслятор і приймач, правильно? Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0001",
+            "en": "Hi. Jacob Summers. But, if they’re a relay as well…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Здравствуйте. Джейкоб Саммерс. Но, если они тоже являются эстафетой...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0002",
+            "en": "They used to have two radio towers—one near Garland, and one at the Ranger's Station—and when you were out…",
+            "ru_native": "Раньше тут были две радиовышки, одна у Гарленда, а<br>вторая у станции рейнджеров. Когда ты гулял по...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше було дві радіовежі: одна поруч із Гарлендом,<br>інша на станції наглядачів. І коли тебе не було…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0003",
+            "en": "…at Edwards Island? If you tuned your radio <i>just</i> right you could catch the station.",
+            "ru_native": "Острову Эдвардса? Можно было настроить радиоприемник и найти станцию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…на острові Едвардса? Якщо <i>правильно</i> налаштувати радіо, можна впіймати станцію."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0004",
+            "en": "But then you'd lose it on the ferry—it always confused me—I asked my Dad why, and he said, 'triangulation.'",
+            "ru_native": "Но на пароме сигнал почему-то терялся. Я спросил отца, и он сказал про «триангуляцию».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мене завжди спантеличувало, коли сигнал зникав на поромі.<br>Батько відповідав: «Тріангуляція»."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0005",
+            "en": "Riley, I think we can use your transmitters to triangulate radio signals to permanently cancel out… the big one.",
+            "ru_native": "Райли, с помощью передатчиков мы можем<br>триангулировать радиосигналы и навсегда заглушить... ту штуку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі, гадаю, ми можемо за допомогою твоїх радіопередавачів<br>знайти джерело радіосигналів і назавжди заблокувати найбільший."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0006",
+            "en": "Meaning whatever those kids try… it won’t work.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Значит, что бы ни пытались сделать эти дети... ничего не получится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0007",
+            "en": "I think we can.",
+            "ru_native": "Думаю, получится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, можемо."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0008",
+            "en": "I really do.",
+            "ru_native": "Почти уверен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Правда."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0009",
+            "en": "It could work.",
+            "ru_native": "Должно получиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це може спрацювати."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0010",
+            "en": "No, this wouldn't be — it wouldn't be hard. Hear me out.",
+            "ru_native": "Нет, это совсем не... Это несложно. Вот послушай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, це буде… це буде нескладно. Вислухай."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0011",
+            "en": "No, these things really would work.",
+            "ru_native": "Нет, они точно сработают.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ці штуки реально спрацюють."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0012",
+            "en": "It would be like the old radio towers—the geography's bend is like a natural amplifier.",
+            "ru_native": "Как и для старых радиовышек, ландшафт станет естественным усилителем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як зі старими радіовежами: рельєф місцевості виступає природним підсилювачем."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0013",
+            "en": "All we'd have to do is just place them, high above sea level.",
+            "ru_native": "Все, что нужно: установить их высоко над уровнем моря.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе, що нам потрібно, лише розмістити їх високо над рівнем моря."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0014",
+            "en": "No no, I think I know where they should go—One’s at Tootega Falls, past the Ranger's Station—",
+            "ru_native": "Нет-нет, кажется, я знаю, где их установить... Один в Тутега Фолз, за станцией рейнджеров...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0015",
+            "en": "One at the cliffs, at Charity Point. And one in the old mining town, Garland.",
+            "ru_native": "Один на скалах Черити Поинт. И один в шахтерском городке Гарленд.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0016",
+            "en": "And that should be enough.",
+            "ru_native": "Этого хватит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0017",
+            "en": "I think.",
+            "ru_native": "Думаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0018",
+            "en": "Uh, I think so. The other brat, Charlie, said he was going to steal supplies from the Ranger's Station.",
+            "ru_native": "Кажется, да. Пацан, Чарли, сказал, что украдет припасы на станции рейнджеров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0019",
+            "en": "And Olivia mentioned Garland…",
+            "ru_native": "А Оливия упомянула Гарленд...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0020",
+            "en": "Uh, I think so. And the other one, Violet's, at Charity Point, she said.",
+            "ru_native": "Кажется, да. Вайолет сказала, что сейчас в Черити Поинт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0021",
+            "en": "And Olivia mentioned Garland…",
+            "ru_native": "А Оливия упомянула Гарленд...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0022",
+            "en": "Yeah, she said something about going to Garland. The other brat, Charlie, said he was going to steal supplies from the Ranger's Station.",
+            "ru_native": "Да, она собиралась в Гарленд. Пацан, Чарли, сказал, что украдет припасы на станции рейнджеров.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0023",
+            "en": "And Violet's at Charity Point, I think.",
+            "ru_native": "Кажется, Вайолет в Черити Поинт.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0024",
+            "en": "Okay, real quick, before we really get into the whole… let's go… do dangerous stuff, stuff—",
+            "ru_native": "Так, погоди. Пока мы с головой не кинулись в эти ваши крайне опасные дела...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Перш ніж пуститися до цієї… небезпечної… авантюри…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0025",
+            "en": "We just saw a ghost. Right? That was… what… that was.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы только что видели призрака. Верно? Это было... что... это было.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0026",
+            "en": "Right?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Правильно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0027",
+            "en": "Happier, yes. A little. Thank you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Счастливее, да. Немного. Спасибо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0028",
+            "en": "Okay. Alright.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Хорошо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0029",
+            "en": "Well... I think I do.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну... Думаю, что да.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0030",
+            "en": "Okay. Fine.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Отлично.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0031",
+            "en": "Hi. Jacob Summers. Handyman. But, uh, if they’re a relay as well… ",
+            "ru_native": "Привет. Джейкоб Саммерс, разнорабочий. Если они служат ретрансляторами... ",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Привіт. Джейкоб Саммерс. Майстер на всі руки. Але якщо це також транслятор… "
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0032",
+            "en": "Alright, so… the coast can be… hard to navigate.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, так... побережье может быть... трудно ориентироваться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0033",
+            "en": "We don’t have the right climbing gear to really get to those spots -- I’ve tried before, it sucks.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У нас нет подходящего альпинистского снаряжения, чтобы по-настоящему добраться до этих мест - я уже пытался, получилось хреново.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0034",
+            "en": "So, uh, mmph -- let’s -- actually let’s go back to the Docks, first.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Итак, ммм... давайте... на самом деле давайте сначала вернемся в доки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0035",
+            "en": "I think the General Store has some equipment that will work.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Думаю, в General Store есть оборудование, которое подойдет.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0036",
+            "en": "And, uh...real quick, before we really get into the whole... let's go... do dangerous stuff, stuff --",
+            "ru_native": "",
+            "ru_machine": "DEEPL И, эм... очень быстро, прежде чем мы действительно перейдем ко всему этому... давайте... делать опасные вещи, вещи...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0037",
+            "en": "We, uh, actually we won’t be able to get to any of those spots without the right equip —",
+            "ru_native": "Мы так-то не сможем попасть ни в одно из этих мест без подходящего снаря...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Насправді ми не зможемо дістатися до тих точок без потрібного облад…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0038",
+            "en": "Oh, wait—that’s good!",
+            "ru_native": "Погоди, это же отлично!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, чекай… це добре!"
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0039",
+            "en": "That’s Fred Hollinger’s place—he’s a buddy of mine.",
+            "ru_native": "Им владеет Фред Холлингер, мой друг.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Універмаг належить Фреду Холлінгеру. Він — мій приятель."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0040",
+            "en": "He keeps a spare key to the front door behind the back doormat.",
+            "ru_native": "Запасной ключ от двери – под ковриком на заднем дворе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він тримає запасний ключ під килимком біля задніх дверей."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0041",
+            "en": "We’ll just put the transmitters at the three highest points around the bay.",
+            "ru_native": "Просто установим передатчики в трех самых высоких точках залива.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми розташуємо радіопередавачі в трьох найвищих точках затоки."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0042",
+            "en": "This will work just fine, really.",
+            "ru_native": "Это сработает, точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це спрацює відмінно."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0043",
+            "en": "Evelyn? Hey, it’s Jacob. Yeah, we know it’s bad and getting worse, but…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эвелин? Привет, это Джейкоб. Да, мы знаем, что все плохо и становится еще хуже, но...",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін? Гей, це Джейкоб. Так, ми знаємо що все погано і стає ще гіршим, але…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0044",
+            "en": "We figured out that if we use the transmitters to nullify the bad frequencies, it can diffuse them completely.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы выяснили, что если использовать передатчики для обнуления плохих частот, то это может полностью рассеять их.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з’ясували, що якщо використовувати радіопередавачі для того,<br>щоб звести нанівець погані частоти, вони можуть повністю розсіяти їх."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0045",
+            "en": "No! Well, yes, but – she was an expert in radio tech during the war, Evelyn – she lived here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет! Ну, да, но - она была экспертом по радиотехнике во время войны, Эвелин - она жила здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Ну, так, але — вона була експертом із радіотехніки<br>під час війни, Евелін — вона жила тут."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0046",
+            "en": "Just – don’t worry, we know what to do. The transmitters will act as a net.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто - не волнуйся, мы знаем, что делать. Передатчики будут действовать как сеть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто — не хвилюйся, ми знаємо, що робити. Радіопередавачі діятимуть як мережа."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0047",
+            "en": "Just – don’t worry, we know what to do. The transmitters will act as a net.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто - не волнуйся, мы знаем, что делать. Передатчики будут действовать как сеть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто — не хвилюйся, ми знаємо, що робити. Радіопередавачі діятимуть як мережа."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0048",
+            "en": "No! No, we have it on very good authority from an expert in this stuff that this will work.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет! Нет, у нас есть очень надежные сведения от эксперта в этой области, что это сработает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Ні, у нас є інформація від експерта в цій галузі, що це спрацює."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0049",
+            "en": "Just – don’t worry, we know what to do. The transmitters will act as a net.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто - не волнуйся, мы знаем, что делать. Передатчики будут действовать как сеть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто — не хвилюйся, ми знаємо, що робити. Радіопередавачі діятимуть як мережа."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0050",
+            "en": "Just – don’t worry, we know what to do. The transmitters will act as a net.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто - не волнуйся, мы знаем, что делать. Передатчики будут действовать как сеть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто — не хвилюйся, ми знаємо, що робити. Радіопередавачі діятимуть як мережа."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0051",
+            "en": "No! Well, yes, but – she was an expert in radio tech during the war, Evelyn – she lived here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет! Ну, да, но - она была экспертом по радиотехнике во время войны, Эвелин - она жила здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Ну, так, але — вона була експертом із радіотехніки<br>під час війни, Евелін — вона жила тут."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0052",
+            "en": "Just – don’t worry, we know what to do. The transmitters will act as a net.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто - не волнуйся, мы знаем, что делать. Передатчики будут действовать как сеть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто — не хвилюйся, ми знаємо, що робити. Радіопередавачі діятимуть як мережа."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0054",
+            "en": "No! No, we have it on very good authority from an expert in this stuff that this will work.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет! Нет, у нас есть очень надежные сведения от эксперта в этой области, что это сработает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні! Ні, у нас є інформація від експерта в цій галузі, що це спрацює."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0055",
+            "en": "All we'd have to do is just place them high above sea level and it’ll knock out the signal that’s screwing everything up.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всё, что нам нужно сделать, это просто разместить их высоко над уровнем моря, и они будут вырубать сигнал, который всё портит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе, що нам потрібно, лише розмістити їх високо над рівнем моря<br>і це заглушить сигнал, який усе псує."
+        },
+        {
+            "tag": "A1PO.EV1CAL_JACOB_0056",
+            "en": "That’s not a big deal – that’s Fred Hollinger’s place — he’s a buddy of mine.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ничего особенного - это место Фреда Холлингера - он мой приятель.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не проблема. Універмаг належить Фреду Холлінгеру. Він — мій приятель."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0000",
+            "en": "Hey, Evelyn, do you, uh, see or, like, know how insane this is getting? Over.",
+            "ru_native": "Эвелин, слушай... Ты в курсе, какая дичь тут происходит? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін, ти… ем… бачиш чи розумієш, якою божевільною стає ситуація? Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0001",
+            "en": "Uh, I’m a little busy here, Evelyn. You need something? Over.",
+            "ru_native": "Эвелин, я тут слегка занята. Тебе что-то нужно? Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… У мене тут невеликі справи, Евелін. Тобі що-небудь потрібно? Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0002",
+            "en": "Honestly, Evelyn… I don’t even know how to describe it, but… things aren’t good.",
+            "ru_native": "Эвелин, если честно... Не знаю, как это описать, но... ничего хорошего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо чесно, Евелін… Я навіть і не знаю, як описати це… але недобре."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0003",
+            "en": "Something’s happened… I’m not sure what. But I think I’m stuck. Over.",
+            "ru_native": "Произошло что-то... Непонятное. Кажется, я застряла. Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щось сталося… Не знаю, що. Але, здається, я застрягла. Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0004",
+            "en": "Evelyn, uh… how do I put this?",
+            "ru_native": "Эвелин... Как бы сказать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, ем… як це сказати?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0005",
+            "en": "I think somebody did something to, uh, time and space, somehow, and, uh, broke… everything.",
+            "ru_native": "Думаю, кто-то что-то сделал со временем и пространством и как-то все сломал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, хтось зробив щось із часом і простором і… ем… усе порушив."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0006",
+            "en": "I know this sounds insane, but…",
+            "ru_native": "Знаю, звучит как бред, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю, звучить божевільно, але…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0007",
+            "en": "I think there are ghosts… out here with me, and it’s… screwing up how time works?",
+            "ru_native": "Мне кажется, здесь призраки... И это они как-то искажают время.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, зі мною поруч є привиди. І час працює неправильно."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0008",
+            "en": "Okay. Okay… what can we do—what’s going on.",
+            "ru_native": "Ладно. Ладно... Что делать? Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд… що ми можемо зробити? Що відбувається?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0009",
+            "en": "Alright, Evelyn… I’m sorry, but this is obviously much more than I signed up for.",
+            "ru_native": "Слушай, Эвелин... Прости, но на подобное я не подписывалась.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, Евелін… Вибач, але це вочевидь набагато більше,<br>ніж те, на що я підписувалася."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0010",
+            "en": "I think I just want out at this point. I’m sorry, but… c’mon. Over.",
+            "ru_native": "Я уже хочу свалить отсюда. Мне жаль, но... Нет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, наразі я просто хочу кинути це. Вибач, але… зрозумій. Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0011",
+            "en": "Uh, yeah, I can believe it. With the stuff I’m seeing out here, yeah.",
+            "ru_native": "Да, я тебе верю. Учитывая все, что я тут видела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… так, я вірю. З огляду на те, що я тут бачу, так."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0012",
+            "en": "I don’t know. Does this sound… plausible to you?",
+            "ru_native": "Не знаю. Звучит как-то... неубедительно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю. Ти гадаєш, це реально?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0013",
+            "en": "These transmitters are for environmental research, Jacob, they pick up... toasters, you know?",
+            "ru_native": "Это передатчики для экологического исследования, они могут максимум поймать... тостер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ці радіопередавачі призначені для екологічних досліджень, Джейкобе.<br>Вони зможуть упіймати хіба що… тостер."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0014",
+            "en": "I don't think these things can broadcast that far…",
+            "ru_native": "Сомневаюсь, что они покроют такое расстояние...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що сигнал передається так далеко…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0015",
+            "en": "Eh, I'm not seeing the connection here. How would this work, exactly?",
+            "ru_native": "Что-то я не вижу связи. Как именно это должно сработать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… Не бачу зв’язку. Як саме це спрацює?"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0016",
+            "en": "Isn't Violet—didn't she say she's stuck at Charity Point?",
+            "ru_native": "Вайолет разве не застряла в Черити Поинт?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0017",
+            "en": "Charlie—he's the one going to the Ranger's Station. Right?",
+            "ru_native": "Чарли... Он собирался на станцию рейнджеров. Так?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0018",
+            "en": "Didn't Olivia mention… the mine, or—?",
+            "ru_native": "Оливия упомянула... шахту?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0019",
+            "en": "Yes. Happy?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да. Счастлив?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0020",
+            "en": "Can we just not mention the part where the ghost threatened us.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Можно просто не упоминать ту часть, где призрак угрожал нам.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0021",
+            "en": "I don't know, Jacob. I really don't know.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не знаю, Джейкоб. Я действительно не знаю.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0022",
+            "en": "Hey, Evelyn… so… I’m guessing you want to know why the transmitter’s still running? Over.",
+            "ru_native": "Привет, Эвелин... так... Ты, наверное, хочешь узнать, почему передатчик еще работает?<br>Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін… Отже… Гадаю, ти хочеш знати,<br>чому радіопередавач досі працює? Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0023",
+            "en": "Evelyn, look, this transmitter appears to be stopping something much, much worse from…",
+            "ru_native": "Эвелин, слушай, этот передатчик, похоже, мешает чему-то похуже...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, слухай, здається, цей радіопередавач<br>зупиняє щось набагато, набагато гірше…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0024",
+            "en": "…I don’t even know what it’s going to do, but—",
+            "ru_native": "Я даже не представляю, что произойдет, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…Навіть не знаю, що він робитиме, але…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0025",
+            "en": "Evelyn, I’m sorry, but we can’t. Yet. It’s… there’s something bigger out here, and…",
+            "ru_native": "Эвелин, извини, но мы не можем. Пока. Тут... тут кое-что посерьезней, и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, вибач, але ми не можемо. Поки що. Це… тут щось більше, і…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0026",
+            "en": "Evelyn, I’m really sorry, but this is hard to explain, and you don’t understand what’s going on.",
+            "ru_native": "Эвелин, мне правда жаль, но это трудно объяснить, а ты не в курсе, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Евелін, мені справді шкода, але це важко пояснити,<br>і ти не розумієш, що відбувається."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0027",
+            "en": "There’s… a bigger problem out here, we think. And…",
+            "ru_native": "Тут... проблема посерьезней, как нам кажется. И...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут… ми гадаємо, виявилася більша проблема. І…"
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0028",
+            "en": "Thank God for small towns.",
+            "ru_native": "Боже, храни маленькие городки.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякувати Богу за маленькі міста."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0029",
+            "en": "Okay, let’s go.",
+            "ru_native": "Ладно, погнали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, ходімо."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0030",
+            "en": "Hey, Evelyn… so… things are bad, but… we have a plan. Sort of. Over.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эй, Эвелин... так... дела плохи, но... у нас есть план. Вроде того. Прием.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, Евелін… отже…погані справи, але… у нас є план. Щось на зразок. Прийом."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0031",
+            "en": "Some old lady’s journals Jacob had lying around.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У Джейкоба валялись дневники какой-то старушки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У Джейкоба валялися щоденники якоїсь бабусі."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0032",
+            "en": "We figured it out with the power of science! And, uh, Jacob’s knowledge of all this stuff.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы разобрались в этом с помощью силы науки! И, к тому же, знания Джейкоба обо всех этих вещах.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з’ясували це за допомогою сили науки! І, гм, знання Джейкоба про все це."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0033",
+            "en": "Well, we have a theory… some might call it more like a wild guess.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, у нас есть теория... некоторые могут назвать ее скорее дикой догадкой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, у нас є теорія… дехто може назвати її лише припущенням."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0034",
+            "en": "Some old lady’s journals Jacob had lying around.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У Джейкоба валялись дневники какой-то старушки.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У Джейкоба валялися щоденники якоїсь бабусі."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0035",
+            "en": "We figured it out with the power of science! And, uh, Jacob’s knowledge of all this stuff.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы разобрались в этом с помощью силы науки! И, к тому же, знания Джейкоба обо всех этих вещах.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми з’ясували це за допомогою сили науки! І, гм, знання Джейкоба про все це."
+        },
+        {
+            "tag": "A1PO.EV1CAL_RILEY_0036",
+            "en": "Well, we have a theory… some might call it more like a wild guess.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ну, у нас есть теория... некоторые могут назвать ее скорее дикой догадкой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, у нас є теорія… дехто може назвати її лише припущенням."
+        }
+    ]
+}

@@ -1,0 +1,618 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S4.JARITO",
+    "entries": [
+        {
+            "tag": "A3S4.JARITO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0000_OPTION_0000",
+            "en": "It’s crazy unstable.",
+            "ru_native": "Какое-то безумие.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це якесь божевілля."
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0000_OPTION_0001",
+            "en": "Where’s Olivia?",
+            "ru_native": "Где Оливия?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Олівія?"
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0000_OPTION_0002",
+            "en": "Let’s hurry.",
+            "ru_native": "Бежим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хутчій."
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0001_OPTION_0000",
+            "en": "That was a long time ago.",
+            "ru_native": "Это было очень давно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це було давно."
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0001_OPTION_0001",
+            "en": "I never did that.",
+            "ru_native": "Никогда не ездила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ніколи такого не робила."
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0001_OPTION_0002",
+            "en": "Wish we could do that now.",
+            "ru_native": "Вот бы сейчас повеселиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От би зараз повеселитися."
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0002_OPTION_0000",
+            "en": "[Joke] Yeah, take the boat.",
+            "ru_native": "[Шутка] Да, бери лодку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Жарт] Так, візьмімо човен."
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0002_OPTION_0001",
+            "en": "Next time.",
+            "ru_native": "В другой раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наступного разу."
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0003_OPTION_0000",
+            "en": "Nice to see it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Приятно было на это посмотреть.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Рада бачити."
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0003_OPTION_0001",
+            "en": "Did you come here often?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты часто сюда приходил?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тут часто бував?"
+        },
+        {
+            "tag": "A3S4.JARITO_CHOICE_0003_OPTION_0002",
+            "en": "Where’s Olivia?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Где Оливия?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Олівія?"
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0000",
+            "en": "Edwards Island. Best pancakes in thirty miles. Not many people know that.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Остров Эдвардс. Лучшие блинчики за тридцать миль. Об этом мало кто знает.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0001",
+            "en": "Oh. Crap. This is—",
+            "ru_native": "",
+            "ru_machine": "DEEPL Oh. Дерьмо. Это...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0002",
+            "en": "Oof. Ugh—okay.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уф. Уф-окей.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0003",
+            "en": "Things on the island seem a little different since the last time I last came for brunch.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Кажется, всё на острове немного изменилось с того момента, когда я в последний раз приезжал на поздний завтрак.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0004",
+            "en": "I feel hot but my hands are cold…",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я чувствую себя горячим, но мои руки холодные...",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0005",
+            "en": "Does that make sense?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Имеет ли это смысл?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0006",
+            "en": "Everything’s falling apart.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Всё разваливается на части.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0007",
+            "en": "No, but she’s got a good head start. C’mon.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Нет, но у нее хороший старт. Давай.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0008",
+            "en": "Yeah.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0009",
+            "en": "I… think I remember how to get to the old Communications Tower.",
+            "ru_native": "Кажется, я помню, как добраться до старой башни связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, я пам’ятаю, як дістатися до старої радіовежі."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0010",
+            "en": "Richard Harden Tower? Dick Harden. [chuckles] You’ll, uh, you’ll see.",
+            "ru_native": "Вышка Ричарда Твердена? Дик Тверден. Сама увидишь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вежа Хардена? Дік Харден. [хихикає] побачиш."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0011",
+            "en": "Just head for the stairs.",
+            "ru_native": "Поднимись по лестнице.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто прямуй до сходів. "
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0012",
+            "en": "God, this place, even like ten years ago.",
+            "ru_native": "Уже десять лет назад здесь было...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ще десять років тому тут було…"
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0013",
+            "en": "This was like \"it\", you know?",
+            "ru_native": "Лучшее место для сходок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це місце «саме те», розумієш?"
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0014",
+            "en": "You’d come here on the weekends, run around, get lost in the woods… sneak off. Smoke, drink…",
+            "ru_native": "Приезжаешь на выходные, бегаешь, теряешься в лесу... Куришь, пьешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Приїздиш на вихідні, бігаєш, губишся в лісі… Куриш, п’єш…"
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0015",
+            "en": "Take the ferry back at sunset.",
+            "ru_native": "На закате забираешься на паром.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На заході сонця сідаєш на пором."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0016",
+            "en": "Tell your parents half of what happened—",
+            "ru_native": "Рассказываешь родителям только половину...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Батькам розповідаєш половину від того, що сталося."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0017",
+            "en": "It was… fun.",
+            "ru_native": "Было весело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було… весело."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0018",
+            "en": "Just having nothing to do.",
+            "ru_native": "Ноль забот и куча времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Турбот немає, вільного часу вдосталь."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0019",
+            "en": "And filling it with… stuff.",
+            "ru_native": "И ты находишь себе занятия.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Треба ж чимось його заповнити."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0020",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0021",
+            "en": "I’m sure it will one day.",
+            "ru_native": "Когда-нибудь он затонет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Колись таки потоне."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0022",
+            "en": "Yeah. I can see that. With you, I mean.",
+            "ru_native": "Могу представить. Ты такая.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можу уявити. Це схоже на тебе."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0023",
+            "en": "It’s just very different now.",
+            "ru_native": "Сейчас здесь все по-другому.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зараз усе по-іншому."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0024",
+            "en": "Everything is, I guess, though.",
+            "ru_native": "Хотя все в жизни меняется.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоча в житті все міняється."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0025",
+            "en": "I can run back!",
+            "ru_native": "Могу сбегать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можу збігати!"
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0026",
+            "en": "Always time for a keg run.",
+            "ru_native": "За пивком всегда готов.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "По пиво завжди готовий."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0027",
+            "en": "Sure thing.",
+            "ru_native": "Без проблем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0028",
+            "en": "Maybe this weekend…",
+            "ru_native": "Может, на выходных...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, цими вихідними…"
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0029",
+            "en": "But, anyways… I was just saying this place was <i>the</i> party spot when I was in school.",
+            "ru_native": "Я хотел сказать, что в школьное время здесь было главное место для сходок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я хотів сказати, що в шкільні часи це було <i>головне</i> місце для тусовок."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0030",
+            "en": "Not that I did too much of that stuff.",
+            "ru_native": "Я не особо часто тут бывал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Проте я не дуже часто тут бував."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0031",
+            "en": "But… I knew about it.",
+            "ru_native": "Но был в курсе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… мені відомо про нього."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0032",
+            "en": "It always sounded fun.",
+            "ru_native": "Думал, тут супер весело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Воно завжди здавалося кльовим."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0033",
+            "en": "Edwards Island.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Остров Эдвардс.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Острів Едвардса."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0034",
+            "en": "It’s been a while.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Прошло уже немало времени.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Минуло багатенько часу."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0035",
+            "en": "For me at least.",
+            "ru_native": "",
+            "ru_machine": "DEEPL По крайней мере, для меня.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для мене, принаймні."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0036",
+            "en": "Oh, sure! During the summer? All the time.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да, конечно! В течение лета? Постоянно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звичайно! А влітку взагалі весь час тут проводив."
+        },
+        {
+            "tag": "A3S4.JARITO_JACOB_0037",
+            "en": "Wasn’t really a family tradition, but something my brother and I would do when we got bored.",
+            "ru_native": "",
+            "ru_machine": "DEEPL На самом деле это была не семейная традиция, а то, чем мы с братом занимались, когда нам было скучно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не родинна традиція, просто з братом розганяли нудьгу."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0000",
+            "en": "It’s—yeah, everything’s unstable. I didn’t expect everything to be this bad.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это... да, всё нестабильно. Я не ожидал, что все будет настолько плохо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0001",
+            "en": "I don’t know why I have the nerve to expect anything, anymore.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я уже не знаю, почему у меня хватает наглости чего-то ожидать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0002",
+            "en": "Where’s Olivia? Do you see her?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Где находится Оливия? Ты её видишь?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0003",
+            "en": "I don’t see Olivia. Let’s hurry—try to catch up with her.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не вижу Оливию. Давай поторопимся - попробуем догнать ее.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0004",
+            "en": "Yeah, well… that was a long time ago.",
+            "ru_native": "Да... Но это было очень давно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так.. Але це було давно."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0005",
+            "en": "Edwards Island has been a relic for a while. Just let it sink.",
+            "ru_native": "Остров Эдвардса уже стал пережитком. Его проще затопить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Острів Едвардса став пережитком. Хай собі тоне."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0006",
+            "en": "Yeah, well, I never did any of that.",
+            "ru_native": "Я никогда не ездила.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ніколи цього не робила."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0007",
+            "en": "I’d watch other kids talk about their fun party weekends Monday at school, and… I don’t know—",
+            "ru_native": "Наблюдала, как остальные рассказывают о прошедших вечеринках и... Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я чула, як учні в школі розповідали про<br>цікаву вечірку на вихідних у понеділок і… Не знаю."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0008",
+            "en": "I think it made me want to go even less.",
+            "ru_native": "От этого ехать еще меньше хотелось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть мені ще менше хотілося побувати там."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0009",
+            "en": "Hey, I wish we could do that, now.",
+            "ru_native": "Вот бы сейчас закатить вечеринку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, от би зараз повеселитися."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0010",
+            "en": "You bring the beer and pipe, I’ll bring the hilarious anecdotes?",
+            "ru_native": "За тобой пиво и сижки, за мной уморительные истории.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З тебе пиво й сигарети, з мене смішні анекдоти."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0011",
+            "en": "Yeah, take the skiff. Olivia can wait.",
+            "ru_native": "Да, бери лодку. Оливия подождет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, бери човен. Олівія почекає."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0012",
+            "en": "Rain check.",
+            "ru_native": "В другой раз.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відстрочимо."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0013",
+            "en": "Yeah. It’s, um, it’s nice to see it. Still standing.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Да. Это, гм, приятно видеть. Всё ещё стоит.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Приємно бачити, що він ще стоїть собі."
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0014",
+            "en": "Did you come here often? When you were younger, I mean?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты часто сюда приходил? Когда ты был моложе, я имею в виду?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти тут часто бував? У роки своєї юності?"
+        },
+        {
+            "tag": "A3S4.JARITO_RILEY_0015",
+            "en": "Where’s Olivia? I mean – we know where she’s going, but how do we get there?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Где находится Оливия? То есть - мы знаем, куда она направляется, но как туда попасть?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де Олівія? Ми знаємо, куди вона прямує, але як нам туди дістатись?"
+        }
+    ]
+}

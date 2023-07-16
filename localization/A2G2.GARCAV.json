@@ -1,0 +1,825 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2G2.GARCAV",
+    "entries": [
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0000_OPTION_0000",
+            "en": "[LIE] Don’t remember.",
+            "ru_native": "[Ложь] Не помню.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[БРЕХНЯ] Не пам’ятаю."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0000_OPTION_0001",
+            "en": "My Dad.",
+            "ru_native": "Из-за отца.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мій батько."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0000_OPTION_0002",
+            "en": "Too many bad memories.",
+            "ru_native": "Слишком много плохих воспоминаний.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Надто багато поганих спогадів."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0001_OPTION_0000",
+            "en": "I always felt older.",
+            "ru_native": "Я всегда чувствовала себя старше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я завжди відчувала себе старше за свій вік."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0001_OPTION_0001",
+            "en": "I never wanted to grow up.",
+            "ru_native": "Я никогда не хотела взрослеть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ніколи не хотіла дорослішати."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0001_OPTION_0002",
+            "en": "I don’t really understand.",
+            "ru_native": "Я не совсем понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не зовсім розумію."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0002_OPTION_0000",
+            "en": "Doesn’t make anything easier.",
+            "ru_native": "Легче не будет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Легше не буде."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0002_OPTION_0001",
+            "en": "You should have.",
+            "ru_native": "Стоило бы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі слід було."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0002_OPTION_0002",
+            "en": "Don’t worry about it.",
+            "ru_native": "Не забивай голову.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйся про це."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0003_OPTION_0000",
+            "en": "I might have a tail.",
+            "ru_native": "Может, у меня есть хвост.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, у мене є хвіст."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0003_OPTION_0001",
+            "en": "It’s not stupid.",
+            "ru_native": "Это не глупо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не дурниці."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0003_OPTION_0002",
+            "en": "We all do it.",
+            "ru_native": "Мы все это делаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У всіх таке буває."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0004_OPTION_0000",
+            "en": "Anytime.",
+            "ru_native": "Обращайся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Завжди будь ласка."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0004_OPTION_0001",
+            "en": "Thank you.",
+            "ru_native": "Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякую тобі."
+        },
+        {
+            "tag": "A2G2.GARCAV_CHOICE_0004_OPTION_0002",
+            "en": "We’re not done yet.",
+            "ru_native": "Мы еще не закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми ще не закінчили."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0000",
+            "en": "This is a random question but what made you move away?",
+            "ru_native": "Просто любопытно, почему ты уехала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Випадкове запитання. Що змусило тебе виїхати?"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0001",
+            "en": "Sorry, I was asking what made you move away?",
+            "ru_native": "Прости, я спросил, почему ты уехала?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, я запитав, що змусило тебе виїхати?"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0002",
+            "en": "From, uh, Camena I mean…",
+            "ru_native": "Из Камены, в смысле...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З Камени…"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0003",
+            "en": "After high school.",
+            "ru_native": "После школы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Після школи."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0004",
+            "en": "Move away from Camena…",
+            "ru_native": "Уехала из Камены...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Виїхати з Камени…"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0005",
+            "en": "Just a feeling…",
+            "ru_native": "Просто наитие...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто відчуття…"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0006",
+            "en": "Yeah.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0007",
+            "en": "Nevermind. Let’s just focus on the transmitter.",
+            "ru_native": "Проехали. Сосредоточимся на передатчике.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай. Зосередься на радіопередавачі."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0008",
+            "en": "“Everybody wants to go to heaven, but nobody wants to die—”",
+            "ru_native": "«Все хотят попасть в рай, но никто не хочет умирать...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Усі хочуть потрапити до раю, але ніхто не хоче вмирати…»"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0009",
+            "en": "I don’t know why I keep thinking about that.",
+            "ru_native": "Не знаю, почему это вертится в голове.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чому я все думаю про це."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0010",
+            "en": "Maybe cause—as a kid, I wanted to be treated like an adult but without growing up.",
+            "ru_native": "Может, потому что в детстве я хотел оставаться<br>ребенком, но чтобы ко мне относились как к взрослому.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, тому що в дитинстві мені хотілося, щоби до мене ставилися як до дорослого."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0011",
+            "en": "But I was—I was saying that as a kid… I wanted to hurry up and grow up without actually becoming an adult.",
+            "ru_native": "Я... я говорил, что в детстве... Я хотел<br>побыстрее вырасти, но при этом оставаться ребенком.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я говорив, що в дитинстві… Я хотів скоріше вирости,<br>але водночас залишатися дитиною."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0012",
+            "en": "I’m sure most kids feel like that.",
+            "ru_native": "Уверен, большинство детей думают так же.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Упевнений, що багато дітей хочуть того ж."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0013",
+            "en": "“I want to stay up all night and do whatever I want…”",
+            "ru_native": "«Хочу не спать всю ночь и делать что угодно...»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Хочу не спати всю ніч і робити що забажаю…»"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0014",
+            "en": "“…but I don’t want any bills to pay.”",
+            "ru_native": "«...но не хочу оплачивать счета».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«…але не хочу сплачувати рахунки»."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0015",
+            "en": "You know?",
+            "ru_native": "Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш?"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0016",
+            "en": "Most kids think like that, I’m sure.",
+            "ru_native": "Большинство детей так думает, я уверен.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Більшість дітей хочуть того, я впевнений."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0017",
+            "en": "No?",
+            "ru_native": "Нет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні?"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0018",
+            "en": "There’s just something about Garland—how the town just… couldn’t keep up with history.",
+            "ru_native": "Просто Гарленд... этот город просто... не поспевал за историей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто Гарленд… це місто… не встигало за історією."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0019",
+            "en": "It must make me babble about all this stuff cause I never left Camena. And I sometimes wonder if I should’ve.",
+            "ru_native": "Я почему спрашиваю, я сам никогда из Камены не уезжал. И иногда думаю – а стоит ли?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я теревеню про ці речі, тому що ніколи не покидав Камени.<br>Іноді мені цікаво, чи взагалі покину."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0020",
+            "en": "Anyways, I—I’ve just been thinking how I maybe… should’ve left town when I… had more of an inclination.",
+            "ru_native": "В общем, я тут подумал, наверное... стоило уехать, когда было больше желания.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай там як, я тут думаю, може… варто було поїхати з міста,<br>коли… у мене було бажання."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0021",
+            "en": "My life would be really different.",
+            "ru_native": "Моя жизнь могла быть совсем другой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Моє життя насправді було б іншим."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0022",
+            "en": "I wouldn’t be here, for one thing.",
+            "ru_native": "С одной стороны, меня бы тут не было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З одного боку, мене б тут не було."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0023",
+            "en": "Which… has its pluses and minuses.",
+            "ru_native": "В чем... есть свои плюсы и минусы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У цьому… є свої плюси й мінуси."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0024",
+            "en": "Everything would just be so different.",
+            "ru_native": "Все было бы по-другому.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе було б просто іншим."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0025",
+            "en": "You know?",
+            "ru_native": "Понимаешь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Розумієш?"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0026",
+            "en": "Yeah, but it makes things different. Which is something.",
+            "ru_native": "Да, но будет по-другому. А это уже кое-что.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але все змінюється. Це вже щось."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0027",
+            "en": "Yeah, I know. If we, uh, survive whatever’s happening right now.",
+            "ru_native": "Да, знаю. Если мы, хм, выживем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, знаю. Якщо ми переживемо те, що… відбувається зараз."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0028",
+            "en": "You make it sound… [changes him mind] I don’t know.",
+            "ru_native": "Ты так говоришь... Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти так говориш… [міняє думку] Я не знаю."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0029",
+            "en": "I just always hated that expression. “But nobody wants to die…”",
+            "ru_native": "Я просто всегда ненавидел эту фразу: «Но никто не хочет умирать…»",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я завжди ненавидів цю фразу: «Але ніхто не хоче вмирати…»"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0030",
+            "en": "It says nobody wants to do the work… to find enlightenment. Well enlightenment’s hard goddamn work, okay?",
+            "ru_native": "Как говорится, никто не хочет искать путь к... просветлению.<br>Но это чертовски тяжело, ясно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мова йде про те, що ніхто не хоче… шукати просвітлення.<br>Що ж, це тяжка до біса робота... шукати просвітлення."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0031",
+            "en": "No shame in sticking to what you know.",
+            "ru_native": "Держаться за то, что знаешь, не стыдно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Триматися за те, що знаєш, не соромно."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0032",
+            "en": "I’m sorry, I think I just miss my dog.",
+            "ru_native": "Наверное, я просто скучаю по своей собаке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, я просто сумую за своєю собакою."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0033",
+            "en": "She was the one who usually had to suffer through these uh… ya know… Jake-itorials.",
+            "ru_native": "Раньше она одна слушала эти... Джейко-мментарии.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Раніше вона слухала ці повчання Джейка."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0034",
+            "en": "Never realized just how stupid they sound when you’re talking to someone without a tail.",
+            "ru_native": "Никогда не задумывался, как странно они звучат для кого-то без хвоста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніколи не замислювався, які це дурниці,<br>коли висловлюєш їх не хвостатому улюбленцю."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0035",
+            "en": "Sorry.",
+            "ru_native": "Прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0036",
+            "en": "I’ll—sorry.",
+            "ru_native": "Про... прости.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Мені шкода."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0037",
+            "en": "Yeah, sure.",
+            "ru_native": "Да, конечно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, точно."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0038",
+            "en": "What a sweet, sweet liar you are.",
+            "ru_native": "Какая сладкая лесть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Які солодкі лестощі."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0039",
+            "en": "Yeah, but most folks have the decency to at least go behind a tree.",
+            "ru_native": "Да, но большинство хотя бы за дерево заходят.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але більшості вистачає сорому сховатися за деревом принаймні."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0040",
+            "en": "Just—I wanna say thanks.  Thanks for letting me help tonight.",
+            "ru_native": "Я просто хочу сказать «спасибо». Спасибо, что помогаешь мне.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… хочу подякувати. Дякую, що дозволила допомогти тобі сьогодні."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0041",
+            "en": "This feels like the most worthwhile thing I’ve done...in a very long time.",
+            "ru_native": "Мне кажется, я уже давно не делал... чего-то настолько стоящего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, це найбільш корисне, що я зробив… за дуже багато часу."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0042",
+            "en": "But, uh, I just… wanna say thanks, if I can.",
+            "ru_native": "Я просто... хочу сказать тебе «спасибо».",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… я лише… хочу подякувати, якщо можна."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0043",
+            "en": "Tonight’s the first night in a while that I feel like I’m doing something worthwhile.",
+            "ru_native": "Сегодня первая ночь за долгое время, когда я чувствую, что делаю что-то стоящее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сьогодні вночі я роблю щось по-справжньому корисне за багато часу."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0044",
+            "en": "So. Uh, thanks.",
+            "ru_native": "Так что. Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, дякую."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0045",
+            "en": "That’s all.",
+            "ru_native": "Вот и все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "От і все."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0046",
+            "en": "Heh, yes. Totally.",
+            "ru_native": "О да. Это точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж. Абсолютно."
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0047",
+            "en": "I doubt it, but if you insist.",
+            "ru_native": "Сомневаюсь, но как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сумніваюся, але якщо ти наполягаєш…"
+        },
+        {
+            "tag": "A2G2.GARCAV_JACOB_0048",
+            "en": "Alright, that’s enough of that. We’re late for church. C’mon.",
+            "ru_native": "Ладно, хватит. Мы опаздываем в церковь. Пошли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Досить. Ми запізнюємося в церкву."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0000",
+            "en": "Uh… I don’t really remember. Just a… feeling, I think. I wanted to get away. Something like that.",
+            "ru_native": "Ой... Даже не помню. Просто... наитие, наверное. Я хотела уехать. Как-то так.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну… я не пам’ятаю. Просто відчуття, я гадаю. Я хотіла поїхати. Щось типу того."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0001",
+            "en": "Uh… my Dad.",
+            "ru_native": "Ох... из-за папы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… мій батько."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0002",
+            "en": "Our relationship seemed… beyond repair, and so I wanted to make a clean break of it.",
+            "ru_native": "Наши отношения было уже не исправить, поэтому я просто хотела оборвать их.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здавалося, наші стосунки вже не налагодити. Тому я хотіла обірвати їх."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0003",
+            "en": "Uh… just too many bad memories. It wasn’t exactly the best of times here, for me.",
+            "ru_native": "Ох... слишком много плохих воспоминаний. Для меня это были не самые лучшие годы.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… надто багато поганих спогадів. Для мене то був не найкращий час."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0004",
+            "en": "Eh, I always felt older…",
+            "ru_native": "Эх, я всегда чувствовала себя старше своих лет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я завжди відчувала себе старше за свій вік…"
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0005",
+            "en": "So when I hit my thirties, I felt like that existential exhaustion finally caught up with my body.",
+            "ru_native": "Поэтому, когда мне стукнуло тридцать, я уже была экзистенциально истощена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тож коли мені виповнилося тридцять, я вже була виснажена екзистенційними думками."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0006",
+            "en": "Oh, I never wanted to grow up. I never wanted the responsibility of making decisions.",
+            "ru_native": "О, я никогда не хотела взрослеть. Брать на себя ответственность за принятие решений.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, я ніколи не хотіла дорослішати.<br>Ніколи не хотіла брати відповідальність за ухвалення рішень."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0007",
+            "en": "I always wanted life to just happen to me. It’s sad when it can’t, anymore.",
+            "ru_native": "Я всегда ждала от жизни подарков. Жаль, что сейчас такое невозможно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я завжди чекала від життя подарунків.<br>Прикро, коли це неможливо."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0008",
+            "en": "Uh… I can’t really relate.",
+            "ru_native": "Э-э-э… Не могу понять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Е-е-е… Не можу зрозуміти."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0009",
+            "en": "Moving away doesn’t make anything easier, let me tell you from experience.",
+            "ru_native": "Если уехать, легче не будет, поверь моему опыту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажу тобі з досвіду, якщо переїхати, легше не буде."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0010",
+            "en": "Hey, maybe you should've. You still can, you know.",
+            "ru_native": "Хм, может, и стоило. Но у тебя еще есть шанс.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, може й варто було. Але ще не пізно."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0011",
+            "en": "Eh, don’t worry about it. Life goes and goes and the only thing you can do is hold on to something.",
+            "ru_native": "О, не переживай. Жизнь течет и меняется, остается только держаться за что-нибудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не переймайся цим. Життя тече. Єдине, що ти можеш робити, це триматися за щось."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0012",
+            "en": "Hey, I might have a vestigial one, you know. Don’t assume, buddy.",
+            "ru_native": "Откуда ты знаешь, может, у меня есть хвост? Рудиментарный.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки ти знаєш, може в мене теж є хвіст."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0013",
+            "en": "It’s not stupid. It’s—the opposite of stupid, actually.",
+            "ru_native": "Не глупо. На самом деле, совсем наоборот.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не дурниці. Навпаки, взагалі."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0014",
+            "en": "Hey, c’mon, man, it’s okay.",
+            "ru_native": "Эй, да ладно тебе, все норм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, друже, усе гаразд."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0015",
+            "en": "We all, ya know, piss in the wind from time to time.",
+            "ru_native": "Мы все иногда писаем на ветру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, ми всі іноді дзюримо проти вітру."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0016",
+            "en": "Hey, anytime. Though also hopefully—ya know—never again.",
+            "ru_native": "Всегда пожалуйста. Хотя, надеюсь, такого больше не повторится.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, будь ласка. Хоча сподіваюся, таке не повториться."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0017",
+            "en": "You kidding me? Thank you.",
+            "ru_native": "Шутишь? Спасибо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жартуєш? Дякую тобі."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0018",
+            "en": "You’ve been a big help, already, just being here.",
+            "ru_native": "То, что ты здесь, это уже очень большая помощь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти вже дуже допоміг, просто перебуваючи поруч."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0019",
+            "en": "I appreciate it.",
+            "ru_native": "Я это ценю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я ціную це."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0020",
+            "en": "I mean—okay—you’re welcome, but we’re not done yet.",
+            "ru_native": "Не за что, конечно, но мы еще не закончили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… гаразд, будь ласка. Але ми ще не закінчили."
+        },
+        {
+            "tag": "A2G2.GARCAV_RILEY_0021",
+            "en": "Save your thank yous. You might be saying something different down the road.",
+            "ru_native": "Прибереги благодарности. Может, ты еще передумаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дякуватимеш потім. Може, ти ще передумаєш."
+        }
+    ]
+}

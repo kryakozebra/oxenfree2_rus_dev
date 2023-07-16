@@ -1,0 +1,249 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "XXXX.PHONET",
+    "entries": [
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0000",
+            "en": "Able",
+            "ru_native": "",
+            "ru_machine": "DEEPL Able",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Able"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0001",
+            "en": "Baker",
+            "ru_native": "",
+            "ru_machine": "DEEPL Бейкер",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Baker"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0002",
+            "en": "Charlie",
+            "ru_native": "",
+            "ru_machine": "DEEPL Чарли",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Charlie"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0003",
+            "en": "Dog",
+            "ru_native": "",
+            "ru_machine": "DEEPL Собака",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Dog"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0004",
+            "en": "Easy",
+            "ru_native": "",
+            "ru_machine": "DEEPL Легкий",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Easy"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0005",
+            "en": "Fox",
+            "ru_native": "",
+            "ru_machine": "DEEPL Fox",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Fox"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0006",
+            "en": "George",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джордж",
+            "ru_final": "",
+            "verified": false,
+            "uk": "George"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0007",
+            "en": "How",
+            "ru_native": "",
+            "ru_machine": "DEEPL Как",
+            "ru_final": "",
+            "verified": false,
+            "uk": "How"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0008",
+            "en": "Item",
+            "ru_native": "",
+            "ru_machine": "DEEPL Пункт",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Item"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0009",
+            "en": "Jig",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джиг",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Jig"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0010",
+            "en": "Johnny",
+            "ru_native": "",
+            "ru_machine": "DEEPL Джонни",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Johnny"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0011",
+            "en": "King",
+            "ru_native": "",
+            "ru_machine": "DEEPL Король",
+            "ru_final": "",
+            "verified": false,
+            "uk": "King"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0012",
+            "en": "Love",
+            "ru_native": "",
+            "ru_machine": "DEEPL Любовь",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Love"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0013",
+            "en": "Mike",
+            "ru_native": "",
+            "ru_machine": "DEEPL Майк",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Mike"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0014",
+            "en": "Nan",
+            "ru_native": "",
+            "ru_machine": "DEEPL Nan",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Nan"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0015",
+            "en": "Oboe",
+            "ru_native": "",
+            "ru_machine": "DEEPL Гобой",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Oboe"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0016",
+            "en": "Peter",
+            "ru_native": "",
+            "ru_machine": "DEEPL Питер",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Peter"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0017",
+            "en": "Queen",
+            "ru_native": "",
+            "ru_machine": "DEEPL Queen",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Queen"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0018",
+            "en": "Roger",
+            "ru_native": "",
+            "ru_machine": "DEEPL Роджер",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Roger"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0019",
+            "en": "Sugar",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сахар",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Sugar"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0020",
+            "en": "Tare",
+            "ru_native": "",
+            "ru_machine": "DEEPL Таре",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Tare"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0021",
+            "en": "Uncle",
+            "ru_native": "",
+            "ru_machine": "DEEPL Дядя",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Uncle"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0022",
+            "en": "Victor",
+            "ru_native": "",
+            "ru_machine": "DEEPL Виктор",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Victor"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0023",
+            "en": "William",
+            "ru_native": "",
+            "ru_machine": "DEEPL Уильям",
+            "ru_final": "",
+            "verified": false,
+            "uk": "William"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0024",
+            "en": "Xray",
+            "ru_native": "",
+            "ru_machine": "DEEPL Xray",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Xray"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0025",
+            "en": "Yoke",
+            "ru_native": "",
+            "ru_machine": "DEEPL Yoke",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Yoke"
+        },
+        {
+            "tag": "XXXX.PHONET_RADIOANNOUNCER_0026",
+            "en": "Zebra",
+            "ru_native": "",
+            "ru_machine": "DEEPL Zebra",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Zebra"
+        }
+    ]
+}

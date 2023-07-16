@@ -1,0 +1,1554 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.TADOVI",
+    "entries": [
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0000_OPTION_0000",
+            "en": "Okay, not moving.",
+            "ru_native": "Стою-стою.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре, стою."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0000_OPTION_0001",
+            "en": "C’mon, this is stupid.",
+            "ru_native": "Брось, это глупо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі, це безглуздо."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0000_OPTION_0002",
+            "en": "I can help you.",
+            "ru_native": "Я могу тебе помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я можу тобі допомогти."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0001_OPTION_0000",
+            "en": "Who’s talking to who?",
+            "ru_native": "Кто с кем разговаривал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто з ким розмовляє?"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0001_OPTION_0001",
+            "en": "Take a breath.",
+            "ru_native": "Сделай вдох.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Заспокойся."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0001_OPTION_0002",
+            "en": "It’s not your fault.",
+            "ru_native": "Это не твоя вина.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не твоя провина."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0002_OPTION_0000",
+            "en": "That’s okay.",
+            "ru_native": "Все в порядке.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0002_OPTION_0001",
+            "en": "We can’t let you leave.",
+            "ru_native": "Мы не можем тебя отпустить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми не можемо дозволити тобі піти."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0002_OPTION_0002",
+            "en": "Just back away from the bridge...",
+            "ru_native": "Просто отойди от моста...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто відійди від моста…"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0003_OPTION_0000",
+            "en": "[Explain how to leave]",
+            "ru_native": "[Объяснить, как уйти]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Пояснити, як вийти]"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0003_OPTION_0001",
+            "en": "We can protect you.",
+            "ru_native": "Мы можем тебя защитить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми можемо захистити тебе."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0003_OPTION_0002",
+            "en": "It won’t let you leave.",
+            "ru_native": "Оно тебя не отпустит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не випустить тебе."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0004_OPTION_0000",
+            "en": "[Explain how to leave]",
+            "ru_native": "[Объяснить, как уйти]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Пояснити, як вийти]"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0004_OPTION_0001",
+            "en": "What does Parentage want?",
+            "ru_native": "Чего хочет «Наследие»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чого хоче Парентаж?"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0004_OPTION_0002",
+            "en": "You’re coming with us.",
+            "ru_native": "Ты идешь с нами.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти йдеш із нами."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0005",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0005_OPTION_0000",
+            "en": "Yes.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0005_OPTION_0001",
+            "en": "Give us information.",
+            "ru_native": "Дай нам информацию.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дай нам інформацію."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0005_OPTION_0002",
+            "en": "Go right home!",
+            "ru_native": "Иди прямо домой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди одразу ж додому!"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0006",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0006_OPTION_0000",
+            "en": "They won’t. ",
+            "ru_native": "Какой в этом прок?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Цього не станеться."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0006_OPTION_0001",
+            "en": "Stay and help us.",
+            "ru_native": "Избегай неприятностей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишайся і допоможи нам."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0006_OPTION_0002",
+            "en": "Keep out of trouble.",
+            "ru_native": "Дай нам больше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уникай неприємностей."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0007",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0007_OPTION_0000",
+            "en": "Focus on the transmitter.",
+            "ru_native": "Сосредоточиться на передатчике.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередься на радіопередавачі."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0007_OPTION_0001",
+            "en": "She could’ve fallen.",
+            "ru_native": "Она могла упасть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона могла впасти."
+        },
+        {
+            "tag": "A2C6.TADOVI_CHOICE_0007_OPTION_0002",
+            "en": "I don’t know what I’m doing.",
+            "ru_native": "Я понятия не имею, что делаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю, що роблю."
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0000",
+            "en": "Listen—",
+            "ru_native": "Слушай...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай…"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0001",
+            "en": "Okay. We won’t go anywhere. Just tell us what’s going on.",
+            "ru_native": "Ладно. Мы никуда не пойдем. Просто скажи, в чем дело.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Ми нікуди не підемо. Просто скажи нам, що відбувається."
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0002",
+            "en": "Violet! Enough!",
+            "ru_native": "Вайолет! Хватит!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет! Годі!"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0003",
+            "en": "Kid, c’mon! Let’s go—we’ll walk you out if that’s what you want!",
+            "ru_native": "Ну давай, пошли! Мы тебя выведем, если хочешь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дівчинко, годі! Ходімо. Ми тебе виведемо, якщо ти цього хочеш!"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0004",
+            "en": "With who?!",
+            "ru_native": "С кем?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З ким?!"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0005",
+            "en": "[breathes out]",
+            "ru_native": "[ID-85]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[Видихає]"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0006",
+            "en": "I… just hope you know what you’re doing.",
+            "ru_native": "Я... надеюсь, ты знаешь, что делаешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся… ти знаєш, що робиш."
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0007",
+            "en": "Cause…",
+            "ru_native": "Потому что...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто…"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0008",
+            "en": "That might have been our only real lead we let walk out of our lives.",
+            "ru_native": "Возможно, это была наша единственная зацепка, и мы ее упустили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Може, то була наша єдина зачіпка, і ми її впустили."
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0009",
+            "en": "Okay. Well… I think a good spot for the transmitter is... just up the hill, here.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Ну... Я думаю, что хорошее место для передатчика - это... чуть выше по холму, вот здесь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0010",
+            "en": "C’mon.",
+            "ru_native": "Давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі."
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0011",
+            "en": "This has gone on for too long, okay? You have to—",
+            "ru_native": "Это тянется слишком долго. Тебе надо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це зайшло надто далеко. Ясно? Тобі слід…"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0012",
+            "en": "Might be some climbing. You okay with that?",
+            "ru_native": "Может, придется карабкаться наверх. Ты как?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Можливо, буде потрібно лізти скелями. Умієш таке?"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0013",
+            "en": "Okay. Well...let’s find a high spot for the transmitter.",
+            "ru_native": "Ладно. Что ж... пошли искать место для передатчика.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Отже… знайдімо високу точку для радіопередавача."
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0014",
+            "en": "Violet —",
+            "ru_native": "",
+            "ru_machine": "DEEPL Фиолетовый -.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет…"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0015",
+            "en": "I don’t think she’s… okay, Riley.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я не думаю, что она... в порядке, Райли.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не думаю, що вона… що з нею все добре, Райлі."
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0016",
+            "en": "Violet, what will come for us?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Виолетта, что придет за нами?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, що прийде за нами?"
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0017",
+            "en": "Cause I don’t know if just letting her run off into the night was the right call.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Потому что я не знаю, было ли правильным решением просто позволить ей убежать в ночь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не впевнений, що дозволити їй просто піти на<br>зустріч ночі — було правильним рішенням."
+        },
+        {
+            "tag": "A2C6.TADOVI_JACOB_0018",
+            "en": "A thank you would’ve been nice.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Благодарность была бы кстати.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Було б добре хоч подякувати."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0000",
+            "en": "Okay, I’m—I’m—we’re gonna stay right here.",
+            "ru_native": "Ладно, я... Я... останемся тут.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд. Ми стоятимемо тут."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0001",
+            "en": "C’mon, Violet, this is getting stupid now—",
+            "ru_native": "Вайолет, это уже глупо...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, Вайолет. Це стає безглуздим."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0002",
+            "en": "Hey, it’s okay, I can help you.",
+            "ru_native": "Все хорошо, я могу тебе помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Усе гаразд, я можу тобі допомогти."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0003",
+            "en": "Just—tell me what’s going on.",
+            "ru_native": "Просто объясни, что происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажи мені, що відбувається?"
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0004",
+            "en": "You didn’t know who’s been talking to… who?",
+            "ru_native": "Ты не знала, кто с кем разговаривал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти не знала, хто з ким розмовляє?"
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0005",
+            "en": "Look—can you do me a favor. Just… take a breath.",
+            "ru_native": "Слушай... сделай одолжение. Просто... выдохни.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, зроби мені послугу. Тільки… заспокойся."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0006",
+            "en": "This isn’t your fault, I know that. We all know that.",
+            "ru_native": "Это не твоя вина. Я это знаю. Мы все знаем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не твоя провина, я знаю. Ми всі знаємо."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0007",
+            "en": "That’s okay, that’s okay. You want to go home? Hey, I want to go home.",
+            "ru_native": "Хорошо, хорошо. Хочешь домой? Я тоже хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд, гаразд. Хочеш додому? Гей, я хочу додому."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0008",
+            "en": "Look, Violet, we can’t just let you walk away. Do you understand what’s happening here?",
+            "ru_native": "Слушай, Вайолет, мы не можем просто так тебя отпустить.<br>Ты понимаешь, что тут происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Вайолет, ми не можемо дозволити тобі просто піти.<br>Ти розумієш, що тут відбувається?"
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0009",
+            "en": "Reality is falling apart—we’re all at risk of—of—of something—of ghosts taking over—",
+            "ru_native": "Реальность разваливается на части... мы все рискуем...<br>рискуем попасть в лапы призраков...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Реальність розвалюється на шматки. Ми всі ризикуємо… потрапити до лап привидів."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0010",
+            "en": "C’mon, Violet, can you—can you just back away from the bridge a bit for me?",
+            "ru_native": "Да ладно, Вайолет, можешь просто отойти от моста? Ради меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Годі тобі, Вайолет. Можеш відійти від моста? Заради мене."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0011",
+            "en": "Violet, just relax. The adults are here now—we can protect you.",
+            "ru_native": "Вайолет, расслабься. Мы взрослые и сможем тебя защитить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, заспокойся. Дорослі вже тут. Ми можемо захистити тебе."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0012",
+            "en": "Violet, Violet, even if I tell you the way—there’s—the time-space thing isn’t gonna let us leave.",
+            "ru_native": "Вайолет, даже если я покажу тебе дорогу, эта<br>пространственно-временная штука нас не выпустит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, навіть якщо я покажу тобі шлях.<br>Ця часо-просторова штука просто не випустить нас."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0013",
+            "en": "We keep getting stuck—",
+            "ru_native": "Мы все равно тут застряли...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми все одно тут застрягли…"
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0014",
+            "en": "Just tell me who’s—who put you guys up to this! Is it Parentage?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Просто скажи мне, кто-кто подбил вас на это! Это родительское воспитание?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0015",
+            "en": "Is Parentage behind this?",
+            "ru_native": "",
+            "ru_machine": "DEEPL За этим стоит родительское воспитание?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0016",
+            "en": "Violet, we can’t just… You have to come with us. It’s the only thing that makes sense here.",
+            "ru_native": "Вайолет, мы не можем просто... Ты должна пойти с нами.<br>Это единственное разумное решение.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет, ми не можемо просто… Ти маєш піти з нами. Це єдине, що має тут значення."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0017",
+            "en": "You know it, I know it —",
+            "ru_native": "Ты знаешь, я знаю...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти знаєш це, я знаю це…"
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0018",
+            "en": "Okay. Look -- see that cave? You have a flashlight?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Смотри - видишь эту пещеру? У тебя есть фонарик?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0019",
+            "en": "Go into that cave, climb down the wall and follow the sounds of water.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Зайди в эту пещеру, спустись по стене и следуй за звуками воды.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0020",
+            "en": "You’ll end up at the Fisherman’s outpost. You can thank me later.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты окажешься на заставе рыбака. Можешь поблагодарить меня позже.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0021",
+            "en": "Yes.",
+            "ru_native": "Да.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0022",
+            "en": "Yes but first… give us some information. We’re partners, now.",
+            "ru_native": "Да, но сперва... расскажи нам. Мы же теперь партнеры.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але спершу… дай нам деяку інформацію. Ми ж тепер партнери."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0023",
+            "en": "I helped you so you help us.",
+            "ru_native": "Я помогла тебе, а ты помоги нам.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я допомогла тобі, тепер ти допоможи нам."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0024",
+            "en": "Yeah, but go directly home.",
+            "ru_native": "Хорошо, но иди прямо домой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, але йди прямо додому."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0025",
+            "en": "Okay. Thank you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо. Спасибо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0026",
+            "en": "Keep out of trouble.",
+            "ru_native": "Избегай неприятностей.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Уникнеш неприємностей."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0027",
+            "en": "I want more. Tell me why this is happening.",
+            "ru_native": "Этого мало. Скажи, почему это происходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені цього мало. Скажи, чому це відбувається."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0028",
+            "en": "Let’s just focus on planting these transmitters.",
+            "ru_native": "Давайте просто поставим эти передатчики.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зосередьмося на встановленні цих радіопередавачів."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0029",
+            "en": "Once that’s done, it’s over… so… she can try to get home if she wants.",
+            "ru_native": "Закончим, и... все. Может попробовать вернуться домой, если хочет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Закінчимо, і все… Вона може повернутися додому, якщо хоче."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0030",
+            "en": "She could’ve fallen, Jacob, she could’ve… it could’ve been bad.",
+            "ru_native": "Она могла упасть, Джейкоб... это могло плохо кончиться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона могла впасти, Джейкобе. Могло статися щось жахливе."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0031",
+            "en": "Safe is better. At least for my psyche.",
+            "ru_native": "Безопасность важнее. По крайней мере, для меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Безпека важливіше. Принаймні для мого спокою."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0032",
+            "en": "Don’t give me too much credit. I have no idea what I’m doing.",
+            "ru_native": "Ты мне не слишком доверяй. Я понятия не имею, что делаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не сподівайся на мене занадто. Я гадки не маю, що роблю."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0033",
+            "en": "Just, keep heading that way, away from us.",
+            "ru_native": "Просто иди в ту сторону, от нас.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто йди туди, подалі від нас."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0034",
+            "en": "You should end up near the cliffs.",
+            "ru_native": "Пока не дойдешь до скал.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти опинишся біля скель."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0035",
+            "en": "Uh—how does that help us? At all?",
+            "ru_native": "И как это нам поможет? А?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як це нам допоможе?"
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0036",
+            "en": "How long have you been a part of Parentage? What do they—what do they even want?",
+            "ru_native": "Как давно ты в «Наследии»? Чего они... чего они вообще хотят?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як давно ти є членом Парентажу? Чого вони… чого вони взагалі хочуть?"
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0037",
+            "en": "Okay — just go that way. Through the cave, and out again.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Хорошо - просто иди в ту сторону. Через пещеру и снова наружу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд… просто йди туди. Через печеру, і вийдеш із тієї сторони."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0038",
+            "en": "It’ll wrap around and bring you to a mining shaft. Climb down and out.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Она завернёт и приведёт тебя к шахтному стволу. Спустись вниз и выйди наружу.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона повертає і приведе до шахти. Злізеш вниз і вийдеш."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0039",
+            "en": "Don’t worry. They won’t.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не волнуйся. Они не будут.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хвилюйтеся. Цього не станеться."
+        },
+        {
+            "tag": "A2C6.TADOVI_RILEY_0040",
+            "en": "Stay and help us and maybe they — whoever they is — won’t be able to.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Останься и помоги нам, и, возможно, они - кто бы они ни были - не смогут этого сделать.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишайся й допоможи нам, і, можливо, вони…<br>хто б вони не були… не зможуть цього зробити."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0000",
+            "en": "Just—stay right there!",
+            "ru_native": "Просто... стой здесь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто стій тут!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0001",
+            "en": "Stay right there! Do not come closer!",
+            "ru_native": "Стой на месте! Не подходи!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стій на місці! Не підходь!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0002",
+            "en": "I mean it!",
+            "ru_native": "Я серьезно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я серйозно!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0003",
+            "en": "Don’t move!",
+            "ru_native": "Не шевелись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не рухайся!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0004",
+            "en": "It’s not stupid! I just didn’t—I didn’t know!",
+            "ru_native": "Ничего не глупо! Я просто... не знала!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це не безглуздо! Я не знала, не знала!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0005",
+            "en": "Who knows?! Do you think I know?! I don’t know anything!",
+            "ru_native": "А кто его знает?! Думаешь, я? Я ничего не знаю!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто знає?! Гадаєш, я знаю?! Нічого я не знаю!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0006",
+            "en": "I didn’t even know she’d been talking to them for so long! They wanted me to—",
+            "ru_native": "Я даже не знала, что она так долго с ними общалась! Они хотели...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я навіть не знала, що вона так довго з ними розмовляла! Вони хотіли…"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0007",
+            "en": "—to just bring my Mom’s portable… plug thing for the antenna, but—",
+            "ru_native": "...чтобы я принесла мамину портативную... штуку, чтобы подключить к антенне, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…щоби я принесла мамин портативний прилад… підключила його до антени, але…"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0008",
+            "en": "This was—this wasn’t my idea, okay? Not at all!",
+            "ru_native": "Это была не моя идея, ясно? Вовсе нет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це була не моя ідея, ясно? Зовсім ні!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0009",
+            "en": "Okay!",
+            "ru_native": "Ладно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0010",
+            "en": "I didn’t know what any of this was gonna do!",
+            "ru_native": "Я не знала, что из этого выйдет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знала, до чого це призведе!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0011",
+            "en": "How could I!",
+            "ru_native": "Как я могла знать!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як я могла!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0012",
+            "en": "I couldn’t have known!",
+            "ru_native": "Я же не ясновидящая!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я і знати не могла!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0013",
+            "en": "God—nobody. Alright? Forget I said anything—Jesus.",
+            "ru_native": "Боже... нет. Ясно? Забудь, что я сказала... Господи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Боже, ні. Ясно? Забудь, що я будь-що казала. Господи."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0014",
+            "en": "Look, I just want to go home. I don’t want any part of this, anymore—I don’t.",
+            "ru_native": "Слушай, я просто хочу домой. Я больше не хочу в этом участвовать... не хочу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, я лише хочу додому. Я більше не хочу брати участі в цьому. Не хочу."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0015",
+            "en": "I don’t care about their promises—I don’t—I don’t care.",
+            "ru_native": "Мне плевать на их обещания. Мне все равно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Начхати мені на їхні обіцянки. Начхати."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0016",
+            "en": "Just… tell me the way out, and I’ll—I’m just going to leave.",
+            "ru_native": "Просто... скажи, как отсюда выйти, и я уйду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто скажи, як звідси вибратися. І я піду."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0017",
+            "en": "Alright?",
+            "ru_native": "Хорошо?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0018",
+            "en": "I don’t want to do this anymore.",
+            "ru_native": "Я больше не хочу этим заниматься.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я більше не хочу цього робити."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0019",
+            "en": "Great! Awesome! We can all go home and braid each other’s hair!",
+            "ru_native": "Отлично! Супер! Можем все пойти домой, заплетать друг другу косички!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово! Надзвичайно! Ми всі можемо йти додому й заплітати одне одному коси!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0020",
+            "en": "Just tell me how to get out of here!",
+            "ru_native": "Просто скажи, как отсюда выбраться!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто скажи, як мені звідси вибратися!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0021",
+            "en": "Fine—you want to know something? Then tell me how to get out of here!",
+            "ru_native": "Отлично... тебе нужна информация? Тогда скажи, как отсюда выбраться!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чудово. Хочеш знати ще? Тоді скажи мені, як звідси вибратися."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0022",
+            "en": "We can—we can help each other out.",
+            "ru_native": "Мы... мы можем помочь друг другу.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми… ми можемо допомогти один одному."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0023",
+            "en": "Just listen to me and tell me how to get out of here! Please!",
+            "ru_native": "Ты меня не слышишь! Просто скажи, как отсюда выбраться! Пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто вислухай мене і скажи, як мені звідси вибратися! Прошу!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0024",
+            "en": "Now I—I—I just want to go home? Okay! Tell me how!",
+            "ru_native": "Я просто хочу домой, ясно? Скажи, как мне попасть домой!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хочу додому, ясно? Скажи мені як!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0025",
+            "en": "[shaky breathing]",
+            "ru_native": "[ID-39]",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[неспокійне дихання]"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0026",
+            "en": "God.",
+            "ru_native": "Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0027",
+            "en": "You can’t protect yourselves. You—you really don’t get it.",
+            "ru_native": "Вы даже себя защитить не можете. Вы... вы просто не понимаете.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви навіть себе не можете захистити. Ви… ви просто не розумієте."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0028",
+            "en": "If they get their way? Nothing will matter.",
+            "ru_native": "Если они получат свое? Какая разница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Якщо вони отримають своє? Усе буде марно."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0029",
+            "en": "That doesn’t matter—I—I have to try! Cause… nothing matters, frankly!",
+            "ru_native": "Неважно, я... я должна попробовать! Потому что... да какая разница!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це неважливо. Я маю спробувати! Адже ніщо не має значення, якщо чесно!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0030",
+            "en": "Cause if they get their way? Nothing will matter.",
+            "ru_native": "Потому что, если они получат свое? Какая разница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Адже якщо вони отримають своє? Усе буде марно."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0031",
+            "en": "I—didn’t—this isn’t what I thought we were doing, alright?",
+            "ru_native": "Я не... я не думала, что мы ЭТИМ занимаемся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не… не думала, що ми займатимемося цим. Ясно?"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0032",
+            "en": "I thought it was just—I dunno, Just—<i>fun</i>. Not fun—pretend, but—whatever—",
+            "ru_native": "Я думала, это просто... не знаю. Просто забава. Или типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я думала, це просто… <i>Просто</i>забавка. Чи якось так…"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0033",
+            "en": "This just isn’t what I wanted.",
+            "ru_native": "Это не то, чего я хотела.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тільки я не цього хотіла."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0034",
+            "en": "At all.",
+            "ru_native": "Совсем не то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зовсім."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0035",
+            "en": "Jesus.",
+            "ru_native": "Боже.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Господи."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0036",
+            "en": "Why do you care?!",
+            "ru_native": "Да какое тебе дело?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі що до цього?!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0037",
+            "en": "You don’t know anything!",
+            "ru_native": "Ты ничего не знаешь!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти нічого не знаєш!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0038",
+            "en": "I can’t trust you! You could be with them!",
+            "ru_native": "Я вам не верю! Вдруг вы с ними заодно!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вам не вірю! Ви можете бути з ними заодно!"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0039",
+            "en": "I just have to… go into the cave?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто должен... войти в пещеру?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0040",
+            "en": "And follow the sounds of water?",
+            "ru_native": "",
+            "ru_machine": "DEEPL И следовать за звуками воды?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0041",
+            "en": "Okay, I’m -- I’m leaving this, here, okay? There are messages... written around.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ладно, я... я оставлю это, здесь, хорошо? Здесь есть сообщения... написанные вокруг.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0042",
+            "en": "I’m sure you’ve seen ‘em. Coded cyphers? This is the key. Okay?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я уверен, что ты их видел. Кодовые шифры? Это и есть ключ. Понятно?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0043",
+            "en": "So there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Так что вот.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0044",
+            "en": "Now you can read all their crap.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Теперь ты можешь читать всю их чушь.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0045",
+            "en": "We traded.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Мы торговали.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0046",
+            "en": "Happy?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Счастлив?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0047",
+            "en": "You’re welcome.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не за что.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0048",
+            "en": "You’re getting what I’m giving you. That’s it.",
+            "ru_native": "Ты получаешь то, что я тебе даю. И все.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти отримуєш те, що я тобі даю. От і все."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0049",
+            "en": "Whatever.",
+            "ru_native": "Плевать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Байдуже."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0050",
+            "en": "Sure. Maybe. I don’t know. Just—head that way?",
+            "ru_native": "Справлюсь. Наверное. Не знаю. Просто идти туда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Авжеж. Мабуть. Не знаю. Просто… йти тим шляхом."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0051",
+            "en": "That’s it? And—some climbing?",
+            "ru_native": "И все? И вскарабкаться?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І все? Іще… лізти скелями?"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0052",
+            "en": "This isn’t—this isn’t a bad thing.",
+            "ru_native": "Звучит... звучит неплохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це… це непогано."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0053",
+            "en": "Okay? We’re not—ya know—bad.",
+            "ru_native": "Ладно? Мы не плохие вообще-то.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Добре? Знаєш, ми не погані."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0054",
+            "en": "Olivia’s not...",
+            "ru_native": "Оливия не...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія не…"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0055",
+            "en": "Never mind.",
+            "ru_native": "Проехали.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не зважай."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0056",
+            "en": "Just—never mind.",
+            "ru_native": "Просто забудьте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… не зважай."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0057",
+            "en": "Just—forget it.",
+            "ru_native": "Да забудьте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто забудь."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0058",
+            "en": "If you don’t get it—you don’t...get it.",
+            "ru_native": "Если не поняли, значит... не поняли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не вдасться так не вдасться."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0059",
+            "en": "Shut up, Vi.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Заткнись, Вай.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0060",
+            "en": "Stay right there.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Оставайся на месте.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не підходьте."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0061",
+            "en": "I mean it.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я говорю серьезно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я серйозно."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0062",
+            "en": "I have no reason to believe that you’re real.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У меня нет причин верить, что ты настоящий.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене немає жодних підстав вірити, це все насправді."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0063",
+            "en": "It’s only real if Olivia says it is.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Это реально только в том случае, если Оливия говорит, что это так.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це насправді, лише якщо Олівія скаже, що це так."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0064",
+            "en": "They’ve been talking to each other forever.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они общались друг с другом целую вечность.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони розмовляли один з одним вічність."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0065",
+            "en": "At least that’s what it feels like.",
+            "ru_native": "",
+            "ru_machine": "DEEPL По крайней мере, так кажется.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні складається таке враження."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0066",
+            "en": "Olivia. And them.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Оливия. И они.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія. І вони."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0067",
+            "en": "They won’t let me stop.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они не дают мне остановиться.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони не дозволять мені зупинитися."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0068",
+            "en": "I just want to go home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто хочу вернуться домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хочу додому."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0069",
+            "en": "I just want to go home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я просто хочу вернуться домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я просто хочу додому."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0070",
+            "en": "Do you know where I live?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты знаешь, где я живу?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А де я живу?"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0071",
+            "en": "Stop talking. Stop talking, please. I need to get home.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Перестань говорить. Перестань говорить, пожалуйста. Мне нужно попасть домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить говорити. Досить говорити, будь ласка. Мені потрібно додому."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0072",
+            "en": "My mom’s waiting for me.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Меня ждет моя мама.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "На мене мама чекає."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0073",
+            "en": "Which way is my house? Do you know where I live?",
+            "ru_native": "",
+            "ru_machine": "DEEPL В какой стороне находится мой дом? Ты знаешь, где я живу?",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У якій стороні мій дім? Ви знаєте де я живу?"
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0074",
+            "en": "You can’t win.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты не сможешь победить.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вам не перемогти."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0075",
+            "en": "They’ll come for you, too. Olivia won’t stop.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Они придут и за тобой. Оливия не остановится.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони прийдуть і за вами. Олівія не зупиниться."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0076",
+            "en": "They don’t have names.",
+            "ru_native": "",
+            "ru_machine": "DEEPL У них нет имен.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони не мають імен."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0077",
+            "en": "I’m going to get my friends and go home now.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Сейчас я заберу своих друзей и поеду домой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я зберу своїх друзів і піду додому."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0078",
+            "en": "Don’t let them take you.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не позволяй им завладеть тобой.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не дозволяйте їм оволодіти вами."
+        },
+        {
+            "tag": "A2C6.TADOVI_VIOLET_0079",
+            "en": "It’s too late for us.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Для нас уже слишком поздно.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Для нас уже пізно."
+        }
+    ]
+}

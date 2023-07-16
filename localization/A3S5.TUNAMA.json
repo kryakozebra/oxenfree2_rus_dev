@@ -1,0 +1,501 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A3S5.TUNAMA",
+    "entries": [
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0000_OPTION_0000",
+            "en": "She’s a ghost.",
+            "ru_native": "Она призрак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона — привид."
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0000_OPTION_0001",
+            "en": "She’s in-between time.",
+            "ru_native": "Она в ловушке времени.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона в просторі між різними відрізками часу."
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0000_OPTION_0002",
+            "en": "Just do what she says.",
+            "ru_native": "Просто сделайте, как она говорит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто зробіть, як вона каже."
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0001_OPTION_0000",
+            "en": "She’s a ghost!",
+            "ru_native": "Она призрак!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона — привид."
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0001_OPTION_0001",
+            "en": "She’s stuck between time!",
+            "ru_native": "Она застряла во времени!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона застрягла в просторі між різними відрізками часу."
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0001_OPTION_0002",
+            "en": "You believe her now?",
+            "ru_native": "Теперь вы верите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер ви вірите?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0002_OPTION_0000",
+            "en": "Thank you so much!",
+            "ru_native": "Спасибо вам большое!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Щиро дякую вам!"
+        },
+        {
+            "tag": "A3S5.TUNAMA_CHOICE_0002_OPTION_0001",
+            "en": "Great, you’re awesome.",
+            "ru_native": "Супер, вы прелесть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Супер, ви — надзвичайна."
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0000",
+            "en": "It was, yes.",
+            "ru_native": "Ага.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так."
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0001",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0002",
+            "en": "Now. Tune the Comm Tower station to 87.7 in exactly two minutes.",
+            "ru_native": "А сейчас настройте башню связи на частоту 87.7 ровно через две минуты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А тепер налаштуйте радіовежу на частоту 87.7 рівно за дві хвилини."
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0003",
+            "en": "You’re right about the radio. About everything.",
+            "ru_native": "Вы были правы насчет радио. Насчет всего.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ваша правда щодо радіо. Щодо всього."
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0004",
+            "en": "You are right about the Kanaloa, and what happened to the crewmen and women aboard.",
+            "ru_native": "Вы правы насчет «Каналоа» и того, что случилось с экипажем и женщинами на борту.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ваша правда щодо човна «Каналоа» й того, що трапилося з екіпажем на борту."
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0005",
+            "en": "Maggie.",
+            "ru_native": "Мэгги.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Меггі."
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0006",
+            "en": "Uhhh… well, that’s—that’s hard to get into.",
+            "ru_native": "Эм... ладно, это... это сложно объяснить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ем… гаразд, це… це важко пояснити."
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0007",
+            "en": "I don’t know who that is.",
+            "ru_native": "Я не знаю, кто это.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не знаю хто це."
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0008",
+            "en": "Okay?",
+            "ru_native": "Ладно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гаразд?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0009",
+            "en": "It’s crucial that you tune your equipment to 87.7 in a minute or two and leave it there.",
+            "ru_native": "Крайне важно, чтобы вы настроили оборудование на<br>частоту 87.7 через минуту или две и не уходили с нее.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але вкрай важливо, щоби ви налаштували обладнання на частоту 87.7 за хвилину<br>або дві й залишалися на ній."
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0010",
+            "en": "It’s Alex! You don’t know me. You never will know me, actually, but…",
+            "ru_native": "Это Алекс! Мы не знакомы. И никогда не будем, в общем, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Алекс! Ми не знайомі. І ніколи не будемо, загалом, але…"
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0011",
+            "en": "Maggie? Maggie Adler, are you there? Can you hear me?",
+            "ru_native": "Мэгги? Мэгги Адлер, вы там? Вы меня слышите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Меггі? Меггі Адлер, ви там? Ви мене чуєте?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_COMMSRADIO_0012",
+            "en": "—esting, testing, testing—guys—ah, there we are! You can hear me, right?",
+            "ru_native": "Тест, тест, тест... народ... а, есть! Ты меня слышишь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…перевірка, перевірка, перевірка… народ… а, є! Мене чутно?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_JACOB_0000",
+            "en": "This is real, Miss Adler. We’re not joking with you.",
+            "ru_native": "Это правда, мисс Адлер. Мы не шутим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це правда, міс Адлер. Ми не жартуємо."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0000",
+            "en": "Excuse me, what are you doing?",
+            "ru_native": "Простите, что вы делаете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, що ви робите?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0001",
+            "en": "Hey!",
+            "ru_native": "Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов!"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0002",
+            "en": "Who is this?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0003",
+            "en": "No, not okay, put Lt. Wayne on the line.",
+            "ru_native": "Нет-нет, все в порядке. Позовите лейтенанта Уэйна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, не все гаразд. Покличте лейтенанта Уейна."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0004",
+            "en": "I need to speak with him.",
+            "ru_native": "Мне нужно с ним поговорить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені треба з ним поговорити."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0005",
+            "en": "Where are you transmitting from?",
+            "ru_native": "Откуда идет сигнал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Звідки йде сигнал?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0006",
+            "en": "Oh a ghost? You’re a ghost.",
+            "ru_native": "Призрак? Это ты призрак.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "З привидом? Ти — привид."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0007",
+            "en": "Oh, you’re trapped in time, is that it?",
+            "ru_native": "О, ты в ловушке времени, да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, ти в пастці часу, чи не так?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0008",
+            "en": "Or what?",
+            "ru_native": "Или что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або… що?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0009",
+            "en": "You’re obviously using some sort of… amateur relay to commandeer our frequency—",
+            "ru_native": "Очевидно, вы используете какой-то... любительский<br>ретранслятор, чтобы присвоить нашу частоту...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вочевидь, ви використовуєте якийсь… аматорський ретранслятор,<br>щоби захопити нашу частоту…"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0010",
+            "en": "—and you’re not going to think it’s so funny when you get tracked down and—",
+            "ru_native": "...но это уже будет не так забавно, когда вас отследят и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…але буде не так весело, коли вас відстежать і…"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0011",
+            "en": "Oh! Oh… holy… okay.",
+            "ru_native": "Ох! О... боже... ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ох! О… Господи… гаразд."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0012",
+            "en": "How…?",
+            "ru_native": "Как?...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як?.."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0013",
+            "en": "Wait, how are you… guys… doing this?",
+            "ru_native": "Стойте, как вы... это делаете?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Стривайте, як ви… це робите?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0014",
+            "en": "Alex? That’s your name?",
+            "ru_native": "Алекс? Тебя же так зовут?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алекс? Тебе ж так звати?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0015",
+            "en": "Two minutes? Okay.",
+            "ru_native": "Две минут? Ладно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дві хвилини? Гаразд."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0016",
+            "en": "87.7.",
+            "ru_native": "87.7",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "87.7."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0017",
+            "en": "I’ll be there.",
+            "ru_native": "Я буду там.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я налаштую."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0018",
+            "en": "No, I’m sure you didn’t.",
+            "ru_native": "Да уж, не сомневаюсь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, не сумніваюся."
+        },
+        {
+            "tag": "A3S5.TUNAMA_MAGGIE_0019",
+            "en": "87.7. Listen for me.",
+            "ru_native": "87.7. Слушайте меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "87.7. Чекайте на повідомлення."
+        },
+        {
+            "tag": "A3S5.TUNAMA_RADIO_0008",
+            "en": "Listen very closely.",
+            "ru_native": "Слушайте очень внимательно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухайте дуже уважно."
+        },
+        {
+            "tag": "A3S5.TUNAMA_RILEY_0000",
+            "en": "She’s a ghost, Miss Adler. You’re talking to a ghost.",
+            "ru_native": "Она призрак, мисс Адлер. Вы разговариваете с привидением.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона — привид, міс Адлер. Ви розмовляєте із привидом."
+        },
+        {
+            "tag": "A3S5.TUNAMA_RILEY_0001",
+            "en": "She’s in-between states of time, Miss Adler. She’s stuck in a different, uh, plane. Or something.",
+            "ru_native": "Она между разными отрезками времени, мисс Адлер. Она<br>застряла в другом, эм, измерении. Или типа того.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона в просторі між різними відрізками часу, міс Адлер.<br>Вона застрягла в іншому, ем, вимірі. Або типу того."
+        },
+        {
+            "tag": "A3S5.TUNAMA_RILEY_0002",
+            "en": "Just… do what she says, Miss Adler. Please.",
+            "ru_native": "Просто... сделайте, как она говорит, мисс Адлер. Пожалуйста.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… зробіть, як вона каже, міс Адлер. Будь ласка."
+        },
+        {
+            "tag": "A3S5.TUNAMA_RILEY_0003",
+            "en": "She’s a ghost! She’s a ghost, that’s—it’s the easiest way to explain it.",
+            "ru_native": "Она призрак! Призрак, вот и все. Так проще всего объяснить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона — привид! Привид, і все. Це — найпростіше пояснення."
+        },
+        {
+            "tag": "A3S5.TUNAMA_RILEY_0004",
+            "en": "She’s stuck between time! She’s—that’s—it’s the easiest way to explain it.",
+            "ru_native": "Она застряла во времени! Она... Так проще всего объяснить.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона застрягла в просторах часу! Вона… Це — найпростіше пояснення."
+        },
+        {
+            "tag": "A3S5.TUNAMA_RILEY_0005",
+            "en": "Oh what’s that? Are you maybe, sort of starting to believe her now?",
+            "ru_native": "Что такое? Ну что, теперь вы ей верите?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це таке? Може, тепер ви їй вірите?"
+        },
+        {
+            "tag": "A3S5.TUNAMA_RILEY_0006",
+            "en": "Oh my God, Maggie—Miss Adler, sorry—but… thank you so much.",
+            "ru_native": "О боже, Мэгги... Простите, мисс Адлер... Спасибо вам огромное.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, Меггі… Вибачте, міс Адлер… Дуже дякую вам."
+        },
+        {
+            "tag": "A3S5.TUNAMA_RILEY_0007",
+            "en": "I… really didn’t know what to expect from this.",
+            "ru_native": "Я… правда не знала, что из этого выйдет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… насправді, не знала, що із цього вийде."
+        },
+        {
+            "tag": "A3S5.TUNAMA_RILEY_0008",
+            "en": "Oh man, Maggie, you’re awesome, you’re just—this is such a huge lifesaver.",
+            "ru_native": "О боже, Мэгги, вы прелесть, вы просто... самая настоящая спасительница.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "О, Господи, Меггі, ви — надзвичайна, ви просто… справжнісінька рятівниця."
+        }
+    ]
+}

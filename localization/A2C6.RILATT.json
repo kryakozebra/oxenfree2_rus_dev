@@ -1,0 +1,132 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.RILATT",
+    "entries": [
+        {
+            "tag": "A2C6.RILATT_CHARLIE_0000",
+            "en": "Don’t listen to them, Violet!",
+            "ru_native": "Не слушай их, Вайолет!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не слухай її, Вайолет."
+        },
+        {
+            "tag": "A2C6.RILATT_CHARLIE_0001",
+            "en": "Oh you shut up!",
+            "ru_native": "Сама заткнись!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та помовчте ви!"
+        },
+        {
+            "tag": "A2C6.RILATT_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.RILATT_CHOICE_0000_OPTION_0000",
+            "en": "We can help you, Violet.",
+            "ru_native": "Вайолет, мы можем помочь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми тобі допоможемо, Вайолет."
+        },
+        {
+            "tag": "A2C6.RILATT_CHOICE_0000_OPTION_0001",
+            "en": "Shut up, guys!",
+            "ru_native": "Заткнитесь уже!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Помовчте ви!"
+        },
+        {
+            "tag": "A2C6.RILATT_CHOICE_0000_OPTION_0002",
+            "en": "You’re all going to pay for this.",
+            "ru_native": "Вы за это поплатитесь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ви всі заплатите за це."
+        },
+        {
+            "tag": "A2C6.RILATT_JACOB_0000",
+            "en": "Sounds like we lost them for a second.",
+            "ru_native": "Мы их ненадолго потеряли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Схоже, ми загубили їх на секунду."
+        },
+        {
+            "tag": "A2C6.RILATT_JACOB_0001",
+            "en": "We’re close enough, though, anyway, so if she’s there, we’ll see here soon.",
+            "ru_native": "Но мы все равно близко, так что если она здесь, скоро найдем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми вже достатньо близько. Якщо вона там, ми її побачимо."
+        },
+        {
+            "tag": "A2C6.RILATT_RILEY_0000",
+            "en": "Violet? Just hang tight, we’ll be there soon, okay? We can lead you back out.",
+            "ru_native": "Вайолет? Держись, мы скоро придем. Мы тебя выведем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет? Тримайся, ми скоро будемо, добре? Ми тебе виведемо."
+        },
+        {
+            "tag": "A2C6.RILATT_RILEY_0001",
+            "en": "Will you guys shut up? I can’t hear myself think—I still have transmitters to place.",
+            "ru_native": "Может вы заткнетесь? Я своих мыслей не слышу, а мне еще передатчики расставлять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та помовчте ви! Я себе не чую. Мені ще потрібно розмістити радіопередавачі."
+        },
+        {
+            "tag": "A2C6.RILATT_RILEY_0002",
+            "en": "Violet? Charlie? You are all going to pay for this, I hope you know that.",
+            "ru_native": "Вайолет? Чарли? Вы все за это заплатите, надеюсь, вы в курсе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вайолет? Чарлі? Ви всі заплатите за це. Сподіваюся, ви розумієте це."
+        },
+        {
+            "tag": "A2C6.RILATT_VIOLET_0000",
+            "en": "Charlie, you come, okay? Just walk over and pick me up!",
+            "ru_native": "Чарли, забери меня! Приди и забери меня!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі, прийди, добре? Прийди й забери мене!"
+        },
+        {
+            "tag": "A2C6.RILATT_VIOLET_0001",
+            "en": "What? What did I do?",
+            "ru_native": "Что? Я тут при чем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що? Я тут до чого?"
+        },
+        {
+            "tag": "A2C6.RILATT_VIOLET_0002",
+            "en": "Charlie—where—[static] please?",
+            "ru_native": "Чарли... где...прошу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чарлі… де [шум] скажи?"
+        }
+    ]
+}

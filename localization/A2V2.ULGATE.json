@@ -1,0 +1,87 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2V2.ULGATE",
+    "entries": [
+        {
+            "tag": "A2V2.ULGATE_JACOB_0000",
+            "en": "Yeah uh—yeah, it normally is.",
+            "ru_native": "Да, обычно так и есть.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, мгм, зазвичай так і буває."
+        },
+        {
+            "tag": "A2V2.ULGATE_JACOB_0001",
+            "en": "Olivia might’ve beaten us here. Hm.",
+            "ru_native": "Выходит, Оливия нас тут опередила. Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Олівія могла би подолати нас тут, Гм."
+        },
+        {
+            "tag": "A2V2.ULGATE_JACOB_0002",
+            "en": "[ALT] Someone might’ve beaten us here. Hm.",
+            "ru_native": "Похоже, нас тут опередили. Хм.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут нас хтось міг би подолати. Гм"
+        },
+        {
+            "tag": "A2V2.ULGATE_JACOB_0003",
+            "en": "Uh—not this late.",
+            "ru_native": "Эм, нет. Не так поздно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не у таку пору."
+        },
+        {
+            "tag": "A2V2.ULGATE_RILEY_0000",
+            "en": "This was definitely locked earlier.",
+            "ru_native": "Они раньше точно были закрыты.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тут точно було замкнено раніше."
+        },
+        {
+            "tag": "A2V2.ULGATE_RILEY_0001",
+            "en": "Is this gate normally open?",
+            "ru_native": "Эти ворота всегда открыты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ці ворота зазвичай відкриті?"
+        },
+        {
+            "tag": "A2V2.ULGATE_TODO_0000",
+            "en": "Triggers upon clicking on the now-unlocked and open gate to the community center",
+            "ru_native": "",
+            "ru_machine": "DEEPL Срабатывает после нажатия на теперь уже незапертые и открытые ворота в общественный центр",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ULGATE_TODO_0001",
+            "en": "if a1s2.GateYes",
+            "ru_native": "",
+            "ru_machine": "DEEPL если a1s2.GateYes",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A2V2.ULGATE_TODO_0002",
+            "en": "else",
+            "ru_native": "",
+            "ru_machine": "DEEPL else",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

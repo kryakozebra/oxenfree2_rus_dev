@@ -1,0 +1,393 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.APPVIO",
+    "entries": [
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0000_OPTION_0000",
+            "en": "She's scared.",
+            "ru_native": "Она напугана.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона налякана."
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0000_OPTION_0001",
+            "en": "I hate these punks.",
+            "ru_native": "Меня от них трясет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ненавиджу цих панків."
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0000_OPTION_0002",
+            "en": "She’s in danger.",
+            "ru_native": "Она в опасности.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона в небезпеці."
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0001_OPTION_0000",
+            "en": "Let’s talk to her.",
+            "ru_native": "Поговорим.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поговорімо з нею."
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0001_OPTION_0001",
+            "en": "Let’s get her!",
+            "ru_native": "Поймаем!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зловімо її!"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0001_OPTION_0002",
+            "en": "Let’s ignore her.",
+            "ru_native": "Игнорируем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ігноруймо її."
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0002_OPTION_0000",
+            "en": "Hey!",
+            "ru_native": "Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов!"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0002_OPTION_0001",
+            "en": "Come here, asshole!",
+            "ru_native": "Иди сюда, засранка!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Іди сюди, засранко!"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0002_OPTION_0002",
+            "en": "I’m going to kill you!",
+            "ru_native": "Я тебя прикончу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я приб’ю тебе!"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0003_OPTION_0000",
+            "en": "Hey!",
+            "ru_native": "Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов!"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0003_OPTION_0001",
+            "en": "Back away from the bridge!",
+            "ru_native": "Отойди от моста!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди від моста!"
+        },
+        {
+            "tag": "A2C6.APPVIO_CHOICE_0003_OPTION_0002",
+            "en": "Where are your friends!",
+            "ru_native": "Где твои друзья?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Де твої друзі?"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0000",
+            "en": "Wait—wait. That’s her, right? Violet?",
+            "ru_native": "Погоди... Это же она? Вайолет?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чекай, чекай. Це ж вона. Вайолет."
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0001",
+            "en": "She is alone.",
+            "ru_native": "Она одна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона одна."
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0002",
+            "en": "How’d she get this far out?",
+            "ru_native": "Как она туда добралась?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як вона туди дійшла?"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0003",
+            "en": "Yeah, well, can't say I blame her.",
+            "ru_native": "И ее можно понять.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Її можна зрозуміти."
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0004",
+            "en": "No, I—I get it.",
+            "ru_native": "Да, понимаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, розумію."
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0005",
+            "en": "How did she even get there?",
+            "ru_native": "Как она там оказалась?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Як узагалі вона там опинилася?"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0006",
+            "en": "What, uh, what should we do?",
+            "ru_native": "И что нам делать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж нам робити?"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0007",
+            "en": "We should probably…",
+            "ru_native": "Нужно постараться...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мабуть, нам слід…"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0008",
+            "en": "Try not to scare her, right?",
+            "ru_native": "Ее не напугать. Согласна?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Постарайся не налякати її, добре?"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0009",
+            "en": "Ignore her?",
+            "ru_native": "Игнорировать?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ігноруймо?"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0010",
+            "en": "Cause… I would hate to—",
+            "ru_native": "Будет ужасно, если...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Мені дуже не хотілося б…"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0011",
+            "en": "“Get her?” What d—",
+            "ru_native": "«Ловить»? Ты о чем?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "«Зловімо її»? Що за…"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0012",
+            "en": "What does that mean?",
+            "ru_native": "Что это значит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що це означає?"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0013",
+            "en": "We’re getting people now?",
+            "ru_native": "Мы теперь людей ловим?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тепер ми людей ловимо?"
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0014",
+            "en": "I… mean, if you say so.",
+            "ru_native": "Ладно, как скажешь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобто… як скажеш."
+        },
+        {
+            "tag": "A2C6.APPVIO_JACOB_0015",
+            "en": "We can try and go around?",
+            "ru_native": "Попробуем обойти?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Спробуємо відійти?"
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0000",
+            "en": "She looks scared.",
+            "ru_native": "Выглядит напуганной.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, вона налякана."
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0001",
+            "en": "I’m sorry, Jacob, but I just hate these people.",
+            "ru_native": "Прости, Джейкоб, но меня от них трясет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибач, Джейкобе, але я просто ненавиджу їх."
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0002",
+            "en": "She’s gonna fall off if she’s not careful.",
+            "ru_native": "Она упадет, если не будет осторожна.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вона може впасти, якщо буде необережною."
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0003",
+            "en": "Let’s—you know, let’s just ignore her.",
+            "ru_native": "Давай ее просто игнорировать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто ігноруймо її."
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0004",
+            "en": "What should we do? We’re getting her, Jacob, let’s end this crap.",
+            "ru_native": "В смысле? Ловить ее, Джейкоб! Покончим с этим дерьмом.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що ж нам робити? Ми зловимо її, Джейкобе. Припинімо цей безлад."
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0005",
+            "en": "Hey!",
+            "ru_native": "Эй!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов!"
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0006",
+            "en": "Hey, get over here, asshole!",
+            "ru_native": "А ну иди сюда, засранка!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гей, ану йди сюди, засранко!"
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0007",
+            "en": "Hey! I am going to kill you for this!",
+            "ru_native": "Эй! Я тебя прикончу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я приб’ю тебе за це!"
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0008",
+            "en": "Let’s—let’s just talk to her. Okay?",
+            "ru_native": "Давай просто поговорим с ней?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Просто… просто поговорімо з нею. Добре?"
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0009",
+            "en": "Back away from the bridge!",
+            "ru_native": "Отойди от моста!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Відійди від моста!"
+        },
+        {
+            "tag": "A2C6.APPVIO_RILEY_0010",
+            "en": "Hey kid! Where are your friends?!",
+            "ru_native": "Девочка! Где твои друзья?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дівчино! Де твої друзі?!"
+        }
+    ]
+}

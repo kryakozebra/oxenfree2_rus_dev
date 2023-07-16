@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "GLOB.NOCLI1",
+    "entries": [
+        {
+            "tag": "GLOB.NOCLI1_JACOB_0000",
+            "en": "Yeah, you’ll see these little things all over.",
+            "ru_native": "Да, эти штуки тут повсюду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, тут цих штук усюди повно."
+        },
+        {
+            "tag": "GLOB.NOCLI1_RILEY_0000",
+            "en": "[to herself] Looks like a climbing anchor…",
+            "ru_native": "Похоже, альпинистский якорь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[До себе] Схоже на альпіністський карабін…"
+        },
+        {
+            "tag": "GLOB.NOCLI1_RILEY_0001",
+            "en": "[to herself] Well, I won’t be able to use this unless I get some rope somewhere…",
+            "ru_native": "Использовать его я не смогу, пока не раздобуду веревку...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[До себе] Я зможу скористатися ним, якщо буде мотузка…"
+        }
+    ]
+}

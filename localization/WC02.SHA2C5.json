@@ -1,0 +1,303 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WC02.SHA2C5",
+    "entries": [
+        {
+            "tag": "WC02.SHA2C5_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.SHA2C5_CHOICE_0000_OPTION_0000",
+            "en": "Shelley, you there?",
+            "ru_native": "Шелли, ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі, ти там?"
+        },
+        {
+            "tag": "WC02.SHA2C5_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.SHA2C5_CHOICE_0001_OPTION_0000",
+            "en": "You heard right.",
+            "ru_native": "Ты верно услышала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти правильно почула."
+        },
+        {
+            "tag": "WC02.SHA2C5_CHOICE_0001_OPTION_0001",
+            "en": "Seems safe.",
+            "ru_native": "Тут, похоже, безопасно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здаються безпечними."
+        },
+        {
+            "tag": "WC02.SHA2C5_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WC02.SHA2C5_CHOICE_0002_OPTION_0000",
+            "en": "Isn’t this your job?",
+            "ru_native": "Разве это не твоя работа?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це не ваша робота?"
+        },
+        {
+            "tag": "WC02.SHA2C5_CHOICE_0002_OPTION_0001",
+            "en": "So we should leave?",
+            "ru_native": "Так нам уходить?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Отже, нам краще піти?"
+        },
+        {
+            "tag": "WC02.SHA2C5_RILEY_0000",
+            "en": "Shelley? You around? We’re in the caves.",
+            "ru_native": "Шелли? Ты тут? Мы в пещерах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Шеллі? Ти тут? Ми в печерах."
+        },
+        {
+            "tag": "WC02.SHA2C5_RILEY_0001",
+            "en": "No, you heard me correctly.",
+            "ru_native": "Нет, ты верно услышала.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні, ти правильно почула."
+        },
+        {
+            "tag": "WC02.SHA2C5_RILEY_0002",
+            "en": "As much as you could hear me, I guess…",
+            "ru_native": "Насколько это было возможно...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Наскільки могла мене почути, мабуть…"
+        },
+        {
+            "tag": "WC02.SHA2C5_RILEY_0003",
+            "en": "Why the concern?",
+            "ru_native": "А что такого?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "А чого хвилюватися?"
+        },
+        {
+            "tag": "WC02.SHA2C5_RILEY_0004",
+            "en": "They seem safe enough. They don’t even smell that bad.",
+            "ru_native": "Тут, похоже, безопасно. И даже пахнет неплохо.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони здаються достатньо безпечними. Вони навіть не так сильно тхнуть."
+        },
+        {
+            "tag": "WC02.SHA2C5_RILEY_0005",
+            "en": "Isn’t it your job to—know the area?",
+            "ru_native": "Разве это не твоя работа... знать окрестности?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хіба це не ваша робота — дослідити цю місцевість?"
+        },
+        {
+            "tag": "WC02.SHA2C5_RILEY_0006",
+            "en": "Exit stage left then?",
+            "ru_native": "Нам выходить тогда?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тоді треба тихенько виходити?"
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0000",
+            "en": "Riley? You’re like—half static.",
+            "ru_native": "Райли? У тебя одни помехи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Ти, майже… шум."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0001",
+            "en": "Assuming this is Riley.",
+            "ru_native": "Допустим, это Райли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, це Райлі."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0002",
+            "en": "I think I heard the word \"caves\"?",
+            "ru_native": "Кажется, я слышала слово «пещеры»?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Здається, я почула слово печери?"
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0003",
+            "en": "But I really hope I didn’t…",
+            "ru_native": "Очень надеюсь, что нет...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але я дуже сподіваюся, що ні…"
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0004",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0005",
+            "en": "Only 50% of the caves in the U.S. have been explored.",
+            "ru_native": "В США исследовано только 50% пещер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У США досліджено лише 50 % печер."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0006",
+            "en": "And even that is a best guess.",
+            "ru_native": "И это еще в лучшем случае.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І це навіть лише приблизно."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0007",
+            "en": "In Camena… it’s worse.",
+            "ru_native": "В Камене... меньше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У Камені… із цим гірше."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0008",
+            "en": "By a good margin.",
+            "ru_native": "Гораздо меньше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Набагато гірше."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0009",
+            "en": "Over.",
+            "ru_native": "Прием.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Прийом."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0010",
+            "en": "I’m a park ranger. If there ain’t grass growing nearby, it’s not my purview.",
+            "ru_native": "Я парковый рейнджер. Если там не растет трава – не моя компетенция.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я наглядачка парку. Якщо поблизу не росте трава, це не моя компетенція."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0011",
+            "en": "Pronto if possible.",
+            "ru_native": "И побыстрее?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "За можливості — якнайшвидше."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0012",
+            "en": "I don’t mess with caves, in any state.",
+            "ru_native": "Я вообще от пещер держусь подальше.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не маю діла з печерами в будь-якому штаті."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0013",
+            "en": "‘Cause if you have a coin, flip it, here are the odds…",
+            "ru_native": "Потому что тут 50 на 50...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Бо якщо є монета, можна її підкинути, й ось вони — усі шанси…"
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0014",
+            "en": "Either you make your way to the other side, maybe with extra mud on your sneakers…",
+            "ru_native": "Или выберешься, ну, может, кроссовки чуть грязью запачкаешь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Або ти продерешся на інший бік, можливо, трохи забруднивши кросівки…"
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0015",
+            "en": "…or you take a bad step, and discover part of the unexplored percentage…",
+            "ru_native": "...или оступишься и доисследуешь оставшиеся 50%...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…або зробиш невірний крок і відкриєш недосліджену частину печери…"
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0016",
+            "en": "…after the impact of falling 100 feet crushes your skull.",
+            "ru_native": "…пролетишь 30 метров и разобьешься в лепешку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…після падіння з висоти 100 футів, череп людини розколюється."
+        },
+        {
+            "tag": "WC02.SHA2C5_SHELLEY_0017",
+            "en": "Happy flipping. Over and out.",
+            "ru_native": "Удачи тебе. Конец связи.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хай щастить із монетою. Кінець зв’язку."
+        }
+    ]
+}

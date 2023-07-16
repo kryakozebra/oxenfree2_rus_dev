@@ -1,0 +1,348 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A1S1.JACWAL",
+    "entries": [
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0000_OPTION_0000",
+            "en": "Who is this?",
+            "ru_native": "Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?"
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0000_OPTION_0001",
+            "en": "...yes?",
+            "ru_native": "Да?..",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "…так?"
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0000_OPTION_0002",
+            "en": "What do you want?",
+            "ru_native": "Что вам нужно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що вам потрібно?"
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0001_OPTION_0000",
+            "en": "I don’t know.",
+            "ru_native": "Не знаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю."
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0001_OPTION_0001",
+            "en": "What’s going on?",
+            "ru_native": "Что происходит?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається?"
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0001_OPTION_0002",
+            "en": "You’re hard to hear.",
+            "ru_native": "Тебя плохо слышно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я вас погано чую."
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0002_OPTION_0000",
+            "en": "Hello?",
+            "ru_native": "Алло?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Агов?"
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0002_OPTION_0001",
+            "en": "Who's dangerous?",
+            "ru_native": "Кто опасен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто небезпечний?"
+        },
+        {
+            "tag": "A1S1.JACWAL_CHOICE_0002_OPTION_0002",
+            "en": "Who is this?!",
+            "ru_native": "Кто это?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це?!"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0000",
+            "en": "Riley? Is that you?",
+            "ru_native": "Райли? Это ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Це ти?"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0001",
+            "en": "Riley? It’s—[static]",
+            "ru_native": "Райли? Это...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Це… [шум]"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0002",
+            "en": "Riley! Thank God—[static]",
+            "ru_native": "Райли! Слава богу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі! Дякувати богу… [шум]"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0003",
+            "en": "Riley? I can—I think I can hear—[static]",
+            "ru_native": "Райли? Кажется, я слышу...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Райлі? Я… Здається, я чую… [шум]"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0004",
+            "en": "Are you—where—where are you?",
+            "ru_native": "Ты... Где ты?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… де… де ти?"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0005",
+            "en": "Are you still at the—[static]",
+            "ru_native": "Ты все еще в...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти й досі… [шум]"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0006",
+            "en": "Or did things jump?",
+            "ru_native": "Или место поменялось?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чи все перемістилося?"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0007",
+            "en": "You’re forgetting things again. Christ. I’m -- I’m sorry, Riley, I should have told you before.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Ты опять что-то забываешь. Христос. Я... прости, Райли, я должен был сказать тебе об этом раньше.",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0008",
+            "en": "Things are -- things have gotten bad, but this will -- [static]",
+            "ru_native": "",
+            "ru_machine": "DEEPL Все... все стало плохо, но это будет... [статично]",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0009",
+            "en": "[garbled static]",
+            "ru_native": "(искаженные помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[спотворений шум]"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0010",
+            "en": "[weird static]",
+            "ru_native": "(странные помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[дивний шум]"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0011",
+            "en": "They’re not [static] think they are.",
+            "ru_native": "Он не (помехи) думают, что они.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони не… [шум] хто ти думаєш."
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0012",
+            "en": "They’re [static] dangerous.",
+            "ru_native": "Они (помехи) опасны.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вони [шум] небезпечні."
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0013",
+            "en": "[static] —you there?",
+            "ru_native": "(помехи) ...ты там?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум] …ти там?"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0014",
+            "en": "You— [static]",
+            "ru_native": "Ты... (помехи)",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти… [шум]"
+        },
+        {
+            "tag": "A1S1.JACWAL_JACOB_0015",
+            "en": "[static] —can’t get back.",
+            "ru_native": "(помехи) ... не можешь вернуться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "[шум] …ніяк повернутися."
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0000",
+            "en": "Who—who is this?",
+            "ru_native": "Кто... Кто это?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто… хто це?"
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0001",
+            "en": "Y—yes?",
+            "ru_native": "Да?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Т… так?"
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0002",
+            "en": "What—what do you want?",
+            "ru_native": "Что вам нужно?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що… що вам потрібно?"
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0003",
+            "en": "I—I don’t know, I’m not sure.",
+            "ru_native": "Я не знаю, не уверена.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… Я не знаю, я не впевнена."
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0004",
+            "en": "What’s going on? What’s—what happened, where am I?",
+            "ru_native": "Что происходит? Что случилось, где я?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Що відбувається? Що… що сталося, де я?"
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0005",
+            "en": "I—I can barely hear you, you’re going in and out.",
+            "ru_native": "Я тебя почти не слышу, связь прерывается.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… я вас майже не чую, зв’язок переривається."
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0006",
+            "en": "Hello? Are you—are you still there?",
+            "ru_native": "Алло? Ты еще здесь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Алло? Ти… ти досі там?"
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0007",
+            "en": "Wait, sorry for what? What’s -- what is this?",
+            "ru_native": "",
+            "ru_machine": "DEEPL Подожди, извини за что? Что... что это такое?",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0008",
+            "en": "Who is this? I can’t hear what you’re—what you’re saying...",
+            "ru_native": "Кто это? Я не слышу, что ты говоришь...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто це? Я не чую, що ви… що ви кажете…"
+        },
+        {
+            "tag": "A1S1.JACWAL_RILEY_0009",
+            "en": "Who are you—who’s dangerous?",
+            "ru_native": "Кто ты? Кто опасен?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хто ти… Хто небезпечні?"
+        }
+    ]
+}

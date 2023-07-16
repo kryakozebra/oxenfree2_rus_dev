@@ -1,0 +1,33 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "WT04.NIQUP2",
+    "entries": [
+        {
+            "tag": "WT04.NIQUP2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "WT04.NIQUP2_CHOICE_0000_OPTION_0000",
+            "en": "Nick? You still alive?",
+            "ru_native": "Ник? Вы еще живой?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку? Ви ще живі?"
+        },
+        {
+            "tag": "WT04.NIQUP2_RILEY_0000",
+            "en": "Nick, it’s Riley. You didn’t sink, right?",
+            "ru_native": "Ник, это Райли. Вы не потонули?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніку, це Райлі. Ви ж не потонули?"
+        }
+    ]
+}

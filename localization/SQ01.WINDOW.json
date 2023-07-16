@@ -1,0 +1,807 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "SQ01.WINDOW",
+    "entries": [
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0000_OPTION_0000",
+            "en": "Danny?",
+            "ru_native": "Дэнни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Денні?"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0000_OPTION_0001",
+            "en": "Lobster.",
+            "ru_native": "Лобстер.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лобстер."
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0000_OPTION_0002",
+            "en": "Crab.",
+            "ru_native": "Краб.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краб."
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0001",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0001_OPTION_0000",
+            "en": "Tanner misses you.",
+            "ru_native": "Таннер скучает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теннер сумує."
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0001_OPTION_0001",
+            "en": "Call Tanner!",
+            "ru_native": "Позвони Таннеру!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Зателефонуй Теннеру!"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0002",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0002_OPTION_0000",
+            "en": "Siberia?!",
+            "ru_native": "Сибирь?!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сибір?!"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0002_OPTION_0001",
+            "en": "Did he know this?",
+            "ru_native": "Он об этом знал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він про це знав?"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0002_OPTION_0002",
+            "en": "So?",
+            "ru_native": "И что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І що з того?"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0003",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0003_OPTION_0000",
+            "en": "Invite Tanner along.",
+            "ru_native": "Пригласи Таннера с собой.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поклич Теннера із собою."
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0003_OPTION_0001",
+            "en": "You should stay here.",
+            "ru_native": "Тебе стоит остаться.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі варто залишитися."
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0003_OPTION_0002",
+            "en": "Tell Tanner the truth.",
+            "ru_native": "Скажи Таннеру правду.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Скажи Теннеру правду."
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0004",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0004_OPTION_0000",
+            "en": "I’ve had enough.",
+            "ru_native": "Хватит с меня.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Досить із мене."
+        },
+        {
+            "tag": "SQ01.WINDOW_CHOICE_0004_OPTION_0001",
+            "en": "Yeah, let’s see.",
+            "ru_native": "Да, давай.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ага, давай."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0000",
+            "en": "[DT] Lobster or crab?",
+            "ru_native": "Лобстер или краб?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лобстер чи краб?"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0001",
+            "en": "[DT] We only got one of each so…",
+            "ru_native": "У нас осталось по одному...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У нас залишилося по одному…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0002",
+            "en": "[DT] How hungry are you?",
+            "ru_native": "Сильно голодны?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дуже голодні?"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0003",
+            "en": "I are. Are you ordering? Actually, you know what…",
+            "ru_native": "Да. Вы заказываете? Хотя знаете...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. Будете замовляти? Хоча знаєте…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0004",
+            "en": "[DT] This ain’t the streets of Paris, miss. We got ketchup if you’re so inclined.",
+            "ru_native": "Дамочка, это вам не улочки Парижа. Если очень хочется, у нас есть кетчуп.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Жіночко, тут вам не Париж. Якщо хочете, то в нас є кетчуп."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0005",
+            "en": "[DT]  At least I… think it’s ketchup? Don’t carve that in stone.",
+            "ru_native": "По крайней мере, похоже на кетчуп. Но это не точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні… гадаю, то кетчуп. Але це не точно."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0006",
+            "en": "[DT] At least I… think it’s ketchup? Don’t carve that in stone.",
+            "ru_native": "По крайней мере, похоже на кетчуп. Но это не точно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Принаймні… гадаю, то кетчуп. Але це не точно."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0007",
+            "en": "[DT] C’mon, they’re both waiting to take a bath in the fryer.",
+            "ru_native": "Ну же, они оба ждут очереди на обжарку.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Думайте, вони обидва чекають на фритюрну ванну."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0008",
+            "en": "[DT] We’re closing in ten so they’re both going in the fryer and you’re getting a two-for-one. Mazel tov.",
+            "ru_native": "В десять мы закрываемся, так что они в любом<br>случае изжарятся, а вы получите два в одном.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ми зачиняємося о десятій, тож вони посмажаться<br>у будь-якому разі, а ви отримаєте два в одному. Мазел тов."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0009",
+            "en": "[DT] And then fry cook wunderkind Danny Greene will be calling it a night…",
+            "ru_native": "И гениальный повар Дэнни Грин сможет уйти домой...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І геніальний кухар Денні Грін зможе піти додому…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0010",
+            "en": "[DT] So stand by for crunchy grease with a side of salt.",
+            "ru_native": "Ожидайте хрустящий жирок с щепоткой соли.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Очікуйте хрумкий жирок із дрібкою солі."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0011",
+            "en": "[DT] Going right in.",
+            "ru_native": "Входит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Входить."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0012",
+            "en": "[DT] And then coming right up.",
+            "ru_native": "И выходит.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І виходить."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0013",
+            "en": "[DT] Tanner? You know Tanner?",
+            "ru_native": "Таннер? Ты знаешь Таннера?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теннеру? Ви знаєте його?"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0014",
+            "en": "[DT] Man, I thought—I mean, I didn’t think he’d—",
+            "ru_native": "Черт, я думал... Точнее, я даже не думал...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чорт, я думав… Точніше, я навіть не думав…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0015",
+            "en": "[DT] Agh, I knew that stupid “no numbers” thing was stupid!",
+            "ru_native": "Так и знал, что «никаких телефонов» – дурацкая идея!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так і знав, що «ніяких телефонів» було жахливою ідеєю!"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0016",
+            "en": "[DT] God, I hate the power of bad ideas at 4AM…",
+            "ru_native": "Эти ужасно плохие идеи в четыре утра...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ці безглузді ідеї о четвертій ранку…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0017",
+            "en": "[DT] Look—I miss Tanner. Like—badly.",
+            "ru_native": "Я тоже скучаю по Таннеру. Очень.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я… теж сумую за Теннером. Дуже."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0018",
+            "en": "[DT] But… I’m leaving. I’m leaving Camena and going to Siberia.",
+            "ru_native": "Но... Я уезжаю. Уезжаю из Камены в Сибирь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Але… я їду. Я їду з Камени до Сибіру."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0019",
+            "en": "[DT] That’s why I—",
+            "ru_native": "Поэтому я и...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тому я…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0020",
+            "en": "[DT] You know, didn’t want to make things official.",
+            "ru_native": "Не хотел серьезных отношений.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не хотів серйозних стосунків."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0021",
+            "en": "[DT] He did not. Truth be told, I wasn’t really sure I was actually gonna do it…",
+            "ru_native": "Нет. Честно говоря, я даже не был уверен, что правда поеду...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ні. Чесно кажучи, я навіть не був упевнений, що поїду…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0022",
+            "en": "[DT] And then one day I had airfare reservations in my inbox.",
+            "ru_native": "Как однажды обнаружил электронные билеты на почте.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та одного дня електронні білети вже були на моїй пошті."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0023",
+            "en": "[DT] Well, like, dude, I’m going to Siberia.",
+            "ru_native": "А то, что я, блин, еду в Сибирь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Те, що я, бляха, їду в Сибір."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0024",
+            "en": "[DT] It’s not a getaway, this is forever.",
+            "ru_native": "Не в отпуск, а насовсем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не у відпустку, а назавжди."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0025",
+            "en": "[DT] I know, right?! I mean, look…",
+            "ru_native": "Скажи же?! Понимаете...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Еге ж?! Розумієте…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0026",
+            "en": "[DT] I can’t keep running the fry stand forever, ya know? I gotta—I gotta see what’s out there.",
+            "ru_native": "Я не могу вечно жарить морепродукты. Мне нужно... повидать мир.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу вічно займатися морепродуктами. Мені треба… побачити світ."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0027",
+            "en": "[DT] And I actually have some family from Siberia. Distant, but… still. Great-great cousins.",
+            "ru_native": "В Сибири у меня даже есть родственники. Далекие, но все же. Сколько-то-юродные братья.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "У мене навіть є родичі в Сибіру. Далекі, але родичі. Скількись-юрідні брати."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0028",
+            "en": "[DT] I don’t know for how long but—but still. I’m going.",
+            "ru_native": "Не знаю, насколько я уезжаю, но... Я уезжаю.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не знаю, чи надовго я їду, але… Я їду."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0029",
+            "en": "[DT] …Tanner wasn’t supposed to happen.",
+            "ru_native": "Таннера в планах не было.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теннера в планах не було."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0030",
+            "en": "[DT] Sorry, I—",
+            "ru_native": "Простите, я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте, я…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0031",
+            "en": "[DT] Sorry. Two seconds",
+            "ru_native": "Простите. Две секунды.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Вибачте. Дві секунди."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0032",
+            "en": "[DT] Hm. Yeah…",
+            "ru_native": "Хм. Да...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гм, ага…"
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0033",
+            "en": "[DT] Food for thought, for sure.",
+            "ru_native": "Есть над чем подумать.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Є над чим поміркувати."
+        },
+        {
+            "tag": "SQ01.WINDOW_DANNY_0034",
+            "en": "[DT] Speaking of, order up—",
+            "ru_native": "Мясо готово, заказы...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До речі, замовлення готове…"
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0000",
+            "en": "You’re Danny? You need to call Tanner!",
+            "ru_native": "Ты Дэнни? Позвони Таннеру!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ти Денні? Зателефонуй Теннеру!"
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0001",
+            "en": "He’s dying to talk to you again.",
+            "ru_native": "Он безумно скучает по тебе.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він дуже сумує за тобою."
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0002",
+            "en": "Dude, Siberia? Awesome.",
+            "ru_native": "Чувак, в Сибирь? Круто.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сибір? Круто."
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0003",
+            "en": "Look, I know you didn’t ask but…",
+            "ru_native": "Слушай, ты не спрашивал, но...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я знаю, ти не питав, але…"
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0004",
+            "en": "Don’t stay here. Whatever you do.",
+            "ru_native": "Не оставайся. Ни в коем случае.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не залишайся. У жодному разі."
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0005",
+            "en": "Personally, I’d invite Tanner along, you never know. But don’t stay.",
+            "ru_native": "Лично я позвал бы Таннера с собой, кто знает. Но не оставайся.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Особисто я покликав би Теннера із собою. Але не залишайся тут."
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0006",
+            "en": "Aw man, screw the possible space-time implications…",
+            "ru_native": "Зараза! Эти ваши временно-пространственные последствия...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дідько! Ці бісові часово-просторові наслідки…"
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0007",
+            "en": "I was gonna demolish that deep-fried cornucopia. Shame.",
+            "ru_native": "Я так хотел полопать жареных вкусняшек. Обидно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я так хотів пожерти смажених смаколиків. Прикро."
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0008",
+            "en": "We could check out the bulletin board again. See if anything changed…",
+            "ru_native": "Проверим еще раз доску объявлений? Может, что изменилось...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Перевіримо оголошення? Можливо, щось змінилося…"
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0009",
+            "en": "Hm, well, I see ten fingers and I feel ten toes.",
+            "ru_native": "Десять пальцев на руках, и десять – на ногах.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ну, я бачу по десять пальців на руках і ногах."
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0010",
+            "en": "I’m guessing we didn’t screw up time too much there.",
+            "ru_native": "Полагаю, со временем мы не сильно напортачили.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Гадаю, ми не сильно змінили історію цього разу."
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0011",
+            "en": "I just hope we didn’t make things worse for them...",
+            "ru_native": "И надеюсь, что не испортили им жизнь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сподіваюся, ми не зробили їм гірше…"
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0012",
+            "en": "As much as I’d love to demolish that deep-fried cornucopia…",
+            "ru_native": "Как бы мне ни хотелось полопать жареных вкусняшек...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хоч я й хотів пожерти смажених смаколиків…"
+        },
+        {
+            "tag": "SQ01.WINDOW_JACOB_0013",
+            "en": "...we shouldn’t dare the time-space continuum to collapse because I’m peckish. C’mon…",
+            "ru_native": "Нельзя рисковать пространственно-временным<br>континуумом только потому, что я проголодался.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Та нам не варто ризикувати колапсом<br>просторово-часового континууму лише тому, що я голодний."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0000",
+            "en": "Are you Danny?",
+            "ru_native": "Это Дэнни?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Це Денні?"
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0001",
+            "en": "Lobster. With some clarified butter if you don’t mind.",
+            "ru_native": "Лобстер. С топленым маслом, если не сложно.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Лобстер. З пряженим маслом, якщо можна."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0002",
+            "en": "Crab. With a lemon wedge.",
+            "ru_native": "Краб. С долькой лимона.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краб. З долькою лимона."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0003",
+            "en": "Hey, you know Tanner really misses you.",
+            "ru_native": "Знаешь, Таннер очень по тебе скучает.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаєш, Теннер за тобою дуже сумує."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0004",
+            "en": "You should—reach out or find him or whatever. Make contact.",
+            "ru_native": "Тебе стоит связаться с ним. Как-нибудь.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Тобі… варто зв’язатися з ним. Якщо хочеш."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0005",
+            "en": "Dude, you gotta call Tanner.",
+            "ru_native": "Чувак, позвони Таннеру.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопче, набери Теннера."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0006",
+            "en": "The guy’s dying to talk to you again.",
+            "ru_native": "Парень помирает без тебя.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Він дуже сумує за тобою."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0007",
+            "en": "Siberia? Why Siberia?",
+            "ru_native": "Сибирь? Почему Сибирь?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Сибір? Чому Сибір?"
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0008",
+            "en": "Did Tanner know about this?",
+            "ru_native": "Таннер об этом знал?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Теннер про це знав?"
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0009",
+            "en": "Okay? And?",
+            "ru_native": "Так. И что?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так. То й що?"
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0010",
+            "en": "Dude, you want to be with Tanner? Let him know.",
+            "ru_native": "Чувак, ты хочешь быть с Таннером? Скажи ему.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Хлопче, хочеш бути з Теннером? Скажи йому."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0011",
+            "en": "Invite him along. See what happens.",
+            "ru_native": "Пригласи с собой. Узнай, что будет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Поклич його із собою. Подивися, що буде."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0012",
+            "en": "Look, Siberia isn’t going anywhere, as much as Siberia wishes it could.",
+            "ru_native": "Слушай, Сибирь никуда не денется, как бы ей этого не хотелось.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Слухай, Сибір нікуди не дінеться, як би йому цього не хотілося."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0013",
+            "en": "Stay here, find Tanner, and see if you still wanna deal with college students after that.",
+            "ru_native": "Останься, найти Таннера и проверь, хочешь ли иметь дело со студентами колледжа.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Залишся, знайди Теннера й перевір, чи хочеш<br>мати справи зі студентами після цього."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0014",
+            "en": "Why don’t you just tell Tanner the truth?",
+            "ru_native": "Почему не сказать Таннеру правду?",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Чому ти не скажеш Теннеру правду?"
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0015",
+            "en": "About Siberia, about how you two were never supposed to happen…",
+            "ru_native": "Про Сибирь, про то, что ты не рассчитывал на что-то серьезное...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Про Сибір, про те, що не розраховував на серйозні стосунки…"
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0016",
+            "en": "No expectations, just facts. See what he does with them.",
+            "ru_native": "Никаких ожиданий, только факты. Увидишь, что будет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ніяких очікувань, лише факти. Побачиш, що буде."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0017",
+            "en": "It’s okay. I’ve had enough of the meet-cute that didn’t go anywhere.",
+            "ru_native": "Не надо. Очередная любовь-морковь, которая никуда не ведет.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не треба. Чергове кохання-зітхання, яке закінчується бозна-чим."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0018",
+            "en": "Let’s keep on with the whole… terrible ghost stuff.",
+            "ru_native": "Давай займемся нашими жуткими призраками.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Краще розберемося з… нашими жахливими привидами."
+        },
+        {
+            "tag": "SQ01.WINDOW_RILEY_0019",
+            "en": "Oh yeah, that’s true. Let’s see.",
+            "ru_native": "Да, точно. Давай глянем.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Так, погляньмо."
+        },
+        {
+            "tag": "SQ01.WINDOW_SFX_0000",
+            "en": "Bell ring.",
+            "ru_native": "Звонок.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        },
+        {
+            "tag": "SQ01.WINDOW_SFX_0001",
+            "en": "Ding! Food’s ready.",
+            "ru_native": "Дзинь! Еда готова.",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": ""
+        }
+    ]
+}

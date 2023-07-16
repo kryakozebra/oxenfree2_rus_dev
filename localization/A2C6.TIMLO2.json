@@ -1,0 +1,69 @@
+{
+    "bundle": "loc_packages_assets_",
+    "scene": "A2C6.TIMLO2",
+    "entries": [
+        {
+            "tag": "A2C6.TIMLO2_CHOICE_0000",
+            "en": "DO NOT DELETE OR CHANGE",
+            "ru_native": "DO NOT DELETE OR CHANGE",
+            "ru_machine": "",
+            "ru_final": "DO NOT DELETE OR CHANGE",
+            "verified": true,
+            "uk": "DO NOT DELETE OR CHANGE"
+        },
+        {
+            "tag": "A2C6.TIMLO2_CHOICE_0000_OPTION_0000",
+            "en": "Guys!",
+            "ru_native": "Ребята!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Друзі!"
+        },
+        {
+            "tag": "A2C6.TIMLO2_CHOICE_0000_OPTION_0001",
+            "en": "Help!",
+            "ru_native": "Помогите!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Допоможіть!"
+        },
+        {
+            "tag": "A2C6.TIMLO2_CHOICE_0000_OPTION_0002",
+            "en": "I can’t hold on!",
+            "ru_native": "Я больше не могу!",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я не можу втриматися!"
+        },
+        {
+            "tag": "A2C6.TIMLO2_RILEY_0000",
+            "en": "G—!",
+            "ru_native": "Ре...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Дру…"
+        },
+        {
+            "tag": "A2C6.TIMLO2_RILEY_0001",
+            "en": "H—!",
+            "ru_native": "По...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "До…"
+        },
+        {
+            "tag": "A2C6.TIMLO2_RILEY_0002",
+            "en": "I—!",
+            "ru_native": "Я...",
+            "ru_machine": "",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Я…"
+        }
+    ]
+}

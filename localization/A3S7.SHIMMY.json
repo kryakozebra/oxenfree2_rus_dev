@@ -1,0 +1,69 @@
+{
+    "bundle": "dialogue_packages_assets_all",
+    "scene": "A3S7.SHIMMY",
+    "entries": [
+        {
+            "tag": "A3S7.SHIMMY_CHOICE_0000_OPTION_0000",
+            "en": "Take it slow.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Действуй не спеша.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не поспішай."
+        },
+        {
+            "tag": "A3S7.SHIMMY_CHOICE_0000_OPTION_0001",
+            "en": "Keep your back straight.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Держи спину прямо.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "І не горбся."
+        },
+        {
+            "tag": "A3S7.SHIMMY_REX_0000",
+            "en": "I know!",
+            "ru_native": "",
+            "ru_machine": "DEEPL Я знаю!",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Знаю!"
+        },
+        {
+            "tag": "A3S7.SHIMMY_SOCIALRILEY_0000",
+            "en": "Remember to keep your center of gravity lined up with your feet, like we talked about.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Не забывай держать свой центр тяжести на одной линии с ногами, как мы уже говорили.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Не забувай тримати центр рівноваги на одному рівні з ногами, як ми обговорювали."
+        },
+        {
+            "tag": "A3S7.SHIMMY_SOCIALRILEY_0001",
+            "en": "This part’s tricky.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эта часть непростая.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця частина з зірочкою."
+        },
+        {
+            "tag": "A3S7.SHIMMY_SOCIALRILEY_0002",
+            "en": "Remember, just take it slow.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Помни, просто не спеши.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Пам’ятай, просто не поспішай."
+        },
+        {
+            "tag": "A3S7.SHIMMY_SOCIALRILEY_0003",
+            "en": "This part’s tricky.",
+            "ru_native": "",
+            "ru_machine": "DEEPL Эта часть непростая.",
+            "ru_final": "",
+            "verified": false,
+            "uk": "Ця частина з зірочкою."
+        }
+    ]
+}
