@@ -88,7 +88,7 @@ def translate_scene_entries(entries: List[TranslationEntry]) -> None:
             logger.warning('translate: no en text')
             continue
         def trans() -> str:
-            return '{D} ' + deepl.translate(
+            return 'DEEPL ' + deepl.translate(
                 source_language='EN',
                 target_language='RU',
                 text=e.en,
