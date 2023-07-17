@@ -15,7 +15,7 @@ from oxenfree import (
     TranslationScene,
     load_translation_map_from_dir,
 )
-from oxenfree.bundle import get_text_tree
+from oxenfree.bundle import detect_bundle_dir, get_text_tree
 
 
 logger = logging.getLogger(__name__)
@@ -65,10 +65,11 @@ def copy_bundles(game_dir: Path, required_bundles: List[str], output_dir: Path) 
     output_dir.mkdir(parents=True, exist_ok=True)
 
     result = dict()
+    bundle_dir = detect_bundle_dir(game_dir)
+
     for key in required_bundles:
         bundle = (
-            game_dir / 'Oxenfree2_Data' / 'StreamingAssets' / 'aa' / 'StandaloneWindows64'
-            / (key + '.bundle')
+            bundle_dir / (key + '.bundle')
         ).absolute()
 
         if not bundle.is_file():

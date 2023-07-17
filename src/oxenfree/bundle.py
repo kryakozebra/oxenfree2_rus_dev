@@ -1,4 +1,5 @@
 import logging
+from pathlib import Path
 
 from typing import Any, Dict, Optional
 
@@ -23,3 +24,18 @@ def get_text_tree(obj: ObjectReader) -> Optional[Dict[str, Any]]:
     if not obj_name.endswith(('_Text', '_Text_uk', '_Text_en', '_Text_ru')):
         return None
     return tree
+
+
+def detect_bundle_dir(game_dir: Path) -> Path:
+    if (game_dir / 'Oxenfree2_Data').is_dir() and (game_dir / 'Oxenfree2.exe').is_file():
+        logger.debug('we are in game root')
+        game_dir = game_dir / 'Oxenfree2_Data' / 'StreamingAssets' / 'aa' / 'StandaloneWindows64'
+    else:
+        logger.debug('assume we are in asset folder already')
+
+    if (game_dir / 'loc_packages_assets_.bundle').is_file():
+        return game_dir
+    
+    b = game_dir / 'loc_packages_assets_.bundle'
+    logger.error(f'bundles: file {b} not found! Invalid folder')
+    raise RuntimeError('Invalid game_dir folder')

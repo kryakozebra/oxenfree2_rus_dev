@@ -12,7 +12,7 @@ from typing import Any, Dict, List
 
 import UnityPy
 
-from oxenfree.bundle import get_text_tree
+from oxenfree.bundle import detect_bundle_dir, get_text_tree
 
 
 logger = logging.getLogger(__name__)
@@ -55,17 +55,10 @@ def main(args: Args) -> None:
 def get_bundles(game_dir: Path, required_bundles: List[str]) -> Dict[str, Path]:
     logger.info('collecting bundle paths')
     result = dict()
-    if (game_dir / 'Oxenfree2_Data').is_dir() and (game_dir / 'Oxenfree2.exe').is_file():
-        logger.debug('we are in game root')
-        game_dir = game_dir / 'Oxenfree2_Data' / 'StreamingAssets' / 'aa' / 'StandaloneWindows64'
-    elif (game_dir / 'loc_packages_assets_.bundle').is_file():
-        logger.debug('we are in asset folder already')
-    else:
-        b = game_dir / 'loc_packages_assets_.bundle'
-        logger.error(f'bundles: file {b} not found! Invalid folder')
-        raise RuntimeError('Invalid game_dir folder')
 
-    for file in game_dir.iterdir():
+    bundle_dir = detect_bundle_dir(game_dir)
+
+    for file in bundle_dir.iterdir():
         logger.debug(f'bundles: check if {file} valid')
         if not file_is_valid_bundle(file, required_bundles):
             continue
