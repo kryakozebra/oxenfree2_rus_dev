@@ -510,7 +510,7 @@
             "tag": "A2G4.CANDLE_CHOICE_0011_OPTION_0001",
             "en": "Stay away from Jacob. ",
             "ru_native": "",
-            "ru_machine": "DEEPL Держись подальше от Джейкоба.",
+            "ru_machine": "D/ Держись подальше от Джейкоба.",
             "ru_final": "",
             "verified": false,
             "uk": "Тримайся подалі від Джейкоба. "
@@ -519,7 +519,7 @@
             "tag": "A2G4.CANDLE_CHOICE_0012_OPTION_0000",
             "en": "It’s over! You lost!",
             "ru_native": "",
-            "ru_machine": "DEEPL Всё кончено! Ты проиграл!",
+            "ru_machine": "D/ Всё кончено! Ты проиграл!",
             "ru_final": "",
             "verified": false,
             "uk": "Усе! Це твій програш!"
@@ -528,7 +528,7 @@
             "tag": "A2G4.CANDLE_CHOICE_0012_OPTION_0001",
             "en": "Just stop, Alex!",
             "ru_native": "",
-            "ru_machine": "DEEPL Просто остановись, Алекс!",
+            "ru_machine": "D/ Просто остановись, Алекс!",
             "ru_final": "",
             "verified": false,
             "uk": "Просто зупинися, Алекс!"
@@ -537,7 +537,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0000",
             "en": "Green. Gill. Green. Girl.",
             "ru_native": "",
-            "ru_machine": "DEEPL Зеленый. Gill. Грин. Девушка.",
+            "ru_machine": "D/ Зеленый. Gill. Грин. Девушка.",
             "ru_final": "",
             "verified": false,
             "uk": "Зелені. Зябра. Зелена. Дівчина."
@@ -546,7 +546,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0001",
             "en": "No. Lie. Out.",
             "ru_native": "",
-            "ru_machine": "DEEPL Нет. Ложь. Вон.",
+            "ru_machine": "D/ Нет. Ложь. Вон.",
             "ru_final": "",
             "verified": false,
             "uk": "Ніякої. Брехні. Нікому."
@@ -564,7 +564,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0003",
             "en": "Bones. In. Time.",
             "ru_native": "",
-            "ru_machine": "DEEPL Кости. In. Time.",
+            "ru_machine": "D/ Кости. In. Time.",
             "ru_final": "",
             "verified": false,
             "uk": "Кістки. У. Часі."
@@ -573,7 +573,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0004",
             "en": "Alex. Alex. Girl. Lost. Beach.",
             "ru_native": "",
-            "ru_machine": "DEEPL Алекс. Алекс. Девушка. Потерянная. Пляж.",
+            "ru_machine": "D/ Алекс. Алекс. Девушка. Потерянная. Пляж.",
             "ru_final": "",
             "verified": false,
             "uk": "Алекс. Алекс. Дівчина. Загублена. Пляж."
@@ -582,7 +582,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0005",
             "en": "Care. Not. Dead. Always. End.",
             "ru_native": "",
-            "ru_machine": "DEEPL Уход. Не. Умер. Всегда. Конец.",
+            "ru_machine": "D/ Уход. Не. Умер. Всегда. Конец.",
             "ru_final": "",
             "verified": false,
             "uk": "Усім. Байдуже. Мертва. Назавжди. Кінець."
@@ -591,7 +591,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0006",
             "en": "Green. Girl. Take. Home.",
             "ru_native": "",
-            "ru_machine": "DEEPL Зеленый цвет. Девушка. Take. Домой.",
+            "ru_machine": "D/ Зеленый цвет. Девушка. Take. Домой.",
             "ru_final": "",
             "verified": false,
             "uk": "Зелена. Дівчина. Відведи. Додому."
@@ -600,7 +600,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0007",
             "en": "Home. Home.",
             "ru_native": "",
-            "ru_machine": "DEEPL Дом. Home.",
+            "ru_machine": "D/ Дом. Home.",
             "ru_final": "",
             "verified": false,
             "uk": "Додому. Додому."
@@ -609,7 +609,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0008",
             "en": "Form. Firm.",
             "ru_native": "",
-            "ru_machine": "DEEPL Форма. Фирма.",
+            "ru_machine": "D/ Форма. Фирма.",
             "ru_final": "",
             "verified": false,
             "uk": "Форма. Міцна."
@@ -618,7 +618,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0009",
             "en": "Bones. Now. Man. Bones.",
             "ru_native": "",
-            "ru_machine": "DEEPL Кости. Сейчас. Man. Кости.",
+            "ru_machine": "D/ Кости. Сейчас. Man. Кости.",
             "ru_final": "",
             "verified": false,
             "uk": "Кістки. Зараз. Людини. Кістки."
@@ -627,7 +627,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0010",
             "en": "Name. Bad. Bobtail. Dead.",
             "ru_native": "",
-            "ru_machine": "DEEPL Название. Плохое. Бобтейл. Мертвый.",
+            "ru_machine": "D/ Название. Плохое. Бобтейл. Мертвый.",
             "ru_final": "",
             "verified": false,
             "uk": "Ім’я. Погане. З хвостиком. Мертвий."
@@ -636,7 +636,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0011",
             "en": "Words. Green. Words.",
             "ru_native": "",
-            "ru_machine": "DEEPL Слова. Зеленый цвет. Words.",
+            "ru_machine": "D/ Слова. Зеленый цвет. Words.",
             "ru_final": "",
             "verified": false,
             "uk": "Слова. Зелений. Слова."
@@ -645,7 +645,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0012",
             "en": "Door. Open.",
             "ru_native": "",
-            "ru_machine": "DEEPL Дверь. Открытая.",
+            "ru_machine": "D/ Дверь. Открытая.",
             "ru_final": "",
             "verified": false,
             "uk": "Двері. Відчинено."
@@ -654,7 +654,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0013",
             "en": "Door. Black.",
             "ru_native": "",
-            "ru_machine": "DEEPL Дверь. Черный цвет.",
+            "ru_machine": "D/ Дверь. Черный цвет.",
             "ru_final": "",
             "verified": false,
             "uk": "Двері. Чорні."
@@ -663,7 +663,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0014",
             "en": "Time. Death. End.",
             "ru_native": "",
-            "ru_machine": "DEEPL Время. Смерть. Конец.",
+            "ru_machine": "D/ Время. Смерть. Конец.",
             "ru_final": "",
             "verified": false,
             "uk": "Час. Смерть. Кінець."
@@ -672,7 +672,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0015",
             "en": "These people will bear us through.",
             "ru_native": "",
-            "ru_machine": "DEEPL Эти люди выдержат нас на протяжении всего пути.",
+            "ru_machine": "D/ Эти люди выдержат нас на протяжении всего пути.",
             "ru_final": "",
             "verified": false,
             "uk": "Ці люди пронесуть нас."
@@ -681,7 +681,7 @@
             "tag": "A2G4.CANDLE_GENERICGHOST_0000",
             "en": "Now. Look. I’ll just. Sit. And you carry. On with. Whatever. You were doing.",
             "ru_native": "",
-            "ru_machine": "DEEPL Сейчас. Смотри. Я просто. Садись. А ты продолжай. Дальше. Что бы ты ни делал. Чем ты занимался.",
+            "ru_machine": "D/ Сейчас. Смотри. Я просто. Садись. А ты продолжай. Дальше. Что бы ты ни делал. Чем ты занимался.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -690,7 +690,7 @@
             "tag": "A2G4.CANDLE_GHOST_0002",
             "en": "I sometimes. Sit. Like this. For. Hours.",
             "ru_native": "",
-            "ru_machine": "DEEPL Я иногда. Сижу. Вот так. В течение. Часа.",
+            "ru_machine": "D/ Я иногда. Сижу. Вот так. В течение. Часа.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -798,7 +798,7 @@
             "tag": "A2G4.CANDLE_GHOST_0014",
             "en": "You’re. Out of bounds.",
             "ru_native": "",
-            "ru_machine": "DEEPL Ты. Выходишь за рамки.",
+            "ru_machine": "D/ Ты. Выходишь за рамки.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -852,7 +852,7 @@
             "tag": "A2G4.CANDLE_GHOST_0020",
             "en": "You. Beg us. To keep away. Like. Dogs.",
             "ru_native": "",
-            "ru_machine": "DEEPL Ты. Умоляй нас. Чтобы мы держались подальше. Например. Собаки.",
+            "ru_machine": "D/ Ты. Умоляй нас. Чтобы мы держались подальше. Например. Собаки.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -861,7 +861,7 @@
             "tag": "A2G4.CANDLE_GHOST_0021",
             "en": "As if we are the memories that give you bad dreams.",
             "ru_native": "",
-            "ru_machine": "DEEPL Как будто мы - это воспоминания, которые вызывают у тебя плохие сны.",
+            "ru_machine": "D/ Как будто мы - это воспоминания, которые вызывают у тебя плохие сны.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -870,7 +870,7 @@
             "tag": "A2G4.CANDLE_GHOST_0022",
             "en": "You. Beg us. To not. Hurt. You.",
             "ru_native": "",
-            "ru_machine": "DEEPL Ты. Умоляешь нас. Чтобы мы не делали этого. Не причинять боль. Тебе.",
+            "ru_machine": "D/ Ты. Умоляешь нас. Чтобы мы не делали этого. Не причинять боль. Тебе.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -879,7 +879,7 @@
             "tag": "A2G4.CANDLE_GHOST_0023",
             "en": "As if we are the source of your pain and suffering.",
             "ru_native": "",
-            "ru_machine": "DEEPL Как будто мы являемся источником твоей боли и страданий.",
+            "ru_machine": "D/ Как будто мы являемся источником твоей боли и страданий.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -888,7 +888,7 @@
             "tag": "A2G4.CANDLE_GHOST_0024",
             "en": "You. Ask. What we. Are.",
             "ru_native": "",
-            "ru_machine": "DEEPL Ты. Спрашивай. Что мы. Являемся.",
+            "ru_machine": "D/ Ты. Спрашивай. Что мы. Являемся.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -897,7 +897,7 @@
             "tag": "A2G4.CANDLE_GHOST_0025",
             "en": "As if the question itself could make us recognizable.",
             "ru_native": "",
-            "ru_machine": "DEEPL Как будто сам вопрос может сделать нас узнаваемыми.",
+            "ru_machine": "D/ Как будто сам вопрос может сделать нас узнаваемыми.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -906,7 +906,7 @@
             "tag": "A2G4.CANDLE_GHOST_0026",
             "en": "And you’re hurtin' everything around ya.",
             "ru_native": "",
-            "ru_machine": "DEEPL И ты причиняешь вред всему, что тебя окружает.",
+            "ru_machine": "D/ И ты причиняешь вред всему, что тебя окружает.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -1023,7 +1023,7 @@
             "tag": "A2G4.CANDLE_GHOST_0039",
             "en": "And. Then.",
             "ru_native": "",
-            "ru_machine": "DEEPL И. Потом.",
+            "ru_machine": "D/ И. Потом.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -1032,7 +1032,7 @@
             "tag": "A2G4.CANDLE_GHOST_0040",
             "en": "Go. Home.",
             "ru_native": "",
-            "ru_machine": "DEEPL Переходи. Домой.",
+            "ru_machine": "D/ Переходи. Домой.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -1041,7 +1041,7 @@
             "tag": "A2G4.CANDLE_GHOST_0041",
             "en": "Change course. Rye. Lee. Go. Home.",
             "ru_native": "",
-            "ru_machine": "DEEPL Смени курс. Rye. Ли. Иди. Домой.",
+            "ru_machine": "D/ Смени курс. Rye. Ли. Иди. Домой.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -1050,7 +1050,7 @@
             "tag": "A2G4.CANDLE_GHOST_0042",
             "en": "Wait. Where. Am I.",
             "ru_native": "",
-            "ru_machine": "DEEPL Подожди. Где. Я.",
+            "ru_machine": "D/ Подожди. Где. Я.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -1059,7 +1059,7 @@
             "tag": "A2G4.CANDLE_GHOST_0043",
             "en": "Oh. Here.",
             "ru_native": "",
-            "ru_machine": "DEEPL О. Вот.",
+            "ru_machine": "D/ О. Вот.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -1113,7 +1113,7 @@
             "tag": "A2G4.CANDLE_GHOST_0049",
             "en": "You. Ask. Who we. Are.",
             "ru_native": "",
-            "ru_machine": "DEEPL Ты. Спрашивай. Кто мы. Кто мы.",
+            "ru_machine": "D/ Ты. Спрашивай. Кто мы. Кто мы.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -1257,7 +1257,7 @@
             "tag": "A2G4.CANDLE_JACOB_0000",
             "en": "Agh…",
             "ru_native": "",
-            "ru_machine": "DEEPL Агх...",
+            "ru_machine": "D/ Агх...",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -1590,7 +1590,7 @@
             "tag": "A2G4.CANDLE_RILEY_0036",
             "en": "It’s over, Alex, you guys lost. Just leave us alone, this isn’t going to work.",
             "ru_native": "",
-            "ru_machine": "DEEPL Все кончено, Алекс, вы, ребята, проиграли. Просто оставь нас в покое, ничего не выйдет.",
+            "ru_machine": "D/ Все кончено, Алекс, вы, ребята, проиграли. Просто оставь нас в покое, ничего не выйдет.",
             "ru_final": "",
             "verified": false,
             "uk": "Усе скінчено, Алекс, ви програли. Просто залиште нас у спокої, це не спрацює."
@@ -1599,7 +1599,7 @@
             "tag": "A2G4.CANDLE_RILEY_0037",
             "en": "Alex! Stay away from him – it was an accident. What are you doing?",
             "ru_native": "",
-            "ru_machine": "DEEPL Алекс! Держись от него подальше - это был несчастный случай. Что ты делаешь?",
+            "ru_machine": "D/ Алекс! Держись от него подальше - это был несчастный случай. Что ты делаешь?",
             "ru_final": "",
             "verified": false,
             "uk": "Алекс! Тримайся подалі від нього… це був нещасний випадок. Що ви робите?"
@@ -1617,7 +1617,7 @@
             "tag": "A2G4.CANDLE_RILEY_0039",
             "en": "Alex! Stop already! What is this proving?",
             "ru_native": "",
-            "ru_machine": "DEEPL Алекс! Прекрати уже! Что это доказывает?",
+            "ru_machine": "D/ Алекс! Прекрати уже! Что это доказывает?",
             "ru_final": "",
             "verified": false,
             "uk": "Алекс! Годі вже! Що це доводить?"

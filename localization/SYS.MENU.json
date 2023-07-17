@@ -438,7 +438,7 @@
             "tag": "SYS.MENU_0048",
             "en": "Talk",
             "ru_native": "",
-            "ru_machine": "DEEPL Поговорим",
+            "ru_machine": "D/ Поговорим",
             "ru_final": "",
             "verified": false,
             "uk": "Говорити"
@@ -447,7 +447,7 @@
             "tag": "SYS.MENU_0049",
             "en": "Move",
             "ru_native": "",
-            "ru_machine": "DEEPL Двигайся",
+            "ru_machine": "D/ Двигайся",
             "ru_final": "",
             "verified": false,
             "uk": "Рух"
@@ -456,7 +456,7 @@
             "tag": "SYS.MENU_0050",
             "en": "Walkie",
             "ru_native": "",
-            "ru_machine": "DEEPL Walkie",
+            "ru_machine": "D/ Walkie",
             "ru_final": "",
             "verified": false,
             "uk": "Рація"
@@ -465,7 +465,7 @@
             "tag": "SYS.MENU_0051",
             "en": "Radio",
             "ru_native": "",
-            "ru_machine": "DEEPL Радио",
+            "ru_machine": "D/ Радио",
             "ru_final": "",
             "verified": false,
             "uk": "Радіо"
@@ -474,7 +474,7 @@
             "tag": "SYS.MENU_0052",
             "en": "Map",
             "ru_native": "",
-            "ru_machine": "DEEPL Карта",
+            "ru_machine": "D/ Карта",
             "ru_final": "",
             "verified": false,
             "uk": "Мапа"
@@ -483,7 +483,7 @@
             "tag": "SYS.MENU_0053",
             "en": "Pause",
             "ru_native": "",
-            "ru_machine": "DEEPL Пауза",
+            "ru_machine": "D/ Пауза",
             "ru_final": "",
             "verified": false,
             "uk": "Пауза"
@@ -492,7 +492,7 @@
             "tag": "SYS.MENU_0054",
             "en": "Tune / Change Channel",
             "ru_native": "",
-            "ru_machine": "DEEPL Настройка / изменение канала",
+            "ru_machine": "D/ Настройка / изменение канала",
             "ru_final": "",
             "verified": false,
             "uk": "Налаштувати / Змінити канал"
@@ -501,7 +501,7 @@
             "tag": "SYS.MENU_0055",
             "en": "Interact",
             "ru_native": "",
-            "ru_machine": "DEEPL Взаимодействуй",
+            "ru_machine": "D/ Взаимодействуй",
             "ru_final": "",
             "verified": false,
             "uk": "Взаємодія"
@@ -510,7 +510,7 @@
             "tag": "SYS.MENU_0056",
             "en": "Tune / Change Channel",
             "ru_native": "",
-            "ru_machine": "DEEPL Настройка / изменение канала",
+            "ru_machine": "D/ Настройка / изменение канала",
             "ru_final": "",
             "verified": false,
             "uk": "Налаштувати / Змінити канал"
@@ -519,7 +519,7 @@
             "tag": "SYS.MENU_0057",
             "en": "Move /\\n Interact /\\n Talk /\\n Tune",
             "ru_native": "",
-            "ru_machine": "DEEPL Двигаться /\\n Взаимодействовать /\\n Разговаривать /\\n Настраивать",
+            "ru_machine": "D/ Двигаться /\\n Взаимодействовать /\\n Разговаривать /\\n Настраивать",
             "ru_final": "",
             "verified": false,
             "uk": "Рух/\\n Взаємодія/\\n Говорити/\\n Налаштувати"
@@ -528,7 +528,7 @@
             "tag": "SYS.MENU_0058",
             "en": "Cycle Radio & Walkie",
             "ru_native": "",
-            "ru_machine": "DEEPL Велосипедная рация и рации",
+            "ru_machine": "D/ Велосипедная рация и рации",
             "ru_final": "",
             "verified": false,
             "uk": "Перемкнути радіо/рацію"
@@ -537,7 +537,7 @@
             "tag": "SYS.MENU_0059",
             "en": "Toggle Transcription",
             "ru_native": "",
-            "ru_machine": "DEEPL Toggle Transcription",
+            "ru_machine": "D/ Toggle Transcription",
             "ru_final": "",
             "verified": false,
             "uk": "Перемкнути транскрипцію"
@@ -546,7 +546,7 @@
             "tag": "SYS.MENU_0060",
             "en": "Collectibles",
             "ru_native": "",
-            "ru_machine": "DEEPL Коллекционные предметы",
+            "ru_machine": "D/ Коллекционные предметы",
             "ru_final": "",
             "verified": false,
             "uk": "Предмети колекціювання"
@@ -555,7 +555,7 @@
             "tag": "SYS.MENU_0061",
             "en": "Turn page",
             "ru_native": "",
-            "ru_machine": "DEEPL Переверни страницу",
+            "ru_machine": "D/ Переверни страницу",
             "ru_final": "",
             "verified": false,
             "uk": "Перегорнути сторінку"
@@ -564,7 +564,7 @@
             "tag": "SYS.MENU_0062",
             "en": "Rotate",
             "ru_native": "",
-            "ru_machine": "DEEPL Поворот",
+            "ru_machine": "D/ Поворот",
             "ru_final": "",
             "verified": false,
             "uk": "Обернути"
@@ -573,7 +573,7 @@
             "tag": "SYS.MENU_0063",
             "en": "Select slice",
             "ru_native": "",
-            "ru_machine": "DEEPL Выберите ломтик",
+            "ru_machine": "D/ Выберите ломтик",
             "ru_final": "",
             "verified": false,
             "uk": "Обрати фрагмент"
@@ -582,7 +582,7 @@
             "tag": "SYS.MENU_0064",
             "en": "Audio",
             "ru_native": "",
-            "ru_machine": "DEEPL Аудио",
+            "ru_machine": "D/ Аудио",
             "ru_final": "",
             "verified": false,
             "uk": "Аудіо"
@@ -591,7 +591,7 @@
             "tag": "SYS.MENU_0065",
             "en": "Audio",
             "ru_native": "",
-            "ru_machine": "DEEPL Аудио",
+            "ru_machine": "D/ Аудио",
             "ru_final": "",
             "verified": false,
             "uk": "Аудіо"
@@ -600,7 +600,7 @@
             "tag": "SYS.MENU_0066",
             "en": "Video",
             "ru_native": "",
-            "ru_machine": "DEEPL Видео",
+            "ru_machine": "D/ Видео",
             "ru_final": "",
             "verified": false,
             "uk": "Відео"
@@ -609,7 +609,7 @@
             "tag": "SYS.MENU_0067",
             "en": "Game",
             "ru_native": "",
-            "ru_machine": "DEEPL Игра",
+            "ru_machine": "D/ Игра",
             "ru_final": "",
             "verified": false,
             "uk": "Гра"
@@ -618,7 +618,7 @@
             "tag": "SYS.MENU_0068",
             "en": "Confirm",
             "ru_native": "",
-            "ru_machine": "DEEPL Подтвердите",
+            "ru_machine": "D/ Подтвердите",
             "ru_final": "",
             "verified": false,
             "uk": "Підтвердити"
@@ -627,7 +627,7 @@
             "tag": "SYS.MENU_0069",
             "en": "Select",
             "ru_native": "",
-            "ru_machine": "DEEPL Выберите",
+            "ru_machine": "D/ Выберите",
             "ru_final": "",
             "verified": false,
             "uk": "Обрати"
@@ -636,7 +636,7 @@
             "tag": "SYS.MENU_0070",
             "en": "Pan",
             "ru_native": "",
-            "ru_machine": "DEEPL Пан",
+            "ru_machine": "D/ Пан",
             "ru_final": "",
             "verified": false,
             "uk": "Рух камери"
@@ -645,7 +645,7 @@
             "tag": "SYS.MENU_0071",
             "en": "Zoom",
             "ru_native": "",
-            "ru_machine": "DEEPL Zoom",
+            "ru_machine": "D/ Zoom",
             "ru_final": "",
             "verified": false,
             "uk": "Збільшення"
@@ -654,7 +654,7 @@
             "tag": "SYS.MENU_0072",
             "en": "Loading",
             "ru_native": "",
-            "ru_machine": "DEEPL Нагрузка",
+            "ru_machine": "D/ Нагрузка",
             "ru_final": "",
             "verified": false,
             "uk": "Завантаження"
@@ -663,7 +663,7 @@
             "tag": "SYS.MENU_0073",
             "en": "Press",
             "ru_native": "",
-            "ru_machine": "DEEPL Нажмите",
+            "ru_machine": "D/ Нажмите",
             "ru_final": "",
             "verified": false,
             "uk": "Натиснути"
@@ -672,7 +672,7 @@
             "tag": "SYS.MENU_0074",
             "en": "Borderless",
             "ru_native": "",
-            "ru_machine": "DEEPL Безграничный",
+            "ru_machine": "D/ Безграничный",
             "ru_final": "",
             "verified": false,
             "uk": "На весь екран"
@@ -681,7 +681,7 @@
             "tag": "SYS.MENU_0075",
             "en": "New Game",
             "ru_native": "",
-            "ru_machine": "DEEPL Новая игра",
+            "ru_machine": "D/ Новая игра",
             "ru_final": "",
             "verified": false,
             "uk": "Нова гра"
@@ -690,7 +690,7 @@
             "tag": "SYS.MENU_0076",
             "en": "Press <sprite=1>",
             "ru_native": "",
-            "ru_machine": "DEEPL Нажмите <sprite=1>.",
+            "ru_machine": "D/ Нажмите <sprite=1>.",
             "ru_final": "",
             "verified": false,
             "uk": "Натисніть <sprite=1>"
@@ -699,7 +699,7 @@
             "tag": "SYS.MENU_0077",
             "en": "Press <sprite=2>",
             "ru_native": "",
-            "ru_machine": "DEEPL Нажмите <sprite=2>.",
+            "ru_machine": "D/ Нажмите <sprite=2>.",
             "ru_final": "",
             "verified": false,
             "uk": "Натисніть <sprite=2>"
@@ -708,7 +708,7 @@
             "tag": "SYS.MENU_0078",
             "en": "Press <sprite=3>",
             "ru_native": "",
-            "ru_machine": "DEEPL Нажмите <sprite=3>.",
+            "ru_machine": "D/ Нажмите <sprite=3>.",
             "ru_final": "",
             "verified": false,
             "uk": "Натисніть <sprite=3>"
@@ -717,7 +717,7 @@
             "tag": "SYS.MENU_0079",
             "en": "Press <sprite=0>",
             "ru_native": "",
-            "ru_machine": "DEEPL Нажмите <sprite=0>",
+            "ru_machine": "D/ Нажмите <sprite=0>",
             "ru_final": "",
             "verified": false,
             "uk": "Натисніть <sprite=0>"
@@ -726,7 +726,7 @@
             "tag": "SYS.MENU_0080",
             "en": "Start",
             "ru_native": "",
-            "ru_machine": "DEEPL Начни",
+            "ru_machine": "D/ Начни",
             "ru_final": "",
             "verified": false,
             "uk": "Почати"
@@ -735,7 +735,7 @@
             "tag": "SYS.MENU_0081",
             "en": "View Details",
             "ru_native": "",
-            "ru_machine": "DEEPL Посмотреть детали",
+            "ru_machine": "D/ Посмотреть детали",
             "ru_final": "",
             "verified": false,
             "uk": "Подробиці"
@@ -744,7 +744,7 @@
             "tag": "SYS.MENU_0082",
             "en": "Player choice is a central feature of OXENFREE II: Lost Signals. The game contains playable scenarios which may cause mental and emotional discomfort. Play with care and visit nightschoolstudio.com/contentwarning for a list of potentially sensitive game content.",
             "ru_native": "",
-            "ru_machine": "DEEPL Выбор игрока - центральная особенность OXENFREE II: Lost Signals. Игра содержит игровые сценарии, которые могут вызвать психический и эмоциональный дискомфорт. Играй осторожно и посети сайт nightschoolstudio.com/contentwarning, чтобы ознакомиться со списком потенциально чувствительного игрового контента.",
+            "ru_machine": "D/ Выбор игрока - центральная особенность OXENFREE II: Lost Signals. Игра содержит игровые сценарии, которые могут вызвать психический и эмоциональный дискомфорт. Играй осторожно и посети сайт nightschoolstudio.com/contentwarning, чтобы ознакомиться со списком потенциально чувствительного игрового контента.",
             "ru_final": "",
             "verified": false,
             "uk": "Вибір гравця — основна особливість OXENFREE II: Lost Signals. Гра містить ігрові сценарії, які можуть спричинити психологічний та емоційний дискомфорт. Грайте обережно та завітайте на nightschoolstudio.com/contentwarning, щоб переглянути список потенційно вразливого вмісту."
@@ -753,7 +753,7 @@
             "tag": "SYS.MENU_0083",
             "en": "Content Warning",
             "ru_native": "",
-            "ru_machine": "DEEPL Предупреждение о содержании",
+            "ru_machine": "D/ Предупреждение о содержании",
             "ru_final": "",
             "verified": false,
             "uk": "Попередження про вміст"
@@ -762,7 +762,7 @@
             "tag": "SYS.MENU_0084",
             "en": "Privacy Statement",
             "ru_native": "",
-            "ru_machine": "DEEPL Заявление о конфиденциальности",
+            "ru_machine": "D/ Заявление о конфиденциальности",
             "ru_final": "",
             "verified": false,
             "uk": "Положення про конфіденційність"
@@ -771,7 +771,7 @@
             "tag": "SYS.MENU_0085",
             "en": "Conversation will continue",
             "ru_native": "",
-            "ru_machine": "DEEPL Разговор будет продолжен",
+            "ru_machine": "D/ Разговор будет продолжен",
             "ru_final": "",
             "verified": false,
             "uk": "Розмова продовжиться"
@@ -780,7 +780,7 @@
             "tag": "SYS.MENU_0086",
             "en": "Very Low",
             "ru_native": "",
-            "ru_machine": "DEEPL Очень низкий",
+            "ru_machine": "D/ Очень низкий",
             "ru_final": "",
             "verified": false,
             "uk": "Дуже низька"
@@ -789,7 +789,7 @@
             "tag": "SYS.MENU_0087",
             "en": "Low",
             "ru_native": "",
-            "ru_machine": "DEEPL Низкий",
+            "ru_machine": "D/ Низкий",
             "ru_final": "",
             "verified": false,
             "uk": "Низька"
@@ -798,7 +798,7 @@
             "tag": "SYS.MENU_0088",
             "en": "Medium",
             "ru_native": "",
-            "ru_machine": "DEEPL Средний",
+            "ru_machine": "D/ Средний",
             "ru_final": "",
             "verified": false,
             "uk": "Середня"
@@ -807,7 +807,7 @@
             "tag": "SYS.MENU_0089",
             "en": "High",
             "ru_native": "",
-            "ru_machine": "DEEPL Высокая",
+            "ru_machine": "D/ Высокая",
             "ru_final": "",
             "verified": false,
             "uk": "Висока"
@@ -816,7 +816,7 @@
             "tag": "SYS.MENU_0090",
             "en": "Wear headphones for the best audio experience.",
             "ru_native": "",
-            "ru_machine": "DEEPL Надень наушники для наилучшего восприятия звука.",
+            "ru_machine": "D/ Надень наушники для наилучшего восприятия звука.",
             "ru_final": "",
             "verified": false,
             "uk": "Одягніть навушники, щоб отримати ще більше вражень."
@@ -825,7 +825,7 @@
             "tag": "SYS.MENU_0091",
             "en": "0%",
             "ru_native": "",
-            "ru_machine": "DEEPL 0%",
+            "ru_machine": "D/ 0%",
             "ru_final": "",
             "verified": false,
             "uk": "0%"
@@ -834,7 +834,7 @@
             "tag": "SYS.MENU_0092",
             "en": "100%",
             "ru_native": "",
-            "ru_machine": "DEEPL 100%",
+            "ru_machine": "D/ 100%",
             "ru_final": "",
             "verified": false,
             "uk": "100%"
@@ -843,7 +843,7 @@
             "tag": "SYS.MENU_0093",
             "en": "Display",
             "ru_native": "",
-            "ru_machine": "DEEPL Дисплей",
+            "ru_machine": "D/ Дисплей",
             "ru_final": "",
             "verified": false,
             "uk": "Показати"
@@ -852,7 +852,7 @@
             "tag": "SYS.MENU_0094",
             "en": "Visit nightschoolstudio.com/games/privacy to view our privacy statement.",
             "ru_native": "",
-            "ru_machine": "DEEPL Загляни на сайт nightschoolstudio.com/games/privacy, чтобы ознакомиться с нашим заявлением о конфиденциальности.",
+            "ru_machine": "D/ Загляни на сайт nightschoolstudio.com/games/privacy, чтобы ознакомиться с нашим заявлением о конфиденциальности.",
             "ru_final": "",
             "verified": false,
             "uk": "Відвідайте nightschoolstudio.com/games/privacy, щоб ознайомитися з положенням про конфіденційність."
@@ -861,7 +861,7 @@
             "tag": "SYS.MENU_0095",
             "en": "Visit nightschoolstudio.com/games/termsofuse to view our terms of use.",
             "ru_native": "",
-            "ru_machine": "DEEPL Загляни на сайт nightschoolstudio.com/games/termsofuse, чтобы ознакомиться с нашими условиями использования.",
+            "ru_machine": "D/ Загляни на сайт nightschoolstudio.com/games/termsofuse, чтобы ознакомиться с нашими условиями использования.",
             "ru_final": "",
             "verified": false,
             "uk": "Відвідайте nightschoolstudio.com/games/termsofuse, щоб ознайомитися з умовами використання."
@@ -870,7 +870,7 @@
             "tag": "SYS.MENU_0096",
             "en": "Terms of Use",
             "ru_native": "",
-            "ru_machine": "DEEPL Условия использования",
+            "ru_machine": "D/ Условия использования",
             "ru_final": "",
             "verified": false,
             "uk": "Умови використання"
@@ -879,7 +879,7 @@
             "tag": "SYS.MENU_0097",
             "en": "Battery Saving",
             "ru_native": "",
-            "ru_machine": "DEEPL Экономия заряда батареи",
+            "ru_machine": "D/ Экономия заряда батареи",
             "ru_final": "",
             "verified": false,
             "uk": "Енергозбереження"
@@ -888,7 +888,7 @@
             "tag": "SYS.MENU_0098",
             "en": "Credits",
             "ru_native": "",
-            "ru_machine": "DEEPL Кредиты",
+            "ru_machine": "D/ Кредиты",
             "ru_final": "",
             "verified": false,
             "uk": "Титри"
@@ -897,7 +897,7 @@
             "tag": "SYS.MENU_0099",
             "en": "Controller Audio",
             "ru_native": "",
-            "ru_machine": "DEEPL Контроллер Аудио",
+            "ru_machine": "D/ Контроллер Аудио",
             "ru_final": "",
             "verified": false,
             "uk": "Налаштування звуку"
@@ -906,7 +906,7 @@
             "tag": "SYS.MENU_0100",
             "en": "Haptics",
             "ru_native": "",
-            "ru_machine": "DEEPL Haptics",
+            "ru_machine": "D/ Haptics",
             "ru_final": "",
             "verified": false,
             "uk": "Вібрація"
@@ -915,7 +915,7 @@
             "tag": "SYS.MENU_0101",
             "en": "Download Required",
             "ru_native": "",
-            "ru_machine": "DEEPL Скачать Требуется",
+            "ru_machine": "D/ Скачать Требуется",
             "ru_final": "",
             "verified": false,
             "uk": "Необхідно завантаження"
@@ -924,7 +924,7 @@
             "tag": "SYS.MENU_0102",
             "en": "Begin download",
             "ru_native": "",
-            "ru_machine": "DEEPL Начать загрузку",
+            "ru_machine": "D/ Начать загрузку",
             "ru_final": "",
             "verified": false,
             "uk": "Почати завантаження"
@@ -933,7 +933,7 @@
             "tag": "SYS.MENU_0103",
             "en": "Wait until later",
             "ru_native": "",
-            "ru_machine": "DEEPL Подожди до более позднего времени",
+            "ru_machine": "D/ Подожди до более позднего времени",
             "ru_final": "",
             "verified": false,
             "uk": "Пізніше"
@@ -942,7 +942,7 @@
             "tag": "SYS.MENU_0104",
             "en": "Downloading ({0}%)",
             "ru_native": "",
-            "ru_machine": "DEEPL Загрузка ({0}%)",
+            "ru_machine": "D/ Загрузка ({0}%)",
             "ru_final": "",
             "verified": false,
             "uk": "Завантаження ({0}%)"
@@ -951,7 +951,7 @@
             "tag": "SYS.MENU_0105",
             "en": "An additional {0}GB data download is required to play the full game. You can begin the game while the download is running. If you are on a metered or limited connection, you may want to wait until you're on Wi-Fi.",
             "ru_native": "",
-            "ru_machine": "DEEPL Для полноценной игры требуется дополнительная загрузка данных объемом {0} Гб. Ты можешь начать игру во время загрузки. Если у тебя дозированное или ограниченное соединение, возможно, тебе стоит подождать, пока ты не окажешься в сети Wi-Fi.",
+            "ru_machine": "D/ Для полноценной игры требуется дополнительная загрузка данных объемом {0} Гб. Ты можешь начать игру во время загрузки. Если у тебя дозированное или ограниченное соединение, возможно, тебе стоит подождать, пока ты не окажешься в сети Wi-Fi.",
             "ru_final": "",
             "verified": false,
             "uk": "Щоб грати в повну версію гри, необхідно завантажити додаткові {0} ГБ даних. Ви можете почати гру під час завантаження. Якщо ви використовуєте лімітне або обмежене з’єднання, можна зачекати, доки ви не під’єднаєтеся до Wi-Fi."
@@ -960,7 +960,7 @@
             "tag": "SYS.MENU_0106",
             "en": "Something went wrong",
             "ru_native": "",
-            "ru_machine": "DEEPL Что-то пошло не так",
+            "ru_machine": "D/ Что-то пошло не так",
             "ru_final": "",
             "verified": false,
             "uk": "Щось пішло не так"
@@ -969,7 +969,7 @@
             "tag": "SYS.MENU_0107",
             "en": "We couldn't complete the data download. Please try again when you have a stable network connection. If you need further help, please visit nightschoolstudio.com/support.",
             "ru_native": "",
-            "ru_machine": "DEEPL Мы не смогли завершить загрузку данных. Пожалуйста, повтори попытку, когда у тебя будет стабильное подключение к сети. Если тебе нужна дополнительная помощь, посети сайт nightschoolstudio.com/support.",
+            "ru_machine": "D/ Мы не смогли завершить загрузку данных. Пожалуйста, повтори попытку, когда у тебя будет стабильное подключение к сети. Если тебе нужна дополнительная помощь, посети сайт nightschoolstudio.com/support.",
             "ru_final": "",
             "verified": false,
             "uk": "Не вдалося завершити завантаження даних. Спробуйте ще раз, коли з’єднання з мережею буде стабільним. Якщо потрібна додаткова допомога, відвідайте nightschoolstudio.com/support."
@@ -978,7 +978,7 @@
             "tag": "SYS.MENU_0108",
             "en": "Retry",
             "ru_native": "",
-            "ru_machine": "DEEPL Retry",
+            "ru_machine": "D/ Retry",
             "ru_final": "",
             "verified": false,
             "uk": "Повторити спробу"
@@ -987,7 +987,7 @@
             "tag": "SYS.MENU_0109",
             "en": "Back to main menu",
             "ru_native": "",
-            "ru_machine": "DEEPL Назад к главному меню",
+            "ru_machine": "D/ Назад к главному меню",
             "ru_final": "",
             "verified": false,
             "uk": "Назад до головного меню"
@@ -996,7 +996,7 @@
             "tag": "SYS.MENU_0110",
             "en": "Downloading data",
             "ru_native": "",
-            "ru_machine": "DEEPL Загрузка данных",
+            "ru_machine": "D/ Загрузка данных",
             "ru_final": "",
             "verified": false,
             "uk": "Завантаження даних"
@@ -1005,7 +1005,7 @@
             "tag": "SYS.MENU_0111",
             "en": "The rest of the game data is downloading. You can wait here or return to the game.",
             "ru_native": "",
-            "ru_machine": "DEEPL Остальные данные игры загружаются. Ты можешь подождать здесь или вернуться в игру.",
+            "ru_machine": "D/ Остальные данные игры загружаются. Ты можешь подождать здесь или вернуться в игру.",
             "ru_final": "",
             "verified": false,
             "uk": "Решта даних гри завантажується. Ви можете почекати або повернутися до гри."
@@ -1014,7 +1014,7 @@
             "tag": "SYS.MENU_0112",
             "en": "{0}MB Remaining ({1}%)",
             "ru_native": "",
-            "ru_machine": "DEEPL {0}Остаток МБ ({1}%)",
+            "ru_machine": "D/ {0}Остаток МБ ({1}%)",
             "ru_final": "",
             "verified": false,
             "uk": "{0} МБ залишилося ({1} %)"
@@ -1023,7 +1023,7 @@
             "tag": "SYS.MENU_0113",
             "en": "Return to game",
             "ru_native": "",
-            "ru_machine": "DEEPL Возвращение к игре",
+            "ru_machine": "D/ Возвращение к игре",
             "ru_final": "",
             "verified": false,
             "uk": "Повернутися до гри"
@@ -1032,7 +1032,7 @@
             "tag": "SYS.MENU_0114",
             "en": "Download complete",
             "ru_native": "",
-            "ru_machine": "DEEPL Скачать полностью",
+            "ru_machine": "D/ Скачать полностью",
             "ru_final": "",
             "verified": false,
             "uk": "Завантаження завершене"
@@ -1041,7 +1041,7 @@
             "tag": "SYS.MENU_0115",
             "en": "Enjoy OXENFREE II: Lost Signals!",
             "ru_native": "",
-            "ru_machine": "DEEPL Наслаждайся игрой OXENFREE II: Lost Signals!",
+            "ru_machine": "D/ Наслаждайся игрой OXENFREE II: Lost Signals!",
             "ru_final": "",
             "verified": false,
             "uk": "Насолоджуйтеся грою OXENFREE II: Lost Signals!"
