@@ -1,5 +1,7 @@
 # Русификация Oxenfree 2 Lost Signals
 
+[Тред на Zone of Games](https://forum.zoneofgames.ru/topic/73375-oxenfree-2)
+
 Переводимый текст лежит в файлах `.json` в папке `localization/`. Структура файлов:
 - `bundle`: из какого .bundle файла получен текст
 - `scene`: кодовое имя "сцены" в которой происходит диалог; идентично имени файла и связано с именем
@@ -31,12 +33,12 @@ MonoBehaviour в ассетах игры
 
 > TODO: добавить картинок с пояснениями для незнакомых с гитхабом
 
-## Как выдрать текст из Oxenfree 2 и воткнуть его обратно.
-
-> (памятка разработчика самому себе, как начать жизнь с нуля)
+## Как работать с инструментами для перевода
 
 > ❗ ***ВАЖНО: все скрипты по-умолчанию сохраняют результаты работы  в папку `output/<имя_скрипта>`,
-> удаляя перед этим содержимое папки!***
+> удаляя перед этим содержимое папки! Не держите там ничего ценного.***
+
+Для начала нужно подготовить окружение для работы.
 
 0. Скачать и распаковать архив с проектом
 
@@ -59,7 +61,34 @@ python -m venv venv
 python -m pip install -e . -r requirements.txt
 ```
 
-5. Распаковать текст из ассетов игры:
+5. Запустить программу для перепаковки `.bundle` файлов и убедиться, что она работает:
+```
+textrepack
+```
+Должно высветить в консоли текст `usage: textrepack ...`; если этого не произошло - скорее
+всего, у вас какие-то проблемы с .Net Framework (Google в помощь).
+
+### Как сделать собственный русификатор
+
+1. Перевести понравившиеся тексты в `localization/` (см. выше), сохранить файлы.
+
+2. Запустить скрипт перепаковки:
+```
+repack_bundle --game-dir "E:\games\Oxenfree II Lost Signals" --translations-dir localization/
+```
+После недолгого жужжания, в папке `output/repack_bundles/` должны появиться два файла:
+`dialogue_packages_assets_all.bundle` и `loc_packages_assets_.bundle`.
+
+3. Перенести полученные бандлы в
+`<папка с игрой>/Oxenfree2_Data/StreamingAssets/aa/StandaloneWindows64/`.
+
+## Разработчику
+
+### Как выдрать текст из Oxenfree 2 и воткнуть его обратно.
+
+> (a.k.a, как начать жизнь с нуля)
+
+1. Распаковать текст из ассетов игры:
 ```
 unpack_bundle.py --game-dir "E:\games\Oxenfree II Lost Signals"
 ```
@@ -70,20 +99,20 @@ unpack_bundle.py --game-dir "E:\games\Oxenfree II Lost Signals"
 > нормально; у используемой библиотеки UnityPy аллергия на бандл
 > `dialogue_packages_assets_all`.
 
-6. Превратить одну большую таблицу в много маленьких файликов
+2. Превратить одну большую таблицу в много маленьких файликов
 ```
 prepare_jsons.py --csv output/unpack_bundle/text_table.csv
 ```
 В `output/prepare_jsons/` появится 1000 с гаком файлов `.json`, которые послужат заготовками для дальнейшего перевода.
 
-7. Перевести что-нибудь вручную. Или запустить автопереводчик:
+3. Перевести что-нибудь вручную. Или запустить автопереводчик:
 ```
 autotranslate_jsons --translations-dir output/prepare_jsons/
 ```
 Через полчасика в `output/autotranslate_jsons/` появятся скопированные файлы, у которых в поле
 `ru_machine` будет машинный перевод от DeepL.
 
-8. Собрать все интересующие файлы в какую-нибудь папку `input/repack/` и запаковать их обратно в
+4. Собрать все интересующие файлы в какую-нибудь папку `input/repack/` и запаковать их обратно в
 `.bundle`-файл:
 ```
 repack_bundle --game-dir "E:\games\Oxenfree II Lost Signals" --translations-dir input\repack\
@@ -93,5 +122,23 @@ repack_bundle --game-dir "E:\games\Oxenfree II Lost Signals" --translations-dir 
 > Сообщения `<tag> found but no valid translation present in map` - _наверное, тоже нормально,_
 > но свидетельствует о наличии странных текстов среди файлов игры.
 
-9. Скопировать `loc_packages_assets_.bundle` в
-`<папка с игрой>/Oxenfree2_Data/StreamingAssets/aa/StandaloneWindows64/`.
+5. Скопировать бандлы из `output/repack_bundles/` в папку с игрой.
+
+### Как обновить `textrepack`
+
+0. Поставить .NET Core SDK 6: https://dotnet.microsoft.com/en-us/download
+
+1. Подредактировать нужное в `src/textrepack/`
+
+2. Собрать дебаг
+```
+cd src/textrepack/
+dotnet build
+mv bin\Release\net6.0\textrepack.exe ..\..\
+```
+или релиз
+```
+cd src\textrepack\
+dotnet publish --configuration Release --runtime win-x64 --no-self-contained -p:PublishSingleFile=true -p:GenerateFullPaths=true -consoleloggerparameters:NoSummary
+mv bin\Release\net6.0\win-x64\publish\textrepack.exe ..\..\
+```
