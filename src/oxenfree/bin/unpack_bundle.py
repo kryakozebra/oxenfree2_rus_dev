@@ -16,7 +16,7 @@ from oxenfree.bundle import detect_bundle_dir, get_text_tree
 
 
 logger = logging.getLogger(__name__)
-if UnityPy.__version__ != '1.9.10':
+if UnityPy.__version__ != '1.10.1':
     logger.warning(f'UnityPy {UnityPy.__version__} detected, but only 1.9.10 was tested!')
 
 
