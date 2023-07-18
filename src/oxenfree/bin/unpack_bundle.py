@@ -138,9 +138,9 @@ def dump_text_map(text_map: TextMap, output_dir: Path) -> None:
             line = [
                 tag,
                 data['bundle'],
-                data.get('en', '<none>'),
-                data.get('ru', '<none>'),
-                data.get('uk', '<none>'),
+                data.get('en', '<no-en-text>'),
+                data.get('ru', ''),
+                data.get('uk', '<no-uk-text>'),
             ]
             writer.writerow(line)
     logger.info('writing done')
