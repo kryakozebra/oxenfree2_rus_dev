@@ -5,7 +5,7 @@
         {
             "tag": "A3S8.SOUNDS_0000",
             "en": "[ latch clicks, box creaks open ]",
-            "ru_native": "<none>",
+            "ru_native": "",
             "ru_machine": "",
             "ru_final": "",
             "verified": false,
@@ -14,20 +14,20 @@
         {
             "tag": "A3S8.SOUNDS_0001",
             "en": "",
-            "ru_native": "<none>",
+            "ru_native": "",
             "ru_machine": "",
             "ru_final": "",
-            "verified": false,
-            "uk": "<none>"
+            "verified": true,
+            "uk": ""
         },
         {
             "tag": "A3S8.SOUNDS_0002",
             "en": "",
-            "ru_native": "<none>",
+            "ru_native": "",
             "ru_machine": "",
             "ru_final": "",
-            "verified": false,
-            "uk": "<none>"
+            "verified": true,
+            "uk": ""
         }
     ]
 }
