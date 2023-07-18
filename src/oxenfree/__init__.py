@@ -1,3 +1,4 @@
+from copy import copy
 import json
 import logging
 import os
@@ -38,7 +39,9 @@ class TranslationScene:
         logger.debug(f'scene dump: {self.scene}')
         dump_to = output_dir / (self.scene+'.json')
         with dump_to.open('w', encoding='utf-8') as f:
-            json.dump(self,
+            sorted_self = copy(self)
+            sorted_self.entries = list(sorted(self.entries, key=lambda x: x.tag))
+            json.dump(sorted_self,
                 f,
                 indent=4,
                 cls=_SceneEncoder,

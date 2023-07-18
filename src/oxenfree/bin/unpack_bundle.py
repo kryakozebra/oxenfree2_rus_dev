@@ -102,7 +102,9 @@ def upy_unpack_bundles(bundles: Dict[str, Path]) -> TextMap:
     return text_map
 
 
+_fill_order = 0
 def fill_text_map(tree: Dict[str, Any], bundle: str, text_map: TextMap) -> None:
+    global _fill_order
     obj_name = tree['m_Name']
     logger.debug(f'fill: {obj_name}')
     lang = tree['_ietfTag']
@@ -110,6 +112,9 @@ def fill_text_map(tree: Dict[str, Any], bundle: str, text_map: TextMap) -> None:
         logger.debug(f'fill: skip {obj_name}, useless language {lang}')
         return
     for e in tree['_database']['_entries']:
+        if lang == 'en':
+            # will sort text entries by the order they are encountered in bundle
+            _fill_order += 1
         tag = e['_entryName']
         if not tag in text_map:
             text_map[tag] = dict()
@@ -118,6 +123,7 @@ def fill_text_map(tree: Dict[str, Any], bundle: str, text_map: TextMap) -> None:
             logger.warning(f'fill: {tag}-{lang} already exists!!')
         tm[lang] = e['_localization']
         tm['bundle'] = bundle
+        tm['_order'] = _fill_order
 
 
 def dump_text_map(text_map: TextMap, output_dir: Path) -> None:
@@ -132,7 +138,7 @@ def dump_text_map(text_map: TextMap, output_dir: Path) -> None:
         writer.writerow(['tag', 'bundle', 'en', 'ru', 'uk'])
 
         items = list(text_map.items())
-        items.sort(key=lambda x: x[0])
+        items.sort(key=lambda x: x[1]['_order'])
 
         for tag, data in items:
             line = [
