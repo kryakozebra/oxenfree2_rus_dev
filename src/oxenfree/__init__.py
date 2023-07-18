@@ -47,6 +47,9 @@ class TranslationScene:
                 cls=_SceneEncoder,
                 ensure_ascii=False
             )
+            # force newlines since jsons may be edited by hand in editor
+            # TODO: if windows
+            f.write('\n')
 
 
 class _SceneEncoder(json.JSONEncoder):
