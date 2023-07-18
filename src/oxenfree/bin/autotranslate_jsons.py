@@ -85,10 +85,10 @@ def translate_scene_entries(entries: List[TranslationEntry]) -> None:
             logger.debug('translate: ru text exists')
             continue
         if not e.en:
-            logger.warning('translate: no en text')
+            logger.warning(f'translate: no en text for tag {e.tag}')
             continue
         def trans() -> str:
-            return 'DEEPL ' + deepl.translate(
+            return 'D/ ' + deepl.translate(
                 source_language='EN',
                 target_language='RU',
                 text=e.en,
