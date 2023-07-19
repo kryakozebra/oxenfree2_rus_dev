@@ -168,17 +168,17 @@
             "tag": "A2C4.JANARR_JACOB_0014",
             "en": "Do you do this?!",
             "ru_native": "",
-            "ru_machine": "D/ Делаешь ли ты это?!",
-            "ru_final": "",
+            "ru_machine": "",
+            "ru_final": "Ты это делаешь?!",
             "verified": false,
             "uk": "Ти це робиш?!"
         },
         {
             "tag": "A2C4.JANARR_JACOB_0015",
             "en": "No, I don’t ya know!",
-            "ru_native": "Нет, я don’t понимаешь!",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Нет, не понимаю!",
             "verified": false,
             "uk": "Ні, я не розумію!"
         },
@@ -230,9 +230,9 @@
         {
             "tag": "A2C4.JANARR_RILEY_0000",
             "en": "What the hell are you doing?",
-            "ru_native": "Какого черта are you doing?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Какого чёрта ты творишь?",
             "verified": false,
             "uk": "Що в біса ти робиш?"
         },

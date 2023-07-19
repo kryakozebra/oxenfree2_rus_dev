@@ -41,9 +41,9 @@
         {
             "tag": "A2G2.FTAMAC_CHOICE_0002_OPTION_0000",
             "en": "Yeah, let’s try that.",
-            "ru_native": "Да, давай try that.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Да, давай попробуем.",
             "verified": false,
             "uk": "Так, спробуємо."
         },
@@ -123,7 +123,7 @@
             "tag": "A2G2.FTAMAC_JACOB_0007",
             "en": "Huh. Well… crud. The mine’s caved in.",
             "ru_native": "",
-            "ru_machine": "D/ Huh. Ну... хреново. Шахта обвалилась.",
+            "ru_machine": "D/ Ну... хреново. Шахта обвалилась.",
             "ru_final": "",
             "verified": false,
             "uk": "Що ж… паскудство. Шахту завалило."
@@ -357,7 +357,7 @@
             "tag": "A2G2.FTAMAC_RILEY_0009",
             "en": "Huh. I think the only thing left we can do is check out Hank’s weird equipment.",
             "ru_native": "",
-            "ru_machine": "D/ Huh. Думаю, единственное, что нам осталось, это проверить странное оборудование Хэнка.",
+            "ru_machine": "D/ Хм. Думаю, единственное, что нам осталось, это проверить странное оборудование Хэнка.",
             "ru_final": "",
             "verified": false,
             "uk": "Ба. Гадаю, єдине, що нам залишилося, це перевірити дивне обладнання Хенка."

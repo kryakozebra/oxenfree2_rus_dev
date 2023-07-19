@@ -24,7 +24,7 @@
             "tag": "SYS.NOTIFY_0002",
             "en": "Walkie Contact Added",
             "ru_native": "",
-            "ru_machine": "D/ Walkie Contact Добавлено",
+            "ru_machine": "D/ Контакт добавлен",
             "ru_final": "",
             "verified": false,
             "uk": "Додано контакт"
@@ -33,7 +33,7 @@
             "tag": "SYS.NOTIFY_0003",
             "en": "Walkie Acquired",
             "ru_native": "",
-            "ru_machine": "D/ Приобретенный Walkie",
+            "ru_machine": "D/ Получена рация",
             "ru_final": "",
             "verified": false,
             "uk": "Отримано рацію"
@@ -42,7 +42,7 @@
             "tag": "SYS.NOTIFY_0004",
             "en": "Radio Acquired",
             "ru_native": "",
-            "ru_machine": "D/ Приобретенное радио",
+            "ru_machine": "D/ Получено радио",
             "ru_final": "",
             "verified": false,
             "uk": "Отримано радіо"

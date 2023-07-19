@@ -537,7 +537,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0000",
             "en": "Green. Gill. Green. Girl.",
             "ru_native": "",
-            "ru_machine": "D/ Зеленый. Gill. Грин. Девушка.",
+            "ru_machine": "D/ Зеленый. Жар. Зелёная. Девушка.",
             "ru_final": "",
             "verified": false,
             "uk": "Зелені. Зябра. Зелена. Дівчина."
@@ -554,9 +554,9 @@
         {
             "tag": "A2G4.CANDLE_ENTITY_0002",
             "en": "Door. Near. Possible.",
-            "ru_native": "Door. Near. Возможно.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Дверь. Рядом. Возможно.",
             "verified": false,
             "uk": "Двері. Поблизу. Можливо."
         },
@@ -564,7 +564,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0003",
             "en": "Bones. In. Time.",
             "ru_native": "",
-            "ru_machine": "D/ Кости. In. Time.",
+            "ru_machine": "D/ Кости. Во. Время.",
             "ru_final": "",
             "verified": false,
             "uk": "Кістки. У. Часі."
@@ -591,7 +591,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0006",
             "en": "Green. Girl. Take. Home.",
             "ru_native": "",
-            "ru_machine": "D/ Зеленый цвет. Девушка. Take. Домой.",
+            "ru_machine": "D/ Зеленый. Девушка. Отведи. Домой.",
             "ru_final": "",
             "verified": false,
             "uk": "Зелена. Дівчина. Відведи. Додому."
@@ -600,7 +600,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0007",
             "en": "Home. Home.",
             "ru_native": "",
-            "ru_machine": "D/ Дом. Home.",
+            "ru_machine": "D/ Домой. Домой.",
             "ru_final": "",
             "verified": false,
             "uk": "Додому. Додому."
@@ -609,7 +609,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0008",
             "en": "Form. Firm.",
             "ru_native": "",
-            "ru_machine": "D/ Форма. Фирма.",
+            "ru_machine": "D/ Форма. Твёрдая.",
             "ru_final": "",
             "verified": false,
             "uk": "Форма. Міцна."
@@ -618,7 +618,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0009",
             "en": "Bones. Now. Man. Bones.",
             "ru_native": "",
-            "ru_machine": "D/ Кости. Сейчас. Man. Кости.",
+            "ru_machine": "D/ Кости. Теперь. Человек. Кости.",
             "ru_final": "",
             "verified": false,
             "uk": "Кістки. Зараз. Людини. Кістки."
@@ -636,7 +636,7 @@
             "tag": "A2G4.CANDLE_ENTITY_0011",
             "en": "Words. Green. Words.",
             "ru_native": "",
-            "ru_machine": "D/ Слова. Зеленый цвет. Words.",
+            "ru_machine": "D/ Слова. Зеленый. Слова.",
             "ru_final": "",
             "verified": false,
             "uk": "Слова. Зелений. Слова."
@@ -1041,7 +1041,7 @@
             "tag": "A2G4.CANDLE_GHOST_0041",
             "en": "Change course. Rye. Lee. Go. Home.",
             "ru_native": "",
-            "ru_machine": "D/ Смени курс. Rye. Ли. Иди. Домой.",
+            "ru_machine": "D/ Смени курс. Рай. Ли. Иди. Домой.",
             "ru_final": "",
             "verified": false,
             "uk": ""
@@ -1580,9 +1580,9 @@
         {
             "tag": "A2G4.CANDLE_RILEY_0035",
             "en": "What – what is this – what are you trying to do, Alex, scare me? I don’t –",
-            "ru_native": "Что это – что ты хочешь сделать, Alex, scare me? I don’t –",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Что... Чего ты хочешь, Алекс? Напугать меня? Я не...",
             "verified": false,
             "uk": "Що… Що це таке… Що ти намагаєшся зробити, Алекс, налякати мене? Я не…"
         },
@@ -1607,9 +1607,9 @@
         {
             "tag": "A2G4.CANDLE_RILEY_0038",
             "en": "Oh will you just shut up!",
-            "ru_native": "Oh will you заткнись уже!",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Ох, да замолкни уже!",
             "verified": false,
             "uk": "Боже, стули пельку!"
         },

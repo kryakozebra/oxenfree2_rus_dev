@@ -33,7 +33,7 @@
             "tag": "GLOB.RIJAB2_CHOICE_0001_OPTION_0000",
             "en": "[TRUTH] My Mom came back.",
             "ru_native": "",
-            "ru_machine": "D/ [TRUTH] Вернулась моя мама.",
+            "ru_machine": "D/ [ПРАВДА] Вернулась моя мама.",
             "ru_final": "",
             "verified": false,
             "uk": "[ПРАВДА] Моя мама повернулася."
@@ -42,7 +42,7 @@
             "tag": "GLOB.RIJAB2_CHOICE_0001_OPTION_0001",
             "en": "[LIE] Just didn’t want to.",
             "ru_native": "",
-            "ru_machine": "D/ [LIE] Просто не хотел.",
+            "ru_machine": "D/ [ЛОЖЬ] Просто не хотел.",
             "ru_final": "",
             "verified": false,
             "uk": "[БРЕХНЯ] Просто не було бажання."
@@ -51,7 +51,7 @@
             "tag": "GLOB.RIJAB2_CHOICE_0002_OPTION_0000",
             "en": "[LIE] I don’t see her anymore.",
             "ru_native": "",
-            "ru_machine": "D/ [LIE] Я больше не вижу ее.",
+            "ru_machine": "D/ [ЛОЖЬ] Я больше не вижу ее.",
             "ru_final": "",
             "verified": false,
             "uk": "[БРЕХНЯ] Я з нею більше не бачуся."
@@ -275,9 +275,9 @@
         {
             "tag": "GLOB.RIJAB2_JACOB_0020",
             "en": "Oof. Sorry.",
-            "ru_native": "Oof. Извиниться.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Уф. Извини.",
             "verified": false,
             "uk": "Уф. Мені шкода."
         },
@@ -302,9 +302,9 @@
         {
             "tag": "GLOB.RIJAB2_JACOB_0023",
             "en": "But… sorry.",
-            "ru_native": "But… извиниться.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Но... извини.",
             "verified": false,
             "uk": "Але… мені шкода."
         },
@@ -347,9 +347,9 @@
         {
             "tag": "GLOB.RIJAB2_JACOB_0028",
             "en": "I – yeah, that makes sense.",
-            "ru_native": "I – yeah, логично.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Я... Да, логично.",
             "verified": false,
             "uk": "Так. Логічно."
         },
@@ -383,9 +383,9 @@
         {
             "tag": "GLOB.RIJAB2_JACOB_0032",
             "en": "I’m just… blathering on. Don’t mind me.",
-            "ru_native": "I’m Просто… blathering on. Не обращай. Внимания.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Меня просто... понесло. Не обращай внимания.",
             "verified": false,
             "uk": "Я просто… Не звертай уваги. Не зважай."
         },
@@ -509,9 +509,9 @@
         {
             "tag": "GLOB.RIJAB2_RILEY_0013",
             "en": "I try to get over it. You know, but…",
-            "ru_native": "I try to выброси из головы. Понимаешь, but…",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Я пытаюсь выкинуть это из головы, понимаешь. Но...",
             "verified": false,
             "uk": "Намагаюся змиритися. Розумієш, але…"
         },

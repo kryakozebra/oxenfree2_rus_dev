@@ -68,9 +68,9 @@
         {
             "tag": "A1PO.GENSTO_CHOICE_0002_OPTION_0001",
             "en": "Don’t you dare.",
-            "ru_native": "Разве нет dare.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Даже не думай.",
             "verified": false,
             "uk": "Не смій."
         },
@@ -410,9 +410,9 @@
         {
             "tag": "A1PO.GENSTO_RILEY_0007",
             "en": "Dude, no. We’re not thirteen years old.",
-            "ru_native": "Dude, no. Не ладим тринадцать years old.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Чел, не надо. Нам не по тринадцать лет.",
             "verified": false,
             "uk": "Ні. Нам уже не по тринадцять років."
         },
@@ -447,8 +447,8 @@
             "tag": "A1PO.GENSTO_RILEY_0011",
             "en": "That’s technically B&E right?",
             "ru_native": "",
-            "ru_machine": "D/ Это ведь технически B&E?",
-            "ru_final": "",
+            "ru_machine": "",
+            "ru_final": "Технически, это же проникновение со взломом, да?",
             "verified": false,
             "uk": "Технічно це злом і проникнення, чи не так?"
         },

@@ -5,9 +5,9 @@
         {
             "tag": "A3S5.FIRARR_ALEX_0000",
             "en": "[distant] Riley! Can you hear me!",
-            "ru_native": "[distant] Riley! Ты меня слышишь!",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[вдалеке] Райли! Ты меня слышишь?!",
             "verified": false,
             "uk": "[віддалено] Райлі! Ти мене чуєш?"
         },
@@ -59,9 +59,9 @@
         {
             "tag": "A3S5.FIRARR_CHOICE_0001_OPTION_0001",
             "en": "How do I get out of here?",
-            "ru_native": "How do I уходите отсюда?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Как мне выбраться отсюда?",
             "verified": false,
             "uk": "Як мені вибратися звідси?"
         },
@@ -77,9 +77,9 @@
         {
             "tag": "A3S5.FIRARR_RILEY_0001",
             "en": "Wait. I was just at the… Comm Tower?",
-            "ru_native": "Wait. Я только at Башня связи?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Стоп. Я была... у башни связи?",
             "verified": false,
             "uk": "Чекай. Я щойно була… у радіовежі?"
         },
@@ -95,9 +95,9 @@
         {
             "tag": "A3S5.FIRARR_RILEY_0003",
             "en": "[calls out] Alex? Alex?",
-            "ru_native": "[calls out] Алекс? Алекс?!?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[зовёт] Алекс? Алекс?",
             "verified": false,
             "uk": "[кличе] Алекс? Алекс?"
         },

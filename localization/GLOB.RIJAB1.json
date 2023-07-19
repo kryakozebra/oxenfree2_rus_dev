@@ -33,7 +33,7 @@
             "tag": "GLOB.RIJAB1_CHOICE_0001_OPTION_0000",
             "en": "[TRUTH] He’s not doing well.",
             "ru_native": "",
-            "ru_machine": "D/ [TRUTH] У него не все в порядке с головой.",
+            "ru_machine": "D/ [ПРАВДА] У него не все в порядке.",
             "ru_final": "",
             "verified": false,
             "uk": "[ПРАВДА] У нього не все добре."
@@ -329,9 +329,9 @@
         {
             "tag": "GLOB.RIJAB1_JACOB_0027",
             "en": "[weak chuckle] Yeah. Cross your fingers.",
-            "ru_native": "[weak chuckle] Да. Скрести пальцы.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[усмехается] Ага. Скрестим пальцы.",
             "verified": false,
             "uk": "[трохи сміється] Так. Схрести пальці."
         },
@@ -392,9 +392,9 @@
         {
             "tag": "GLOB.RIJAB1_RILEY_0005",
             "en": "So I needed to come back, really.",
-            "ru_native": "So I needed to вернись, серьезно.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Так что мне нужно было вернуться, правда.",
             "verified": false,
             "uk": "Тож я мала повернутися, справді."
         },

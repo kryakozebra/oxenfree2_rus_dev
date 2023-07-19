@@ -96,7 +96,7 @@
             "tag": "A2LA.JACAL0_ALEX_0010",
             "en": "The Sunken. The crew of the USS Kanaloa –",
             "ru_native": "",
-            "ru_machine": "D/ The Sunken. Экипаж корабля USS Kanaloa -.",
+            "ru_machine": "D/ Затонувшие. Экипаж корабля USS Kanaloa -.",
             "ru_final": "",
             "verified": false,
             "uk": "Втоплені. Екіпаж із «Каналоа»…"
@@ -132,7 +132,7 @@
             "tag": "A2LA.JACAL0_ALEX_0014",
             "en": "She has a determination in her that the Sunken are taking advantage of.",
             "ru_native": "",
-            "ru_machine": "D/ В ней есть решимость, которой пользуются Sunken.",
+            "ru_machine": "D/ В ней есть решимость, которой пользуются Затонувшие.",
             "ru_final": "",
             "verified": false,
             "uk": "Вона вперта, і втоплені цим користуються."
@@ -177,8 +177,8 @@
             "tag": "A2LA.JACAL0_ALEX_0019",
             "en": "– the Sunken are going to take over the lives and bodies of whoever they can to come back to our timeline.",
             "ru_native": "",
-            "ru_machine": "D/ - Sunken собираются завладеть жизнями и телами всех, кого смогут, чтобы вернуться в нашу временную шкалу.",
-            "ru_final": "",
+            "ru_machine": "",
+            "ru_final": "...то Затонувшие заберут жизни и тела кого угодно, только бы вернуться в наше время.",
             "verified": false,
             "uk": "…Втоплені заберуть життя й заволодіють тілами будь-кого,<br>аби тільки повернутися до нашого часу."
         },
@@ -195,7 +195,7 @@
             "tag": "A2LA.JACAL0_ALEX_0021",
             "en": "Because the Sunken – they are going to take over everyone and everything just to come back.",
             "ru_native": "",
-            "ru_machine": "D/ Потому что Sunken - они собираются захватить всех и вся, только чтобы вернуться.",
+            "ru_machine": "D/ Потому что Затонувшие - они собираются захватить всех и вся, только чтобы вернуться.",
             "ru_final": "",
             "verified": false,
             "uk": "Бо Втоплені… ні перед ким і ні перед чим не зупиняться."
@@ -1455,7 +1455,7 @@
             "tag": "A2LA.JACAL0_JACOB_0075",
             "en": "Wait… mph. I…",
             "ru_native": "",
-            "ru_machine": "D/ Подожди... мф. I...",
+            "ru_machine": "D/ Подожди... уф. Я...",
             "ru_final": "",
             "verified": false,
             "uk": "Зажди… Я…"
@@ -1464,8 +1464,8 @@
             "tag": "A2LA.JACAL0_JACOB_0076",
             "en": "Was… Alex… here? She was here. And she said… the Sunken are coming back?",
             "ru_native": "",
-            "ru_machine": "D/ Была ли... Алекс... здесь? Она была здесь. И она сказала... что Sunken возвращаются?",
-            "ru_final": "",
+            "ru_machine": "",
+            "ru_final": "Алекс... была здесь? Точно была. И она сказала... Что Затонувшие возвращаются?",
             "verified": false,
             "uk": "Алекс… була… тут? Вона тут була. І сказала… що Втоплені повертаються?"
         },
@@ -2013,8 +2013,8 @@
             "tag": "A2LA.JACAL0_RILEY_0054",
             "en": "Yeah, the crew of the USS Kanaloa wants out of purgatory.",
             "ru_native": "",
-            "ru_machine": "D/ Да, экипаж корабля USS Kanaloa хочет выбраться из чистилища.",
-            "ru_final": "",
+            "ru_machine": "",
+            "ru_final": "Ага, экипаж Каналоа хочет выбраться из чистилища.",
             "verified": false,
             "uk": "Екіпажу «Каналоа» кортить повернутися з пекла."
         },

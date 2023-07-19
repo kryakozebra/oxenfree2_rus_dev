@@ -248,18 +248,18 @@
         {
             "tag": "A3S5.OLDREX_CHOICE_0008_OPTION_0001",
             "en": "How is this going to work?",
-            "ru_native": "How это going to работай?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Как это сработает?",
             "verified": false,
             "uk": "Як це спрацює?"
         },
         {
             "tag": "A3S5.OLDREX_CHOICE_0008_OPTION_0002",
             "en": "And I’ll get out?",
-            "ru_native": "And I’ll пошла. вон?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "И я смогу выбраться?",
             "verified": false,
             "uk": "І я зможу вибратися?"
         },
@@ -320,9 +320,9 @@
         {
             "tag": "A3S5.OLDREX_CHOICE_0011_OPTION_0000",
             "en": "To do something.",
-            "ru_native": "To do интересно.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Сделать что-нибудь.",
             "verified": false,
             "uk": "Робити щось."
         },
@@ -347,9 +347,9 @@
         {
             "tag": "A3S5.OLDREX_CHOICE_0012_OPTION_0000",
             "en": "To do something. ",
-            "ru_native": "To do интересно. ",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Сделать что-нибудь.",
             "verified": false,
             "uk": "Робити щось. "
         },
@@ -374,9 +374,9 @@
         {
             "tag": "A3S5.OLDREX_CHOICE_0013_OPTION_0000",
             "en": "Wait! Don’t go yet.",
-            "ru_native": "Погоди! Не ходите yet.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Постой! Не уходи.",
             "verified": false,
             "uk": "Чекай! Не варто ще йти."
         },
@@ -428,9 +428,9 @@
         {
             "tag": "A3S5.OLDREX_REX_0000",
             "en": "[lightly chuckles] Wouldn’t you know it. You show up, fish clear out.",
-            "ru_native": "[lightly chuckles] Тебе ли не знать. Всю рыбу распугала.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[усмехается] Тебе ли не знать. Всю рыбу распугала.",
             "verified": false,
             "uk": "[трохи сміється] Хіба ти цього не знала? Ти з’являєшся, риба не клює."
         },
@@ -635,9 +635,9 @@
         {
             "tag": "A3S5.OLDREX_REX_0023",
             "en": "I’m one of those things.",
-            "ru_native": "I’m one of те... штуки.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Я ведь тоже из этих.",
             "verified": false,
             "uk": "Я одна з тих речей."
         },
@@ -662,9 +662,9 @@
         {
             "tag": "A3S5.OLDREX_REX_0026",
             "en": "But that’s me.",
-            "ru_native": "But это я.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Но то я.",
             "verified": false,
             "uk": "Але це ж я."
         },
@@ -806,9 +806,9 @@
         {
             "tag": "A3S5.OLDREX_REX_0042",
             "en": "You used to say you can’t punch every problem, but hey – at least punching is trying something!",
-            "ru_native": "You used to say все проблемы кулаками не решить, хотя – at least punching is trying что-то там!",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Ты говорила, что все проблемы кулаками не решишь; но кулаки - это ведь уже хоть что-то!",
             "verified": false,
             "uk": "Ти казала, що не можна кожну проблему вирішувати силою, але ж… якщо застосовувати<br>силу, то це ж, принаймні, щось намагатися вирішити!"
         },
@@ -1067,18 +1067,18 @@
         {
             "tag": "A3S5.OLDREX_REX_0071",
             "en": "DO something.",
-            "ru_native": "DO что-то там.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "СДЕЛАЙ что-нибудь.",
             "verified": false,
             "uk": "ЗРОБИ щось."
         },
         {
             "tag": "A3S5.OLDREX_REX_0072",
             "en": "BE something.",
-            "ru_native": "BE вроде того.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "БУДЬ чем-нибудь.",
             "verified": false,
             "uk": "БУДЬ чимось важливим."
         },
@@ -1130,9 +1130,9 @@
         {
             "tag": "A3S5.OLDREX_REX_0078",
             "en": "No, Riley –",
-            "ru_native": "No, Райли –",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Нет, Райли...",
             "verified": false,
             "uk": "Ні, Райлі…"
         },
@@ -1175,9 +1175,9 @@
         {
             "tag": "A3S5.OLDREX_REX_0083",
             "en": "Riley, stop.",
-            "ru_native": "Райли, stop.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Райли, хватит.",
             "verified": false,
             "uk": "Райлі, зупинися."
         },
@@ -1247,9 +1247,9 @@
         {
             "tag": "A3S5.OLDREX_REX_0091",
             "en": "Yes you do, Mom.",
-            "ru_native": "Да. Ты понимаешь, Mom.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Всё ты понимаешь, мам.",
             "verified": false,
             "uk": "Ні. Ти розумієш, мамо."
         },
@@ -1285,7 +1285,7 @@
             "en": "[sigh] Yes. Yes you do.",
             "ru_native": "[вздыхает] Yes. Да. Ты понимаешь.",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[вздох] Да. Это правда.",
             "verified": false,
             "uk": "[зітхає] Так. Це правда."
         },
@@ -1490,9 +1490,9 @@
         {
             "tag": "A3S5.OLDREX_RILEY_0012",
             "en": "[big sigh] Sorry. I… I’m sorry.",
-            "ru_native": "[big Ох] Sorry. I… Мне жаль.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[вздох] Прости. Мне жаль.",
             "verified": false,
             "uk": "[сильно зітхає] Шкода. Вибач, я…"
         },
@@ -1778,18 +1778,18 @@
         {
             "tag": "A3S5.OLDREX_RILEY_0044",
             "en": "I – I don’t know, Rex, I have no idea why –",
-            "ru_native": "I – Не знаю, Rex, Понятия не имею why –",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Я не знаю, Рекс. Не знаю, почему...",
             "verified": false,
             "uk": "Я… Я не знаю, Рексе, гадки не маю, чому…"
         },
         {
             "tag": "A3S5.OLDREX_RILEY_0045",
             "en": "You tell me, Rex. You tell me what I really –",
-            "ru_native": "Ты мне скажи, Rex. Ты мне скажи! что I really –",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Это ты мне скажи, Рекс. Скажи, что я на самом деле...",
             "verified": false,
             "uk": "Це ти мені скажи, Рексе. Це ти мені скажи, що насправді…"
         },
@@ -1805,9 +1805,9 @@
         {
             "tag": "A3S5.OLDREX_RILEY_0047",
             "en": "Wait.. Wait, Rex! I –",
-            "ru_native": "Стоп. Рекс! I –",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Стой, Рекс! Я...",
             "verified": false,
             "uk": "Стривай, Рексе! Я…"
         },

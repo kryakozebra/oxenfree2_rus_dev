@@ -86,9 +86,9 @@
         {
             "tag": "A3S5.COMTOW_CHOICE_0002_OPTION_0001",
             "en": "No, this isn’t right.",
-            "ru_native": "No, это неправильно.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Нет, это неправильно.",
             "verified": false,
             "uk": "Ні, щось не те."
         },
@@ -239,9 +239,9 @@
         {
             "tag": "A3S5.COMTOW_RILEY_0008",
             "en": "Wait… no, this isn’t – this isn’t right.",
-            "ru_native": "Погоди… no, this isn’t – это неправильно.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Стой... Нет, это неправильно",
             "verified": false,
             "uk": "Чекай… ні, щось… щось не те."
         },

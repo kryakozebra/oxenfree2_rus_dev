@@ -5,9 +5,9 @@
         {
             "tag": "A3S6.TUPAP1_ALEX_0000",
             "en": "Perfect! Keep going!",
-            "ru_native": "Perfect! Продолжай!",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Отлично! Продолжай!",
             "verified": false,
             "uk": "Чудово! Не зупиняймося!"
         },
@@ -87,7 +87,7 @@
             "tag": "A3S6.TUPAP1_OLIVIA_0005",
             "en": "[in pain] Ri – Riley! D – don’t.",
             "ru_native": "",
-            "ru_machine": "D/ [с болью] Ри - Райли! D - не надо.",
+            "ru_machine": "D/ [с болью] Рай... Райли! Не... надо.",
             "ru_final": "",
             "verified": false,
             "uk": "[у болю] Рай… Райлі! Не… не треба."
@@ -132,7 +132,7 @@
             "tag": "A3S6.TUPAP1_SUNKEN_0000",
             "en": "You. Fall.",
             "ru_native": "",
-            "ru_machine": "D/ Ты. Падение.",
+            "ru_machine": "D/ Ты. Падёшь.",
             "ru_final": "",
             "verified": false,
             "uk": "Ти. Впадеш."
@@ -141,7 +141,7 @@
             "tag": "A3S6.TUPAP1_SUNKEN_0001",
             "en": "We. Rise.",
             "ru_native": "",
-            "ru_machine": "D/ Мы. Rise.",
+            "ru_machine": "D/ Мы. Поднимемся.",
             "ru_final": "",
             "verified": false,
             "uk": "Ми. Повстанемо."

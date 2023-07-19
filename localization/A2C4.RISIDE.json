@@ -15,7 +15,7 @@
             "tag": "A2C4.RISIDE_CHOICE_0000_OPTION_0001",
             "en": "[LIE] Your house is on fire.",
             "ru_native": "",
-            "ru_machine": "D/ [LIE] Твой дом горит.",
+            "ru_machine": "D/ [ЛОЖЬ] Твой дом горит.",
             "ru_final": "",
             "verified": false,
             "uk": "[БРЕХНЯ] Твоя хата горить."
@@ -23,18 +23,18 @@
         {
             "tag": "A2C4.RISIDE_CHOICE_0001_OPTION_0000",
             "en": "I’m hilarious.",
-            "ru_native": "I’m очень смешно.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Смешно же.",
             "verified": false,
             "uk": "Це кумедно."
         },
         {
             "tag": "A2C4.RISIDE_CHOICE_0001_OPTION_0001",
             "en": "I’m serious, it’s on fire.",
-            "ru_native": "Я не шучу, it’s on жарко.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Я серьёзно - горит.",
             "verified": false,
             "uk": "Я не шуткую, вона горить."
         },
@@ -185,9 +185,9 @@
         {
             "tag": "A2C4.RISIDE_RILEY_0002",
             "en": "God, I’m hilarious.",
-            "ru_native": "God, I’m очень смешно.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Блин, ну смешно же!",
             "verified": false,
             "uk": "Господи, яка ж я кумедна."
         },

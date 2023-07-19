@@ -581,9 +581,9 @@
         {
             "tag": "A3S4.TOPTOW_OLIVIA_0020",
             "en": "Now… we are Olivia. Now, we are..",
-            "ru_native": "Now… мы Оливия. Now, мы?..",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Теперь... Мы - Оливия. Теперь, мы...",
             "verified": false,
             "uk": "Відтепер… ми Олівія. Відтепер, ми…"
         },
@@ -591,7 +591,7 @@
             "tag": "A3S4.TOPTOW_OLIVIA_0021",
             "en": "Ri-ley",
             "ru_native": "",
-            "ru_machine": "D/ Ri-ley",
+            "ru_machine": "D/ Рай-ли",
             "ru_final": "",
             "verified": false,
             "uk": "Рай-лі"
@@ -717,7 +717,7 @@
             "tag": "A3S4.TOPTOW_SUNKEN_0000",
             "en": "Home. Is. Where. Live.",
             "ru_native": "",
-            "ru_machine": "D/ Дом. Is. Where. Live.",
+            "ru_machine": "D/ Дом. Там. Где. Живут.",
             "ru_final": "",
             "verified": false,
             "uk": "Дім. Це. Де. Життя."

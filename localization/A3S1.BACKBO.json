@@ -167,9 +167,9 @@
         {
             "tag": "A3S1.BACKBO_CHOICE_0005_OPTION_0000",
             "en": "Sorry, but no.",
-            "ru_native": "Прости, but no.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Извини, но нет.",
             "verified": false,
             "uk": "Вибач, але ні."
         },
@@ -663,7 +663,7 @@
             "tag": "A3S1.BACKBO_JACOB_0053",
             "en": "Then—fine. Fine. I won’t be a—whatever, I’ll respect your wishes.",
             "ru_native": "",
-            "ru_machine": "D/ Then-fine. Отлично. Я не буду абы как, я буду уважать твои желания.",
+            "ru_machine": "D/ Тогда... Отлично. Ладно. Я не буду... ладно, я буду уважать твои желания.",
             "ru_final": "",
             "verified": false,
             "uk": "Тоді — добре. Добре. Я не буду… нехай, я поважатиму твої бажання."
@@ -771,7 +771,7 @@
             "tag": "A3S1.BACKBO_JACOB_0065",
             "en": "Then—fine. Fine. I won’t be a—whatever, I’ll respect your wishes.",
             "ru_native": "",
-            "ru_machine": "D/ Then-fine. Отлично. Я не буду абы как, я буду уважать твои желания.",
+            "ru_machine": "D/ Тогда... Отлично. Ладно. Я не буду... ладно, я буду уважать твои желания.",
             "ru_final": "",
             "verified": false,
             "uk": "Тоді — добре. Добре. Я не буду… нехай, я поважатиму твої бажання."
@@ -1040,9 +1040,9 @@
         {
             "tag": "A3S1.BACKBO_RILEY_0025",
             "en": "Jacob… I really… [sigh] I think you should stay here.",
-            "ru_native": "Джейкоб… I really… [sigh] I think тебе стоит остаться.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Джейкоб, я правда... [вздох] Думаю, тебе стоит остаться.",
             "verified": false,
             "uk": "Джейкобе… Чесно… [зітхає] Гадаю, тобі варто залишитися тут."
         },

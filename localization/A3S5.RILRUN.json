@@ -68,9 +68,9 @@
         {
             "tag": "A3S5.RILRUN_JACOB_0000",
             "en": "[very distant] Riley! Wake up!",
-            "ru_native": "[очень distant] Райли! Глаза разуй!",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[вдалеке] Райли! Очнись!",
             "verified": false,
             "uk": "[дуже віддалений звук] Райлі! Прокинься!"
         },
@@ -122,9 +122,9 @@
         {
             "tag": "A3S5.RILRUN_RILEY_0003",
             "en": "[to herself] God, just a little… bit… further!",
-            "ru_native": "[to herself] God, немного осталось!",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[себе] Боже, ещё... чуть-чуть!",
             "verified": false,
             "uk": "[до себе] Господи, просто… ще… трохи!"
         },
@@ -140,9 +140,9 @@
         {
             "tag": "A3S5.RILRUN_SUNKEN_0000",
             "en": "Never. More.",
-            "ru_native": "Никогда. More.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Больше. Никогда.",
             "verified": false,
             "uk": "Ніколи. Більше."
         },
@@ -185,9 +185,9 @@
         {
             "tag": "A3S5.RILRUN_SUNKEN_0005",
             "en": "You. Know. Nothing.",
-            "ru_native": "Понимаешь. Nothing.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Ты. Не знаешь. Ничего.",
             "verified": false,
             "uk": "Ти. Знаєш. Нічого."
         },
@@ -195,7 +195,7 @@
             "tag": "A3S5.RILRUN_SUNKEN_0006",
             "en": "We. Toil. You. Sink.",
             "ru_native": "",
-            "ru_machine": "D/ Мы. Toil. Ты. Sink.",
+            "ru_machine": "D/ Мы. Достигнем. Ты. Утонешь.",
             "ru_final": "",
             "verified": false,
             "uk": "Ми. Досягнемо. Ти. Потонеш."
@@ -213,7 +213,7 @@
             "tag": "A3S5.RILRUN_SUNKEN_0008",
             "en": "You’re. Dead.",
             "ru_native": "",
-            "ru_machine": "D/ Ты. Dead.",
+            "ru_machine": "D/ Ты. Мертва.",
             "ru_final": "",
             "verified": false,
             "uk": "Ти. Мертва."

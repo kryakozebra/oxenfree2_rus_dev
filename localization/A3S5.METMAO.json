@@ -14,9 +14,9 @@
         {
             "tag": "A3S5.METMAO_CHOICE_0000_OPTION_0001",
             "en": "Are you Maggie?",
-            "ru_native": "А вы Maggie?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Вы - Мэгги?",
             "verified": false,
             "uk": "А ви Меггі?"
         },
@@ -41,9 +41,9 @@
         {
             "tag": "A3S5.METMAO_CHOICE_0001_OPTION_0001",
             "en": "Maggie Adler?",
-            "ru_native": "Мэгги Adler?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Мэгги Адлер?",
             "verified": false,
             "uk": "Меггі Адлер?"
         },
@@ -68,9 +68,9 @@
         {
             "tag": "A3S5.METMAO_CHOICE_0002_OPTION_0001",
             "en": "Who are you, then?",
-            "ru_native": "Кто... ты, then?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "А ты тогда кто?",
             "verified": false,
             "uk": "Хто ви?"
         },
@@ -95,9 +95,9 @@
         {
             "tag": "A3S5.METMAO_CHOICE_0003_OPTION_0001",
             "en": "Maggie Adler?",
-            "ru_native": "Мэгги Adler?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Мэгги Адлер?",
             "verified": false,
             "uk": "Меггі Адлер?"
         },
@@ -239,9 +239,9 @@
         {
             "tag": "A3S5.METMAO_MAGGIE_0011",
             "en": "Something like that.",
-            "ru_native": "Интересно like that.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Типа того.",
             "verified": false,
             "uk": "Типу того."
         },
@@ -509,9 +509,9 @@
         {
             "tag": "A3S5.METMAO_RILEY_0002",
             "en": "What are you talking about? Where am I?",
-            "ru_native": "О чем ты говоришь? Where am I?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "О чём ты? Где я?",
             "verified": false,
             "uk": "Ти про що? Де я?"
         },
@@ -581,9 +581,9 @@
         {
             "tag": "A3S5.METMAO_RILEY_0010",
             "en": "Not yet – I’m not dead yet!",
-            "ru_native": "Пока нет – Не буду dead yet!",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Нет уж, я ещё не померла!",
             "verified": false,
             "uk": "Ще ні, я ще не труп!"
         },

@@ -6,7 +6,7 @@
             "tag": "A3S5.TITRG1_ALEX_0000",
             "en": "[distant] Find your way back!",
             "ru_native": "",
-            "ru_machine": "D/ [distant] Найди дорогу назад!",
+            "ru_machine": "D/ [вдалеке] Найди дорогу назад!",
             "ru_final": "",
             "verified": false,
             "uk": "[віддалений звук] Знайди дорогу назад!"
@@ -23,27 +23,27 @@
         {
             "tag": "A3S5.TITRG1_CHOICE_0000_OPTION_0001",
             "en": "Ugh, this sucks.",
-            "ru_native": "Черт, вот sucks.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Какой отстой.",
             "verified": false,
             "uk": "Ох, халепа."
         },
         {
             "tag": "A3S5.TITRG1_RILEY_0000",
             "en": "[calling out] Alex! Alex, are you– are you here?",
-            "ru_native": "[calling out] Alex! Алекс? Ты... ты здесь?",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[зовёт] Алекс! Алекс, ты тут?",
             "verified": false,
             "uk": "[кличе] Алекс? Алекс, ти… ти тут?"
         },
         {
             "tag": "A3S5.TITRG1_RILEY_0001",
             "en": "[sigh] Crap.",
-            "ru_native": "[вздыхает] Crap.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "[вздох] Чёрт.",
             "verified": false,
             "uk": "[зітхає] Чорт."
         },

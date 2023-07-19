@@ -347,9 +347,9 @@
         {
             "tag": "A3S6.WHATTD_ALEX_0038",
             "en": "On the other side of this portal, you’ll be between spaces.",
-            "ru_native": "На другой стороне портала ты окажешься между измерениями. Between times.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "По ту сторону портала ты окажешься между мирами.",
             "verified": false,
             "uk": "На тому боці цього порталу ти опинишся між вимірами."
         },
@@ -771,7 +771,7 @@
             "tag": "A3S6.WHATTD_ALEX_0085",
             "en": "Olivia. The Sunken can’t help you.",
             "ru_native": "",
-            "ru_machine": "D/ Оливия. Sunken не сможет тебе помочь.",
+            "ru_machine": "D/ Оливия. Затонувшие не смогут тебе помочь.",
             "ru_final": "",
             "verified": false,
             "uk": "Олівія. Втоплені не можуть допомогти."
@@ -789,7 +789,7 @@
             "tag": "A3S6.WHATTD_ALEX_0087",
             "en": "We’re… still between things.",
             "ru_native": "",
-            "ru_machine": "D/ Мы... все еще между делом.",
+            "ru_machine": "D/ Мы... все еще между мирами.",
             "ru_final": "",
             "verified": false,
             "uk": "Ми… усе ще між просторами."
@@ -798,7 +798,7 @@
             "tag": "A3S6.WHATTD_ALEX_0088",
             "en": "We’re not done, yet. We’re… still between things.",
             "ru_native": "",
-            "ru_machine": "D/ Мы еще не закончили. Мы... все еще между делом.",
+            "ru_machine": "D/ Мы еще не закончили. Мы... все еще между мирами.",
             "ru_final": "",
             "verified": false,
             "uk": "Ми ще не закінчили. Ми… усе ще між просторами."
@@ -806,9 +806,9 @@
         {
             "tag": "A3S6.WHATTD_ALEX_0089",
             "en": "Good question. We’re… still between things.",
-            "ru_native": "Хороший вопрос. We’re… что есть between things.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Хороший вопрос. Мы... всё ещё между мирами.",
             "verified": false,
             "uk": "Хороше питання. Ми… усе ще між просторами."
         },
@@ -825,7 +825,7 @@
             "tag": "A3S6.WHATTD_ALEX_0091",
             "en": "We’ve pushed back the Sunken and systemized the portal.",
             "ru_native": "",
-            "ru_machine": "D/ Мы отодвинули Sunken и систематизировали портал.",
+            "ru_machine": "D/ Мы отогнали Затонувших и систематизировали портал.",
             "ru_final": "",
             "verified": false,
             "uk": "Ми дали опір Втопленим і систематизували портал."
@@ -843,7 +843,7 @@
             "tag": "A3S6.WHATTD_ALEX_0093",
             "en": "Because of how the Sunken and me and my friends entered… we didn’t have the choice.",
             "ru_native": "",
-            "ru_machine": "D/ Из-за того, как вошли в Sunken и я, и мои друзья... у нас не было выбора.",
+            "ru_machine": "D/ Из-за того, как вошли Затонувшие и я, и мои друзья... у нас не было выбора.",
             "ru_final": "",
             "verified": false,
             "uk": "Через те, як Втоплені, я та мої друзі увійшли… у нас не було вибору."
@@ -905,27 +905,27 @@
         {
             "tag": "A3S6.WHATTD_ALEX_0100",
             "en": "And I know you know exactly the kind of situation I’m talking about.",
-            "ru_native": "And Я знаю, что ты точно знаешь, о чем я говорю.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "И уверен, ты отлично понимаешь, о чём я.",
             "verified": false,
             "uk": "Знаю, що ти розумієш, про що я."
         },
         {
             "tag": "A3S6.WHATTD_ALEX_0101",
             "en": "Don’t you.",
-            "ru_native": "Не надо you.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Не правда ли?",
             "verified": false,
             "uk": "Хіба ні?"
         },
         {
             "tag": "A3S6.WHATTD_ALEX_0102",
             "en": "Yeah. Like you and your dad.",
-            "ru_native": "Да. Как. вы and your dad.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Да. Как ты с отцом.",
             "verified": false,
             "uk": "Так. Саме так, як ти і твій тато."
         },
@@ -2255,9 +2255,9 @@
         {
             "tag": "A3S6.WHATTD_OLIVIA_0030",
             "en": "I built that antenna. I built that antenna, I studied the websites, I called the experts, I…",
-            "ru_native": "Я построила антенну. Построила антенну, изучала веб-сайты, звонила экспертам, z…",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Я построила антенну. Построила антенну, изучала веб-сайты, звонила экспертам, я…",
             "verified": false,
             "uk": "Я збудувала антену. Я збудувала антену,<br>я вивчала вебсайти, я телефонувала експертам, я…"
         },
@@ -2498,9 +2498,9 @@
         {
             "tag": "A3S6.WHATTD_OLIVIA_0057",
             "en": "But… in the end…",
-            "ru_native": "But… in конец…",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Но в итоге...",
             "verified": false,
             "uk": "Але… потім…"
         },
@@ -2589,7 +2589,7 @@
             "tag": "A3S6.WHATTD_OLIVIA_0067",
             "en": "[in pain] Ri – Riley! D – don’t.",
             "ru_native": "",
-            "ru_machine": "D/ [с болью] Ри - Райли! D - не надо.",
+            "ru_machine": "D/ [с болью] Рай...Райли! Не... надо.",
             "ru_final": "",
             "verified": false,
             "uk": "[у болю] Рай… Райлі! Не… не треба."
@@ -3146,9 +3146,9 @@
         {
             "tag": "A3S6.WHATTD_RILEY_0056",
             "en": "Olivia, stop. C’mon. This is over.",
-            "ru_native": "Оливия, stop. C’mon. Все закончилось.",
+            "ru_native": "",
             "ru_machine": "",
-            "ru_final": "",
+            "ru_final": "Оливия, хватит. Ну же. Всё закончилось.",
             "verified": false,
             "uk": "Олівіє, зупинися. Годі. Усе закінчилося."
         },
