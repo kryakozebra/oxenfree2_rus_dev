@@ -16,8 +16,8 @@
             "en": "We found a ghost’s shoe.",
             "ru_native": "Мы нашли ботинок призрака.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Мы нашли ботинок призрака.",
+            "verified": true,
             "uk": "Ми знайшли черевик привида."
         },
         {
@@ -25,8 +25,8 @@
             "en": "Yeah.",
             "ru_native": "Да.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Да.",
+            "verified": true,
             "uk": "Мгм."
         },
         {
@@ -34,8 +34,8 @@
             "en": "Hank, you there?",
             "ru_native": "Хэнк, ты там?",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Хэнк, вы там?",
+            "verified": true,
             "uk": "Хенку, Ти там?"
         },
         {
@@ -43,8 +43,8 @@
             "en": "I think I found your physical evidence…",
             "ru_native": "Кажется, я нашла твое вещественное доказательство...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Кажется, я нашла ваше вещественное доказательство…",
+            "verified": true,
             "uk": "Гадаю, я знайшла речовий доказ…"
         }
     ]

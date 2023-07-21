@@ -7,8 +7,8 @@
             "en": "My motion alarm triggered on the box. Is that you? Over.",
             "ru_native": "У меня сработал сигнал движения. Это ты? Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "У меня сработал сигнал движения. Это вы? Прием.",
+            "verified": true,
             "uk": "У мене на поштовій скринці спрацював датчик руху. Це ти? Прийом."
         },
         {
@@ -16,8 +16,8 @@
             "en": "Riley? Are you there? Was that you at the box? Over.",
             "ru_native": "Райли? Ты там? Это была ты? Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Райли? Вы там? Это были вы? Прием.",
+            "verified": true,
             "uk": "Райлі? Ти там? То була ти? Прийом."
         },
         {
@@ -25,8 +25,8 @@
             "en": "Riley, you’re the only one who would have messed with it. Answer, please. Over.",
             "ru_native": "Райли, ты единственная, кто мог это сделать. Ответь, пожалуйста. Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Райли, вы - единственная, кто мог это сделать. Ответьте, пожалуйста. Прием.",
+            "verified": true,
             "uk": "Райлі, ти єдина, хто міг це зробити. Дай відповідь, будь ласка. Прийом."
         },
         {
@@ -34,8 +34,8 @@
             "en": "Pick up when you can. Over and out.",
             "ru_native": "Ответь, как сможешь. Конец связи.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Ответьте, как сможете. Конец связи.",
+            "verified": true,
             "uk": "Дай відповідь, як зможеш. Кінець зв’язку."
         }
     ]

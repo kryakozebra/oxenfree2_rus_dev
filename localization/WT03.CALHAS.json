@@ -16,8 +16,8 @@
             "en": "We found a ghost’s shoe.",
             "ru_native": "Мы нашли ботинок призрака.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Мы нашли ботинок призрака.",
+            "verified": true,
             "uk": "Ми знайшли черевик привида."
         },
         {
@@ -25,8 +25,8 @@
             "en": "Nope.",
             "ru_native": "Не-а.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Не-а.",
+            "verified": true,
             "uk": "Та ні."
         },
         {
@@ -34,8 +34,8 @@
             "en": "We found a ghost’s shoe.",
             "ru_native": "",
             "ru_machine": "D/ Мы нашли ботинок призрака.",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Мы нашли ботинок призрака.",
+            "verified": true,
             "uk": "Ми знайшли черевик привида."
         },
         {
@@ -43,8 +43,8 @@
             "en": "Anything else?",
             "ru_native": "Что-то еще?",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Что-то еще?",
+            "verified": true,
             "uk": "Ще що-небудь?"
         },
         {
@@ -52,8 +52,8 @@
             "en": "Uh, yeah, actually. I think I found your physical evidence…",
             "ru_native": "Вообще-то да. Думаю, я нашла твое вещественное доказательство...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Вообще-то да. Думаю, я нашла твое вещественное доказательство…",
+            "verified": true,
             "uk": "Насправді, так. Гадаю, я знайшла речовий доказ…"
         },
         {
@@ -61,8 +61,8 @@
             "en": "Nope. Talk to you later. Over and out.",
             "ru_native": "Не-а. Я потом позвоню. Конец связи.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Не-а. Я потом позвоню. Конец связи.",
+            "verified": true,
             "uk": "Ні. Потім поговоримо. Кінець зв’язку."
         }
     ]

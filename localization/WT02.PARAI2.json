@@ -7,8 +7,8 @@
             "en": "Riley? Come in, please. Over.",
             "ru_native": "Райли? Ответь, пожалуйста. Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Райли? Ответь, пожалуйста. Прием.",
+            "verified": true,
             "uk": "Райлі? Дай відповідь, будь ласка. Прийом."
         },
         {
@@ -16,8 +16,8 @@
             "en": "Please answer, this is important. Over.",
             "ru_native": "Пожалуйста, ответь, это важно. Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Пожалуйста, ответь, это важно. Прием.",
+            "verified": true,
             "uk": "Будь ласка, відповідай, це… це важливо. Прийом."
         },
         {
@@ -25,8 +25,8 @@
             "en": "Call me as soon as you get a chance, please. Over and out.",
             "ru_native": "Перезвони мне как можно скорее, пожалуйста. Конец связи.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Перезвони мне как можно скорее, пожалуйста. Конец связи.",
+            "verified": true,
             "uk": "Зв’яжися зі мною якнайшвидше, будь ласка. Кінець зв’язку."
         }
     ]

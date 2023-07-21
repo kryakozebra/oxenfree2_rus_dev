@@ -16,8 +16,8 @@
             "en": "Something good might happen!",
             "ru_native": "Может выйти что-то хорошее!",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Может выйти что-то хорошее!",
+            "verified": true,
             "uk": "Може в нас щось вийде!"
         },
         {
@@ -25,8 +25,8 @@
             "en": "I’m just trying to help!",
             "ru_native": "Я просто пытаюсь помочь!",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Я просто пытаюсь помочь!",
+            "verified": true,
             "uk": "Я просто намагаюся допомогти!"
         },
         {
@@ -34,8 +34,8 @@
             "en": "You think I should stop?",
             "ru_native": "Думаешь, мне надо остановиться?",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Думаешь, мне надо остановиться?",
+            "verified": true,
             "uk": "Гадаєш, мені варто зупинитися?"
         },
         {
@@ -52,8 +52,8 @@
             "en": "[nervous] God, okay. This is… you’re doing this.",
             "ru_native": "Боже, ладно. Это... это ты делаешь.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "[нервно] Боже, ладно. Это… это ты делаешь.",
+            "verified": true,
             "uk": "[нервово] Господи, гаразд. Це… це ти зробиш."
         },
         {
@@ -61,8 +61,8 @@
             "en": "You’re just making another one.",
             "ru_native": "Ты просто создаешь еще один.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Ты просто создаешь еще один.",
+            "verified": true,
             "uk": "Ти просто зробиш ще один."
         },
         {
@@ -70,8 +70,8 @@
             "en": "Good. Great.",
             "ru_native": "Отлично. Супер.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Отлично. Супер.",
+            "verified": true,
             "uk": "Чудово. Супер."
         },
         {
@@ -79,8 +79,8 @@
             "en": "That’s, uh, what we need.",
             "ru_native": "Это, хм, то что надо.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Это, хм, то что надо.",
+            "verified": true,
             "uk": "Це, типу, те, що треба."
         },
         {
@@ -88,8 +88,8 @@
             "en": "Yeah, it gets it out to being here with us!",
             "ru_native": "Ага, поможет вытащить это сюда к нам!",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Ага, оно поможет вытащить это сюда к нам!",
+            "verified": true,
             "uk": ""
         },
         {
@@ -97,8 +97,8 @@
             "en": "I don’t know if that’s a hard and fast rule, here…",
             "ru_native": "Не знаю, Райли, не знаю. Без понятия.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Не знаю, можно ли что-то утверждать при таких обстоятельствах…",
+            "verified": true,
             "uk": "Не знаю, чи можна щось стверджувати за цих обставин…"
         },
         {
@@ -106,8 +106,8 @@
             "en": "I don’t know if that’s a hard and fast rule, here…",
             "ru_native": "Не знаю, всегда оно так работает или нет...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Не знаю, можно ли что-то утверждать при таких обстоятельствах…",
+            "verified": true,
             "uk": "Не знаю, чи можна щось стверджувати за цих обставин…"
         },
         {
@@ -115,8 +115,8 @@
             "en": "I don’t know if that’s a hard and fast rule, here…",
             "ru_native": "Не знаю, всегда оно так работает или нет...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Не знаю, можно ли что-то утверждать при таких обстоятельствах…",
+            "verified": true,
             "uk": "Не знаю, чи можна щось стверджувати за цих обставин…"
         },
         {
@@ -124,8 +124,8 @@
             "en": "Hey, Jacob, something good might happen—we might find out something or… tune in a—",
             "ru_native": "Эй, Джейкоб, может выйти что-то хорошее – мы<br>можем что-то узнать или... настроиться на...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Эй, Джейкоб, может у нас что-то получится, может что-то узнаем или… настроимся на что-то…",
+            "verified": true,
             "uk": "Гей, Джейкобе, може в нас щось вийде, може щось дізнаємося чи…<br>налаштуємося на щось…"
         },
         {
@@ -133,8 +133,8 @@
             "en": "—I don’t know. But I wanna find out.",
             "ru_native": "...Не знаю. Но хочу узнать.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "…Не знаю. Но хочу узнать.",
+            "verified": true,
             "uk": "…не знаю. Але хочу дізнатися."
         },
         {
@@ -143,7 +143,7 @@
             "ru_native": "Я просто хочу помочь, понимаешь?",
             "ru_machine": "",
             "ru_final": "",
-            "verified": false,
+            "verified": true,
             "uk": ""
         },
         {
@@ -152,7 +152,7 @@
             "ru_native": "Думаю, настройка... поможет.",
             "ru_machine": "",
             "ru_final": "",
-            "verified": false,
+            "verified": true,
             "uk": ""
         },
         {
@@ -160,8 +160,8 @@
             "en": "What—do you think I should stop?",
             "ru_native": "Думаешь, мне надо остановиться?",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Что, думаешь, мне надо остановиться?",
+            "verified": true,
             "uk": "Гадаєш, мені варто зупинитися?"
         },
         {
@@ -169,8 +169,8 @@
             "en": "I’m just trying to help, Jacob. Opening these things sometimes… shows us stuff.",
             "ru_native": "Я просто пытаюсь помочь, Джейкоб. Когда<br>открываешь эти штуки, иногда... кое-что появляется.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Я просто пытаюсь помочь, Джейкоб. Когда открываешь эти штуки,<br>иногда… они кое-что показывают.",
+            "verified": true,
             "uk": "Я просто намагаюся допомогти, Джейкобе. Іноді після відкриття цих штук…<br>ми щось дізнаємося."
         },
         {
@@ -178,8 +178,8 @@
             "en": "I’m just trying to help, Jacob. Opening these things sometimes… shows us stuff.",
             "ru_native": "Я просто пытаюсь помочь, Джейкоб. Когда<br>открываешь эти штуки, иногда... кое-что появляется.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Я просто пытаюсь помочь, Джейкоб. Когда открываешь эти штуки,<br>иногда… они кое-что показывают.",
+            "verified": true,
             "uk": "Я просто намагаюся допомогти, Джейкобе.<br>Іноді після відкриття цих штук… ми щось дізнаємося."
         }
     ]

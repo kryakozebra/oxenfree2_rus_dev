@@ -7,8 +7,8 @@
             "en": "Ugh. My… hip flexor's gonna be mad at me tomorrow.",
             "ru_native": "Ох. Мои мышцы завтра будут меня ненавидеть.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Ох. Мои… бедренные мышцы будут ненавидеть меня завтра.",
+            "verified": true,
             "uk": "Уф. Мої… м’язи завтра болітимуть."
         },
         {
@@ -16,8 +16,8 @@
             "en": "[grunts]",
             "ru_native": "(ворчит)",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "[ворчит]",
+            "verified": true,
             "uk": "[бурчить]"
         }
     ]

@@ -16,8 +16,8 @@
             "en": "It’s Riley, Shelley.",
             "ru_native": "Шелли, это Райли.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Шелли, это Райли.",
+            "verified": true,
             "uk": "Шеллі, це Райлі."
         },
         {
@@ -34,8 +34,8 @@
             "en": "A ghost is warning you.",
             "ru_native": "Призрак вас предупреждает.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Призрак вас предупреждает.",
+            "verified": true,
             "uk": "Привид тебе попереджає."
         },
         {
@@ -43,8 +43,8 @@
             "en": "A weird call gave us bad news.",
             "ru_native": "В олене был портал.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Странный звонок принёс плохие вести.",
+            "verified": true,
             "uk": "Дивний дзвінок приніс нам погані новини."
         },
         {
@@ -61,8 +61,8 @@
             "en": "A ghost has a message.",
             "ru_native": "У призрака есть сообщение.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "У призрака есть сообщение.",
+            "verified": true,
             "uk": "Привид має повідомлення для тебе."
         },
         {
@@ -70,8 +70,8 @@
             "en": "A weird call gave us bad news.",
             "ru_native": "В олене был портал.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Странный звонок принёс плохие вести.",
+            "verified": true,
             "uk": "Дивний дзвінок приніс нам погані новини."
         },
         {
@@ -88,8 +88,8 @@
             "en": "Don’t go.",
             "ru_native": "Не ходите.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Не идите.",
+            "verified": true,
             "uk": "Не варто йти."
         },
         {
@@ -97,8 +97,8 @@
             "en": "Go, it’s okay.",
             "ru_native": "Идите, все нормально.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Идите, все нормально.",
+            "verified": true,
             "uk": "Йди, усе буде добре."
         },
         {
@@ -106,8 +106,8 @@
             "en": "Ranger Shelley? It’s Riley. Over.",
             "ru_native": "Рейнджер Шелли? Это Райли. Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Рейнджер Шелли? Это Райли. Прием.",
+            "verified": true,
             "uk": "Наглядачка Шеллі? Це Райлі. Прийом."
         },
         {
@@ -115,8 +115,8 @@
             "en": "Uh, yeah, actually. I think a… ghost of a dead relative is… trying to warn you.",
             "ru_native": "Вообще-то да. Мне кажется... вас хочет предупредить... призрак умершего родственника.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Вообще-то да. Мне кажется… вас хочет предупредить… призрак умершего родственника.",
+            "verified": true,
             "uk": "Насправді так. Здається… привид померлого родича… намагається попередити тебе."
         },
         {
@@ -124,8 +124,8 @@
             "en": "So… if you have an uncle that served on the Kanaloa…",
             "ru_native": "Так что... если у вас есть дядя, который служил на «Каналоа»...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Так что… если у вас есть дядя, который служил на «Каналоа»…",
+            "verified": true,
             "uk": "Тож… якщо в тебе є дядько, який служив на човні «Каналоа»…"
         },
         {
@@ -133,8 +133,8 @@
             "en": "Maybe think about not leaving your station for the rest of the night. Over.",
             "ru_native": "Возможно, вам до утра лучше не покидать станцию. Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Возможно, вам до утра лучше не покидать станцию. Прием.",
+            "verified": true,
             "uk": "Можливо краще залишитися на станції до ранку. Прийом."
         },
         {
@@ -151,8 +151,8 @@
             "en": "We got some sort of a warning. And I think it was directed at you, so…",
             "ru_native": "Мы получили предупреждение. И, думаю, оно предназначалось вам, так что...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Мы получили что-то вроде предупреждения. И, думаю, оно предназначалось вам, так что…",
+            "verified": true,
             "uk": "Ми отримали попередження. І, гадаю, воно призначалося тобі, тож…"
         },
         {
@@ -160,8 +160,8 @@
             "en": "I think a… ghost of a dead relative is… trying to warn you. We… just had a bit of a conversation.",
             "ru_native": "По-моему... вас хочет предупредить... призрак умершего родственника.<br>Мы только что... говорили.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Мне кажется… вас хочет предупредить… призрак умершего родственника. Мы… поговорили чуток сейчас.",
+            "verified": true,
             "uk": "Здається… це попередження… від привида померлого родича. Ми щойно… розмовляли."
         },
         {
@@ -169,8 +169,8 @@
             "en": "So… we tuned a portal out of a deer’s head. Uh, bear with me.",
             "ru_native": "В общем... мы настроили портал из головы оленя. Дослушайте.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "В общем… мы настроили портал из головы оленя. Дослушайте.",
+            "verified": true,
             "uk": ""
         },
         {
@@ -178,8 +178,8 @@
             "en": "We got some sort of a warning. And I think it was directed at you, so...",
             "ru_native": "Мы получили предупреждение. И, думаю, оно предназначалось вам, так что...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Мы получили что-то вроде предупреждения. И, думаю, оно предназначалось вам, так что…",
+            "verified": true,
             "uk": "Ми отримали попередження. І, гадаю, воно призначалося тобі, тож…"
         },
         {
@@ -187,8 +187,8 @@
             "en": "Don’t go, Shelley. Seriously. It’s not worth the risk. I’d listen to it. Over.",
             "ru_native": "Не ходите, Шелли. Серьезно. Лучше не рисковать. я бы прислушалась. Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Не ходите, Шелли. Серьезно. Лучше не рисковать. Я бы прислушалась. Прием.",
+            "verified": true,
             "uk": "Не йди, Шеллі. Серйозно. Краще не ризикувати. Я б прислухалася. Прийом."
         },
         {
@@ -196,8 +196,8 @@
             "en": "Go, Shelley, it’ll be okay. I don’t know if I would trust a ghost’s advice, anyway. Over.",
             "ru_native": "Идите, Шелли, все будет в порядке. Не знаю, стоит ли верить советам призрака. Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Идите, Шелли, все будет в порядке. Не знаю, стоит ли верить советам призрака. Прием.",
+            "verified": true,
             "uk": "Йди, Шеллі, усе буде гаразд. Не знаю, чи варто вірити порадам привида. Прийом."
         },
         {
@@ -205,8 +205,8 @@
             "en": "Uh, yeah, actually. We tuned a portal out of a, uh, floating triangle. But, uh, more importantly…",
             "ru_native": "Вообще-то да. Мы настроили портал из, эм,<br>парящего в небе треугольника. Но, что важнее...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Вообще-то да. Мы настроили портал из, эм, парящего в небе треугольника. Но, что важнее…",
+            "verified": true,
             "uk": "Мгм, насправді… Ми налаштували портал із плаваючого трикутника. Але, що важливіше…"
         },
         {
@@ -214,8 +214,8 @@
             "en": "Long story shrunk, we got a weird phone call and uh…",
             "ru_native": "",
             "ru_machine": "D/ Длинная история сократилась, нам поступил странный телефонный звонок, и э...",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Короче говоря, к нам поступил странный телефонный звонок, и эм…",
+            "verified": true,
             "uk": "Якщо коротко, був дивний телефонний дзвінок та ем…"
         },
         {
@@ -223,8 +223,8 @@
             "en": "We got some sort of a warning. And I think it was directed at you, so...",
             "ru_native": "Мы получили предупреждение. И, думаю, оно предназначалось вам, так что...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Мы получили что-то вроде предупреждения. И, думаю, оно предназначалось вам, так что…",
+            "verified": true,
             "uk": "Ми отримали попередження. І, гадаю, воно призначалося тобі, тож…"
         },
         {
@@ -232,8 +232,8 @@
             "en": "Maybe think about not leaving your station for the rest of the night. Over.",
             "ru_native": "Возможно, вам до утра лучше не покидать станцию. Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Возможно, вам до утра лучше не покидать станцию. Прием.",
+            "verified": true,
             "uk": "Можливо краще залишитися на станції до ранку. Прийом."
         },
         {
@@ -241,8 +241,8 @@
             "en": "We got some sort of a warning. And I think it was directed at you, so...",
             "ru_native": "",
             "ru_machine": "D/ Мы получили что-то вроде предупреждения. И я думаю, что оно было направлено на тебя, так что...",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Мы получили что-то вроде предупреждения. И, думаю, оно предназначалось вам, так что…",
+            "verified": true,
             "uk": "Ми отримали попередження. І, гадаю, воно призначалося тобі, тож…"
         },
         {
@@ -250,8 +250,8 @@
             "en": "Maybe think about not leaving your station for the rest of the night. Over.",
             "ru_native": "",
             "ru_machine": "D/ Возможно, подумай о том, чтобы не покидать свой участок до конца ночи. Прием.",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Возможно, вам до утра лучше не покидать станцию. Прием.",
+            "verified": true,
             "uk": "Можливо краще залишитися на станції до ранку. Прийом."
         },
         {
@@ -259,8 +259,8 @@
             "en": "Riley, hey.",
             "ru_native": "Райли, привет.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Райли, привет.",
+            "verified": true,
             "uk": "Райлі, привіт."
         },
         {
@@ -268,8 +268,8 @@
             "en": "Find out anything about that answering machine message I got?",
             "ru_native": "Выяснила что-нибудь про то сообщение мне на автоответчик?",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Выяснила что-нибудь про то сообщение мне на автоответчик?",
+            "verified": true,
             "uk": "З’ясувала щось про те повідомлення з автовіповідача?"
         },
         {
@@ -277,8 +277,8 @@
             "en": "Over.",
             "ru_native": "Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Прием.",
+            "verified": true,
             "uk": "Прийом."
         },
         {
@@ -286,8 +286,8 @@
             "en": "I… do. I—yeah, I have a… great uncle. He was, uh, sonar. I think.",
             "ru_native": "Да... у меня есть двоюродный дядя. Он был, эм, гидроакустиком. По-моему.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "У меня… есть. Да, у меня есть двоюродный дядя. Он был, эм, гидроакустиком. По-моему.",
+            "verified": true,
             "uk": "Так… у мене є двоюрідний дядько. Він був, ем, гідроакустиком. Здається."
         },
         {
@@ -295,8 +295,8 @@
             "en": "[WT] You… tuned a portal out of a deer’s head… and it warned you to warn… me.",
             "ru_native": "Вы... настроили портал из головы оленя... и он передал вам предупредить... меня.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Вы… настроили портал из головы оленя… и он передал вам предупредить… меня.",
+            "verified": true,
             "uk": ""
         },
         {
@@ -304,8 +304,8 @@
             "en": "Well, what is the reason you called?",
             "ru_native": "Ты мне для этого позвонила?",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Ты мне для этого позвонила?",
+            "verified": true,
             "uk": "Для цього ти зі мною зв’язалася?"
         },
         {
@@ -313,8 +313,8 @@
             "en": "Riley, hey. What’s going on?",
             "ru_native": "Райли, привет. Как дела.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Райли, привет. Как дела?",
+            "verified": true,
             "uk": "Райлі, привіт. Як справи?"
         },
         {
@@ -322,8 +322,8 @@
             "en": "Over.",
             "ru_native": "Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Прием.",
+            "verified": true,
             "uk": "Прийом."
         },
         {
@@ -331,8 +331,8 @@
             "en": "Well, what is the reason you called?",
             "ru_native": "Ты мне для этого позвонила?",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Ты мне для этого позвонила?",
+            "verified": true,
             "uk": "Для цього ти зі мною зв’язалася?"
         },
         {
@@ -340,8 +340,8 @@
             "en": "Well… crud.",
             "ru_native": "Что ж... фигово.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Что ж… фигово.",
+            "verified": true,
             "uk": "Ну… це паскудство."
         },
         {
@@ -349,8 +349,8 @@
             "en": "It said I shouldn’t leave the station anymore? I was just about to… [sigh]",
             "ru_native": "Значит, я не должна покидать станцию? Но я только собиралась...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Он сказал, что я должна покидать станцию? Но я только собиралась…",
+            "verified": true,
             "uk": "Значить, я не маю покидати станцію? Але я щойно збиралася…"
         },
         {
@@ -358,8 +358,8 @@
             "en": "I was just about to go do a check on another distress call.",
             "ru_native": "Я только собиралась проверить еще один сигнал.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Я только собиралась проверить еще один сигнал бедствия.",
+            "verified": true,
             "uk": "Я тільки-но збиралася перевірити ще один сигнал."
         },
         {
@@ -367,8 +367,8 @@
             "en": "Do you… do you not think I should go?",
             "ru_native": "Как думаешь... мне стоит пойти?",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Как думаешь… мне стоит пойти?",
+            "verified": true,
             "uk": "Як гадаєш… мені варто піти?"
         },
         {
@@ -376,8 +376,8 @@
             "en": "I sound stupid just asking…",
             "ru_native": "Глупый вопрос, конечно...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Глупый вопрос, конечно…",
+            "verified": true,
             "uk": "Дурне питання, звичайно…"
         },
         {
@@ -385,8 +385,8 @@
             "en": "But…",
             "ru_native": "Но...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Но…",
+            "verified": true,
             "uk": "Але…"
         },
         {
@@ -394,8 +394,8 @@
             "en": "I don’t know.",
             "ru_native": "Не знаю.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Не знаю.",
+            "verified": true,
             "uk": "Не знаю."
         },
         {
@@ -403,8 +403,8 @@
             "en": "Over.",
             "ru_native": "Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Прием.",
+            "verified": true,
             "uk": "Прийом."
         },
         {
@@ -412,8 +412,8 @@
             "en": "[big sigh] This is… so dumb, but okay, sure. Sure, fine. Fine. I’m… I’ll stay put.",
             "ru_native": "Это… так тупо, но ладно. Хорошо. Я… Я останусь.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "[сильно вздыхает] Это… так тупо, но ладно. Ладно, хорошо. Хорошо. Я… Я останусь.",
+            "verified": true,
             "uk": "[сильно зітхає] Це… так тупо, але гаразд. Добре. Я… Я залишусь."
         },
         {
@@ -421,8 +421,8 @@
             "en": "I can radio in some support from other stations, see if they can cover.",
             "ru_native": "Я могу связаться по рации с другими станциями и узнать, не может ли кто помочь.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Я могу связаться по рации с другими станциями и узнать, не может ли кто помочь.",
+            "verified": true,
             "uk": "Я можу зв’язатися по рації з іншими станціями й<br>дізнатися, чи може хтось допомогти."
         },
         {
@@ -430,8 +430,8 @@
             "en": "Ugh. I hope this isn’t some… I just hope this is something real.",
             "ru_native": "Уф. Надеюсь, это не... Надеюсь, это не выдумка.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Уф. Надеюсь, это не… Надеюсь, это не выдумка.",
+            "verified": true,
             "uk": "Уф. Сподіваюся, це не… Сподіваюся, це не вигадка."
         },
         {
@@ -439,8 +439,8 @@
             "en": "Okay, Riley. Radio if you need anything. And thanks… for this. Over and out.",
             "ru_native": "Ладно, Райли. Если что-то понадобится, вызывай. И спасибо... за это. Конец связи.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Ладно, Райли. Если что-то понадобится, вызывай. И спасибо… за это. Конец связи.",
+            "verified": true,
             "uk": "Гаразд, Райлі. Якщо щось знадобиться, викликай. І дякую… за це. Кінець зв’язку."
         },
         {
@@ -448,8 +448,8 @@
             "en": "[big sigh; laughs a little] Okay. Yeah. God, I wish you hadn't even said anything, now.",
             "ru_native": "Ладно. Да. Боже, лучше бы ты мне ничего не говорила.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "[сильно вздыхает; немного смеется] Ладно. Да. Боже, лучше бы ты мне ничего не говорила.",
+            "verified": true,
             "uk": "[сильно зітхає; трохи сміється] Гаразд. Так.<br>Господи, краще б ти нічого не говорила."
         },
         {
@@ -457,8 +457,8 @@
             "en": "Okay, Riley. Radio if you need anything. And thanks… for this.",
             "ru_native": "Ладно, Райли. Если что-то понадобится, вызывай. И спасибо... за это.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Ладно, Райли. Если что-то понадобится, вызывай. И спасибо… за это.",
+            "verified": true,
             "uk": "Гаразд, Райлі. Якщо щось знадобиться, викликай. І дякую… за це."
         },
         {
@@ -466,8 +466,8 @@
             "en": "Just for letting me know. Alright, over and out.",
             "ru_native": "Спасибо, что сказала. Ладно, конец связи.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Спасибо, что сказала. Ладно, конец связи.",
+            "verified": true,
             "uk": "Дякую, що повідомила. Гаразд, кінець зв’язку."
         },
         {
@@ -475,8 +475,8 @@
             "en": "You know, just… forget it. I’m going to pretend I never heard any of this.",
             "ru_native": "Знаешь, просто... забудь. Я притворюсь, что ничего не слышала.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Знаешь, просто… забудь. Я притворюсь, что ничего не слышала.",
+            "verified": true,
             "uk": "Знаєш, просто… облиш це. Я вдам, що нічого не чула."
         },
         {
@@ -484,8 +484,8 @@
             "en": "Call if you need anything. I’m going out to the call. Over and out.",
             "ru_native": "Если что, звони. Я на вызов. Конец связи.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Если что, звони. Меня вызывают. Конец связи.",
+            "verified": true,
             "uk": "Якщо щось знадобиться, викликай. Кінець зв’язку."
         }
     ]

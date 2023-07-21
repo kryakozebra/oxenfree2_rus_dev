@@ -16,8 +16,8 @@
             "en": "When I have the time.",
             "ru_native": "Когда будет время.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Когда будет время.",
+            "verified": true,
             "uk": "Коли матиму час."
         },
         {
@@ -25,8 +25,8 @@
             "en": "Last favor, Hank.",
             "ru_native": "Последний раз, Хэнк.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Последний раз, Хэнк.",
+            "verified": true,
             "uk": "Це востаннє, Хенку."
         },
         {
@@ -34,8 +34,8 @@
             "en": "That sounds—that sounds like it could work.",
             "ru_native": "Звучит интересно. Может сработать.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Звучит интересно. Может сработать.",
+            "verified": true,
             "uk": "Може і так. Може це спрацює."
         },
         {
@@ -43,8 +43,8 @@
             "en": "Could you drop it off at one of my portable lockboxes at your earliest convenience?",
             "ru_native": "Можешь положить ее в один из моих переносных ящичков, когда тебе будет удобно?",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Можете положить ее в один из моих переносных ящичков, когда вам будет удобно?",
+            "verified": true,
             "uk": "Можеш покласти його в одну з моїх спеціальних<br>скриньок, коли тобі буде зручно?"
         },
         {
@@ -52,8 +52,8 @@
             "en": "The closest to you would be… the Garland Post Office. It’s upstairs, on your left.",
             "ru_native": "Ближайший должен быть... в почтовом отделении Гарленда. Вверх по лестнице и налево.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Ближайший должен быть… в почтовом отделении Гарленда. Вверх по лестнице и налево.",
+            "verified": true,
             "uk": "Найближчою до тебе має бути та… що в поштовому відділенні Гарленда.<br>Вгору сходами й ліворуч."
         },
         {
@@ -61,8 +61,8 @@
             "en": "Just place it inside…",
             "ru_native": "Просто положи ее внутрь...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Просто положите ее внутрь…",
+            "verified": true,
             "uk": "Просто поклади його в скриньку…"
         },
         {
@@ -70,8 +70,8 @@
             "en": "…close the door…",
             "ru_native": "...закрой дверь...",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "…закройте дверь…",
+            "verified": true,
             "uk": "…закрий дверцята…"
         },
         {
@@ -79,8 +79,8 @@
             "en": "…and give me a call.",
             "ru_native": "...и позвони мне.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "…и позвоните мне.",
+            "verified": true,
             "uk": "…і зв’яжися зі мною."
         },
         {
@@ -88,8 +88,8 @@
             "en": "Please. Before the night is over. You never know what could happen between now and then.",
             "ru_native": "Пожалуйста. До утра. А то мало ли что может случиться.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Пожалуйста. Пока ночь. А то мало ли что может случиться.",
+            "verified": true,
             "uk": "Будь ласка. Зроби це до ранку. А то хтозна, що може статися."
         },
         {
@@ -97,8 +97,8 @@
             "en": "Thanking you in advance… Over and out.",
             "ru_native": "Заранее спасибо... Конец связи.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Заранее спасибо... Конец связи.",
+            "verified": true,
             "uk": "Дякую заздалегідь… Кінець зв’язку."
         },
         {
@@ -106,8 +106,8 @@
             "en": "Understood.",
             "ru_native": "Понятно.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Понятно.",
+            "verified": true,
             "uk": "Зрозуміло."
         },
         {
@@ -115,8 +115,8 @@
             "en": "A… shoe that belonged to a little boy that died years ago. It glitched into a cave.",
             "ru_native": "Это... ботинок маленького мальчика, который умер много лет назад. Она упала в пещеру.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Это… ботинок маленького мальчика, который умер много лет назад. Он переместился в пещеру.",
+            "verified": true,
             "uk": "Це… черевик маленького хлопчика, який помер<br>багато років тому. Він зник у печері."
         },
         {
@@ -124,8 +124,8 @@
             "en": "Maybe you can… analyze it or something? Over.",
             "ru_native": "Может, ты сделаешь... анализ или типа того? Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Может, вы сделаете… анализ или типа того? Прием.",
+            "verified": true,
             "uk": "Може ти зробиш… якийсь аналіз чи щось того типу? Прийом."
         },
         {
@@ -133,8 +133,8 @@
             "en": "Ugh, s-sure. When I have the time. Over.",
             "ru_native": "Да, конечно. Когда будет время. Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Да, конечно. Когда будет время. Прием.",
+            "verified": true,
             "uk": "Так, звичайно. Коли матиму час. Прийом."
         },
         {
@@ -142,8 +142,8 @@
             "en": "This is the last favor, Hank. Okay? Over.",
             "ru_native": "Это последнее одолжение, Хэнк. Идет? Прием.",
             "ru_machine": "",
-            "ru_final": "",
-            "verified": false,
+            "ru_final": "Это последнее одолжение, Хэнк. Идет? Прием.",
+            "verified": true,
             "uk": "Це остання послуга, Хенку. Добре? Прийом."
         }
     ]
