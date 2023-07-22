@@ -35,7 +35,7 @@ def parse_args() -> Args:
         help='Oxenfree 2 directory, containing .exe, or StandaloneWindows64 subdir inside StreamingAssets')
     p.add_argument('--output-dir', type=Path, default='output/unpack_bundle/',
         help='directory where to put text table')
-    p.add_argument('--required-bundles', nargs='+', type=Path, default=[
+    p.add_argument('--required-bundles', nargs='+', default=[
         'dialogue_packages_assets_all',
         'loc_packages_assets_',
     ], help='.bundle files to be unpacked; if none - unpack everything')
@@ -77,6 +77,7 @@ def file_is_valid_bundle(filename: Path, bundles: List[str]) -> bool:
         return False
     if not bundles:
         return True
+    logger.debug(f'-- name: {name} / bundles: {bundles}')
     return name in bundles
 
 
